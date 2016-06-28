@@ -2,13 +2,14 @@
   "id": 152801717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.571493,33.223434,-87.571493,33.223434",
     "geom:latitude":33.223434,
     "geom:longitude":-87.571493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1314 10th St",
     "sg:city":"Northport",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805585,
+        85688675,
         85633793,
         85914425,
         102085553,
-        85688675
+        85805585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152801717,
-    "wof:lastmodified":1449048103,
+    "wof:lastmodified":1466319806,
     "wof:name":"Lorenzo Freeman Electrical",
     "wof:parent_id":85805585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.571493,33.223434,-87.571493,33.223434],
+  "bbox": [
+    -87.571493,
+    33.223434,
+    -87.571493,
+    33.223434
+],
   "geometry": {"coordinates":[-87.571493,33.223434],"type":"Point"}
 }

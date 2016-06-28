@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102498279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.248967,32.412664,-86.248967,32.412664",
     "geom:latitude":32.412664,
     "geom:longitude":-86.248967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1110 John Overton Dr",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827567,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85827567
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102498279,
-    "wof:lastmodified":1449069608,
+    "wof:lastmodified":1466316406,
     "wof:name":"Wilkins & Associates Inc",
     "wof:parent_id":85827567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.248967,32.412664,-86.248967,32.412664],
-  "geometry": {"coordinates":[-86.248967,32.412664],"type":"Point"}
+  "bbox": [
+    -86.248967,
+    32.412664,
+    -86.248967,
+    32.412664
+],
+  "geometry": {"coordinates":[-86.24896699999999,32.412664],"type":"Point"}
 }

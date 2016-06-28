@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102447935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.241107,32.361483,-86.241107,32.361483",
     "geom:latitude":32.361483,
     "geom:longitude":-86.241107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Interstate Park Dr",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.caci.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879047,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102447935,
-    "wof:lastmodified":1449069495,
+    "wof:lastmodified":1466314595,
     "wof:name":"CACI Inc",
     "wof:parent_id":85879047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.241107,32.361483,-86.241107,32.361483],
+  "bbox": [
+    -86.241107,
+    32.361483,
+    -86.241107,
+    32.361483
+],
   "geometry": {"coordinates":[-86.241107,32.361483],"type":"Point"}
 }

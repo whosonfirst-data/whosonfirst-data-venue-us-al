@@ -2,13 +2,14 @@
   "id": 152871297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.841606,33.222029,-86.841606,33.222029",
     "geom:latitude":33.222029,
     "geom:longitude":-86.841606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1550 Caribbean Cir",
     "sg:city":"Alabaster",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85839361,
+        85688675,
         85633793,
         85914487,
         102085499,
-        85688675
+        85839361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152871297,
-    "wof:lastmodified":1449045826,
+    "wof:lastmodified":1466320193,
     "wof:name":"Country Log Homes Inc",
     "wof:parent_id":85839361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.841606,33.222029,-86.841606,33.222029],
+  "bbox": [
+    -86.841606,
+    33.222029,
+    -86.841606,
+    33.222029
+],
   "geometry": {"coordinates":[-86.841606,33.222029],"type":"Point"}
 }

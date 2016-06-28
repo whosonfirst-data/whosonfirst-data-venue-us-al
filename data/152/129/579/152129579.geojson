@@ -2,13 +2,14 @@
   "id": 152129579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.842758,34.17909,-86.842758,34.17909",
     "geom:latitude":34.17909,
     "geom:longitude":-86.842758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 2nd Ave NE",
     "sg:city":"Cullman",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867305,
+        85688675,
         85633793,
         85914167,
         102085729,
-        85688675
+        85867305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152129579,
-    "wof:lastmodified":1449048031,
+    "wof:lastmodified":1466314909,
     "wof:name":"Joe Shaver Realty Inc",
     "wof:parent_id":85867305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.842758,34.17909,-86.842758,34.17909],
+  "bbox": [
+    -86.842758,
+    34.17909,
+    -86.842758,
+    34.17909
+],
   "geometry": {"coordinates":[-86.842758,34.17909],"type":"Point"}
 }

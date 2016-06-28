@@ -2,13 +2,14 @@
   "id": 152539891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.872317,33.692878,-85.872317,33.692878",
     "geom:latitude":33.692878,
     "geom:longitude":-85.872317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2606 Parkwood Dr",
     "sg:city":"Anniston",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840061,
+        85688675,
         85633793,
         85914281,
         102085603,
-        85688675
+        85840061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152539891,
-    "wof:lastmodified":1449048988,
+    "wof:lastmodified":1466318698,
     "wof:name":"Strickland Auto Repair",
     "wof:parent_id":85840061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.872317,33.692878,-85.872317,33.692878],
+  "bbox": [
+    -85.872317,
+    33.692878,
+    -85.872317,
+    33.692878
+],
   "geometry": {"coordinates":[-85.872317,33.692878],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152458611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.188521,30.640221,-88.188521,30.640221",
     "geom:latitude":30.640221,
     "geom:longitude":-88.188521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6353 Cottage Hill Rd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152458611,
-    "wof:lastmodified":1449047586,
+    "wof:lastmodified":1466318232,
     "wof:name":"Hungry Howie's Pizza & Subs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.188521,30.640221,-88.188521,30.640221],
-  "geometry": {"coordinates":[-88.188521,30.640221],"type":"Point"}
+  "bbox": [
+    -88.188521,
+    30.640221,
+    -88.188521,
+    30.640221
+],
+  "geometry": {"coordinates":[-88.18852099999999,30.640221],"type":"Point"}
 }

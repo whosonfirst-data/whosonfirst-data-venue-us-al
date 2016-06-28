@@ -2,13 +2,14 @@
   "id": 152891759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.84026,33.24171,-86.84026,33.24171",
     "geom:latitude":33.24171,
     "geom:longitude":-86.84026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Newgate Rd",
     "sg:city":"Alabaster",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847439,
+        85688675,
         85633793,
         85914487,
         102085499,
-        85688675
+        85847439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152891759,
-    "wof:lastmodified":1449047085,
+    "wof:lastmodified":1466320309,
     "wof:name":"Jbj Construction",
     "wof:parent_id":85847439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.84026,33.24171,-86.84026,33.24171],
+  "bbox": [
+    -86.84026,
+    33.24171,
+    -86.84026,
+    33.24171
+],
   "geometry": {"coordinates":[-86.84026,33.24171],"type":"Point"}
 }

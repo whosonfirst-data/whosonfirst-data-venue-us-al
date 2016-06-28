@@ -2,13 +2,14 @@
   "id": 152585915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.397157,32.638906,-85.397157,32.638906",
     "geom:latitude":32.638906,
     "geom:longitude":-85.397157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1720 Pepperell Pkwy",
     "sg:city":"Opelika",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819517,
+        85688675,
         85633793,
         85913815,
         102085751,
-        85688675
+        85819517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152585915,
-    "wof:lastmodified":1449047377,
+    "wof:lastmodified":1466318798,
     "wof:name":"Professional Car Care Inc",
     "wof:parent_id":85819517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.397157,32.638906,-85.397157,32.638906],
-  "geometry": {"coordinates":[-85.397157,32.638906],"type":"Point"}
+  "bbox": [
+    -85.397157,
+    32.638906,
+    -85.397157,
+    32.638906
+],
+  "geometry": {"coordinates":[-85.39715700000001,32.638906],"type":"Point"}
 }

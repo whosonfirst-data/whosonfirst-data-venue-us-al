@@ -2,13 +2,14 @@
   "id": 152398519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.706392,33.525077,-86.706392,33.525077",
     "geom:latitude":33.525077,
     "geom:longitude":-86.706392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5137 Scenic View Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850695,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85850695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152398519,
-    "wof:lastmodified":1449044676,
+    "wof:lastmodified":1466317845,
     "wof:name":"Arat Designs",
     "wof:parent_id":85850695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.706392,33.525077,-86.706392,33.525077],
-  "geometry": {"coordinates":[-86.706392,33.525077],"type":"Point"}
+  "bbox": [
+    -86.706392,
+    33.525077,
+    -86.706392,
+    33.525077
+],
+  "geometry": {"coordinates":[-86.70639199999999,33.525077],"type":"Point"}
 }

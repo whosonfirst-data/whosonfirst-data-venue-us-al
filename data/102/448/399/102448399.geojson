@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102448399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.768609,33.376319,-86.768609,33.376319",
     "geom:latitude":33.376319,
     "geom:longitude":-86.768609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4601 Southlake Pkwy",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85858213
+        85633793,
+        85858213,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102448399,
-    "wof:lastmodified":1449070089,
+    "wof:lastmodified":1466314574,
     "wof:name":"Decorator Depot",
     "wof:parent_id":85858213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.768609,33.376319,-86.768609,33.376319],
+  "bbox": [
+    -86.768609,
+    33.376319,
+    -86.768609,
+    33.376319
+],
   "geometry": {"coordinates":[-86.768609,33.376319],"type":"Point"}
 }

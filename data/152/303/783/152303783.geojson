@@ -2,13 +2,14 @@
   "id": 152303783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.0413,34.666101,-86.0413,34.666101",
     "geom:latitude":34.666101,
     "geom:longitude":-86.0413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 Jefferson Dr",
     "sg:city":"Scottsboro",
     "sg:classifiers":[
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":152303783,
-    "wof:lastmodified":1449044337,
+    "wof:lastmodified":1466317238,
     "wof:name":"Scottsboro Dialysis Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.0413,34.666101,-86.0413,34.666101],
-  "geometry": {"coordinates":[-86.0413,34.666101],"type":"Point"}
+  "bbox": [
+    -86.0413,
+    34.666101,
+    -86.0413,
+    34.666101
+],
+  "geometry": {"coordinates":[-86.04130000000001,34.666101],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102469343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.206701,32.399097,-86.206701,32.399097",
     "geom:latitude":32.399097,
     "geom:longitude":-86.206701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"712 Oliver Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.maconengineering.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834995,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85834995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102469343,
-    "wof:lastmodified":1449070270,
+    "wof:lastmodified":1466315203,
     "wof:name":"Macon Engineering & Land",
     "wof:parent_id":85834995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.206701,32.399097,-86.206701,32.399097],
+  "bbox": [
+    -86.206701,
+    32.399097,
+    -86.206701,
+    32.399097
+],
   "geometry": {"coordinates":[-86.206701,32.399097],"type":"Point"}
 }

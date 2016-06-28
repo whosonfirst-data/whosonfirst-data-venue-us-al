@@ -2,13 +2,14 @@
   "id": 102606351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.778058,33.646208,-85.778058,33.646208",
     "geom:latitude":33.646208,
     "geom:longitude":-85.778058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 Bedford Dr",
     "sg:city":"Anniston",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822163,
+        85688675,
         85633793,
         85914281,
         102085603,
-        85688675
+        85822163
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102606351,
-    "wof:lastmodified":1449068176,
+    "wof:lastmodified":1466317358,
     "wof:name":"Hasha",
     "wof:parent_id":85822163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.778058,33.646208,-85.778058,33.646208],
+  "bbox": [
+    -85.778058,
+    33.646208,
+    -85.778058,
+    33.646208
+],
   "geometry": {"coordinates":[-85.778058,33.646208],"type":"Point"}
 }

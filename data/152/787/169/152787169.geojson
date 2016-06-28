@@ -2,13 +2,14 @@
   "id": 152787169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.824444,33.804055,-85.824444,33.804055",
     "geom:latitude":33.804055,
     "geom:longitude":-85.824444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"889 Old Broadwell Mill Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805945,
+        85688675,
         85633793,
         85914293,
         102085603,
-        85688675
+        85805945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152787169,
-    "wof:lastmodified":1449046403,
+    "wof:lastmodified":1466319762,
     "wof:name":"Keith Bryant",
     "wof:parent_id":85805945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.824444,33.804055,-85.824444,33.804055],
+  "bbox": [
+    -85.824444,
+    33.804055,
+    -85.824444,
+    33.804055
+],
   "geometry": {"coordinates":[-85.824444,33.804055],"type":"Point"}
 }

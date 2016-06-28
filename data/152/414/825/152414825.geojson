@@ -2,13 +2,14 @@
   "id": 152414825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.981948,34.607258,-86.981948,34.607258",
     "geom:latitude":34.607258,
     "geom:longitude":-86.981948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Well St NE",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152414825,
-    "wof:lastmodified":1449046465,
+    "wof:lastmodified":1466317935,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.981948,34.607258,-86.981948,34.607258],
+  "bbox": [
+    -86.981948,
+    34.607258,
+    -86.981948,
+    34.607258
+],
   "geometry": {"coordinates":[-86.981948,34.607258],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102520907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.280696,32.374097,-86.280696,32.374097",
     "geom:latitude":32.374097,
     "geom:longitude":-86.280696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Arthur St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809389,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85809389
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102520907,
-    "wof:lastmodified":1449068591,
+    "wof:lastmodified":1466317250,
     "wof:name":"Durand D Seay",
     "wof:parent_id":85809389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.280696,32.374097,-86.280696,32.374097],
-  "geometry": {"coordinates":[-86.280696,32.374097],"type":"Point"}
+  "bbox": [
+    -86.280696,
+    32.374097,
+    -86.280696,
+    32.374097
+],
+  "geometry": {"coordinates":[-86.28069600000001,32.374097],"type":"Point"}
 }

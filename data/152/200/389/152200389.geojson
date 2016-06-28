@@ -2,13 +2,14 @@
   "id": 152200389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.39557,32.394513,-87.39557,32.394513",
     "geom:latitude":32.394513,
     "geom:longitude":-87.39557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15193 Co Rd 21",
     "sg:city":"Marion Junction",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152200389,
-    "wof:lastmodified":1449046159,
+    "wof:lastmodified":1466315928,
     "wof:name":"Wilson Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.39557,32.394513,-87.39557,32.394513],
-  "geometry": {"coordinates":[-87.39557,32.394513],"type":"Point"}
+  "bbox": [
+    -87.39557,
+    32.394513,
+    -87.39557,
+    32.394513
+],
+  "geometry": {"coordinates":[-87.39557000000001,32.394513],"type":"Point"}
 }

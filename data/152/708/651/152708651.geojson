@@ -2,13 +2,14 @@
   "id": 152708651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.838951,34.180718,-86.838951,34.180718",
     "geom:latitude":34.180718,
     "geom:longitude":-86.838951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 Clark St NE",
     "sg:city":"Cullman",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867305,
+        85688675,
         85633793,
         85914167,
         102085729,
-        85688675
+        85867305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152708651,
-    "wof:lastmodified":1449045029,
+    "wof:lastmodified":1466319401,
     "wof:name":"CPC Diagnostic Center",
     "wof:parent_id":85867305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.838951,34.180718,-86.838951,34.180718],
-  "geometry": {"coordinates":[-86.838951,34.180718],"type":"Point"}
+  "bbox": [
+    -86.838951,
+    34.180718,
+    -86.838951,
+    34.180718
+],
+  "geometry": {"coordinates":[-86.83895099999999,34.180718],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152351421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.693761,34.561785,-86.693761,34.561785",
     "geom:latitude":34.561785,
     "geom:longitude":-86.693761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Draper Rd",
     "sg:city":"Valhermoso Spgs",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822793,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85822793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152351421,
-    "wof:lastmodified":1449048223,
+    "wof:lastmodified":1466317582,
     "wof:name":"Novar Painting Co",
     "wof:parent_id":85822793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.693761,34.561785,-86.693761,34.561785],
-  "geometry": {"coordinates":[-86.693761,34.561785],"type":"Point"}
+  "bbox": [
+    -86.693761,
+    34.561785,
+    -86.693761,
+    34.561785
+],
+  "geometry": {"coordinates":[-86.69376099999999,34.561785],"type":"Point"}
 }

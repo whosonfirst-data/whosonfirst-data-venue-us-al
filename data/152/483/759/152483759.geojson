@@ -2,13 +2,14 @@
   "id": 152483759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.189229,30.677805,-88.189229,30.677805",
     "geom:latitude":30.677805,
     "geom:longitude":-88.189229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6350 Airport Blvd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858377,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85858377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152483759,
-    "wof:lastmodified":1449047937,
+    "wof:lastmodified":1466318331,
     "wof:name":"Powell & Campbell",
     "wof:parent_id":85858377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.189229,30.677805,-88.189229,30.677805],
+  "bbox": [
+    -88.189229,
+    30.677805,
+    -88.189229,
+    30.677805
+],
   "geometry": {"coordinates":[-88.189229,30.677805],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152312525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.570129,33.20394,-87.570129,33.20394",
     "geom:latitude":33.20394,
     "geom:longitude":-87.570129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2621 Paul W Bryant Dr",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813829,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85813829
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152312525,
-    "wof:lastmodified":1449046637,
+    "wof:lastmodified":1466317337,
     "wof:name":"Wells-Swain Culture Ctr",
     "wof:parent_id":85813829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.570129,33.20394,-87.570129,33.20394],
-  "geometry": {"coordinates":[-87.570129,33.20394],"type":"Point"}
+  "bbox": [
+    -87.570129,
+    33.20394,
+    -87.570129,
+    33.20394
+],
+  "geometry": {"coordinates":[-87.57012899999999,33.20394],"type":"Point"}
 }

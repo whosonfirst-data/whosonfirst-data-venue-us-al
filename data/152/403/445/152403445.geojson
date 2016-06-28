@@ -2,13 +2,14 @@
   "id": 152403445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.448304,31.226688,-85.448304,31.226688",
     "geom:latitude":31.226688,
     "geom:longitude":-85.448304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Foxchase Dr",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85846119,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85846119
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152403445,
-    "wof:lastmodified":1449048264,
+    "wof:lastmodified":1466317829,
     "wof:name":"Smith Bank Thomas",
     "wof:parent_id":85846119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.448304,31.226688,-85.448304,31.226688],
-  "geometry": {"coordinates":[-85.448304,31.226688],"type":"Point"}
+  "bbox": [
+    -85.448304,
+    31.226688,
+    -85.448304,
+    31.226688
+],
+  "geometry": {"coordinates":[-85.44830399999999,31.226688],"type":"Point"}
 }

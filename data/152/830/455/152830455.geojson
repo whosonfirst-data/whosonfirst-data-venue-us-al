@@ -2,13 +2,14 @@
   "id": 152830455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.759314,30.908309,-87.759314,30.908309",
     "geom:latitude":30.908309,
     "geom:longitude":-87.759314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46784 Rockhill Rd Exd",
     "sg:city":"Bay Minette",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813343,
+        85688675,
         85633793,
         85914703,
         102085469,
-        85688675
+        85813343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152830455,
-    "wof:lastmodified":1449045286,
+    "wof:lastmodified":1466320001,
     "wof:name":"Boy Scouts of America",
     "wof:parent_id":85813343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.759314,30.908309,-87.759314,30.908309],
+  "bbox": [
+    -87.759314,
+    30.908309,
+    -87.759314,
+    30.908309
+],
   "geometry": {"coordinates":[-87.759314,30.908309],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102525121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.844473,33.37897,-86.844473,33.37897",
     "geom:latitude":33.37897,
     "geom:longitude":-86.844473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"521 Oakline Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827189,
+        85688675,
         85633793,
         85914475,
         102085481,
-        85688675
+        85827189
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102525121,
-    "wof:lastmodified":1449069685,
+    "wof:lastmodified":1466317183,
     "wof:name":"Thomas E Dudney DMD",
     "wof:parent_id":85827189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.844473,33.37897,-86.844473,33.37897],
-  "geometry": {"coordinates":[-86.844473,33.37897],"type":"Point"}
+  "bbox": [
+    -86.844473,
+    33.37897,
+    -86.844473,
+    33.37897
+],
+  "geometry": {"coordinates":[-86.84447299999999,33.37897],"type":"Point"}
 }

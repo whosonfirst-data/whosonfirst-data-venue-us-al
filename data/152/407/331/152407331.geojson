@@ -2,13 +2,14 @@
   "id": 152407331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.20192,32.378399,-86.20192,32.378399",
     "geom:latitude":32.378399,
     "geom:longitude":-86.20192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 Mendel Pkwy E",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809571,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85809571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152407331,
-    "wof:lastmodified":1449046871,
+    "wof:lastmodified":1466318021,
     "wof:name":"Climate Control Systems",
     "wof:parent_id":85809571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.20192,32.378399,-86.20192,32.378399],
+  "bbox": [
+    -86.20192,
+    32.378399,
+    -86.20192,
+    32.378399
+],
   "geometry": {"coordinates":[-86.20192,32.378399],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152755207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.885963,30.642668,-87.885963,30.642668",
     "geom:latitude":30.642668,
     "geom:longitude":-87.885963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Stoney Cir",
     "sg:city":"Daphne",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840537,
+        85688675,
         85633793,
         85914695,
         102085469,
-        85688675
+        85840537
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152755207,
-    "wof:lastmodified":1449045607,
+    "wof:lastmodified":1466319606,
     "wof:name":"Skott Enterprises",
     "wof:parent_id":85840537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.885963,30.642668,-87.885963,30.642668],
+  "bbox": [
+    -87.885963,
+    30.642668,
+    -87.885963,
+    30.642668
+],
   "geometry": {"coordinates":[-87.885963,30.642668],"type":"Point"}
 }

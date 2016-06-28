@@ -2,13 +2,14 @@
   "id": 152739799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.985317,34.583214,-86.985317,34.583214",
     "geom:latitude":34.583214,
     "geom:longitude":-86.985317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1502 Central Pkwy SW",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.phaseiielectric.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818653,
+        85688675,
         85633793,
         85913589,
         102085531,
-        85688675
+        85818653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152739799,
-    "wof:lastmodified":1449046263,
+    "wof:lastmodified":1466319541,
     "wof:name":"Phase II Electric Inc",
     "wof:parent_id":85818653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.985317,34.583214,-86.985317,34.583214],
-  "geometry": {"coordinates":[-86.985317,34.583214],"type":"Point"}
+  "bbox": [
+    -86.985317,
+    34.583214,
+    -86.985317,
+    34.583214
+],
+  "geometry": {"coordinates":[-86.98531699999999,34.583214],"type":"Point"}
 }

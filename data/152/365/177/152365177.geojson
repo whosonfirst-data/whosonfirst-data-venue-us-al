@@ -2,13 +2,14 @@
   "id": 152365177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.746164,33.814839,-85.746164,33.814839",
     "geom:latitude":33.814839,
     "geom:longitude":-85.746164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1108 Grace St SE",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817157,
+        85688675,
         85633793,
         85914293,
         102085603,
-        85688675
+        85817157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152365177,
-    "wof:lastmodified":1449045053,
+    "wof:lastmodified":1466317778,
     "wof:name":"Toppers",
     "wof:parent_id":85817157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.746164,33.814839,-85.746164,33.814839],
-  "geometry": {"coordinates":[-85.746164,33.814839],"type":"Point"}
+  "bbox": [
+    -85.746164,
+    33.814839,
+    -85.746164,
+    33.814839
+],
+  "geometry": {"coordinates":[-85.74616399999999,33.814839],"type":"Point"}
 }

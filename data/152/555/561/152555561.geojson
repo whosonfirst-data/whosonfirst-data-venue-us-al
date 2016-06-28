@@ -2,13 +2,14 @@
   "id": 152555561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.119646,34.007172,-86.119646,34.007172",
     "geom:latitude":34.007172,
     "geom:longitude":-86.119646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1507 Crabapple St",
     "sg:city":"Attalla",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085545,
-        85633793,
         85688675,
-        85851221
+        85633793,
+        85851221,
+        102085545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152555561,
-    "wof:lastmodified":1449048261,
+    "wof:lastmodified":1466318635,
     "wof:name":"Mountainview Church",
     "wof:parent_id":85851221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.119646,34.007172,-86.119646,34.007172],
+  "bbox": [
+    -86.119646,
+    34.007172,
+    -86.119646,
+    34.007172
+],
   "geometry": {"coordinates":[-86.119646,34.007172],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102472783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.685234,34.798179,-87.685234,34.798179",
     "geom:latitude":34.798179,
     "geom:longitude":-87.685234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 W Mobile St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848857,
+        85688675,
         85633793,
         85914011,
         102085527,
-        85688675
+        85848857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102472783,
-    "wof:lastmodified":1449067982,
+    "wof:lastmodified":1466315393,
     "wof:name":"Suds R U S",
     "wof:parent_id":85848857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.685234,34.798179,-87.685234,34.798179],
-  "geometry": {"coordinates":[-87.685234,34.798179],"type":"Point"}
+  "bbox": [
+    -87.685234,
+    34.798179,
+    -87.685234,
+    34.798179
+],
+  "geometry": {"coordinates":[-87.68523399999999,34.798179],"type":"Point"}
 }

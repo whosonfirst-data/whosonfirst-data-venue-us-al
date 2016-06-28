@@ -2,13 +2,14 @@
   "id": 152395473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.822809,33.184732,-86.822809,33.184732",
     "geom:latitude":33.184732,
     "geom:longitude":-86.822809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7139 State Rte 119",
     "sg:city":"Montevallo",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85839361,
+        85688675,
         85633793,
         85914487,
         102085499,
-        85688675
+        85839361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152395473,
-    "wof:lastmodified":1449048238,
+    "wof:lastmodified":1466317841,
     "wof:name":"Coverall Pest Control",
     "wof:parent_id":85839361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.822809,33.184732,-86.822809,33.184732],
-  "geometry": {"coordinates":[-86.822809,33.184732],"type":"Point"}
+  "bbox": [
+    -86.822809,
+    33.184732,
+    -86.822809,
+    33.184732
+],
+  "geometry": {"coordinates":[-86.82280900000001,33.184732],"type":"Point"}
 }

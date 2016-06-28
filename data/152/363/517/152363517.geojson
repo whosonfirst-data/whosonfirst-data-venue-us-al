@@ -2,13 +2,14 @@
   "id": 152363517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.758854,33.536639,-86.758854,33.536639",
     "geom:latitude":33.536639,
     "geom:longitude":-86.758854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5229 1st Ave N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858829,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85858829
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152363517,
-    "wof:lastmodified":1449048361,
+    "wof:lastmodified":1466317551,
     "wof:name":"Corrosion Managers Inc",
     "wof:parent_id":85858829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.758854,33.536639,-86.758854,33.536639],
+  "bbox": [
+    -86.758854,
+    33.536639,
+    -86.758854,
+    33.536639
+],
   "geometry": {"coordinates":[-86.758854,33.536639],"type":"Point"}
 }

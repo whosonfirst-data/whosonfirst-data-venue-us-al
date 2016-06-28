@@ -2,13 +2,14 @@
   "id": 152766349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.580899,34.655134,-86.580899,34.655134",
     "geom:latitude":34.655134,
     "geom:longitude":-86.580899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7441 Clubfield Cir SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808719,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85808719
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152766349,
-    "wof:lastmodified":1449044224,
+    "wof:lastmodified":1466319666,
     "wof:name":"Bishop's Lawn Care",
     "wof:parent_id":85808719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.580899,34.655134,-86.580899,34.655134],
+  "bbox": [
+    -86.580899,
+    34.655134,
+    -86.580899,
+    34.655134
+],
   "geometry": {"coordinates":[-86.580899,34.655134],"type":"Point"}
 }

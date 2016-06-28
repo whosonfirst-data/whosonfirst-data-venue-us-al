@@ -2,13 +2,14 @@
   "id": 152374877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.578961,34.88651,-87.578961,34.88651",
     "geom:latitude":34.88651,
     "geom:longitude":-87.578961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Co Rd 324",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085527,
-        85633793,
         85688675,
-        85818845
+        85633793,
+        85818845,
+        102085527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152374877,
-    "wof:lastmodified":1449046325,
+    "wof:lastmodified":1466317741,
     "wof:name":"S&S Septic Tank Disposal",
     "wof:parent_id":85818845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.578961,34.88651,-87.578961,34.88651],
-  "geometry": {"coordinates":[-87.578961,34.88651],"type":"Point"}
+  "bbox": [
+    -87.578961,
+    34.88651,
+    -87.578961,
+    34.88651
+],
+  "geometry": {"coordinates":[-87.57896100000001,34.88651],"type":"Point"}
 }

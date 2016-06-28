@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102465779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.820101,33.508725,-86.820101,33.508725",
     "geom:latitude":33.508725,
     "geom:longitude":-86.820101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"911 2nd Ave N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.activead.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820315,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675,
+        85820315,
         85849097
     ],
     "wof:breaches":[],
@@ -60,14 +61,20 @@
         }
     ],
     "wof:id":102465779,
-    "wof:lastmodified":1449069406,
+    "wof:lastmodified":1466315162,
     "wof:name":"Active Ad Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.820101,33.508725,-86.820101,33.508725],
-  "geometry": {"coordinates":[-86.820101,33.508725],"type":"Point"}
+  "bbox": [
+    -86.820101,
+    33.508725,
+    -86.820101,
+    33.508725
+],
+  "geometry": {"coordinates":[-86.82010099999999,33.508725],"type":"Point"}
 }

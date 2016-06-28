@@ -2,13 +2,14 @@
   "id": 152434691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.750822,30.538282,-87.750822,30.538282",
     "geom:latitude":30.538282,
     "geom:longitude":-87.750822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21287 Co Rd 55",
     "sg:city":"Silverhill",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854025,
+        85688675,
         85633793,
         85914707,
         102085469,
-        85688675
+        85854025
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152434691,
-    "wof:lastmodified":1449045302,
+    "wof:lastmodified":1466317997,
     "wof:name":"York Home Improvements",
     "wof:parent_id":85854025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.750822,30.538282,-87.750822,30.538282],
+  "bbox": [
+    -87.750822,
+    30.538282,
+    -87.750822,
+    30.538282
+],
   "geometry": {"coordinates":[-87.750822,30.538282],"type":"Point"}
 }

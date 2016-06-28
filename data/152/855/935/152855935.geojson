@@ -2,13 +2,14 @@
   "id": 152855935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.627056,34.713442,-86.627056,34.713442",
     "geom:latitude":34.713442,
     "geom:longitude":-86.627056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2212 Jordan Ln SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.jordanpark.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856995,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85856995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152855935,
-    "wof:lastmodified":1449047711,
+    "wof:lastmodified":1466320147,
     "wof:name":"Jordan Park Church Of Christ",
     "wof:parent_id":85856995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.627056,34.713442,-86.627056,34.713442],
+  "bbox": [
+    -86.627056,
+    34.713442,
+    -86.627056,
+    34.713442
+],
   "geometry": {"coordinates":[-86.627056,34.713442],"type":"Point"}
 }

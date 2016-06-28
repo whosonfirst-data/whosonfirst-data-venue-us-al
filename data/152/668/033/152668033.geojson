@@ -2,13 +2,14 @@
   "id": 152668033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.683501,34.713173,-86.683501,34.713173",
     "geom:latitude":34.713173,
     "geom:longitude":-86.683501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7057 Old Madison Pike NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831889,
+        85688675,
         85633793,
         85913593,
         102085487,
-        85688675
+        85831889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152668033,
-    "wof:lastmodified":1449047519,
+    "wof:lastmodified":1466319168,
     "wof:name":"Time Domain Corporation",
     "wof:parent_id":85831889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.683501,34.713173,-86.683501,34.713173],
-  "geometry": {"coordinates":[-86.683501,34.713173],"type":"Point"}
+  "bbox": [
+    -86.683501,
+    34.713173,
+    -86.683501,
+    34.713173
+],
+  "geometry": {"coordinates":[-86.68350100000001,34.713173],"type":"Point"}
 }

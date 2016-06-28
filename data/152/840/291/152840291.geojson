@@ -2,13 +2,14 @@
   "id": 152840291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.853142,34.524875,-85.853142,34.524875",
     "geom:latitude":34.524875,
     "geom:longitude":-85.853142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2259 Rainbow Ave NW",
     "sg:city":"Rainsville",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152840291,
-    "wof:lastmodified":1449047873,
+    "wof:lastmodified":1466320051,
     "wof:name":"B & H Golf Cart Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.853142,34.524875,-85.853142,34.524875],
-  "geometry": {"coordinates":[-85.853142,34.524875],"type":"Point"}
+  "bbox": [
+    -85.853142,
+    34.524875,
+    -85.853142,
+    34.524875
+],
+  "geometry": {"coordinates":[-85.85314200000001,34.524875],"type":"Point"}
 }

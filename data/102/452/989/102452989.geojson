@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102452989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.791412,33.336506,-86.791412,33.336506",
     "geom:latitude":33.336506,
     "geom:longitude":-86.791412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2163 Pelham Pkwy",
     "sg:city":"Pelham",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.smythadvertising.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85826867,
+        85688675,
         85633793,
         85914501,
         102085499,
-        85688675
+        85826867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102452989,
-    "wof:lastmodified":1449068368,
+    "wof:lastmodified":1466314840,
     "wof:name":"Smyth Advertising Inc",
     "wof:parent_id":85826867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.791412,33.336506,-86.791412,33.336506],
-  "geometry": {"coordinates":[-86.791412,33.336506],"type":"Point"}
+  "bbox": [
+    -86.791412,
+    33.336506,
+    -86.791412,
+    33.336506
+],
+  "geometry": {"coordinates":[-86.79141199999999,33.336506],"type":"Point"}
 }

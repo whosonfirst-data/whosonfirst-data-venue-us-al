@@ -2,13 +2,14 @@
   "id": 152556789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.175435,30.676177,-88.175435,30.676177",
     "geom:latitude":30.676177,
     "geom:longitude":-88.175435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4728 Airport Blvd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878953,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152556789,
-    "wof:lastmodified":1449045438,
+    "wof:lastmodified":1466318638,
     "wof:name":"Charles Black III DDS",
     "wof:parent_id":85878953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.175435,30.676177,-88.175435,30.676177],
-  "geometry": {"coordinates":[-88.175435,30.676177],"type":"Point"}
+  "bbox": [
+    -88.175435,
+    30.676177,
+    -88.175435,
+    30.676177
+],
+  "geometry": {"coordinates":[-88.17543499999999,30.676177],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102603883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.249662,33.171355,-86.249662,33.171355",
     "geom:latitude":33.171355,
     "geom:longitude":-86.249662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 Calhoun Ave",
     "sg:city":"Sylacauga",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834171,
+        85688675,
         85633793,
         85914133,
         102085517,
-        85688675
+        85834171
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102603883,
-    "wof:lastmodified":1449069789,
+    "wof:lastmodified":1466317114,
     "wof:name":"Nan's Flowers & Gifts",
     "wof:parent_id":85834171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.249662,33.171355,-86.249662,33.171355],
+  "bbox": [
+    -86.249662,
+    33.171355,
+    -86.249662,
+    33.171355
+],
   "geometry": {"coordinates":[-86.249662,33.171355],"type":"Point"}
 }

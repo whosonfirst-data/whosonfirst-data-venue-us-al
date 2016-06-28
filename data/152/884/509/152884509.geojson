@@ -2,13 +2,14 @@
   "id": 152884509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.266919,32.332994,-86.266919,32.332994",
     "geom:latitude":32.332994,
     "geom:longitude":-86.266919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2831 Colonial Dr",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879047,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152884509,
-    "wof:lastmodified":1449048022,
+    "wof:lastmodified":1466320264,
     "wof:name":"Pritchard Plbg Htg & Coolg Co",
     "wof:parent_id":85879047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.266919,32.332994,-86.266919,32.332994],
+  "bbox": [
+    -86.266919,
+    32.332994,
+    -86.266919,
+    32.332994
+],
   "geometry": {"coordinates":[-86.266919,32.332994],"type":"Point"}
 }

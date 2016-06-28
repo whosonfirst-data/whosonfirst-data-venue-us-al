@@ -2,13 +2,14 @@
   "id": 152494561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.577114,34.720679,-86.577114,34.720679",
     "geom:latitude":34.720679,
     "geom:longitude":-86.577114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"926 Franklin St SE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878239,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878239
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152494561,
-    "wof:lastmodified":1449048415,
+    "wof:lastmodified":1466318316,
     "wof:name":"Averbuch Realty Downtown",
     "wof:parent_id":85878239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.577114,34.720679,-86.577114,34.720679],
-  "geometry": {"coordinates":[-86.577114,34.720679],"type":"Point"}
+  "bbox": [
+    -86.577114,
+    34.720679,
+    -86.577114,
+    34.720679
+],
+  "geometry": {"coordinates":[-86.57711399999999,34.720679],"type":"Point"}
 }

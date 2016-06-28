@@ -2,13 +2,14 @@
   "id": 152237145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.829851,33.603039,-85.829851,33.603039",
     "geom:latitude":33.603039,
     "geom:longitude":-85.829851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Grace St",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827499,
+        85688675,
         85633793,
         85914159,
         102085603,
-        85688675
+        85827499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152237145,
-    "wof:lastmodified":1449044407,
+    "wof:lastmodified":1466316387,
     "wof:name":"J T Oil Co",
     "wof:parent_id":85827499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.829851,33.603039,-85.829851,33.603039],
-  "geometry": {"coordinates":[-85.829851,33.603039],"type":"Point"}
+  "bbox": [
+    -85.829851,
+    33.603039,
+    -85.829851,
+    33.603039
+],
+  "geometry": {"coordinates":[-85.82985100000001,33.603039],"type":"Point"}
 }

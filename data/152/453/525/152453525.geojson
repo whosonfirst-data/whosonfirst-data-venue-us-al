@@ -2,13 +2,14 @@
   "id": 152453525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.711319,32.457229,-87.711319,32.457229",
     "geom:latitude":32.457229,
     "geom:longitude":-87.711319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45205 State Rte 69",
     "sg:city":"Gallion",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85804415,
+        85688675,
         85633793,
         85899613,
         102085423,
-        85688675
+        85804415
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152453525,
-    "wof:lastmodified":1449047772,
+    "wof:lastmodified":1466318201,
     "wof:name":"Carolyn C Nelson",
     "wof:parent_id":85804415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.711319,32.457229,-87.711319,32.457229],
+  "bbox": [
+    -87.711319,
+    32.457229,
+    -87.711319,
+    32.457229
+],
   "geometry": {"coordinates":[-87.711319,32.457229],"type":"Point"}
 }

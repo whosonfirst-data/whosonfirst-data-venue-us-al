@@ -2,13 +2,14 @@
   "id": 102624665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.266044,33.59346,-86.266044,33.59346",
     "geom:latitude":33.59346,
     "geom:longitude":-86.266044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3509 Cogswell Ave",
     "sg:city":"Pell City",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840553,
+        85688675,
         85633793,
         85913409,
         102085647,
-        85688675
+        85840553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102624665,
-    "wof:lastmodified":1449069452,
+    "wof:lastmodified":1466317484,
     "wof:name":"Frankie Raughton Insurance",
     "wof:parent_id":85840553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.266044,33.59346,-86.266044,33.59346],
-  "geometry": {"coordinates":[-86.266044,33.59346],"type":"Point"}
+  "bbox": [
+    -86.266044,
+    33.59346,
+    -86.266044,
+    33.59346
+],
+  "geometry": {"coordinates":[-86.26604399999999,33.59346],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152698017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.835861,33.724698,-85.835861,33.724698",
     "geom:latitude":33.724698,
     "geom:longitude":-85.835861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Shell St",
     "sg:city":"Anniston",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85830275,
+        85688675,
         85633793,
         85914281,
         102085603,
-        85688675
+        85830275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152698017,
-    "wof:lastmodified":1449048639,
+    "wof:lastmodified":1466319340,
     "wof:name":"Norris Pest Control",
     "wof:parent_id":85830275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.835861,33.724698,-85.835861,33.724698],
-  "geometry": {"coordinates":[-85.835861,33.724698],"type":"Point"}
+  "bbox": [
+    -85.835861,
+    33.724698,
+    -85.835861,
+    33.724698
+],
+  "geometry": {"coordinates":[-85.83586099999999,33.724698],"type":"Point"}
 }

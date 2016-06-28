@@ -2,13 +2,14 @@
   "id": 152282959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.71085,34.739649,-87.71085,34.739649",
     "geom:latitude":34.739649,
     "geom:longitude":-87.71085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 N Hook St",
     "sg:city":"Tuscumbia",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.diversified-plastics.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85832153,
+        85688675,
         85633793,
         85897447,
         102085625,
-        85688675
+        85832153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152282959,
-    "wof:lastmodified":1449047194,
+    "wof:lastmodified":1466316896,
     "wof:name":"Diversified Plastics",
     "wof:parent_id":85832153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.71085,34.739649,-87.71085,34.739649],
-  "geometry": {"coordinates":[-87.71085,34.739649],"type":"Point"}
+  "bbox": [
+    -87.71085,
+    34.739649,
+    -87.71085,
+    34.739649
+],
+  "geometry": {"coordinates":[-87.71084999999999,34.739649],"type":"Point"}
 }

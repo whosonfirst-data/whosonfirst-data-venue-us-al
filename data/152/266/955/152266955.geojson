@@ -2,13 +2,14 @@
   "id": 152266955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.853085,33.386036,-86.853085,33.386036",
     "geom:latitude":33.386036,
     "geom:longitude":-86.853085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"271 Shades Crest Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827189,
+        85688675,
         85633793,
         85914475,
         102085481,
-        85688675
+        85827189
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152266955,
-    "wof:lastmodified":1449044438,
+    "wof:lastmodified":1466316806,
     "wof:name":"Jon S Rhodes",
     "wof:parent_id":85827189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.853085,33.386036,-86.853085,33.386036],
-  "geometry": {"coordinates":[-86.853085,33.386036],"type":"Point"}
+  "bbox": [
+    -86.853085,
+    33.386036,
+    -86.853085,
+    33.386036
+],
+  "geometry": {"coordinates":[-86.85308499999999,33.386036],"type":"Point"}
 }

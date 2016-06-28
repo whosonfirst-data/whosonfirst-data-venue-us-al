@@ -2,13 +2,14 @@
   "id": 152207547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.567113,34.636238,-86.567113,34.636238",
     "geom:latitude":34.636238,
     "geom:longitude":-86.567113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11220 Memorial Pkwy SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825687,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85825687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152207547,
-    "wof:lastmodified":1449047530,
+    "wof:lastmodified":1466316023,
     "wof:name":"Erma Spellident",
     "wof:parent_id":85825687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.567113,34.636238,-86.567113,34.636238],
-  "geometry": {"coordinates":[-86.567113,34.636238],"type":"Point"}
+  "bbox": [
+    -86.567113,
+    34.636238,
+    -86.567113,
+    34.636238
+],
+  "geometry": {"coordinates":[-86.56711300000001,34.636238],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152564133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.552323,34.709548,-86.552323,34.709548",
     "geom:latitude":34.709548,
     "geom:longitude":-86.552323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1698 E Stonehurst Dr SE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818149,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85818149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152564133,
-    "wof:lastmodified":1449048651,
+    "wof:lastmodified":1466318642,
     "wof:name":"Weldon Group",
     "wof:parent_id":85818149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.552323,34.709548,-86.552323,34.709548],
+  "bbox": [
+    -86.552323,
+    34.709548,
+    -86.552323,
+    34.709548
+],
   "geometry": {"coordinates":[-86.552323,34.709548],"type":"Point"}
 }

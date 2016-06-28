@@ -2,13 +2,14 @@
   "id": 152406815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.495861,34.317162,-86.495861,34.317162",
     "geom:latitude":34.317162,
     "geom:longitude":-86.495861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"49 N Main St",
     "sg:city":"Arab",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851541,
+        85688675,
         85633793,
         85913243,
         102085513,
-        85688675
+        85851541
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152406815,
-    "wof:lastmodified":1449046779,
+    "wof:lastmodified":1466317881,
     "wof:name":"ETC",
     "wof:parent_id":85851541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.495861,34.317162,-86.495861,34.317162],
+  "bbox": [
+    -86.495861,
+    34.317162,
+    -86.495861,
+    34.317162
+],
   "geometry": {"coordinates":[-86.495861,34.317162],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102484559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.065683,30.804716,-88.065683,30.804716",
     "geom:latitude":30.804716,
     "geom:longitude":-88.065683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"252 Jacintoport Blvd",
     "sg:city":"Saraland",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085469,
-        85633793,
         85688675,
-        85878983
+        85633793,
+        85878983,
+        102085469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102484559,
-    "wof:lastmodified":1449070056,
+    "wof:lastmodified":1466315789,
     "wof:name":"GAF Materials Corp",
     "wof:parent_id":85878983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.065683,30.804716,-88.065683,30.804716],
-  "geometry": {"coordinates":[-88.065683,30.804716],"type":"Point"}
+  "bbox": [
+    -88.065683,
+    30.804716,
+    -88.065683,
+    30.804716
+],
+  "geometry": {"coordinates":[-88.06568300000001,30.804716],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152602069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.749621,33.077201,-86.749621,33.077201",
     "geom:latitude":33.077201,
     "geom:longitude":-86.749621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10080 US Hwy 31",
     "sg:city":"Calera",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85849529
+        85633793,
+        85849529,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152602069,
-    "wof:lastmodified":1449046476,
+    "wof:lastmodified":1466318844,
     "wof:name":"Parris Home",
     "wof:parent_id":85849529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.749621,33.077201,-86.749621,33.077201],
+  "bbox": [
+    -86.749621,
+    33.077201,
+    -86.749621,
+    33.077201
+],
   "geometry": {"coordinates":[-86.749621,33.077201],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152245049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.394552,31.231615,-85.394552,31.231615",
     "geom:latitude":31.231615,
     "geom:longitude":-85.394552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 N Oates St",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852069,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85852069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152245049,
-    "wof:lastmodified":1449048765,
+    "wof:lastmodified":1466316493,
     "wof:name":"C&S Auto Sales",
     "wof:parent_id":85852069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.394552,31.231615,-85.394552,31.231615],
+  "bbox": [
+    -85.394552,
+    31.231615,
+    -85.394552,
+    31.231615
+],
   "geometry": {"coordinates":[-85.394552,31.231615],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152124875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.996378,34.013293,-85.996378,34.013293",
     "geom:latitude":34.013293,
     "geom:longitude":-85.996378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 N Albert Rains Blvd",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822279,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85822279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152124875,
-    "wof:lastmodified":1449048560,
+    "wof:lastmodified":1466314756,
     "wof:name":"Las Brisas Mexican Restaurant",
     "wof:parent_id":85822279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.996378,34.013293,-85.996378,34.013293],
-  "geometry": {"coordinates":[-85.996378,34.013293],"type":"Point"}
+  "bbox": [
+    -85.996378,
+    34.013293,
+    -85.996378,
+    34.013293
+],
+  "geometry": {"coordinates":[-85.99637800000001,34.013293],"type":"Point"}
 }

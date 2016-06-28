@@ -2,13 +2,14 @@
   "id": 152123335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.114534,30.672051,-88.114534,30.672051",
     "geom:latitude":30.672051,
     "geom:longitude":-88.114534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"316 S Sage Ave",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.photomaniausa.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808003,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85808003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152123335,
-    "wof:lastmodified":1449045688,
+    "wof:lastmodified":1466314643,
     "wof:name":"Photo Mania USA",
     "wof:parent_id":85808003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.114534,30.672051,-88.114534,30.672051],
-  "geometry": {"coordinates":[-88.114534,30.672051],"type":"Point"}
+  "bbox": [
+    -88.114534,
+    30.672051,
+    -88.114534,
+    30.672051
+],
+  "geometry": {"coordinates":[-88.11453400000001,30.672051],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152377847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.134074,32.372802,-86.134074,32.372802",
     "geom:latitude":32.372802,
     "geom:longitude":-86.134074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"417 Wiltshire Dr",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803631,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85803631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152377847,
-    "wof:lastmodified":1449046042,
+    "wof:lastmodified":1466317738,
     "wof:name":"Clyde & Mos Bar Bq LLC",
     "wof:parent_id":85803631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.134074,32.372802,-86.134074,32.372802],
+  "bbox": [
+    -86.134074,
+    32.372802,
+    -86.134074,
+    32.372802
+],
   "geometry": {"coordinates":[-86.134074,32.372802],"type":"Point"}
 }

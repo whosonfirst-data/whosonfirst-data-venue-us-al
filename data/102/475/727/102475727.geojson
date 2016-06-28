@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102475727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.765053,33.818404,-85.765053,33.818404",
     "geom:latitude":33.818404,
     "geom:longitude":-85.765053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"226 Mountain St NW",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805945,
+        85688675,
         85633793,
         85914293,
         102085603,
-        85688675
+        85805945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102475727,
-    "wof:lastmodified":1449068767,
+    "wof:lastmodified":1466315469,
     "wof:name":"Children's House-Creative Kids",
     "wof:parent_id":85805945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.765053,33.818404,-85.765053,33.818404],
-  "geometry": {"coordinates":[-85.765053,33.818404],"type":"Point"}
+  "bbox": [
+    -85.765053,
+    33.818404,
+    -85.765053,
+    33.818404
+],
+  "geometry": {"coordinates":[-85.76505299999999,33.818404],"type":"Point"}
 }

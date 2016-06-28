@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102512073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.703668,34.731548,-87.703668,34.731548",
     "geom:latitude":34.731548,
     "geom:longitude":-87.703668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 S Main St",
     "sg:city":"Tuscumbia",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852605,
+        85688675,
         85633793,
         85897447,
         102085625,
-        85688675
+        85852605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102512073,
-    "wof:lastmodified":1449069550,
+    "wof:lastmodified":1466316961,
     "wof:name":"Quad City Twirlers & Twirling",
     "wof:parent_id":85852605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.703668,34.731548,-87.703668,34.731548],
-  "geometry": {"coordinates":[-87.703668,34.731548],"type":"Point"}
+  "bbox": [
+    -87.703668,
+    34.731548,
+    -87.703668,
+    34.731548
+],
+  "geometry": {"coordinates":[-87.70366799999999,34.731548],"type":"Point"}
 }

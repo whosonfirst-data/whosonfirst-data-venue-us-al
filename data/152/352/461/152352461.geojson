@@ -2,13 +2,14 @@
   "id": 152352461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.699764,33.609582,-86.699764,33.609582",
     "geom:latitude":33.609582,
     "geom:longitude":-86.699764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"433 Azalea Way",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854035,
+        85688675,
         85633793,
         85914903,
         102085481,
-        85688675
+        85854035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":152352461,
-    "wof:lastmodified":1449047138,
+    "wof:lastmodified":1466317413,
     "wof:name":"C K Shredders LLC",
     "wof:parent_id":85854035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.699764,33.609582,-86.699764,33.609582],
+  "bbox": [
+    -86.699764,
+    33.609582,
+    -86.699764,
+    33.609582
+],
   "geometry": {"coordinates":[-86.699764,33.609582],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152878423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.00029,34.606494,-87.00029,34.606494",
     "geom:latitude":34.606494,
     "geom:longitude":-87.00029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 10th Ave NW",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152878423,
-    "wof:lastmodified":1449046714,
+    "wof:lastmodified":1466320385,
     "wof:name":"Servicio De Traducciones",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.00029,34.606494,-87.00029,34.606494],
-  "geometry": {"coordinates":[-87.00029,34.606494],"type":"Point"}
+  "bbox": [
+    -87.00029,
+    34.606494,
+    -87.00029,
+    34.606494
+],
+  "geometry": {"coordinates":[-87.00029000000001,34.606494],"type":"Point"}
 }

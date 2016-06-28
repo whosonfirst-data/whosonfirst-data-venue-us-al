@@ -2,13 +2,14 @@
   "id": 152521867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.680153,34.801856,-87.680153,34.801856",
     "geom:latitude":34.801856,
     "geom:longitude":-87.680153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 W Tuscaloosa St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848857,
+        85688675,
         85633793,
         85914011,
         102085527,
-        85688675
+        85848857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152521867,
-    "wof:lastmodified":1449048693,
+    "wof:lastmodified":1466318421,
     "wof:name":"Main College Textbook Store",
     "wof:parent_id":85848857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.680153,34.801856,-87.680153,34.801856],
+  "bbox": [
+    -87.680153,
+    34.801856,
+    -87.680153,
+    34.801856
+],
   "geometry": {"coordinates":[-87.680153,34.801856],"type":"Point"}
 }

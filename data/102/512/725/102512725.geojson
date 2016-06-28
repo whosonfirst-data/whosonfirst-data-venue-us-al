@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102512725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.173341,32.340533,-86.173341,32.340533",
     "geom:latitude":32.340533,
     "geom:longitude":-86.173341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7025 Halcyon Park Dr",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879051,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102512725,
-    "wof:lastmodified":1449069550,
+    "wof:lastmodified":1466316945,
     "wof:name":"Judy Barganier",
     "wof:parent_id":85879051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.173341,32.340533,-86.173341,32.340533],
-  "geometry": {"coordinates":[-86.173341,32.340533],"type":"Point"}
+  "bbox": [
+    -86.173341,
+    32.340533,
+    -86.173341,
+    32.340533
+],
+  "geometry": {"coordinates":[-86.17334099999999,32.340533],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152305013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.484963,32.580998,-85.484963,32.580998",
     "geom:latitude":32.580998,
     "geom:longitude":-85.484963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1244 Cottonwood Cir",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858229,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85858229
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152305013,
-    "wof:lastmodified":1449045009,
+    "wof:lastmodified":1466317119,
     "wof:name":"Morris Gillespie Farm",
     "wof:parent_id":85858229,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.484963,32.580998,-85.484963,32.580998],
-  "geometry": {"coordinates":[-85.484963,32.580998],"type":"Point"}
+  "bbox": [
+    -85.484963,
+    32.580998,
+    -85.484963,
+    32.580998
+],
+  "geometry": {"coordinates":[-85.48496299999999,32.580998],"type":"Point"}
 }

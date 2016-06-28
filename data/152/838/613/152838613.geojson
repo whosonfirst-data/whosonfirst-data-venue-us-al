@@ -2,13 +2,14 @@
   "id": 152838613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.791951,33.547029,-86.791951,33.547029",
     "geom:latitude":33.547029,
     "geom:longitude":-86.791951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1620 Vanderbilt Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85838531,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85838531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152838613,
-    "wof:lastmodified":1449044865,
+    "wof:lastmodified":1466320043,
     "wof:name":"A & A Demolition Co",
     "wof:parent_id":85838531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.791951,33.547029,-86.791951,33.547029],
+  "bbox": [
+    -86.791951,
+    33.547029,
+    -86.791951,
+    33.547029
+],
   "geometry": {"coordinates":[-86.791951,33.547029],"type":"Point"}
 }

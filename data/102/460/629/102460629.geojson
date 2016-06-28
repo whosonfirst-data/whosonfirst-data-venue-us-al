@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102460629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.31691,32.362237,-86.31691,32.362237",
     "geom:latitude":32.362237,
     "geom:longitude":-86.31691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1104 Rosa L Parks Ave",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879039,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102460629,
-    "wof:lastmodified":1449070061,
+    "wof:lastmodified":1466315010,
     "wof:name":"Family Services",
     "wof:parent_id":85879039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.31691,32.362237,-86.31691,32.362237],
-  "geometry": {"coordinates":[-86.31691,32.362237],"type":"Point"}
+  "bbox": [
+    -86.31691,
+    32.362237,
+    -86.31691,
+    32.362237
+],
+  "geometry": {"coordinates":[-86.31690999999999,32.362237],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152229025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.655206,33.54725,-85.655206,33.54725",
     "geom:latitude":33.54725,
     "geom:longitude":-85.655206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3230 Co Rd 11",
     "sg:city":"Heflin",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152229025,
-    "wof:lastmodified":1449047986,
+    "wof:lastmodified":1466316294,
     "wof:name":"P & S Heating & Air Cond",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.655206,33.54725,-85.655206,33.54725],
-  "geometry": {"coordinates":[-85.655206,33.54725],"type":"Point"}
+  "bbox": [
+    -85.655206,
+    33.54725,
+    -85.655206,
+    33.54725
+],
+  "geometry": {"coordinates":[-85.65520600000001,33.54725],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152267973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.235944,32.405134,-86.235944,32.405134",
     "geom:latitude":32.405134,
     "geom:longitude":-86.235944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2525 Container Dr",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813403,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85813403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152267973,
-    "wof:lastmodified":1449048504,
+    "wof:lastmodified":1466316887,
     "wof:name":"Capitol Controls & Automation",
     "wof:parent_id":85813403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.235944,32.405134,-86.235944,32.405134],
+  "bbox": [
+    -86.235944,
+    32.405134,
+    -86.235944,
+    32.405134
+],
   "geometry": {"coordinates":[-86.235944,32.405134],"type":"Point"}
 }

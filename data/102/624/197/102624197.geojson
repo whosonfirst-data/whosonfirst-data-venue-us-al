@@ -2,13 +2,14 @@
   "id": 102624197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.809812,33.640864,-86.809812,33.640864",
     "geom:latitude":33.640864,
     "geom:longitude":-86.809812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 W Tarrant Dr",
     "sg:city":"Gardendale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102624197,
-    "wof:lastmodified":1449069454,
+    "wof:lastmodified":1466317443,
     "wof:name":"Ben Bowen & Assoc",
     "wof:parent_id":85914857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.809812,33.640864,-86.809812,33.640864],
-  "geometry": {"coordinates":[-86.809812,33.640864],"type":"Point"}
+  "bbox": [
+    -86.809812,
+    33.640864,
+    -86.809812,
+    33.640864
+],
+  "geometry": {"coordinates":[-86.80981199999999,33.640864],"type":"Point"}
 }

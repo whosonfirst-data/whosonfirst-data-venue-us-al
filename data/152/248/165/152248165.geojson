@@ -2,13 +2,14 @@
   "id": 152248165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.422653,33.190847,-87.422653,33.190847",
     "geom:latitude":33.190847,
     "geom:longitude":-87.422653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1850 Canyon Lake Dr",
     "sg:city":"Cottondale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851363,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85851363
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152248165,
-    "wof:lastmodified":1449046840,
+    "wof:lastmodified":1466316507,
     "wof:name":"Sullivan Todd Painting LLC",
     "wof:parent_id":85851363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.422653,33.190847,-87.422653,33.190847],
+  "bbox": [
+    -87.422653,
+    33.190847,
+    -87.422653,
+    33.190847
+],
   "geometry": {"coordinates":[-87.422653,33.190847],"type":"Point"}
 }

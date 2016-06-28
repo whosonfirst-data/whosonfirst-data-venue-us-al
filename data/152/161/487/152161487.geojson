@@ -2,13 +2,14 @@
   "id": 152161487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.799513,32.707844,-85.799513,32.707844",
     "geom:latitude":32.707844,
     "geom:longitude":-85.799513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7172 State Rte 50",
     "sg:city":"Dadeville",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848983,
+        85688675,
         85633793,
         85913327,
         102085567,
-        85688675
+        85848983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152161487,
-    "wof:lastmodified":1449046137,
+    "wof:lastmodified":1466315191,
     "wof:name":"West Inc",
     "wof:parent_id":85848983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.799513,32.707844,-85.799513,32.707844],
+  "bbox": [
+    -85.799513,
+    32.707844,
+    -85.799513,
+    32.707844
+],
   "geometry": {"coordinates":[-85.799513,32.707844],"type":"Point"}
 }

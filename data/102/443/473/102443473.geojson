@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102443473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.086138,30.767091,-88.086138,30.767091",
     "geom:latitude":30.767091,
     "geom:longitude":-88.086138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"159 W Lee St",
     "sg:city":"Chickasaw",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837835,
+        85688675,
         85633793,
         85913741,
         102085585,
-        85688675
+        85837835
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102443473,
-    "wof:lastmodified":1449069724,
+    "wof:lastmodified":1466314406,
     "wof:name":"Otto's Automotive Svc Ctr",
     "wof:parent_id":85837835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.086138,30.767091,-88.086138,30.767091],
-  "geometry": {"coordinates":[-88.086138,30.767091],"type":"Point"}
+  "bbox": [
+    -88.086138,
+    30.767091,
+    -88.086138,
+    30.767091
+],
+  "geometry": {"coordinates":[-88.08613800000001,30.767091],"type":"Point"}
 }

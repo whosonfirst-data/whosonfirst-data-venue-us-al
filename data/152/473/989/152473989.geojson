@@ -2,13 +2,14 @@
   "id": 152473989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.646462,33.568197,-86.646462,33.568197",
     "geom:latitude":33.568197,
     "geom:longitude":-86.646462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2289 Old Alton Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845385,
+        85688675,
         85633793,
         85914835,
         102085481,
-        85688675
+        85845385
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152473989,
-    "wof:lastmodified":1449045264,
+    "wof:lastmodified":1466318196,
     "wof:name":"Kc Farms Inc",
     "wof:parent_id":85845385,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.646462,33.568197,-86.646462,33.568197],
+  "bbox": [
+    -86.646462,
+    33.568197,
+    -86.646462,
+    33.568197
+],
   "geometry": {"coordinates":[-86.646462,33.568197],"type":"Point"}
 }

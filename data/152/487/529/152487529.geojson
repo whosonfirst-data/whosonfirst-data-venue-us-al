@@ -2,13 +2,14 @@
   "id": 152487529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.854911,31.335051,-85.854911,31.335051",
     "geom:latitude":31.335051,
     "geom:longitude":-85.854911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1104 Boll Weevil Cir",
     "sg:city":"Enterprise",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837695,
+        85688675,
         85633793,
         85899527,
         102085699,
-        85688675
+        85837695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152487529,
-    "wof:lastmodified":1449045816,
+    "wof:lastmodified":1466318260,
     "wof:name":"Mr Henrys 8",
     "wof:parent_id":85837695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.854911,31.335051,-85.854911,31.335051],
+  "bbox": [
+    -85.854911,
+    31.335051,
+    -85.854911,
+    31.335051
+],
   "geometry": {"coordinates":[-85.854911,31.335051],"type":"Point"}
 }

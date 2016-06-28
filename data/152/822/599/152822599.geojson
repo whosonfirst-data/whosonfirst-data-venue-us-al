@@ -2,13 +2,14 @@
   "id": 152822599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.816251,33.551085,-86.816251,33.551085",
     "geom:latitude":33.551085,
     "geom:longitude":-86.816251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2615 29th Ave N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837367,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85837367
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152822599,
-    "wof:lastmodified":1449048775,
+    "wof:lastmodified":1466319970,
     "wof:name":"Servicesouth Inc",
     "wof:parent_id":85837367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.816251,33.551085,-86.816251,33.551085],
-  "geometry": {"coordinates":[-86.816251,33.551085],"type":"Point"}
+  "bbox": [
+    -86.816251,
+    33.551085,
+    -86.816251,
+    33.551085
+],
+  "geometry": {"coordinates":[-86.81625099999999,33.551085],"type":"Point"}
 }

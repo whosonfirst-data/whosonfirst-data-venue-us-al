@@ -2,13 +2,14 @@
   "id": 152786581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.065036,31.123756,-87.065036,31.123756",
     "geom:latitude":31.123756,
     "geom:longitude":-87.065036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Fairview Cir",
     "sg:city":"Brewton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152786581,
-    "wof:lastmodified":1449044903,
+    "wof:lastmodified":1466319749,
     "wof:name":"Anderson Landscape & Spray Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.065036,31.123756,-87.065036,31.123756],
-  "geometry": {"coordinates":[-87.065036,31.123756],"type":"Point"}
+  "bbox": [
+    -87.065036,
+    31.123756,
+    -87.065036,
+    31.123756
+],
+  "geometry": {"coordinates":[-87.06503600000001,31.123756],"type":"Point"}
 }

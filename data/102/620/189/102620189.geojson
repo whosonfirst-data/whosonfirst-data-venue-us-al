@@ -2,13 +2,14 @@
   "id": 102620189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.062097,31.096045,-87.062097,31.096045",
     "geom:latitude":31.096045,
     "geom:longitude":-87.062097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 Shoffner St",
     "sg:city":"East Brewton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102620189,
-    "wof:lastmodified":1449069987,
+    "wof:lastmodified":1466317411,
     "wof:name":"Hartman Blackmon & Kilgore",
     "wof:parent_id":85899763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.062097,31.096045,-87.062097,31.096045],
-  "geometry": {"coordinates":[-87.062097,31.096045],"type":"Point"}
+  "bbox": [
+    -87.062097,
+    31.096045,
+    -87.062097,
+    31.096045
+],
+  "geometry": {"coordinates":[-87.06209699999999,31.096045],"type":"Point"}
 }

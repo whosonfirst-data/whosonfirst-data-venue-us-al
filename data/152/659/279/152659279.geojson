@@ -2,13 +2,14 @@
   "id": 152659279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.956492,33.40088,-86.956492,33.40088",
     "geom:latitude":33.40088,
     "geom:longitude":-86.956492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1610 4th Ave N",
     "sg:city":"Bessemer",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807371,
+        85688675,
         85633793,
         85914885,
         102085481,
-        85688675
+        85807371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152659279,
-    "wof:lastmodified":1449044806,
+    "wof:lastmodified":1466319149,
     "wof:name":"Anderson Pest Control Co",
     "wof:parent_id":85807371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.956492,33.40088,-86.956492,33.40088],
+  "bbox": [
+    -86.956492,
+    33.40088,
+    -86.956492,
+    33.40088
+],
   "geometry": {"coordinates":[-86.956492,33.40088],"type":"Point"}
 }

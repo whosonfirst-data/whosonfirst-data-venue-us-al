@@ -2,13 +2,14 @@
   "id": 102617905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.789394,33.445159,-86.789394,33.445159",
     "geom:latitude":33.445159,
     "geom:longitude":-86.789394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2031 Canyon Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853699,
+        85688675,
         85633793,
         85914483,
         102085481,
-        85688675
+        85853699
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102617905,
-    "wof:lastmodified":1449067857,
+    "wof:lastmodified":1466317364,
     "wof:name":"Office Labor MGT Standards",
     "wof:parent_id":85853699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.789394,33.445159,-86.789394,33.445159],
+  "bbox": [
+    -86.789394,
+    33.445159,
+    -86.789394,
+    33.445159
+],
   "geometry": {"coordinates":[-86.789394,33.445159],"type":"Point"}
 }

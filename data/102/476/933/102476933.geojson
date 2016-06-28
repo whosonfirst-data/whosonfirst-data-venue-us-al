@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102476933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.39714,31.226582,-85.39714,31.226582",
     "geom:latitude":31.226582,
     "geom:longitude":-85.39714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 W Adams St",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852069,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85852069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102476933,
-    "wof:lastmodified":1449068738,
+    "wof:lastmodified":1466315449,
     "wof:name":"G Mark Pepe",
     "wof:parent_id":85852069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.39714,31.226582,-85.39714,31.226582],
-  "geometry": {"coordinates":[-85.39714,31.226582],"type":"Point"}
+  "bbox": [
+    -85.39714,
+    31.226582,
+    -85.39714,
+    31.226582
+],
+  "geometry": {"coordinates":[-85.39713999999999,31.226582],"type":"Point"}
 }

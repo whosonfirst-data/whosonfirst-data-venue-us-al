@@ -2,13 +2,14 @@
   "id": 102595277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.171,30.658155,-88.171,30.658155",
     "geom:latitude":30.658155,
     "geom:longitude":-88.171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1584 Andover Blvd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878961,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878961
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102595277,
-    "wof:lastmodified":1449069949,
+    "wof:lastmodified":1466317185,
     "wof:name":"Customized Specialties",
     "wof:parent_id":85878961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.171,30.658155,-88.171,30.658155],
-  "geometry": {"coordinates":[-88.171,30.658155],"type":"Point"}
+  "bbox": [
+    -88.171,
+    30.658155,
+    -88.171,
+    30.658155
+],
+  "geometry": {"coordinates":[-88.17100000000001,30.658155],"type":"Point"}
 }

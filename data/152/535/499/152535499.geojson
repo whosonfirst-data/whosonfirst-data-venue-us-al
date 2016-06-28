@@ -2,13 +2,14 @@
   "id": 152535499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.026168,33.966759,-86.026168,33.966759",
     "geom:latitude":33.966759,
     "geom:longitude":-86.026168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2725 Rainbow Dr",
     "sg:city":"Rainbow City",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.wjby.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85835237,
+        85688675,
         85633793,
         85914367,
         102085545,
-        85688675
+        85835237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152535499,
-    "wof:lastmodified":1449045142,
+    "wof:lastmodified":1466318521,
     "wof:name":"WJBY",
     "wof:parent_id":85835237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.026168,33.966759,-86.026168,33.966759],
+  "bbox": [
+    -86.026168,
+    33.966759,
+    -86.026168,
+    33.966759
+],
   "geometry": {"coordinates":[-86.026168,33.966759],"type":"Point"}
 }

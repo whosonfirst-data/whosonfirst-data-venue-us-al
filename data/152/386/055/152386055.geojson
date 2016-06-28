@@ -2,13 +2,14 @@
   "id": 152386055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.464593,32.628195,-85.464593,32.628195",
     "geom:latitude":32.628195,
     "geom:longitude":-85.464593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 Choctaw Ave",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848213,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85848213
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152386055,
-    "wof:lastmodified":1449046727,
+    "wof:lastmodified":1466317748,
     "wof:name":"Coloringbook Net",
     "wof:parent_id":85848213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.464593,32.628195,-85.464593,32.628195],
-  "geometry": {"coordinates":[-85.464593,32.628195],"type":"Point"}
+  "bbox": [
+    -85.464593,
+    32.628195,
+    -85.464593,
+    32.628195
+],
+  "geometry": {"coordinates":[-85.46459299999999,32.628195],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152465315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.569635,30.280485,-87.569635,30.280485",
     "geom:latitude":30.280485,
     "geom:longitude":-87.569635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26260 Corondelette Dr",
     "sg:city":"Orange Beach",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868551,
+        85688675,
         85633793,
         85914719,
         102085469,
-        85688675
+        85868551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152465315,
-    "wof:lastmodified":1449047411,
+    "wof:lastmodified":1466318165,
     "wof:name":"Hammerhead Construction",
     "wof:parent_id":85868551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.569635,30.280485,-87.569635,30.280485],
-  "geometry": {"coordinates":[-87.569635,30.280485],"type":"Point"}
+  "bbox": [
+    -87.569635,
+    30.280485,
+    -87.569635,
+    30.280485
+],
+  "geometry": {"coordinates":[-87.56963500000001,30.280485],"type":"Point"}
 }

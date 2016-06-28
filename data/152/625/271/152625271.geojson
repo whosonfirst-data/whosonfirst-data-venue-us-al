@@ -2,13 +2,14 @@
   "id": 152625271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.90943,34.367761,-86.90943,34.367761",
     "geom:latitude":34.367761,
     "geom:longitude":-86.90943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 W 2nd St",
     "sg:city":"Falkville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851807,
+        85688675,
         85633793,
         85914103,
         102085531,
-        85688675
+        85851807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152625271,
-    "wof:lastmodified":1449048967,
+    "wof:lastmodified":1466318968,
     "wof:name":"Total Car Care",
     "wof:parent_id":85851807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.90943,34.367761,-86.90943,34.367761],
+  "bbox": [
+    -86.90943,
+    34.367761,
+    -86.90943,
+    34.367761
+],
   "geometry": {"coordinates":[-86.90943,34.367761],"type":"Point"}
 }

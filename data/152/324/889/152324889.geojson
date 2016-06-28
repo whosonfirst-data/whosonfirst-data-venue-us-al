@@ -2,13 +2,14 @@
   "id": 152324889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.931806,34.80078,-86.931806,34.80078",
     "geom:latitude":34.80078,
     "geom:longitude":-86.931806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"313 Four Winds Dr",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829133,
+        85688675,
         85633793,
         85913543,
         102085489,
-        85688675
+        85829133
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152324889,
-    "wof:lastmodified":1449046999,
+    "wof:lastmodified":1466317352,
     "wof:name":"Corporation of The Presiding",
     "wof:parent_id":85829133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.931806,34.80078,-86.931806,34.80078],
-  "geometry": {"coordinates":[-86.931806,34.80078],"type":"Point"}
+  "bbox": [
+    -86.931806,
+    34.80078,
+    -86.931806,
+    34.80078
+],
+  "geometry": {"coordinates":[-86.93180599999999,34.80078],"type":"Point"}
 }

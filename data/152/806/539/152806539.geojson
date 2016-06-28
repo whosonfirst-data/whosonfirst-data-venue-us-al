@@ -2,13 +2,14 @@
   "id": 152806539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.53666,33.347623,-86.53666,33.347623",
     "geom:latitude":33.347623,
     "geom:longitude":-86.53666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9415 Co Rd 55",
     "sg:city":"Harpersville",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85833411
+        85633793,
+        85833411,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152806539,
-    "wof:lastmodified":1449044277,
+    "wof:lastmodified":1466319897,
     "wof:name":"Birmingham News",
     "wof:parent_id":85833411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.53666,33.347623,-86.53666,33.347623],
+  "bbox": [
+    -86.53666,
+    33.347623,
+    -86.53666,
+    33.347623
+],
   "geometry": {"coordinates":[-86.53666,33.347623],"type":"Point"}
 }

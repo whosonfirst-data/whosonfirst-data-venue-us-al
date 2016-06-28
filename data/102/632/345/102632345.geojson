@@ -2,13 +2,14 @@
   "id": 102632345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.581915,34.74086,-86.581915,34.74086",
     "geom:latitude":34.74086,
     "geom:longitude":-86.581915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Beirne Ave NE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878241,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675,
+        85878241,
         85878235
     ],
     "wof:breaches":[],
@@ -60,14 +61,20 @@
         }
     ],
     "wof:id":102632345,
-    "wof:lastmodified":1449069307,
+    "wof:lastmodified":1466317511,
     "wof:name":"Handi Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.581915,34.74086,-86.581915,34.74086],
+  "bbox": [
+    -86.581915,
+    34.74086,
+    -86.581915,
+    34.74086
+],
   "geometry": {"coordinates":[-86.581915,34.74086],"type":"Point"}
 }

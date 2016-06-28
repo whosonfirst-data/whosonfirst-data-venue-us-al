@@ -2,13 +2,14 @@
   "id": 152305145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.435496,33.356881,-86.435496,33.356881",
     "geom:latitude":33.356881,
     "geom:longitude":-86.435496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"260 Co Rd 83",
     "sg:city":"Harpersville",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85841999
+        85633793,
+        85841999,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152305145,
-    "wof:lastmodified":1449045008,
+    "wof:lastmodified":1466317127,
     "wof:name":"Appliance Doctor",
     "wof:parent_id":85841999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.435496,33.356881,-86.435496,33.356881],
+  "bbox": [
+    -86.435496,
+    33.356881,
+    -86.435496,
+    33.356881
+],
   "geometry": {"coordinates":[-86.435496,33.356881],"type":"Point"}
 }

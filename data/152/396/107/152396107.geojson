@@ -2,13 +2,14 @@
   "id": 152396107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.767975,33.193999,-86.767975,33.193999",
     "geom:latitude":33.193999,
     "geom:longitude":-86.767975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1670 US Hwy 31",
     "sg:city":"Calera",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
+        85633793,
         85831341,
+        102085499,
         85853623
     ],
     "wof:breaches":[],
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":152396107,
-    "wof:lastmodified":1449047330,
+    "wof:lastmodified":1466317826,
     "wof:name":"Discount Housing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.767975,33.193999,-86.767975,33.193999],
-  "geometry": {"coordinates":[-86.767975,33.193999],"type":"Point"}
+  "bbox": [
+    -86.767975,
+    33.193999,
+    -86.767975,
+    33.193999
+],
+  "geometry": {"coordinates":[-86.76797500000001,33.193999],"type":"Point"}
 }

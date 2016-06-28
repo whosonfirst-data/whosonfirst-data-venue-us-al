@@ -2,13 +2,14 @@
   "id": 152847339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.309655,32.377949,-86.309655,32.377949",
     "geom:latitude":32.377949,
     "geom:longitude":-86.309655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"80 Commerce St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.lowndesboe.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879037,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152847339,
-    "wof:lastmodified":1449045989,
+    "wof:lastmodified":1466320084,
     "wof:name":"Lowndes Board Of Education",
     "wof:parent_id":85879037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.309655,32.377949,-86.309655,32.377949],
-  "geometry": {"coordinates":[-86.309655,32.377949],"type":"Point"}
+  "bbox": [
+    -86.309655,
+    32.377949,
+    -86.309655,
+    32.377949
+],
+  "geometry": {"coordinates":[-86.30965500000001,32.377949],"type":"Point"}
 }

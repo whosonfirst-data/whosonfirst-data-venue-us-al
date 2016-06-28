@@ -2,13 +2,14 @@
   "id": 152482459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.464892,32.45663,-86.464892,32.45663",
     "geom:latitude":32.45663,
     "geom:longitude":-86.464892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 Pratt St",
     "sg:city":"Prattville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858019,
+        85688675,
         85633793,
         85913977,
         102085509,
-        85688675
+        85858019
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152482459,
-    "wof:lastmodified":1449045954,
+    "wof:lastmodified":1466318255,
     "wof:name":"Camellia Lane",
     "wof:parent_id":85858019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.464892,32.45663,-86.464892,32.45663],
-  "geometry": {"coordinates":[-86.464892,32.45663],"type":"Point"}
+  "bbox": [
+    -86.464892,
+    32.45663,
+    -86.464892,
+    32.45663
+],
+  "geometry": {"coordinates":[-86.46489200000001,32.45663],"type":"Point"}
 }

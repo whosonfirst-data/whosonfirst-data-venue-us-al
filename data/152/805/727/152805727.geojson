@@ -2,13 +2,14 @@
   "id": 152805727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.708796,33.53781,-86.708796,33.53781",
     "geom:latitude":33.53781,
     "geom:longitude":-86.708796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1820 1st Ave S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819529,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85819529
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152805727,
-    "wof:lastmodified":1449045849,
+    "wof:lastmodified":1466319900,
     "wof:name":"Premier Van & Truck",
     "wof:parent_id":85819529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.708796,33.53781,-86.708796,33.53781],
-  "geometry": {"coordinates":[-86.708796,33.53781],"type":"Point"}
+  "bbox": [
+    -86.708796,
+    33.53781,
+    -86.708796,
+    33.53781
+],
+  "geometry": {"coordinates":[-86.70879600000001,33.53781],"type":"Point"}
 }

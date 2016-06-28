@@ -2,13 +2,14 @@
   "id": 152330551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.991318,32.732914,-85.991318,32.732914",
     "geom:latitude":32.732914,
     "geom:longitude":-85.991318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"685 Wake Robin",
     "sg:city":"Eclectic",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827623,
+        85688675,
         85633793,
         85913291,
         102085631,
-        85688675
+        85827623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152330551,
-    "wof:lastmodified":1449046605,
+    "wof:lastmodified":1466317366,
     "wof:name":"Ingram Consulting & Appraisal",
     "wof:parent_id":85827623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.991318,32.732914,-85.991318,32.732914],
-  "geometry": {"coordinates":[-85.991318,32.732914],"type":"Point"}
+  "bbox": [
+    -85.991318,
+    32.732914,
+    -85.991318,
+    32.732914
+],
+  "geometry": {"coordinates":[-85.99131800000001,32.732914],"type":"Point"}
 }

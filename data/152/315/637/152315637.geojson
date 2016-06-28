@@ -2,13 +2,14 @@
   "id": 152315637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.706975,33.428556,-86.706975,33.428556",
     "geom:latitude":33.428556,
     "geom:longitude":-86.706975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Cahaba Park Cir",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85826983
+        85633793,
+        85826983,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152315637,
-    "wof:lastmodified":1449048675,
+    "wof:lastmodified":1466317279,
     "wof:name":"Wild Bird Center",
     "wof:parent_id":85826983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.706975,33.428556,-86.706975,33.428556],
+  "bbox": [
+    -86.706975,
+    33.428556,
+    -86.706975,
+    33.428556
+],
   "geometry": {"coordinates":[-86.706975,33.428556],"type":"Point"}
 }

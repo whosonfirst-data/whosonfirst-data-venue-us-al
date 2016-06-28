@@ -2,13 +2,14 @@
   "id": 152894865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.989182,34.577836,-86.989182,34.577836",
     "geom:latitude":34.577836,
     "geom:longitude":-86.989182,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 14th St SW",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818653,
+        85688675,
         85633793,
         85913589,
         102085531,
-        85688675
+        85818653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152894865,
-    "wof:lastmodified":1449046217,
+    "wof:lastmodified":1466320317,
     "wof:name":"Austin Decatur Animal Clinic",
     "wof:parent_id":85818653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.989182,34.577836,-86.989182,34.577836],
+  "bbox": [
+    -86.989182,
+    34.577836,
+    -86.989182,
+    34.577836
+],
   "geometry": {"coordinates":[-86.989182,34.577836],"type":"Point"}
 }

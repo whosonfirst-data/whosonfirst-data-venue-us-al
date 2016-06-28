@@ -2,13 +2,14 @@
   "id": 152144231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.348819,32.364805,-86.348819,32.364805",
     "geom:latitude":32.364805,
     "geom:longitude":-86.348819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 Air Base Blvd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85832931,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85832931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152144231,
-    "wof:lastmodified":1449047686,
+    "wof:lastmodified":1466315398,
     "wof:name":"Maxwell Trophies",
     "wof:parent_id":85832931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.348819,32.364805,-86.348819,32.364805],
-  "geometry": {"coordinates":[-86.348819,32.364805],"type":"Point"}
+  "bbox": [
+    -86.348819,
+    32.364805,
+    -86.348819,
+    32.364805
+],
+  "geometry": {"coordinates":[-86.34881900000001,32.364805],"type":"Point"}
 }

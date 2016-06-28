@@ -2,13 +2,14 @@
   "id": 152277481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.508735,33.224365,-86.508735,33.224365",
     "geom:latitude":33.224365,
     "geom:longitude":-86.508735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"154 Trackside Dr",
     "sg:city":"Wilsonville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825591,
+        85688675,
         85633793,
         85914497,
         102085499,
-        85688675
+        85825591
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152277481,
-    "wof:lastmodified":1449044833,
+    "wof:lastmodified":1466316848,
     "wof:name":"James Ingram Construction",
     "wof:parent_id":85825591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.508735,33.224365,-86.508735,33.224365],
+  "bbox": [
+    -86.508735,
+    33.224365,
+    -86.508735,
+    33.224365
+],
   "geometry": {"coordinates":[-86.508735,33.224365],"type":"Point"}
 }

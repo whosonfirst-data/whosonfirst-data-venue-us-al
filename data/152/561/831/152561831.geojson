@@ -2,13 +2,14 @@
   "id": 152561831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.526458,34.81806,-86.526458,34.81806",
     "geom:latitude":34.81806,
     "geom:longitude":-86.526458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 Stone Hill Dr",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842195,
+        85688675,
         85633793,
         85915397,
         102085487,
-        85688675
+        85842195
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152561831,
-    "wof:lastmodified":1449047576,
+    "wof:lastmodified":1466318633,
     "wof:name":"Ivy League Lawn Care",
     "wof:parent_id":85842195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.526458,34.81806,-86.526458,34.81806],
-  "geometry": {"coordinates":[-86.526458,34.81806],"type":"Point"}
+  "bbox": [
+    -86.526458,
+    34.81806,
+    -86.526458,
+    34.81806
+],
+  "geometry": {"coordinates":[-86.52645800000001,34.81806],"type":"Point"}
 }

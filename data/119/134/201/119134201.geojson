@@ -2,13 +2,14 @@
   "id": 119134201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.250907,33.164473,-86.250907,33.164473",
     "geom:latitude":33.164473,
     "geom:longitude":-86.250907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Broadway Ave",
     "sg:city":"Sylacauga",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834171,
+        85688675,
         85633793,
         85914133,
         102085517,
-        85688675
+        85834171
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":119134201,
-    "wof:lastmodified":1449043405,
+    "wof:lastmodified":1466314625,
     "wof:name":"Coosa Valley Services",
     "wof:parent_id":85834171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.250907,33.164473,-86.250907,33.164473],
+  "bbox": [
+    -86.250907,
+    33.164473,
+    -86.250907,
+    33.164473
+],
   "geometry": {"coordinates":[-86.250907,33.164473],"type":"Point"}
 }

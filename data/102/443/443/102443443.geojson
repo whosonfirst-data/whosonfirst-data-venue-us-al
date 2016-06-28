@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102443443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.792781,33.513534,-86.792781,33.513534",
     "geom:latitude":33.513534,
     "geom:longitude":-86.792781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2630 4th Ave S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876269,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102443443,
-    "wof:lastmodified":1449069728,
+    "wof:lastmodified":1466314400,
     "wof:name":"M & S Enterprises",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.792781,33.513534,-86.792781,33.513534],
-  "geometry": {"coordinates":[-86.792781,33.513534],"type":"Point"}
+  "bbox": [
+    -86.792781,
+    33.513534,
+    -86.792781,
+    33.513534
+],
+  "geometry": {"coordinates":[-86.79278100000001,33.513534],"type":"Point"}
 }

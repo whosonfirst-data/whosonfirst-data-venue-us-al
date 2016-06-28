@@ -2,13 +2,14 @@
   "id": 152898751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.849966,33.495393,-86.849966,33.495393",
     "geom:latitude":33.495393,
     "geom:longitude":-86.849966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 Tuscaloosa Ave SW",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152898751,
-    "wof:lastmodified":1449044181,
+    "wof:lastmodified":1466320351,
     "wof:name":"Dr Joe's Bike MD & Lawnmower",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.849966,33.495393,-86.849966,33.495393],
-  "geometry": {"coordinates":[-86.849966,33.495393],"type":"Point"}
+  "bbox": [
+    -86.849966,
+    33.495393,
+    -86.849966,
+    33.495393
+],
+  "geometry": {"coordinates":[-86.84996599999999,33.495393],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102516509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.270305,32.36398,-86.270305,32.36398",
     "geom:latitude":32.36398,
     "geom:longitude":-86.270305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2670 Zelda Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85823265,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85823265
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102516509,
-    "wof:lastmodified":1449068259,
+    "wof:lastmodified":1466316909,
     "wof:name":"Montgomery Imaging Center",
     "wof:parent_id":85823265,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.270305,32.36398,-86.270305,32.36398],
-  "geometry": {"coordinates":[-86.270305,32.36398],"type":"Point"}
+  "bbox": [
+    -86.270305,
+    32.36398,
+    -86.270305,
+    32.36398
+],
+  "geometry": {"coordinates":[-86.27030499999999,32.36398],"type":"Point"}
 }

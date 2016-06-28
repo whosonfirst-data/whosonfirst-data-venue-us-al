@@ -2,13 +2,14 @@
   "id": 152594895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.766294,33.377181,-86.766294,33.377181",
     "geom:latitude":33.377181,
     "geom:longitude":-86.766294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2105 Southwind Cir",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853353,
+        85688675,
         85633793,
         85914511,
         102085499,
-        85688675
+        85853353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152594895,
-    "wof:lastmodified":1449044968,
+    "wof:lastmodified":1466319018,
     "wof:name":"Barnett Smith X Prsv Inter LLC",
     "wof:parent_id":85853353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.766294,33.377181,-86.766294,33.377181],
+  "bbox": [
+    -86.766294,
+    33.377181,
+    -86.766294,
+    33.377181
+],
   "geometry": {"coordinates":[-86.766294,33.377181],"type":"Point"}
 }

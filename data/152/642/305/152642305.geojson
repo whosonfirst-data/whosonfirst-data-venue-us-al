@@ -2,13 +2,14 @@
   "id": 152642305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.01684,34.575904,-87.01684,34.575904",
     "geom:latitude":34.575904,
     "geom:longitude":-87.01684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1874 Beltline Rd SW",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848819,
+        85688675,
         85633793,
         85913589,
         102085531,
-        85688675
+        85848819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152642305,
-    "wof:lastmodified":1449044565,
+    "wof:lastmodified":1466319056,
     "wof:name":"Senior Circle",
     "wof:parent_id":85848819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.01684,34.575904,-87.01684,34.575904],
+  "bbox": [
+    -87.01684,
+    34.575904,
+    -87.01684,
+    34.575904
+],
   "geometry": {"coordinates":[-87.01684,34.575904],"type":"Point"}
 }

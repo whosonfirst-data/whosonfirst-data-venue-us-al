@@ -2,13 +2,14 @@
   "id": 152206365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.246395,32.375151,-86.246395,32.375151",
     "geom:latitude":32.375151,
     "geom:longitude":-86.246395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"345 Perry Hill Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152206365,
-    "wof:lastmodified":1449047439,
+    "wof:lastmodified":1466316012,
     "wof:name":"Montgomery Va Federal CU",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.246395,32.375151,-86.246395,32.375151],
-  "geometry": {"coordinates":[-86.246395,32.375151],"type":"Point"}
+  "bbox": [
+    -86.246395,
+    32.375151,
+    -86.246395,
+    32.375151
+],
+  "geometry": {"coordinates":[-86.24639500000001,32.375151],"type":"Point"}
 }

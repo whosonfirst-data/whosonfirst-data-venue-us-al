@@ -2,13 +2,14 @@
   "id": 152372307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.83126,31.322519,-85.83126,31.322519",
     "geom:latitude":31.322519,
     "geom:longitude":-85.83126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 Boll Weevil Cir",
     "sg:city":"Enterprise",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827323,
+        85688675,
         85633793,
         85899527,
         102085699,
-        85688675
+        85827323
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152372307,
-    "wof:lastmodified":1449047101,
+    "wof:lastmodified":1466317688,
     "wof:name":"Army Aviation Credit Union",
     "wof:parent_id":85827323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.83126,31.322519,-85.83126,31.322519],
+  "bbox": [
+    -85.83126,
+    31.322519,
+    -85.83126,
+    31.322519
+],
   "geometry": {"coordinates":[-85.83126,31.322519],"type":"Point"}
 }

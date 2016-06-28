@@ -2,13 +2,14 @@
   "id": 152599219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.786895,33.504736,-86.786895,33.504736",
     "geom:latitude":33.504736,
     "geom:longitude":-86.786895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2768 Hanover Cir S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876275,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152599219,
-    "wof:lastmodified":1449046458,
+    "wof:lastmodified":1466318839,
     "wof:name":"Nu Skin Exec Distributor",
     "wof:parent_id":85876275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.786895,33.504736,-86.786895,33.504736],
+  "bbox": [
+    -86.786895,
+    33.504736,
+    -86.786895,
+    33.504736
+],
   "geometry": {"coordinates":[-86.786895,33.504736],"type":"Point"}
 }

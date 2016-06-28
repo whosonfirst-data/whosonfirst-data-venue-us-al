@@ -2,13 +2,14 @@
   "id": 152725965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.179834,32.361975,-86.179834,32.361975",
     "geom:latitude":32.361975,
     "geom:longitude":-86.179834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8160 University Dr",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885419,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85885419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152725965,
-    "wof:lastmodified":1449045417,
+    "wof:lastmodified":1466319538,
     "wof:name":"Alabama Medical Examiners",
     "wof:parent_id":85885419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.179834,32.361975,-86.179834,32.361975],
+  "bbox": [
+    -86.179834,
+    32.361975,
+    -86.179834,
+    32.361975
+],
   "geometry": {"coordinates":[-86.179834,32.361975],"type":"Point"}
 }

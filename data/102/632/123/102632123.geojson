@@ -2,13 +2,14 @@
   "id": 102632123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.151261,34.200508,-86.151261,34.200508",
     "geom:latitude":34.200508,
     "geom:longitude":-86.151261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"981 US Hwy 431",
     "sg:city":"Boaz",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102632123,
-    "wof:lastmodified":1449069306,
+    "wof:lastmodified":1466317627,
     "wof:name":"First Community Credit Corp",
     "wof:parent_id":85913239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.151261,34.200508,-86.151261,34.200508],
-  "geometry": {"coordinates":[-86.151261,34.200508],"type":"Point"}
+  "bbox": [
+    -86.151261,
+    34.200508,
+    -86.151261,
+    34.200508
+],
+  "geometry": {"coordinates":[-86.15126100000001,34.200508],"type":"Point"}
 }

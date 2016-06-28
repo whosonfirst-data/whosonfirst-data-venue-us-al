@@ -2,13 +2,14 @@
   "id": 152837357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.778987,33.520049,-86.778987,33.520049",
     "geom:latitude":33.520049,
     "geom:longitude":-86.778987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3600 4th Ave S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876275,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152837357,
-    "wof:lastmodified":1449045028,
+    "wof:lastmodified":1466320029,
     "wof:name":"JBS Mental Illness Treatment",
     "wof:parent_id":85876275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.778987,33.520049,-86.778987,33.520049],
+  "bbox": [
+    -86.778987,
+    33.520049,
+    -86.778987,
+    33.520049
+],
   "geometry": {"coordinates":[-86.778987,33.520049],"type":"Point"}
 }

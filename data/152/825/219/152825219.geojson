@@ -2,13 +2,14 @@
   "id": 152825219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.518777,34.839073,-86.518777,34.839073",
     "geom:latitude":34.839073,
     "geom:longitude":-86.518777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7416 Moores Mill Rd",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842195,
+        85688675,
         85633793,
         85915397,
         102085487,
-        85688675
+        85842195
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152825219,
-    "wof:lastmodified":1449044477,
+    "wof:lastmodified":1466319974,
     "wof:name":"Moores Mill Volunteer Fire",
     "wof:parent_id":85842195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.518777,34.839073,-86.518777,34.839073],
+  "bbox": [
+    -86.518777,
+    34.839073,
+    -86.518777,
+    34.839073
+],
   "geometry": {"coordinates":[-86.518777,34.839073],"type":"Point"}
 }

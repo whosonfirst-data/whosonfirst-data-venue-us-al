@@ -2,13 +2,14 @@
   "id": 152163925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.651851,32.80451,-85.651851,32.80451",
     "geom:latitude":32.80451,
     "geom:longitude":-85.651851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21620 Sen Claude Pepper Dr",
     "sg:city":"Camp Hill",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848983,
+        85688675,
         85633793,
         85913327,
         102085567,
-        85688675
+        85848983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152163925,
-    "wof:lastmodified":1449048806,
+    "wof:lastmodified":1466315329,
     "wof:name":"Unitarian Universalist Flshp",
     "wof:parent_id":85848983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.651851,32.80451,-85.651851,32.80451],
-  "geometry": {"coordinates":[-85.651851,32.80451],"type":"Point"}
+  "bbox": [
+    -85.651851,
+    32.80451,
+    -85.651851,
+    32.80451
+],
+  "geometry": {"coordinates":[-85.65185099999999,32.80451],"type":"Point"}
 }

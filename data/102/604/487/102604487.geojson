@@ -2,13 +2,14 @@
   "id": 102604487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.318801,32.628896,-86.318801,32.628896",
     "geom:latitude":32.628896,
     "geom:longitude":-86.318801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4901 Ceasarville Rd",
     "sg:city":"Wetumpka",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102604487,
-    "wof:lastmodified":1449069903,
+    "wof:lastmodified":1466317134,
     "wof:name":"R C Faust Construction Inc",
     "wof:parent_id":85915137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.318801,32.628896,-86.318801,32.628896],
-  "geometry": {"coordinates":[-86.318801,32.628896],"type":"Point"}
+  "bbox": [
+    -86.318801,
+    32.628896,
+    -86.318801,
+    32.628896
+],
+  "geometry": {"coordinates":[-86.31880099999999,32.628896],"type":"Point"}
 }

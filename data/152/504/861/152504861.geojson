@@ -2,13 +2,14 @@
   "id": 152504861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.351205,30.476678,-88.351205,30.476678",
     "geom:latitude":30.476678,
     "geom:longitude":-88.351205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10280 Oak Ln",
     "sg:city":"Grand Bay",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085585,
-        85633793,
         85688675,
-        85895801
+        85633793,
+        85895801,
+        102085585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152504861,
-    "wof:lastmodified":1449045118,
+    "wof:lastmodified":1466318372,
     "wof:name":"Williams Fabrication",
     "wof:parent_id":85895801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.351205,30.476678,-88.351205,30.476678],
-  "geometry": {"coordinates":[-88.351205,30.476678],"type":"Point"}
+  "bbox": [
+    -88.351205,
+    30.476678,
+    -88.351205,
+    30.476678
+],
+  "geometry": {"coordinates":[-88.35120499999999,30.476678],"type":"Point"}
 }

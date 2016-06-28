@@ -2,13 +2,14 @@
   "id": 152560451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.431855,32.633219,-85.431855,32.633219",
     "geom:latitude":32.633219,
     "geom:longitude":-85.431855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3606 Pepperell Pkwy",
     "sg:city":"Opelika",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850579,
+        85688675,
         85633793,
         85913815,
         102085751,
-        85688675
+        85850579
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152560451,
-    "wof:lastmodified":1449047824,
+    "wof:lastmodified":1466318622,
     "wof:name":"Dynasty Homes",
     "wof:parent_id":85850579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.431855,32.633219,-85.431855,32.633219],
+  "bbox": [
+    -85.431855,
+    32.633219,
+    -85.431855,
+    32.633219
+],
   "geometry": {"coordinates":[-85.431855,32.633219],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102469121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.554896,34.681444,-86.554896,34.681444",
     "geom:latitude":34.681444,
     "geom:longitude":-86.554896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5012 Littlebury Rd SE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819605,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85819605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102469121,
-    "wof:lastmodified":1449070269,
+    "wof:lastmodified":1466315157,
     "wof:name":"CWBC Inc",
     "wof:parent_id":85819605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.554896,34.681444,-86.554896,34.681444],
+  "bbox": [
+    -86.554896,
+    34.681444,
+    -86.554896,
+    34.681444
+],
   "geometry": {"coordinates":[-86.554896,34.681444],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102620491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.196079,32.372118,-86.196079,32.372118",
     "geom:latitude":32.372118,
     "geom:longitude":-86.196079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Cherry Hill Pl",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809571,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85809571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102620491,
-    "wof:lastmodified":1449069985,
+    "wof:lastmodified":1466317422,
     "wof:name":"Frazer Enterprises LLC",
     "wof:parent_id":85809571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.196079,32.372118,-86.196079,32.372118],
+  "bbox": [
+    -86.196079,
+    32.372118,
+    -86.196079,
+    32.372118
+],
   "geometry": {"coordinates":[-86.196079,32.372118],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102484529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.483995,32.584078,-85.483995,32.584078",
     "geom:latitude":32.584078,
     "geom:longitude":-85.483995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"377 Lee Dr",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858615,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85858615
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102484529,
-    "wof:lastmodified":1449070056,
+    "wof:lastmodified":1466315849,
     "wof:name":"Mount Pelia Baptist Church",
     "wof:parent_id":85858615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.483995,32.584078,-85.483995,32.584078],
-  "geometry": {"coordinates":[-85.483995,32.584078],"type":"Point"}
+  "bbox": [
+    -85.483995,
+    32.584078,
+    -85.483995,
+    32.584078
+],
+  "geometry": {"coordinates":[-85.48399499999999,32.584078],"type":"Point"}
 }

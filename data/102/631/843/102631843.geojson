@@ -2,13 +2,14 @@
   "id": 102631843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.186334,32.873987,-85.186334,32.873987",
     "geom:latitude":32.873987,
     "geom:longitude":-85.186334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"731 N Lanier Ave",
     "sg:city":"Lanett",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848065,
+        85688675,
         85633793,
         85914191,
         102085637,
-        85688675
+        85848065
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":102631843,
-    "wof:lastmodified":1449068520,
+    "wof:lastmodified":1466317538,
     "wof:name":"Yates Printing & Office Sups",
     "wof:parent_id":85848065,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.186334,32.873987,-85.186334,32.873987],
+  "bbox": [
+    -85.186334,
+    32.873987,
+    -85.186334,
+    32.873987
+],
   "geometry": {"coordinates":[-85.186334,32.873987],"type":"Point"}
 }

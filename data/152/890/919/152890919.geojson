@@ -2,13 +2,14 @@
   "id": 152890919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.007528,34.014803,-86.007528,34.014803",
     "geom:latitude":34.014803,
     "geom:longitude":-86.007528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"632 Broad St",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822279,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85822279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152890919,
-    "wof:lastmodified":1449045315,
+    "wof:lastmodified":1466320312,
     "wof:name":"Williams Intl Detective Agency",
     "wof:parent_id":85822279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.007528,34.014803,-86.007528,34.014803],
-  "geometry": {"coordinates":[-86.007528,34.014803],"type":"Point"}
+  "bbox": [
+    -86.007528,
+    34.014803,
+    -86.007528,
+    34.014803
+],
+  "geometry": {"coordinates":[-86.00752799999999,34.014803],"type":"Point"}
 }

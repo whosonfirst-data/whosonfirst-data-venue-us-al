@@ -2,13 +2,14 @@
   "id": 152467917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.225183,32.394178,-86.225183,32.394178",
     "geom:latitude":32.394178,
     "geom:longitude":-86.225183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"736 Mary Ethel Dr",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813403,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85813403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152467917,
-    "wof:lastmodified":1449047931,
+    "wof:lastmodified":1466318286,
     "wof:name":"Archie L Rowe",
     "wof:parent_id":85813403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.225183,32.394178,-86.225183,32.394178],
+  "bbox": [
+    -86.225183,
+    32.394178,
+    -86.225183,
+    32.394178
+],
   "geometry": {"coordinates":[-86.225183,32.394178],"type":"Point"}
 }

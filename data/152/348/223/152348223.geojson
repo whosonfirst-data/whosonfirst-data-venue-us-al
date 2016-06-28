@@ -2,13 +2,14 @@
   "id": 152348223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.551017,33.349269,-86.551017,33.349269",
     "geom:latitude":33.349269,
     "geom:longitude":-86.551017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12017 US Hwy 280",
     "sg:city":"Sterrett",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85833411
+        85633793,
+        85833411,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152348223,
-    "wof:lastmodified":1449044489,
+    "wof:lastmodified":1466317564,
     "wof:name":"Candles & Creations",
     "wof:parent_id":85833411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.551017,33.349269,-86.551017,33.349269],
+  "bbox": [
+    -86.551017,
+    33.349269,
+    -86.551017,
+    33.349269
+],
   "geometry": {"coordinates":[-86.551017,33.349269],"type":"Point"}
 }

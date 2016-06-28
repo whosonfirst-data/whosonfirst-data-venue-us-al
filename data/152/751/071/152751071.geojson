@@ -2,13 +2,14 @@
   "id": 152751071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.028329,32.475198,-85.028329,32.475198",
     "geom:latitude":32.475198,
     "geom:longitude":-85.028329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2502 Crawford Rd",
     "sg:city":"Phenix City",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822949,
+        85688675,
         85633793,
         85913715,
         102085697,
-        85688675
+        85822949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152751071,
-    "wof:lastmodified":1449044560,
+    "wof:lastmodified":1466319571,
     "wof:name":"Southern Auto Sales",
     "wof:parent_id":85822949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.028329,32.475198,-85.028329,32.475198],
+  "bbox": [
+    -85.028329,
+    32.475198,
+    -85.028329,
+    32.475198
+],
   "geometry": {"coordinates":[-85.028329,32.475198],"type":"Point"}
 }

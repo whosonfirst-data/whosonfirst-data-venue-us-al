@@ -2,13 +2,14 @@
   "id": 152557949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.231993,30.696024,-88.231993,30.696024",
     "geom:latitude":30.696024,
     "geom:longitude":-88.231993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8130 Tanner Williams Rd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085585,
-        85633793,
         85688675,
-        85825595
+        85633793,
+        85825595,
+        102085585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152557949,
-    "wof:lastmodified":1449047595,
+    "wof:lastmodified":1466318657,
     "wof:name":"A Bloom Nursery & Garden Cente",
     "wof:parent_id":85825595,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.231993,30.696024,-88.231993,30.696024],
+  "bbox": [
+    -88.231993,
+    30.696024,
+    -88.231993,
+    30.696024
+],
   "geometry": {"coordinates":[-88.231993,30.696024],"type":"Point"}
 }

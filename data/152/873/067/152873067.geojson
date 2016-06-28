@@ -2,13 +2,14 @@
   "id": 152873067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.256315,32.316603,-86.256315,32.316603",
     "geom:latitude":32.316603,
     "geom:longitude":-86.256315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2601 Woodley Park Dr",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879047,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152873067,
-    "wof:lastmodified":1449045267,
+    "wof:lastmodified":1466320181,
     "wof:name":"Henry Johnson MD",
     "wof:parent_id":85879047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.256315,32.316603,-86.256315,32.316603],
+  "bbox": [
+    -86.256315,
+    32.316603,
+    -86.256315,
+    32.316603
+],
   "geometry": {"coordinates":[-86.256315,32.316603],"type":"Point"}
 }

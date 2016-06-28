@@ -2,13 +2,14 @@
   "id": 152548685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.825404,33.388575,-86.825404,33.388575",
     "geom:latitude":33.388575,
     "geom:longitude":-86.825404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3408 Welford Cir",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827189,
+        85688675,
         85633793,
         85914475,
         102085481,
-        85688675
+        85827189
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152548685,
-    "wof:lastmodified":1449047497,
+    "wof:lastmodified":1466318605,
     "wof:name":"K & F Research Corporation",
     "wof:parent_id":85827189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.825404,33.388575,-86.825404,33.388575],
-  "geometry": {"coordinates":[-86.825404,33.388575],"type":"Point"}
+  "bbox": [
+    -86.825404,
+    33.388575,
+    -86.825404,
+    33.388575
+],
+  "geometry": {"coordinates":[-86.82540400000001,33.388575],"type":"Point"}
 }

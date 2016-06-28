@@ -2,13 +2,14 @@
   "id": 152493277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.627411,33.926274,-85.627411,33.926274",
     "geom:latitude":33.926274,
     "geom:longitude":-85.627411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6142 Old Piedmont Gadsden Hwy",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817157,
+        85688675,
         85633793,
         85914293,
         102085603,
-        85688675
+        85817157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152493277,
-    "wof:lastmodified":1449045767,
+    "wof:lastmodified":1466318210,
     "wof:name":"Church Of The Rock",
     "wof:parent_id":85817157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.627411,33.926274,-85.627411,33.926274],
+  "bbox": [
+    -85.627411,
+    33.926274,
+    -85.627411,
+    33.926274
+],
   "geometry": {"coordinates":[-85.627411,33.926274],"type":"Point"}
 }

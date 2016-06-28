@@ -2,13 +2,14 @@
   "id": 152488743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.395573,31.22528,-85.395573,31.22528",
     "geom:latitude":31.22528,
     "geom:longitude":-85.395573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 W Troy St",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852069,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85852069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152488743,
-    "wof:lastmodified":1449048797,
+    "wof:lastmodified":1466318276,
     "wof:name":"John E Waddell",
     "wof:parent_id":85852069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.395573,31.22528,-85.395573,31.22528],
+  "bbox": [
+    -85.395573,
+    31.22528,
+    -85.395573,
+    31.22528
+],
   "geometry": {"coordinates":[-85.395573,31.22528],"type":"Point"}
 }

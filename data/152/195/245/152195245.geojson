@@ -2,13 +2,14 @@
   "id": 152195245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.791907,33.334154,-86.791907,33.334154",
     "geom:latitude":33.334154,
     "geom:longitude":-86.791907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2236 Pelham Pkwy",
     "sg:city":"Pelham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85826867,
+        85688675,
         85633793,
         85914501,
         102085499,
-        85688675
+        85826867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152195245,
-    "wof:lastmodified":1449047336,
+    "wof:lastmodified":1466315873,
     "wof:name":"Factory Connection 3",
     "wof:parent_id":85826867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.791907,33.334154,-86.791907,33.334154],
-  "geometry": {"coordinates":[-86.791907,33.334154],"type":"Point"}
+  "bbox": [
+    -86.791907,
+    33.334154,
+    -86.791907,
+    33.334154
+],
+  "geometry": {"coordinates":[-86.79190699999999,33.334154],"type":"Point"}
 }

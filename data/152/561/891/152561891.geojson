@@ -2,13 +2,14 @@
   "id": 152561891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.451625,31.282923,-85.451625,31.282923",
     "geom:latitude":31.282923,
     "geom:longitude":-85.451625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3109 Oxmoor Ind Blvd",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152561891,
-    "wof:lastmodified":1449047575,
+    "wof:lastmodified":1466318634,
     "wof:name":"Windows Plus LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.451625,31.282923,-85.451625,31.282923],
-  "geometry": {"coordinates":[-85.451625,31.282923],"type":"Point"}
+  "bbox": [
+    -85.451625,
+    31.282923,
+    -85.451625,
+    31.282923
+],
+  "geometry": {"coordinates":[-85.45162500000001,31.282923],"type":"Point"}
 }

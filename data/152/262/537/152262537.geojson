@@ -2,13 +2,14 @@
   "id": 152262537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.010724,34.017866,-86.010724,34.017866",
     "geom:latitude":34.017866,
     "geom:longitude":-86.010724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"839 W Meighan Blvd",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805515,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675,
+        85805515,
         85822279
     ],
     "wof:breaches":[],
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":152262537,
-    "wof:lastmodified":1449047160,
+    "wof:lastmodified":1466316683,
     "wof:name":"Concord Custom Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.010724,34.017866,-86.010724,34.017866],
+  "bbox": [
+    -86.010724,
+    34.017866,
+    -86.010724,
+    34.017866
+],
   "geometry": {"coordinates":[-86.010724,34.017866],"type":"Point"}
 }

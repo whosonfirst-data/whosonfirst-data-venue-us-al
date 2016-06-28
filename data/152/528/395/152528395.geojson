@@ -2,13 +2,14 @@
   "id": 152528395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.221322,32.090657,-88.221322,32.090657",
     "geom:latitude":32.090657,
     "geom:longitude":-88.221322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 N Mulberry Ave",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822759,
+        85688675,
         85633793,
         85899781,
         102085727,
-        85688675
+        85822759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":152528395,
-    "wof:lastmodified":1449045540,
+    "wof:lastmodified":1466318548,
     "wof:name":"Butler Optical Center",
     "wof:parent_id":85822759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.221322,32.090657,-88.221322,32.090657],
+  "bbox": [
+    -88.221322,
+    32.090657,
+    -88.221322,
+    32.090657
+],
   "geometry": {"coordinates":[-88.221322,32.090657],"type":"Point"}
 }

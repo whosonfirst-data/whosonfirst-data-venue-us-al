@@ -2,13 +2,14 @@
   "id": 152305363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.760156,30.962936,-87.760156,30.962936",
     "geom:latitude":30.962936,
     "geom:longitude":-87.760156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50555 Rabun Rd",
     "sg:city":"Bay Minette",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813343,
+        85688675,
         85633793,
         85914703,
         102085469,
-        85688675
+        85813343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152305363,
-    "wof:lastmodified":1449045010,
+    "wof:lastmodified":1466317140,
     "wof:name":"Chevron",
     "wof:parent_id":85813343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.760156,30.962936,-87.760156,30.962936],
-  "geometry": {"coordinates":[-87.760156,30.962936],"type":"Point"}
+  "bbox": [
+    -87.760156,
+    30.962936,
+    -87.760156,
+    30.962936
+],
+  "geometry": {"coordinates":[-87.76015599999999,30.962936],"type":"Point"}
 }

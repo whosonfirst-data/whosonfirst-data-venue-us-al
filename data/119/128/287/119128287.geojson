@@ -2,13 +2,14 @@
   "id": 119128287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.046638,30.697498,-88.046638,30.697498",
     "geom:latitude":30.697498,
     "geom:longitude":-88.046638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Adams St",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.arserv.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895795,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85895795
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":119128287,
-    "wof:lastmodified":1449041792,
+    "wof:lastmodified":1466314467,
     "wof:name":"Armstrong & Assoc",
     "wof:parent_id":85895795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.046638,30.697498,-88.046638,30.697498],
+  "bbox": [
+    -88.046638,
+    30.697498,
+    -88.046638,
+    30.697498
+],
   "geometry": {"coordinates":[-88.046638,30.697498],"type":"Point"}
 }

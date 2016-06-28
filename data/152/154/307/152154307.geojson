@@ -2,13 +2,14 @@
   "id": 152154307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.475117,32.608903,-85.475117,32.608903",
     "geom:latitude":32.608903,
     "geom:longitude":-85.475117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 N Ross St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848213,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85848213
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152154307,
-    "wof:lastmodified":1449048954,
+    "wof:lastmodified":1466314779,
     "wof:name":"Betsy's On Ross",
     "wof:parent_id":85848213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.475117,32.608903,-85.475117,32.608903],
+  "bbox": [
+    -85.475117,
+    32.608903,
+    -85.475117,
+    32.608903
+],
   "geometry": {"coordinates":[-85.475117,32.608903],"type":"Point"}
 }

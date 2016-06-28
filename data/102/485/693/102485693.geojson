@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102485693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.735701,33.426592,-86.735701,33.426592",
     "geom:latitude":33.426592,
     "geom:longitude":-86.735701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4660 Caldwell Mill Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856691,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85856691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102485693,
-    "wof:lastmodified":1449069214,
+    "wof:lastmodified":1466315864,
     "wof:name":"God's House Kindergarten",
     "wof:parent_id":85856691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.735701,33.426592,-86.735701,33.426592],
-  "geometry": {"coordinates":[-86.735701,33.426592],"type":"Point"}
+  "bbox": [
+    -86.735701,
+    33.426592,
+    -86.735701,
+    33.426592
+],
+  "geometry": {"coordinates":[-86.73570100000001,33.426592],"type":"Point"}
 }

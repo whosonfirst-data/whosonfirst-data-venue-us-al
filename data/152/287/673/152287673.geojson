@@ -2,13 +2,14 @@
   "id": 152287673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.068106,34.850132,-87.068106,34.850132",
     "geom:latitude":34.850132,
     "geom:longitude":-87.068106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20308 Wallace Ln",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829531,
+        85688675,
         85633793,
         85913543,
         102085489,
-        85688675
+        85829531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152287673,
-    "wof:lastmodified":1449044577,
+    "wof:lastmodified":1466316998,
     "wof:name":"Quirozs Brothers",
     "wof:parent_id":85829531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.068106,34.850132,-87.068106,34.850132],
+  "bbox": [
+    -87.068106,
+    34.850132,
+    -87.068106,
+    34.850132
+],
   "geometry": {"coordinates":[-87.068106,34.850132],"type":"Point"}
 }

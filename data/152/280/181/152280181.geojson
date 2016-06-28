@@ -2,13 +2,14 @@
   "id": 152280181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.793216,33.504565,-86.793216,33.504565",
     "geom:latitude":33.504565,
     "geom:longitude":-86.793216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1025 23rd St S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -36,11 +37,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876275,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":152280181,
-    "wof:lastmodified":1449046572,
+    "wof:lastmodified":1466316767,
     "wof:name":"Applied Medical Solutions Inc",
     "wof:parent_id":85876275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.793216,33.504565,-86.793216,33.504565],
+  "bbox": [
+    -86.793216,
+    33.504565,
+    -86.793216,
+    33.504565
+],
   "geometry": {"coordinates":[-86.793216,33.504565],"type":"Point"}
 }

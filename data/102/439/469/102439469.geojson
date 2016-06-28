@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102439469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.780684,33.539398,-86.780684,33.539398",
     "geom:latitude":33.539398,
     "geom:longitude":-86.780684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3920 Richard Arrington Jr Blvd N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815977,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85815977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102439469,
-    "wof:lastmodified":1449068446,
+    "wof:lastmodified":1466314381,
     "wof:name":"Event Center",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.780684,33.539398,-86.780684,33.539398],
-  "geometry": {"coordinates":[-86.780684,33.539398],"type":"Point"}
+  "bbox": [
+    -86.780684,
+    33.539398,
+    -86.780684,
+    33.539398
+],
+  "geometry": {"coordinates":[-86.78068399999999,33.539398],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152757569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.389435,31.252145,-85.389435,31.252145",
     "geom:latitude":31.252145,
     "geom:longitude":-85.389435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1924 Reeves St",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859419,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85859419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152757569,
-    "wof:lastmodified":1449046911,
+    "wof:lastmodified":1466319646,
     "wof:name":"Gaines Photo Svc",
     "wof:parent_id":85859419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.389435,31.252145,-85.389435,31.252145],
-  "geometry": {"coordinates":[-85.389435,31.252145],"type":"Point"}
+  "bbox": [
+    -85.389435,
+    31.252145,
+    -85.389435,
+    31.252145
+],
+  "geometry": {"coordinates":[-85.38943500000001,31.252145],"type":"Point"}
 }

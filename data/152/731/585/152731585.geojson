@@ -2,13 +2,14 @@
   "id": 152731585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.802911,34.472426,-86.802911,34.472426",
     "geom:latitude":34.472426,
     "geom:longitude":-86.802911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3696 State Rte 67",
     "sg:city":"Somerville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152731585,
-    "wof:lastmodified":1449048405,
+    "wof:lastmodified":1466319487,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.802911,34.472426,-86.802911,34.472426],
-  "geometry": {"coordinates":[-86.802911,34.472426],"type":"Point"}
+  "bbox": [
+    -86.802911,
+    34.472426,
+    -86.802911,
+    34.472426
+],
+  "geometry": {"coordinates":[-86.80291099999999,34.472426],"type":"Point"}
 }

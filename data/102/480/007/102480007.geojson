@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102480007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.190767,30.533088,-88.190767,30.533088",
     "geom:latitude":30.533088,
     "geom:longitude":-88.190767,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6381 US Hwy 90",
     "sg:city":"Theodore",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878951,
+        85688675,
         85633793,
         85915075,
         102085585,
-        85688675
+        85878951
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102480007,
-    "wof:lastmodified":1449068577,
+    "wof:lastmodified":1466315103,
     "wof:name":"Buddy's Appliances",
     "wof:parent_id":85878951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.190767,30.533088,-88.190767,30.533088],
-  "geometry": {"coordinates":[-88.190767,30.533088],"type":"Point"}
+  "bbox": [
+    -88.190767,
+    30.533088,
+    -88.190767,
+    30.533088
+],
+  "geometry": {"coordinates":[-88.19076699999999,30.533088],"type":"Point"}
 }

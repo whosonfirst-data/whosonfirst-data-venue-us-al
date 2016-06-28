@@ -2,13 +2,14 @@
   "id": 152140233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.732693,34.632486,-86.732693,34.632486",
     "geom:latitude":34.632486,
     "geom:longitude":-86.732693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 River Bend Dr SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85838799,
+        85688675,
         85633793,
         85915405,
         102085487,
-        85688675
+        85838799
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152140233,
-    "wof:lastmodified":1449044973,
+    "wof:lastmodified":1466314323,
     "wof:name":"Cyberbend",
     "wof:parent_id":85838799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.732693,34.632486,-86.732693,34.632486],
+  "bbox": [
+    -86.732693,
+    34.632486,
+    -86.732693,
+    34.632486
+],
   "geometry": {"coordinates":[-86.732693,34.632486],"type":"Point"}
 }

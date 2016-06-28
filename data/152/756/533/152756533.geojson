@@ -2,13 +2,14 @@
   "id": 152756533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.310362,32.338138,-86.310362,32.338138",
     "geom:latitude":32.338138,
     "geom:longitude":-86.310362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Truett Dr",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879039,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152756533,
-    "wof:lastmodified":1449047064,
+    "wof:lastmodified":1466319539,
     "wof:name":"League Of Women Voters",
     "wof:parent_id":85879039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.310362,32.338138,-86.310362,32.338138],
+  "bbox": [
+    -86.310362,
+    32.338138,
+    -86.310362,
+    32.338138
+],
   "geometry": {"coordinates":[-86.310362,32.338138],"type":"Point"}
 }

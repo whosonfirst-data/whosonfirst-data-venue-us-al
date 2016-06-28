@@ -2,13 +2,14 @@
   "id": 152794723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.549383,33.154799,-87.549383,33.154799",
     "geom:latitude":33.154799,
     "geom:longitude":-87.549383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"827 Mimosa Park Rd",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152794723,
-    "wof:lastmodified":1449046526,
+    "wof:lastmodified":1466319736,
     "wof:name":"Hardin's Bakery Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.549383,33.154799,-87.549383,33.154799],
-  "geometry": {"coordinates":[-87.549383,33.154799],"type":"Point"}
+  "bbox": [
+    -87.549383,
+    33.154799,
+    -87.549383,
+    33.154799
+],
+  "geometry": {"coordinates":[-87.54938300000001,33.154799],"type":"Point"}
 }

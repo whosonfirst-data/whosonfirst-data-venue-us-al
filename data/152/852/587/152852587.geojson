@@ -2,13 +2,14 @@
   "id": 152852587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.473678,32.606486,-85.473678,32.606486",
     "geom:latitude":32.606486,
     "geom:longitude":-85.473678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"434 E Magnolia Ave",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819999,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85819999
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152852587,
-    "wof:lastmodified":1449048130,
+    "wof:lastmodified":1466320109,
     "wof:name":"Ronald Bayens Fine Portraits",
     "wof:parent_id":85819999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.473678,32.606486,-85.473678,32.606486],
-  "geometry": {"coordinates":[-85.473678,32.606486],"type":"Point"}
+  "bbox": [
+    -85.473678,
+    32.606486,
+    -85.473678,
+    32.606486
+],
+  "geometry": {"coordinates":[-85.47367800000001,32.606486],"type":"Point"}
 }

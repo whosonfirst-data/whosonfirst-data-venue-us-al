@@ -2,13 +2,14 @@
   "id": 152859525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.834315,33.616051,-85.834315,33.616051",
     "geom:latitude":33.616051,
     "geom:longitude":-85.834315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"95 E Oak St",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.fbcoxfordal.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829455,
+        85688675,
         85633793,
         85914281,
         102085603,
-        85688675
+        85829455
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152859525,
-    "wof:lastmodified":1449047606,
+    "wof:lastmodified":1466320367,
     "wof:name":"First Baptist Church Of Oxford",
     "wof:parent_id":85829455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.834315,33.616051,-85.834315,33.616051],
+  "bbox": [
+    -85.834315,
+    33.616051,
+    -85.834315,
+    33.616051
+],
   "geometry": {"coordinates":[-85.834315,33.616051],"type":"Point"}
 }

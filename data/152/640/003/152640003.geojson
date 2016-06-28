@@ -2,13 +2,14 @@
   "id": 152640003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.257698,33.16741,-86.257698,33.16741",
     "geom:latitude":33.16741,
     "geom:longitude":-86.257698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 W Fort Williams St",
     "sg:city":"Sylacauga",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.libnat.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834171,
+        85688675,
         85633793,
         85914133,
         102085517,
-        85688675
+        85834171
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152640003,
-    "wof:lastmodified":1449046322,
+    "wof:lastmodified":1466319279,
     "wof:name":"Liberty National Life Ins Co",
     "wof:parent_id":85834171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.257698,33.16741,-86.257698,33.16741],
+  "bbox": [
+    -86.257698,
+    33.16741,
+    -86.257698,
+    33.16741
+],
   "geometry": {"coordinates":[-86.257698,33.16741],"type":"Point"}
 }

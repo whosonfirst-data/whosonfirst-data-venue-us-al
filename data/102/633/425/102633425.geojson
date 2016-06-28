@@ -2,13 +2,14 @@
   "id": 102633425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.880753,33.324341,-86.880753,33.324341",
     "geom:latitude":33.324341,
     "geom:longitude":-86.880753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 Southview Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102633425,
-    "wof:lastmodified":1449070192,
+    "wof:lastmodified":1466317519,
     "wof:name":"Apartment Association",
     "wof:parent_id":85914475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.880753,33.324341,-86.880753,33.324341],
+  "bbox": [
+    -86.880753,
+    33.324341,
+    -86.880753,
+    33.324341
+],
   "geometry": {"coordinates":[-86.880753,33.324341],"type":"Point"}
 }

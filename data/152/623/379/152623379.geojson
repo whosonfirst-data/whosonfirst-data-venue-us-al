@@ -2,13 +2,14 @@
   "id": 152623379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.765362,33.380334,-86.765362,33.380334",
     "geom:latitude":33.380334,
     "geom:longitude":-86.765362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4555 Southlake Pkwy",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.adtrav.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853353,
+        85688675,
         85633793,
         85914511,
         102085499,
-        85688675
+        85853353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152623379,
-    "wof:lastmodified":1449047539,
+    "wof:lastmodified":1466318952,
     "wof:name":"Adventure Travel Agency",
     "wof:parent_id":85853353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.765362,33.380334,-86.765362,33.380334],
+  "bbox": [
+    -86.765362,
+    33.380334,
+    -86.765362,
+    33.380334
+],
   "geometry": {"coordinates":[-86.765362,33.380334],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152699753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.261587,34.585237,-87.261587,34.585237",
     "geom:latitude":34.585237,
     "geom:longitude":-87.261587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 Co Rd 292",
     "sg:city":"Moulton",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085601,
-        85633793,
         85688675,
-        85851971
+        85633793,
+        85851971,
+        102085601
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152699753,
-    "wof:lastmodified":1449044936,
+    "wof:lastmodified":1466319297,
     "wof:name":"Chris's Kitchen & Bath",
     "wof:parent_id":85851971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.261587,34.585237,-87.261587,34.585237],
-  "geometry": {"coordinates":[-87.261587,34.585237],"type":"Point"}
+  "bbox": [
+    -87.261587,
+    34.585237,
+    -87.261587,
+    34.585237
+],
+  "geometry": {"coordinates":[-87.26158700000001,34.585237],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152492593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.721437,33.3619,-86.721437,33.3619",
     "geom:latitude":33.3619,
     "geom:longitude":-86.721437,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Summer Cir",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85836661
+        85633793,
+        85836661,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152492593,
-    "wof:lastmodified":1449044284,
+    "wof:lastmodified":1466318403,
     "wof:name":"Birmingham Auto Glass",
     "wof:parent_id":85836661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.721437,33.3619,-86.721437,33.3619],
-  "geometry": {"coordinates":[-86.721437,33.3619],"type":"Point"}
+  "bbox": [
+    -86.721437,
+    33.3619,
+    -86.721437,
+    33.3619
+],
+  "geometry": {"coordinates":[-86.72143699999999,33.3619],"type":"Point"}
 }

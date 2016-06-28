@@ -2,13 +2,14 @@
   "id": 152720545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.366252,31.215766,-85.366252,31.215766",
     "geom:latitude":31.215766,
     "geom:longitude":-85.366252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 Haven Dr",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847911,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85847911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152720545,
-    "wof:lastmodified":1449045397,
+    "wof:lastmodified":1466319442,
     "wof:name":"Medical Specialties Of Dothan",
     "wof:parent_id":85847911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.366252,31.215766,-85.366252,31.215766],
+  "bbox": [
+    -85.366252,
+    31.215766,
+    -85.366252,
+    31.215766
+],
   "geometry": {"coordinates":[-85.366252,31.215766],"type":"Point"}
 }

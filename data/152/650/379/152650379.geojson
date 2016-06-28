@@ -2,13 +2,14 @@
   "id": 152650379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.960467,32.561347,-85.960467,32.561347",
     "geom:latitude":32.561347,
     "geom:longitude":-85.960467,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1051 Burt Mill Rd",
     "sg:city":"Tallassee",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827623,
+        85688675,
         85633793,
         85913291,
         102085631,
-        85688675
+        85827623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152650379,
-    "wof:lastmodified":1449047120,
+    "wof:lastmodified":1466319107,
     "wof:name":"C & C Window Screen",
     "wof:parent_id":85827623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.960467,32.561347,-85.960467,32.561347],
-  "geometry": {"coordinates":[-85.960467,32.561347],"type":"Point"}
+  "bbox": [
+    -85.960467,
+    32.561347,
+    -85.960467,
+    32.561347
+],
+  "geometry": {"coordinates":[-85.96046699999999,32.561347],"type":"Point"}
 }

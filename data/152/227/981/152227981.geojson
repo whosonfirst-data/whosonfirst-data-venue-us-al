@@ -2,13 +2,14 @@
   "id": 152227981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.003576,34.350482,-86.003576,34.350482",
     "geom:latitude":34.350482,
     "geom:longitude":-86.003576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"534 Co Rd 36",
     "sg:city":"Geraldine",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815015,
+        85688675,
         85633793,
         85897515,
         102085615,
-        85688675
+        85815015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152227981,
-    "wof:lastmodified":1449045324,
+    "wof:lastmodified":1466316221,
     "wof:name":"Rogers Electrical Service",
     "wof:parent_id":85815015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.003576,34.350482,-86.003576,34.350482],
+  "bbox": [
+    -86.003576,
+    34.350482,
+    -86.003576,
+    34.350482
+],
   "geometry": {"coordinates":[-86.003576,34.350482],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152329753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.583506,34.732839,-86.583506,34.732839",
     "geom:latitude":34.732839,
     "geom:longitude":-86.583506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Clinton Ave E",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.hhei.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878241,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878241
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152329753,
-    "wof:lastmodified":1449045584,
+    "wof:lastmodified":1466317421,
     "wof:name":"Hodnett Hurst Engineers Inc",
     "wof:parent_id":85878241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.583506,34.732839,-86.583506,34.732839],
+  "bbox": [
+    -86.583506,
+    34.732839,
+    -86.583506,
+    34.732839
+],
   "geometry": {"coordinates":[-86.583506,34.732839],"type":"Point"}
 }

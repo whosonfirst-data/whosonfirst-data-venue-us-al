@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102500337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.998212,34.576013,-86.998212,34.576013",
     "geom:latitude":34.576013,
     "geom:longitude":-86.998212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"714 Edgewood St SW",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848819,
+        85688675,
         85633793,
         85913589,
         102085531,
-        85688675
+        85848819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102500337,
-    "wof:lastmodified":1449068385,
+    "wof:lastmodified":1466316430,
     "wof:name":"Machine Tooling Service",
     "wof:parent_id":85848819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.998212,34.576013,-86.998212,34.576013],
+  "bbox": [
+    -86.998212,
+    34.576013,
+    -86.998212,
+    34.576013
+],
   "geometry": {"coordinates":[-86.998212,34.576013],"type":"Point"}
 }

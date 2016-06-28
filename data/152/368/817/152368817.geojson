@@ -2,13 +2,14 @@
   "id": 152368817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.575615,34.816506,-86.575615,34.816506",
     "geom:latitude":34.816506,
     "geom:longitude":-86.575615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12002 Rockcliff Dr NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85810031,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85810031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152368817,
-    "wof:lastmodified":1449045359,
+    "wof:lastmodified":1466317675,
     "wof:name":"Sparkleen Services Co Inc",
     "wof:parent_id":85810031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.575615,34.816506,-86.575615,34.816506],
+  "bbox": [
+    -86.575615,
+    34.816506,
+    -86.575615,
+    34.816506
+],
   "geometry": {"coordinates":[-86.575615,34.816506],"type":"Point"}
 }

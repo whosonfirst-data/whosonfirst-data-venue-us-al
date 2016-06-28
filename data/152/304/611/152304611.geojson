@@ -2,13 +2,14 @@
   "id": 152304611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.811933,33.517891,-86.811933,33.517891",
     "geom:latitude":33.517891,
     "geom:longitude":-86.811933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1710 6th Ave N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820315,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85820315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152304611,
-    "wof:lastmodified":1449047745,
+    "wof:lastmodified":1466317153,
     "wof:name":"Bosch & Bingham LLP",
     "wof:parent_id":85820315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.811933,33.517891,-86.811933,33.517891],
+  "bbox": [
+    -86.811933,
+    33.517891,
+    -86.811933,
+    33.517891
+],
   "geometry": {"coordinates":[-86.811933,33.517891],"type":"Point"}
 }

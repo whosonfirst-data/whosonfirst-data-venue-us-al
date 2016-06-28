@@ -2,13 +2,14 @@
   "id": 152226609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.618519,34.69816,-86.618519,34.69816",
     "geom:latitude":34.69816,
     "geom:longitude":-86.618519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3607 Drake Ave SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840971,
+        85688675,
         85633793,
         85915405,
         102085487,
-        85688675
+        85840971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152226609,
-    "wof:lastmodified":1449047651,
+    "wof:lastmodified":1466316258,
     "wof:name":"Brannon Lebert Paint & Repair",
     "wof:parent_id":85840971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.618519,34.69816,-86.618519,34.69816],
-  "geometry": {"coordinates":[-86.618519,34.69816],"type":"Point"}
+  "bbox": [
+    -86.618519,
+    34.69816,
+    -86.618519,
+    34.69816
+],
+  "geometry": {"coordinates":[-86.61851900000001,34.69816],"type":"Point"}
 }

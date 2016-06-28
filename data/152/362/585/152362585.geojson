@@ -2,13 +2,14 @@
   "id": 152362585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.908611,34.368724,-86.908611,34.368724",
     "geom:latitude":34.368724,
     "geom:longitude":-86.908611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 W 3rd St",
     "sg:city":"Falkville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851807,
+        85688675,
         85633793,
         85914103,
         102085531,
-        85688675
+        85851807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152362585,
-    "wof:lastmodified":1449047286,
+    "wof:lastmodified":1466317497,
     "wof:name":"Falkville Healthcare Ctr",
     "wof:parent_id":85851807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.908611,34.368724,-86.908611,34.368724],
-  "geometry": {"coordinates":[-86.908611,34.368724],"type":"Point"}
+  "bbox": [
+    -86.908611,
+    34.368724,
+    -86.908611,
+    34.368724
+],
+  "geometry": {"coordinates":[-86.90861099999999,34.368724],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152758529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.407281,32.480375,-85.407281,32.480375",
     "geom:latitude":32.480375,
     "geom:longitude":-85.407281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1004 Co Rd 157",
     "sg:city":"Opelika",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85838773,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85838773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152758529,
-    "wof:lastmodified":1449045701,
+    "wof:lastmodified":1466319641,
     "wof:name":"Amling and Associates",
     "wof:parent_id":85838773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.407281,32.480375,-85.407281,32.480375],
+  "bbox": [
+    -85.407281,
+    32.480375,
+    -85.407281,
+    32.480375
+],
   "geometry": {"coordinates":[-85.407281,32.480375],"type":"Point"}
 }

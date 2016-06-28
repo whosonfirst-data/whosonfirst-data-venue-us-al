@@ -2,13 +2,14 @@
   "id": 152495621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.585536,34.749125,-86.585536,34.749125",
     "geom:latitude":34.749125,
     "geom:longitude":-86.585536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Oakwood Ave NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878235,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878235
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152495621,
-    "wof:lastmodified":1449046349,
+    "wof:lastmodified":1466318324,
     "wof:name":"Alabama Medical Equipment",
     "wof:parent_id":85878235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.585536,34.749125,-86.585536,34.749125],
+  "bbox": [
+    -86.585536,
+    34.749125,
+    -86.585536,
+    34.749125
+],
   "geometry": {"coordinates":[-86.585536,34.749125],"type":"Point"}
 }

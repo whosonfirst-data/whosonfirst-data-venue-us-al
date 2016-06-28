@@ -2,13 +2,14 @@
   "id": 152359495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.747476,31.883575,-87.747476,31.883575",
     "geom:latitude":31.883575,
     "geom:longitude":-87.747476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"806 Windsorwood Cir",
     "sg:city":"Thomasville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152359495,
-    "wof:lastmodified":1449044215,
+    "wof:lastmodified":1466317764,
     "wof:name":"Don Murray",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.747476,31.883575,-87.747476,31.883575],
-  "geometry": {"coordinates":[-87.747476,31.883575],"type":"Point"}
+  "bbox": [
+    -87.747476,
+    31.883575,
+    -87.747476,
+    31.883575
+],
+  "geometry": {"coordinates":[-87.74747600000001,31.883575],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152618289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.571745,34.737641,-86.571745,34.737641",
     "geom:latitude":34.737641,
     "geom:longitude":-86.571745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 Lacy St NE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819449,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85819449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152618289,
-    "wof:lastmodified":1449047178,
+    "wof:lastmodified":1466318912,
     "wof:name":"Connie Ulrich Designs",
     "wof:parent_id":85819449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.571745,34.737641,-86.571745,34.737641],
-  "geometry": {"coordinates":[-86.571745,34.737641],"type":"Point"}
+  "bbox": [
+    -86.571745,
+    34.737641,
+    -86.571745,
+    34.737641
+],
+  "geometry": {"coordinates":[-86.57174500000001,34.737641],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152191223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.464892,32.608997,-85.464892,32.608997",
     "geom:latitude":32.608997,
     "geom:longitude":-85.464892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 N Dean Rd",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819999,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85819999
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152191223,
-    "wof:lastmodified":1449047097,
+    "wof:lastmodified":1466315826,
     "wof:name":"Harper Insurance",
     "wof:parent_id":85819999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.464892,32.608997,-85.464892,32.608997],
-  "geometry": {"coordinates":[-85.464892,32.608997],"type":"Point"}
+  "bbox": [
+    -85.464892,
+    32.608997,
+    -85.464892,
+    32.608997
+],
+  "geometry": {"coordinates":[-85.46489200000001,32.608997],"type":"Point"}
 }

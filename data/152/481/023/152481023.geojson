@@ -2,13 +2,14 @@
   "id": 152481023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.738911,32.815915,-85.738911,32.815915",
     "geom:latitude":32.815915,
     "geom:longitude":-85.738911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"479 Pearson Cir",
     "sg:city":"Dadeville",
     "sg:classifiers":[
@@ -33,11 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848983,
+        85688675,
         85633793,
         85913327,
         102085567,
-        85688675
+        85848983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":152481023,
-    "wof:lastmodified":1449048332,
+    "wof:lastmodified":1466318224,
     "wof:name":"Express Carpet & Upholstery",
     "wof:parent_id":85848983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.738911,32.815915,-85.738911,32.815915],
+  "bbox": [
+    -85.738911,
+    32.815915,
+    -85.738911,
+    32.815915
+],
   "geometry": {"coordinates":[-85.738911,32.815915],"type":"Point"}
 }

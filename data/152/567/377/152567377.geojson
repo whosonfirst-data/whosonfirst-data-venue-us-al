@@ -2,13 +2,14 @@
   "id": 152567377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.377251,31.219139,-85.377251,31.219139",
     "geom:latitude":31.219139,
     "geom:longitude":-85.377251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 4th Ave",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847911,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85847911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152567377,
-    "wof:lastmodified":1449048927,
+    "wof:lastmodified":1466318658,
     "wof:name":"Frank's Barber Shop",
     "wof:parent_id":85847911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.377251,31.219139,-85.377251,31.219139],
+  "bbox": [
+    -85.377251,
+    31.219139,
+    -85.377251,
+    31.219139
+],
   "geometry": {"coordinates":[-85.377251,31.219139],"type":"Point"}
 }

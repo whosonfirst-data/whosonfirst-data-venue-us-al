@@ -2,13 +2,14 @@
   "id": 152604875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.613302,34.797405,-86.613302,34.797405",
     "geom:latitude":34.797405,
     "geom:longitude":-86.613302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6028 Lincoya Dr",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85810627,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85810627
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152604875,
-    "wof:lastmodified":1449048388,
+    "wof:lastmodified":1466318897,
     "wof:name":"Hobbs Lawn & Garden",
     "wof:parent_id":85810627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.613302,34.797405,-86.613302,34.797405],
+  "bbox": [
+    -86.613302,
+    34.797405,
+    -86.613302,
+    34.797405
+],
   "geometry": {"coordinates":[-86.613302,34.797405],"type":"Point"}
 }

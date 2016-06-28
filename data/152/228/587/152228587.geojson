@@ -2,13 +2,14 @@
   "id": 152228587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.67759,34.735789,-86.67759,34.735789",
     "geom:latitude":34.735789,
     "geom:longitude":-86.67759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"675 Discovery Dr NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85826841,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85826841
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152228587,
-    "wof:lastmodified":1449045747,
+    "wof:lastmodified":1466316377,
     "wof:name":"Ugf Inc",
     "wof:parent_id":85826841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.67759,34.735789,-86.67759,34.735789],
+  "bbox": [
+    -86.67759,
+    34.735789,
+    -86.67759,
+    34.735789
+],
   "geometry": {"coordinates":[-86.67759,34.735789],"type":"Point"}
 }

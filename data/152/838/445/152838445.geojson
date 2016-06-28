@@ -2,13 +2,14 @@
   "id": 152838445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.566347,34.655457,-86.566347,34.655457",
     "geom:latitude":34.655457,
     "geom:longitude":-86.566347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8302 Whitesburg Dr S",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -38,11 +39,11 @@
     "sg:website":"www.generalstandards.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85830495,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85830495
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,14 +62,20 @@
         }
     ],
     "wof:id":152838445,
-    "wof:lastmodified":1449044865,
+    "wof:lastmodified":1466320033,
     "wof:name":"General Standards Corporation",
     "wof:parent_id":85830495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.566347,34.655457,-86.566347,34.655457],
-  "geometry": {"coordinates":[-86.566347,34.655457],"type":"Point"}
+  "bbox": [
+    -86.566347,
+    34.655457,
+    -86.566347,
+    34.655457
+],
+  "geometry": {"coordinates":[-86.56634699999999,34.655457],"type":"Point"}
 }

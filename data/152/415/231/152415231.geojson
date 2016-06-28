@@ -2,13 +2,14 @@
   "id": 152415231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.683391,30.394638,-87.683391,30.394638",
     "geom:latitude":30.394638,
     "geom:longitude":-87.683391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1402 McKenzie St",
     "sg:city":"Foley",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868551,
+        85688675,
         85633793,
         85914719,
         102085469,
-        85688675
+        85868551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152415231,
-    "wof:lastmodified":1449047631,
+    "wof:lastmodified":1466317903,
     "wof:name":"Ben Castleberry Insurance",
     "wof:parent_id":85868551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.683391,30.394638,-87.683391,30.394638],
+  "bbox": [
+    -87.683391,
+    30.394638,
+    -87.683391,
+    30.394638
+],
   "geometry": {"coordinates":[-87.683391,30.394638],"type":"Point"}
 }

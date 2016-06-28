@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102478367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.79385,33.476023,-86.79385,33.476023",
     "geom:latitude":33.476023,
     "geom:longitude":-86.79385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3124 Overton Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845971,
+        85688675,
         85633793,
         85914847,
         102085481,
-        85688675
+        85845971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102478367,
-    "wof:lastmodified":1449067850,
+    "wof:lastmodified":1466314781,
     "wof:name":"A S I Modulex",
     "wof:parent_id":85845971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.79385,33.476023,-86.79385,33.476023],
-  "geometry": {"coordinates":[-86.79385,33.476023],"type":"Point"}
+  "bbox": [
+    -86.79385,
+    33.476023,
+    -86.79385,
+    33.476023
+],
+  "geometry": {"coordinates":[-86.79385000000001,33.476023],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102609327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.474126,34.662535,-86.474126,34.662535",
     "geom:latitude":34.662535,
     "geom:longitude":-86.474126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3039 Augusta Trce",
     "sg:city":"Owens Cross Roads",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878245,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102609327,
-    "wof:lastmodified":1449068668,
+    "wof:lastmodified":1466317275,
     "wof:name":"Infi Net Edge Inc",
     "wof:parent_id":85878245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.474126,34.662535,-86.474126,34.662535],
+  "bbox": [
+    -86.474126,
+    34.662535,
+    -86.474126,
+    34.662535
+],
   "geometry": {"coordinates":[-86.474126,34.662535],"type":"Point"}
 }

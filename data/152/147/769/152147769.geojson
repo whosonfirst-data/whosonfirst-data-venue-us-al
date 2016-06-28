@@ -2,13 +2,14 @@
   "id": 152147769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.903953,30.522257,-87.903953,30.522257",
     "geom:latitude":30.522257,
     "geom:longitude":-87.903953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"328 de la Mare Ave",
     "sg:city":"Fairhope",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854025,
+        85688675,
         85633793,
         85914707,
         102085469,
-        85688675
+        85854025
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152147769,
-    "wof:lastmodified":1449048420,
+    "wof:lastmodified":1466315468,
     "wof:name":"Taylor's",
     "wof:parent_id":85854025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.903953,30.522257,-87.903953,30.522257],
+  "bbox": [
+    -87.903953,
+    30.522257,
+    -87.903953,
+    30.522257
+],
   "geometry": {"coordinates":[-87.903953,30.522257],"type":"Point"}
 }

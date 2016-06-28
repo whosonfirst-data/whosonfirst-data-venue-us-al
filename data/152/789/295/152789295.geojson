@@ -2,13 +2,14 @@
   "id": 152789295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.880276,30.521559,-87.880276,30.521559",
     "geom:latitude":30.521559,
     "geom:longitude":-87.880276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 McCue Cir",
     "sg:city":"Fairhope",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854025,
+        85688675,
         85633793,
         85914707,
         102085469,
-        85688675
+        85854025
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152789295,
-    "wof:lastmodified":1449046396,
+    "wof:lastmodified":1466319838,
     "wof:name":"Fairhope Service Centers",
     "wof:parent_id":85854025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.880276,30.521559,-87.880276,30.521559],
-  "geometry": {"coordinates":[-87.880276,30.521559],"type":"Point"}
+  "bbox": [
+    -87.880276,
+    30.521559,
+    -87.880276,
+    30.521559
+],
+  "geometry": {"coordinates":[-87.88027599999999,30.521559],"type":"Point"}
 }

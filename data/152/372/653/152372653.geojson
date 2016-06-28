@@ -2,13 +2,14 @@
   "id": 152372653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.971461,34.543782,-86.971461,34.543782",
     "geom:latitude":34.543782,
     "geom:longitude":-86.971461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1402 Southfield Dr SE",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     "sg:website":"www.sue-jac.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85804905,
+        85688675,
         85633793,
         85913589,
         102085531,
-        85688675
+        85804905
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152372653,
-    "wof:lastmodified":1449047100,
+    "wof:lastmodified":1466317709,
     "wof:name":"Sue-Jac Inc",
     "wof:parent_id":85804905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.971461,34.543782,-86.971461,34.543782],
-  "geometry": {"coordinates":[-86.971461,34.543782],"type":"Point"}
+  "bbox": [
+    -86.971461,
+    34.543782,
+    -86.971461,
+    34.543782
+],
+  "geometry": {"coordinates":[-86.97146100000001,34.543782],"type":"Point"}
 }

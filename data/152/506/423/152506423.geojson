@@ -2,13 +2,14 @@
   "id": 152506423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.839905,30.631153,-87.839905,30.631153",
     "geom:latitude":30.631153,
     "geom:longitude":-87.839905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10624 Redfern Rd",
     "sg:city":"Daphne",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840537,
+        85688675,
         85633793,
         85914695,
         102085469,
-        85688675
+        85840537
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152506423,
-    "wof:lastmodified":1449044395,
+    "wof:lastmodified":1466318343,
     "wof:name":"Great Atlantic Mortgage",
     "wof:parent_id":85840537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.839905,30.631153,-87.839905,30.631153],
+  "bbox": [
+    -87.839905,
+    30.631153,
+    -87.839905,
+    30.631153
+],
   "geometry": {"coordinates":[-87.839905,30.631153],"type":"Point"}
 }

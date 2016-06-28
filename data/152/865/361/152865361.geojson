@@ -2,13 +2,14 @@
   "id": 152865361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.813452,33.512416,-86.813452,33.512416",
     "geom:latitude":33.512416,
     "geom:longitude":-86.813452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 15th St N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820315,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85820315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152865361,
-    "wof:lastmodified":1449047787,
+    "wof:lastmodified":1466320173,
     "wof:name":"D & K Inc",
     "wof:parent_id":85820315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.813452,33.512416,-86.813452,33.512416],
+  "bbox": [
+    -86.813452,
+    33.512416,
+    -86.813452,
+    33.512416
+],
   "geometry": {"coordinates":[-86.813452,33.512416],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152628041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.882243,33.322017,-86.882243,33.322017",
     "geom:latitude":33.322017,
     "geom:longitude":-86.882243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Southview Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851743,
+        85688675,
         85633793,
         85914471,
         102085499,
-        85688675
+        85851743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152628041,
-    "wof:lastmodified":1449048043,
+    "wof:lastmodified":1466318960,
     "wof:name":"Old South Builders Inc",
     "wof:parent_id":85851743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.882243,33.322017,-86.882243,33.322017],
+  "bbox": [
+    -86.882243,
+    33.322017,
+    -86.882243,
+    33.322017
+],
   "geometry": {"coordinates":[-86.882243,33.322017],"type":"Point"}
 }

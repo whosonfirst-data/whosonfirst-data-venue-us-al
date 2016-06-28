@@ -2,13 +2,14 @@
   "id": 102630839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.912527,30.636719,-87.912527,30.636719",
     "geom:latitude":30.636719,
     "geom:longitude":-87.912527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28080 US Hwy 98",
     "sg:city":"Daphne",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840537,
+        85688675,
         85633793,
         85914695,
         102085469,
-        85688675
+        85840537
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102630839,
-    "wof:lastmodified":1449068648,
+    "wof:lastmodified":1466317482,
     "wof:name":"Larry D Faison PHD",
     "wof:parent_id":85840537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.912527,30.636719,-87.912527,30.636719],
+  "bbox": [
+    -87.912527,
+    30.636719,
+    -87.912527,
+    30.636719
+],
   "geometry": {"coordinates":[-87.912527,30.636719],"type":"Point"}
 }

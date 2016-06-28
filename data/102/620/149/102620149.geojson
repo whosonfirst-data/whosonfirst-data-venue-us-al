@@ -2,13 +2,14 @@
   "id": 102620149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.226987,33.839175,-87.226987,33.839175",
     "geom:latitude":33.839175,
     "geom:longitude":-87.226987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24888 State Rte 69",
     "sg:city":"Jasper",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102620149,
-    "wof:lastmodified":1449069984,
+    "wof:lastmodified":1466317410,
     "wof:name":"Jasper Uniforms",
     "wof:parent_id":85913495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.226987,33.839175,-87.226987,33.839175],
-  "geometry": {"coordinates":[-87.226987,33.839175],"type":"Point"}
+  "bbox": [
+    -87.226987,
+    33.839175,
+    -87.226987,
+    33.839175
+],
+  "geometry": {"coordinates":[-87.22698699999999,33.839175],"type":"Point"}
 }

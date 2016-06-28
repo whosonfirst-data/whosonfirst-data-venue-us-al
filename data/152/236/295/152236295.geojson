@@ -2,13 +2,14 @@
   "id": 152236295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.706288,34.734503,-87.706288,34.734503",
     "geom:latitude":34.734503,
     "geom:longitude":-87.706288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 W 3rd St",
     "sg:city":"Tuscumbia",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85832153,
+        85688675,
         85633793,
         85897447,
         102085625,
-        85688675
+        85832153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152236295,
-    "wof:lastmodified":1449044799,
+    "wof:lastmodified":1466316368,
     "wof:name":"Gargis Robert S",
     "wof:parent_id":85832153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.706288,34.734503,-87.706288,34.734503],
+  "bbox": [
+    -87.706288,
+    34.734503,
+    -87.706288,
+    34.734503
+],
   "geometry": {"coordinates":[-87.706288,34.734503],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152219539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.283681,32.361529,-86.283681,32.361529",
     "geom:latitude":32.361529,
     "geom:longitude":-86.283681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1810 W 5th St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825725,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85825725
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152219539,
-    "wof:lastmodified":1449048727,
+    "wof:lastmodified":1466316245,
     "wof:name":"Montgomery Independent Inc",
     "wof:parent_id":85825725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.283681,32.361529,-86.283681,32.361529],
+  "bbox": [
+    -86.283681,
+    32.361529,
+    -86.283681,
+    32.361529
+],
   "geometry": {"coordinates":[-86.283681,32.361529],"type":"Point"}
 }

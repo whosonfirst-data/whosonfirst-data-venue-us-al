@@ -2,13 +2,14 @@
   "id": 152517859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.39239,31.244338,-85.39239,31.244338",
     "geom:latitude":31.244338,
     "geom:longitude":-85.39239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1486 Reeves St",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848307,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85848307
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152517859,
-    "wof:lastmodified":1449046945,
+    "wof:lastmodified":1466318511,
     "wof:name":"Collision Center",
     "wof:parent_id":85848307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.39239,31.244338,-85.39239,31.244338],
-  "geometry": {"coordinates":[-85.39239,31.244338],"type":"Point"}
+  "bbox": [
+    -85.39239,
+    31.244338,
+    -85.39239,
+    31.244338
+],
+  "geometry": {"coordinates":[-85.39239000000001,31.244338],"type":"Point"}
 }

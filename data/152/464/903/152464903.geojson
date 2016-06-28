@@ -2,13 +2,14 @@
   "id": 152464903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.609282,33.908435,-85.609282,33.908435",
     "geom:latitude":33.908435,
     "geom:longitude":-85.609282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19744 State Rte 9",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817157,
+        85688675,
         85633793,
         85914293,
         102085603,
-        85688675
+        85817157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152464903,
-    "wof:lastmodified":1449045540,
+    "wof:lastmodified":1466318145,
     "wof:name":"Bunks Feed",
     "wof:parent_id":85817157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.609282,33.908435,-85.609282,33.908435],
-  "geometry": {"coordinates":[-85.609282,33.908435],"type":"Point"}
+  "bbox": [
+    -85.609282,
+    33.908435,
+    -85.609282,
+    33.908435
+],
+  "geometry": {"coordinates":[-85.60928199999999,33.908435],"type":"Point"}
 }

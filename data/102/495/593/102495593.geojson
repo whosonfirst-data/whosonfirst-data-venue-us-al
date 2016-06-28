@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102495593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.425813,32.476478,-86.425813,32.476478",
     "geom:latitude":32.476478,
     "geom:longitude":-86.425813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Aberdeen Ct",
     "sg:city":"Prattville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858707,
+        85688675,
         85633793,
         85913977,
         102085509,
-        85688675
+        85858707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102495593,
-    "wof:lastmodified":1449068829,
+    "wof:lastmodified":1466316261,
     "wof:name":"Goss Builders Inc",
     "wof:parent_id":85858707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.425813,32.476478,-86.425813,32.476478],
-  "geometry": {"coordinates":[-86.425813,32.476478],"type":"Point"}
+  "bbox": [
+    -86.425813,
+    32.476478,
+    -86.425813,
+    32.476478
+],
+  "geometry": {"coordinates":[-86.42581300000001,32.476478],"type":"Point"}
 }

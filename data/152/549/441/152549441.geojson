@@ -2,13 +2,14 @@
   "id": 152549441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.068447,30.829482,-88.068447,30.829482",
     "geom:latitude":30.829482,
     "geom:longitude":-88.068447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"228 Saraland Blvd N",
     "sg:city":"Saraland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152549441,
-    "wof:lastmodified":1449045570,
+    "wof:lastmodified":1466318593,
     "wof:name":"Willie Speight",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.068447,30.829482,-88.068447,30.829482],
-  "geometry": {"coordinates":[-88.068447,30.829482],"type":"Point"}
+  "bbox": [
+    -88.068447,
+    30.829482,
+    -88.068447,
+    30.829482
+],
+  "geometry": {"coordinates":[-88.06844700000001,30.829482],"type":"Point"}
 }

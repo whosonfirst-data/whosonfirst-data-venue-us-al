@@ -2,13 +2,14 @@
   "id": 152388977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.758417,34.607034,-87.758417,34.607034",
     "geom:latitude":34.607034,
     "geom:longitude":-87.758417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5290 Underwood Mountain Rd",
     "sg:city":"Tuscumbia",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852605,
+        85688675,
         85633793,
         85897447,
         102085625,
-        85688675
+        85852605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152388977,
-    "wof:lastmodified":1449044469,
+    "wof:lastmodified":1466317792,
     "wof:name":"Johnson's Leather",
     "wof:parent_id":85852605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.758417,34.607034,-87.758417,34.607034],
-  "geometry": {"coordinates":[-87.758417,34.607034],"type":"Point"}
+  "bbox": [
+    -87.758417,
+    34.607034,
+    -87.758417,
+    34.607034
+],
+  "geometry": {"coordinates":[-87.75841699999999,34.607034],"type":"Point"}
 }

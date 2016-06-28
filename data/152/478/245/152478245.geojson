@@ -2,13 +2,14 @@
   "id": 152478245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.774393,33.531173,-86.774393,33.531173",
     "geom:latitude":33.531173,
     "geom:longitude":-86.774393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"527 42nd Pl N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815977,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85815977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152478245,
-    "wof:lastmodified":1449044451,
+    "wof:lastmodified":1466318300,
     "wof:name":"Harmony Street Baptist Church",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.774393,33.531173,-86.774393,33.531173],
+  "bbox": [
+    -86.774393,
+    33.531173,
+    -86.774393,
+    33.531173
+],
   "geometry": {"coordinates":[-86.774393,33.531173],"type":"Point"}
 }

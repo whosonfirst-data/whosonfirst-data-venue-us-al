@@ -2,13 +2,14 @@
   "id": 152124837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.405133,32.624566,-85.405133,32.624566",
     "geom:latitude":32.624566,
     "geom:longitude":-85.405133,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2202 Gateway Dr",
     "sg:city":"Opelika",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819517,
+        85688675,
         85633793,
         85913815,
         102085751,
-        85688675
+        85819517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":152124837,
-    "wof:lastmodified":1449048558,
+    "wof:lastmodified":1466314751,
     "wof:name":"Georgia-Pacific Corp",
     "wof:parent_id":85819517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.405133,32.624566,-85.405133,32.624566],
-  "geometry": {"coordinates":[-85.405133,32.624566],"type":"Point"}
+  "bbox": [
+    -85.405133,
+    32.624566,
+    -85.405133,
+    32.624566
+],
+  "geometry": {"coordinates":[-85.40513300000001,32.624566],"type":"Point"}
 }

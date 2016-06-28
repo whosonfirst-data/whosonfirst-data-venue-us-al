@@ -2,13 +2,14 @@
   "id": 152846227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.826033,33.534601,-86.826033,33.534601",
     "geom:latitude":33.534601,
     "geom:longitude":-86.826033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1707 16th Pl N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876271,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876271
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152846227,
-    "wof:lastmodified":1449047877,
+    "wof:lastmodified":1466320074,
     "wof:name":"Cnl Club House",
     "wof:parent_id":85876271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.826033,33.534601,-86.826033,33.534601],
+  "bbox": [
+    -86.826033,
+    33.534601,
+    -86.826033,
+    33.534601
+],
   "geometry": {"coordinates":[-86.826033,33.534601],"type":"Point"}
 }

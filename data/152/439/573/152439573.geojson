@@ -2,13 +2,14 @@
   "id": 152439573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.302602,30.79398,-88.302602,30.79398",
     "geom:latitude":30.79398,
     "geom:longitude":-88.302602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5551 Old Moffat Rd",
     "sg:city":"Wilmer",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085585,
-        85633793,
         85688675,
-        85878987
+        85633793,
+        85878987,
+        102085585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152439573,
-    "wof:lastmodified":1449045576,
+    "wof:lastmodified":1466317915,
     "wof:name":"Dunaway Contracting Company",
     "wof:parent_id":85878987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.302602,30.79398,-88.302602,30.79398],
-  "geometry": {"coordinates":[-88.302602,30.79398],"type":"Point"}
+  "bbox": [
+    -88.302602,
+    30.79398,
+    -88.302602,
+    30.79398
+],
+  "geometry": {"coordinates":[-88.30260199999999,30.79398],"type":"Point"}
 }

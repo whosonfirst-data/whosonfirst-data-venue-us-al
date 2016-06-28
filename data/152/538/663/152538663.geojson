@@ -2,13 +2,14 @@
   "id": 152538663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.806342,33.551908,-86.806342,33.551908",
     "geom:latitude":33.551908,
     "geom:longitude":-86.806342,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3031 29th Ave N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837367,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85837367
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152538663,
-    "wof:lastmodified":1449044887,
+    "wof:lastmodified":1466318695,
     "wof:name":"Birmingham Housing Authority",
     "wof:parent_id":85837367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.806342,33.551908,-86.806342,33.551908],
+  "bbox": [
+    -86.806342,
+    33.551908,
+    -86.806342,
+    33.551908
+],
   "geometry": {"coordinates":[-86.806342,33.551908],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152354443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.081582,30.673137,-88.081582,30.673137",
     "geom:latitude":30.673137,
     "geom:longitude":-88.081582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1809 Duncan St",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878975,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878975
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152354443,
-    "wof:lastmodified":1449048404,
+    "wof:lastmodified":1466317766,
     "wof:name":"Christians Bible Teaching Chr",
     "wof:parent_id":85878975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.081582,30.673137,-88.081582,30.673137],
+  "bbox": [
+    -88.081582,
+    30.673137,
+    -88.081582,
+    30.673137
+],
   "geometry": {"coordinates":[-88.081582,30.673137],"type":"Point"}
 }

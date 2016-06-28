@@ -2,13 +2,14 @@
   "id": 152734187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.27714,31.185925,-85.27714,31.185925",
     "geom:latitude":31.185925,
     "geom:longitude":-85.27714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"338 Stone Ridge",
     "sg:city":"Ashford",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847911,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85847911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152734187,
-    "wof:lastmodified":1449048332,
+    "wof:lastmodified":1466319366,
     "wof:name":"Keith Steele",
     "wof:parent_id":85847911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.27714,31.185925,-85.27714,31.185925],
+  "bbox": [
+    -85.27714,
+    31.185925,
+    -85.27714,
+    31.185925
+],
   "geometry": {"coordinates":[-85.27714,31.185925],"type":"Point"}
 }

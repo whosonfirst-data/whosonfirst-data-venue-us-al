@@ -2,13 +2,14 @@
   "id": 152524605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.311547,31.205564,-87.311547,31.205564",
     "geom:latitude":31.205564,
     "geom:longitude":-87.311547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"60 Charlie Dawson Rd",
     "sg:city":"Brewton",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843687,
+        85688675,
         85633793,
         85899775,
         102085735,
-        85688675
+        85843687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152524605,
-    "wof:lastmodified":1449044242,
+    "wof:lastmodified":1466318450,
     "wof:name":"APAC Alabama Inc",
     "wof:parent_id":85843687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.311547,31.205564,-87.311547,31.205564],
+  "bbox": [
+    -87.311547,
+    31.205564,
+    -87.311547,
+    31.205564
+],
   "geometry": {"coordinates":[-87.311547,31.205564],"type":"Point"}
 }

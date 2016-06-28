@@ -2,13 +2,14 @@
   "id": 152276813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.391486,32.64603,-85.391486,32.64603",
     "geom:latitude":32.64603,
     "geom:longitude":-85.391486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 Simmons St",
     "sg:city":"Opelika",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819517,
+        85688675,
         85633793,
         85913815,
         102085751,
-        85688675
+        85819517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152276813,
-    "wof:lastmodified":1449044462,
+    "wof:lastmodified":1466316940,
     "wof:name":"Rockybrook Development Inc",
     "wof:parent_id":85819517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.391486,32.64603,-85.391486,32.64603],
+  "bbox": [
+    -85.391486,
+    32.64603,
+    -85.391486,
+    32.64603
+],
   "geometry": {"coordinates":[-85.391486,32.64603],"type":"Point"}
 }

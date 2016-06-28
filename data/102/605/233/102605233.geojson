@@ -2,13 +2,14 @@
   "id": 102605233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.800351,33.670971,-86.800351,33.670971",
     "geom:latitude":33.670971,
     "geom:longitude":-86.800351,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1740 Magnolia St",
     "sg:city":"Gardendale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102605233,
-    "wof:lastmodified":1449068938,
+    "wof:lastmodified":1466317153,
     "wof:name":"Alpine Power Systems",
     "wof:parent_id":85914857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.800351,33.670971,-86.800351,33.670971],
-  "geometry": {"coordinates":[-86.800351,33.670971],"type":"Point"}
+  "bbox": [
+    -86.800351,
+    33.670971,
+    -86.800351,
+    33.670971
+],
+  "geometry": {"coordinates":[-86.80035100000001,33.670971],"type":"Point"}
 }

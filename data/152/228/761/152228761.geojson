@@ -2,13 +2,14 @@
   "id": 152228761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.841993,31.323747,-85.841993,31.323747",
     "geom:latitude":31.323747,
     "geom:longitude":-85.841993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Colony Dr",
     "sg:city":"Enterprise",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827323,
+        85688675,
         85633793,
         85899527,
         102085699,
-        85688675
+        85827323
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152228761,
-    "wof:lastmodified":1449045748,
+    "wof:lastmodified":1466316308,
     "wof:name":"Marilyn Stewart",
     "wof:parent_id":85827323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.841993,31.323747,-85.841993,31.323747],
+  "bbox": [
+    -85.841993,
+    31.323747,
+    -85.841993,
+    31.323747
+],
   "geometry": {"coordinates":[-85.841993,31.323747],"type":"Point"}
 }

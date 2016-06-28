@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102469189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.11255,33.994596,-86.11255,33.994596",
     "geom:latitude":33.994596,
     "geom:longitude":-86.11255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Case Ave SE",
     "sg:city":"Attalla",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085545,
-        85633793,
         85688675,
-        85851221
+        85633793,
+        85851221,
+        102085545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102469189,
-    "wof:lastmodified":1449070270,
+    "wof:lastmodified":1466315171,
     "wof:name":"Attalla City Recreation Dept",
     "wof:parent_id":85851221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.11255,33.994596,-86.11255,33.994596],
+  "bbox": [
+    -86.11255,
+    33.994596,
+    -86.11255,
+    33.994596
+],
   "geometry": {"coordinates":[-86.11255,33.994596],"type":"Point"}
 }

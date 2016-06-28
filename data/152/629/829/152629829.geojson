@@ -2,13 +2,14 @@
   "id": 152629829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.832895,33.231696,-86.832895,33.231696",
     "geom:latitude":33.231696,
     "geom:longitude":-86.832895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"132 Mangrove Dr",
     "sg:city":"Alabaster",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847439,
+        85688675,
         85633793,
         85914487,
         102085499,
-        85688675
+        85847439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152629829,
-    "wof:lastmodified":1449047839,
+    "wof:lastmodified":1466319047,
     "wof:name":"John V Naro",
     "wof:parent_id":85847439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.832895,33.231696,-86.832895,33.231696],
-  "geometry": {"coordinates":[-86.832895,33.231696],"type":"Point"}
+  "bbox": [
+    -86.832895,
+    33.231696,
+    -86.832895,
+    33.231696
+],
+  "geometry": {"coordinates":[-86.83289499999999,33.231696],"type":"Point"}
 }

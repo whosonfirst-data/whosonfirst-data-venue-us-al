@@ -2,13 +2,14 @@
   "id": 152879385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.326005,32.377528,-86.326005,32.377528",
     "geom:latitude":32.377528,
     "geom:longitude":-86.326005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"903 Bell St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856867,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85856867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152879385,
-    "wof:lastmodified":1449044334,
+    "wof:lastmodified":1466320384,
     "wof:name":"Faulkner-Myrick Tile",
     "wof:parent_id":85856867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.326005,32.377528,-86.326005,32.377528],
-  "geometry": {"coordinates":[-86.326005,32.377528],"type":"Point"}
+  "bbox": [
+    -86.326005,
+    32.377528,
+    -86.326005,
+    32.377528
+],
+  "geometry": {"coordinates":[-86.32600499999999,32.377528],"type":"Point"}
 }

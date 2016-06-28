@@ -2,13 +2,14 @@
   "id": 152267629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.594592,34.74935,-86.594592,34.74935",
     "geom:latitude":34.74935,
     "geom:longitude":-86.594592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 Oakwood Ave NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809309,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85809309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152267629,
-    "wof:lastmodified":1449048504,
+    "wof:lastmodified":1466316793,
     "wof:name":"Conoco Food Mart",
     "wof:parent_id":85809309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.594592,34.74935,-86.594592,34.74935],
-  "geometry": {"coordinates":[-86.594592,34.74935],"type":"Point"}
+  "bbox": [
+    -86.594592,
+    34.74935,
+    -86.594592,
+    34.74935
+],
+  "geometry": {"coordinates":[-86.59459200000001,34.74935],"type":"Point"}
 }

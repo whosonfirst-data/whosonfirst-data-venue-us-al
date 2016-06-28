@@ -2,13 +2,14 @@
   "id": 152237539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.817884,33.469883,-86.817884,33.469883",
     "geom:latitude":33.469883,
     "geom:longitude":-86.817884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 Palisades Blvd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817409,
+        85688675,
         85633793,
         85914847,
         102085481,
-        85688675
+        85817409
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152237539,
-    "wof:lastmodified":1449044409,
+    "wof:lastmodified":1466316399,
     "wof:name":"Ad Momentum Inc",
     "wof:parent_id":85817409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.817884,33.469883,-86.817884,33.469883],
-  "geometry": {"coordinates":[-86.817884,33.469883],"type":"Point"}
+  "bbox": [
+    -86.817884,
+    33.469883,
+    -86.817884,
+    33.469883
+],
+  "geometry": {"coordinates":[-86.81788400000001,33.469883],"type":"Point"}
 }

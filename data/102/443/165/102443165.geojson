@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102443165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.233824,32.333604,-86.233824,32.333604",
     "geom:latitude":32.333604,
     "geom:longitude":-86.233824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2358 Fairlane Dr",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879047,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102443165,
-    "wof:lastmodified":1449069726,
+    "wof:lastmodified":1466314341,
     "wof:name":"US Alert Security",
     "wof:parent_id":85879047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.233824,32.333604,-86.233824,32.333604],
+  "bbox": [
+    -86.233824,
+    32.333604,
+    -86.233824,
+    32.333604
+],
   "geometry": {"coordinates":[-86.233824,32.333604],"type":"Point"}
 }

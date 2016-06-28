@@ -2,13 +2,14 @@
   "id": 152460021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.144489,33.8449,-86.144489,33.8449",
     "geom:latitude":33.8449,
     "geom:longitude":-86.144489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1983 Lickskillet Rd",
     "sg:city":"Ashville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":152460021,
-    "wof:lastmodified":1449048659,
+    "wof:lastmodified":1466318246,
     "wof:name":"Butterflies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.144489,33.8449,-86.144489,33.8449],
-  "geometry": {"coordinates":[-86.144489,33.8449],"type":"Point"}
+  "bbox": [
+    -86.144489,
+    33.8449,
+    -86.144489,
+    33.8449
+],
+  "geometry": {"coordinates":[-86.14448899999999,33.8449],"type":"Point"}
 }

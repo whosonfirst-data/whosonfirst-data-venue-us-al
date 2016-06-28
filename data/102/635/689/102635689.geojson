@@ -2,13 +2,14 @@
   "id": 102635689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.634678,34.752271,-86.634678,34.752271",
     "geom:latitude":34.752271,
     "geom:longitude":-86.634678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2204 Dogwood Ln NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807105,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85807105
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102635689,
-    "wof:lastmodified":1449068805,
+    "wof:lastmodified":1466317675,
     "wof:name":"Jill Cordone",
     "wof:parent_id":85807105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.634678,34.752271,-86.634678,34.752271],
-  "geometry": {"coordinates":[-86.634678,34.752271],"type":"Point"}
+  "bbox": [
+    -86.634678,
+    34.752271,
+    -86.634678,
+    34.752271
+],
+  "geometry": {"coordinates":[-86.63467799999999,34.752271],"type":"Point"}
 }

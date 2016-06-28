@@ -2,13 +2,14 @@
   "id": 152157343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.089244,30.675351,-88.089244,30.675351",
     "geom:latitude":30.675351,
     "geom:longitude":-88.089244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2054 Government St",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878957,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878957
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152157343,
-    "wof:lastmodified":1449048263,
+    "wof:lastmodified":1466314949,
     "wof:name":"Sw Alabama Emergency Med Svc",
     "wof:parent_id":85878957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.089244,30.675351,-88.089244,30.675351],
-  "geometry": {"coordinates":[-88.089244,30.675351],"type":"Point"}
+  "bbox": [
+    -88.089244,
+    30.675351,
+    -88.089244,
+    30.675351
+],
+  "geometry": {"coordinates":[-88.08924399999999,30.675351],"type":"Point"}
 }

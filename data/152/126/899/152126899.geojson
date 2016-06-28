@@ -2,13 +2,14 @@
   "id": 152126899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.362491,32.481535,-86.362491,32.481535",
     "geom:latitude":32.481535,
     "geom:longitude":-86.362491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3530 Main St",
     "sg:city":"Millbrook",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     "sg:website":"www.northridgeumc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085631,
-        85633793,
         85688675,
-        85822701
+        85633793,
+        85822701,
+        102085631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152126899,
-    "wof:lastmodified":1449046012,
+    "wof:lastmodified":1466314838,
     "wof:name":"North Ridge United Methodist C",
     "wof:parent_id":85822701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.362491,32.481535,-86.362491,32.481535],
-  "geometry": {"coordinates":[-86.362491,32.481535],"type":"Point"}
+  "bbox": [
+    -86.362491,
+    32.481535,
+    -86.362491,
+    32.481535
+],
+  "geometry": {"coordinates":[-86.36249100000001,32.481535],"type":"Point"}
 }

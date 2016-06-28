@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102447595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.972682,31.806098,-85.972682,31.806098",
     "geom:latitude":31.806098,
     "geom:longitude":-85.972682,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 S 3 Notch St",
     "sg:city":"Troy",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867313,
+        85688675,
         85633793,
         85914551,
         102085619,
-        85688675
+        85867313
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102447595,
-    "wof:lastmodified":1449069495,
+    "wof:lastmodified":1466314528,
     "wof:name":"Pinckards Gas & Food Mart",
     "wof:parent_id":85867313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.972682,31.806098,-85.972682,31.806098],
-  "geometry": {"coordinates":[-85.972682,31.806098],"type":"Point"}
+  "bbox": [
+    -85.972682,
+    31.806098,
+    -85.972682,
+    31.806098
+],
+  "geometry": {"coordinates":[-85.97268200000001,31.806098],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152770135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.280544,34.387829,-86.280544,34.387829",
     "geom:latitude":34.387829,
     "geom:longitude":-86.280544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21784 US Hwy 431",
     "sg:city":"Guntersville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850331,
+        85688675,
         85633793,
         85899833,
         102085513,
-        85688675
+        85850331
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152770135,
-    "wof:lastmodified":1449048981,
+    "wof:lastmodified":1466319685,
     "wof:name":"Hubbard Tire & Muffler",
     "wof:parent_id":85850331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.280544,34.387829,-86.280544,34.387829],
-  "geometry": {"coordinates":[-86.280544,34.387829],"type":"Point"}
+  "bbox": [
+    -86.280544,
+    34.387829,
+    -86.280544,
+    34.387829
+],
+  "geometry": {"coordinates":[-86.28054400000001,34.387829],"type":"Point"}
 }

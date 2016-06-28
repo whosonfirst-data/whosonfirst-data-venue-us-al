@@ -2,13 +2,14 @@
   "id": 152783905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.101611,30.589218,-88.101611,30.589218",
     "geom:latitude":30.589218,
     "geom:longitude":-88.101611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2404 Staples Rd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878997,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878997
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152783905,
-    "wof:lastmodified":1449044442,
+    "wof:lastmodified":1466319773,
     "wof:name":"Amish Millwork",
     "wof:parent_id":85878997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.101611,30.589218,-88.101611,30.589218],
-  "geometry": {"coordinates":[-88.101611,30.589218],"type":"Point"}
+  "bbox": [
+    -88.101611,
+    30.589218,
+    -88.101611,
+    30.589218
+],
+  "geometry": {"coordinates":[-88.10161100000001,30.589218],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102505495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.777529,33.518366,-86.777529,33.518366",
     "geom:latitude":33.518366,
     "geom:longitude":-86.777529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3601 6th Ave S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876275,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102505495,
-    "wof:lastmodified":1449069760,
+    "wof:lastmodified":1466316613,
     "wof:name":"Electronic Business Equipment",
     "wof:parent_id":85876275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.777529,33.518366,-86.777529,33.518366],
+  "bbox": [
+    -86.777529,
+    33.518366,
+    -86.777529,
+    33.518366
+],
   "geometry": {"coordinates":[-86.777529,33.518366],"type":"Point"}
 }

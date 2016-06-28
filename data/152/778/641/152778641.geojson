@@ -2,13 +2,14 @@
   "id": 152778641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.451496,32.622385,-85.451496,32.622385",
     "geom:latitude":32.622385,
     "geom:longitude":-85.451496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1470 Opelika Rd",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852419,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85852419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152778641,
-    "wof:lastmodified":1449044384,
+    "wof:lastmodified":1466319813,
     "wof:name":"A & O General Repair Svc",
     "wof:parent_id":85852419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.451496,32.622385,-85.451496,32.622385],
-  "geometry": {"coordinates":[-85.451496,32.622385],"type":"Point"}
+  "bbox": [
+    -85.451496,
+    32.622385,
+    -85.451496,
+    32.622385
+],
+  "geometry": {"coordinates":[-85.45149600000001,32.622385],"type":"Point"}
 }

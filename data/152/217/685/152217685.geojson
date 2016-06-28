@@ -2,13 +2,14 @@
   "id": 152217685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.02319,32.484164,-85.02319,32.484164",
     "geom:latitude":32.484164,
     "geom:longitude":-85.02319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2005 24th St",
     "sg:city":"Phenix City",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152217685,
-    "wof:lastmodified":1449048644,
+    "wof:lastmodified":1466316043,
     "wof:name":"Phenix City Little League",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.02319,32.484164,-85.02319,32.484164],
+  "bbox": [
+    -85.02319,
+    32.484164,
+    -85.02319,
+    32.484164
+],
   "geometry": {"coordinates":[-85.02319,32.484164],"type":"Point"}
 }

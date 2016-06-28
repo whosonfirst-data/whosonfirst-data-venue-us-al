@@ -2,13 +2,14 @@
   "id": 152682391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.842443,31.34596,-85.842443,31.34596",
     "geom:latitude":31.34596,
     "geom:longitude":-85.842443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Redwing Dr",
     "sg:city":"Enterprise",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837695,
+        85688675,
         85633793,
         85899527,
         102085699,
-        85688675
+        85837695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152682391,
-    "wof:lastmodified":1449045114,
+    "wof:lastmodified":1466319246,
     "wof:name":"Hilda Hagins MSC Std",
     "wof:parent_id":85837695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.842443,31.34596,-85.842443,31.34596],
+  "bbox": [
+    -85.842443,
+    31.34596,
+    -85.842443,
+    31.34596
+],
   "geometry": {"coordinates":[-85.842443,31.34596],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152591683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.698147,33.077279,-85.698147,33.077279",
     "geom:latitude":33.077279,
     "geom:longitude":-85.698147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 Old Dutch Rd",
     "sg:city":"Daviston",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848983,
+        85688675,
         85633793,
         85913327,
         102085567,
-        85688675
+        85848983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152591683,
-    "wof:lastmodified":1449046773,
+    "wof:lastmodified":1466318785,
     "wof:name":"Steve Lee Land Surveying",
     "wof:parent_id":85848983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.698147,33.077279,-85.698147,33.077279],
-  "geometry": {"coordinates":[-85.698147,33.077279],"type":"Point"}
+  "bbox": [
+    -85.698147,
+    33.077279,
+    -85.698147,
+    33.077279
+],
+  "geometry": {"coordinates":[-85.69814700000001,33.077279],"type":"Point"}
 }

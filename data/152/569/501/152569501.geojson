@@ -2,13 +2,14 @@
   "id": 152569501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.112673,34.910039,-87.112673,34.910039",
     "geom:latitude":34.910039,
     "geom:longitude":-87.112673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11581 Patterson Hill Rd",
     "sg:city":"Elkmont",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829531,
+        85688675,
         85633793,
         85913543,
         102085489,
-        85688675
+        85829531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152569501,
-    "wof:lastmodified":1449048732,
+    "wof:lastmodified":1466318675,
     "wof:name":"Havis Shields Equipment Corp",
     "wof:parent_id":85829531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.112673,34.910039,-87.112673,34.910039],
+  "bbox": [
+    -87.112673,
+    34.910039,
+    -87.112673,
+    34.910039
+],
   "geometry": {"coordinates":[-87.112673,34.910039],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152449735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.611643,31.423305,-85.611643,31.423305",
     "geom:latitude":31.423305,
     "geom:longitude":-85.611643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Valentine St Exd",
     "sg:city":"Ozark",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152449735,
-    "wof:lastmodified":1449048584,
+    "wof:lastmodified":1466318074,
     "wof:name":"Alabama Dept Transportation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.611643,31.423305,-85.611643,31.423305],
+  "bbox": [
+    -85.611643,
+    31.423305,
+    -85.611643,
+    31.423305
+],
   "geometry": {"coordinates":[-85.611643,31.423305],"type":"Point"}
 }

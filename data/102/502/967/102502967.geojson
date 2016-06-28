@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102502967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.684457,34.734775,-87.684457,34.734775",
     "geom:latitude":34.734775,
     "geom:longitude":-87.684457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1208 E 2nd St",
     "sg:city":"Tuscumbia",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85832153,
+        85688675,
         85633793,
         85897447,
         102085625,
-        85688675
+        85832153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102502967,
-    "wof:lastmodified":1449068871,
+    "wof:lastmodified":1466316708,
     "wof:name":"Grassmasters Lawncare & Ldscpg",
     "wof:parent_id":85832153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.684457,34.734775,-87.684457,34.734775],
-  "geometry": {"coordinates":[-87.684457,34.734775],"type":"Point"}
+  "bbox": [
+    -87.684457,
+    34.734775,
+    -87.684457,
+    34.734775
+],
+  "geometry": {"coordinates":[-87.68445699999999,34.734775],"type":"Point"}
 }

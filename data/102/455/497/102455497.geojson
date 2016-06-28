@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102455497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.481761,32.60413,-85.481761,32.60413",
     "geom:latitude":32.60413,
     "geom:longitude":-85.481761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"275 S College St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819999,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85819999
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102455497,
-    "wof:lastmodified":1449069773,
+    "wof:lastmodified":1466314838,
     "wof:name":"PHI Gamma Delta",
     "wof:parent_id":85819999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.481761,32.60413,-85.481761,32.60413],
-  "geometry": {"coordinates":[-85.481761,32.60413],"type":"Point"}
+  "bbox": [
+    -85.481761,
+    32.60413,
+    -85.481761,
+    32.60413
+],
+  "geometry": {"coordinates":[-85.48176100000001,32.60413],"type":"Point"}
 }

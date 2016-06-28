@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102500903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.801818,33.516157,-86.801818,33.516157",
     "geom:latitude":33.516157,
     "geom:longitude":-86.801818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2229 1st Ave N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876269,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102500903,
-    "wof:lastmodified":1449068386,
+    "wof:lastmodified":1466316520,
     "wof:name":"Jackson & Shuttlesworth",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.801818,33.516157,-86.801818,33.516157],
+  "bbox": [
+    -86.801818,
+    33.516157,
+    -86.801818,
+    33.516157
+],
   "geometry": {"coordinates":[-86.801818,33.516157],"type":"Point"}
 }

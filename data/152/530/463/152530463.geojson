@@ -2,13 +2,14 @@
   "id": 152530463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.373663,32.656061,-85.373663,32.656061",
     "geom:latitude":32.656061,
     "geom:longitude":-85.373663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Samford Ave",
     "sg:city":"Opelika",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85857153,
+        85688675,
         85633793,
         85913815,
         102085751,
-        85688675
+        85857153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152530463,
-    "wof:lastmodified":1449046767,
+    "wof:lastmodified":1466318546,
     "wof:name":"H & E Steel Wldg & Indus Sup",
     "wof:parent_id":85857153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.373663,32.656061,-85.373663,32.656061],
-  "geometry": {"coordinates":[-85.373663,32.656061],"type":"Point"}
+  "bbox": [
+    -85.373663,
+    32.656061,
+    -85.373663,
+    32.656061
+],
+  "geometry": {"coordinates":[-85.37366299999999,32.656061],"type":"Point"}
 }

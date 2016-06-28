@@ -2,13 +2,14 @@
   "id": 152543869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.898439,33.758758,-85.898439,33.758758",
     "geom:latitude":33.758758,
     "geom:longitude":-85.898439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Oriental Dr",
     "sg:city":"Alexandria",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85830275,
+        85688675,
         85633793,
         85914281,
         102085603,
-        85688675
+        85830275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152543869,
-    "wof:lastmodified":1449045208,
+    "wof:lastmodified":1466318564,
     "wof:name":"Innovative Solid Surfc Designs",
     "wof:parent_id":85830275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.898439,33.758758,-85.898439,33.758758],
+  "bbox": [
+    -85.898439,
+    33.758758,
+    -85.898439,
+    33.758758
+],
   "geometry": {"coordinates":[-85.898439,33.758758],"type":"Point"}
 }

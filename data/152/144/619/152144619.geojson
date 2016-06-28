@@ -2,13 +2,14 @@
   "id": 152144619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.367194,31.230054,-85.367194,31.230054",
     "geom:latitude":31.230054,
     "geom:longitude":-85.367194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"704 Wilder Ave",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847911,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85847911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152144619,
-    "wof:lastmodified":1449047681,
+    "wof:lastmodified":1466315420,
     "wof:name":"Sellers Unlimited",
     "wof:parent_id":85847911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.367194,31.230054,-85.367194,31.230054],
+  "bbox": [
+    -85.367194,
+    31.230054,
+    -85.367194,
+    31.230054
+],
   "geometry": {"coordinates":[-85.367194,31.230054],"type":"Point"}
 }

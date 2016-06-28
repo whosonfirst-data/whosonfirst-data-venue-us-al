@@ -2,13 +2,14 @@
   "id": 152673215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.066089,30.588522,-88.066089,30.588522",
     "geom:latitude":30.588522,
     "geom:longitude":-88.066089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4139 Bayfront Rd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878969,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878969
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152673215,
-    "wof:lastmodified":1449046100,
+    "wof:lastmodified":1466319189,
     "wof:name":"Lou Manning Painting",
     "wof:parent_id":85878969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.066089,30.588522,-88.066089,30.588522],
-  "geometry": {"coordinates":[-88.066089,30.588522],"type":"Point"}
+  "bbox": [
+    -88.066089,
+    30.588522,
+    -88.066089,
+    30.588522
+],
+  "geometry": {"coordinates":[-88.06608900000001,30.588522],"type":"Point"}
 }

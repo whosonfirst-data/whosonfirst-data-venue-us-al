@@ -2,13 +2,14 @@
   "id": 152687719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.841968,33.709176,-85.841968,33.709176",
     "geom:latitude":33.709176,
     "geom:longitude":-85.841968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4836 Saks Rd",
     "sg:city":"Anniston",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825451,
+        85688675,
         85633793,
         85915207,
         102085603,
-        85688675
+        85825451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152687719,
-    "wof:lastmodified":1449045596,
+    "wof:lastmodified":1466319345,
     "wof:name":"C & J Wood Crafts",
     "wof:parent_id":85825451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.841968,33.709176,-85.841968,33.709176],
-  "geometry": {"coordinates":[-85.841968,33.709176],"type":"Point"}
+  "bbox": [
+    -85.841968,
+    33.709176,
+    -85.841968,
+    33.709176
+],
+  "geometry": {"coordinates":[-85.84196799999999,33.709176],"type":"Point"}
 }

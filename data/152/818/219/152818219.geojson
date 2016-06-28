@@ -2,13 +2,14 @@
   "id": 152818219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.807717,33.639582,-85.807717,33.639582",
     "geom:latitude":33.639582,
     "geom:longitude":-85.807717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2200 Hathaway Heights Rd",
     "sg:city":"Anniston",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806515,
+        85688675,
         85633793,
         85914159,
         102085603,
-        85688675
+        85806515
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152818219,
-    "wof:lastmodified":1449046555,
+    "wof:lastmodified":1466319931,
     "wof:name":"Bread Box Bakery & Deli",
     "wof:parent_id":85806515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.807717,33.639582,-85.807717,33.639582],
+  "bbox": [
+    -85.807717,
+    33.639582,
+    -85.807717,
+    33.639582
+],
   "geometry": {"coordinates":[-85.807717,33.639582],"type":"Point"}
 }

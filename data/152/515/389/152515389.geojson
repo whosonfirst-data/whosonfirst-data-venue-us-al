@@ -2,13 +2,14 @@
   "id": 152515389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.304614,32.366407,-86.304614,32.366407",
     "geom:latitude":32.366407,
     "geom:longitude":-86.304614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"814 S McDonough St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879039,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152515389,
-    "wof:lastmodified":1449045368,
+    "wof:lastmodified":1466318392,
     "wof:name":"Friedrich & Associates Inc",
     "wof:parent_id":85879039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.304614,32.366407,-86.304614,32.366407],
+  "bbox": [
+    -86.304614,
+    32.366407,
+    -86.304614,
+    32.366407
+],
   "geometry": {"coordinates":[-86.304614,32.366407],"type":"Point"}
 }

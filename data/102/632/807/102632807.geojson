@@ -2,13 +2,14 @@
   "id": 102632807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.534703,34.703907,-87.534703,34.703907",
     "geom:latitude":34.703907,
     "geom:longitude":-87.534703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2015 Nora Morgan St",
     "sg:city":"Leighton",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102632807,
-    "wof:lastmodified":1449069305,
+    "wof:lastmodified":1466317551,
     "wof:name":"Leighton Water Dept",
     "wof:parent_id":85899409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.534703,34.703907,-87.534703,34.703907],
-  "geometry": {"coordinates":[-87.534703,34.703907],"type":"Point"}
+  "bbox": [
+    -87.534703,
+    34.703907,
+    -87.534703,
+    34.703907
+],
+  "geometry": {"coordinates":[-87.53470299999999,34.703907],"type":"Point"}
 }

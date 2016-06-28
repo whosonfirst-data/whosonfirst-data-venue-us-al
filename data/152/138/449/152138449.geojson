@@ -2,13 +2,14 @@
   "id": 152138449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.441128,33.190901,-85.441128,33.190901",
     "geom:latitude":33.190901,
     "geom:longitude":-85.441128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"148 Co Rd 822",
     "sg:city":"Roanoke",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":152138449,
-    "wof:lastmodified":1449045640,
+    "wof:lastmodified":1466315353,
     "wof:name":"Knott Drywall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.441128,33.190901,-85.441128,33.190901],
-  "geometry": {"coordinates":[-85.441128,33.190901],"type":"Point"}
+  "bbox": [
+    -85.441128,
+    33.190901,
+    -85.441128,
+    33.190901
+],
+  "geometry": {"coordinates":[-85.44112800000001,33.190901],"type":"Point"}
 }

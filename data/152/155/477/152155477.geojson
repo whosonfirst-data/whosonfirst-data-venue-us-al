@@ -2,13 +2,14 @@
   "id": 152155477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.118899,33.277127,-87.118899,33.277127",
     "geom:latitude":33.277127,
     "geom:longitude":-87.118899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21679 State Rte 216",
     "sg:city":"Mc Calla",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851363,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85851363
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152155477,
-    "wof:lastmodified":1449048107,
+    "wof:lastmodified":1466314845,
     "wof:name":"B & R Repair Shop",
     "wof:parent_id":85851363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.118899,33.277127,-87.118899,33.277127],
+  "bbox": [
+    -87.118899,
+    33.277127,
+    -87.118899,
+    33.277127
+],
   "geometry": {"coordinates":[-87.118899,33.277127],"type":"Point"}
 }

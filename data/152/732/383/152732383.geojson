@@ -2,13 +2,14 @@
   "id": 152732383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.378207,31.265124,-85.378207,31.265124",
     "geom:latitude":31.265124,
     "geom:longitude":-85.378207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3103 Aaron Ave",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859419,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85859419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152732383,
-    "wof:lastmodified":1449049040,
+    "wof:lastmodified":1466319555,
     "wof:name":"Amy Washington Chapter",
     "wof:parent_id":85859419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.378207,31.265124,-85.378207,31.265124],
+  "bbox": [
+    -85.378207,
+    31.265124,
+    -85.378207,
+    31.265124
+],
   "geometry": {"coordinates":[-85.378207,31.265124],"type":"Point"}
 }

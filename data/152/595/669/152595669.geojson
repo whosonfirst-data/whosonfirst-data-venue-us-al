@@ -2,13 +2,14 @@
   "id": 152595669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.147107,32.375481,-86.147107,32.375481",
     "geom:latitude":32.375481,
     "geom:longitude":-86.147107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Natchez Ct",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803631,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85803631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152595669,
-    "wof:lastmodified":1449048467,
+    "wof:lastmodified":1466318823,
     "wof:name":"CTG Architcts Inc",
     "wof:parent_id":85803631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.147107,32.375481,-86.147107,32.375481],
-  "geometry": {"coordinates":[-86.147107,32.375481],"type":"Point"}
+  "bbox": [
+    -86.147107,
+    32.375481,
+    -86.147107,
+    32.375481
+],
+  "geometry": {"coordinates":[-86.14710700000001,32.375481],"type":"Point"}
 }

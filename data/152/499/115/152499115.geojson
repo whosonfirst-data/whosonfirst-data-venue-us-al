@@ -2,13 +2,14 @@
   "id": 152499115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.599548,34.690956,-86.599548,34.690956",
     "geom:latitude":34.690956,
     "geom:longitude":-86.599548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4114 Environmental Cir SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85810591,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85810591
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152499115,
-    "wof:lastmodified":1449045184,
+    "wof:lastmodified":1466318313,
     "wof:name":"Smith Pl-C R S Engrg Prtnershi",
     "wof:parent_id":85810591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.599548,34.690956,-86.599548,34.690956],
+  "bbox": [
+    -86.599548,
+    34.690956,
+    -86.599548,
+    34.690956
+],
   "geometry": {"coordinates":[-86.599548,34.690956],"type":"Point"}
 }

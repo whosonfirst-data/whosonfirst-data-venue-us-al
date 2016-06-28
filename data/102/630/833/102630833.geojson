@@ -2,13 +2,14 @@
   "id": 102630833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.495027,34.318079,-86.495027,34.318079",
     "geom:latitude":34.318079,
     "geom:longitude":-86.495027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 1st Ave NE",
     "sg:city":"Arab",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851541,
+        85688675,
         85633793,
         85913243,
         102085513,
-        85688675
+        85851541
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102630833,
-    "wof:lastmodified":1449068646,
+    "wof:lastmodified":1466317482,
     "wof:name":"Stamps Inn Bed & Breakfast",
     "wof:parent_id":85851541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.495027,34.318079,-86.495027,34.318079],
-  "geometry": {"coordinates":[-86.495027,34.318079],"type":"Point"}
+  "bbox": [
+    -86.495027,
+    34.318079,
+    -86.495027,
+    34.318079
+],
+  "geometry": {"coordinates":[-86.49502699999999,34.318079],"type":"Point"}
 }

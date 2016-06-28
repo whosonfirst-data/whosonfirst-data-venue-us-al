@@ -2,13 +2,14 @@
   "id": 152138929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.797743,33.420427,-86.797743,33.420427",
     "geom:latitude":33.420427,
     "geom:longitude":-86.797743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"260 Old Town Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840369,
+        85688675,
         85633793,
         85914483,
         102085481,
-        85688675
+        85840369
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152138929,
-    "wof:lastmodified":1449045639,
+    "wof:lastmodified":1466315381,
     "wof:name":"Gymboree Play & Music",
     "wof:parent_id":85840369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.797743,33.420427,-86.797743,33.420427],
+  "bbox": [
+    -86.797743,
+    33.420427,
+    -86.797743,
+    33.420427
+],
   "geometry": {"coordinates":[-86.797743,33.420427],"type":"Point"}
 }

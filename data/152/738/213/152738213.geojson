@@ -2,13 +2,14 @@
   "id": 152738213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.306939,32.363192,-86.306939,32.363192",
     "geom:latitude":32.363192,
     "geom:longitude":-86.306939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 S Perry St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879039,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152738213,
-    "wof:lastmodified":1449047687,
+    "wof:lastmodified":1466319521,
     "wof:name":"Eniko S Fashions",
     "wof:parent_id":85879039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.306939,32.363192,-86.306939,32.363192],
+  "bbox": [
+    -86.306939,
+    32.363192,
+    -86.306939,
+    32.363192
+],
   "geometry": {"coordinates":[-86.306939,32.363192],"type":"Point"}
 }

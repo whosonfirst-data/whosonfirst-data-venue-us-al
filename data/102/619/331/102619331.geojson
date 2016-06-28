@@ -2,13 +2,14 @@
   "id": 102619331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.016395,32.446292,-87.016395,32.446292",
     "geom:latitude":32.446292,
     "geom:longitude":-87.016395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2908 Citizens Pkwy",
     "sg:city":"Selma",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102619331,
-    "wof:lastmodified":1449068251,
+    "wof:lastmodified":1466317314,
     "wof:name":"Sears Authorized Retail Dealer",
     "wof:parent_id":85899455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.016395,32.446292,-87.016395,32.446292],
+  "bbox": [
+    -87.016395,
+    32.446292,
+    -87.016395,
+    32.446292
+],
   "geometry": {"coordinates":[-87.016395,32.446292],"type":"Point"}
 }

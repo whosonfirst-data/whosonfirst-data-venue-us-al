@@ -2,13 +2,14 @@
   "id": 152877741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.761241,33.804036,-85.761241,33.804036",
     "geom:latitude":33.804036,
     "geom:longitude":-85.761241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 Pelham Rd S",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805945,
+        85688675,
         85633793,
         85914293,
         102085603,
-        85688675
+        85805945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152877741,
-    "wof:lastmodified":1449047541,
+    "wof:lastmodified":1466320255,
     "wof:name":"Discount Food Mart 120",
     "wof:parent_id":85805945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.761241,33.804036,-85.761241,33.804036],
+  "bbox": [
+    -85.761241,
+    33.804036,
+    -85.761241,
+    33.804036
+],
   "geometry": {"coordinates":[-85.761241,33.804036],"type":"Point"}
 }

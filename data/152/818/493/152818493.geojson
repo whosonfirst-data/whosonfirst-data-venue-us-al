@@ -2,13 +2,14 @@
   "id": 152818493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.250732,33.168811,-86.250732,33.168811",
     "geom:latitude":33.168811,
     "geom:longitude":-86.250732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Broadway Ave",
     "sg:city":"Sylacauga",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834171,
+        85688675,
         85633793,
         85914133,
         102085517,
-        85688675
+        85834171
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152818493,
-    "wof:lastmodified":1449046549,
+    "wof:lastmodified":1466319947,
     "wof:name":"Expert Tire",
     "wof:parent_id":85834171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.250732,33.168811,-86.250732,33.168811],
+  "bbox": [
+    -86.250732,
+    33.168811,
+    -86.250732,
+    33.168811
+],
   "geometry": {"coordinates":[-86.250732,33.168811],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152636143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.314005,34.244456,-86.314005,34.244456",
     "geom:latitude":34.244456,
     "geom:longitude":-86.314005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1144 McCoy Rd",
     "sg:city":"Albertville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152636143,
-    "wof:lastmodified":1449046144,
+    "wof:lastmodified":1466318937,
     "wof:name":"Farmco Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.314005,34.244456,-86.314005,34.244456],
-  "geometry": {"coordinates":[-86.314005,34.244456],"type":"Point"}
+  "bbox": [
+    -86.314005,
+    34.244456,
+    -86.314005,
+    34.244456
+],
+  "geometry": {"coordinates":[-86.31400499999999,34.244456],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152179995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.365609,32.619802,-85.365609,32.619802",
     "geom:latitude":32.619802,
     "geom:longitude":-85.365609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2328 Edwards Rd",
     "sg:city":"Opelika",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819517,
+        85688675,
         85633793,
         85913815,
         102085751,
-        85688675
+        85819517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152179995,
-    "wof:lastmodified":1449048455,
+    "wof:lastmodified":1466315700,
     "wof:name":"Wing King",
     "wof:parent_id":85819517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.365609,32.619802,-85.365609,32.619802],
-  "geometry": {"coordinates":[-85.365609,32.619802],"type":"Point"}
+  "bbox": [
+    -85.365609,
+    32.619802,
+    -85.365609,
+    32.619802
+],
+  "geometry": {"coordinates":[-85.36560900000001,32.619802],"type":"Point"}
 }

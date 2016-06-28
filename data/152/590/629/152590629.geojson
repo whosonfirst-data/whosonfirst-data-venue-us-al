@@ -2,13 +2,14 @@
   "id": 152590629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.910584,30.668756,-87.910584,30.668756",
     "geom:latitude":30.668756,
     "geom:longitude":-87.910584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6525 Spanish Fort Blvd",
     "sg:city":"Spanish Fort",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.sjeb.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807399,
+        85688675,
         85633793,
         85914741,
         102085469,
-        85688675
+        85807399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152590629,
-    "wof:lastmodified":1449047051,
+    "wof:lastmodified":1466318805,
     "wof:name":"Barry L Booth DDS",
     "wof:parent_id":85807399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.910584,30.668756,-87.910584,30.668756],
+  "bbox": [
+    -87.910584,
+    30.668756,
+    -87.910584,
+    30.668756
+],
   "geometry": {"coordinates":[-87.910584,30.668756],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152670873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.856332,33.395221,-86.856332,33.395221",
     "geom:latitude":33.395221,
     "geom:longitude":-86.856332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"365 Park Ave",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827189,
+        85688675,
         85633793,
         85914475,
         102085481,
-        85688675
+        85827189
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152670873,
-    "wof:lastmodified":1449044996,
+    "wof:lastmodified":1466319324,
     "wof:name":"WA Advertising Inc",
     "wof:parent_id":85827189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.856332,33.395221,-86.856332,33.395221],
-  "geometry": {"coordinates":[-86.856332,33.395221],"type":"Point"}
+  "bbox": [
+    -86.856332,
+    33.395221,
+    -86.856332,
+    33.395221
+],
+  "geometry": {"coordinates":[-86.85633199999999,33.395221],"type":"Point"}
 }

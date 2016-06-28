@@ -2,13 +2,14 @@
   "id": 152833575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.479914,32.609085,-85.479914,32.609085",
     "geom:latitude":32.609085,
     "geom:longitude":-85.479914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 N Gay St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809707,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85809707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152833575,
-    "wof:lastmodified":1449044899,
+    "wof:lastmodified":1466320034,
     "wof:name":"Brick Oven Pizza Co",
     "wof:parent_id":85809707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.479914,32.609085,-85.479914,32.609085],
-  "geometry": {"coordinates":[-85.479914,32.609085],"type":"Point"}
+  "bbox": [
+    -85.479914,
+    32.609085,
+    -85.479914,
+    32.609085
+],
+  "geometry": {"coordinates":[-85.47991399999999,32.609085],"type":"Point"}
 }

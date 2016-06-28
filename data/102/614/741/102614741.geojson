@@ -2,13 +2,14 @@
   "id": 102614741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.788147,33.499876,-86.788147,33.499876",
     "geom:latitude":33.499876,
     "geom:longitude":-86.788147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2222 Arlington Ave S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876277,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102614741,
-    "wof:lastmodified":1449070274,
+    "wof:lastmodified":1466317304,
     "wof:name":"Mayer U Newfield",
     "wof:parent_id":85876277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.788147,33.499876,-86.788147,33.499876],
+  "bbox": [
+    -86.788147,
+    33.499876,
+    -86.788147,
+    33.499876
+],
   "geometry": {"coordinates":[-86.788147,33.499876],"type":"Point"}
 }

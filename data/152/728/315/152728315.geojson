@@ -2,13 +2,14 @@
   "id": 152728315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.668335,33.554349,-86.668335,33.554349",
     "geom:latitude":33.554349,
     "geom:longitude":-86.668335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1845 Dorroh Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845385,
+        85688675,
         85633793,
         85914835,
         102085481,
-        85688675
+        85845385
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152728315,
-    "wof:lastmodified":1449045372,
+    "wof:lastmodified":1466319477,
     "wof:name":"Stephenson Truck Treads Inc",
     "wof:parent_id":85845385,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.668335,33.554349,-86.668335,33.554349],
+  "bbox": [
+    -86.668335,
+    33.554349,
+    -86.668335,
+    33.554349
+],
   "geometry": {"coordinates":[-86.668335,33.554349],"type":"Point"}
 }

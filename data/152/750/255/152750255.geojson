@@ -2,13 +2,14 @@
   "id": 152750255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.583859,33.192543,-87.583859,33.192543",
     "geom:latitude":33.192543,
     "geom:longitude":-87.583859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2209 Herman Ave",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085553,
-        85633793,
         85688675,
-        85812491
+        85633793,
+        85812491,
+        102085553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152750255,
-    "wof:lastmodified":1449047086,
+    "wof:lastmodified":1466319579,
     "wof:name":"Lil S Novelties & Gifts",
     "wof:parent_id":85812491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.583859,33.192543,-87.583859,33.192543],
+  "bbox": [
+    -87.583859,
+    33.192543,
+    -87.583859,
+    33.192543
+],
   "geometry": {"coordinates":[-87.583859,33.192543],"type":"Point"}
 }

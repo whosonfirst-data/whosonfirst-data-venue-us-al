@@ -2,13 +2,14 @@
   "id": 152876031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.289391,32.371995,-86.289391,32.371995",
     "geom:latitude":32.371995,
     "geom:longitude":-86.289391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"810 Cedar St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809389,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85809389
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152876031,
-    "wof:lastmodified":1449045235,
+    "wof:lastmodified":1466320215,
     "wof:name":"Second Chance Foundation",
     "wof:parent_id":85809389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.289391,32.371995,-86.289391,32.371995],
-  "geometry": {"coordinates":[-86.289391,32.371995],"type":"Point"}
+  "bbox": [
+    -86.289391,
+    32.371995,
+    -86.289391,
+    32.371995
+],
+  "geometry": {"coordinates":[-86.28939099999999,32.371995],"type":"Point"}
 }

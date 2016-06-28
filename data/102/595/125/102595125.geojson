@@ -2,13 +2,14 @@
   "id": 102595125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.608217,34.711476,-86.608217,34.711476",
     "geom:latitude":34.711476,
     "geom:longitude":-86.608217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3100 Bob Wallace Ave SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85855713,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85855713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102595125,
-    "wof:lastmodified":1449069953,
+    "wof:lastmodified":1466317181,
     "wof:name":"J T's Shoe Care",
     "wof:parent_id":85855713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.608217,34.711476,-86.608217,34.711476],
+  "bbox": [
+    -86.608217,
+    34.711476,
+    -86.608217,
+    34.711476
+],
   "geometry": {"coordinates":[-86.608217,34.711476],"type":"Point"}
 }

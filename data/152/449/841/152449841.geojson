@@ -2,13 +2,14 @@
   "id": 152449841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.906606,30.523107,-87.906606,30.523107",
     "geom:latitude":30.523107,
     "geom:longitude":-87.906606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Fairhope Ave",
     "sg:city":"Fairhope",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831925,
+        85688675,
         85633793,
         85914707,
         102085469,
-        85688675
+        85831925
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152449841,
-    "wof:lastmodified":1449048581,
+    "wof:lastmodified":1466318079,
     "wof:name":"Hayek Investment Counsel Inc",
     "wof:parent_id":85831925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.906606,30.523107,-87.906606,30.523107],
+  "bbox": [
+    -87.906606,
+    30.523107,
+    -87.906606,
+    30.523107
+],
   "geometry": {"coordinates":[-87.906606,30.523107],"type":"Point"}
 }

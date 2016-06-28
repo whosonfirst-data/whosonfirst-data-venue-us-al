@@ -2,13 +2,14 @@
   "id": 152412661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.857783,33.500145,-86.857783,33.500145",
     "geom:latitude":33.500145,
     "geom:longitude":-86.857783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1209 Lomb Ave",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -35,11 +36,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840057,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85840057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":152412661,
-    "wof:lastmodified":1449045247,
+    "wof:lastmodified":1466317927,
     "wof:name":"Appliance Bargain Center",
     "wof:parent_id":85840057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.857783,33.500145,-86.857783,33.500145],
+  "bbox": [
+    -86.857783,
+    33.500145,
+    -86.857783,
+    33.500145
+],
   "geometry": {"coordinates":[-86.857783,33.500145],"type":"Point"}
 }

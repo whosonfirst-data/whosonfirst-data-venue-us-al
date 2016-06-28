@@ -2,13 +2,14 @@
   "id": 152645131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.016358,34.020325,-86.016358,34.020325",
     "geom:latitude":34.020325,
     "geom:longitude":-86.016358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1037 Gardner St",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805515,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675,
+        85805515,
         85822279
     ],
     "wof:breaches":[],
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":152645131,
-    "wof:lastmodified":1449044771,
+    "wof:lastmodified":1466319064,
     "wof:name":"Sheades Daycare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.016358,34.020325,-86.016358,34.020325],
+  "bbox": [
+    -86.016358,
+    34.020325,
+    -86.016358,
+    34.020325
+],
   "geometry": {"coordinates":[-86.016358,34.020325],"type":"Point"}
 }

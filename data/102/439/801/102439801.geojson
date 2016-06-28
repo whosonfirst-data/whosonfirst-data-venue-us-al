@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102439801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.071203,30.805551,-88.071203,30.805551",
     "geom:latitude":30.805551,
     "geom:longitude":-88.071203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"622 Saraland Blvd S",
     "sg:city":"Saraland",
     "sg:classifiers":[
@@ -31,10 +32,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085469,
-        85633793,
         85688675,
-        85878983
+        85633793,
+        85878983,
+        102085469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102439801,
-    "wof:lastmodified":1449068446,
+    "wof:lastmodified":1466314450,
     "wof:name":"B & P Mini Warehouses Inc",
     "wof:parent_id":85878983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.071203,30.805551,-88.071203,30.805551],
+  "bbox": [
+    -88.071203,
+    30.805551,
+    -88.071203,
+    30.805551
+],
   "geometry": {"coordinates":[-88.071203,30.805551],"type":"Point"}
 }

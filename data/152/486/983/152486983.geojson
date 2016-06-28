@@ -2,13 +2,14 @@
   "id": 152486983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.478873,33.180752,-87.478873,33.180752",
     "geom:latitude":33.180752,
     "geom:longitude":-87.478873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4301 Woodland Hills Dr",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":152486983,
-    "wof:lastmodified":1449046882,
+    "wof:lastmodified":1466318279,
     "wof:name":"Global Docu Graphics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.478873,33.180752,-87.478873,33.180752],
-  "geometry": {"coordinates":[-87.478873,33.180752],"type":"Point"}
+  "bbox": [
+    -87.478873,
+    33.180752,
+    -87.478873,
+    33.180752
+],
+  "geometry": {"coordinates":[-87.47887299999999,33.180752],"type":"Point"}
 }

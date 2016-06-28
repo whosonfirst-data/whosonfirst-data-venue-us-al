@@ -2,13 +2,14 @@
   "id": 152707449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.212141,32.591044,-86.212141,32.591044",
     "geom:latitude":32.591044,
     "geom:longitude":-86.212141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11241 US Hwy 231",
     "sg:city":"Wetumpka",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851843,
+        85688675,
         85633793,
         85913951,
         102085631,
-        85688675
+        85851843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152707449,
-    "wof:lastmodified":1449048187,
+    "wof:lastmodified":1466319391,
     "wof:name":"Country Roads",
     "wof:parent_id":85851843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.212141,32.591044,-86.212141,32.591044],
+  "bbox": [
+    -86.212141,
+    32.591044,
+    -86.212141,
+    32.591044
+],
   "geometry": {"coordinates":[-86.212141,32.591044],"type":"Point"}
 }

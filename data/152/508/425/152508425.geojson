@@ -2,13 +2,14 @@
   "id": 152508425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.298831,32.39625,-86.298831,32.39625",
     "geom:latitude":32.39625,
     "geom:longitude":-86.298831,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1609 Withers St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85836773,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85836773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152508425,
-    "wof:lastmodified":1449046893,
+    "wof:lastmodified":1466318366,
     "wof:name":"St Stephens Baptist Church",
     "wof:parent_id":85836773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.298831,32.39625,-86.298831,32.39625],
-  "geometry": {"coordinates":[-86.298831,32.39625],"type":"Point"}
+  "bbox": [
+    -86.298831,
+    32.39625,
+    -86.298831,
+    32.39625
+],
+  "geometry": {"coordinates":[-86.29883100000001,32.39625],"type":"Point"}
 }

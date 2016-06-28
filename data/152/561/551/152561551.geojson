@@ -2,13 +2,14 @@
   "id": 152561551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.76091,34.787401,-86.76091,34.787401",
     "geom:latitude":34.787401,
     "geom:longitude":-86.76091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"596 Clutts Rd",
     "sg:city":"Harvest",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085487,
-        85633793,
         85688675,
-        85838413
+        85633793,
+        85838413,
+        102085487
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152561551,
-    "wof:lastmodified":1449047575,
+    "wof:lastmodified":1466318631,
     "wof:name":"World Wide Evangelism",
     "wof:parent_id":85838413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.76091,34.787401,-86.76091,34.787401],
+  "bbox": [
+    -86.76091,
+    34.787401,
+    -86.76091,
+    34.787401
+],
   "geometry": {"coordinates":[-86.76091,34.787401],"type":"Point"}
 }

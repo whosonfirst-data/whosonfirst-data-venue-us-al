@@ -2,13 +2,14 @@
   "id": 152525215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.766242,33.526371,-86.766242,33.526371",
     "geom:latitude":33.526371,
     "geom:longitude":-86.766242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4412 4th Ave S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815977,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85815977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":152525215,
-    "wof:lastmodified":1449047954,
+    "wof:lastmodified":1466318508,
     "wof:name":"Babie's & Mom's Nutrition Inc",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.766242,33.526371,-86.766242,33.526371],
-  "geometry": {"coordinates":[-86.766242,33.526371],"type":"Point"}
+  "bbox": [
+    -86.766242,
+    33.526371,
+    -86.766242,
+    33.526371
+],
+  "geometry": {"coordinates":[-86.76624200000001,33.526371],"type":"Point"}
 }

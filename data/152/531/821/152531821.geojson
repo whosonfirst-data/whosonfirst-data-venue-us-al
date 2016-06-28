@@ -2,13 +2,14 @@
   "id": 152531821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.763603,32.831279,-85.763603,32.831279",
     "geom:latitude":32.831279,
     "geom:longitude":-85.763603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 N Broadnax St",
     "sg:city":"Dadeville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848983,
+        85688675,
         85633793,
         85913327,
         102085567,
-        85688675
+        85848983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152531821,
-    "wof:lastmodified":1449045386,
+    "wof:lastmodified":1466318491,
     "wof:name":"Admix Telcom Inc",
     "wof:parent_id":85848983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.763603,32.831279,-85.763603,32.831279],
+  "bbox": [
+    -85.763603,
+    32.831279,
+    -85.763603,
+    32.831279
+],
   "geometry": {"coordinates":[-85.763603,32.831279],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152307629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.452857,32.530014,-86.452857,32.530014",
     "geom:latitude":32.530014,
     "geom:longitude":-86.452857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1526 Kimberly Ln",
     "sg:city":"Prattville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831059,
+        85688675,
         85633793,
         85913977,
         102085509,
-        85688675
+        85831059
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152307629,
-    "wof:lastmodified":1449045492,
+    "wof:lastmodified":1466317188,
     "wof:name":"League Of Prayer",
     "wof:parent_id":85831059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.452857,32.530014,-86.452857,32.530014],
-  "geometry": {"coordinates":[-86.452857,32.530014],"type":"Point"}
+  "bbox": [
+    -86.452857,
+    32.530014,
+    -86.452857,
+    32.530014
+],
+  "geometry": {"coordinates":[-86.45285699999999,32.530014],"type":"Point"}
 }

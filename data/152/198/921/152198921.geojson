@@ -2,13 +2,14 @@
   "id": 152198921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.195959,34.490544,-86.195959,34.490544",
     "geom:latitude":34.490544,
     "geom:longitude":-86.195959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 Tanglewood Ln",
     "sg:city":"Scottsboro",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85830981,
+        85688675,
         85633793,
         85899833,
         102085513,
-        85688675
+        85830981
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152198921,
-    "wof:lastmodified":1449045987,
+    "wof:lastmodified":1466315956,
     "wof:name":"Kyle Construction Co",
     "wof:parent_id":85830981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.195959,34.490544,-86.195959,34.490544],
+  "bbox": [
+    -86.195959,
+    34.490544,
+    -86.195959,
+    34.490544
+],
   "geometry": {"coordinates":[-86.195959,34.490544],"type":"Point"}
 }

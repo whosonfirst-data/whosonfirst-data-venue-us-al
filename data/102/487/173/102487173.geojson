@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102487173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.435283,32.632146,-85.435283,32.632146",
     "geom:latitude":32.632146,
     "geom:longitude":-85.435283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3700 Pepperell Pkwy",
     "sg:city":"Opelika",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853849,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85853849
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102487173,
-    "wof:lastmodified":1449068582,
+    "wof:lastmodified":1466315763,
     "wof:name":"Midway Mart",
     "wof:parent_id":85853849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.435283,32.632146,-85.435283,32.632146],
+  "bbox": [
+    -85.435283,
+    32.632146,
+    -85.435283,
+    32.632146
+],
   "geometry": {"coordinates":[-85.435283,32.632146],"type":"Point"}
 }

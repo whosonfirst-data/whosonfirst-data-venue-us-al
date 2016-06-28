@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102482463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.160574,32.387512,-86.160574,32.387512",
     "geom:latitude":32.387512,
     "geom:longitude":-86.160574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7337 Lakeside Ct",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085733,
-        85633793,
         85688675,
-        85879041
+        85633793,
+        85879041,
+        102085733
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102482463,
-    "wof:lastmodified":1449068640,
+    "wof:lastmodified":1466315527,
     "wof:name":"Bankers Systems Inc",
     "wof:parent_id":85879041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.160574,32.387512,-86.160574,32.387512],
+  "bbox": [
+    -86.160574,
+    32.387512,
+    -86.160574,
+    32.387512
+],
   "geometry": {"coordinates":[-86.160574,32.387512],"type":"Point"}
 }

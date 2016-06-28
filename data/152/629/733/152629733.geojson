@@ -2,13 +2,14 @@
   "id": 152629733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.823987,33.254645,-86.823987,33.254645",
     "geom:latitude":33.254645,
     "geom:longitude":-86.823987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 Greenfield Ln",
     "sg:city":"Alabaster",
     "sg:classifiers":[
@@ -27,13 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828267,
+        85688675,
         85633793,
         85914501,
         102085499,
-        85688675,
-        85847439,
-        85914487
+        85828267,
+        85914487,
+        85847439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,14 +61,20 @@
         }
     ],
     "wof:id":152629733,
-    "wof:lastmodified":1449047830,
+    "wof:lastmodified":1466319044,
     "wof:name":"Pfix Controls",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.823987,33.254645,-86.823987,33.254645],
+  "bbox": [
+    -86.823987,
+    33.254645,
+    -86.823987,
+    33.254645
+],
   "geometry": {"coordinates":[-86.823987,33.254645],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152857723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.632786,34.729673,-87.632786,34.729673",
     "geom:latitude":34.729673,
     "geom:longitude":-87.632786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2118 E 6th St",
     "sg:city":"Muscle Shoals",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816399,
+        85688675,
         85633793,
         85897481,
         102085625,
-        85688675
+        85816399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152857723,
-    "wof:lastmodified":1449047298,
+    "wof:lastmodified":1466320155,
     "wof:name":"Muscle Shoals First Chr-Nzrn",
     "wof:parent_id":85816399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.632786,34.729673,-87.632786,34.729673],
+  "bbox": [
+    -87.632786,
+    34.729673,
+    -87.632786,
+    34.729673
+],
   "geometry": {"coordinates":[-87.632786,34.729673],"type":"Point"}
 }

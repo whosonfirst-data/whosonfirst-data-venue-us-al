@@ -2,13 +2,14 @@
   "id": 152768639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.237372,30.555641,-88.237372,30.555641",
     "geom:latitude":30.555641,
     "geom:longitude":-88.237372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8309 Lake Helen Dr N",
     "sg:city":"Theodore",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":152768639,
-    "wof:lastmodified":1449046091,
+    "wof:lastmodified":1466319769,
     "wof:name":"Letter Factory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.237372,30.555641,-88.237372,30.555641],
-  "geometry": {"coordinates":[-88.237372,30.555641],"type":"Point"}
+  "bbox": [
+    -88.237372,
+    30.555641,
+    -88.237372,
+    30.555641
+],
+  "geometry": {"coordinates":[-88.23737199999999,30.555641],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152427335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.766712,33.829501,-85.766712,33.829501",
     "geom:latitude":33.829501,
     "geom:longitude":-85.766712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 Reynolds St NW",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817157,
+        85688675,
         85633793,
         85914293,
         102085603,
-        85688675
+        85817157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152427335,
-    "wof:lastmodified":1449045690,
+    "wof:lastmodified":1466317961,
     "wof:name":"Mid-South Distributor",
     "wof:parent_id":85817157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.766712,33.829501,-85.766712,33.829501],
+  "bbox": [
+    -85.766712,
+    33.829501,
+    -85.766712,
+    33.829501
+],
   "geometry": {"coordinates":[-85.766712,33.829501],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152702683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.687264,33.63848,-86.687264,33.63848",
     "geom:latitude":33.63848,
     "geom:longitude":-86.687264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 20th Ave NW",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085481,
-        85633793,
         85688675,
-        85816403
+        85633793,
+        85816403,
+        102085481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152702683,
-    "wof:lastmodified":1449046612,
+    "wof:lastmodified":1466319307,
     "wof:name":"Be-Lov-Lee Beauty Salon",
     "wof:parent_id":85816403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.687264,33.63848,-86.687264,33.63848],
+  "bbox": [
+    -86.687264,
+    33.63848,
+    -86.687264,
+    33.63848
+],
   "geometry": {"coordinates":[-86.687264,33.63848],"type":"Point"}
 }

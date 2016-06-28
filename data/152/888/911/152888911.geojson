@@ -2,13 +2,14 @@
   "id": 152888911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.580975,33.225472,-87.580975,33.225472",
     "geom:latitude":33.225472,
     "geom:longitude":-87.580975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1302 Main Ave",
     "sg:city":"Northport",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805585,
+        85688675,
         85633793,
         85914425,
         102085553,
-        85688675
+        85805585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152888911,
-    "wof:lastmodified":1449047182,
+    "wof:lastmodified":1466320320,
     "wof:name":"Tuscaloosa Real Estate & Mgmt",
     "wof:parent_id":85805585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.580975,33.225472,-87.580975,33.225472],
+  "bbox": [
+    -87.580975,
+    33.225472,
+    -87.580975,
+    33.225472
+],
   "geometry": {"coordinates":[-87.580975,33.225472],"type":"Point"}
 }

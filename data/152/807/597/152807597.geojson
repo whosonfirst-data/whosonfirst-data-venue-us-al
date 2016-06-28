@@ -2,13 +2,14 @@
   "id": 152807597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.792805,33.478135,-86.792805,33.478135",
     "geom:latitude":33.478135,
     "geom:longitude":-86.792805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2910 Linden Ave",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -33,11 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845971,
+        85688675,
         85633793,
         85914847,
         102085481,
-        85688675
+        85845971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":152807597,
-    "wof:lastmodified":1449045481,
+    "wof:lastmodified":1466319896,
     "wof:name":"Everyday Wealth",
     "wof:parent_id":85845971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.792805,33.478135,-86.792805,33.478135],
+  "bbox": [
+    -86.792805,
+    33.478135,
+    -86.792805,
+    33.478135
+],
   "geometry": {"coordinates":[-86.792805,33.478135],"type":"Point"}
 }

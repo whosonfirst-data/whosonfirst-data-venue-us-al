@@ -2,13 +2,14 @@
   "id": 152562353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.066409,33.899144,-86.066409,33.899144",
     "geom:latitude":33.899144,
     "geom:longitude":-86.066409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3880 Hood Dr",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085545,
-        85633793,
         85688675,
-        85839341
+        85633793,
+        85839341,
+        102085545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152562353,
-    "wof:lastmodified":1449046756,
+    "wof:lastmodified":1466318654,
     "wof:name":"Industrial Physcl Therapy LLC",
     "wof:parent_id":85839341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.066409,33.899144,-86.066409,33.899144],
-  "geometry": {"coordinates":[-86.066409,33.899144],"type":"Point"}
+  "bbox": [
+    -86.066409,
+    33.899144,
+    -86.066409,
+    33.899144
+],
+  "geometry": {"coordinates":[-86.06640899999999,33.899144],"type":"Point"}
 }

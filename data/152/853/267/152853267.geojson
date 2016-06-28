@@ -2,13 +2,14 @@
   "id": 152853267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.825527,33.63297,-85.825527,33.63297",
     "geom:latitude":33.63297,
     "geom:longitude":-85.825527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1102 S Quintard Ave",
     "sg:city":"Anniston",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829455,
+        85688675,
         85633793,
         85914281,
         102085603,
-        85688675
+        85829455
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152853267,
-    "wof:lastmodified":1449046174,
+    "wof:lastmodified":1466319989,
     "wof:name":"Anniston Sewing Center",
     "wof:parent_id":85829455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.825527,33.63297,-85.825527,33.63297],
-  "geometry": {"coordinates":[-85.825527,33.63297],"type":"Point"}
+  "bbox": [
+    -85.825527,
+    33.63297,
+    -85.825527,
+    33.63297
+],
+  "geometry": {"coordinates":[-85.82552699999999,33.63297],"type":"Point"}
 }

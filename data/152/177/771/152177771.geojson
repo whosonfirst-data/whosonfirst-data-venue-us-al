@@ -2,13 +2,14 @@
   "id": 152177771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.567344,34.619106,-86.567344,34.619106",
     "geom:latitude":34.619106,
     "geom:longitude":-86.567344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11570 Memorial Pkwy SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85844231,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85844231
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152177771,
-    "wof:lastmodified":1449048898,
+    "wof:lastmodified":1466315661,
     "wof:name":"Amy M Uptain CPA",
     "wof:parent_id":85844231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.567344,34.619106,-86.567344,34.619106],
-  "geometry": {"coordinates":[-86.567344,34.619106],"type":"Point"}
+  "bbox": [
+    -86.567344,
+    34.619106,
+    -86.567344,
+    34.619106
+],
+  "geometry": {"coordinates":[-86.56734400000001,34.619106],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152319193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.451255,32.628086,-85.451255,32.628086",
     "geom:latitude":32.628086,
     "geom:longitude":-85.451255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2154 E University Dr",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853849,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85853849
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152319193,
-    "wof:lastmodified":1449046194,
+    "wof:lastmodified":1466317387,
     "wof:name":"Discount Food Mart",
     "wof:parent_id":85853849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.451255,32.628086,-85.451255,32.628086],
+  "bbox": [
+    -85.451255,
+    32.628086,
+    -85.451255,
+    32.628086
+],
   "geometry": {"coordinates":[-85.451255,32.628086],"type":"Point"}
 }

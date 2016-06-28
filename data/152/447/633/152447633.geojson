@@ -2,13 +2,14 @@
   "id": 152447633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.09848,32.51681,-85.09848,32.51681",
     "geom:latitude":32.51681,
     "geom:longitude":-85.09848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Co Rd 235",
     "sg:city":"Smiths",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819517,
+        85688675,
         85633793,
         85913815,
         102085751,
-        85688675
+        85819517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152447633,
-    "wof:lastmodified":1449047553,
+    "wof:lastmodified":1466318126,
     "wof:name":"Grow With Music",
     "wof:parent_id":85819517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.09848,32.51681,-85.09848,32.51681],
+  "bbox": [
+    -85.09848,
+    32.51681,
+    -85.09848,
+    32.51681
+],
   "geometry": {"coordinates":[-85.09848,32.51681],"type":"Point"}
 }

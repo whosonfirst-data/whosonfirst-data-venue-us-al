@@ -2,13 +2,14 @@
   "id": 152889053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.957685,33.995526,-85.957685,33.995526",
     "geom:latitude":33.995526,
     "geom:longitude":-85.957685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1409 Springfield Ave",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822279,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85822279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152889053,
-    "wof:lastmodified":1449044194,
+    "wof:lastmodified":1466320272,
     "wof:name":"J W Stewart Neighborhood",
     "wof:parent_id":85822279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.957685,33.995526,-85.957685,33.995526],
+  "bbox": [
+    -85.957685,
+    33.995526,
+    -85.957685,
+    33.995526
+],
   "geometry": {"coordinates":[-85.957685,33.995526],"type":"Point"}
 }

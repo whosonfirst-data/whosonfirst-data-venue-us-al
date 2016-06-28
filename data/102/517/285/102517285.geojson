@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102517285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.068967,30.805004,-88.068967,30.805004",
     "geom:latitude":30.805004,
     "geom:longitude":-88.068967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"231 Jacintoport Blvd",
     "sg:city":"Saraland",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085469,
-        85633793,
         85688675,
-        85878983
+        85633793,
+        85878983,
+        102085469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102517285,
-    "wof:lastmodified":1449069120,
+    "wof:lastmodified":1466317040,
     "wof:name":"Mission Petroleum Carriers",
     "wof:parent_id":85878983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.068967,30.805004,-88.068967,30.805004],
+  "bbox": [
+    -88.068967,
+    30.805004,
+    -88.068967,
+    30.805004
+],
   "geometry": {"coordinates":[-88.068967,30.805004],"type":"Point"}
 }

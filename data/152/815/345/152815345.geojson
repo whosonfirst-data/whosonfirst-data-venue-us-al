@@ -2,13 +2,14 @@
   "id": 152815345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.823805,33.699034,-85.823805,33.699034",
     "geom:latitude":33.699034,
     "geom:longitude":-85.823805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4406 McClellan Blvd",
     "sg:city":"Anniston",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825451,
+        85688675,
         85633793,
         85915207,
         102085603,
-        85688675
+        85825451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152815345,
-    "wof:lastmodified":1449046548,
+    "wof:lastmodified":1466319934,
     "wof:name":"Old Path Holiness Chr",
     "wof:parent_id":85825451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.823805,33.699034,-85.823805,33.699034],
-  "geometry": {"coordinates":[-85.823805,33.699034],"type":"Point"}
+  "bbox": [
+    -85.823805,
+    33.699034,
+    -85.823805,
+    33.699034
+],
+  "geometry": {"coordinates":[-85.82380499999999,33.699034],"type":"Point"}
 }

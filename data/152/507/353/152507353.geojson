@@ -2,13 +2,14 @@
   "id": 152507353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.469301,32.613732,-85.469301,32.613732",
     "geom:latitude":32.613732,
     "geom:longitude":-85.469301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"633 Old Stage Rd",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -37,11 +38,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848213,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85848213
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,14 +61,20 @@
         }
     ],
     "wof:id":152507353,
-    "wof:lastmodified":1449046672,
+    "wof:lastmodified":1466318366,
     "wof:name":"G & M Products LLC",
     "wof:parent_id":85848213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.469301,32.613732,-85.469301,32.613732],
+  "bbox": [
+    -85.469301,
+    32.613732,
+    -85.469301,
+    32.613732
+],
   "geometry": {"coordinates":[-85.469301,32.613732],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152393039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.675227,34.744009,-87.675227,34.744009",
     "geom:latitude":34.744009,
     "geom:longitude":-87.675227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 State Ave",
     "sg:city":"Muscle Shoals",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816399,
+        85688675,
         85633793,
         85897481,
         102085625,
-        85688675
+        85816399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152393039,
-    "wof:lastmodified":1449045757,
+    "wof:lastmodified":1466317720,
     "wof:name":"Core Center",
     "wof:parent_id":85816399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.675227,34.744009,-87.675227,34.744009],
-  "geometry": {"coordinates":[-87.675227,34.744009],"type":"Point"}
+  "bbox": [
+    -87.675227,
+    34.744009,
+    -87.675227,
+    34.744009
+],
+  "geometry": {"coordinates":[-87.67522700000001,34.744009],"type":"Point"}
 }

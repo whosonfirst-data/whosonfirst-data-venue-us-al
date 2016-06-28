@@ -2,13 +2,14 @@
   "id": 152583151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.773264,30.831408,-87.773264,30.831408",
     "geom:latitude":30.831408,
     "geom:longitude":-87.773264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41580 Old Daphne Rd",
     "sg:city":"Bay Minette",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813343,
+        85688675,
         85633793,
         85914703,
         102085469,
-        85688675
+        85813343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152583151,
-    "wof:lastmodified":1449047942,
+    "wof:lastmodified":1466318756,
     "wof:name":"Mc Neil Cakes",
     "wof:parent_id":85813343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.773264,30.831408,-87.773264,30.831408],
+  "bbox": [
+    -87.773264,
+    30.831408,
+    -87.773264,
+    30.831408
+],
   "geometry": {"coordinates":[-87.773264,30.831408],"type":"Point"}
 }

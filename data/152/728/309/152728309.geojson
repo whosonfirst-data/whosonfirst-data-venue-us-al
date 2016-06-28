@@ -2,13 +2,14 @@
   "id": 152728309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.461594,33.187548,-87.461594,33.187548",
     "geom:latitude":33.187548,
     "geom:longitude":-87.461594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5601 Skyland Blvd E",
     "sg:city":"Cottondale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851363,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85851363
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152728309,
-    "wof:lastmodified":1449045371,
+    "wof:lastmodified":1466319476,
     "wof:name":"Alabama Mobile HM & Camper Svc",
     "wof:parent_id":85851363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.461594,33.187548,-87.461594,33.187548],
-  "geometry": {"coordinates":[-87.461594,33.187548],"type":"Point"}
+  "bbox": [
+    -87.461594,
+    33.187548,
+    -87.461594,
+    33.187548
+],
+  "geometry": {"coordinates":[-87.46159400000001,33.187548],"type":"Point"}
 }

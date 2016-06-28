@@ -2,13 +2,14 @@
   "id": 152778615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.51793,34.888472,-86.51793,34.888472",
     "geom:latitude":34.888472,
     "geom:longitude":-86.51793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8854 Moores Mill Rd",
     "sg:city":"Meridianville",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":152778615,
-    "wof:lastmodified":1449044384,
+    "wof:lastmodified":1466319813,
     "wof:name":"Jet Setters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.51793,34.888472,-86.51793,34.888472],
-  "geometry": {"coordinates":[-86.51793,34.888472],"type":"Point"}
+  "bbox": [
+    -86.51793,
+    34.888472,
+    -86.51793,
+    34.888472
+],
+  "geometry": {"coordinates":[-86.51793000000001,34.888472],"type":"Point"}
 }

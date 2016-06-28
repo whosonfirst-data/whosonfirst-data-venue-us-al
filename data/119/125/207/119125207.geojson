@@ -2,13 +2,14 @@
   "id": 119125207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.692234,33.579152,-86.692234,33.579152",
     "geom:latitude":33.579152,
     "geom:longitude":-86.692234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"617 Elm St",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85804001,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85804001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":119125207,
-    "wof:lastmodified":1449043469,
+    "wof:lastmodified":1466314359,
     "wof:name":"Oneonta Sand & Gravel",
     "wof:parent_id":85804001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.692234,33.579152,-86.692234,33.579152],
+  "bbox": [
+    -86.692234,
+    33.579152,
+    -86.692234,
+    33.579152
+],
   "geometry": {"coordinates":[-86.692234,33.579152],"type":"Point"}
 }

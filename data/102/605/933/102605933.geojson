@@ -2,13 +2,14 @@
   "id": 102605933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.215814,32.389768,-86.215814,32.389768",
     "geom:latitude":32.389768,
     "geom:longitude":-86.215814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5311 Wares Ferry Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834995,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85834995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102605933,
-    "wof:lastmodified":1449068936,
+    "wof:lastmodified":1466317175,
     "wof:name":"Dixie Service Cleaners",
     "wof:parent_id":85834995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.215814,32.389768,-86.215814,32.389768],
-  "geometry": {"coordinates":[-86.215814,32.389768],"type":"Point"}
+  "bbox": [
+    -86.215814,
+    32.389768,
+    -86.215814,
+    32.389768
+],
+  "geometry": {"coordinates":[-86.21581399999999,32.389768],"type":"Point"}
 }

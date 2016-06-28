@@ -2,13 +2,14 @@
   "id": 152821049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.776565,34.669225,-86.776565,34.669225",
     "geom:latitude":34.669225,
     "geom:longitude":-86.776565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 Jetplex Cir",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152821049,
-    "wof:lastmodified":1449046817,
+    "wof:lastmodified":1466319931,
     "wof:name":"Fox Test Solutions & Conslnt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.776565,34.669225,-86.776565,34.669225],
-  "geometry": {"coordinates":[-86.776565,34.669225],"type":"Point"}
+  "bbox": [
+    -86.776565,
+    34.669225,
+    -86.776565,
+    34.669225
+],
+  "geometry": {"coordinates":[-86.77656500000001,34.669225],"type":"Point"}
 }

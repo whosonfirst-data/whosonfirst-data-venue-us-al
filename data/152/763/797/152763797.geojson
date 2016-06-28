@@ -2,13 +2,14 @@
   "id": 152763797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.281908,32.35953,-86.281908,32.35953",
     "geom:latitude":32.35953,
     "geom:longitude":-86.281908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2026 Clubview St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825725,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85825725
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152763797,
-    "wof:lastmodified":1449048889,
+    "wof:lastmodified":1466319654,
     "wof:name":"Christy's Candle Creations",
     "wof:parent_id":85825725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.281908,32.35953,-86.281908,32.35953],
+  "bbox": [
+    -86.281908,
+    32.35953,
+    -86.281908,
+    32.35953
+],
   "geometry": {"coordinates":[-86.281908,32.35953],"type":"Point"}
 }

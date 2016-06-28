@@ -2,13 +2,14 @@
   "id": 152120569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.976237,34.54548,-86.976237,34.54548",
     "geom:latitude":34.54548,
     "geom:longitude":-86.976237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3110 Sexton Rd SE",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.advancedmanufacturingsystems.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85804905,
+        85688675,
         85633793,
         85913589,
         102085531,
-        85688675
+        85804905
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152120569,
-    "wof:lastmodified":1449048255,
+    "wof:lastmodified":1466315455,
     "wof:name":"Advanced Manufacturing Systs",
     "wof:parent_id":85804905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.976237,34.54548,-86.976237,34.54548],
+  "bbox": [
+    -86.976237,
+    34.54548,
+    -86.976237,
+    34.54548
+],
   "geometry": {"coordinates":[-86.976237,34.54548],"type":"Point"}
 }

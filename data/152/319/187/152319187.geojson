@@ -2,13 +2,14 @@
   "id": 152319187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.609327,34.701897,-86.609327,34.701897",
     "geom:latitude":34.701897,
     "geom:longitude":-86.609327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3411 Triana Blvd SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.abtinc.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85810591,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85810591
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152319187,
-    "wof:lastmodified":1449046194,
+    "wof:lastmodified":1466317302,
     "wof:name":"Alpha Beta Technologies Inc",
     "wof:parent_id":85810591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.609327,34.701897,-86.609327,34.701897],
-  "geometry": {"coordinates":[-86.609327,34.701897],"type":"Point"}
+  "bbox": [
+    -86.609327,
+    34.701897,
+    -86.609327,
+    34.701897
+],
+  "geometry": {"coordinates":[-86.60932699999999,34.701897],"type":"Point"}
 }

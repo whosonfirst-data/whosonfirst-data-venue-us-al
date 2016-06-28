@@ -2,13 +2,14 @@
   "id": 152232329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.545336,33.148115,-87.545336,33.148115",
     "geom:latitude":33.148115,
     "geom:longitude":-87.545336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6570 State Rte 69",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085553,
-        85633793,
         85688675,
-        85851887
+        85633793,
+        85851887,
+        102085553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152232329,
-    "wof:lastmodified":1449045792,
+    "wof:lastmodified":1466316345,
     "wof:name":"Baileys Taekwondo",
     "wof:parent_id":85851887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.545336,33.148115,-87.545336,33.148115],
-  "geometry": {"coordinates":[-87.545336,33.148115],"type":"Point"}
+  "bbox": [
+    -87.545336,
+    33.148115,
+    -87.545336,
+    33.148115
+],
+  "geometry": {"coordinates":[-87.54533600000001,33.148115],"type":"Point"}
 }

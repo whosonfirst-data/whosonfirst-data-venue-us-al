@@ -2,13 +2,14 @@
   "id": 152521971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.952339,32.9458,-85.952339,32.9458",
     "geom:latitude":32.9458,
     "geom:longitude":-85.952339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Jefferson St",
     "sg:city":"Alexander City",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840481,
+        85688675,
         85633793,
         85913363,
         102085567,
-        85688675
+        85840481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152521971,
-    "wof:lastmodified":1449048693,
+    "wof:lastmodified":1466318422,
     "wof:name":"Edith's Beautique",
     "wof:parent_id":85840481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.952339,32.9458,-85.952339,32.9458],
-  "geometry": {"coordinates":[-85.952339,32.9458],"type":"Point"}
+  "bbox": [
+    -85.952339,
+    32.9458,
+    -85.952339,
+    32.9458
+],
+  "geometry": {"coordinates":[-85.95233899999999,32.9458],"type":"Point"}
 }

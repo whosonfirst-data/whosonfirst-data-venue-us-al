@@ -2,13 +2,14 @@
   "id": 152784913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.470432,33.955226,-86.470432,33.955226",
     "geom:latitude":33.955226,
     "geom:longitude":-86.470432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"932 Cotton Ave",
     "sg:city":"Oneonta",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085667,
-        85633793,
         85688675,
-        85819523
+        85633793,
+        85819523,
+        102085667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152784913,
-    "wof:lastmodified":1449047380,
+    "wof:lastmodified":1466319770,
     "wof:name":"Cornerstone Fellowship",
     "wof:parent_id":85819523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.470432,33.955226,-86.470432,33.955226],
+  "bbox": [
+    -86.470432,
+    33.955226,
+    -86.470432,
+    33.955226
+],
   "geometry": {"coordinates":[-86.470432,33.955226],"type":"Point"}
 }

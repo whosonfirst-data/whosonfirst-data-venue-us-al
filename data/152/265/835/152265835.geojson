@@ -2,13 +2,14 @@
   "id": 152265835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.825122,34.891535,-85.825122,34.891535",
     "geom:latitude":34.891535,
     "geom:longitude":-85.825122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1372 Co Rd 254",
     "sg:city":"Stevenson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809451,
+        85688675,
         85633793,
         85914033,
         102085607,
-        85688675
+        85809451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152265835,
-    "wof:lastmodified":1449045881,
+    "wof:lastmodified":1466316804,
     "wof:name":"Woodalls Radiator & Auto Repr",
     "wof:parent_id":85809451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.825122,34.891535,-85.825122,34.891535],
-  "geometry": {"coordinates":[-85.825122,34.891535],"type":"Point"}
+  "bbox": [
+    -85.825122,
+    34.891535,
+    -85.825122,
+    34.891535
+],
+  "geometry": {"coordinates":[-85.82512199999999,34.891535],"type":"Point"}
 }

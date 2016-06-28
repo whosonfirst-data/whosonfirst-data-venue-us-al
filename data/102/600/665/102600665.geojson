@@ -2,13 +2,14 @@
   "id": 102600665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.104594,30.586731,-88.104594,30.586731",
     "geom:latitude":30.586731,
     "geom:longitude":-88.104594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2502 Riverforest Dr",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085585,
-        85633793,
         85688675,
-        85879001
+        85633793,
+        85879001,
+        102085585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102600665,
-    "wof:lastmodified":1449068014,
+    "wof:lastmodified":1466317032,
     "wof:name":"Sulli Software Inc",
     "wof:parent_id":85879001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.104594,30.586731,-88.104594,30.586731],
-  "geometry": {"coordinates":[-88.104594,30.586731],"type":"Point"}
+  "bbox": [
+    -88.104594,
+    30.586731,
+    -88.104594,
+    30.586731
+],
+  "geometry": {"coordinates":[-88.10459400000001,30.586731],"type":"Point"}
 }

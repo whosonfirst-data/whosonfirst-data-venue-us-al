@@ -2,13 +2,14 @@
   "id": 152347083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.461689,32.618132,-85.461689,32.618132",
     "geom:latitude":32.618132,
     "geom:longitude":-85.461689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"953 Opelika Rd",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852419,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85852419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152347083,
-    "wof:lastmodified":1449046542,
+    "wof:lastmodified":1466317563,
     "wof:name":"Penny Profit Cleaners",
     "wof:parent_id":85852419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.461689,32.618132,-85.461689,32.618132],
-  "geometry": {"coordinates":[-85.461689,32.618132],"type":"Point"}
+  "bbox": [
+    -85.461689,
+    32.618132,
+    -85.461689,
+    32.618132
+],
+  "geometry": {"coordinates":[-85.46168900000001,32.618132],"type":"Point"}
 }

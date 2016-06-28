@@ -2,13 +2,14 @@
   "id": 152161437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.483364,31.031712,-87.483364,31.031712",
     "geom:latitude":31.031712,
     "geom:longitude":-87.483364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"149 Carver Ave",
     "sg:city":"Atmore",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843687,
+        85688675,
         85633793,
         85899775,
         102085735,
-        85688675
+        85843687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152161437,
-    "wof:lastmodified":1449046138,
+    "wof:lastmodified":1466315188,
     "wof:name":"Turner Funeral Chapel",
     "wof:parent_id":85843687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.483364,31.031712,-87.483364,31.031712],
-  "geometry": {"coordinates":[-87.483364,31.031712],"type":"Point"}
+  "bbox": [
+    -87.483364,
+    31.031712,
+    -87.483364,
+    31.031712
+],
+  "geometry": {"coordinates":[-87.48336399999999,31.031712],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152356215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.56675,34.633594,-86.56675,34.633594",
     "geom:latitude":34.633594,
     "geom:longitude":-86.56675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11319 Memorial Pkwy SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.skatehuntsville.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825687,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85825687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152356215,
-    "wof:lastmodified":1449048103,
+    "wof:lastmodified":1466317760,
     "wof:name":"Skate Odyssey Inc",
     "wof:parent_id":85825687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.56675,34.633594,-86.56675,34.633594],
+  "bbox": [
+    -86.56675,
+    34.633594,
+    -86.56675,
+    34.633594
+],
   "geometry": {"coordinates":[-86.56675,34.633594],"type":"Point"}
 }

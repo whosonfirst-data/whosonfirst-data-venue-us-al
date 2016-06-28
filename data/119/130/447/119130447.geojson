@@ -2,13 +2,14 @@
   "id": 119130447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.939456,34.441267,-86.939456,34.441267",
     "geom:latitude":34.441267,
     "geom:longitude":-86.939456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"609 Stewart St SW",
     "sg:city":"Hartselle",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851807,
+        85688675,
         85633793,
         85914103,
         102085531,
-        85688675
+        85851807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":119130447,
-    "wof:lastmodified":1449041698,
+    "wof:lastmodified":1466314528,
     "wof:name":"Hartselle Self Storage",
     "wof:parent_id":85851807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.939456,34.441267,-86.939456,34.441267],
-  "geometry": {"coordinates":[-86.939456,34.441267],"type":"Point"}
+  "bbox": [
+    -86.939456,
+    34.441267,
+    -86.939456,
+    34.441267
+],
+  "geometry": {"coordinates":[-86.93945600000001,34.441267],"type":"Point"}
 }

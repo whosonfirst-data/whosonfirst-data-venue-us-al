@@ -2,13 +2,14 @@
   "id": 152555511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.410375,31.258438,-85.410375,31.258438",
     "geom:latitude":31.258438,
     "geom:longitude":-85.410375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1181 Murray Rd",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851339,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85851339
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152555511,
-    "wof:lastmodified":1449048256,
+    "wof:lastmodified":1466318632,
     "wof:name":"Eagle Ridge Apartments LTD",
     "wof:parent_id":85851339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.410375,31.258438,-85.410375,31.258438],
+  "bbox": [
+    -85.410375,
+    31.258438,
+    -85.410375,
+    31.258438
+],
   "geometry": {"coordinates":[-85.410375,31.258438],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102612979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.598788,34.763452,-86.598788,34.763452",
     "geom:latitude":34.763452,
     "geom:longitude":-86.598788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2560 Sparkman Dr NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811925,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85811925
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102612979,
-    "wof:lastmodified":1449068833,
+    "wof:lastmodified":1466317298,
     "wof:name":"Peoples Choice Auto",
     "wof:parent_id":85811925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.598788,34.763452,-86.598788,34.763452],
+  "bbox": [
+    -86.598788,
+    34.763452,
+    -86.598788,
+    34.763452
+],
   "geometry": {"coordinates":[-86.598788,34.763452],"type":"Point"}
 }

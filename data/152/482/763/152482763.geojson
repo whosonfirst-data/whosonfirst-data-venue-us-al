@@ -2,13 +2,14 @@
   "id": 152482763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.801909,33.503344,-86.801909,33.503344",
     "geom:latitude":33.503344,
     "geom:longitude":-86.801909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 18th St S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819533,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675,
+        85819533,
         85813175
     ],
     "wof:breaches":[],
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":152482763,
-    "wof:lastmodified":1449045955,
+    "wof:lastmodified":1466318333,
     "wof:name":"Retina Research Foundation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.801909,33.503344,-86.801909,33.503344],
-  "geometry": {"coordinates":[-86.801909,33.503344],"type":"Point"}
+  "bbox": [
+    -86.801909,
+    33.503344,
+    -86.801909,
+    33.503344
+],
+  "geometry": {"coordinates":[-86.80190899999999,33.503344],"type":"Point"}
 }

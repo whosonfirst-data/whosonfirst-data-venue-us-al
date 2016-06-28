@@ -2,13 +2,14 @@
   "id": 152887529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.859254,31.351208,-85.859254,31.351208",
     "geom:latitude":31.351208,
     "geom:longitude":-85.859254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 Huntington Dr",
     "sg:city":"Enterprise",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848185,
+        85688675,
         85633793,
         85899527,
         102085699,
-        85688675,
+        85848185,
         85837695
     ],
     "wof:breaches":[],
@@ -62,14 +63,20 @@
         }
     ],
     "wof:id":152887529,
-    "wof:lastmodified":1449048006,
+    "wof:lastmodified":1466320264,
     "wof:name":"Pool Guy LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.859254,31.351208,-85.859254,31.351208],
-  "geometry": {"coordinates":[-85.859254,31.351208],"type":"Point"}
+  "bbox": [
+    -85.859254,
+    31.351208,
+    -85.859254,
+    31.351208
+],
+  "geometry": {"coordinates":[-85.85925400000001,31.351208],"type":"Point"}
 }

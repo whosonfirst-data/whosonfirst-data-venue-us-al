@@ -2,13 +2,14 @@
   "id": 152864423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.055559,31.299878,-86.055559,31.299878",
     "geom:latitude":31.299878,
     "geom:longitude":-86.055559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"737 Co Rd 448",
     "sg:city":"Elba",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848823,
+        85688675,
         85633793,
         85899527,
         102085699,
-        85688675
+        85848823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152864423,
-    "wof:lastmodified":1449048946,
+    "wof:lastmodified":1466320180,
     "wof:name":"Davis Poultry Farm",
     "wof:parent_id":85848823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.055559,31.299878,-86.055559,31.299878],
+  "bbox": [
+    -86.055559,
+    31.299878,
+    -86.055559,
+    31.299878
+],
   "geometry": {"coordinates":[-86.055559,31.299878],"type":"Point"}
 }

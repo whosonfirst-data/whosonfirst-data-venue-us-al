@@ -2,13 +2,14 @@
   "id": 152777957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.862113,33.355172,-86.862113,33.355172",
     "geom:latitude":33.355172,
     "geom:longitude":-86.862113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5034 Lake Crest Cir",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829763,
+        85688675,
         85633793,
         85914475,
         102085481,
-        85688675
+        85829763
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152777957,
-    "wof:lastmodified":1449046746,
+    "wof:lastmodified":1466319816,
     "wof:name":"Robbie Carroll Interiors",
     "wof:parent_id":85829763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.862113,33.355172,-86.862113,33.355172],
-  "geometry": {"coordinates":[-86.862113,33.355172],"type":"Point"}
+  "bbox": [
+    -86.862113,
+    33.355172,
+    -86.862113,
+    33.355172
+],
+  "geometry": {"coordinates":[-86.86211299999999,33.355172],"type":"Point"}
 }

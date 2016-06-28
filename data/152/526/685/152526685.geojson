@@ -2,13 +2,14 @@
   "id": 152526685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.211293,34.555968,-87.211293,34.555968",
     "geom:latitude":34.555968,
     "geom:longitude":-87.211293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Co Rd 563",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085601,
-        85633793,
         85688675,
-        85851971
+        85633793,
+        85851971,
+        102085601
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152526685,
-    "wof:lastmodified":1449045725,
+    "wof:lastmodified":1466318334,
     "wof:name":"R S Communications",
     "wof:parent_id":85851971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.211293,34.555968,-87.211293,34.555968],
+  "bbox": [
+    -87.211293,
+    34.555968,
+    -87.211293,
+    34.555968
+],
   "geometry": {"coordinates":[-87.211293,34.555968],"type":"Point"}
 }

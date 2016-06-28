@@ -2,13 +2,14 @@
   "id": 152302447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.612665,32.573423,-86.612665,32.573423",
     "geom:latitude":32.573423,
     "geom:longitude":-86.612665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1047 Co Rd 40 W",
     "sg:city":"Prattville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":152302447,
-    "wof:lastmodified":1449045867,
+    "wof:lastmodified":1466317143,
     "wof:name":"Kington Old Volunteer Fire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.612665,32.573423,-86.612665,32.573423],
-  "geometry": {"coordinates":[-86.612665,32.573423],"type":"Point"}
+  "bbox": [
+    -86.612665,
+    32.573423,
+    -86.612665,
+    32.573423
+],
+  "geometry": {"coordinates":[-86.61266500000001,32.573423],"type":"Point"}
 }

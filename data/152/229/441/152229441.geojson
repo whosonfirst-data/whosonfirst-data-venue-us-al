@@ -2,13 +2,14 @@
   "id": 152229441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.030825,33.404109,-87.030825,33.404109",
     "geom:latitude":33.404109,
     "geom:longitude":-87.030825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 Lakeview Estates Dr",
     "sg:city":"Bessemer",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152229441,
-    "wof:lastmodified":1449047982,
+    "wof:lastmodified":1466316235,
     "wof:name":"Brighten Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.030825,33.404109,-87.030825,33.404109],
-  "geometry": {"coordinates":[-87.030825,33.404109],"type":"Point"}
+  "bbox": [
+    -87.030825,
+    33.404109,
+    -87.030825,
+    33.404109
+],
+  "geometry": {"coordinates":[-87.03082499999999,33.404109],"type":"Point"}
 }

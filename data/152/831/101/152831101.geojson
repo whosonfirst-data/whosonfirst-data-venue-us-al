@@ -2,13 +2,14 @@
   "id": 152831101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.039281,34.280513,-86.039281,34.280513",
     "geom:latitude":34.280513,
     "geom:longitude":-86.039281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Co Rd 170",
     "sg:city":"Crossville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815015,
+        85688675,
         85633793,
         85897515,
         102085615,
-        85688675
+        85815015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152831101,
-    "wof:lastmodified":1449047015,
+    "wof:lastmodified":1466319845,
     "wof:name":"Wes Garner Ministries",
     "wof:parent_id":85815015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.039281,34.280513,-86.039281,34.280513],
+  "bbox": [
+    -86.039281,
+    34.280513,
+    -86.039281,
+    34.280513
+],
   "geometry": {"coordinates":[-86.039281,34.280513],"type":"Point"}
 }

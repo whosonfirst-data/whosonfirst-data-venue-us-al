@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102493003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.264159,32.354308,-86.264159,32.354308",
     "geom:latitude":32.354308,
     "geom:longitude":-86.264159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3066 Zelda Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879045,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102493003,
-    "wof:lastmodified":1449068549,
+    "wof:lastmodified":1466316038,
     "wof:name":"Totus",
     "wof:parent_id":85879045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.264159,32.354308,-86.264159,32.354308],
-  "geometry": {"coordinates":[-86.264159,32.354308],"type":"Point"}
+  "bbox": [
+    -86.264159,
+    32.354308,
+    -86.264159,
+    32.354308
+],
+  "geometry": {"coordinates":[-86.26415900000001,32.354308],"type":"Point"}
 }

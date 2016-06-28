@@ -2,13 +2,14 @@
   "id": 152504615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.452705,32.455914,-86.452705,32.455914",
     "geom:latitude":32.455914,
     "geom:longitude":-86.452705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"656 Partridge Ln",
     "sg:city":"Prattville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858019,
+        85688675,
         85633793,
         85913977,
         102085509,
-        85688675
+        85858019
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152504615,
-    "wof:lastmodified":1449045118,
+    "wof:lastmodified":1466318357,
     "wof:name":"C J Dance Factory",
     "wof:parent_id":85858019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.452705,32.455914,-86.452705,32.455914],
-  "geometry": {"coordinates":[-86.452705,32.455914],"type":"Point"}
+  "bbox": [
+    -86.452705,
+    32.455914,
+    -86.452705,
+    32.455914
+],
+  "geometry": {"coordinates":[-86.45270499999999,32.455914],"type":"Point"}
 }

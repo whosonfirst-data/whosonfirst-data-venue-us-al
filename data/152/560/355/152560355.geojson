@@ -2,13 +2,14 @@
   "id": 152560355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.662529,34.741344,-86.662529,34.741344",
     "geom:latitude":34.741344,
     "geom:longitude":-86.662529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 Old Monrovia Rd NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.saturnofhuntsville.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851401,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85851401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152560355,
-    "wof:lastmodified":1449047824,
+    "wof:lastmodified":1466318621,
     "wof:name":"Saturn Of Huntsville",
     "wof:parent_id":85851401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.662529,34.741344,-86.662529,34.741344],
-  "geometry": {"coordinates":[-86.662529,34.741344],"type":"Point"}
+  "bbox": [
+    -86.662529,
+    34.741344,
+    -86.662529,
+    34.741344
+],
+  "geometry": {"coordinates":[-86.66252900000001,34.741344],"type":"Point"}
 }

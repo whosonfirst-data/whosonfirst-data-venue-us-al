@@ -2,13 +2,14 @@
   "id": 152252831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.843114,33.605635,-85.843114,33.605635",
     "geom:latitude":33.605635,
     "geom:longitude":-85.843114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"81 Hamric Dr W",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.soundsolutions.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827499,
+        85688675,
         85633793,
         85914159,
         102085603,
-        85688675
+        85827499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152252831,
-    "wof:lastmodified":1449044911,
+    "wof:lastmodified":1466316672,
     "wof:name":"Sound Solutions",
     "wof:parent_id":85827499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.843114,33.605635,-85.843114,33.605635],
+  "bbox": [
+    -85.843114,
+    33.605635,
+    -85.843114,
+    33.605635
+],
   "geometry": {"coordinates":[-85.843114,33.605635],"type":"Point"}
 }

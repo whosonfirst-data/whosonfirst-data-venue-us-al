@@ -2,13 +2,14 @@
   "id": 152219221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.679114,34.766562,-86.679114,34.766562",
     "geom:latitude":34.766562,
     "geom:longitude":-86.679114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"358 Johns Rd NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85826841,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85826841
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152219221,
-    "wof:lastmodified":1449048724,
+    "wof:lastmodified":1466316235,
     "wof:name":"King Nat Glass Co",
     "wof:parent_id":85826841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.679114,34.766562,-86.679114,34.766562],
+  "bbox": [
+    -86.679114,
+    34.766562,
+    -86.679114,
+    34.766562
+],
   "geometry": {"coordinates":[-86.679114,34.766562],"type":"Point"}
 }

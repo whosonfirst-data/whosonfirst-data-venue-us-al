@@ -2,13 +2,14 @@
   "id": 102616015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.536273,34.635709,-86.536273,34.635709",
     "geom:latitude":34.635709,
     "geom:longitude":-86.536273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1909 Waxleaf Green SE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807141,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85807141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102616015,
-    "wof:lastmodified":1449069570,
+    "wof:lastmodified":1466317311,
     "wof:name":"Leela Dias Services",
     "wof:parent_id":85807141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.536273,34.635709,-86.536273,34.635709],
-  "geometry": {"coordinates":[-86.536273,34.635709],"type":"Point"}
+  "bbox": [
+    -86.536273,
+    34.635709,
+    -86.536273,
+    34.635709
+],
+  "geometry": {"coordinates":[-86.53627299999999,34.635709],"type":"Point"}
 }

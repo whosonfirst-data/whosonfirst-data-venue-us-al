@@ -2,13 +2,14 @@
   "id": 152810585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.627468,34.728002,-86.627468,34.728002",
     "geom:latitude":34.728002,
     "geom:longitude":-86.627468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Jordan Ln NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.wildflourbistro.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822763,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85822763
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152810585,
-    "wof:lastmodified":1449045650,
+    "wof:lastmodified":1466319873,
     "wof:name":"Wildflour Bistro",
     "wof:parent_id":85822763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.627468,34.728002,-86.627468,34.728002],
-  "geometry": {"coordinates":[-86.627468,34.728002],"type":"Point"}
+  "bbox": [
+    -86.627468,
+    34.728002,
+    -86.627468,
+    34.728002
+],
+  "geometry": {"coordinates":[-86.62746799999999,34.728002],"type":"Point"}
 }

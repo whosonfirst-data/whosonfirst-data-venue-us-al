@@ -2,13 +2,14 @@
   "id": 152481991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.30595,32.373649,-86.30595,32.373649",
     "geom:latitude":32.373649,
     "geom:longitude":-86.30595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 S Lawrence St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.hsy.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879037,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152481991,
-    "wof:lastmodified":1449048329,
+    "wof:lastmodified":1466318233,
     "wof:name":"Haskell Slaughter Gallion",
     "wof:parent_id":85879037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.30595,32.373649,-86.30595,32.373649],
+  "bbox": [
+    -86.30595,
+    32.373649,
+    -86.30595,
+    32.373649
+],
   "geometry": {"coordinates":[-86.30595,32.373649],"type":"Point"}
 }

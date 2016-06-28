@@ -2,13 +2,14 @@
   "id": 152556607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.594355,31.019368,-87.594355,31.019368",
     "geom:latitude":31.019368,
     "geom:longitude":-87.594355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1851 James Rd",
     "sg:city":"Atmore",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843687,
+        85688675,
         85633793,
         85899775,
         102085735,
-        85688675
+        85843687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152556607,
-    "wof:lastmodified":1449045439,
+    "wof:lastmodified":1466318632,
     "wof:name":"Mount Shiloh Baptist Church",
     "wof:parent_id":85843687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.594355,31.019368,-87.594355,31.019368],
-  "geometry": {"coordinates":[-87.594355,31.019368],"type":"Point"}
+  "bbox": [
+    -87.594355,
+    31.019368,
+    -87.594355,
+    31.019368
+],
+  "geometry": {"coordinates":[-87.59435499999999,31.019368],"type":"Point"}
 }

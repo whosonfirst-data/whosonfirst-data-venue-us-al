@@ -2,13 +2,14 @@
   "id": 152704271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.913597,34.515654,-86.913597,34.515654",
     "geom:latitude":34.515654,
     "geom:longitude":-86.913597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4502 Windy Hill Rd SE",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085531,
-        85633793,
         85688675,
-        85808557
+        85633793,
+        85808557,
+        102085531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152704271,
-    "wof:lastmodified":1449045504,
+    "wof:lastmodified":1466319502,
     "wof:name":"DSM Creations",
     "wof:parent_id":85808557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.913597,34.515654,-86.913597,34.515654],
+  "bbox": [
+    -86.913597,
+    34.515654,
+    -86.913597,
+    34.515654
+],
   "geometry": {"coordinates":[-86.913597,34.515654],"type":"Point"}
 }

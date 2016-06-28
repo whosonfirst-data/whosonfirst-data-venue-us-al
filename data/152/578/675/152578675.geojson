@@ -2,13 +2,14 @@
   "id": 152578675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.527126,33.192381,-86.527126,33.192381",
     "geom:latitude":33.192381,
     "geom:longitude":-86.527126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6000 Co Rd 61",
     "sg:city":"Wilsonville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825591,
+        85688675,
         85633793,
         85914497,
         102085499,
-        85688675
+        85825591
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152578675,
-    "wof:lastmodified":1449045456,
+    "wof:lastmodified":1466318747,
     "wof:name":"Charles M Nix Trucking",
     "wof:parent_id":85825591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.527126,33.192381,-86.527126,33.192381],
+  "bbox": [
+    -86.527126,
+    33.192381,
+    -86.527126,
+    33.192381
+],
   "geometry": {"coordinates":[-86.527126,33.192381],"type":"Point"}
 }

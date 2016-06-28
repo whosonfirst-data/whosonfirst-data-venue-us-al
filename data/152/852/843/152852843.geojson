@@ -2,13 +2,14 @@
   "id": 152852843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.903048,34.150885,-86.903048,34.150885",
     "geom:latitude":34.150885,
     "geom:longitude":-86.903048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2115 Co Rd 420",
     "sg:city":"Cullman",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085729,
-        85633793,
         85688675,
-        85867309
+        85633793,
+        85867309,
+        102085729
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152852843,
-    "wof:lastmodified":1449048127,
+    "wof:lastmodified":1466320113,
     "wof:name":"Maple Ridge Gun Club Inc",
     "wof:parent_id":85867309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.903048,34.150885,-86.903048,34.150885],
+  "bbox": [
+    -86.903048,
+    34.150885,
+    -86.903048,
+    34.150885
+],
   "geometry": {"coordinates":[-86.903048,34.150885],"type":"Point"}
 }

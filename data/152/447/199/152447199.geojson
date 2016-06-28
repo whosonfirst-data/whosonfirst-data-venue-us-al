@@ -2,13 +2,14 @@
   "id": 152447199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.815006,33.501083,-86.815006,33.501083",
     "geom:latitude":33.501083,
     "geom:longitude":-86.815006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"506 10th St S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819533,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675,
+        85819533,
         85844445
     ],
     "wof:breaches":[],
@@ -61,14 +62,20 @@
         }
     ],
     "wof:id":152447199,
-    "wof:lastmodified":1449047549,
+    "wof:lastmodified":1466318045,
     "wof:name":"Wingfoot Coml Tire Systems LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.815006,33.501083,-86.815006,33.501083],
+  "bbox": [
+    -86.815006,
+    33.501083,
+    -86.815006,
+    33.501083
+],
   "geometry": {"coordinates":[-86.815006,33.501083],"type":"Point"}
 }

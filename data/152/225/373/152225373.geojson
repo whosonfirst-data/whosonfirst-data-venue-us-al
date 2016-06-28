@@ -2,13 +2,14 @@
   "id": 152225373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.666392,33.414682,-86.666392,33.414682",
     "geom:latitude":33.414682,
     "geom:longitude":-86.666392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2800 Greystone Commercial Blvd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85833411
+        85633793,
+        85833411,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152225373,
-    "wof:lastmodified":1449045746,
+    "wof:lastmodified":1466316311,
     "wof:name":"Pilleterri-Maytag HM Appl Ctr",
     "wof:parent_id":85833411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.666392,33.414682,-86.666392,33.414682],
+  "bbox": [
+    -86.666392,
+    33.414682,
+    -86.666392,
+    33.414682
+],
   "geometry": {"coordinates":[-86.666392,33.414682],"type":"Point"}
 }

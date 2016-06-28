@@ -2,13 +2,14 @@
   "id": 152233395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.704327,33.482755,-86.704327,33.482755",
     "geom:latitude":33.482755,
     "geom:longitude":-86.704327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 Urban Center Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808787,
+        85688675,
         85633793,
         85914483,
         102085481,
-        85688675
+        85808787
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152233395,
-    "wof:lastmodified":1449048973,
+    "wof:lastmodified":1466316427,
     "wof:name":"Travel Incorporated",
     "wof:parent_id":85808787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.704327,33.482755,-86.704327,33.482755],
-  "geometry": {"coordinates":[-86.704327,33.482755],"type":"Point"}
+  "bbox": [
+    -86.704327,
+    33.482755,
+    -86.704327,
+    33.482755
+],
+  "geometry": {"coordinates":[-86.70432700000001,33.482755],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152292567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.989743,31.825039,-85.989743,31.825039",
     "geom:latitude":31.825039,
     "geom:longitude":-85.989743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Tennille Ln",
     "sg:city":"Troy",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085619,
-        85633793,
         85688675,
-        85867311
+        85633793,
+        85867311,
+        102085619
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152292567,
-    "wof:lastmodified":1449044692,
+    "wof:lastmodified":1466316974,
     "wof:name":"Southern States Cooperative",
     "wof:parent_id":85867311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.989743,31.825039,-85.989743,31.825039],
+  "bbox": [
+    -85.989743,
+    31.825039,
+    -85.989743,
+    31.825039
+],
   "geometry": {"coordinates":[-85.989743,31.825039],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152265837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.642702,30.625947,-87.642702,30.625947",
     "geom:latitude":30.625947,
     "geom:longitude":-87.642702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22640 Co Rd 64",
     "sg:city":"Robertsdale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807399,
+        85688675,
         85633793,
         85914741,
         102085469,
-        85688675
+        85807399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152265837,
-    "wof:lastmodified":1449045881,
+    "wof:lastmodified":1466316805,
     "wof:name":"Bay Wood Products Inc",
     "wof:parent_id":85807399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.642702,30.625947,-87.642702,30.625947],
+  "bbox": [
+    -87.642702,
+    30.625947,
+    -87.642702,
+    30.625947
+],
   "geometry": {"coordinates":[-87.642702,30.625947],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152532285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.574338,34.712316,-86.574338,34.712316",
     "geom:latitude":34.712316,
     "geom:longitude":-86.574338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2359 Whitesburg Dr S",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818149,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85818149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152532285,
-    "wof:lastmodified":1449045858,
+    "wof:lastmodified":1466318470,
     "wof:name":"Alabama Cut Flower Exchange",
     "wof:parent_id":85818149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.574338,34.712316,-86.574338,34.712316],
+  "bbox": [
+    -86.574338,
+    34.712316,
+    -86.574338,
+    34.712316
+],
   "geometry": {"coordinates":[-86.574338,34.712316],"type":"Point"}
 }

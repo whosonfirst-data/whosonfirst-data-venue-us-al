@@ -2,13 +2,14 @@
   "id": 152487301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.672152,33.628813,-86.672152,33.628813",
     "geom:latitude":33.628813,
     "geom:longitude":-86.672152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"527 Karey Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085481,
-        85633793,
         85688675,
-        85816403
+        85633793,
+        85816403,
+        102085481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152487301,
-    "wof:lastmodified":1449045815,
+    "wof:lastmodified":1466318250,
     "wof:name":"State Recovery Services",
     "wof:parent_id":85816403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.672152,33.628813,-86.672152,33.628813],
+  "bbox": [
+    -86.672152,
+    33.628813,
+    -86.672152,
+    33.628813
+],
   "geometry": {"coordinates":[-86.672152,33.628813],"type":"Point"}
 }

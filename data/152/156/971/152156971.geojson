@@ -2,13 +2,14 @@
   "id": 152156971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.369378,32.649887,-85.369378,32.649887",
     "geom:latitude":32.649887,
     "geom:longitude":-85.369378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"522 Lee St",
     "sg:city":"Opelika",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85857153,
+        85688675,
         85633793,
         85913815,
         102085751,
-        85688675
+        85857153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152156971,
-    "wof:lastmodified":1449045216,
+    "wof:lastmodified":1466314929,
     "wof:name":"Home Secure Inc",
     "wof:parent_id":85857153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.369378,32.649887,-85.369378,32.649887],
+  "bbox": [
+    -85.369378,
+    32.649887,
+    -85.369378,
+    32.649887
+],
   "geometry": {"coordinates":[-85.369378,32.649887],"type":"Point"}
 }

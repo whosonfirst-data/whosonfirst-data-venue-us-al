@@ -2,13 +2,14 @@
   "id": 152254155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.302585,32.35543,-86.302585,32.35543",
     "geom:latitude":32.35543,
     "geom:longitude":-86.302585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"396 Rose Ln",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879039,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152254155,
-    "wof:lastmodified":1449047476,
+    "wof:lastmodified":1466316700,
     "wof:name":"Oakclover Antiques",
     "wof:parent_id":85879039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.302585,32.35543,-86.302585,32.35543],
-  "geometry": {"coordinates":[-86.302585,32.35543],"type":"Point"}
+  "bbox": [
+    -86.302585,
+    32.35543,
+    -86.302585,
+    32.35543
+],
+  "geometry": {"coordinates":[-86.30258499999999,32.35543],"type":"Point"}
 }

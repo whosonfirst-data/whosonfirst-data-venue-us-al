@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102462919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.831875,33.492264,-86.831875,33.492264",
     "geom:latitude":33.492264,
     "geom:longitude":-86.831875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 6th Ave SW",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876279,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102462919,
-    "wof:lastmodified":1449070124,
+    "wof:lastmodified":1466315111,
     "wof:name":"Westminster Presbt Church",
     "wof:parent_id":85876279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.831875,33.492264,-86.831875,33.492264],
+  "bbox": [
+    -86.831875,
+    33.492264,
+    -86.831875,
+    33.492264
+],
   "geometry": {"coordinates":[-86.831875,33.492264],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102450885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.582601,33.192257,-87.582601,33.192257",
     "geom:latitude":33.192257,
     "geom:longitude":-87.582601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3532 23rd St",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -31,10 +32,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085553,
-        85633793,
         85688675,
-        85812491
+        85633793,
+        85812491,
+        102085553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102450885,
-    "wof:lastmodified":1449069794,
+    "wof:lastmodified":1466314712,
     "wof:name":"Indian Rivers Cmnty Mntl Hlth",
     "wof:parent_id":85812491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.582601,33.192257,-87.582601,33.192257],
+  "bbox": [
+    -87.582601,
+    33.192257,
+    -87.582601,
+    33.192257
+],
   "geometry": {"coordinates":[-87.582601,33.192257],"type":"Point"}
 }

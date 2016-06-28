@@ -2,13 +2,14 @@
   "id": 152887135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.506701,34.418218,-86.506701,34.418218",
     "geom:latitude":34.418218,
     "geom:longitude":-86.506701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1368 Mountain View Rd",
     "sg:city":"Union Grove",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837211,
+        85688675,
         85633793,
         85913243,
         102085513,
-        85688675
+        85837211
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152887135,
-    "wof:lastmodified":1449048005,
+    "wof:lastmodified":1466320255,
     "wof:name":"Triple R Farms",
     "wof:parent_id":85837211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.506701,34.418218,-86.506701,34.418218],
-  "geometry": {"coordinates":[-86.506701,34.418218],"type":"Point"}
+  "bbox": [
+    -86.506701,
+    34.418218,
+    -86.506701,
+    34.418218
+],
+  "geometry": {"coordinates":[-86.50670100000001,34.418218],"type":"Point"}
 }

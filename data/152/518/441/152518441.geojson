@@ -2,13 +2,14 @@
   "id": 152518441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.791129,33.516582,-86.791129,33.516582",
     "geom:latitude":33.516582,
     "geom:longitude":-86.791129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2821 2nd Ave S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876269,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152518441,
-    "wof:lastmodified":1449046911,
+    "wof:lastmodified":1466318427,
     "wof:name":"Details",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.791129,33.516582,-86.791129,33.516582],
+  "bbox": [
+    -86.791129,
+    33.516582,
+    -86.791129,
+    33.516582
+],
   "geometry": {"coordinates":[-86.791129,33.516582],"type":"Point"}
 }

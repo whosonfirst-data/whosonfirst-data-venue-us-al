@@ -2,13 +2,14 @@
   "id": 152384929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.890273,31.533045,-87.890273,31.533045",
     "geom:latitude":31.533045,
     "geom:longitude":-87.890273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3682 College Ave",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152384929,
-    "wof:lastmodified":1449044878,
+    "wof:lastmodified":1466317815,
     "wof:name":"Jackson Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.890273,31.533045,-87.890273,31.533045],
-  "geometry": {"coordinates":[-87.890273,31.533045],"type":"Point"}
+  "bbox": [
+    -87.890273,
+    31.533045,
+    -87.890273,
+    31.533045
+],
+  "geometry": {"coordinates":[-87.89027299999999,31.533045],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152544725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.884603,33.577349,-86.884603,33.577349",
     "geom:latitude":33.577349,
     "geom:longitude":-86.884603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 O Neal Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.feesimple.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820003,
+        85688675,
         85633793,
         85914875,
         102085481,
-        85688675
+        85820003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152544725,
-    "wof:lastmodified":1449048895,
+    "wof:lastmodified":1466318596,
     "wof:name":"Fee Simple Software",
     "wof:parent_id":85820003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.884603,33.577349,-86.884603,33.577349],
+  "bbox": [
+    -86.884603,
+    33.577349,
+    -86.884603,
+    33.577349
+],
   "geometry": {"coordinates":[-86.884603,33.577349],"type":"Point"}
 }

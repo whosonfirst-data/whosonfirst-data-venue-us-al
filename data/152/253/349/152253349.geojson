@@ -2,13 +2,14 @@
   "id": 152253349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.688074,33.610237,-86.688074,33.610237",
     "geom:latitude":33.610237,
     "geom:longitude":-86.688074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9901 Parkway E",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854035,
+        85688675,
         85633793,
         85914903,
         102085481,
-        85688675
+        85854035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152253349,
-    "wof:lastmodified":1449048349,
+    "wof:lastmodified":1466316653,
     "wof:name":"AM & PM Express",
     "wof:parent_id":85854035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.688074,33.610237,-86.688074,33.610237],
+  "bbox": [
+    -86.688074,
+    33.610237,
+    -86.688074,
+    33.610237
+],
   "geometry": {"coordinates":[-86.688074,33.610237],"type":"Point"}
 }

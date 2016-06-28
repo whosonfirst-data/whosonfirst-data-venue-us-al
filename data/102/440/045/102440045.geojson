@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102440045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.519922,34.76955,-86.519922,34.76955",
     "geom:latitude":34.76955,
     "geom:longitude":-86.519922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Townsend Dr SE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833793,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85833793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102440045,
-    "wof:lastmodified":1449068639,
+    "wof:lastmodified":1466314918,
     "wof:name":"Townsend Janitorial & Clg Svc",
     "wof:parent_id":85833793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.519922,34.76955,-86.519922,34.76955],
-  "geometry": {"coordinates":[-86.519922,34.76955],"type":"Point"}
+  "bbox": [
+    -86.519922,
+    34.76955,
+    -86.519922,
+    34.76955
+],
+  "geometry": {"coordinates":[-86.51992199999999,34.76955],"type":"Point"}
 }

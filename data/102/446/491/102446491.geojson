@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102446491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.257031,30.669792,-88.257031,30.669792",
     "geom:latitude":30.669792,
     "geom:longitude":-88.257031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1355 Walter Smith Rd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085585,
-        85633793,
         85688675,
-        85895801
+        85633793,
+        85895801,
+        102085585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102446491,
-    "wof:lastmodified":1449069990,
+    "wof:lastmodified":1466314436,
     "wof:name":"Al Evans General Contracting",
     "wof:parent_id":85895801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.257031,30.669792,-88.257031,30.669792],
+  "bbox": [
+    -88.257031,
+    30.669792,
+    -88.257031,
+    30.669792
+],
   "geometry": {"coordinates":[-88.257031,30.669792],"type":"Point"}
 }

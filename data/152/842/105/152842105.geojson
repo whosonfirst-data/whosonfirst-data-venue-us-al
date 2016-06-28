@@ -2,13 +2,14 @@
   "id": 152842105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.22775,32.411899,-86.22775,32.411899",
     "geom:latitude":32.411899,
     "geom:longitude":-86.22775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2650 Gunter Park Dr E",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.amxtrkg.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813403,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85813403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152842105,
-    "wof:lastmodified":1449044642,
+    "wof:lastmodified":1466320039,
     "wof:name":"Alabama Motor Express",
     "wof:parent_id":85813403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.22775,32.411899,-86.22775,32.411899],
+  "bbox": [
+    -86.22775,
+    32.411899,
+    -86.22775,
+    32.411899
+],
   "geometry": {"coordinates":[-86.22775,32.411899],"type":"Point"}
 }

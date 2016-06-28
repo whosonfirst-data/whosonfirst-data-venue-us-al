@@ -2,13 +2,14 @@
   "id": 152175445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.820745,33.477333,-86.820745,33.477333",
     "geom:latitude":33.477333,
     "geom:longitude":-86.820745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"530 Beacon Pkwy W",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821721,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85821721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152175445,
-    "wof:lastmodified":1449047499,
+    "wof:lastmodified":1466315651,
     "wof:name":"Jasper Corp",
     "wof:parent_id":85821721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.820745,33.477333,-86.820745,33.477333],
+  "bbox": [
+    -86.820745,
+    33.477333,
+    -86.820745,
+    33.477333
+],
   "geometry": {"coordinates":[-86.820745,33.477333],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152608443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.068502,30.741127,-88.068502,30.741127",
     "geom:latitude":30.741127,
     "geom:longitude":-88.068502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 Telegraph Rd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152608443,
-    "wof:lastmodified":1449046291,
+    "wof:lastmodified":1466318873,
     "wof:name":"Burlington Northern",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.068502,30.741127,-88.068502,30.741127],
+  "bbox": [
+    -88.068502,
+    30.741127,
+    -88.068502,
+    30.741127
+],
   "geometry": {"coordinates":[-88.068502,30.741127],"type":"Point"}
 }

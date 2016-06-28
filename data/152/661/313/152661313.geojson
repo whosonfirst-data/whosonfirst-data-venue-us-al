@@ -2,13 +2,14 @@
   "id": 152661313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.592772,34.757899,-86.592772,34.757899",
     "geom:latitude":34.757899,
     "geom:longitude":-86.592772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2009 Max Luther Dr NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809309,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85809309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152661313,
-    "wof:lastmodified":1449048423,
+    "wof:lastmodified":1466319309,
     "wof:name":"Lifestyle Family Hair Care Ctr",
     "wof:parent_id":85809309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.592772,34.757899,-86.592772,34.757899],
+  "bbox": [
+    -86.592772,
+    34.757899,
+    -86.592772,
+    34.757899
+],
   "geometry": {"coordinates":[-86.592772,34.757899],"type":"Point"}
 }

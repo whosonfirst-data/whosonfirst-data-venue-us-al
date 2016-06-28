@@ -2,13 +2,14 @@
   "id": 152378333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.762759,32.83294,-85.762759,32.83294",
     "geom:latitude":32.83294,
     "geom:longitude":-85.762759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"139 E Lafayette St",
     "sg:city":"Dadeville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848983,
+        85688675,
         85633793,
         85913327,
         102085567,
-        85688675
+        85848983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152378333,
-    "wof:lastmodified":1449047423,
+    "wof:lastmodified":1466317706,
     "wof:name":"Bartel Family Medicine Clinic",
     "wof:parent_id":85848983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.762759,32.83294,-85.762759,32.83294],
+  "bbox": [
+    -85.762759,
+    32.83294,
+    -85.762759,
+    32.83294
+],
   "geometry": {"coordinates":[-85.762759,32.83294],"type":"Point"}
 }

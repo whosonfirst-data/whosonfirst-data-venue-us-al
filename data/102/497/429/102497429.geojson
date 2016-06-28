@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102497429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.687608,33.612257,-86.687608,33.612257",
     "geom:latitude":33.612257,
     "geom:longitude":-86.687608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1160 Huffman Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085481,
-        85633793,
         85688675,
-        85816403
+        85633793,
+        85816403,
+        102085481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102497429,
-    "wof:lastmodified":1449070182,
+    "wof:lastmodified":1466316479,
     "wof:name":"Henry L Darnell Jr Family Prac",
     "wof:parent_id":85816403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.687608,33.612257,-86.687608,33.612257],
+  "bbox": [
+    -86.687608,
+    33.612257,
+    -86.687608,
+    33.612257
+],
   "geometry": {"coordinates":[-86.687608,33.612257],"type":"Point"}
 }

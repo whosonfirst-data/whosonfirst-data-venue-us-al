@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102452011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.702427,33.504953,-86.702427,33.504953",
     "geom:latitude":33.504953,
     "geom:longitude":-86.702427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4755 Quarterstaff Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085481,
-        85633793,
         85688675,
-        85810623
+        85633793,
+        85810623,
+        102085481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102452011,
-    "wof:lastmodified":1449068368,
+    "wof:lastmodified":1466314642,
     "wof:name":"Underhill Enterprises Inc",
     "wof:parent_id":85810623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.702427,33.504953,-86.702427,33.504953],
+  "bbox": [
+    -86.702427,
+    33.504953,
+    -86.702427,
+    33.504953
+],
   "geometry": {"coordinates":[-86.702427,33.504953],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152429207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.250109,33.181475,-86.250109,33.181475",
     "geom:latitude":33.181475,
     "geom:longitude":-86.250109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 Broadway Ave",
     "sg:city":"Sylacauga",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834171,
+        85688675,
         85633793,
         85914133,
         102085517,
-        85688675
+        85834171
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152429207,
-    "wof:lastmodified":1449048674,
+    "wof:lastmodified":1466317992,
     "wof:name":"Shop-N-Fill Food Marts",
     "wof:parent_id":85834171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.250109,33.181475,-86.250109,33.181475],
-  "geometry": {"coordinates":[-86.250109,33.181475],"type":"Point"}
+  "bbox": [
+    -86.250109,
+    33.181475,
+    -86.250109,
+    33.181475
+],
+  "geometry": {"coordinates":[-86.25010899999999,33.181475],"type":"Point"}
 }

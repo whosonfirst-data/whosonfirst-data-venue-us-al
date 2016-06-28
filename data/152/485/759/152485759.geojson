@@ -2,13 +2,14 @@
   "id": 152485759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.811964,33.514996,-86.811964,33.514996",
     "geom:latitude":33.514996,
     "geom:longitude":-86.811964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1619 4th Ave N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820315,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85820315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152485759,
-    "wof:lastmodified":1449047115,
+    "wof:lastmodified":1466318269,
     "wof:name":"Touch of Elegance Barber Shop",
     "wof:parent_id":85820315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.811964,33.514996,-86.811964,33.514996],
+  "bbox": [
+    -86.811964,
+    33.514996,
+    -86.811964,
+    33.514996
+],
   "geometry": {"coordinates":[-86.811964,33.514996],"type":"Point"}
 }

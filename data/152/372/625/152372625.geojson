@@ -2,13 +2,14 @@
   "id": 152372625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.130279,30.712522,-88.130279,30.712522",
     "geom:latitude":30.712522,
     "geom:longitude":-88.130279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3815 Moffett Rd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878949,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152372625,
-    "wof:lastmodified":1449047110,
+    "wof:lastmodified":1466317708,
     "wof:name":"Ace's Rv Park",
     "wof:parent_id":85878949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.130279,30.712522,-88.130279,30.712522],
+  "bbox": [
+    -88.130279,
+    30.712522,
+    -88.130279,
+    30.712522
+],
   "geometry": {"coordinates":[-88.130279,30.712522],"type":"Point"}
 }

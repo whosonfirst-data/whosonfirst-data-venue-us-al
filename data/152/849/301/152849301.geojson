@@ -2,13 +2,14 @@
   "id": 152849301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.576687,33.238501,-87.576687,33.238501",
     "geom:latitude":33.238501,
     "geom:longitude":-87.576687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2718 Lurleen B Wallace Blvd",
     "sg:city":"Northport",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806217,
+        85688675,
         85633793,
         85914425,
         102085553,
-        85688675
+        85806217
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152849301,
-    "wof:lastmodified":1449045158,
+    "wof:lastmodified":1466320076,
     "wof:name":"Image Nails",
     "wof:parent_id":85806217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.576687,33.238501,-87.576687,33.238501],
-  "geometry": {"coordinates":[-87.576687,33.238501],"type":"Point"}
+  "bbox": [
+    -87.576687,
+    33.238501,
+    -87.576687,
+    33.238501
+],
+  "geometry": {"coordinates":[-87.57668700000001,33.238501],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152402035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.489662,32.569438,-86.489662,32.569438",
     "geom:latitude":32.569438,
     "geom:longitude":-86.489662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1996 Davies Dr",
     "sg:city":"Prattville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831059,
+        85688675,
         85633793,
         85913977,
         102085509,
-        85688675
+        85831059
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152402035,
-    "wof:lastmodified":1449045789,
+    "wof:lastmodified":1466317823,
     "wof:name":"Parker Lawn Service",
     "wof:parent_id":85831059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.489662,32.569438,-86.489662,32.569438],
+  "bbox": [
+    -86.489662,
+    32.569438,
+    -86.489662,
+    32.569438
+],
   "geometry": {"coordinates":[-86.489662,32.569438],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152709557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.108044,30.698432,-88.108044,30.698432",
     "geom:latitude":30.698432,
     "geom:longitude":-88.108044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2825 Spring Hill Ave",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879003,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85879003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152709557,
-    "wof:lastmodified":1449045228,
+    "wof:lastmodified":1466319327,
     "wof:name":"Jeremiah A Denton Middle Schl",
     "wof:parent_id":85879003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.108044,30.698432,-88.108044,30.698432],
-  "geometry": {"coordinates":[-88.108044,30.698432],"type":"Point"}
+  "bbox": [
+    -88.108044,
+    30.698432,
+    -88.108044,
+    30.698432
+],
+  "geometry": {"coordinates":[-88.10804400000001,30.698432],"type":"Point"}
 }

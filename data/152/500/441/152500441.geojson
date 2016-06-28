@@ -2,13 +2,14 @@
   "id": 152500441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.574059,33.21759,-87.574059,33.21759",
     "geom:latitude":33.21759,
     "geom:longitude":-87.574059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Bridge Ave",
     "sg:city":"Northport",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816127,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85816127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152500441,
-    "wof:lastmodified":1449045445,
+    "wof:lastmodified":1466318277,
     "wof:name":"Southern Boring & Utility Inc",
     "wof:parent_id":85816127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.574059,33.21759,-87.574059,33.21759],
-  "geometry": {"coordinates":[-87.574059,33.21759],"type":"Point"}
+  "bbox": [
+    -87.574059,
+    33.21759,
+    -87.574059,
+    33.21759
+],
+  "geometry": {"coordinates":[-87.57405900000001,33.21759],"type":"Point"}
 }

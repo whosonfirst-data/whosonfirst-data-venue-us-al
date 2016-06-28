@@ -2,13 +2,14 @@
   "id": 152466383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.75258,34.437594,-85.75258,34.437594",
     "geom:latitude":34.437594,
     "geom:longitude":-85.75258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1608 Glenn Blvd SW",
     "sg:city":"Fort Payne",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815015,
+        85688675,
         85633793,
         85897515,
         102085615,
-        85688675
+        85815015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152466383,
-    "wof:lastmodified":1449045685,
+    "wof:lastmodified":1466318168,
     "wof:name":"Cancer Care Ctr Of Dekalb",
     "wof:parent_id":85815015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.75258,34.437594,-85.75258,34.437594],
-  "geometry": {"coordinates":[-85.75258,34.437594],"type":"Point"}
+  "bbox": [
+    -85.75258,
+    34.437594,
+    -85.75258,
+    34.437594
+],
+  "geometry": {"coordinates":[-85.75257999999999,34.437594],"type":"Point"}
 }

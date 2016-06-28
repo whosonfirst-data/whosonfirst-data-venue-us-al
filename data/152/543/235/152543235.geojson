@@ -2,13 +2,14 @@
   "id": 152543235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.734035,34.706652,-86.734035,34.706652",
     "geom:latitude":34.706652,
     "geom:longitude":-86.734035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8324 Madison Pike",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807231,
+        85688675,
         85633793,
         85913593,
         102085487,
-        85688675
+        85807231
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152543235,
-    "wof:lastmodified":1449045205,
+    "wof:lastmodified":1466318560,
     "wof:name":"Dublin Indoor Pool",
     "wof:parent_id":85807231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.734035,34.706652,-86.734035,34.706652],
-  "geometry": {"coordinates":[-86.734035,34.706652],"type":"Point"}
+  "bbox": [
+    -86.734035,
+    34.706652,
+    -86.734035,
+    34.706652
+],
+  "geometry": {"coordinates":[-86.73403500000001,34.706652],"type":"Point"}
 }

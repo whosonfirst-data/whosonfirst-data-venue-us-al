@@ -2,13 +2,14 @@
   "id": 152822051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.59239,33.260398,-87.59239,33.260398",
     "geom:latitude":33.260398,
     "geom:longitude":-87.59239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3610 Mayberry Landing Dr",
     "sg:city":"Northport",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806217,
+        85688675,
         85633793,
         85914425,
         102085553,
-        85688675
+        85806217
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152822051,
-    "wof:lastmodified":1449048774,
+    "wof:lastmodified":1466319942,
     "wof:name":"Inveresk",
     "wof:parent_id":85806217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.59239,33.260398,-87.59239,33.260398],
-  "geometry": {"coordinates":[-87.59239,33.260398],"type":"Point"}
+  "bbox": [
+    -87.59239,
+    33.260398,
+    -87.59239,
+    33.260398
+],
+  "geometry": {"coordinates":[-87.59238999999999,33.260398],"type":"Point"}
 }

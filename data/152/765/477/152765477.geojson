@@ -2,13 +2,14 @@
   "id": 152765477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.918736,33.505737,-86.918736,33.505737",
     "geom:latitude":33.505737,
     "geom:longitude":-86.918736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4110 7th Ave",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818869,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85818869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152765477,
-    "wof:lastmodified":1449046974,
+    "wof:lastmodified":1466319737,
     "wof:name":"Poseys Florist",
     "wof:parent_id":85818869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.918736,33.505737,-86.918736,33.505737],
+  "bbox": [
+    -86.918736,
+    33.505737,
+    -86.918736,
+    33.505737
+],
   "geometry": {"coordinates":[-86.918736,33.505737],"type":"Point"}
 }

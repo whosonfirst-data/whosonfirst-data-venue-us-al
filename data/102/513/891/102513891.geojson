@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102513891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.56785,33.20905,-87.56785,33.20905",
     "geom:latitude":33.20905,
     "geom:longitude":-87.56785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"521 Greensboro Ave",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816127,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85816127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102513891,
-    "wof:lastmodified":1449069372,
+    "wof:lastmodified":1466317027,
     "wof:name":"Innisfree Pub",
     "wof:parent_id":85816127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.56785,33.20905,-87.56785,33.20905],
-  "geometry": {"coordinates":[-87.56785,33.20905],"type":"Point"}
+  "bbox": [
+    -87.56785,
+    33.20905,
+    -87.56785,
+    33.20905
+],
+  "geometry": {"coordinates":[-87.56785000000001,33.20905],"type":"Point"}
 }

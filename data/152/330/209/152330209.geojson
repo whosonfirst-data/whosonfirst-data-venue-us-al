@@ -2,13 +2,14 @@
   "id": 152330209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.91039,34.066311,-85.91039,34.066311",
     "geom:latitude":34.066311,
     "geom:longitude":-85.91039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"975 Riverside Dr",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152330209,
-    "wof:lastmodified":1449046611,
+    "wof:lastmodified":1466317361,
     "wof:name":"Gregersons Chem Dry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.91039,34.066311,-85.91039,34.066311],
-  "geometry": {"coordinates":[-85.91039,34.066311],"type":"Point"}
+  "bbox": [
+    -85.91039,
+    34.066311,
+    -85.91039,
+    34.066311
+],
+  "geometry": {"coordinates":[-85.91039000000001,34.066311],"type":"Point"}
 }

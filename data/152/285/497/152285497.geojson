@@ -2,13 +2,14 @@
   "id": 152285497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.207572,32.601518,-86.207572,32.601518",
     "geom:latitude":32.601518,
     "geom:longitude":-86.207572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"475 Weoka Rd",
     "sg:city":"Wetumpka",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851843,
+        85688675,
         85633793,
         85913951,
         102085631,
-        85688675
+        85851843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152285497,
-    "wof:lastmodified":1449044428,
+    "wof:lastmodified":1466316962,
     "wof:name":"Taunton Trucking Co LLC",
     "wof:parent_id":85851843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.207572,32.601518,-86.207572,32.601518],
+  "bbox": [
+    -86.207572,
+    32.601518,
+    -86.207572,
+    32.601518
+],
   "geometry": {"coordinates":[-86.207572,32.601518],"type":"Point"}
 }

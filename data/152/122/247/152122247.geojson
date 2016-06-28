@@ -2,13 +2,14 @@
   "id": 152122247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.440392,31.230562,-85.440392,31.230562",
     "geom:latitude":31.230562,
     "geom:longitude":-85.440392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Castle Dr",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805317,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85805317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152122247,
-    "wof:lastmodified":1449046929,
+    "wof:lastmodified":1466314592,
     "wof:name":"Superior Truck & Trailer Rpr",
     "wof:parent_id":85805317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.440392,31.230562,-85.440392,31.230562],
+  "bbox": [
+    -85.440392,
+    31.230562,
+    -85.440392,
+    31.230562
+],
   "geometry": {"coordinates":[-85.440392,31.230562],"type":"Point"}
 }

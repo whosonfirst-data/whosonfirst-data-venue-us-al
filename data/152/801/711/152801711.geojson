@@ -2,13 +2,14 @@
   "id": 152801711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.307646,32.648294,-86.307646,32.648294",
     "geom:latitude":32.648294,
     "geom:longitude":-86.307646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"151 Huckleberry Dr",
     "sg:city":"Deatsville",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085631,
-        85633793,
         85688675,
-        85843379
+        85633793,
+        85843379,
+        102085631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152801711,
-    "wof:lastmodified":1449048105,
+    "wof:lastmodified":1466319857,
     "wof:name":"All Patio Rooms",
     "wof:parent_id":85843379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.307646,32.648294,-86.307646,32.648294],
-  "geometry": {"coordinates":[-86.307646,32.648294],"type":"Point"}
+  "bbox": [
+    -86.307646,
+    32.648294,
+    -86.307646,
+    32.648294
+],
+  "geometry": {"coordinates":[-86.30764600000001,32.648294],"type":"Point"}
 }

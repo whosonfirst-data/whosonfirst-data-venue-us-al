@@ -2,13 +2,14 @@
   "id": 152792015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.63605,34.817816,-87.63605,34.817816",
     "geom:latitude":34.817816,
     "geom:longitude":-87.63605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3420 Huntsville Rd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829413,
+        85688675,
         85633793,
         85914011,
         102085527,
-        85688675
+        85829413
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152792015,
-    "wof:lastmodified":1449045291,
+    "wof:lastmodified":1466319775,
     "wof:name":"Vaughn Upholstery",
     "wof:parent_id":85829413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.63605,34.817816,-87.63605,34.817816],
+  "bbox": [
+    -87.63605,
+    34.817816,
+    -87.63605,
+    34.817816
+],
   "geometry": {"coordinates":[-87.63605,34.817816],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152345789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.050273,34.641505,-87.050273,34.641505",
     "geom:latitude":34.641505,
     "geom:longitude":-87.050273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 State Docks Rd NW",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152345789,
-    "wof:lastmodified":1449048556,
+    "wof:lastmodified":1466317654,
     "wof:name":"Sanders Brothers Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.050273,34.641505,-87.050273,34.641505],
+  "bbox": [
+    -87.050273,
+    34.641505,
+    -87.050273,
+    34.641505
+],
   "geometry": {"coordinates":[-87.050273,34.641505],"type":"Point"}
 }

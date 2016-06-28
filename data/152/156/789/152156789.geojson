@@ -2,13 +2,14 @@
   "id": 152156789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.286341,33.171884,-87.286341,33.171884",
     "geom:latitude":33.171884,
     "geom:longitude":-87.286341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16992 US Hwy 11",
     "sg:city":"Vance",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851363,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85851363
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152156789,
-    "wof:lastmodified":1449045215,
+    "wof:lastmodified":1466314918,
     "wof:name":"B & B Land Development",
     "wof:parent_id":85851363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.286341,33.171884,-87.286341,33.171884],
-  "geometry": {"coordinates":[-87.286341,33.171884],"type":"Point"}
+  "bbox": [
+    -87.286341,
+    33.171884,
+    -87.286341,
+    33.171884
+],
+  "geometry": {"coordinates":[-87.28634099999999,33.171884],"type":"Point"}
 }

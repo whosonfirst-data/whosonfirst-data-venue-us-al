@@ -2,13 +2,14 @@
   "id": 152801121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.671262,34.805638,-87.671262,34.805638",
     "geom:latitude":34.805638,
     "geom:longitude":-87.671262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 E Tuscaloosa St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848857,
+        85688675,
         85633793,
         85914011,
         102085527,
-        85688675
+        85848857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152801121,
-    "wof:lastmodified":1449048104,
+    "wof:lastmodified":1466319849,
     "wof:name":"Jim Blasingame & Associates",
     "wof:parent_id":85848857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.671262,34.805638,-87.671262,34.805638],
+  "bbox": [
+    -87.671262,
+    34.805638,
+    -87.671262,
+    34.805638
+],
   "geometry": {"coordinates":[-87.671262,34.805638],"type":"Point"}
 }

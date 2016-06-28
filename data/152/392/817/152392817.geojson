@@ -2,13 +2,14 @@
   "id": 152392817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.78447,33.569525,-86.78447,33.569525",
     "geom:latitude":33.569525,
     "geom:longitude":-86.78447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1207 Water St",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815977,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85815977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152392817,
-    "wof:lastmodified":1449048000,
+    "wof:lastmodified":1466317706,
     "wof:name":"M & W Contractors",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.78447,33.569525,-86.78447,33.569525],
+  "bbox": [
+    -86.78447,
+    33.569525,
+    -86.78447,
+    33.569525
+],
   "geometry": {"coordinates":[-86.78447,33.569525],"type":"Point"}
 }

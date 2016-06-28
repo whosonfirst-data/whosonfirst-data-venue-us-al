@@ -2,13 +2,14 @@
   "id": 152764923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.527124,33.148325,-87.527124,33.148325",
     "geom:latitude":33.148325,
     "geom:longitude":-87.527124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"955 Bear Creek Cutoff Rd",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085553,
-        85633793,
         85688675,
-        85827473
+        85633793,
+        85827473,
+        102085553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152764923,
-    "wof:lastmodified":1449048704,
+    "wof:lastmodified":1466319663,
     "wof:name":"Black Warrior Advertising",
     "wof:parent_id":85827473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.527124,33.148325,-87.527124,33.148325],
+  "bbox": [
+    -87.527124,
+    33.148325,
+    -87.527124,
+    33.148325
+],
   "geometry": {"coordinates":[-87.527124,33.148325],"type":"Point"}
 }

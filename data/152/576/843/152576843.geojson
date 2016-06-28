@@ -2,13 +2,14 @@
   "id": 152576843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.025149,32.476194,-85.025149,32.476194",
     "geom:latitude":32.476194,
     "geom:longitude":-85.025149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1912 Opelika Rd",
     "sg:city":"Phenix City",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822949,
+        85688675,
         85633793,
         85913715,
         102085697,
-        85688675
+        85822949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152576843,
-    "wof:lastmodified":1449047849,
+    "wof:lastmodified":1466318740,
     "wof:name":"Countryside Nursery Inc",
     "wof:parent_id":85822949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.025149,32.476194,-85.025149,32.476194],
+  "bbox": [
+    -85.025149,
+    32.476194,
+    -85.025149,
+    32.476194
+],
   "geometry": {"coordinates":[-85.025149,32.476194],"type":"Point"}
 }

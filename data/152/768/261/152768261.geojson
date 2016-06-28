@@ -2,13 +2,14 @@
   "id": 152768261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.679472,34.817271,-87.679472,34.817271",
     "geom:latitude":34.817271,
     "geom:longitude":-87.679472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Howell St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848857,
+        85688675,
         85633793,
         85914011,
         102085527,
-        85688675
+        85848857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152768261,
-    "wof:lastmodified":1449046083,
+    "wof:lastmodified":1466319685,
     "wof:name":"Howard Landscape Svc",
     "wof:parent_id":85848857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.679472,34.817271,-87.679472,34.817271],
+  "bbox": [
+    -87.679472,
+    34.817271,
+    -87.679472,
+    34.817271
+],
   "geometry": {"coordinates":[-87.679472,34.817271],"type":"Point"}
 }

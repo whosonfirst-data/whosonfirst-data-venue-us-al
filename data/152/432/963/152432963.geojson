@@ -2,13 +2,14 @@
   "id": 152432963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.746234,33.545322,-86.746234,33.545322",
     "geom:latitude":33.545322,
     "geom:longitude":-86.746234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6100 1st Ave N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858829,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85858829
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152432963,
-    "wof:lastmodified":1449044202,
+    "wof:lastmodified":1466318016,
     "wof:name":"Bowman Brothers Trim Shop",
     "wof:parent_id":85858829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.746234,33.545322,-86.746234,33.545322],
+  "bbox": [
+    -86.746234,
+    33.545322,
+    -86.746234,
+    33.545322
+],
   "geometry": {"coordinates":[-86.746234,33.545322],"type":"Point"}
 }

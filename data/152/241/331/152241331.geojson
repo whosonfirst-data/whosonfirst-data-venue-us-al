@@ -2,13 +2,14 @@
   "id": 152241331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.684777,33.53908,-86.684777,33.53908",
     "geom:latitude":33.53908,
     "geom:longitude":-86.684777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Moss Rock Ln",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851139,
+        85688675,
         85633793,
         85914835,
         102085481,
-        85688675
+        85851139
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152241331,
-    "wof:lastmodified":1449048793,
+    "wof:lastmodified":1466316411,
     "wof:name":"Moon Men DJS LLC",
     "wof:parent_id":85851139,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.684777,33.53908,-86.684777,33.53908],
+  "bbox": [
+    -86.684777,
+    33.53908,
+    -86.684777,
+    33.53908
+],
   "geometry": {"coordinates":[-86.684777,33.53908],"type":"Point"}
 }

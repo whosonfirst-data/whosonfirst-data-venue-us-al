@@ -2,13 +2,14 @@
   "id": 102595755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.49555,34.601497,-86.49555,34.601497",
     "geom:latitude":34.601497,
     "geom:longitude":-86.49555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 Knotty Walls Rd",
     "sg:city":"Owens Cross Roads",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":102595755,
-    "wof:lastmodified":1449069949,
+    "wof:lastmodified":1466317197,
     "wof:name":"Manley Construction",
     "wof:parent_id":85688675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.49555,34.601497,-86.49555,34.601497],
-  "geometry": {"coordinates":[-86.49555,34.601497],"type":"Point"}
+  "bbox": [
+    -86.49555,
+    34.601497,
+    -86.49555,
+    34.601497
+],
+  "geometry": {"coordinates":[-86.49554999999999,34.601497],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102623055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.28398,32.385324,-86.28398,32.385324",
     "geom:latitude":32.385324,
     "geom:longitude":-86.28398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1737 Upper Wetumpka Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809389,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85809389
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102623055,
-    "wof:lastmodified":1449069487,
+    "wof:lastmodified":1466317431,
     "wof:name":"Mount Carmel Holiness Church",
     "wof:parent_id":85809389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.28398,32.385324,-86.28398,32.385324],
+  "bbox": [
+    -86.28398,
+    32.385324,
+    -86.28398,
+    32.385324
+],
   "geometry": {"coordinates":[-86.28398,32.385324],"type":"Point"}
 }

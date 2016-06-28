@@ -2,13 +2,14 @@
   "id": 152677223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.702412,34.731429,-87.702412,34.731429",
     "geom:latitude":34.731429,
     "geom:longitude":-87.702412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 E 6th St",
     "sg:city":"Tuscumbia",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852605,
+        85688675,
         85633793,
         85897447,
         102085625,
-        85688675
+        85852605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152677223,
-    "wof:lastmodified":1449045970,
+    "wof:lastmodified":1466319239,
     "wof:name":"Jimmy Gardiner DDS",
     "wof:parent_id":85852605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.702412,34.731429,-87.702412,34.731429],
+  "bbox": [
+    -87.702412,
+    34.731429,
+    -87.702412,
+    34.731429
+],
   "geometry": {"coordinates":[-87.702412,34.731429],"type":"Point"}
 }

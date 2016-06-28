@@ -2,13 +2,14 @@
   "id": 102635741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.291205,33.20891,-86.291205,33.20891",
     "geom:latitude":33.20891,
     "geom:longitude":-86.291205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2535 Old Sylacauga Hwy",
     "sg:city":"Sylacauga",
     "sg:classifiers":[
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":102635741,
-    "wof:lastmodified":1449068798,
+    "wof:lastmodified":1466317677,
     "wof:name":"Po'k & Beef",
     "wof:parent_id":85688675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.291205,33.20891,-86.291205,33.20891],
-  "geometry": {"coordinates":[-86.291205,33.20891],"type":"Point"}
+  "bbox": [
+    -86.291205,
+    33.20891,
+    -86.291205,
+    33.20891
+],
+  "geometry": {"coordinates":[-86.29120500000001,33.20891],"type":"Point"}
 }

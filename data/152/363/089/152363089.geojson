@@ -2,13 +2,14 @@
   "id": 152363089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.776046,33.585441,-85.776046,33.585441",
     "geom:latitude":33.585441,
     "geom:longitude":-85.776046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3862 Friendship Rd",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806515,
+        85688675,
         85633793,
         85914159,
         102085603,
-        85688675
+        85806515
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152363089,
-    "wof:lastmodified":1449048359,
+    "wof:lastmodified":1466317526,
     "wof:name":"Spurlin Barry Spurlin Masonry",
     "wof:parent_id":85806515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.776046,33.585441,-85.776046,33.585441],
-  "geometry": {"coordinates":[-85.776046,33.585441],"type":"Point"}
+  "bbox": [
+    -85.776046,
+    33.585441,
+    -85.776046,
+    33.585441
+],
+  "geometry": {"coordinates":[-85.77604599999999,33.585441],"type":"Point"}
 }

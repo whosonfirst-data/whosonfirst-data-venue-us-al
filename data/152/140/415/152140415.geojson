@@ -2,13 +2,14 @@
   "id": 152140415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.563409,34.835115,-87.563409,34.835115",
     "geom:latitude":34.835115,
     "geom:longitude":-87.563409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"251 Ridgecliff Dr",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085527,
-        85633793,
         85688675,
-        85829459
+        85633793,
+        85829459,
+        102085527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152140415,
-    "wof:lastmodified":1449044974,
+    "wof:lastmodified":1466314332,
     "wof:name":"Wings of Eagles Inc",
     "wof:parent_id":85829459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.563409,34.835115,-87.563409,34.835115],
-  "geometry": {"coordinates":[-87.563409,34.835115],"type":"Point"}
+  "bbox": [
+    -87.563409,
+    34.835115,
+    -87.563409,
+    34.835115
+],
+  "geometry": {"coordinates":[-87.56340899999999,34.835115],"type":"Point"}
 }

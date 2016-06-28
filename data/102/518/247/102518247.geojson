@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102518247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.699655,33.622106,-86.699655,33.622106",
     "geom:latitude":33.622106,
     "geom:longitude":-86.699655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1337 6th St NW",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854035,
+        85688675,
         85633793,
         85914903,
         102085481,
-        85688675
+        85854035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102518247,
-    "wof:lastmodified":1449069109,
+    "wof:lastmodified":1466316898,
     "wof:name":"B&D Entertainment Decor",
     "wof:parent_id":85854035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.699655,33.622106,-86.699655,33.622106],
-  "geometry": {"coordinates":[-86.699655,33.622106],"type":"Point"}
+  "bbox": [
+    -86.699655,
+    33.622106,
+    -86.699655,
+    33.622106
+],
+  "geometry": {"coordinates":[-86.69965500000001,33.622106],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102628401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.78387,30.884764,-87.78387,30.884764",
     "geom:latitude":30.884764,
     "geom:longitude":-87.78387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 Collier Ave",
     "sg:city":"Bay Minette",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813343,
+        85688675,
         85633793,
         85914703,
         102085469,
-        85688675
+        85813343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102628401,
-    "wof:lastmodified":1449069719,
+    "wof:lastmodified":1466317454,
     "wof:name":"Merchandise Unlimited Inc",
     "wof:parent_id":85813343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.78387,30.884764,-87.78387,30.884764],
-  "geometry": {"coordinates":[-87.78387,30.884764],"type":"Point"}
+  "bbox": [
+    -87.78387,
+    30.884764,
+    -87.78387,
+    30.884764
+],
+  "geometry": {"coordinates":[-87.78386999999999,30.884764],"type":"Point"}
 }

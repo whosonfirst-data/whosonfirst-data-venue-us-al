@@ -2,13 +2,14 @@
   "id": 152435343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.598306,30.436148,-87.598306,30.436148",
     "geom:latitude":30.436148,
     "geom:longitude":-87.598306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24323 Kichler Cir N",
     "sg:city":"Elberta",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868551,
+        85688675,
         85633793,
         85914719,
         102085469,
-        85688675
+        85868551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":152435343,
-    "wof:lastmodified":1449048492,
+    "wof:lastmodified":1466318009,
     "wof:name":"Elberta Pump Repair Inc",
     "wof:parent_id":85868551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.598306,30.436148,-87.598306,30.436148],
-  "geometry": {"coordinates":[-87.598306,30.436148],"type":"Point"}
+  "bbox": [
+    -87.598306,
+    30.436148,
+    -87.598306,
+    30.436148
+],
+  "geometry": {"coordinates":[-87.59830599999999,30.436148],"type":"Point"}
 }

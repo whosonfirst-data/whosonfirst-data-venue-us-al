@@ -2,13 +2,14 @@
   "id": 152323599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.872385,33.483021,-86.872385,33.483021",
     "geom:latitude":33.483021,
     "geom:longitude":-86.872385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"329 22nd St SW",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818187,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85818187
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152323599,
-    "wof:lastmodified":1449044701,
+    "wof:lastmodified":1466317336,
     "wof:name":"Shirley Boutique",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.872385,33.483021,-86.872385,33.483021],
-  "geometry": {"coordinates":[-86.872385,33.483021],"type":"Point"}
+  "bbox": [
+    -86.872385,
+    33.483021,
+    -86.872385,
+    33.483021
+],
+  "geometry": {"coordinates":[-86.87238499999999,33.483021],"type":"Point"}
 }

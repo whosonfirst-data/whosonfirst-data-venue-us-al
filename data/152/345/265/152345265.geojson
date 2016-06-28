@@ -2,13 +2,14 @@
   "id": 152345265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.575671,34.27673,-86.575671,34.27673",
     "geom:latitude":34.27673,
     "geom:longitude":-86.575671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1081 Co Rd 1763",
     "sg:city":"Joppa",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867305,
+        85688675,
         85633793,
         85914167,
         102085729,
-        85688675
+        85867305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152345265,
-    "wof:lastmodified":1449048557,
+    "wof:lastmodified":1466317563,
     "wof:name":"Science & Technology Corp",
     "wof:parent_id":85867305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.575671,34.27673,-86.575671,34.27673],
+  "bbox": [
+    -86.575671,
+    34.27673,
+    -86.575671,
+    34.27673
+],
   "geometry": {"coordinates":[-86.575671,34.27673],"type":"Point"}
 }

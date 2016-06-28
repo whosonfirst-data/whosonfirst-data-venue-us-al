@@ -2,13 +2,14 @@
   "id": 152492831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.04817,32.655604,-86.04817,32.655604",
     "geom:latitude":32.655604,
     "geom:longitude":-86.04817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 Kowaliga Rd",
     "sg:city":"Eclectic",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851843,
+        85688675,
         85633793,
         85913951,
         102085631,
-        85688675
+        85851843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152492831,
-    "wof:lastmodified":1449044285,
+    "wof:lastmodified":1466318408,
     "wof:name":"American Door & Molding",
     "wof:parent_id":85851843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.04817,32.655604,-86.04817,32.655604],
+  "bbox": [
+    -86.04817,
+    32.655604,
+    -86.04817,
+    32.655604
+],
   "geometry": {"coordinates":[-86.04817,32.655604],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102617519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.825899,33.693593,-85.825899,33.693593",
     "geom:latitude":33.693593,
     "geom:longitude":-85.825899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3827 George St",
     "sg:city":"Anniston",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.fhnbc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825451,
+        85688675,
         85633793,
         85915207,
         102085603,
-        85688675
+        85825451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102617519,
-    "wof:lastmodified":1449067858,
+    "wof:lastmodified":1466317242,
     "wof:name":"Fairview Heights Northside Bap",
     "wof:parent_id":85825451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.825899,33.693593,-85.825899,33.693593],
-  "geometry": {"coordinates":[-85.825899,33.693593],"type":"Point"}
+  "bbox": [
+    -85.825899,
+    33.693593,
+    -85.825899,
+    33.693593
+],
+  "geometry": {"coordinates":[-85.82589900000001,33.693593],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152725855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.087027,30.667556,-88.087027,30.667556",
     "geom:latitude":30.667556,
     "geom:longitude":-88.087027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"661 Dauphin Island Pkwy",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878957,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878957
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152725855,
-    "wof:lastmodified":1449045418,
+    "wof:lastmodified":1466319537,
     "wof:name":"Trinity Construction & Roofing",
     "wof:parent_id":85878957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.087027,30.667556,-88.087027,30.667556],
-  "geometry": {"coordinates":[-88.087027,30.667556],"type":"Point"}
+  "bbox": [
+    -88.087027,
+    30.667556,
+    -88.087027,
+    30.667556
+],
+  "geometry": {"coordinates":[-88.08702700000001,30.667556],"type":"Point"}
 }

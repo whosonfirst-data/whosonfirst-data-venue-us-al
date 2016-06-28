@@ -2,13 +2,14 @@
   "id": 152745251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.758032,34.140243,-86.758032,34.140243",
     "geom:latitude":34.140243,
     "geom:longitude":-86.758032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4110 Co Rd 703",
     "sg:city":"Cullman",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867305,
+        85688675,
         85633793,
         85914167,
         102085729,
-        85688675
+        85867305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152745251,
-    "wof:lastmodified":1449048708,
+    "wof:lastmodified":1466319688,
     "wof:name":"Masterbilt Motors of Alabama",
     "wof:parent_id":85867305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.758032,34.140243,-86.758032,34.140243],
+  "bbox": [
+    -86.758032,
+    34.140243,
+    -86.758032,
+    34.140243
+],
   "geometry": {"coordinates":[-86.758032,34.140243],"type":"Point"}
 }

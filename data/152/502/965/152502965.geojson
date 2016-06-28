@@ -2,13 +2,14 @@
   "id": 152502965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.083871,30.774501,-88.083871,30.774501",
     "geom:latitude":30.774501,
     "geom:longitude":-88.083871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 Valley Rd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837835,
+        85688675,
         85633793,
         85913741,
         102085585,
-        85688675
+        85837835
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152502965,
-    "wof:lastmodified":1449046428,
+    "wof:lastmodified":1466318381,
     "wof:name":"Margaret Moore",
     "wof:parent_id":85837835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.083871,30.774501,-88.083871,30.774501],
+  "bbox": [
+    -88.083871,
+    30.774501,
+    -88.083871,
+    30.774501
+],
   "geometry": {"coordinates":[-88.083871,30.774501],"type":"Point"}
 }

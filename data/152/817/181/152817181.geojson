@@ -2,13 +2,14 @@
   "id": 152817181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.233158,33.174529,-87.233158,33.174529",
     "geom:latitude":33.174529,
     "geom:longitude":-87.233158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10560 Vance Blocton Rd",
     "sg:city":"Vance",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851363,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85851363
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152817181,
-    "wof:lastmodified":1449048016,
+    "wof:lastmodified":1466319929,
     "wof:name":"Vance Diner & Specialty Cake",
     "wof:parent_id":85851363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.233158,33.174529,-87.233158,33.174529],
+  "bbox": [
+    -87.233158,
+    33.174529,
+    -87.233158,
+    33.174529
+],
   "geometry": {"coordinates":[-87.233158,33.174529],"type":"Point"}
 }

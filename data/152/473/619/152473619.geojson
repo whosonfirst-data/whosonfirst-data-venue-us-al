@@ -2,13 +2,14 @@
   "id": 152473619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.744665,30.888799,-87.744665,30.888799",
     "geom:latitude":30.888799,
     "geom:longitude":-87.744665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45680 Oak Ln",
     "sg:city":"Bay Minette",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813343,
+        85688675,
         85633793,
         85914703,
         102085469,
-        85688675
+        85813343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152473619,
-    "wof:lastmodified":1449045264,
+    "wof:lastmodified":1466318186,
     "wof:name":"Boeschen's Heating & Cooling",
     "wof:parent_id":85813343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.744665,30.888799,-87.744665,30.888799],
+  "bbox": [
+    -87.744665,
+    30.888799,
+    -87.744665,
+    30.888799
+],
   "geometry": {"coordinates":[-87.744665,30.888799],"type":"Point"}
 }

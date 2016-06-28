@@ -2,13 +2,14 @@
   "id": 152807711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.143571,33.515456,-87.143571,33.515456",
     "geom:latitude":33.515456,
     "geom:longitude":-87.143571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9093 Taylors Ferry Rd",
     "sg:city":"Bessemer",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152807711,
-    "wof:lastmodified":1449045481,
+    "wof:lastmodified":1466319903,
     "wof:name":"Head's Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.143571,33.515456,-87.143571,33.515456],
-  "geometry": {"coordinates":[-87.143571,33.515456],"type":"Point"}
+  "bbox": [
+    -87.143571,
+    33.515456,
+    -87.143571,
+    33.515456
+],
+  "geometry": {"coordinates":[-87.14357099999999,33.515456],"type":"Point"}
 }

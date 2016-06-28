@@ -2,13 +2,14 @@
   "id": 152144573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.916452,30.666993,-87.916452,30.666993",
     "geom:latitude":30.666993,
     "geom:longitude":-87.916452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6389 Spanish Fort Blvd",
     "sg:city":"Spanish Fort",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820145,
+        85688675,
         85633793,
         85914741,
         102085469,
-        85688675
+        85820145
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152144573,
-    "wof:lastmodified":1449047685,
+    "wof:lastmodified":1466315418,
     "wof:name":"Property Damage Appraisers",
     "wof:parent_id":85820145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.916452,30.666993,-87.916452,30.666993],
-  "geometry": {"coordinates":[-87.916452,30.666993],"type":"Point"}
+  "bbox": [
+    -87.916452,
+    30.666993,
+    -87.916452,
+    30.666993
+],
+  "geometry": {"coordinates":[-87.91645200000001,30.666993],"type":"Point"}
 }

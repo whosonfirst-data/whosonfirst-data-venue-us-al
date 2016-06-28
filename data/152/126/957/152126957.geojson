@@ -2,13 +2,14 @@
   "id": 152126957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.313825,32.492788,-85.313825,32.492788",
     "geom:latitude":32.492788,
     "geom:longitude":-85.313825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2006 Co Rd 165",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821713,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85821713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152126957,
-    "wof:lastmodified":1449046013,
+    "wof:lastmodified":1466314844,
     "wof:name":"James Barrick Christian Ctr",
     "wof:parent_id":85821713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.313825,32.492788,-85.313825,32.492788],
-  "geometry": {"coordinates":[-85.313825,32.492788],"type":"Point"}
+  "bbox": [
+    -85.313825,
+    32.492788,
+    -85.313825,
+    32.492788
+],
+  "geometry": {"coordinates":[-85.31382499999999,32.492788],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102510219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.430258,32.614248,-85.430258,32.614248",
     "geom:latitude":32.614248,
     "geom:longitude":-85.430258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3365 Skyway Dr",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821713,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85821713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102510219,
-    "wof:lastmodified":1449069190,
+    "wof:lastmodified":1466316616,
     "wof:name":"Juliet Papa Aviation LLC",
     "wof:parent_id":85821713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.430258,32.614248,-85.430258,32.614248],
-  "geometry": {"coordinates":[-85.430258,32.614248],"type":"Point"}
+  "bbox": [
+    -85.430258,
+    32.614248,
+    -85.430258,
+    32.614248
+],
+  "geometry": {"coordinates":[-85.43025799999999,32.614248],"type":"Point"}
 }

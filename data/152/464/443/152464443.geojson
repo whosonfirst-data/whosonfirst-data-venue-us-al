@@ -2,13 +2,14 @@
   "id": 152464443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.304396,30.801176,-88.304396,30.801176",
     "geom:latitude":30.801176,
     "geom:longitude":-88.304396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5415 Fairview Dr E",
     "sg:city":"Wilmer",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085585,
-        85633793,
         85688675,
-        85878987
+        85633793,
+        85878987,
+        102085585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152464443,
-    "wof:lastmodified":1449045546,
+    "wof:lastmodified":1466318141,
     "wof:name":"Right Cut Lawn Service",
     "wof:parent_id":85878987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.304396,30.801176,-88.304396,30.801176],
+  "bbox": [
+    -88.304396,
+    30.801176,
+    -88.304396,
+    30.801176
+],
   "geometry": {"coordinates":[-88.304396,30.801176],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102473185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.707074,33.538337,-86.707074,33.538337",
     "geom:latitude":33.538337,
     "geom:longitude":-86.707074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1912 1st Ave S",
     "sg:city":"Irondale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819529,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85819529
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102473185,
-    "wof:lastmodified":1449068296,
+    "wof:lastmodified":1466315304,
     "wof:name":"Irondale Chamber Of Commerce",
     "wof:parent_id":85819529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.707074,33.538337,-86.707074,33.538337],
-  "geometry": {"coordinates":[-86.707074,33.538337],"type":"Point"}
+  "bbox": [
+    -86.707074,
+    33.538337,
+    -86.707074,
+    33.538337
+],
+  "geometry": {"coordinates":[-86.70707400000001,33.538337],"type":"Point"}
 }

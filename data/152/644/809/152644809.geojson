@@ -2,13 +2,14 @@
   "id": 152644809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.524093,33.151351,-87.524093,33.151351",
     "geom:latitude":33.151351,
     "geom:longitude":-87.524093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6501 McFarland Blvd E",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085553,
-        85633793,
         85688675,
-        85827473
+        85633793,
+        85827473,
+        102085553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152644809,
-    "wof:lastmodified":1449046952,
+    "wof:lastmodified":1466319056,
     "wof:name":"Cypress Creek Inc",
     "wof:parent_id":85827473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.524093,33.151351,-87.524093,33.151351],
-  "geometry": {"coordinates":[-87.524093,33.151351],"type":"Point"}
+  "bbox": [
+    -87.524093,
+    33.151351,
+    -87.524093,
+    33.151351
+],
+  "geometry": {"coordinates":[-87.52409299999999,33.151351],"type":"Point"}
 }

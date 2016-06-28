@@ -2,13 +2,14 @@
   "id": 152861887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.76544,32.831435,-85.76544,32.831435",
     "geom:latitude":32.831435,
     "geom:longitude":-85.76544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 W Cusseta St",
     "sg:city":"Dadeville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848983,
+        85688675,
         85633793,
         85913327,
         102085567,
-        85688675
+        85848983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152861887,
-    "wof:lastmodified":1449048877,
+    "wof:lastmodified":1466320190,
     "wof:name":"Computer Services",
     "wof:parent_id":85848983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.76544,32.831435,-85.76544,32.831435],
+  "bbox": [
+    -85.76544,
+    32.831435,
+    -85.76544,
+    32.831435
+],
   "geometry": {"coordinates":[-85.76544,32.831435],"type":"Point"}
 }

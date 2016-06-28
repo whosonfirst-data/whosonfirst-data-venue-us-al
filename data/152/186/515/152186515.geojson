@@ -2,13 +2,14 @@
   "id": 152186515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.663162,33.415563,-86.663162,33.415563",
     "geom:latitude":33.415563,
     "geom:longitude":-86.663162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Village St",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -31,10 +32,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85833411
+        85633793,
+        85833411,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152186515,
-    "wof:lastmodified":1449047915,
+    "wof:lastmodified":1466315757,
     "wof:name":"Lane Park Construction Inc",
     "wof:parent_id":85833411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.663162,33.415563,-86.663162,33.415563],
+  "bbox": [
+    -86.663162,
+    33.415563,
+    -86.663162,
+    33.415563
+],
   "geometry": {"coordinates":[-86.663162,33.415563],"type":"Point"}
 }

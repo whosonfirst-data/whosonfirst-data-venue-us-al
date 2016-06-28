@@ -2,13 +2,14 @@
   "id": 152230425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.84032,34.488154,-85.84032,34.488154",
     "geom:latitude":34.488154,
     "geom:longitude":-85.84032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"812 George Wallace Dr SE",
     "sg:city":"Rainsville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152230425,
-    "wof:lastmodified":1449047732,
+    "wof:lastmodified":1466316401,
     "wof:name":"Robertson Chapel Meth Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.84032,34.488154,-85.84032,34.488154],
-  "geometry": {"coordinates":[-85.84032,34.488154],"type":"Point"}
+  "bbox": [
+    -85.84032,
+    34.488154,
+    -85.84032,
+    34.488154
+],
+  "geometry": {"coordinates":[-85.84032000000001,34.488154],"type":"Point"}
 }

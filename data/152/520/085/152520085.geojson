@@ -2,13 +2,14 @@
   "id": 152520085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.579147,33.996963,-85.579147,33.996963",
     "geom:latitude":33.996963,
     "geom:longitude":-85.579147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2640 Co Rd 33",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":152520085,
-    "wof:lastmodified":1449045829,
+    "wof:lastmodified":1466318409,
     "wof:name":"Sundance Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.579147,33.996963,-85.579147,33.996963],
-  "geometry": {"coordinates":[-85.579147,33.996963],"type":"Point"}
+  "bbox": [
+    -85.579147,
+    33.996963,
+    -85.579147,
+    33.996963
+],
+  "geometry": {"coordinates":[-85.57914700000001,33.996963],"type":"Point"}
 }

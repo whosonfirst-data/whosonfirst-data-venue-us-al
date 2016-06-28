@@ -2,13 +2,14 @@
   "id": 152209547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.14293,30.407387,-88.14293,30.407387",
     "geom:latitude":30.407387,
     "geom:longitude":-88.14293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13609 Rebel Rd",
     "sg:city":"Theodore",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152209547,
-    "wof:lastmodified":1449048427,
+    "wof:lastmodified":1466316021,
     "wof:name":"Tilman Transport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.14293,30.407387,-88.14293,30.407387],
-  "geometry": {"coordinates":[-88.14293,30.407387],"type":"Point"}
+  "bbox": [
+    -88.14293,
+    30.407387,
+    -88.14293,
+    30.407387
+],
+  "geometry": {"coordinates":[-88.14293000000001,30.407387],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152426495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.138498,30.681844,-88.138498,30.681844",
     "geom:latitude":30.681844,
     "geom:longitude":-88.138498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3770 S Rhonda Dr",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878977,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152426495,
-    "wof:lastmodified":1449045289,
+    "wof:lastmodified":1466317961,
     "wof:name":"Weltanco Lining Inc",
     "wof:parent_id":85878977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.138498,30.681844,-88.138498,30.681844],
+  "bbox": [
+    -88.138498,
+    30.681844,
+    -88.138498,
+    30.681844
+],
   "geometry": {"coordinates":[-88.138498,30.681844],"type":"Point"}
 }

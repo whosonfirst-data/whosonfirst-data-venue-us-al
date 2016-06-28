@@ -2,13 +2,14 @@
   "id": 152196955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.175328,32.347542,-86.175328,32.347542",
     "geom:latitude":32.347542,
     "geom:longitude":-86.175328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6768 Taylor Cir",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.equisouthmortgage.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85823517,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85823517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152196955,
-    "wof:lastmodified":1449045348,
+    "wof:lastmodified":1466315849,
     "wof:name":"Equisouth Mortgage Inc",
     "wof:parent_id":85823517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.175328,32.347542,-86.175328,32.347542],
-  "geometry": {"coordinates":[-86.175328,32.347542],"type":"Point"}
+  "bbox": [
+    -86.175328,
+    32.347542,
+    -86.175328,
+    32.347542
+],
+  "geometry": {"coordinates":[-86.17532799999999,32.347542],"type":"Point"}
 }

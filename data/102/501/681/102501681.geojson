@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102501681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.621098,33.22725,-87.621098,33.22725",
     "geom:latitude":33.22725,
     "geom:longitude":-87.621098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6425 5th St",
     "sg:city":"Northport",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811495,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85811495
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102501681,
-    "wof:lastmodified":1449070238,
+    "wof:lastmodified":1466316648,
     "wof:name":"Ryan Shirley Inc",
     "wof:parent_id":85811495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.621098,33.22725,-87.621098,33.22725],
+  "bbox": [
+    -87.621098,
+    33.22725,
+    -87.621098,
+    33.22725
+],
   "geometry": {"coordinates":[-87.621098,33.22725],"type":"Point"}
 }

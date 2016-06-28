@@ -2,13 +2,14 @@
   "id": 152350419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.94867,34.434877,-86.94867,34.434877",
     "geom:latitude":34.434877,
     "geom:longitude":-86.94867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1103 Crestline Pl SW",
     "sg:city":"Hartselle",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152350419,
-    "wof:lastmodified":1449046661,
+    "wof:lastmodified":1466317670,
     "wof:name":"Motley Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.94867,34.434877,-86.94867,34.434877],
-  "geometry": {"coordinates":[-86.94867,34.434877],"type":"Point"}
+  "bbox": [
+    -86.94867,
+    34.434877,
+    -86.94867,
+    34.434877
+],
+  "geometry": {"coordinates":[-86.94867000000001,34.434877],"type":"Point"}
 }

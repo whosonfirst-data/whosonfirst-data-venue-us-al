@@ -2,13 +2,14 @@
   "id": 152607871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.573286,34.69941,-86.573286,34.69941",
     "geom:latitude":34.69941,
     "geom:longitude":-86.573286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"314 Quincy Dr SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818149,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85818149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152607871,
-    "wof:lastmodified":1449044914,
+    "wof:lastmodified":1466318896,
     "wof:name":"Family Intervention Svc",
     "wof:parent_id":85818149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.573286,34.69941,-86.573286,34.69941],
+  "bbox": [
+    -86.573286,
+    34.69941,
+    -86.573286,
+    34.69941
+],
   "geometry": {"coordinates":[-86.573286,34.69941],"type":"Point"}
 }

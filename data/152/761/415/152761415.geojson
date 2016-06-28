@@ -2,13 +2,14 @@
   "id": 152761415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.606886,34.850862,-86.606886,34.850862",
     "geom:latitude":34.850862,
     "geom:longitude":-86.606886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"749 Mount Lebanon Rd",
     "sg:city":"Toney",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85810031,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85810031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152761415,
-    "wof:lastmodified":1449047818,
+    "wof:lastmodified":1466319634,
     "wof:name":"Societies Disability Advisors",
     "wof:parent_id":85810031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.606886,34.850862,-86.606886,34.850862],
+  "bbox": [
+    -86.606886,
+    34.850862,
+    -86.606886,
+    34.850862
+],
   "geometry": {"coordinates":[-86.606886,34.850862],"type":"Point"}
 }

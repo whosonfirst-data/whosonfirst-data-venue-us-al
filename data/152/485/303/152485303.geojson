@@ -2,13 +2,14 @@
   "id": 152485303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.100555,32.436991,-87.100555,32.436991",
     "geom:latitude":32.436991,
     "geom:longitude":-87.100555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4813 US Hwy 80",
     "sg:city":"Selma",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152485303,
-    "wof:lastmodified":1449047112,
+    "wof:lastmodified":1466318249,
     "wof:name":"Consumers Gasoline Stations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.100555,32.436991,-87.100555,32.436991],
+  "bbox": [
+    -87.100555,
+    32.436991,
+    -87.100555,
+    32.436991
+],
   "geometry": {"coordinates":[-87.100555,32.436991],"type":"Point"}
 }

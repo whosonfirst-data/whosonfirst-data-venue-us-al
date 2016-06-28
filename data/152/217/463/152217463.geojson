@@ -2,13 +2,14 @@
   "id": 152217463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.244943,34.064462,-86.244943,34.064462",
     "geom:latitude":34.064462,
     "geom:longitude":-86.244943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7521 US Hwy 278 W",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085545,
-        85633793,
         85688675,
-        85851221
+        85633793,
+        85851221,
+        102085545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152217463,
-    "wof:lastmodified":1449048644,
+    "wof:lastmodified":1466316032,
     "wof:name":"Morton's Chapel Senior Citizen",
     "wof:parent_id":85851221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.244943,34.064462,-86.244943,34.064462],
-  "geometry": {"coordinates":[-86.244943,34.064462],"type":"Point"}
+  "bbox": [
+    -86.244943,
+    34.064462,
+    -86.244943,
+    34.064462
+],
+  "geometry": {"coordinates":[-86.24494300000001,34.064462],"type":"Point"}
 }

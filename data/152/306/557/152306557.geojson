@@ -2,13 +2,14 @@
   "id": 152306557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.073559,34.790468,-87.073559,34.790468",
     "geom:latitude":34.790468,
     "geom:longitude":-87.073559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13976 US Hwy 72",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829531,
+        85688675,
         85633793,
         85913543,
         102085489,
-        85688675
+        85829531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152306557,
-    "wof:lastmodified":1449048707,
+    "wof:lastmodified":1466317168,
     "wof:name":"Gandy's Cabinet Shop",
     "wof:parent_id":85829531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.073559,34.790468,-87.073559,34.790468],
+  "bbox": [
+    -87.073559,
+    34.790468,
+    -87.073559,
+    34.790468
+],
   "geometry": {"coordinates":[-87.073559,34.790468],"type":"Point"}
 }

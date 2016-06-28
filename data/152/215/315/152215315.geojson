@@ -2,13 +2,14 @@
   "id": 152215315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.100265,34.192217,-86.100265,34.192217",
     "geom:latitude":34.192217,
     "geom:longitude":-86.100265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Shadowbrook Cir",
     "sg:city":"Boaz",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802495,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85802495
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152215315,
-    "wof:lastmodified":1449048117,
+    "wof:lastmodified":1466316067,
     "wof:name":"Excavating Davis",
     "wof:parent_id":85802495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.100265,34.192217,-86.100265,34.192217],
-  "geometry": {"coordinates":[-86.100265,34.192217],"type":"Point"}
+  "bbox": [
+    -86.100265,
+    34.192217,
+    -86.100265,
+    34.192217
+],
+  "geometry": {"coordinates":[-86.10026499999999,34.192217],"type":"Point"}
 }

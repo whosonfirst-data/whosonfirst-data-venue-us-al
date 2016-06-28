@@ -2,13 +2,14 @@
   "id": 152672203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.830293,33.603191,-85.830293,33.603191",
     "geom:latitude":33.603191,
     "geom:longitude":-85.830293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 Grace St",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827499,
+        85688675,
         85633793,
         85914159,
         102085603,
-        85688675
+        85827499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152672203,
-    "wof:lastmodified":1449044598,
+    "wof:lastmodified":1466319176,
     "wof:name":"Anniston Water Works",
     "wof:parent_id":85827499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.830293,33.603191,-85.830293,33.603191],
+  "bbox": [
+    -85.830293,
+    33.603191,
+    -85.830293,
+    33.603191
+],
   "geometry": {"coordinates":[-85.830293,33.603191],"type":"Point"}
 }

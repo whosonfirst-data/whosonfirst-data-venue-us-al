@@ -2,13 +2,14 @@
   "id": 152625881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.528275,34.414052,-86.528275,34.414052",
     "geom:latitude":34.414052,
     "geom:longitude":-86.528275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11705 US Hwy 231",
     "sg:city":"Union Grove",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837211,
+        85688675,
         85633793,
         85913243,
         102085513,
-        85688675
+        85837211
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152625881,
-    "wof:lastmodified":1449048967,
+    "wof:lastmodified":1466319037,
     "wof:name":"Morrow Design & Manufacturing",
     "wof:parent_id":85837211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.528275,34.414052,-86.528275,34.414052],
-  "geometry": {"coordinates":[-86.528275,34.414052],"type":"Point"}
+  "bbox": [
+    -86.528275,
+    34.414052,
+    -86.528275,
+    34.414052
+],
+  "geometry": {"coordinates":[-86.52827499999999,34.414052],"type":"Point"}
 }

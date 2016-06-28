@@ -2,13 +2,14 @@
   "id": 152375503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.258798,32.337797,-86.258798,32.337797",
     "geom:latitude":32.337797,
     "geom:longitude":-86.258798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3007 Mc Gehee Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879045,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152375503,
-    "wof:lastmodified":1449044461,
+    "wof:lastmodified":1466317716,
     "wof:name":"Master Webb Shotokan Karate SC",
     "wof:parent_id":85879045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.258798,32.337797,-86.258798,32.337797],
+  "bbox": [
+    -86.258798,
+    32.337797,
+    -86.258798,
+    32.337797
+],
   "geometry": {"coordinates":[-86.258798,32.337797],"type":"Point"}
 }

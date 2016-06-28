@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102479257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.11456,30.710231,-88.11456,30.710231",
     "geom:latitude":30.710231,
     "geom:longitude":-88.11456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"660 Western Dr",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879003,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85879003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102479257,
-    "wof:lastmodified":1449069441,
+    "wof:lastmodified":1466315508,
     "wof:name":"Streets Inc",
     "wof:parent_id":85879003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.11456,30.710231,-88.11456,30.710231],
+  "bbox": [
+    -88.11456,
+    30.710231,
+    -88.11456,
+    30.710231
+],
   "geometry": {"coordinates":[-88.11456,30.710231],"type":"Point"}
 }

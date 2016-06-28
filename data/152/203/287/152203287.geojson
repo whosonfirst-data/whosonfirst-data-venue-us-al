@@ -2,13 +2,14 @@
   "id": 152203287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.800114,33.497543,-86.800114,33.497543",
     "geom:latitude":33.497543,
     "geom:longitude":-86.800114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 12th Ave S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876277,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152203287,
-    "wof:lastmodified":1449046362,
+    "wof:lastmodified":1466315960,
     "wof:name":"Vivo Biosciences Inc",
     "wof:parent_id":85876277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.800114,33.497543,-86.800114,33.497543],
-  "geometry": {"coordinates":[-86.800114,33.497543],"type":"Point"}
+  "bbox": [
+    -86.800114,
+    33.497543,
+    -86.800114,
+    33.497543
+],
+  "geometry": {"coordinates":[-86.80011399999999,33.497543],"type":"Point"}
 }

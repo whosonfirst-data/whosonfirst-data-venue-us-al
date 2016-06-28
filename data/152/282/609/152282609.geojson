@@ -2,13 +2,14 @@
   "id": 152282609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.02021,32.412573,-87.02021,32.412573",
     "geom:latitude":32.412573,
     "geom:longitude":-87.02021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"805 Franklin St",
     "sg:city":"Selma",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152282609,
-    "wof:lastmodified":1449047191,
+    "wof:lastmodified":1466316882,
     "wof:name":"Chandler Auto Wrecker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.02021,32.412573,-87.02021,32.412573],
-  "geometry": {"coordinates":[-87.02021,32.412573],"type":"Point"}
+  "bbox": [
+    -87.02021,
+    32.412573,
+    -87.02021,
+    32.412573
+],
+  "geometry": {"coordinates":[-87.02021000000001,32.412573],"type":"Point"}
 }

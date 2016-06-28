@@ -2,13 +2,14 @@
   "id": 152473723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.434516,31.236418,-85.434516,31.236418",
     "geom:latitude":31.236418,
     "geom:longitude":-85.434516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Perry Ave",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805317,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85805317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152473723,
-    "wof:lastmodified":1449045264,
+    "wof:lastmodified":1466318190,
     "wof:name":"American General Life Ins Co",
     "wof:parent_id":85805317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.434516,31.236418,-85.434516,31.236418],
+  "bbox": [
+    -85.434516,
+    31.236418,
+    -85.434516,
+    31.236418
+],
   "geometry": {"coordinates":[-85.434516,31.236418],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152129389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.768875,33.441294,-86.768875,33.441294",
     "geom:latitude":33.441294,
     "geom:longitude":-86.768875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1205 Cedardell Ln",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853703,
+        85688675,
         85633793,
         85914847,
         102085481,
-        85688675
+        85853703
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152129389,
-    "wof:lastmodified":1449048031,
+    "wof:lastmodified":1466314887,
     "wof:name":"Conecuh Capital LLC",
     "wof:parent_id":85853703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.768875,33.441294,-86.768875,33.441294],
-  "geometry": {"coordinates":[-86.768875,33.441294],"type":"Point"}
+  "bbox": [
+    -86.768875,
+    33.441294,
+    -86.768875,
+    33.441294
+],
+  "geometry": {"coordinates":[-86.76887499999999,33.441294],"type":"Point"}
 }

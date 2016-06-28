@@ -2,13 +2,14 @@
   "id": 152137655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.288761,34.468137,-87.288761,34.468137",
     "geom:latitude":34.468137,
     "geom:longitude":-87.288761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Oakleaf Cir",
     "sg:city":"Moulton",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085601,
-        85633793,
         85688675,
-        85851971
+        85633793,
+        85851971,
+        102085601
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152137655,
-    "wof:lastmodified":1449048283,
+    "wof:lastmodified":1466315338,
     "wof:name":"Dock & Storage Systems",
     "wof:parent_id":85851971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.288761,34.468137,-87.288761,34.468137],
-  "geometry": {"coordinates":[-87.288761,34.468137],"type":"Point"}
+  "bbox": [
+    -87.288761,
+    34.468137,
+    -87.288761,
+    34.468137
+],
+  "geometry": {"coordinates":[-87.28876099999999,34.468137],"type":"Point"}
 }

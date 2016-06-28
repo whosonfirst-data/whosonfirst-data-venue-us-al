@@ -2,13 +2,14 @@
   "id": 152831757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.105938,30.536518,-88.105938,30.536518",
     "geom:latitude":30.536518,
     "geom:longitude":-88.105938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7323 Dauphin Island Pkwy",
     "sg:city":"Theodore",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085585,
-        85633793,
         85688675,
-        85878941
+        85633793,
+        85878941,
+        102085585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152831757,
-    "wof:lastmodified":1449047015,
+    "wof:lastmodified":1466320007,
     "wof:name":"Pipeline Technic LLC",
     "wof:parent_id":85878941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.105938,30.536518,-88.105938,30.536518],
-  "geometry": {"coordinates":[-88.105938,30.536518],"type":"Point"}
+  "bbox": [
+    -88.105938,
+    30.536518,
+    -88.105938,
+    30.536518
+],
+  "geometry": {"coordinates":[-88.10593799999999,30.536518],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152756173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.576619,34.746098,-86.576619,34.746098",
     "geom:latitude":34.746098,
     "geom:longitude":-86.576619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 Andrew Jackson Way NE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152756173,
-    "wof:lastmodified":1449047062,
+    "wof:lastmodified":1466319603,
     "wof:name":"Jackson Way Child Dev Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.576619,34.746098,-86.576619,34.746098],
-  "geometry": {"coordinates":[-86.576619,34.746098],"type":"Point"}
+  "bbox": [
+    -86.576619,
+    34.746098,
+    -86.576619,
+    34.746098
+],
+  "geometry": {"coordinates":[-86.57661899999999,34.746098],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102502407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.601915,34.723305,-86.601915,34.723305",
     "geom:latitude":34.723305,
     "geom:longitude":-86.601915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2402 W Clinton Ave",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     "sg:website":"www.huntsvilleradio.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85855713,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85855713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":102502407,
-    "wof:lastmodified":1449068871,
+    "wof:lastmodified":1466316601,
     "wof:name":"Huntsville Radio Service Inc",
     "wof:parent_id":85855713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.601915,34.723305,-86.601915,34.723305],
-  "geometry": {"coordinates":[-86.601915,34.723305],"type":"Point"}
+  "bbox": [
+    -86.601915,
+    34.723305,
+    -86.601915,
+    34.723305
+],
+  "geometry": {"coordinates":[-86.60191500000001,34.723305],"type":"Point"}
 }

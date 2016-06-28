@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102513201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.699008,34.762842,-87.699008,34.762842",
     "geom:latitude":34.762842,
     "geom:longitude":-87.699008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 W 5th St",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858837,
+        85688675,
         85633793,
         85897473,
         102085625,
-        85688675
+        85858837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102513201,
-    "wof:lastmodified":1449069373,
+    "wof:lastmodified":1466316887,
     "wof:name":"Beavers Concrete Construction",
     "wof:parent_id":85858837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.699008,34.762842,-87.699008,34.762842],
-  "geometry": {"coordinates":[-87.699008,34.762842],"type":"Point"}
+  "bbox": [
+    -87.699008,
+    34.762842,
+    -87.699008,
+    34.762842
+],
+  "geometry": {"coordinates":[-87.69900800000001,34.762842],"type":"Point"}
 }

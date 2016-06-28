@@ -2,13 +2,14 @@
   "id": 152474825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.141346,30.668274,-88.141346,30.668274",
     "geom:latitude":30.668274,
     "geom:longitude":-88.141346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 Downtowner Blvd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878955,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152474825,
-    "wof:lastmodified":1449044488,
+    "wof:lastmodified":1466318206,
     "wof:name":"S W & B Construction",
     "wof:parent_id":85878955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.141346,30.668274,-88.141346,30.668274],
+  "bbox": [
+    -88.141346,
+    30.668274,
+    -88.141346,
+    30.668274
+],
   "geometry": {"coordinates":[-88.141346,30.668274],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152287139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.983234,34.362914,-86.983234,34.362914",
     "geom:latitude":34.362914,
     "geom:longitude":-86.983234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"257 Duncan Rd",
     "sg:city":"Falkville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851807,
+        85688675,
         85633793,
         85914103,
         102085531,
-        85688675
+        85851807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152287139,
-    "wof:lastmodified":1449044577,
+    "wof:lastmodified":1466316985,
     "wof:name":"Billy Lewis Farm",
     "wof:parent_id":85851807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.983234,34.362914,-86.983234,34.362914],
+  "bbox": [
+    -86.983234,
+    34.362914,
+    -86.983234,
+    34.362914
+],
   "geometry": {"coordinates":[-86.983234,34.362914],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102479623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.985257,34.60615,-86.985257,34.60615",
     "geom:latitude":34.60615,
     "geom:longitude":-86.985257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 Lee St NE",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085531,
-        85633793,
         85688675,
-        85802585
+        85633793,
+        85802585,
+        102085531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102479623,
-    "wof:lastmodified":1449069442,
+    "wof:lastmodified":1466315025,
     "wof:name":"Morgan County Voter Rgstrtn",
     "wof:parent_id":85802585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.985257,34.60615,-86.985257,34.60615],
+  "bbox": [
+    -86.985257,
+    34.60615,
+    -86.985257,
+    34.60615
+],
   "geometry": {"coordinates":[-86.985257,34.60615],"type":"Point"}
 }

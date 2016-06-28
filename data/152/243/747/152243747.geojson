@@ -2,13 +2,14 @@
   "id": 152243747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.45897,32.460808,-86.45897,32.460808",
     "geom:latitude":32.460808,
     "geom:longitude":-86.45897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Knob Hill Rd",
     "sg:city":"Prattville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858019,
+        85688675,
         85633793,
         85913977,
         102085509,
-        85688675
+        85858019
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152243747,
-    "wof:lastmodified":1449045803,
+    "wof:lastmodified":1466316464,
     "wof:name":"Littenhaus Kennels",
     "wof:parent_id":85858019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.45897,32.460808,-86.45897,32.460808],
-  "geometry": {"coordinates":[-86.45897,32.460808],"type":"Point"}
+  "bbox": [
+    -86.45897,
+    32.460808,
+    -86.45897,
+    32.460808
+],
+  "geometry": {"coordinates":[-86.45896999999999,32.460808],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152347501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.172593,32.35225,-86.172593,32.35225",
     "geom:latitude":32.35225,
     "geom:longitude":-86.172593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1775 Halcyon Blvd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85823517,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85823517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152347501,
-    "wof:lastmodified":1449046546,
+    "wof:lastmodified":1466317571,
     "wof:name":"Atria Halcyon",
     "wof:parent_id":85823517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.172593,32.35225,-86.172593,32.35225],
-  "geometry": {"coordinates":[-86.172593,32.35225],"type":"Point"}
+  "bbox": [
+    -86.172593,
+    32.35225,
+    -86.172593,
+    32.35225
+],
+  "geometry": {"coordinates":[-86.17259300000001,32.35225],"type":"Point"}
 }

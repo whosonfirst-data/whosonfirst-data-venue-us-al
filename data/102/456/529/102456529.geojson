@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102456529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.211408,30.624088,-88.211408,30.624088",
     "geom:latitude":30.624088,
     "geom:longitude":-88.211408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3201 Wynnfield Dr W",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -33,11 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878967,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878967
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":102456529,
-    "wof:lastmodified":1449068493,
+    "wof:lastmodified":1466314899,
     "wof:name":"Rainbow Amusement Co",
     "wof:parent_id":85878967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.211408,30.624088,-88.211408,30.624088],
-  "geometry": {"coordinates":[-88.211408,30.624088],"type":"Point"}
+  "bbox": [
+    -88.211408,
+    30.624088,
+    -88.211408,
+    30.624088
+],
+  "geometry": {"coordinates":[-88.21140800000001,30.624088],"type":"Point"}
 }

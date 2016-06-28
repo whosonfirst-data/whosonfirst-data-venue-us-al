@@ -2,13 +2,14 @@
   "id": 152452541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.685364,33.615914,-86.685364,33.615914",
     "geom:latitude":33.615914,
     "geom:longitude":-86.685364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1263 Center Point Pkwy",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085481,
-        85633793,
         85688675,
-        85816403
+        85633793,
+        85816403,
+        102085481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152452541,
-    "wof:lastmodified":1449045379,
+    "wof:lastmodified":1466318085,
     "wof:name":"Jones Family Chiropractic Ctr",
     "wof:parent_id":85816403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.685364,33.615914,-86.685364,33.615914],
-  "geometry": {"coordinates":[-86.685364,33.615914],"type":"Point"}
+  "bbox": [
+    -86.685364,
+    33.615914,
+    -86.685364,
+    33.615914
+],
+  "geometry": {"coordinates":[-86.68536400000001,33.615914],"type":"Point"}
 }

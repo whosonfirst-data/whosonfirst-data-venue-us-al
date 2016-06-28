@@ -2,13 +2,14 @@
   "id": 152812747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.898598,32.534611,-85.898598,32.534611",
     "geom:latitude":32.534611,
     "geom:longitude":-85.898598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Jordan Ave",
     "sg:city":"Tallassee",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827623,
+        85688675,
         85633793,
         85913291,
         102085631,
-        85688675
+        85827623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152812747,
-    "wof:lastmodified":1449044420,
+    "wof:lastmodified":1466319928,
     "wof:name":"Britts Farm",
     "wof:parent_id":85827623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.898598,32.534611,-85.898598,32.534611],
-  "geometry": {"coordinates":[-85.898598,32.534611],"type":"Point"}
+  "bbox": [
+    -85.898598,
+    32.534611,
+    -85.898598,
+    32.534611
+],
+  "geometry": {"coordinates":[-85.89859800000001,32.534611],"type":"Point"}
 }

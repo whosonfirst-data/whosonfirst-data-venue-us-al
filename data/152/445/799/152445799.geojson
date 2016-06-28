@@ -2,13 +2,14 @@
   "id": 152445799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.480593,32.606627,-85.480593,32.606627",
     "geom:latitude":32.606627,
     "geom:longitude":-85.480593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 E Magnolia Ave",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.lds.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809707,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85809707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152445799,
-    "wof:lastmodified":1449044924,
+    "wof:lastmodified":1466318128,
     "wof:name":"Church Of Jesus Christ Of Lds",
     "wof:parent_id":85809707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.480593,32.606627,-85.480593,32.606627],
+  "bbox": [
+    -85.480593,
+    32.606627,
+    -85.480593,
+    32.606627
+],
   "geometry": {"coordinates":[-85.480593,32.606627],"type":"Point"}
 }

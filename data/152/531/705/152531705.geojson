@@ -2,13 +2,14 @@
   "id": 152531705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.745477,33.355519,-86.745477,33.355519",
     "geom:latitude":33.355519,
     "geom:longitude":-86.745477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3095 Cahaba Valley Rd",
     "sg:city":"Pelham",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85836661
+        85633793,
+        85836661,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152531705,
-    "wof:lastmodified":1449045392,
+    "wof:lastmodified":1466318556,
     "wof:name":"D McGuire Enterprises",
     "wof:parent_id":85836661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.745477,33.355519,-86.745477,33.355519],
-  "geometry": {"coordinates":[-86.745477,33.355519],"type":"Point"}
+  "bbox": [
+    -86.745477,
+    33.355519,
+    -86.745477,
+    33.355519
+],
+  "geometry": {"coordinates":[-86.74547699999999,33.355519],"type":"Point"}
 }

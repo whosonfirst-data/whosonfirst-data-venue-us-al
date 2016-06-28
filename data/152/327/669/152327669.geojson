@@ -2,13 +2,14 @@
   "id": 152327669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.324536,32.567546,-85.324536,32.567546",
     "geom:latitude":32.567546,
     "geom:longitude":-85.324536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Co Rd 461",
     "sg:city":"Opelika",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819517,
+        85688675,
         85633793,
         85913815,
         102085751,
-        85688675
+        85819517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152327669,
-    "wof:lastmodified":1449044652,
+    "wof:lastmodified":1466317418,
     "wof:name":"Shaw Jon Paint and Wallpape R",
     "wof:parent_id":85819517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.324536,32.567546,-85.324536,32.567546],
-  "geometry": {"coordinates":[-85.324536,32.567546],"type":"Point"}
+  "bbox": [
+    -85.324536,
+    32.567546,
+    -85.324536,
+    32.567546
+],
+  "geometry": {"coordinates":[-85.32453599999999,32.567546],"type":"Point"}
 }

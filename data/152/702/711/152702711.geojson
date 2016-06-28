@@ -2,13 +2,14 @@
   "id": 152702711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.721408,33.512328,-86.721408,33.512328",
     "geom:latitude":33.512328,
     "geom:longitude":-86.721408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Cross Creek Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850695,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85850695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152702711,
-    "wof:lastmodified":1449046613,
+    "wof:lastmodified":1466319308,
     "wof:name":"Advisory Battle Group LLC",
     "wof:parent_id":85850695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.721408,33.512328,-86.721408,33.512328],
+  "bbox": [
+    -86.721408,
+    33.512328,
+    -86.721408,
+    33.512328
+],
   "geometry": {"coordinates":[-86.721408,33.512328],"type":"Point"}
 }

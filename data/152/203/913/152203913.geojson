@@ -2,13 +2,14 @@
   "id": 152203913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.281834,32.362141,-86.281834,32.362141",
     "geom:latitude":32.362141,
     "geom:longitude":-86.281834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2021 E 4th St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825725,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85825725
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152203913,
-    "wof:lastmodified":1449046368,
+    "wof:lastmodified":1466315974,
     "wof:name":"Uptown Body Repair",
     "wof:parent_id":85825725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.281834,32.362141,-86.281834,32.362141],
+  "bbox": [
+    -86.281834,
+    32.362141,
+    -86.281834,
+    32.362141
+],
   "geometry": {"coordinates":[-86.281834,32.362141],"type":"Point"}
 }

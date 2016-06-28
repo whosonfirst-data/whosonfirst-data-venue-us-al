@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102489829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.937165,34.442931,-86.937165,34.442931",
     "geom:latitude":34.442931,
     "geom:longitude":-86.937165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 Main St W",
     "sg:city":"Hartselle",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851807,
+        85688675,
         85633793,
         85914103,
         102085531,
-        85688675
+        85851807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102489829,
-    "wof:lastmodified":1449069058,
+    "wof:lastmodified":1466316028,
     "wof:name":"Hartselle Frozen Foods & Meats",
     "wof:parent_id":85851807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.937165,34.442931,-86.937165,34.442931],
-  "geometry": {"coordinates":[-86.937165,34.442931],"type":"Point"}
+  "bbox": [
+    -86.937165,
+    34.442931,
+    -86.937165,
+    34.442931
+],
+  "geometry": {"coordinates":[-86.93716499999999,34.442931],"type":"Point"}
 }

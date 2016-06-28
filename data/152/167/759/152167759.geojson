@@ -2,13 +2,14 @@
   "id": 152167759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.787997,33.416936,-86.787997,33.416936",
     "geom:latitude":33.416936,
     "geom:longitude":-86.787997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2232 Royal Crest Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840369,
+        85688675,
         85633793,
         85914483,
         102085481,
-        85688675
+        85840369
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152167759,
-    "wof:lastmodified":1449046705,
+    "wof:lastmodified":1466315475,
     "wof:name":"Austin Company",
     "wof:parent_id":85840369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.787997,33.416936,-86.787997,33.416936],
+  "bbox": [
+    -86.787997,
+    33.416936,
+    -86.787997,
+    33.416936
+],
   "geometry": {"coordinates":[-86.787997,33.416936],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102442963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.435224,31.210182,-85.435224,31.210182",
     "geom:latitude":31.210182,
     "geom:longitude":-85.435224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1467 Honeysuckle Rd",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85846119,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85846119
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102442963,
-    "wof:lastmodified":1449068818,
+    "wof:lastmodified":1466314482,
     "wof:name":"Ferguson Sizemore & Assoc CPA",
     "wof:parent_id":85846119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.435224,31.210182,-85.435224,31.210182],
-  "geometry": {"coordinates":[-85.435224,31.210182],"type":"Point"}
+  "bbox": [
+    -85.435224,
+    31.210182,
+    -85.435224,
+    31.210182
+],
+  "geometry": {"coordinates":[-85.43522400000001,31.210182],"type":"Point"}
 }

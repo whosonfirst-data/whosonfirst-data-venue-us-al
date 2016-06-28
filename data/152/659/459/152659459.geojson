@@ -2,13 +2,14 @@
   "id": 152659459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.217132,32.544591,-86.217132,32.544591",
     "geom:latitude":32.544591,
     "geom:longitude":-86.217132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"507 N Pine St",
     "sg:city":"Wetumpka",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806527,
+        85688675,
         85633793,
         85913951,
         102085631,
-        85688675
+        85806527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152659459,
-    "wof:lastmodified":1449044805,
+    "wof:lastmodified":1466319312,
     "wof:name":"Quality Landscape Service",
     "wof:parent_id":85806527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.217132,32.544591,-86.217132,32.544591],
-  "geometry": {"coordinates":[-86.217132,32.544591],"type":"Point"}
+  "bbox": [
+    -86.217132,
+    32.544591,
+    -86.217132,
+    32.544591
+],
+  "geometry": {"coordinates":[-86.21713200000001,32.544591],"type":"Point"}
 }

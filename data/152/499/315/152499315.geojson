@@ -2,13 +2,14 @@
   "id": 152499315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.85696,33.50525,-86.85696,33.50525",
     "geom:latitude":33.50525,
     "geom:longitude":-86.85696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1102 3rd Ave W",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840057,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85840057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152499315,
-    "wof:lastmodified":1449045185,
+    "wof:lastmodified":1466318315,
     "wof:name":"J'Georgette Balloons Chocolate",
     "wof:parent_id":85840057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.85696,33.50525,-86.85696,33.50525],
+  "bbox": [
+    -86.85696,
+    33.50525,
+    -86.85696,
+    33.50525
+],
   "geometry": {"coordinates":[-86.85696,33.50525],"type":"Point"}
 }

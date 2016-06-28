@@ -2,13 +2,14 @@
   "id": 152725011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.111995,30.695788,-88.111995,30.695788",
     "geom:latitude":30.695788,
     "geom:longitude":-88.111995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2851 Old Shell Rd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     "sg:website":"www.refrigerationsupply.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879003,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85879003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152725011,
-    "wof:lastmodified":1449045417,
+    "wof:lastmodified":1466319446,
     "wof:name":"Refrigeration Supply Co Inc",
     "wof:parent_id":85879003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.111995,30.695788,-88.111995,30.695788],
-  "geometry": {"coordinates":[-88.111995,30.695788],"type":"Point"}
+  "bbox": [
+    -88.111995,
+    30.695788,
+    -88.111995,
+    30.695788
+],
+  "geometry": {"coordinates":[-88.11199499999999,30.695788],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152360369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.716596,33.521707,-86.716596,33.521707",
     "geom:latitude":33.521707,
     "geom:longitude":-86.716596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4904 Maryland Ave",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850695,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85850695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152360369,
-    "wof:lastmodified":1449047861,
+    "wof:lastmodified":1466317626,
     "wof:name":"Kismet Audio Inc",
     "wof:parent_id":85850695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.716596,33.521707,-86.716596,33.521707],
+  "bbox": [
+    -86.716596,
+    33.521707,
+    -86.716596,
+    33.521707
+],
   "geometry": {"coordinates":[-86.716596,33.521707],"type":"Point"}
 }

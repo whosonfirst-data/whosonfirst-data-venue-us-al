@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102497479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.824052,33.458774,-86.824052,33.458774",
     "geom:latitude":33.458774,
     "geom:longitude":-86.824052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Raleigh Ave",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817409,
+        85688675,
         85633793,
         85914847,
         102085481,
-        85688675
+        85817409
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102497479,
-    "wof:lastmodified":1449070181,
+    "wof:lastmodified":1466316431,
     "wof:name":"Alabama DOT Co",
     "wof:parent_id":85817409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.824052,33.458774,-86.824052,33.458774],
-  "geometry": {"coordinates":[-86.824052,33.458774],"type":"Point"}
+  "bbox": [
+    -86.824052,
+    33.458774,
+    -86.824052,
+    33.458774
+],
+  "geometry": {"coordinates":[-86.82405199999999,33.458774],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152154721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.678807,34.714107,-85.678807,34.714107",
     "geom:latitude":34.714107,
     "geom:longitude":-85.678807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1852 Dogwood Dr",
     "sg:city":"Ider",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85844901,
+        85688675,
         85633793,
         85897439,
         102085615,
-        85688675
+        85844901
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":152154721,
-    "wof:lastmodified":1449048957,
+    "wof:lastmodified":1466314802,
     "wof:name":"Ider Senior Center",
     "wof:parent_id":85844901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.678807,34.714107,-85.678807,34.714107],
-  "geometry": {"coordinates":[-85.678807,34.714107],"type":"Point"}
+  "bbox": [
+    -85.678807,
+    34.714107,
+    -85.678807,
+    34.714107
+],
+  "geometry": {"coordinates":[-85.67880700000001,34.714107],"type":"Point"}
 }

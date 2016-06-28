@@ -2,13 +2,14 @@
   "id": 152728491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.574204,34.741781,-86.574204,34.741781",
     "geom:latitude":34.741781,
     "geom:longitude":-86.574204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"804 McCullough Ave NE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819449,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85819449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152728491,
-    "wof:lastmodified":1449045369,
+    "wof:lastmodified":1466319483,
     "wof:name":"Franklin Painting & Drywall",
     "wof:parent_id":85819449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.574204,34.741781,-86.574204,34.741781],
-  "geometry": {"coordinates":[-86.574204,34.741781],"type":"Point"}
+  "bbox": [
+    -86.574204,
+    34.741781,
+    -86.574204,
+    34.741781
+],
+  "geometry": {"coordinates":[-86.57420399999999,34.741781],"type":"Point"}
 }

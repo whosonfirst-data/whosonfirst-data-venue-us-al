@@ -2,13 +2,14 @@
   "id": 152461155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.976805,34.790058,-86.976805,34.790058",
     "geom:latitude":34.790058,
     "geom:longitude":-86.976805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"603 US Hwy 72 W",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -33,11 +34,11 @@
     "sg:website":"www.goodysonline.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829531,
+        85688675,
         85633793,
         85913543,
         102085489,
-        85688675
+        85829531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":152461155,
-    "wof:lastmodified":1449046045,
+    "wof:lastmodified":1466318137,
     "wof:name":"Goody's Family Clothing",
     "wof:parent_id":85829531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.976805,34.790058,-86.976805,34.790058],
+  "bbox": [
+    -86.976805,
+    34.790058,
+    -86.976805,
+    34.790058
+],
   "geometry": {"coordinates":[-86.976805,34.790058],"type":"Point"}
 }

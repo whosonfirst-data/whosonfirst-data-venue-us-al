@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102506035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.071256,30.814755,-88.071256,30.814755",
     "geom:latitude":30.814755,
     "geom:longitude":-88.071256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"322 Saraland Blvd S",
     "sg:city":"Saraland",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085469,
-        85633793,
         85688675,
-        85878983
+        85633793,
+        85878983,
+        102085469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102506035,
-    "wof:lastmodified":1449067819,
+    "wof:lastmodified":1466316530,
     "wof:name":"Kelley Motors Inc",
     "wof:parent_id":85878983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.071256,30.814755,-88.071256,30.814755],
-  "geometry": {"coordinates":[-88.071256,30.814755],"type":"Point"}
+  "bbox": [
+    -88.071256,
+    30.814755,
+    -88.071256,
+    30.814755
+],
+  "geometry": {"coordinates":[-88.07125600000001,30.814755],"type":"Point"}
 }

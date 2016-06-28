@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102498287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.575567,34.600346,-86.575567,34.600346",
     "geom:latitude":34.600346,
     "geom:longitude":-86.575567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13916 Hurstland Dr SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822793,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85822793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":102498287,
-    "wof:lastmodified":1449069603,
+    "wof:lastmodified":1466316332,
     "wof:name":"Wheeler & Associates Co",
     "wof:parent_id":85822793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.575567,34.600346,-86.575567,34.600346],
-  "geometry": {"coordinates":[-86.575567,34.600346],"type":"Point"}
+  "bbox": [
+    -86.575567,
+    34.600346,
+    -86.575567,
+    34.600346
+],
+  "geometry": {"coordinates":[-86.57556700000001,34.600346],"type":"Point"}
 }

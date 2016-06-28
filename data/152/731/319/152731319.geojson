@@ -2,13 +2,14 @@
   "id": 152731319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.76241,30.609152,-87.76241,30.609152",
     "geom:latitude":30.609152,
     "geom:longitude":-87.76241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15279 Timber Ridge Dr",
     "sg:city":"Loxley",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840537,
+        85688675,
         85633793,
         85914695,
         102085469,
-        85688675
+        85840537
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152731319,
-    "wof:lastmodified":1449048404,
+    "wof:lastmodified":1466319481,
     "wof:name":"Clere Homes Inc",
     "wof:parent_id":85840537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.76241,30.609152,-87.76241,30.609152],
+  "bbox": [
+    -87.76241,
+    30.609152,
+    -87.76241,
+    30.609152
+],
   "geometry": {"coordinates":[-87.76241,30.609152],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152186383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.307927,34.342247,-86.307927,34.342247",
     "geom:latitude":34.342247,
     "geom:longitude":-86.307927,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1708 Gunter Ave",
     "sg:city":"Guntersville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829421,
+        85688675,
         85633793,
         85899833,
         102085513,
-        85688675
+        85829421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152186383,
-    "wof:lastmodified":1449047915,
+    "wof:lastmodified":1466315749,
     "wof:name":"Fussy Britches LLC",
     "wof:parent_id":85829421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.307927,34.342247,-86.307927,34.342247],
-  "geometry": {"coordinates":[-86.307927,34.342247],"type":"Point"}
+  "bbox": [
+    -86.307927,
+    34.342247,
+    -86.307927,
+    34.342247
+],
+  "geometry": {"coordinates":[-86.30792700000001,34.342247],"type":"Point"}
 }

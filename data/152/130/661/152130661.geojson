@@ -2,13 +2,14 @@
   "id": 152130661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.669107,34.953236,-87.669107,34.953236",
     "geom:latitude":34.953236,
     "geom:longitude":-87.669107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9325 State Rte 17",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":152130661,
-    "wof:lastmodified":1449045897,
+    "wof:lastmodified":1466315029,
     "wof:name":"Zip City Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.669107,34.953236,-87.669107,34.953236],
+  "bbox": [
+    -87.669107,
+    34.953236,
+    -87.669107,
+    34.953236
+],
   "geometry": {"coordinates":[-87.669107,34.953236],"type":"Point"}
 }

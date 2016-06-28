@@ -2,13 +2,14 @@
   "id": 152887413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.109019,30.67522,-88.109019,30.67522",
     "geom:latitude":30.67522,
     "geom:longitude":-88.109019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"259 Berkley Ct",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878965,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152887413,
-    "wof:lastmodified":1449048005,
+    "wof:lastmodified":1466320127,
     "wof:name":"Claudines Ultra Styles & Cuts",
     "wof:parent_id":85878965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.109019,30.67522,-88.109019,30.67522],
+  "bbox": [
+    -88.109019,
+    30.67522,
+    -88.109019,
+    30.67522
+],
   "geometry": {"coordinates":[-88.109019,30.67522],"type":"Point"}
 }

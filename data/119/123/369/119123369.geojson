@@ -2,13 +2,14 @@
   "id": 119123369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.728563,31.283521,-85.728563,31.283521",
     "geom:latitude":31.283521,
     "geom:longitude":-85.728563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Tar Hill Rd",
     "sg:city":"Daleville",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":119123369,
-    "wof:lastmodified":1449041578,
+    "wof:lastmodified":1466314321,
     "wof:name":"Superior Service",
     "wof:parent_id":85899513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.728563,31.283521,-85.728563,31.283521],
-  "geometry": {"coordinates":[-85.728563,31.283521],"type":"Point"}
+  "bbox": [
+    -85.728563,
+    31.283521,
+    -85.728563,
+    31.283521
+],
+  "geometry": {"coordinates":[-85.72856299999999,31.283521],"type":"Point"}
 }

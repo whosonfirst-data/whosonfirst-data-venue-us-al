@@ -2,13 +2,14 @@
   "id": 152233583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.578957,34.719645,-86.578957,34.719645",
     "geom:latitude":34.719645,
     "geom:longitude":-86.578957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2003 Whitesburg Dr S",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878239,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878239
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152233583,
-    "wof:lastmodified":1449048973,
+    "wof:lastmodified":1466316358,
     "wof:name":"Bariatric Wellness Institute",
     "wof:parent_id":85878239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.578957,34.719645,-86.578957,34.719645],
+  "bbox": [
+    -86.578957,
+    34.719645,
+    -86.578957,
+    34.719645
+],
   "geometry": {"coordinates":[-86.578957,34.719645],"type":"Point"}
 }

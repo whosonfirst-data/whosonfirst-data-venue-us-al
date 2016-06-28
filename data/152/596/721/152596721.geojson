@@ -2,13 +2,14 @@
   "id": 152596721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.160958,34.175768,-86.160958,34.175768",
     "geom:latitude":34.175768,
     "geom:longitude":-86.160958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 Copeland Dr",
     "sg:city":"Boaz",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085545,
-        85633793,
         85688675,
-        85851221
+        85633793,
+        85851221,
+        102085545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152596721,
-    "wof:lastmodified":1449046672,
+    "wof:lastmodified":1466318832,
     "wof:name":"Charles E Wilson",
     "wof:parent_id":85851221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.160958,34.175768,-86.160958,34.175768],
-  "geometry": {"coordinates":[-86.160958,34.175768],"type":"Point"}
+  "bbox": [
+    -86.160958,
+    34.175768,
+    -86.160958,
+    34.175768
+],
+  "geometry": {"coordinates":[-86.16095799999999,34.175768],"type":"Point"}
 }

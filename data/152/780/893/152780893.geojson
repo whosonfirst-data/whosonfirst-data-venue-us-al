@@ -2,13 +2,14 @@
   "id": 152780893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.419918,34.508238,-86.419918,34.508238",
     "geom:latitude":34.508238,
     "geom:longitude":-86.419918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 Scott Branch Rd",
     "sg:city":"New Hope",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820451,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85820451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152780893,
-    "wof:lastmodified":1449047759,
+    "wof:lastmodified":1466319737,
     "wof:name":"Southeastern Landscaping",
     "wof:parent_id":85820451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.419918,34.508238,-86.419918,34.508238],
+  "bbox": [
+    -86.419918,
+    34.508238,
+    -86.419918,
+    34.508238
+],
   "geometry": {"coordinates":[-86.419918,34.508238],"type":"Point"}
 }

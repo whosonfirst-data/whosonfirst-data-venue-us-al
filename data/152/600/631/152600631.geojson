@@ -2,13 +2,14 @@
   "id": 152600631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.415176,32.434349,-85.415176,32.434349",
     "geom:latitude":32.434349,
     "geom:longitude":-85.415176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25901 US Hwy 80",
     "sg:city":"Opelika",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85838773,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85838773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152600631,
-    "wof:lastmodified":1449044727,
+    "wof:lastmodified":1466318858,
     "wof:name":"Johnsons Lawn Service",
     "wof:parent_id":85838773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.415176,32.434349,-85.415176,32.434349],
+  "bbox": [
+    -85.415176,
+    32.434349,
+    -85.415176,
+    32.434349
+],
   "geometry": {"coordinates":[-85.415176,32.434349],"type":"Point"}
 }

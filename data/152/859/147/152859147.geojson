@@ -2,13 +2,14 @@
   "id": 152859147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.736722,33.474546,-86.736722,33.474546",
     "geom:latitude":33.474546,
     "geom:longitude":-86.736722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3616 Locksley Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802339,
+        85688675,
         85633793,
         85914483,
         102085481,
-        85688675
+        85802339
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152859147,
-    "wof:lastmodified":1449047607,
+    "wof:lastmodified":1466320365,
     "wof:name":"Jay Bradley",
     "wof:parent_id":85802339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.736722,33.474546,-86.736722,33.474546],
+  "bbox": [
+    -86.736722,
+    33.474546,
+    -86.736722,
+    33.474546
+],
   "geometry": {"coordinates":[-86.736722,33.474546],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152317681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.795864,33.640584,-86.795864,33.640584",
     "geom:latitude":33.640584,
     "geom:longitude":-86.795864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 Pineywood Rd",
     "sg:city":"Gardendale",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152317681,
-    "wof:lastmodified":1449046425,
+    "wof:lastmodified":1466317283,
     "wof:name":"Gardendale Church Of Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.795864,33.640584,-86.795864,33.640584],
-  "geometry": {"coordinates":[-86.795864,33.640584],"type":"Point"}
+  "bbox": [
+    -86.795864,
+    33.640584,
+    -86.795864,
+    33.640584
+],
+  "geometry": {"coordinates":[-86.79586399999999,33.640584],"type":"Point"}
 }

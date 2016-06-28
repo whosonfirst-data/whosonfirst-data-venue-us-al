@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102492475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.706854,34.721014,-86.706854,34.721014",
     "geom:latitude":34.721014,
     "geom:longitude":-86.706854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Eastview Dr",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85826841,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85826841
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102492475,
-    "wof:lastmodified":1449067758,
+    "wof:lastmodified":1466315976,
     "wof:name":"Crosspointe Church",
     "wof:parent_id":85826841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.706854,34.721014,-86.706854,34.721014],
-  "geometry": {"coordinates":[-86.706854,34.721014],"type":"Point"}
+  "bbox": [
+    -86.706854,
+    34.721014,
+    -86.706854,
+    34.721014
+],
+  "geometry": {"coordinates":[-86.70685400000001,34.721014],"type":"Point"}
 }

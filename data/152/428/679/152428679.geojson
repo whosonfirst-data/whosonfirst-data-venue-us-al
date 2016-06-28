@@ -2,13 +2,14 @@
   "id": 152428679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.170591,30.530944,-88.170591,30.530944",
     "geom:latitude":30.530944,
     "geom:longitude":-88.170591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7690 Bellingrath Rd",
     "sg:city":"Theodore",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878951,
+        85688675,
         85633793,
         85915075,
         102085585,
-        85688675
+        85878951
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152428679,
-    "wof:lastmodified":1449048607,
+    "wof:lastmodified":1466317975,
     "wof:name":"Bellingrath R V Park",
     "wof:parent_id":85878951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.170591,30.530944,-88.170591,30.530944],
+  "bbox": [
+    -88.170591,
+    30.530944,
+    -88.170591,
+    30.530944
+],
   "geometry": {"coordinates":[-88.170591,30.530944],"type":"Point"}
 }

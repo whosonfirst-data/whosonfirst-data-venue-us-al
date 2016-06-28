@@ -2,13 +2,14 @@
   "id": 152240615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.853707,31.347835,-85.853707,31.347835",
     "geom:latitude":31.347835,
     "geom:longitude":-85.853707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"604 Northside Dr",
     "sg:city":"Enterprise",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848185,
+        85688675,
         85633793,
         85899527,
         102085699,
-        85688675,
+        85848185,
         85837695
     ],
     "wof:breaches":[],
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":152240615,
-    "wof:lastmodified":1449044786,
+    "wof:lastmodified":1466316481,
     "wof:name":"Greer Enterprises LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.853707,31.347835,-85.853707,31.347835],
+  "bbox": [
+    -85.853707,
+    31.347835,
+    -85.853707,
+    31.347835
+],
   "geometry": {"coordinates":[-85.853707,31.347835],"type":"Point"}
 }

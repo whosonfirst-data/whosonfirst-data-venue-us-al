@@ -2,13 +2,14 @@
   "id": 152762755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.802658,33.515131,-86.802658,33.515131",
     "geom:latitude":33.515131,
     "geom:longitude":-86.802658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2112 Morris Ave",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876269,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152762755,
-    "wof:lastmodified":1449047562,
+    "wof:lastmodified":1466319657,
     "wof:name":"Fred Full Resolution Design",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.802658,33.515131,-86.802658,33.515131],
-  "geometry": {"coordinates":[-86.802658,33.515131],"type":"Point"}
+  "bbox": [
+    -86.802658,
+    33.515131,
+    -86.802658,
+    33.515131
+],
+  "geometry": {"coordinates":[-86.80265799999999,33.515131],"type":"Point"}
 }

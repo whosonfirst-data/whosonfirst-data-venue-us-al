@@ -2,13 +2,14 @@
   "id": 152578013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.280177,32.365005,-86.280177,32.365005",
     "geom:latitude":32.365005,
     "geom:longitude":-86.280177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2124 Spruce St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825725,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85825725
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152578013,
-    "wof:lastmodified":1449045464,
+    "wof:lastmodified":1466318742,
     "wof:name":"K & A Clg Professionals Inc",
     "wof:parent_id":85825725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.280177,32.365005,-86.280177,32.365005],
-  "geometry": {"coordinates":[-86.280177,32.365005],"type":"Point"}
+  "bbox": [
+    -86.280177,
+    32.365005,
+    -86.280177,
+    32.365005
+],
+  "geometry": {"coordinates":[-86.28017699999999,32.365005],"type":"Point"}
 }

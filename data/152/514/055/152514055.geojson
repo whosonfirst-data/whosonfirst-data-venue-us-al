@@ -2,13 +2,14 @@
   "id": 152514055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.772025,33.764815,-85.772025,33.764815",
     "geom:latitude":33.764815,
     "geom:longitude":-85.772025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2786 Pelham Rd S",
     "sg:city":"Anniston",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805945,
+        85688675,
         85633793,
         85914293,
         102085603,
-        85688675
+        85805945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152514055,
-    "wof:lastmodified":1449046625,
+    "wof:lastmodified":1466318383,
     "wof:name":"Four Mile Furniture",
     "wof:parent_id":85805945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.772025,33.764815,-85.772025,33.764815],
+  "bbox": [
+    -85.772025,
+    33.764815,
+    -85.772025,
+    33.764815
+],
   "geometry": {"coordinates":[-85.772025,33.764815],"type":"Point"}
 }

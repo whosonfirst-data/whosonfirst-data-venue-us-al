@@ -2,13 +2,14 @@
   "id": 152584239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.583618,34.729404,-86.583618,34.729404",
     "geom:latitude":34.729404,
     "geom:longitude":-86.583618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"313 Franklin St SE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878237,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152584239,
-    "wof:lastmodified":1449044812,
+    "wof:lastmodified":1466319003,
     "wof:name":"Helen J Vaughn Studio",
     "wof:parent_id":85878237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.583618,34.729404,-86.583618,34.729404],
+  "bbox": [
+    -86.583618,
+    34.729404,
+    -86.583618,
+    34.729404
+],
   "geometry": {"coordinates":[-86.583618,34.729404],"type":"Point"}
 }

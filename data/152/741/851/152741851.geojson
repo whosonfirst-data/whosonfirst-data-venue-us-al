@@ -2,13 +2,14 @@
   "id": 152741851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.225884,30.472616,-88.225884,30.472616",
     "geom:latitude":30.472616,
     "geom:longitude":-88.225884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7951 Two Mile Rd",
     "sg:city":"Irvington",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152741851,
-    "wof:lastmodified":1449044550,
+    "wof:lastmodified":1466319562,
     "wof:name":"C & C Plumbing & Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.225884,30.472616,-88.225884,30.472616],
-  "geometry": {"coordinates":[-88.225884,30.472616],"type":"Point"}
+  "bbox": [
+    -88.225884,
+    30.472616,
+    -88.225884,
+    30.472616
+],
+  "geometry": {"coordinates":[-88.22588399999999,30.472616],"type":"Point"}
 }

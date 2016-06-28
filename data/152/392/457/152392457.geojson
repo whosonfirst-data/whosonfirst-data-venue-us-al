@@ -2,13 +2,14 @@
   "id": 152392457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.399549,31.238111,-85.399549,31.238111",
     "geom:latitude":31.238111,
     "geom:longitude":-85.399549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1133 Montgomery Hwy",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852069,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85852069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152392457,
-    "wof:lastmodified":1449048001,
+    "wof:lastmodified":1466317800,
     "wof:name":"Southern Disposal Svc",
     "wof:parent_id":85852069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.399549,31.238111,-85.399549,31.238111],
-  "geometry": {"coordinates":[-85.399549,31.238111],"type":"Point"}
+  "bbox": [
+    -85.399549,
+    31.238111,
+    -85.399549,
+    31.238111
+],
+  "geometry": {"coordinates":[-85.39954899999999,31.238111],"type":"Point"}
 }

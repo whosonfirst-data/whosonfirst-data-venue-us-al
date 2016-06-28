@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102509899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.851013,31.305763,-85.851013,31.305763",
     "geom:latitude":31.305763,
     "geom:longitude":-85.851013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"541 Geneva Hwy",
     "sg:city":"Enterprise",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848823,
+        85688675,
         85633793,
         85899527,
         102085699,
-        85688675
+        85848823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102509899,
-    "wof:lastmodified":1449067882,
+    "wof:lastmodified":1466316555,
     "wof:name":"Watson Glass Co",
     "wof:parent_id":85848823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.851013,31.305763,-85.851013,31.305763],
-  "geometry": {"coordinates":[-85.851013,31.305763],"type":"Point"}
+  "bbox": [
+    -85.851013,
+    31.305763,
+    -85.851013,
+    31.305763
+],
+  "geometry": {"coordinates":[-85.85101299999999,31.305763],"type":"Point"}
 }

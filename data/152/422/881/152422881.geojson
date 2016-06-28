@@ -2,13 +2,14 @@
   "id": 152422881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.872474,34.097603,-86.872474,34.097603",
     "geom:latitude":34.097603,
     "geom:longitude":-86.872474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"146 Heatherly Dr",
     "sg:city":"Cullman",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867305,
+        85688675,
         85633793,
         85914167,
         102085729,
-        85688675
+        85867305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152422881,
-    "wof:lastmodified":1449044629,
+    "wof:lastmodified":1466318083,
     "wof:name":"Living Faith Baptist Church",
     "wof:parent_id":85867305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.872474,34.097603,-86.872474,34.097603],
+  "bbox": [
+    -86.872474,
+    34.097603,
+    -86.872474,
+    34.097603
+],
   "geometry": {"coordinates":[-86.872474,34.097603],"type":"Point"}
 }

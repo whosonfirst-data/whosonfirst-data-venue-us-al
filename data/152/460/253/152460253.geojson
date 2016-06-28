@@ -2,13 +2,14 @@
   "id": 152460253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.733939,33.456701,-86.733939,33.456701",
     "geom:latitude":33.456701,
     "geom:longitude":-86.733939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3118 Bellwood Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802339,
+        85688675,
         85633793,
         85914483,
         102085481,
-        85688675
+        85802339
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152460253,
-    "wof:lastmodified":1449048659,
+    "wof:lastmodified":1466318262,
     "wof:name":"Agl",
     "wof:parent_id":85802339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.733939,33.456701,-86.733939,33.456701],
-  "geometry": {"coordinates":[-86.733939,33.456701],"type":"Point"}
+  "bbox": [
+    -86.733939,
+    33.456701,
+    -86.733939,
+    33.456701
+],
+  "geometry": {"coordinates":[-86.73393900000001,33.456701],"type":"Point"}
 }

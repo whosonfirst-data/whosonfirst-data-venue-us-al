@@ -2,13 +2,14 @@
   "id": 152311717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.794003,30.474088,-87.794003,30.474088",
     "geom:latitude":30.474088,
     "geom:longitude":-87.794003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13432 Co Rd 32",
     "sg:city":"Summerdale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854025,
+        85688675,
         85633793,
         85914707,
         102085469,
-        85688675
+        85854025
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152311717,
-    "wof:lastmodified":1449045374,
+    "wof:lastmodified":1466317236,
     "wof:name":"Aney's Four-Way Grocery",
     "wof:parent_id":85854025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.794003,30.474088,-87.794003,30.474088],
+  "bbox": [
+    -87.794003,
+    30.474088,
+    -87.794003,
+    30.474088
+],
   "geometry": {"coordinates":[-87.794003,30.474088],"type":"Point"}
 }

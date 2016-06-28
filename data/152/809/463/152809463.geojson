@@ -2,13 +2,14 @@
   "id": 152809463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.81264,33.438475,-86.81264,33.438475",
     "geom:latitude":33.438475,
     "geom:longitude":-86.81264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"516 Lansdowne Pl",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803351,
+        85688675,
         85633793,
         85914483,
         102085481,
-        85688675
+        85803351
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152809463,
-    "wof:lastmodified":1449048082,
+    "wof:lastmodified":1466319881,
     "wof:name":"Mark Scott Rev",
     "wof:parent_id":85803351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.81264,33.438475,-86.81264,33.438475],
+  "bbox": [
+    -86.81264,
+    33.438475,
+    -86.81264,
+    33.438475
+],
   "geometry": {"coordinates":[-86.81264,33.438475],"type":"Point"}
 }

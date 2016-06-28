@@ -2,13 +2,14 @@
   "id": 152643211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.089241,30.690951,-88.089241,30.690951",
     "geom:latitude":30.690951,
     "geom:longitude":-88.089241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"138 Florence Pl",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878989,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152643211,
-    "wof:lastmodified":1449048302,
+    "wof:lastmodified":1466319284,
     "wof:name":"Certified Benefit Services LLC",
     "wof:parent_id":85878989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.089241,30.690951,-88.089241,30.690951],
+  "bbox": [
+    -88.089241,
+    30.690951,
+    -88.089241,
+    30.690951
+],
   "geometry": {"coordinates":[-88.089241,30.690951],"type":"Point"}
 }

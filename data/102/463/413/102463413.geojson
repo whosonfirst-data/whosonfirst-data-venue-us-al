@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102463413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.793715,33.391056,-86.793715,33.391056",
     "geom:latitude":33.391056,
     "geom:longitude":-86.793715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3525 Lorna Ridge Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858879,
+        85688675,
         85633793,
         85914475,
         102085481,
-        85688675
+        85858879
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102463413,
-    "wof:lastmodified":1449069471,
+    "wof:lastmodified":1466315037,
     "wof:name":"Aresco Inc",
     "wof:parent_id":85858879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.793715,33.391056,-86.793715,33.391056],
-  "geometry": {"coordinates":[-86.793715,33.391056],"type":"Point"}
+  "bbox": [
+    -86.793715,
+    33.391056,
+    -86.793715,
+    33.391056
+],
+  "geometry": {"coordinates":[-86.79371500000001,33.391056],"type":"Point"}
 }

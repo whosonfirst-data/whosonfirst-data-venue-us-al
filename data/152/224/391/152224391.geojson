@@ -2,13 +2,14 @@
   "id": 152224391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.735959,32.583327,-87.735959,32.583327",
     "geom:latitude":32.583327,
     "geom:longitude":-87.735959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13286 Co Rd 16",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":152224391,
-    "wof:lastmodified":1449047678,
+    "wof:lastmodified":1466316224,
     "wof:name":"Lock 5 Volunteer Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.735959,32.583327,-87.735959,32.583327],
-  "geometry": {"coordinates":[-87.735959,32.583327],"type":"Point"}
+  "bbox": [
+    -87.735959,
+    32.583327,
+    -87.735959,
+    32.583327
+],
+  "geometry": {"coordinates":[-87.73595899999999,32.583327],"type":"Point"}
 }

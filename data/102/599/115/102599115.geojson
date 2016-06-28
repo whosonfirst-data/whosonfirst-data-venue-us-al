@@ -2,13 +2,14 @@
   "id": 102599115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.464334,32.58247,-86.464334,32.58247",
     "geom:latitude":32.58247,
     "geom:longitude":-86.464334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1707 US Hwy 31",
     "sg:city":"Prattville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102599115,
-    "wof:lastmodified":1449068884,
+    "wof:lastmodified":1466317258,
     "wof:name":"31-65 Club",
     "wof:parent_id":85915415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.464334,32.58247,-86.464334,32.58247],
-  "geometry": {"coordinates":[-86.464334,32.58247],"type":"Point"}
+  "bbox": [
+    -86.464334,
+    32.58247,
+    -86.464334,
+    32.58247
+],
+  "geometry": {"coordinates":[-86.46433399999999,32.58247],"type":"Point"}
 }

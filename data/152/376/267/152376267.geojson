@@ -2,13 +2,14 @@
   "id": 152376267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.711127,33.554295,-86.711127,33.554295",
     "geom:latitude":33.554295,
     "geom:longitude":-86.711127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"913 77th St S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829527,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85829527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152376267,
-    "wof:lastmodified":1449045887,
+    "wof:lastmodified":1466317703,
     "wof:name":"Sims & Sims Enterprises",
     "wof:parent_id":85829527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.711127,33.554295,-86.711127,33.554295],
+  "bbox": [
+    -86.711127,
+    33.554295,
+    -86.711127,
+    33.554295
+],
   "geometry": {"coordinates":[-86.711127,33.554295],"type":"Point"}
 }

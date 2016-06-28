@@ -2,13 +2,14 @@
   "id": 152644367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.144535,34.242778,-86.144535,34.242778",
     "geom:latitude":34.242778,
     "geom:longitude":-86.144535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2780 Beulah Rd",
     "sg:city":"Boaz",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85830981,
+        85688675,
         85633793,
         85899833,
         102085513,
-        85688675
+        85830981
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152644367,
-    "wof:lastmodified":1449046951,
+    "wof:lastmodified":1466319051,
     "wof:name":"Shiloh Farms",
     "wof:parent_id":85830981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.144535,34.242778,-86.144535,34.242778],
+  "bbox": [
+    -86.144535,
+    34.242778,
+    -86.144535,
+    34.242778
+],
   "geometry": {"coordinates":[-86.144535,34.242778],"type":"Point"}
 }

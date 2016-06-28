@@ -2,13 +2,14 @@
   "id": 152532259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.460936,31.221333,-85.460936,31.221333",
     "geom:latitude":31.221333,
     "geom:longitude":-85.460936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Mill Creek Cir",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805317,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85805317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152532259,
-    "wof:lastmodified":1449045858,
+    "wof:lastmodified":1466318470,
     "wof:name":"Rick Hall Construction Inc",
     "wof:parent_id":85805317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.460936,31.221333,-85.460936,31.221333],
+  "bbox": [
+    -85.460936,
+    31.221333,
+    -85.460936,
+    31.221333
+],
   "geometry": {"coordinates":[-85.460936,31.221333],"type":"Point"}
 }

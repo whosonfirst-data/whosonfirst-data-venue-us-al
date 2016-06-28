@@ -2,13 +2,14 @@
   "id": 152393843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.114649,30.688458,-88.114649,30.688458",
     "geom:latitude":30.688458,
     "geom:longitude":-88.114649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 S Sage Ave",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878965,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152393843,
-    "wof:lastmodified":1449045755,
+    "wof:lastmodified":1466317810,
     "wof:name":"Rebath of Mobile",
     "wof:parent_id":85878965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.114649,30.688458,-88.114649,30.688458],
+  "bbox": [
+    -88.114649,
+    30.688458,
+    -88.114649,
+    30.688458
+],
   "geometry": {"coordinates":[-88.114649,30.688458],"type":"Point"}
 }

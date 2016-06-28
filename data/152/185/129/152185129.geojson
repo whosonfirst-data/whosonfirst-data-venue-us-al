@@ -2,13 +2,14 @@
   "id": 152185129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.78173,33.466947,-86.78173,33.466947",
     "geom:latitude":33.466947,
     "geom:longitude":-86.78173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2204 Lakeshore Dr",
     "sg:city":"Homewood",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850365,
+        85688675,
         85633793,
         85914847,
         102085481,
-        85688675
+        85850365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152185129,
-    "wof:lastmodified":1449045066,
+    "wof:lastmodified":1466315736,
     "wof:name":"American General Life Ins Co",
     "wof:parent_id":85850365,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.78173,33.466947,-86.78173,33.466947],
+  "bbox": [
+    -86.78173,
+    33.466947,
+    -86.78173,
+    33.466947
+],
   "geometry": {"coordinates":[-86.78173,33.466947],"type":"Point"}
 }

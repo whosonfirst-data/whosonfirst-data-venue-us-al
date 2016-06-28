@@ -2,13 +2,14 @@
   "id": 102636299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.450823,34.746287,-86.450823,34.746287",
     "geom:latitude":34.746287,
     "geom:longitude":-86.450823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Brownsboro Rd",
     "sg:city":"Brownsboro",
     "sg:classifiers":[
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":102636299,
-    "wof:lastmodified":1449068713,
+    "wof:lastmodified":1466317395,
     "wof:name":"US Post Office",
     "wof:parent_id":85688675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.450823,34.746287,-86.450823,34.746287],
+  "bbox": [
+    -86.450823,
+    34.746287,
+    -86.450823,
+    34.746287
+],
   "geometry": {"coordinates":[-86.450823,34.746287],"type":"Point"}
 }

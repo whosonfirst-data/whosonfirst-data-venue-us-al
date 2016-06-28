@@ -2,13 +2,14 @@
   "id": 152375435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.466685,32.60908,-85.466685,32.60908",
     "geom:latitude":32.60908,
     "geom:longitude":-85.466685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"753 E Glenn Ave",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.sswce.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819999,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85819999
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152375435,
-    "wof:lastmodified":1449044456,
+    "wof:lastmodified":1466317712,
     "wof:name":"Shannon Strobel & Weaver",
     "wof:parent_id":85819999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.466685,32.60908,-85.466685,32.60908],
+  "bbox": [
+    -85.466685,
+    32.60908,
+    -85.466685,
+    32.60908
+],
   "geometry": {"coordinates":[-85.466685,32.60908],"type":"Point"}
 }

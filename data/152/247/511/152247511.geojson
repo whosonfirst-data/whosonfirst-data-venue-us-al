@@ -2,13 +2,14 @@
   "id": 152247511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.29094,33.957101,-87.29094,33.957101",
     "geom:latitude":33.957101,
     "geom:longitude":-87.29094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"58 Lynn Rd",
     "sg:city":"Jasper",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":152247511,
-    "wof:lastmodified":1449047011,
+    "wof:lastmodified":1466316445,
     "wof:name":"Bonnies Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.29094,33.957101,-87.29094,33.957101],
-  "geometry": {"coordinates":[-87.29094,33.957101],"type":"Point"}
+  "bbox": [
+    -87.29094,
+    33.957101,
+    -87.29094,
+    33.957101
+],
+  "geometry": {"coordinates":[-87.29094000000001,33.957101],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152223853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.666564,34.866013,-87.666564,34.866013",
     "geom:latitude":34.866013,
     "geom:longitude":-87.666564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3215 Roberson Rd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85832603,
+        85688675,
         85633793,
         85914011,
         102085527,
-        85688675
+        85832603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152223853,
-    "wof:lastmodified":1449044622,
+    "wof:lastmodified":1466316236,
     "wof:name":"LAMBERT RECORD MGMT CENTER",
     "wof:parent_id":85832603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.666564,34.866013,-87.666564,34.866013],
-  "geometry": {"coordinates":[-87.666564,34.866013],"type":"Point"}
+  "bbox": [
+    -87.666564,
+    34.866013,
+    -87.666564,
+    34.866013
+],
+  "geometry": {"coordinates":[-87.66656399999999,34.866013],"type":"Point"}
 }

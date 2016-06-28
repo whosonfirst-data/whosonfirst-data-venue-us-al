@@ -2,13 +2,14 @@
   "id": 152291879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.191788,30.706258,-88.191788,30.706258",
     "geom:latitude":30.706258,
     "geom:longitude":-88.191788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6504 Victoria Pl E",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878973,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152291879,
-    "wof:lastmodified":1449045724,
+    "wof:lastmodified":1466317224,
     "wof:name":"ADC Appraisal Specialists",
     "wof:parent_id":85878973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.191788,30.706258,-88.191788,30.706258],
+  "bbox": [
+    -88.191788,
+    30.706258,
+    -88.191788,
+    30.706258
+],
   "geometry": {"coordinates":[-88.191788,30.706258],"type":"Point"}
 }

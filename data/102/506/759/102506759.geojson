@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102506759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.714398,34.75192,-86.714398,34.75192",
     "geom:latitude":34.75192,
     "geom:longitude":-86.714398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Castle Dr",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851107,
+        85688675,
         85633793,
         85913593,
         102085487,
-        85688675
+        85851107
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102506759,
-    "wof:lastmodified":1449067822,
+    "wof:lastmodified":1466316671,
     "wof:name":"FBG Svc Corp",
     "wof:parent_id":85851107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.714398,34.75192,-86.714398,34.75192],
+  "bbox": [
+    -86.714398,
+    34.75192,
+    -86.714398,
+    34.75192
+],
   "geometry": {"coordinates":[-86.714398,34.75192],"type":"Point"}
 }

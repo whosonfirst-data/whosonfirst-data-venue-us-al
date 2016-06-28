@@ -2,13 +2,14 @@
   "id": 152336549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.860639,32.489891,-87.860639,32.489891",
     "geom:latitude":32.489891,
     "geom:longitude":-87.860639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 US Hwy 80",
     "sg:city":"Demopolis",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845427,
+        85688675,
         85633793,
         85899613,
         102085423,
-        85688675
+        85845427
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152336549,
-    "wof:lastmodified":1449044192,
+    "wof:lastmodified":1466317380,
     "wof:name":"1 Stop",
     "wof:parent_id":85845427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.860639,32.489891,-87.860639,32.489891],
-  "geometry": {"coordinates":[-87.860639,32.489891],"type":"Point"}
+  "bbox": [
+    -87.860639,
+    32.489891,
+    -87.860639,
+    32.489891
+],
+  "geometry": {"coordinates":[-87.86063900000001,32.489891],"type":"Point"}
 }

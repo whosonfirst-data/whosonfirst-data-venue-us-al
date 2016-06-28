@@ -2,13 +2,14 @@
   "id": 102611345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.86369,33.096579,-86.86369,33.096579",
     "geom:latitude":33.096579,
     "geom:longitude":-86.86369,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 Dauphin St",
     "sg:city":"Montevallo",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102611345,
-    "wof:lastmodified":1449069674,
+    "wof:lastmodified":1466317379,
     "wof:name":"George Appliance Sales & Svc",
     "wof:parent_id":85914517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.86369,33.096579,-86.86369,33.096579],
-  "geometry": {"coordinates":[-86.86369,33.096579],"type":"Point"}
+  "bbox": [
+    -86.86369,
+    33.096579,
+    -86.86369,
+    33.096579
+],
+  "geometry": {"coordinates":[-86.86369000000001,33.096579],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102605957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.603254,34.780795,-86.603254,34.780795",
     "geom:latitude":34.780795,
     "geom:longitude":-86.603254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4202 Keith St NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102605957,
-    "wof:lastmodified":1449068937,
+    "wof:lastmodified":1466317242,
     "wof:name":"Bobby Here Ford",
     "wof:parent_id":85913601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.603254,34.780795,-86.603254,34.780795],
-  "geometry": {"coordinates":[-86.603254,34.780795],"type":"Point"}
+  "bbox": [
+    -86.603254,
+    34.780795,
+    -86.603254,
+    34.780795
+],
+  "geometry": {"coordinates":[-86.60325400000001,34.780795],"type":"Point"}
 }

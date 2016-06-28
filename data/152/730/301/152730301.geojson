@@ -2,13 +2,14 @@
   "id": 152730301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.381011,32.645903,-85.381011,32.645903",
     "geom:latitude":32.645903,
     "geom:longitude":-85.381011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 S 10th St",
     "sg:city":"Opelika",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85857153,
+        85688675,
         85633793,
         85913815,
         102085751,
-        85688675,
+        85857153,
         85819517
     ],
     "wof:breaches":[],
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":152730301,
-    "wof:lastmodified":1449048172,
+    "wof:lastmodified":1466319473,
     "wof:name":"Court House Square Antique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.381011,32.645903,-85.381011,32.645903],
+  "bbox": [
+    -85.381011,
+    32.645903,
+    -85.381011,
+    32.645903
+],
   "geometry": {"coordinates":[-85.381011,32.645903],"type":"Point"}
 }

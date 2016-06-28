@@ -2,13 +2,14 @@
   "id": 152367845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.493996,34.606982,-86.493996,34.606982",
     "geom:latitude":34.606982,
     "geom:longitude":-86.493996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 Cherokee Ln",
     "sg:city":"Owens Cross Rds",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820451,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85820451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152367845,
-    "wof:lastmodified":1449047031,
+    "wof:lastmodified":1466317790,
     "wof:name":"Ben Brannum Const Co",
     "wof:parent_id":85820451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.493996,34.606982,-86.493996,34.606982],
+  "bbox": [
+    -86.493996,
+    34.606982,
+    -86.493996,
+    34.606982
+],
   "geometry": {"coordinates":[-86.493996,34.606982],"type":"Point"}
 }

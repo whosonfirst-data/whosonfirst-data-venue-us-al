@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102488233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.897601,33.513429,-86.897601,33.513429",
     "geom:latitude":33.513429,
     "geom:longitude":-86.897601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"413 19th St",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -35,11 +36,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818187,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85818187
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":102488233,
-    "wof:lastmodified":1449070156,
+    "wof:lastmodified":1466315931,
     "wof:name":"Gilmer Drug Co Inc",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.897601,33.513429,-86.897601,33.513429],
-  "geometry": {"coordinates":[-86.897601,33.513429],"type":"Point"}
+  "bbox": [
+    -86.897601,
+    33.513429,
+    -86.897601,
+    33.513429
+],
+  "geometry": {"coordinates":[-86.89760099999999,33.513429],"type":"Point"}
 }

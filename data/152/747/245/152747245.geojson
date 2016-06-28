@@ -2,13 +2,14 @@
   "id": 152747245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.276529,30.742412,-88.276529,30.742412",
     "geom:latitude":30.742412,
     "geom:longitude":-88.276529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2450 Snow Rd N",
     "sg:city":"Semmes",
     "sg:classifiers":[
@@ -32,10 +33,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085585,
-        85633793,
         85688675,
-        85878987
+        85633793,
+        85878987,
+        102085585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152747245,
-    "wof:lastmodified":1449045151,
+    "wof:lastmodified":1466319696,
     "wof:name":"Pride Station The",
     "wof:parent_id":85878987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.276529,30.742412,-88.276529,30.742412],
+  "bbox": [
+    -88.276529,
+    30.742412,
+    -88.276529,
+    30.742412
+],
   "geometry": {"coordinates":[-88.276529,30.742412],"type":"Point"}
 }

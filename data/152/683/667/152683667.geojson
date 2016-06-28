@@ -2,13 +2,14 @@
   "id": 152683667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.874741,32.896029,-85.874741,32.896029",
     "geom:latitude":32.896029,
     "geom:longitude":-85.874741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 Lake Point Dr",
     "sg:city":"Jacksons Gap",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085567,
-        85633793,
         85688675,
-        85853455
+        85633793,
+        85853455,
+        102085567
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152683667,
-    "wof:lastmodified":1449046008,
+    "wof:lastmodified":1466319263,
     "wof:name":"Technical Staffing Solutions",
     "wof:parent_id":85853455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.874741,32.896029,-85.874741,32.896029],
+  "bbox": [
+    -85.874741,
+    32.896029,
+    -85.874741,
+    32.896029
+],
   "geometry": {"coordinates":[-85.874741,32.896029],"type":"Point"}
 }

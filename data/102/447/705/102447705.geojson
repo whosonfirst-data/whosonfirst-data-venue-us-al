@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102447705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.450124,32.601329,-85.450124,32.601329",
     "geom:latitude":32.601329,
     "geom:longitude":-85.450124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1430 Varner Ave",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851953,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85851953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102447705,
-    "wof:lastmodified":1449069495,
+    "wof:lastmodified":1466314550,
     "wof:name":"Ted S Kornecki",
     "wof:parent_id":85851953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.450124,32.601329,-85.450124,32.601329],
+  "bbox": [
+    -85.450124,
+    32.601329,
+    -85.450124,
+    32.601329
+],
   "geometry": {"coordinates":[-85.450124,32.601329],"type":"Point"}
 }

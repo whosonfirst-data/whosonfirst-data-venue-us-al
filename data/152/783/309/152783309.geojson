@@ -2,13 +2,14 @@
   "id": 152783309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.770119,33.763646,-85.770119,33.763646",
     "geom:latitude":33.763646,
     "geom:longitude":-85.770119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"88 Parker Dr",
     "sg:city":"Anniston",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805945,
+        85688675,
         85633793,
         85914293,
         102085603,
-        85688675
+        85805945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152783309,
-    "wof:lastmodified":1449044441,
+    "wof:lastmodified":1466319751,
     "wof:name":"Mc Nabb Mobile Home Park",
     "wof:parent_id":85805945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.770119,33.763646,-85.770119,33.763646],
-  "geometry": {"coordinates":[-85.770119,33.763646],"type":"Point"}
+  "bbox": [
+    -85.770119,
+    33.763646,
+    -85.770119,
+    33.763646
+],
+  "geometry": {"coordinates":[-85.77011899999999,33.763646],"type":"Point"}
 }

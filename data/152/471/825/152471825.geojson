@@ -2,13 +2,14 @@
   "id": 152471825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.683348,30.348544,-87.683348,30.348544",
     "geom:latitude":30.348544,
     "geom:longitude":-87.683348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8272 State Rte 59",
     "sg:city":"Foley",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868551,
+        85688675,
         85633793,
         85914719,
         102085469,
-        85688675
+        85868551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152471825,
-    "wof:lastmodified":1449046162,
+    "wof:lastmodified":1466318190,
     "wof:name":"Two Jays",
     "wof:parent_id":85868551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.683348,30.348544,-87.683348,30.348544],
+  "bbox": [
+    -87.683348,
+    30.348544,
+    -87.683348,
+    30.348544
+],
   "geometry": {"coordinates":[-87.683348,30.348544],"type":"Point"}
 }

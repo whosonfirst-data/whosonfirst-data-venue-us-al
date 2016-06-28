@@ -2,13 +2,14 @@
   "id": 119125627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.211981,30.667752,-88.211981,30.667752",
     "geom:latitude":30.667752,
     "geom:longitude":-88.211981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 Jonathan Ct",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85841857,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85841857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":119125627,
-    "wof:lastmodified":1449043470,
+    "wof:lastmodified":1466314372,
     "wof:name":"Burno Joe Photography & Video",
     "wof:parent_id":85841857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.211981,30.667752,-88.211981,30.667752],
-  "geometry": {"coordinates":[-88.211981,30.667752],"type":"Point"}
+  "bbox": [
+    -88.211981,
+    30.667752,
+    -88.211981,
+    30.667752
+],
+  "geometry": {"coordinates":[-88.21198099999999,30.667752],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152858733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.563535,33.205807,-87.563535,33.205807",
     "geom:latitude":33.205807,
     "geom:longitude":-87.563535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2111 Paul W Bryant Dr",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813829,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85813829
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152858733,
-    "wof:lastmodified":1449044762,
+    "wof:lastmodified":1466320363,
     "wof:name":"Jackie's Lounge",
     "wof:parent_id":85813829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.563535,33.205807,-87.563535,33.205807],
+  "bbox": [
+    -87.563535,
+    33.205807,
+    -87.563535,
+    33.205807
+],
   "geometry": {"coordinates":[-87.563535,33.205807],"type":"Point"}
 }

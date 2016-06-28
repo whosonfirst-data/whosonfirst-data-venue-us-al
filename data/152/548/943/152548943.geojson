@@ -2,13 +2,14 @@
   "id": 152548943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.267722,32.364086,-86.267722,32.364086",
     "geom:latitude":32.364086,
     "geom:longitude":-86.267722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2773 Zelda Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85823265,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85823265
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152548943,
-    "wof:lastmodified":1449047495,
+    "wof:lastmodified":1466318616,
     "wof:name":"Southtrust Securities Inc",
     "wof:parent_id":85823265,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.267722,32.364086,-86.267722,32.364086],
-  "geometry": {"coordinates":[-86.267722,32.364086],"type":"Point"}
+  "bbox": [
+    -86.267722,
+    32.364086,
+    -86.267722,
+    32.364086
+],
+  "geometry": {"coordinates":[-86.26772200000001,32.364086],"type":"Point"}
 }

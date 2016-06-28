@@ -2,13 +2,14 @@
   "id": 152338709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.830996,33.22669,-86.830996,33.22669",
     "geom:latitude":33.22669,
     "geom:longitude":-86.830996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 Summer Brook Ln",
     "sg:city":"Alabaster",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847439,
+        85688675,
         85633793,
         85914487,
         102085499,
-        85688675
+        85847439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152338709,
-    "wof:lastmodified":1449045904,
+    "wof:lastmodified":1466317543,
     "wof:name":"Alabama Custom Counter Tops",
     "wof:parent_id":85847439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.830996,33.22669,-86.830996,33.22669],
+  "bbox": [
+    -86.830996,
+    33.22669,
+    -86.830996,
+    33.22669
+],
   "geometry": {"coordinates":[-86.830996,33.22669],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152622385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.012153,34.012205,-86.012153,34.012205",
     "geom:latitude":34.012205,
     "geom:longitude":-86.012153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"246 S 8th St",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822279,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85822279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152622385,
-    "wof:lastmodified":1449048076,
+    "wof:lastmodified":1466318947,
     "wof:name":"Tameria S Driskill LLC",
     "wof:parent_id":85822279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.012153,34.012205,-86.012153,34.012205],
+  "bbox": [
+    -86.012153,
+    34.012205,
+    -86.012153,
+    34.012205
+],
   "geometry": {"coordinates":[-86.012153,34.012205],"type":"Point"}
 }

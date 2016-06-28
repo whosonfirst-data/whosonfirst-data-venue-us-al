@@ -2,13 +2,14 @@
   "id": 152129785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.427793,33.286797,-86.427793,33.286797",
     "geom:latitude":33.286797,
     "geom:longitude":-86.427793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1815 Klein Rd",
     "sg:city":"Harpersville",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85841999
+        85633793,
+        85841999,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152129785,
-    "wof:lastmodified":1449048033,
+    "wof:lastmodified":1466315502,
     "wof:name":"World Class Kennels LLC",
     "wof:parent_id":85841999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.427793,33.286797,-86.427793,33.286797],
-  "geometry": {"coordinates":[-86.427793,33.286797],"type":"Point"}
+  "bbox": [
+    -86.427793,
+    33.286797,
+    -86.427793,
+    33.286797
+],
+  "geometry": {"coordinates":[-86.42779299999999,33.286797],"type":"Point"}
 }

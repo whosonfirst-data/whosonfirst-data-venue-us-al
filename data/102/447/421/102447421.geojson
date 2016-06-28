@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102447421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.863427,34.180938,-86.863427,34.180938",
     "geom:latitude":34.180938,
     "geom:longitude":-86.863427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1632 Katherine St NW",
     "sg:city":"Cullman",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085729,
-        85633793,
         85688675,
-        85867309
+        85633793,
+        85867309,
+        102085729
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102447421,
-    "wof:lastmodified":1449069494,
+    "wof:lastmodified":1466314494,
     "wof:name":"Cullman Aeromodelers",
     "wof:parent_id":85867309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.863427,34.180938,-86.863427,34.180938],
+  "bbox": [
+    -86.863427,
+    34.180938,
+    -86.863427,
+    34.180938
+],
   "geometry": {"coordinates":[-86.863427,34.180938],"type":"Point"}
 }

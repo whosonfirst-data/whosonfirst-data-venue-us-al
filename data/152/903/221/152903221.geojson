@@ -2,13 +2,14 @@
   "id": 152903221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.252815,32.62826,-86.252815,32.62826",
     "geom:latitude":32.62826,
     "geom:longitude":-86.252815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1240 Jordan Dam Rd",
     "sg:city":"Wetumpka",
     "sg:classifiers":[
@@ -25,10 +26,10 @@
     "sg:website":"www.campchandler.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085631,
-        85633793,
         85688675,
-        85843379
+        85633793,
+        85843379,
+        102085631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":152903221,
-    "wof:lastmodified":1449044574,
+    "wof:lastmodified":1466320338,
     "wof:name":"YMCA Camp Chandler",
     "wof:parent_id":85843379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.252815,32.62826,-86.252815,32.62826],
+  "bbox": [
+    -86.252815,
+    32.62826,
+    -86.252815,
+    32.62826
+],
   "geometry": {"coordinates":[-86.252815,32.62826],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102626045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.734568,34.736625,-86.734568,34.736625",
     "geom:latitude":34.736625,
     "geom:longitude":-86.734568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Concord Dr",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851107,
+        85688675,
         85633793,
         85913593,
         102085487,
-        85688675
+        85851107
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102626045,
-    "wof:lastmodified":1449070212,
+    "wof:lastmodified":1466317430,
     "wof:name":"Hungryprogrammer LLC",
     "wof:parent_id":85851107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.734568,34.736625,-86.734568,34.736625],
+  "bbox": [
+    -86.734568,
+    34.736625,
+    -86.734568,
+    34.736625
+],
   "geometry": {"coordinates":[-86.734568,34.736625],"type":"Point"}
 }

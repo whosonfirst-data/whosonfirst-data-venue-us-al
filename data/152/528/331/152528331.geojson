@@ -2,13 +2,14 @@
   "id": 152528331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.60716,33.182022,-86.60716,33.182022",
     "geom:latitude":33.182022,
     "geom:longitude":-86.60716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 N Main St",
     "sg:city":"Columbiana",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825591,
+        85688675,
         85633793,
         85914497,
         102085499,
-        85688675
+        85825591
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152528331,
-    "wof:lastmodified":1449045537,
+    "wof:lastmodified":1466318546,
     "wof:name":"City Recreation Ctr",
     "wof:parent_id":85825591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.60716,33.182022,-86.60716,33.182022],
-  "geometry": {"coordinates":[-86.60716,33.182022],"type":"Point"}
+  "bbox": [
+    -86.60716,
+    33.182022,
+    -86.60716,
+    33.182022
+],
+  "geometry": {"coordinates":[-86.60715999999999,33.182022],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152826279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.397253,31.223138,-85.397253,31.223138",
     "geom:latitude":31.223138,
     "geom:longitude":-85.397253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 S Alice St",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852069,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85852069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152826279,
-    "wof:lastmodified":1449047655,
+    "wof:lastmodified":1466320110,
     "wof:name":"State Investigations",
     "wof:parent_id":85852069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.397253,31.223138,-85.397253,31.223138],
-  "geometry": {"coordinates":[-85.397253,31.223138],"type":"Point"}
+  "bbox": [
+    -85.397253,
+    31.223138,
+    -85.397253,
+    31.223138
+],
+  "geometry": {"coordinates":[-85.39725300000001,31.223138],"type":"Point"}
 }

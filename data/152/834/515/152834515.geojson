@@ -2,13 +2,14 @@
   "id": 152834515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.690258,30.253567,-87.690258,30.253567",
     "geom:latitude":30.253567,
     "geom:longitude":-87.690258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 Windmill Ridge Rd",
     "sg:city":"Gulf Shores",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868551,
+        85688675,
         85633793,
         85914719,
         102085469,
-        85688675
+        85868551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152834515,
-    "wof:lastmodified":1449044730,
+    "wof:lastmodified":1466320137,
     "wof:name":"Kutter's Grounds Maintenance",
     "wof:parent_id":85868551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.690258,30.253567,-87.690258,30.253567],
+  "bbox": [
+    -87.690258,
+    30.253567,
+    -87.690258,
+    30.253567
+],
   "geometry": {"coordinates":[-87.690258,30.253567],"type":"Point"}
 }

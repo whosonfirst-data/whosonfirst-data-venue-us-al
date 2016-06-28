@@ -2,13 +2,14 @@
   "id": 102627281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.374096,32.507981,-86.374096,32.507981",
     "geom:latitude":32.507981,
     "geom:longitude":-86.374096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5760 Main St",
     "sg:city":"Millbrook",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102627281,
-    "wof:lastmodified":1449070262,
+    "wof:lastmodified":1466317444,
     "wof:name":"Extended Day",
     "wof:parent_id":85913981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.374096,32.507981,-86.374096,32.507981],
-  "geometry": {"coordinates":[-86.374096,32.507981],"type":"Point"}
+  "bbox": [
+    -86.374096,
+    32.507981,
+    -86.374096,
+    32.507981
+],
+  "geometry": {"coordinates":[-86.37409599999999,32.507981],"type":"Point"}
 }

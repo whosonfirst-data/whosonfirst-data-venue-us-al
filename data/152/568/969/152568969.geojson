@@ -2,13 +2,14 @@
   "id": 152568969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.682403,34.762459,-87.682403,34.762459",
     "geom:latitude":34.762459,
     "geom:longitude":-87.682403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2814 N Jackson Hwy",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848135,
+        85688675,
         85633793,
         85897473,
         102085625,
-        85688675
+        85848135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152568969,
-    "wof:lastmodified":1449044174,
+    "wof:lastmodified":1466318737,
     "wof:name":"Bricklayers & Allied Craftsman",
     "wof:parent_id":85848135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.682403,34.762459,-87.682403,34.762459],
-  "geometry": {"coordinates":[-87.682403,34.762459],"type":"Point"}
+  "bbox": [
+    -87.682403,
+    34.762459,
+    -87.682403,
+    34.762459
+],
+  "geometry": {"coordinates":[-87.68240299999999,34.762459],"type":"Point"}
 }

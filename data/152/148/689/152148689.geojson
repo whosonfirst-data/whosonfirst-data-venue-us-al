@@ -2,13 +2,14 @@
   "id": 152148689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.834099,31.335476,-85.834099,31.335476",
     "geom:latitude":31.335476,
     "geom:longitude":-85.834099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 Lake Oliver Dr",
     "sg:city":"Enterprise",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825461,
+        85688675,
         85633793,
         85899527,
         102085699,
-        85688675
+        85825461
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152148689,
-    "wof:lastmodified":1449048195,
+    "wof:lastmodified":1466314462,
     "wof:name":"James A Brown",
     "wof:parent_id":85825461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.834099,31.335476,-85.834099,31.335476],
-  "geometry": {"coordinates":[-85.834099,31.335476],"type":"Point"}
+  "bbox": [
+    -85.834099,
+    31.335476,
+    -85.834099,
+    31.335476
+],
+  "geometry": {"coordinates":[-85.83409899999999,31.335476],"type":"Point"}
 }

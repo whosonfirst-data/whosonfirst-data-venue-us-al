@@ -2,13 +2,14 @@
   "id": 152730919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.80063,33.465147,-86.80063,33.465147",
     "geom:latitude":33.465147,
     "geom:longitude":-86.80063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"441 Crest Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858233,
+        85688675,
         85633793,
         85914847,
         102085481,
-        85688675
+        85858233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152730919,
-    "wof:lastmodified":1449048175,
+    "wof:lastmodified":1466319550,
     "wof:name":"McConnell Forestlands LLC",
     "wof:parent_id":85858233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.80063,33.465147,-86.80063,33.465147],
+  "bbox": [
+    -86.80063,
+    33.465147,
+    -86.80063,
+    33.465147
+],
   "geometry": {"coordinates":[-86.80063,33.465147],"type":"Point"}
 }

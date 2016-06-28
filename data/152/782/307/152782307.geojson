@@ -2,13 +2,14 @@
   "id": 152782307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.729208,34.76707,-86.729208,34.76707",
     "geom:latitude":34.76707,
     "geom:longitude":-86.729208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Southridge Dr",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851107,
+        85688675,
         85633793,
         85913593,
         102085487,
-        85688675
+        85851107
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152782307,
-    "wof:lastmodified":1449044265,
+    "wof:lastmodified":1466319816,
     "wof:name":"Online Place Inc",
     "wof:parent_id":85851107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.729208,34.76707,-86.729208,34.76707],
+  "bbox": [
+    -86.729208,
+    34.76707,
+    -86.729208,
+    34.76707
+],
   "geometry": {"coordinates":[-86.729208,34.76707],"type":"Point"}
 }

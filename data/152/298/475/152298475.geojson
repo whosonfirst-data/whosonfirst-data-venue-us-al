@@ -2,13 +2,14 @@
   "id": 152298475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.004422,34.013381,-86.004422,34.013381",
     "geom:latitude":34.013381,
     "geom:longitude":-86.004422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"434 Broad St",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822279,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85822279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152298475,
-    "wof:lastmodified":1449045549,
+    "wof:lastmodified":1466317069,
     "wof:name":"Gadsden Primative Bapt Church",
     "wof:parent_id":85822279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.004422,34.013381,-86.004422,34.013381],
-  "geometry": {"coordinates":[-86.004422,34.013381],"type":"Point"}
+  "bbox": [
+    -86.004422,
+    34.013381,
+    -86.004422,
+    34.013381
+],
+  "geometry": {"coordinates":[-86.00442200000001,34.013381],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152237491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.293062,34.358733,-86.293062,34.358733",
     "geom:latitude":34.358733,
     "geom:longitude":-86.293062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"424 Blount Ave",
     "sg:city":"Guntersville",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.marshallco.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850331,
+        85688675,
         85633793,
         85899833,
         102085513,
-        85688675
+        85850331
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152237491,
-    "wof:lastmodified":1449044404,
+    "wof:lastmodified":1466316462,
     "wof:name":"Marshall County Tax Collector",
     "wof:parent_id":85850331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.293062,34.358733,-86.293062,34.358733],
-  "geometry": {"coordinates":[-86.293062,34.358733],"type":"Point"}
+  "bbox": [
+    -86.293062,
+    34.358733,
+    -86.293062,
+    34.358733
+],
+  "geometry": {"coordinates":[-86.29306200000001,34.358733],"type":"Point"}
 }

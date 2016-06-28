@@ -2,13 +2,14 @@
   "id": 152710575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.273516,32.421707,-86.273516,32.421707",
     "geom:latitude":32.421707,
     "geom:longitude":-86.273516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2301 Coliseum Pkwy",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152710575,
-    "wof:lastmodified":1449044585,
+    "wof:lastmodified":1466319415,
     "wof:name":"Montgomery Zoo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.273516,32.421707,-86.273516,32.421707],
+  "bbox": [
+    -86.273516,
+    32.421707,
+    -86.273516,
+    32.421707
+],
   "geometry": {"coordinates":[-86.273516,32.421707],"type":"Point"}
 }

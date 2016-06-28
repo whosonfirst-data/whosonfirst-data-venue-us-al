@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102489343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.247199,32.319682,-86.247199,32.319682",
     "geom:latitude":32.319682,
     "geom:longitude":-86.247199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3000 Southmall Cir",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879047,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102489343,
-    "wof:lastmodified":1449069059,
+    "wof:lastmodified":1466315965,
     "wof:name":"Southmall Apartments",
     "wof:parent_id":85879047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.247199,32.319682,-86.247199,32.319682],
-  "geometry": {"coordinates":[-86.247199,32.319682],"type":"Point"}
+  "bbox": [
+    -86.247199,
+    32.319682,
+    -86.247199,
+    32.319682
+],
+  "geometry": {"coordinates":[-86.24719899999999,32.319682],"type":"Point"}
 }

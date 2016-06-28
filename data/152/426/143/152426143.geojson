@@ -2,13 +2,14 @@
   "id": 152426143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.571466,34.846082,-86.571466,34.846082",
     "geom:latitude":34.846082,
     "geom:longitude":-86.571466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11525 US Hwy 431",
     "sg:city":"Meridianville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85810031,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85810031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152426143,
-    "wof:lastmodified":1449045289,
+    "wof:lastmodified":1466317951,
     "wof:name":"Pete's Contracting Group LLC",
     "wof:parent_id":85810031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.571466,34.846082,-86.571466,34.846082],
+  "bbox": [
+    -86.571466,
+    34.846082,
+    -86.571466,
+    34.846082
+],
   "geometry": {"coordinates":[-86.571466,34.846082],"type":"Point"}
 }

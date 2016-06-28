@@ -2,13 +2,14 @@
   "id": 152295625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.896021,30.571879,-87.896021,30.571879",
     "geom:latitude":30.571879,
     "geom:longitude":-87.896021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23800 US Hwy 98",
     "sg:city":"Fairhope",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847563,
+        85688675,
         85633793,
         85914707,
         102085469,
-        85688675
+        85847563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152295625,
-    "wof:lastmodified":1449046187,
+    "wof:lastmodified":1466317077,
     "wof:name":"Vastera",
     "wof:parent_id":85847563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.896021,30.571879,-87.896021,30.571879],
+  "bbox": [
+    -87.896021,
+    30.571879,
+    -87.896021,
+    30.571879
+],
   "geometry": {"coordinates":[-87.896021,30.571879],"type":"Point"}
 }

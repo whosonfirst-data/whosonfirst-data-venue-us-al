@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102452383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.572718,33.205898,-87.572718,33.205898",
     "geom:latitude":33.205898,
     "geom:longitude":-87.572718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"714 28th Ave",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816127,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85816127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102452383,
-    "wof:lastmodified":1449068365,
+    "wof:lastmodified":1466314715,
     "wof:name":"Balloons Galore",
     "wof:parent_id":85816127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.572718,33.205898,-87.572718,33.205898],
-  "geometry": {"coordinates":[-87.572718,33.205898],"type":"Point"}
+  "bbox": [
+    -87.572718,
+    33.205898,
+    -87.572718,
+    33.205898
+],
+  "geometry": {"coordinates":[-87.57271799999999,33.205898],"type":"Point"}
 }

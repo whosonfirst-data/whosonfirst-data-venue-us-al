@@ -2,13 +2,14 @@
   "id": 152571783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.646463,34.744444,-86.646463,34.744444",
     "geom:latitude":34.744444,
     "geom:longitude":-86.646463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1641 Sparkman Dr NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851401,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85851401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152571783,
-    "wof:lastmodified":1449047454,
+    "wof:lastmodified":1466318744,
     "wof:name":"Cosmos Fitness",
     "wof:parent_id":85851401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.646463,34.744444,-86.646463,34.744444],
+  "bbox": [
+    -86.646463,
+    34.744444,
+    -86.646463,
+    34.744444
+],
   "geometry": {"coordinates":[-86.646463,34.744444],"type":"Point"}
 }

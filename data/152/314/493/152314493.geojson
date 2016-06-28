@@ -2,13 +2,14 @@
   "id": 152314493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.173363,34.168412,-86.173363,34.168412",
     "geom:latitude":34.168412,
     "geom:longitude":-86.173363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1610 Pleasant Hill Rd",
     "sg:city":"Boaz",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085545,
-        85633793,
         85688675,
-        85851221
+        85633793,
+        85851221,
+        102085545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152314493,
-    "wof:lastmodified":1449048719,
+    "wof:lastmodified":1466317263,
     "wof:name":"Kinney Trucking",
     "wof:parent_id":85851221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.173363,34.168412,-86.173363,34.168412],
-  "geometry": {"coordinates":[-86.173363,34.168412],"type":"Point"}
+  "bbox": [
+    -86.173363,
+    34.168412,
+    -86.173363,
+    34.168412
+],
+  "geometry": {"coordinates":[-86.17336299999999,34.168412],"type":"Point"}
 }

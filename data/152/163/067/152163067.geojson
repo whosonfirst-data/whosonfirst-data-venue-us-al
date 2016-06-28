@@ -2,13 +2,14 @@
   "id": 152163067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.018956,34.010562,-86.018956,34.010562",
     "geom:latitude":34.010562,
     "geom:longitude":-86.018956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"809 S 11th St",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805515,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675,
+        85805515,
         85822279
     ],
     "wof:breaches":[],
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":152163067,
-    "wof:lastmodified":1449048806,
+    "wof:lastmodified":1466315285,
     "wof:name":"Pl Callfor Info 2565468050",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.018956,34.010562,-86.018956,34.010562],
+  "bbox": [
+    -86.018956,
+    34.010562,
+    -86.018956,
+    34.010562
+],
   "geometry": {"coordinates":[-86.018956,34.010562],"type":"Point"}
 }

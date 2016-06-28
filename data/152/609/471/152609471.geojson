@@ -2,13 +2,14 @@
   "id": 152609471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.812877,33.258127,-86.812877,33.258127",
     "geom:latitude":33.258127,
     "geom:longitude":-86.812877,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1205 1st St N",
     "sg:city":"Alabaster",
     "sg:classifiers":[
@@ -24,13 +25,13 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828267,
+        85688675,
         85633793,
         85914501,
         102085499,
-        85688675,
-        85847439,
-        85914487
+        85828267,
+        85914487,
+        85847439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":152609471,
-    "wof:lastmodified":1449046025,
+    "wof:lastmodified":1466318869,
     "wof:name":"Pavillion Restaurant & Buffett",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.812877,33.258127,-86.812877,33.258127],
+  "bbox": [
+    -86.812877,
+    33.258127,
+    -86.812877,
+    33.258127
+],
   "geometry": {"coordinates":[-86.812877,33.258127],"type":"Point"}
 }

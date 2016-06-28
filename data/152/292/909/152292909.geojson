@@ -2,13 +2,14 @@
   "id": 152292909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.519176,33.273118,-87.519176,33.273118",
     "geom:latitude":33.273118,
     "geom:longitude":-87.519176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 Greystone Dr",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829313,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85829313
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152292909,
-    "wof:lastmodified":1449044690,
+    "wof:lastmodified":1466317042,
     "wof:name":"Alicats Resort Wear",
     "wof:parent_id":85829313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.519176,33.273118,-87.519176,33.273118],
+  "bbox": [
+    -87.519176,
+    33.273118,
+    -87.519176,
+    33.273118
+],
   "geometry": {"coordinates":[-87.519176,33.273118],"type":"Point"}
 }

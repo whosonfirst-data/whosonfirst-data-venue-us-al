@@ -2,13 +2,14 @@
   "id": 152776759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.012384,34.129351,-86.012384,34.129351",
     "geom:latitude":34.129351,
     "geom:longitude":-86.012384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9011 Duck Springs Rd",
     "sg:city":"Attalla",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802495,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85802495
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152776759,
-    "wof:lastmodified":1449045313,
+    "wof:lastmodified":1466319810,
     "wof:name":"Juanita Stanford Farm",
     "wof:parent_id":85802495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.012384,34.129351,-86.012384,34.129351],
+  "bbox": [
+    -86.012384,
+    34.129351,
+    -86.012384,
+    34.129351
+],
   "geometry": {"coordinates":[-86.012384,34.129351],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152444321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.38742,31.221853,-85.38742,31.221853",
     "geom:latitude":31.221853,
     "geom:longitude":-85.38742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 E Crawford St",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847911,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85847911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152444321,
-    "wof:lastmodified":1449048285,
+    "wof:lastmodified":1466318049,
     "wof:name":"AAA Cab Co",
     "wof:parent_id":85847911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.38742,31.221853,-85.38742,31.221853],
-  "geometry": {"coordinates":[-85.38742,31.221853],"type":"Point"}
+  "bbox": [
+    -85.38742,
+    31.221853,
+    -85.38742,
+    31.221853
+],
+  "geometry": {"coordinates":[-85.38742000000001,31.221853],"type":"Point"}
 }

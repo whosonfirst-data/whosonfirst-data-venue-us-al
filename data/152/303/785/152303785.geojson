@@ -2,13 +2,14 @@
   "id": 152303785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.23039,32.420238,-86.23039,32.420238",
     "geom:latitude":32.420238,
     "geom:longitude":-86.23039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2615 Cong W L Dickinson Dr",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827567,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85827567
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152303785,
-    "wof:lastmodified":1449044338,
+    "wof:lastmodified":1466317163,
     "wof:name":"Northchase Chevron",
     "wof:parent_id":85827567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.23039,32.420238,-86.23039,32.420238],
+  "bbox": [
+    -86.23039,
+    32.420238,
+    -86.23039,
+    32.420238
+],
   "geometry": {"coordinates":[-86.23039,32.420238],"type":"Point"}
 }

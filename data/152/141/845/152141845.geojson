@@ -2,13 +2,14 @@
   "id": 152141845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.855271,33.335235,-86.855271,33.335235",
     "geom:latitude":33.335235,
     "geom:longitude":-86.855271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5487 Stadium Trace Pkwy",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.discoveryumc.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829763,
+        85688675,
         85633793,
         85914475,
         102085481,
-        85688675
+        85829763
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152141845,
-    "wof:lastmodified":1449045926,
+    "wof:lastmodified":1466314412,
     "wof:name":"Discovery United Methodist Chr",
     "wof:parent_id":85829763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.855271,33.335235,-86.855271,33.335235],
+  "bbox": [
+    -86.855271,
+    33.335235,
+    -86.855271,
+    33.335235
+],
   "geometry": {"coordinates":[-86.855271,33.335235],"type":"Point"}
 }

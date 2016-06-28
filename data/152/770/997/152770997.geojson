@@ -2,13 +2,14 @@
   "id": 152770997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.490186,33.561518,-86.490186,33.561518",
     "geom:latitude":33.561518,
     "geom:longitude":-86.490186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"193 Dragline Ln",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807031,
+        85688675,
         85633793,
         85913421,
         102085647,
-        85688675
+        85807031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152770997,
-    "wof:lastmodified":1449048983,
+    "wof:lastmodified":1466319583,
     "wof:name":"J Scott Contracting Inc",
     "wof:parent_id":85807031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.490186,33.561518,-86.490186,33.561518],
-  "geometry": {"coordinates":[-86.490186,33.561518],"type":"Point"}
+  "bbox": [
+    -86.490186,
+    33.561518,
+    -86.490186,
+    33.561518
+],
+  "geometry": {"coordinates":[-86.49018599999999,33.561518],"type":"Point"}
 }

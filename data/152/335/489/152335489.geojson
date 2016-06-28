@@ -2,13 +2,14 @@
   "id": 152335489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.490751,33.186416,-87.490751,33.186416",
     "geom:latitude":33.186416,
     "geom:longitude":-87.490751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2421 Woodland Rd",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831771,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85831771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152335489,
-    "wof:lastmodified":1449047346,
+    "wof:lastmodified":1466317409,
     "wof:name":"Community Transition Services",
     "wof:parent_id":85831771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.490751,33.186416,-87.490751,33.186416],
+  "bbox": [
+    -87.490751,
+    33.186416,
+    -87.490751,
+    33.186416
+],
   "geometry": {"coordinates":[-87.490751,33.186416],"type":"Point"}
 }

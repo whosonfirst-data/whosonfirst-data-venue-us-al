@@ -2,13 +2,14 @@
   "id": 152761579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.02929,32.630023,-86.02929,32.630023",
     "geom:latitude":32.630023,
     "geom:longitude":-86.02929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Harden St",
     "sg:city":"Eclectic",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827623,
+        85688675,
         85633793,
         85913291,
         102085631,
-        85688675
+        85827623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152761579,
-    "wof:lastmodified":1449047817,
+    "wof:lastmodified":1466319644,
     "wof:name":"Eclectic Elementary School",
     "wof:parent_id":85827623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.02929,32.630023,-86.02929,32.630023],
+  "bbox": [
+    -86.02929,
+    32.630023,
+    -86.02929,
+    32.630023
+],
   "geometry": {"coordinates":[-86.02929,32.630023],"type":"Point"}
 }

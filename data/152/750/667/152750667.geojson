@@ -2,13 +2,14 @@
   "id": 152750667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.480247,32.610488,-85.480247,32.610488",
     "geom:latitude":32.610488,
     "geom:longitude":-85.480247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Mitcham Ave",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809707,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85809707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152750667,
-    "wof:lastmodified":1449047089,
+    "wof:lastmodified":1466319594,
     "wof:name":"Polidoro Insurance",
     "wof:parent_id":85809707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.480247,32.610488,-85.480247,32.610488],
-  "geometry": {"coordinates":[-85.480247,32.610488],"type":"Point"}
+  "bbox": [
+    -85.480247,
+    32.610488,
+    -85.480247,
+    32.610488
+],
+  "geometry": {"coordinates":[-85.48024700000001,32.610488],"type":"Point"}
 }

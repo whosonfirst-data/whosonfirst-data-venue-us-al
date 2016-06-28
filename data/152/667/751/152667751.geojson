@@ -2,13 +2,14 @@
   "id": 152667751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.812541,33.633588,-85.812541,33.633588",
     "geom:latitude":33.633588,
     "geom:longitude":-85.812541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 Hillyer High Rd",
     "sg:city":"Anniston",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.bamacellular.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806515,
+        85688675,
         85633793,
         85914159,
         102085603,
-        85688675
+        85806515
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152667751,
-    "wof:lastmodified":1449047319,
+    "wof:lastmodified":1466319207,
     "wof:name":"Bama Cellular Phones",
     "wof:parent_id":85806515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.812541,33.633588,-85.812541,33.633588],
+  "bbox": [
+    -85.812541,
+    33.633588,
+    -85.812541,
+    33.633588
+],
   "geometry": {"coordinates":[-85.812541,33.633588],"type":"Point"}
 }

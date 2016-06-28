@@ -2,13 +2,14 @@
   "id": 152401117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.609007,34.715342,-86.609007,34.715342",
     "geom:latitude":34.715342,
     "geom:longitude":-86.609007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2409 Triana Blvd SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85855713,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85855713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152401117,
-    "wof:lastmodified":1449048234,
+    "wof:lastmodified":1466317826,
     "wof:name":"Davies Auto Svc Ctr",
     "wof:parent_id":85855713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.609007,34.715342,-86.609007,34.715342],
-  "geometry": {"coordinates":[-86.609007,34.715342],"type":"Point"}
+  "bbox": [
+    -86.609007,
+    34.715342,
+    -86.609007,
+    34.715342
+],
+  "geometry": {"coordinates":[-86.60900700000001,34.715342],"type":"Point"}
 }

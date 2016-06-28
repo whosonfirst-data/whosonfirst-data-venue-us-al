@@ -2,13 +2,14 @@
   "id": 152439059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.570394,34.66005,-86.570394,34.66005",
     "geom:latitude":34.66005,
     "geom:longitude":-86.570394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8000 Memorial Pkwy SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85830495,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85830495
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":152439059,
-    "wof:lastmodified":1449045575,
+    "wof:lastmodified":1466317887,
     "wof:name":"Hi Tech Fuel",
     "wof:parent_id":85830495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.570394,34.66005,-86.570394,34.66005],
-  "geometry": {"coordinates":[-86.570394,34.66005],"type":"Point"}
+  "bbox": [
+    -86.570394,
+    34.66005,
+    -86.570394,
+    34.66005
+],
+  "geometry": {"coordinates":[-86.57039399999999,34.66005],"type":"Point"}
 }

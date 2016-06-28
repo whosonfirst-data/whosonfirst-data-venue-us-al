@@ -2,13 +2,14 @@
   "id": 152179981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.34641,32.374477,-86.34641,32.374477",
     "geom:latitude":32.374477,
     "geom:longitude":-86.34641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1981 Bell St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856867,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85856867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152179981,
-    "wof:lastmodified":1449048456,
+    "wof:lastmodified":1466315699,
     "wof:name":"CB Wholesale & Used Cars",
     "wof:parent_id":85856867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.34641,32.374477,-86.34641,32.374477],
-  "geometry": {"coordinates":[-86.34641,32.374477],"type":"Point"}
+  "bbox": [
+    -86.34641,
+    32.374477,
+    -86.34641,
+    32.374477
+],
+  "geometry": {"coordinates":[-86.34641000000001,32.374477],"type":"Point"}
 }

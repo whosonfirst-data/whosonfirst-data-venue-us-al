@@ -2,13 +2,14 @@
   "id": 152737405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.824566,33.272705,-86.824566,33.272705",
     "geom:latitude":33.272705,
     "geom:longitude":-86.824566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1806 Man O War Dr",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828267,
+        85688675,
         85633793,
         85914501,
         102085499,
-        85688675
+        85828267
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152737405,
-    "wof:lastmodified":1449045337,
+    "wof:lastmodified":1466319527,
     "wof:name":"D Right Vending",
     "wof:parent_id":85828267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.824566,33.272705,-86.824566,33.272705],
+  "bbox": [
+    -86.824566,
+    33.272705,
+    -86.824566,
+    33.272705
+],
   "geometry": {"coordinates":[-86.824566,33.272705],"type":"Point"}
 }

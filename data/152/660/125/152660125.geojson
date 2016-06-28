@@ -2,13 +2,14 @@
   "id": 152660125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.825003,30.52357,-87.825003,30.52357",
     "geom:latitude":30.52357,
     "geom:longitude":-87.825003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11632 Co Rd 48",
     "sg:city":"Fairhope",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854025,
+        85688675,
         85633793,
         85914707,
         102085469,
-        85688675
+        85854025
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152660125,
-    "wof:lastmodified":1449048448,
+    "wof:lastmodified":1466319147,
     "wof:name":"Print-N-Press",
     "wof:parent_id":85854025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.825003,30.52357,-87.825003,30.52357],
+  "bbox": [
+    -87.825003,
+    30.52357,
+    -87.825003,
+    30.52357
+],
   "geometry": {"coordinates":[-87.825003,30.52357],"type":"Point"}
 }

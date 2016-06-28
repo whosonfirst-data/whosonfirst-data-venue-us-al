@@ -2,13 +2,14 @@
   "id": 119123957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.858074,33.427452,-86.858074,33.427452",
     "geom:latitude":33.427452,
     "geom:longitude":-86.858074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 Vancouver Ct",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840093,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85840093
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":119123957,
-    "wof:lastmodified":1449041578,
+    "wof:lastmodified":1466314341,
     "wof:name":"A & T Svc",
     "wof:parent_id":85840093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.858074,33.427452,-86.858074,33.427452],
+  "bbox": [
+    -86.858074,
+    33.427452,
+    -86.858074,
+    33.427452
+],
   "geometry": {"coordinates":[-86.858074,33.427452],"type":"Point"}
 }

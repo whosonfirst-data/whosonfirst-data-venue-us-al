@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102470681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.685327,33.61608,-86.685327,33.61608",
     "geom:latitude":33.61608,
     "geom:longitude":-86.685327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1255 Center Point Pkwy",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -30,10 +31,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085481,
-        85633793,
         85688675,
-        85816403
+        85633793,
+        85816403,
+        102085481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102470681,
-    "wof:lastmodified":1449068375,
+    "wof:lastmodified":1466315309,
     "wof:name":"Eastern Glass & Trim",
     "wof:parent_id":85816403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.685327,33.61608,-86.685327,33.61608],
+  "bbox": [
+    -86.685327,
+    33.61608,
+    -86.685327,
+    33.61608
+],
   "geometry": {"coordinates":[-86.685327,33.61608],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152802525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.705795,33.600486,-86.705795,33.600486",
     "geom:latitude":33.600486,
     "geom:longitude":-86.705795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"264 Roebuck Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152802525,
-    "wof:lastmodified":1449048057,
+    "wof:lastmodified":1466319862,
     "wof:name":"Hillsview Seventh Day Adventis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.705795,33.600486,-86.705795,33.600486],
-  "geometry": {"coordinates":[-86.705795,33.600486],"type":"Point"}
+  "bbox": [
+    -86.705795,
+    33.600486,
+    -86.705795,
+    33.600486
+],
+  "geometry": {"coordinates":[-86.70579499999999,33.600486],"type":"Point"}
 }

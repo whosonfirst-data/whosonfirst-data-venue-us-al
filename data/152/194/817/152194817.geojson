@@ -2,13 +2,14 @@
   "id": 152194817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.279934,32.331049,-86.279934,32.331049",
     "geom:latitude":32.331049,
     "geom:longitude":-86.279934,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2029 Mona Lisa Dr",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842989,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85842989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152194817,
-    "wof:lastmodified":1449048249,
+    "wof:lastmodified":1466315867,
     "wof:name":"Tamara L Devine",
     "wof:parent_id":85842989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.279934,32.331049,-86.279934,32.331049],
+  "bbox": [
+    -86.279934,
+    32.331049,
+    -86.279934,
+    32.331049
+],
   "geometry": {"coordinates":[-86.279934,32.331049],"type":"Point"}
 }

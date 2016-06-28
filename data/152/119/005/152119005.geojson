@@ -2,13 +2,14 @@
   "id": 152119005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.665319,34.858438,-87.665319,34.858438",
     "geom:latitude":34.858438,
     "geom:longitude":-87.665319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"450 Rose Dr",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85832603,
+        85688675,
         85633793,
         85914011,
         102085527,
-        85688675
+        85832603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152119005,
-    "wof:lastmodified":1449047605,
+    "wof:lastmodified":1466314494,
     "wof:name":"Smith General Contractors LLC",
     "wof:parent_id":85832603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.665319,34.858438,-87.665319,34.858438],
+  "bbox": [
+    -87.665319,
+    34.858438,
+    -87.665319,
+    34.858438
+],
   "geometry": {"coordinates":[-87.665319,34.858438],"type":"Point"}
 }

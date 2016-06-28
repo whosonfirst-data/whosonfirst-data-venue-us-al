@@ -2,13 +2,14 @@
   "id": 152326019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.49926,32.573684,-85.49926,32.573684",
     "geom:latitude":32.573684,
     "geom:longitude":-85.49926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1646 S College St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851115,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85851115
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152326019,
-    "wof:lastmodified":1449046277,
+    "wof:lastmodified":1466317341,
     "wof:name":"Broadaway Tire & Auto Inc",
     "wof:parent_id":85851115,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.49926,32.573684,-85.49926,32.573684],
-  "geometry": {"coordinates":[-85.49926,32.573684],"type":"Point"}
+  "bbox": [
+    -85.49926,
+    32.573684,
+    -85.49926,
+    32.573684
+],
+  "geometry": {"coordinates":[-85.49926000000001,32.573684],"type":"Point"}
 }

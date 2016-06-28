@@ -2,13 +2,14 @@
   "id": 152157071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.820192,33.237254,-86.820192,33.237254",
     "geom:latitude":33.237254,
     "geom:longitude":-86.820192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"691 Montevallo Rd",
     "sg:city":"Alabaster",
     "sg:classifiers":[
@@ -34,12 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
+        85633793,
         85853623,
-        85847439,
-        85914487
+        102085499,
+        85914487,
+        85847439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,14 +66,20 @@
         }
     ],
     "wof:id":152157071,
-    "wof:lastmodified":1449048263,
+    "wof:lastmodified":1466314934,
     "wof:name":"Amoco Food Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.820192,33.237254,-86.820192,33.237254],
-  "geometry": {"coordinates":[-86.820192,33.237254],"type":"Point"}
+  "bbox": [
+    -86.820192,
+    33.237254,
+    -86.820192,
+    33.237254
+],
+  "geometry": {"coordinates":[-86.82019200000001,33.237254],"type":"Point"}
 }

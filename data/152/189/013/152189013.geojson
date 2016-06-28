@@ -2,13 +2,14 @@
   "id": 152189013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.934816,33.50152,-86.934816,33.50152",
     "geom:latitude":33.50152,
     "geom:longitude":-86.934816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5429 11th Ave",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818869,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85818869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152189013,
-    "wof:lastmodified":1449047566,
+    "wof:lastmodified":1466315731,
     "wof:name":"Diverse Concepts",
     "wof:parent_id":85818869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.934816,33.50152,-86.934816,33.50152],
+  "bbox": [
+    -86.934816,
+    33.50152,
+    -86.934816,
+    33.50152
+],
   "geometry": {"coordinates":[-86.934816,33.50152],"type":"Point"}
 }

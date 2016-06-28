@@ -2,13 +2,14 @@
   "id": 152598597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.055958,32.453208,-86.055958,32.453208",
     "geom:latitude":32.453208,
     "geom:longitude":-86.055958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"269 Mack Taylor Rd",
     "sg:city":"Tallassee",
     "sg:classifiers":[
@@ -35,11 +36,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827347,
+        85688675,
         85633793,
         85915121,
         102085631,
-        85688675
+        85827347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":152598597,
-    "wof:lastmodified":1449044548,
+    "wof:lastmodified":1466318818,
     "wof:name":"Rock Springs Land & Timber Inc",
     "wof:parent_id":85827347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.055958,32.453208,-86.055958,32.453208],
+  "bbox": [
+    -86.055958,
+    32.453208,
+    -86.055958,
+    32.453208
+],
   "geometry": {"coordinates":[-86.055958,32.453208],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152457981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.942882,34.095966,-86.942882,34.095966",
     "geom:latitude":34.095966,
     "geom:longitude":-86.942882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6140 Co Rd 222",
     "sg:city":"Cullman",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867305,
+        85688675,
         85633793,
         85914167,
         102085729,
-        85688675
+        85867305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152457981,
-    "wof:lastmodified":1449047405,
+    "wof:lastmodified":1466318038,
     "wof:name":"Smith Lake Hardware & Bldg",
     "wof:parent_id":85867305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.942882,34.095966,-86.942882,34.095966],
+  "bbox": [
+    -86.942882,
+    34.095966,
+    -86.942882,
+    34.095966
+],
   "geometry": {"coordinates":[-86.942882,34.095966],"type":"Point"}
 }

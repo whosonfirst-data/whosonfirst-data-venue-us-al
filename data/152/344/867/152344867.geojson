@@ -2,13 +2,14 @@
   "id": 152344867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.131424,34.371273,-86.131424,34.371273",
     "geom:latitude":34.371273,
     "geom:longitude":-86.131424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3033 Asbury Rd",
     "sg:city":"Albertville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85830981,
+        85688675,
         85633793,
         85899833,
         102085513,
-        85688675
+        85830981
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152344867,
-    "wof:lastmodified":1449044533,
+    "wof:lastmodified":1466317559,
     "wof:name":"Quality Feed Products",
     "wof:parent_id":85830981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.131424,34.371273,-86.131424,34.371273],
+  "bbox": [
+    -86.131424,
+    34.371273,
+    -86.131424,
+    34.371273
+],
   "geometry": {"coordinates":[-86.131424,34.371273],"type":"Point"}
 }

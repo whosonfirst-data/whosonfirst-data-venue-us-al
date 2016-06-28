@@ -2,13 +2,14 @@
   "id": 152815645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.812312,34.990288,-86.812312,34.990288",
     "geom:latitude":34.990288,
     "geom:longitude":-86.812312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29860 Little Creek Rd",
     "sg:city":"Ardmore",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085487,
-        85633793,
         85688675,
-        85820675
+        85633793,
+        85820675,
+        102085487
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152815645,
-    "wof:lastmodified":1449046545,
+    "wof:lastmodified":1466319949,
     "wof:name":"Imes Logging",
     "wof:parent_id":85820675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.812312,34.990288,-86.812312,34.990288],
-  "geometry": {"coordinates":[-86.812312,34.990288],"type":"Point"}
+  "bbox": [
+    -86.812312,
+    34.990288,
+    -86.812312,
+    34.990288
+],
+  "geometry": {"coordinates":[-86.81231200000001,34.990288],"type":"Point"}
 }

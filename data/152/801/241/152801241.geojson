@@ -2,13 +2,14 @@
   "id": 152801241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.753052,33.103197,-86.753052,33.103197",
     "geom:latitude":33.103197,
     "geom:longitude":-86.753052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10825 State Rte 25",
     "sg:city":"Calera",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85849529
+        85633793,
+        85849529,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152801241,
-    "wof:lastmodified":1449048106,
+    "wof:lastmodified":1466319852,
     "wof:name":"Myers Business Products Inc",
     "wof:parent_id":85849529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.753052,33.103197,-86.753052,33.103197],
+  "bbox": [
+    -86.753052,
+    33.103197,
+    -86.753052,
+    33.103197
+],
   "geometry": {"coordinates":[-86.753052,33.103197],"type":"Point"}
 }

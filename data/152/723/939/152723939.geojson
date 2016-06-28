@@ -2,13 +2,14 @@
   "id": 152723939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.099278,30.719102,-88.099278,30.719102",
     "geom:latitude":30.719102,
     "geom:longitude":-88.099278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2307 Bragdon Ave",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152723939,
-    "wof:lastmodified":1449047004,
+    "wof:lastmodified":1466319478,
     "wof:name":"PIP Wear",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.099278,30.719102,-88.099278,30.719102],
+  "bbox": [
+    -88.099278,
+    30.719102,
+    -88.099278,
+    30.719102
+],
   "geometry": {"coordinates":[-88.099278,30.719102],"type":"Point"}
 }

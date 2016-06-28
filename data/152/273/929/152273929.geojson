@@ -2,13 +2,14 @@
   "id": 152273929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.73437,33.384236,-86.73437,33.384236",
     "geom:latitude":33.384236,
     "geom:longitude":-86.73437,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4601 Valleydale Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     "sg:website":"www.faith-pca.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85826093
+        85633793,
+        85826093,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152273929,
-    "wof:lastmodified":1449046700,
+    "wof:lastmodified":1466316829,
     "wof:name":"Faith Presbyterian Church Inc",
     "wof:parent_id":85826093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.73437,33.384236,-86.73437,33.384236],
+  "bbox": [
+    -86.73437,
+    33.384236,
+    -86.73437,
+    33.384236
+],
   "geometry": {"coordinates":[-86.73437,33.384236],"type":"Point"}
 }

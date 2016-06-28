@@ -2,13 +2,14 @@
   "id": 152898259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.391955,32.6475,-85.391955,32.6475",
     "geom:latitude":32.6475,
     "geom:longitude":-85.391955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"508 Simmons St",
     "sg:city":"Opelika",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85857153,
+        85688675,
         85633793,
         85913815,
         102085751,
-        85688675,
+        85857153,
         85819517
     ],
     "wof:breaches":[],
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":152898259,
-    "wof:lastmodified":1449044186,
+    "wof:lastmodified":1466320326,
     "wof:name":"Mesa Industries Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.391955,32.6475,-85.391955,32.6475],
+  "bbox": [
+    -85.391955,
+    32.6475,
+    -85.391955,
+    32.6475
+],
   "geometry": {"coordinates":[-85.391955,32.6475],"type":"Point"}
 }

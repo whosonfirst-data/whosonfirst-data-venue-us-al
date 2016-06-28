@@ -2,13 +2,14 @@
   "id": 152633841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.543152,33.205365,-87.543152,33.205365",
     "geom:latitude":33.205365,
     "geom:longitude":-87.543152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1014 Hackberry Ln",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845037,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85845037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152633841,
-    "wof:lastmodified":1449048870,
+    "wof:lastmodified":1466319152,
     "wof:name":"Saint Grgory Thlogian Orthodox",
     "wof:parent_id":85845037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.543152,33.205365,-87.543152,33.205365],
-  "geometry": {"coordinates":[-87.543152,33.205365],"type":"Point"}
+  "bbox": [
+    -87.543152,
+    33.205365,
+    -87.543152,
+    33.205365
+],
+  "geometry": {"coordinates":[-87.54315200000001,33.205365],"type":"Point"}
 }

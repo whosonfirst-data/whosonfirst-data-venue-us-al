@@ -2,13 +2,14 @@
   "id": 102627245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.756673,33.427482,-86.756673,33.427482",
     "geom:latitude":33.427482,
     "geom:longitude":-86.756673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2621 Red Bud Ln",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085481,
-        85633793,
         85688675,
-        85831323
+        85633793,
+        85831323,
+        102085481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102627245,
-    "wof:lastmodified":1449070264,
+    "wof:lastmodified":1466317441,
     "wof:name":"West Tech Resources Inc",
     "wof:parent_id":85831323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.756673,33.427482,-86.756673,33.427482],
-  "geometry": {"coordinates":[-86.756673,33.427482],"type":"Point"}
+  "bbox": [
+    -86.756673,
+    33.427482,
+    -86.756673,
+    33.427482
+],
+  "geometry": {"coordinates":[-86.75667300000001,33.427482],"type":"Point"}
 }

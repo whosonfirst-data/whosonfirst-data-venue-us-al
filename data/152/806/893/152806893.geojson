@@ -2,13 +2,14 @@
   "id": 152806893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.765594,33.519129,-86.765594,33.519129",
     "geom:latitude":33.519129,
     "geom:longitude":-86.765594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4401 Overlook Rd S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876275,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152806893,
-    "wof:lastmodified":1449044275,
+    "wof:lastmodified":1466319921,
     "wof:name":"Gober E/Procter & Gamble",
     "wof:parent_id":85876275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.765594,33.519129,-86.765594,33.519129],
-  "geometry": {"coordinates":[-86.765594,33.519129],"type":"Point"}
+  "bbox": [
+    -86.765594,
+    33.519129,
+    -86.765594,
+    33.519129
+],
+  "geometry": {"coordinates":[-86.76559399999999,33.519129],"type":"Point"}
 }

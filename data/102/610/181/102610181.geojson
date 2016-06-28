@@ -2,13 +2,14 @@
   "id": 102610181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.756807,33.497206,-86.756807,33.497206",
     "geom:latitude":33.497206,
     "geom:longitude":-86.756807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Overbrook Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876275,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102610181,
-    "wof:lastmodified":1449070177,
+    "wof:lastmodified":1466317379,
     "wof:name":"Charma Ltd",
     "wof:parent_id":85876275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.756807,33.497206,-86.756807,33.497206],
-  "geometry": {"coordinates":[-86.756807,33.497206],"type":"Point"}
+  "bbox": [
+    -86.756807,
+    33.497206,
+    -86.756807,
+    33.497206
+],
+  "geometry": {"coordinates":[-86.75680699999999,33.497206],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152182817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.983783,34.002023,-85.983783,34.002023",
     "geom:latitude":34.002023,
     "geom:longitude":-85.983783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Hoke St",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -35,11 +36,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822279,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85822279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":152182817,
-    "wof:lastmodified":1449047223,
+    "wof:lastmodified":1466315641,
     "wof:name":"Clyde Griffin's Clean-Up Shop",
     "wof:parent_id":85822279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.983783,34.002023,-85.983783,34.002023],
+  "bbox": [
+    -85.983783,
+    34.002023,
+    -85.983783,
+    34.002023
+],
   "geometry": {"coordinates":[-85.983783,34.002023],"type":"Point"}
 }

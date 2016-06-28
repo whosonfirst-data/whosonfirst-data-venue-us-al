@@ -2,13 +2,14 @@
   "id": 152782233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.430772,32.632392,-85.430772,32.632392",
     "geom:latitude":32.632392,
     "geom:longitude":-85.430772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1708 Airport Rd",
     "sg:city":"Opelika",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850579,
+        85688675,
         85633793,
         85913815,
         102085751,
-        85688675
+        85850579
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152782233,
-    "wof:lastmodified":1449044273,
+    "wof:lastmodified":1466319747,
     "wof:name":"El Progresso",
     "wof:parent_id":85850579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.430772,32.632392,-85.430772,32.632392],
+  "bbox": [
+    -85.430772,
+    32.632392,
+    -85.430772,
+    32.632392
+],
   "geometry": {"coordinates":[-85.430772,32.632392],"type":"Point"}
 }

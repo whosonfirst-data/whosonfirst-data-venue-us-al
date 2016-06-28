@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102485977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.542265,34.5979,-86.542265,34.5979",
     "geom:latitude":34.5979,
     "geom:longitude":-86.542265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15030 Ashmont Blvd SE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820451,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85820451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102485977,
-    "wof:lastmodified":1449069216,
+    "wof:lastmodified":1466315889,
     "wof:name":"National Hearing Center",
     "wof:parent_id":85820451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.542265,34.5979,-86.542265,34.5979],
+  "bbox": [
+    -86.542265,
+    34.5979,
+    -86.542265,
+    34.5979
+],
   "geometry": {"coordinates":[-86.542265,34.5979],"type":"Point"}
 }

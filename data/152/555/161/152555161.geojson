@@ -2,13 +2,14 @@
   "id": 152555161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.683243,30.301957,-87.683243,30.301957",
     "geom:latitude":30.301957,
     "geom:longitude":-87.683243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3501 Gulf Shores Pkwy",
     "sg:city":"Gulf Shores",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868551,
+        85688675,
         85633793,
         85914719,
         102085469,
-        85688675
+        85868551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152555161,
-    "wof:lastmodified":1449048257,
+    "wof:lastmodified":1466318718,
     "wof:name":"Mobile Fixture GE Home Appl",
     "wof:parent_id":85868551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.683243,30.301957,-87.683243,30.301957],
+  "bbox": [
+    -87.683243,
+    30.301957,
+    -87.683243,
+    30.301957
+],
   "geometry": {"coordinates":[-87.683243,30.301957],"type":"Point"}
 }

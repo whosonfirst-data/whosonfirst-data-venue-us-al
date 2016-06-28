@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102455213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.726661,33.45411,-86.726661,33.45411",
     "geom:latitude":33.45411,
     "geom:longitude":-86.726661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3248 Cahaba Heights Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856691,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85856691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102455213,
-    "wof:lastmodified":1449069768,
+    "wof:lastmodified":1466314780,
     "wof:name":"Legion",
     "wof:parent_id":85856691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.726661,33.45411,-86.726661,33.45411],
-  "geometry": {"coordinates":[-86.726661,33.45411],"type":"Point"}
+  "bbox": [
+    -86.726661,
+    33.45411,
+    -86.726661,
+    33.45411
+],
+  "geometry": {"coordinates":[-86.72666099999999,33.45411],"type":"Point"}
 }

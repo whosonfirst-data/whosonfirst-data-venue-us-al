@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102504803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.816295,33.471159,-86.816295,33.471159",
     "geom:latitude":33.471159,
     "geom:longitude":-86.816295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Palisades Blvd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.collegiatehall.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821721,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85821721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102504803,
-    "wof:lastmodified":1449068236,
+    "wof:lastmodified":1466316672,
     "wof:name":"Collegiate Hall Properties",
     "wof:parent_id":85821721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.816295,33.471159,-86.816295,33.471159],
+  "bbox": [
+    -86.816295,
+    33.471159,
+    -86.816295,
+    33.471159
+],
   "geometry": {"coordinates":[-86.816295,33.471159],"type":"Point"}
 }

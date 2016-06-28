@@ -2,13 +2,14 @@
   "id": 152739947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.905059,30.522956,-87.905059,30.522956",
     "geom:latitude":30.522956,
     "geom:longitude":-87.905059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 Fairhope Ave",
     "sg:city":"Fairhope",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854025,
+        85688675,
         85633793,
         85914707,
         102085469,
-        85688675
+        85854025
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152739947,
-    "wof:lastmodified":1449046263,
+    "wof:lastmodified":1466319543,
     "wof:name":"Fairhope Real Estate & Design",
     "wof:parent_id":85854025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.905059,30.522956,-87.905059,30.522956],
-  "geometry": {"coordinates":[-87.905059,30.522956],"type":"Point"}
+  "bbox": [
+    -87.905059,
+    30.522956,
+    -87.905059,
+    30.522956
+],
+  "geometry": {"coordinates":[-87.90505899999999,30.522956],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152683287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.622239,34.656755,-87.622239,34.656755",
     "geom:latitude":34.656755,
     "geom:longitude":-87.622239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2240 Spring Valley Rd",
     "sg:city":"Tuscumbia",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816399,
+        85688675,
         85633793,
         85897481,
         102085625,
-        85688675
+        85816399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152683287,
-    "wof:lastmodified":1449046003,
+    "wof:lastmodified":1466319243,
     "wof:name":"Cotton Producers Coop Inc",
     "wof:parent_id":85816399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.622239,34.656755,-87.622239,34.656755],
-  "geometry": {"coordinates":[-87.622239,34.656755],"type":"Point"}
+  "bbox": [
+    -87.622239,
+    34.656755,
+    -87.622239,
+    34.656755
+],
+  "geometry": {"coordinates":[-87.62223899999999,34.656755],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102519641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.972418,34.800286,-86.972418,34.800286",
     "geom:latitude":34.800286,
     "geom:longitude":-86.972418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 S Jefferson St",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829531,
+        85688675,
         85633793,
         85913543,
         102085489,
-        85688675
+        85829531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102519641,
-    "wof:lastmodified":1449070029,
+    "wof:lastmodified":1466317159,
     "wof:name":"Junction",
     "wof:parent_id":85829531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.972418,34.800286,-86.972418,34.800286],
+  "bbox": [
+    -86.972418,
+    34.800286,
+    -86.972418,
+    34.800286
+],
   "geometry": {"coordinates":[-86.972418,34.800286],"type":"Point"}
 }

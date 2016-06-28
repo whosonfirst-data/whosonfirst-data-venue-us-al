@@ -2,13 +2,14 @@
   "id": 152132171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.639134,33.426092,-86.639134,33.426092",
     "geom:latitude":33.426092,
     "geom:longitude":-86.639134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1339 Greystone Crst",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85833411
+        85633793,
+        85833411,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152132171,
-    "wof:lastmodified":1449046570,
+    "wof:lastmodified":1466315147,
     "wof:name":"Bill Mann",
     "wof:parent_id":85833411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.639134,33.426092,-86.639134,33.426092],
+  "bbox": [
+    -86.639134,
+    33.426092,
+    -86.639134,
+    33.426092
+],
   "geometry": {"coordinates":[-86.639134,33.426092],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152334645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.28311,32.363593,-86.28311,32.363593",
     "geom:latitude":32.363593,
     "geom:longitude":-86.28311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 W 3rd St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825725,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85825725
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152334645,
-    "wof:lastmodified":1449045654,
+    "wof:lastmodified":1466317416,
     "wof:name":"Golden Shears Inc",
     "wof:parent_id":85825725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.28311,32.363593,-86.28311,32.363593],
-  "geometry": {"coordinates":[-86.28311,32.363593],"type":"Point"}
+  "bbox": [
+    -86.28311,
+    32.363593,
+    -86.28311,
+    32.363593
+],
+  "geometry": {"coordinates":[-86.28310999999999,32.363593],"type":"Point"}
 }

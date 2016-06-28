@@ -2,13 +2,14 @@
   "id": 102618547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.877231,33.504406,-86.877231,33.504406",
     "geom:latitude":33.504406,
     "geom:longitude":-86.877231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2324 25th St",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818187,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85818187
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102618547,
-    "wof:lastmodified":1449069261,
+    "wof:lastmodified":1466317381,
     "wof:name":"K & K Medical Transporters Inc",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.877231,33.504406,-86.877231,33.504406],
-  "geometry": {"coordinates":[-86.877231,33.504406],"type":"Point"}
+  "bbox": [
+    -86.877231,
+    33.504406,
+    -86.877231,
+    33.504406
+],
+  "geometry": {"coordinates":[-86.87723099999999,33.504406],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152399777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.113105,34.003098,-86.113105,34.003098",
     "geom:latitude":34.003098,
     "geom:longitude":-86.113105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Gilbert Ferry Rd SE",
     "sg:city":"Attalla",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085545,
-        85633793,
         85688675,
-        85851221
+        85633793,
+        85851221,
+        102085545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152399777,
-    "wof:lastmodified":1449045124,
+    "wof:lastmodified":1466317862,
     "wof:name":"Shaw's Barbecue",
     "wof:parent_id":85851221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.113105,34.003098,-86.113105,34.003098],
+  "bbox": [
+    -86.113105,
+    34.003098,
+    -86.113105,
+    34.003098
+],
   "geometry": {"coordinates":[-86.113105,34.003098],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102617797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.268145,30.643504,-88.268145,30.643504",
     "geom:latitude":30.643504,
     "geom:longitude":-88.268145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9705 Jeff Hamilton Rd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085585,
-        85633793,
         85688675,
-        85802635
+        85633793,
+        85802635,
+        102085585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102617797,
-    "wof:lastmodified":1449067858,
+    "wof:lastmodified":1466317249,
     "wof:name":"Stanley Tile Sales & Instltn",
     "wof:parent_id":85802635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.268145,30.643504,-88.268145,30.643504],
+  "bbox": [
+    -88.268145,
+    30.643504,
+    -88.268145,
+    30.643504
+],
   "geometry": {"coordinates":[-88.268145,30.643504],"type":"Point"}
 }

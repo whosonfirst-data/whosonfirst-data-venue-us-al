@@ -2,13 +2,14 @@
   "id": 152841187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.439292,34.605844,-86.439292,34.605844",
     "geom:latitude":34.605844,
     "geom:longitude":-86.439292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"631 Richard Branum Cir",
     "sg:city":"Owens Cross Roads",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878245,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152841187,
-    "wof:lastmodified":1449045270,
+    "wof:lastmodified":1466320043,
     "wof:name":"Craft Farms",
     "wof:parent_id":85878245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.439292,34.605844,-86.439292,34.605844],
-  "geometry": {"coordinates":[-86.439292,34.605844],"type":"Point"}
+  "bbox": [
+    -86.439292,
+    34.605844,
+    -86.439292,
+    34.605844
+],
+  "geometry": {"coordinates":[-86.43929199999999,34.605844],"type":"Point"}
 }

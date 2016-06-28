@@ -2,13 +2,14 @@
   "id": 152219401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.320379,32.373495,-86.320379,32.373495",
     "geom:latitude":32.373495,
     "geom:longitude":-86.320379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"626 Clayton St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879037,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152219401,
-    "wof:lastmodified":1449048728,
+    "wof:lastmodified":1466316164,
     "wof:name":"George Brown & Assoc",
     "wof:parent_id":85879037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.320379,32.373495,-86.320379,32.373495],
+  "bbox": [
+    -86.320379,
+    32.373495,
+    -86.320379,
+    32.373495
+],
   "geometry": {"coordinates":[-86.320379,32.373495],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152888397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.601666,33.196813,-87.601666,33.196813",
     "geom:latitude":33.196813,
     "geom:longitude":-87.601666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1628 51st Ave",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085553,
-        85633793,
         85688675,
-        85812491
+        85633793,
+        85812491,
+        102085553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152888397,
-    "wof:lastmodified":1449047179,
+    "wof:lastmodified":1466320292,
     "wof:name":"QMA Products Inc",
     "wof:parent_id":85812491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.601666,33.196813,-87.601666,33.196813],
-  "geometry": {"coordinates":[-87.601666,33.196813],"type":"Point"}
+  "bbox": [
+    -87.601666,
+    33.196813,
+    -87.601666,
+    33.196813
+],
+  "geometry": {"coordinates":[-87.60166599999999,33.196813],"type":"Point"}
 }

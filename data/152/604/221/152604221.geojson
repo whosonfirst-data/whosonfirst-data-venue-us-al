@@ -2,13 +2,14 @@
   "id": 152604221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.868536,33.089666,-86.868536,33.089666",
     "geom:latitude":33.089666,
     "geom:longitude":-86.868536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3746 State Rte 25",
     "sg:city":"Montevallo",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152604221,
-    "wof:lastmodified":1449048388,
+    "wof:lastmodified":1466318855,
     "wof:name":"Central Industrial Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.868536,33.089666,-86.868536,33.089666],
-  "geometry": {"coordinates":[-86.868536,33.089666],"type":"Point"}
+  "bbox": [
+    -86.868536,
+    33.089666,
+    -86.868536,
+    33.089666
+],
+  "geometry": {"coordinates":[-86.86853600000001,33.089666],"type":"Point"}
 }

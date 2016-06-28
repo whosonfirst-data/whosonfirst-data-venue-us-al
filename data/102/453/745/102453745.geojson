@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102453745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.470784,32.562277,-85.470784,32.562277",
     "geom:latitude":32.562277,
     "geom:longitude":-85.470784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2140 White Oak Ln",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85838773,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85838773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102453745,
-    "wof:lastmodified":1449069599,
+    "wof:lastmodified":1466314826,
     "wof:name":"Anesthesia and Associates",
     "wof:parent_id":85838773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.470784,32.562277,-85.470784,32.562277],
-  "geometry": {"coordinates":[-85.470784,32.562277],"type":"Point"}
+  "bbox": [
+    -85.470784,
+    32.562277,
+    -85.470784,
+    32.562277
+],
+  "geometry": {"coordinates":[-85.47078399999999,32.562277],"type":"Point"}
 }

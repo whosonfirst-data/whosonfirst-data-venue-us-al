@@ -2,13 +2,14 @@
   "id": 152886719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.565417,34.735548,-86.565417,34.735548",
     "geom:latitude":34.735548,
     "geom:longitude":-86.565417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 Randolph Ave SE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.pricelawfirm.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819449,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85819449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152886719,
-    "wof:lastmodified":1449046855,
+    "wof:lastmodified":1466320268,
     "wof:name":"Price Law Firm",
     "wof:parent_id":85819449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.565417,34.735548,-86.565417,34.735548],
+  "bbox": [
+    -86.565417,
+    34.735548,
+    -86.565417,
+    34.735548
+],
   "geometry": {"coordinates":[-86.565417,34.735548],"type":"Point"}
 }

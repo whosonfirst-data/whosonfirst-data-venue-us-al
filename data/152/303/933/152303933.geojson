@@ -2,13 +2,14 @@
   "id": 152303933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.413803,34.757003,-86.413803,34.757003",
     "geom:latitude":34.757003,
     "geom:longitude":-86.413803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"137 Anna Kathryn Dr",
     "sg:city":"Gurley",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878245,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152303933,
-    "wof:lastmodified":1449044336,
+    "wof:lastmodified":1466317171,
     "wof:name":"Grandfather Reads",
     "wof:parent_id":85878245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.413803,34.757003,-86.413803,34.757003],
+  "bbox": [
+    -86.413803,
+    34.757003,
+    -86.413803,
+    34.757003
+],
   "geometry": {"coordinates":[-86.413803,34.757003],"type":"Point"}
 }

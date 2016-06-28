@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102480225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.752348,33.103114,-86.752348,33.103114",
     "geom:latitude":33.103114,
     "geom:longitude":-86.752348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10878 State Rte 25",
     "sg:city":"Calera",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85849529
+        85633793,
+        85849529,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102480225,
-    "wof:lastmodified":1449068574,
+    "wof:lastmodified":1466315149,
     "wof:name":"CFIC Home Mortgage",
     "wof:parent_id":85849529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.752348,33.103114,-86.752348,33.103114],
+  "bbox": [
+    -86.752348,
+    33.103114,
+    -86.752348,
+    33.103114
+],
   "geometry": {"coordinates":[-86.752348,33.103114],"type":"Point"}
 }

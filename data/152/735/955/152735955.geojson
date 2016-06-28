@@ -2,13 +2,14 @@
   "id": 152735955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.563979,34.715991,-86.563979,34.715991",
     "geom:latitude":34.715991,
     "geom:longitude":-86.563979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1409 Bramblewood Dr SE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818149,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85818149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152735955,
-    "wof:lastmodified":1449048804,
+    "wof:lastmodified":1466319519,
     "wof:name":"Greer Development",
     "wof:parent_id":85818149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.563979,34.715991,-86.563979,34.715991],
+  "bbox": [
+    -86.563979,
+    34.715991,
+    -86.563979,
+    34.715991
+],
   "geometry": {"coordinates":[-86.563979,34.715991],"type":"Point"}
 }

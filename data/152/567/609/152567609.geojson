@@ -2,13 +2,14 @@
   "id": 152567609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.832985,30.676708,-87.832985,30.676708",
     "geom:latitude":30.676708,
     "geom:longitude":-87.832985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11118 US Hwy 31",
     "sg:city":"Spanish Fort",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.allsouthsub.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807399,
+        85688675,
         85633793,
         85914741,
         102085469,
-        85688675
+        85807399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152567609,
-    "wof:lastmodified":1449048927,
+    "wof:lastmodified":1466318669,
     "wof:name":"All-South Subcontractors Inc",
     "wof:parent_id":85807399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.832985,30.676708,-87.832985,30.676708],
-  "geometry": {"coordinates":[-87.832985,30.676708],"type":"Point"}
+  "bbox": [
+    -87.832985,
+    30.676708,
+    -87.832985,
+    30.676708
+],
+  "geometry": {"coordinates":[-87.83298499999999,30.676708],"type":"Point"}
 }

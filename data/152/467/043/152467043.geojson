@@ -2,13 +2,14 @@
   "id": 152467043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.335299,33.071014,-85.335299,33.071014",
     "geom:latitude":33.071014,
     "geom:longitude":-85.335299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31380 US Hwy 431",
     "sg:city":"Five Points",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":152467043,
-    "wof:lastmodified":1449047930,
+    "wof:lastmodified":1466318149,
     "wof:name":"Baseline Forest Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.335299,33.071014,-85.335299,33.071014],
-  "geometry": {"coordinates":[-85.335299,33.071014],"type":"Point"}
+  "bbox": [
+    -85.335299,
+    33.071014,
+    -85.335299,
+    33.071014
+],
+  "geometry": {"coordinates":[-85.33529900000001,33.071014],"type":"Point"}
 }

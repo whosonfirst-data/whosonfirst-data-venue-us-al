@@ -2,13 +2,14 @@
   "id": 152301071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.106186,30.676135,-88.106186,30.676135",
     "geom:latitude":30.676135,
     "geom:longitude":-88.106186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2701 Airport Blvd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878965,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152301071,
-    "wof:lastmodified":1449045477,
+    "wof:lastmodified":1466317122,
     "wof:name":"Camp Rap A Hope",
     "wof:parent_id":85878965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.106186,30.676135,-88.106186,30.676135],
-  "geometry": {"coordinates":[-88.106186,30.676135],"type":"Point"}
+  "bbox": [
+    -88.106186,
+    30.676135,
+    -88.106186,
+    30.676135
+],
+  "geometry": {"coordinates":[-88.10618599999999,30.676135],"type":"Point"}
 }

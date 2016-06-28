@@ -2,13 +2,14 @@
   "id": 102637517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.297908,32.39094,-86.297908,32.39094",
     "geom:latitude":32.39094,
     "geom:longitude":-86.297908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"636 Howe St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879043,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102637517,
-    "wof:lastmodified":1449067763,
+    "wof:lastmodified":1466317411,
     "wof:name":"Central Alabama Trucking",
     "wof:parent_id":85879043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.297908,32.39094,-86.297908,32.39094],
-  "geometry": {"coordinates":[-86.297908,32.39094],"type":"Point"}
+  "bbox": [
+    -86.297908,
+    32.39094,
+    -86.297908,
+    32.39094
+],
+  "geometry": {"coordinates":[-86.29790800000001,32.39094],"type":"Point"}
 }

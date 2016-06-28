@@ -2,13 +2,14 @@
   "id": 152562927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.831592,30.647942,-87.831592,30.647942",
     "geom:latitude":30.647942,
     "geom:longitude":-87.831592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28358 Bay Branch Dr",
     "sg:city":"Daphne",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840537,
+        85688675,
         85633793,
         85914695,
         102085469,
-        85688675
+        85840537
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152562927,
-    "wof:lastmodified":1449046758,
+    "wof:lastmodified":1466318680,
     "wof:name":"Feather & Fly Sporting",
     "wof:parent_id":85840537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.831592,30.647942,-87.831592,30.647942],
+  "bbox": [
+    -87.831592,
+    30.647942,
+    -87.831592,
+    30.647942
+],
   "geometry": {"coordinates":[-87.831592,30.647942],"type":"Point"}
 }

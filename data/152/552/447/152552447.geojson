@@ -2,13 +2,14 @@
   "id": 152552447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.703255,33.421868,-86.703255,33.421868",
     "geom:latitude":33.421868,
     "geom:longitude":-86.703255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Inverness Center Pl",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85826983
+        85633793,
+        85826983,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152552447,
-    "wof:lastmodified":1449046246,
+    "wof:lastmodified":1466318586,
     "wof:name":"Anderson Williams & Co",
     "wof:parent_id":85826983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.703255,33.421868,-86.703255,33.421868],
+  "bbox": [
+    -86.703255,
+    33.421868,
+    -86.703255,
+    33.421868
+],
   "geometry": {"coordinates":[-86.703255,33.421868],"type":"Point"}
 }

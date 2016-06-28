@@ -2,13 +2,14 @@
   "id": 152879815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.282353,30.837055,-88.282353,30.837055",
     "geom:latitude":30.837055,
     "geom:longitude":-88.282353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7201 Joe Ching Rd S",
     "sg:city":"Semmes",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085585,
-        85633793,
         85688675,
-        85878987
+        85633793,
+        85878987,
+        102085585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152879815,
-    "wof:lastmodified":1449044333,
+    "wof:lastmodified":1466320253,
     "wof:name":"Ching Dairy",
     "wof:parent_id":85878987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.282353,30.837055,-88.282353,30.837055],
+  "bbox": [
+    -88.282353,
+    30.837055,
+    -88.282353,
+    30.837055
+],
   "geometry": {"coordinates":[-88.282353,30.837055],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152323439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.824975,33.472405,-86.824975,33.472405",
     "geom:latitude":33.472405,
     "geom:longitude":-86.824975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"58 Green Springs Hwy",
     "sg:city":"Homewood",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821721,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85821721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152323439,
-    "wof:lastmodified":1449044701,
+    "wof:lastmodified":1466317329,
     "wof:name":"E-Z Comm",
     "wof:parent_id":85821721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.824975,33.472405,-86.824975,33.472405],
-  "geometry": {"coordinates":[-86.824975,33.472405],"type":"Point"}
+  "bbox": [
+    -86.824975,
+    33.472405,
+    -86.824975,
+    33.472405
+],
+  "geometry": {"coordinates":[-86.82497499999999,33.472405],"type":"Point"}
 }

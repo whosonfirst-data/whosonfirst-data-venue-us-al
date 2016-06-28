@@ -2,13 +2,14 @@
   "id": 119135419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.803936,33.473323,-86.803936,33.473323",
     "geom:latitude":33.473323,
     "geom:longitude":-86.803936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 W Hawthorne Rd",
     "sg:city":"Homewood",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821721,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85821721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":119135419,
-    "wof:lastmodified":1449041791,
+    "wof:lastmodified":1466314706,
     "wof:name":"Sandra S Ash",
     "wof:parent_id":85821721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.803936,33.473323,-86.803936,33.473323],
-  "geometry": {"coordinates":[-86.803936,33.473323],"type":"Point"}
+  "bbox": [
+    -86.803936,
+    33.473323,
+    -86.803936,
+    33.473323
+],
+  "geometry": {"coordinates":[-86.80393599999999,33.473323],"type":"Point"}
 }

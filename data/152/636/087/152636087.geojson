@@ -2,13 +2,14 @@
   "id": 152636087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.077404,33.457816,-86.077404,33.457816",
     "geom:latitude":33.457816,
     "geom:longitude":-86.077404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Franklin Dr S",
     "sg:city":"Talladega",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85835139,
+        85688675,
         85633793,
         85914129,
         102085517,
-        85688675,
+        85835139,
         85807185
     ],
     "wof:breaches":[],
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":152636087,
-    "wof:lastmodified":1449046145,
+    "wof:lastmodified":1466318934,
     "wof:name":"Brecon Learning Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.077404,33.457816,-86.077404,33.457816],
+  "bbox": [
+    -86.077404,
+    33.457816,
+    -86.077404,
+    33.457816
+],
   "geometry": {"coordinates":[-86.077404,33.457816],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152753825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.501227,33.123924,-87.501227,33.123924",
     "geom:latitude":33.123924,
     "geom:longitude":-87.501227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3000 Bear Creek Rd E",
     "sg:city":"Duncanville",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085553,
-        85633793,
         85688675,
-        85827473
+        85633793,
+        85827473,
+        102085553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152753825,
-    "wof:lastmodified":1449044845,
+    "wof:lastmodified":1466319638,
     "wof:name":"Gilgal Baptist Church",
     "wof:parent_id":85827473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.501227,33.123924,-87.501227,33.123924],
+  "bbox": [
+    -87.501227,
+    33.123924,
+    -87.501227,
+    33.123924
+],
   "geometry": {"coordinates":[-87.501227,33.123924],"type":"Point"}
 }

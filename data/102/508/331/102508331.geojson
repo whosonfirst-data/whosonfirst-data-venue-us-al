@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102508331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.282042,32.31328,-86.282042,32.31328",
     "geom:latitude":32.31328,
     "geom:longitude":-86.282042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4732 Narrow Lane Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842989,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85842989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102508331,
-    "wof:lastmodified":1449069092,
+    "wof:lastmodified":1466316748,
     "wof:name":"HOPE Ministry",
     "wof:parent_id":85842989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.282042,32.31328,-86.282042,32.31328],
+  "bbox": [
+    -86.282042,
+    32.31328,
+    -86.282042,
+    32.31328
+],
   "geometry": {"coordinates":[-86.282042,32.31328],"type":"Point"}
 }

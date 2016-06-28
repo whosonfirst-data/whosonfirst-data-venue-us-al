@@ -2,13 +2,14 @@
   "id": 152351103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.878736,33.62609,-86.878736,33.62609",
     "geom:latitude":33.62609,
     "geom:longitude":-86.878736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1480 Republic Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820003,
+        85688675,
         85633793,
         85914875,
         102085481,
-        85688675
+        85820003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152351103,
-    "wof:lastmodified":1449048223,
+    "wof:lastmodified":1466317578,
     "wof:name":"National Fenestration Sls LLC",
     "wof:parent_id":85820003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.878736,33.62609,-86.878736,33.62609],
+  "bbox": [
+    -86.878736,
+    33.62609,
+    -86.878736,
+    33.62609
+],
   "geometry": {"coordinates":[-86.878736,33.62609],"type":"Point"}
 }

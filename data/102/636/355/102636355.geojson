@@ -2,13 +2,14 @@
   "id": 102636355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.574306,34.236817,-85.574306,34.236817",
     "geom:latitude":34.236817,
     "geom:longitude":-85.574306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"870 Co Rd 585",
     "sg:city":"Cedar Bluff",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102636355,
-    "wof:lastmodified":1449068713,
+    "wof:lastmodified":1466317581,
     "wof:name":"Hackney Dirtworks Inc",
     "wof:parent_id":85688675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.574306,34.236817,-85.574306,34.236817],
-  "geometry": {"coordinates":[-85.574306,34.236817],"type":"Point"}
+  "bbox": [
+    -85.574306,
+    34.236817,
+    -85.574306,
+    34.236817
+],
+  "geometry": {"coordinates":[-85.57430600000001,34.236817],"type":"Point"}
 }

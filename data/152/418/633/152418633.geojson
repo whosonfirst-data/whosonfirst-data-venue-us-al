@@ -2,13 +2,14 @@
   "id": 152418633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.994802,34.018663,-85.994802,34.018663",
     "geom:latitude":34.018663,
     "geom:longitude":-85.994802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"139 Ewing Ave",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.gadsdenscaffold.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822279,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85822279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152418633,
-    "wof:lastmodified":1449047921,
+    "wof:lastmodified":1466317926,
     "wof:name":"Gadsden Scaffold Co",
     "wof:parent_id":85822279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.994802,34.018663,-85.994802,34.018663],
-  "geometry": {"coordinates":[-85.994802,34.018663],"type":"Point"}
+  "bbox": [
+    -85.994802,
+    34.018663,
+    -85.994802,
+    34.018663
+],
+  "geometry": {"coordinates":[-85.99480200000001,34.018663],"type":"Point"}
 }

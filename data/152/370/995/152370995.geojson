@@ -2,13 +2,14 @@
   "id": 152370995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.173172,30.570836,-88.173172,30.570836",
     "geom:latitude":30.570836,
     "geom:longitude":-88.173172,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5776 Larue Steiner Rd",
     "sg:city":"Theodore",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852259,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85852259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152370995,
-    "wof:lastmodified":1449046825,
+    "wof:lastmodified":1466317718,
     "wof:name":"C & G Tanklines",
     "wof:parent_id":85852259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.173172,30.570836,-88.173172,30.570836],
-  "geometry": {"coordinates":[-88.173172,30.570836],"type":"Point"}
+  "bbox": [
+    -88.173172,
+    30.570836,
+    -88.173172,
+    30.570836
+],
+  "geometry": {"coordinates":[-88.17317199999999,30.570836],"type":"Point"}
 }

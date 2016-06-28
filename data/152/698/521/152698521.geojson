@@ -2,13 +2,14 @@
   "id": 152698521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.676561,34.799875,-87.676561,34.799875",
     "geom:latitude":34.799875,
     "geom:longitude":-87.676561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 W Tennessee St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848857,
+        85688675,
         85633793,
         85914011,
         102085527,
-        85688675
+        85848857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152698521,
-    "wof:lastmodified":1449048639,
+    "wof:lastmodified":1466319455,
     "wof:name":"Lilly's Sportswear",
     "wof:parent_id":85848857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.676561,34.799875,-87.676561,34.799875],
-  "geometry": {"coordinates":[-87.676561,34.799875],"type":"Point"}
+  "bbox": [
+    -87.676561,
+    34.799875,
+    -87.676561,
+    34.799875
+],
+  "geometry": {"coordinates":[-87.67656100000001,34.799875],"type":"Point"}
 }

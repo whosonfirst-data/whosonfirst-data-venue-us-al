@@ -2,13 +2,14 @@
   "id": 152801237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.885615,33.52382,-86.885615,33.52382",
     "geom:latitude":33.52382,
     "geom:longitude":-86.885615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"702 Ave G",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847929,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85847929
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152801237,
-    "wof:lastmodified":1449048103,
+    "wof:lastmodified":1466319852,
     "wof:name":"Saxton Tree Service",
     "wof:parent_id":85847929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.885615,33.52382,-86.885615,33.52382],
+  "bbox": [
+    -86.885615,
+    33.52382,
+    -86.885615,
+    33.52382
+],
   "geometry": {"coordinates":[-86.885615,33.52382],"type":"Point"}
 }

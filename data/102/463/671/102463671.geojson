@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102463671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.567119,33.311035,-87.567119,33.311035",
     "geom:latitude":33.311035,
     "geom:longitude":-87.567119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13865 Chism Rd",
     "sg:city":"Northport",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809593,
+        85688675,
         85633793,
         85914425,
         102085553,
-        85688675
+        85809593
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102463671,
-    "wof:lastmodified":1449069472,
+    "wof:lastmodified":1466315089,
     "wof:name":"Rushing Concrete Company Inc",
     "wof:parent_id":85809593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.567119,33.311035,-87.567119,33.311035],
-  "geometry": {"coordinates":[-87.567119,33.311035],"type":"Point"}
+  "bbox": [
+    -87.567119,
+    33.311035,
+    -87.567119,
+    33.311035
+],
+  "geometry": {"coordinates":[-87.56711900000001,33.311035],"type":"Point"}
 }

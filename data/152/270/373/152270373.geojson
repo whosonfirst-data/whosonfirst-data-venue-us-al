@@ -2,13 +2,14 @@
   "id": 152270373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.61744,34.656819,-87.61744,34.656819",
     "geom:latitude":34.656819,
     "geom:longitude":-87.61744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2435 Spring Valley Rd",
     "sg:city":"Tuscumbia",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816399,
+        85688675,
         85633793,
         85897481,
         102085625,
-        85688675
+        85816399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":152270373,
-    "wof:lastmodified":1449045127,
+    "wof:lastmodified":1466316804,
     "wof:name":"Superior Septic Tanks & Supply",
     "wof:parent_id":85816399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.61744,34.656819,-87.61744,34.656819],
+  "bbox": [
+    -87.61744,
+    34.656819,
+    -87.61744,
+    34.656819
+],
   "geometry": {"coordinates":[-87.61744,34.656819],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102509395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.826801,33.464735,-86.826801,33.464735",
     "geom:latitude":33.464735,
     "geom:longitude":-86.826801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"151 Vulcan Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817409,
+        85688675,
         85633793,
         85914847,
         102085481,
-        85688675
+        85817409
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102509395,
-    "wof:lastmodified":1449067881,
+    "wof:lastmodified":1466316491,
     "wof:name":"Red Roof Inn",
     "wof:parent_id":85817409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.826801,33.464735,-86.826801,33.464735],
+  "bbox": [
+    -86.826801,
+    33.464735,
+    -86.826801,
+    33.464735
+],
   "geometry": {"coordinates":[-86.826801,33.464735],"type":"Point"}
 }

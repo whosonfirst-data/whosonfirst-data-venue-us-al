@@ -2,13 +2,14 @@
   "id": 152213173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.161549,32.345402,-86.161549,32.345402",
     "geom:latitude":32.345402,
     "geom:longitude":-86.161549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8624 Old Marsh Way",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85823517,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85823517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152213173,
-    "wof:lastmodified":1449044348,
+    "wof:lastmodified":1466316054,
     "wof:name":"Harlan Group",
     "wof:parent_id":85823517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.161549,32.345402,-86.161549,32.345402],
-  "geometry": {"coordinates":[-86.161549,32.345402],"type":"Point"}
+  "bbox": [
+    -86.161549,
+    32.345402,
+    -86.161549,
+    32.345402
+],
+  "geometry": {"coordinates":[-86.16154899999999,32.345402],"type":"Point"}
 }

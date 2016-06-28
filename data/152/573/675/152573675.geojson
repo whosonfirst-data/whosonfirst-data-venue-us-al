@@ -2,13 +2,14 @@
   "id": 152573675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.985602,34.578237,-86.985602,34.578237",
     "geom:latitude":34.578237,
     "geom:longitude":-86.985602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1707 Central Pkwy SW",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818653,
+        85688675,
         85633793,
         85913589,
         102085531,
-        85688675
+        85818653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152573675,
-    "wof:lastmodified":1449047713,
+    "wof:lastmodified":1466318706,
     "wof:name":"Sabrina's Hair Styling Salon",
     "wof:parent_id":85818653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.985602,34.578237,-86.985602,34.578237],
+  "bbox": [
+    -86.985602,
+    34.578237,
+    -86.985602,
+    34.578237
+],
   "geometry": {"coordinates":[-86.985602,34.578237],"type":"Point"}
 }

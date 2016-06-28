@@ -2,13 +2,14 @@
   "id": 152779205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.544685,33.200174,-87.544685,33.200174",
     "geom:latitude":33.200174,
     "geom:longitude":-87.544685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"506 14th St",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816279,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85816279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152779205,
-    "wof:lastmodified":1449045016,
+    "wof:lastmodified":1466319727,
     "wof:name":"Oz Music",
     "wof:parent_id":85816279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.544685,33.200174,-87.544685,33.200174],
+  "bbox": [
+    -87.544685,
+    33.200174,
+    -87.544685,
+    33.200174
+],
   "geometry": {"coordinates":[-87.544685,33.200174],"type":"Point"}
 }

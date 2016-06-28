@@ -2,13 +2,14 @@
   "id": 152661493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.715701,30.545679,-87.715701,30.545679",
     "geom:latitude":30.545679,
     "geom:longitude":-87.715701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18117 State Rte 104",
     "sg:city":"Robertsdale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854025,
+        85688675,
         85633793,
         85914707,
         102085469,
-        85688675
+        85854025
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152661493,
-    "wof:lastmodified":1449048424,
+    "wof:lastmodified":1466319158,
     "wof:name":"Holder Masonry",
     "wof:parent_id":85854025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.715701,30.545679,-87.715701,30.545679],
+  "bbox": [
+    -87.715701,
+    30.545679,
+    -87.715701,
+    30.545679
+],
   "geometry": {"coordinates":[-87.715701,30.545679],"type":"Point"}
 }

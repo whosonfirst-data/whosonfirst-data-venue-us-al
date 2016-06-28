@@ -2,13 +2,14 @@
   "id": 152621015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.832261,33.270955,-86.832261,33.270955",
     "geom:latitude":33.270955,
     "geom:longitude":-86.832261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6013 Woodvale Rd",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845631,
+        85688675,
         85633793,
         85914471,
         102085499,
-        85688675
+        85845631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152621015,
-    "wof:lastmodified":1449048370,
+    "wof:lastmodified":1466318925,
     "wof:name":"Dirt Works & Bobcat Service",
     "wof:parent_id":85845631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.832261,33.270955,-86.832261,33.270955],
+  "bbox": [
+    -86.832261,
+    33.270955,
+    -86.832261,
+    33.270955
+],
   "geometry": {"coordinates":[-86.832261,33.270955],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152670977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.518083,33.355512,-86.518083,33.355512",
     "geom:latitude":33.355512,
     "geom:longitude":-86.518083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10092 US Hwy 280",
     "sg:city":"Harpersville",
     "sg:classifiers":[
@@ -37,10 +38,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85833411
+        85633793,
+        85833411,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":152670977,
-    "wof:lastmodified":1449045004,
+    "wof:lastmodified":1466319218,
     "wof:name":"Graves Service Company Inc",
     "wof:parent_id":85833411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.518083,33.355512,-86.518083,33.355512],
+  "bbox": [
+    -86.518083,
+    33.355512,
+    -86.518083,
+    33.355512
+],
   "geometry": {"coordinates":[-86.518083,33.355512],"type":"Point"}
 }

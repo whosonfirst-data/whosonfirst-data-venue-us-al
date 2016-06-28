@@ -2,13 +2,14 @@
   "id": 152123627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.806644,33.539121,-86.806644,33.539121",
     "geom:latitude":33.539121,
     "geom:longitude":-86.806644,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2828 Norwood Blvd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85838531,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85838531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152123627,
-    "wof:lastmodified":1449045688,
+    "wof:lastmodified":1466314677,
     "wof:name":"Dubs & Beat",
     "wof:parent_id":85838531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.806644,33.539121,-86.806644,33.539121],
-  "geometry": {"coordinates":[-86.806644,33.539121],"type":"Point"}
+  "bbox": [
+    -86.806644,
+    33.539121,
+    -86.806644,
+    33.539121
+],
+  "geometry": {"coordinates":[-86.80664400000001,33.539121],"type":"Point"}
 }

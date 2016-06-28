@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102475667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.738098,34.68888,-86.738098,34.68888",
     "geom:latitude":34.68888,
     "geom:longitude":-86.738098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"453 Lanier Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.excellance.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831899,
+        85688675,
         85633793,
         85913593,
         102085487,
-        85688675
+        85831899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102475667,
-    "wof:lastmodified":1449068769,
+    "wof:lastmodified":1466315460,
     "wof:name":"Excellance Inc",
     "wof:parent_id":85831899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.738098,34.68888,-86.738098,34.68888],
-  "geometry": {"coordinates":[-86.738098,34.68888],"type":"Point"}
+  "bbox": [
+    -86.738098,
+    34.68888,
+    -86.738098,
+    34.68888
+],
+  "geometry": {"coordinates":[-86.73809799999999,34.68888],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102519723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.740423,34.77201,-86.740423,34.77201",
     "geom:latitude":34.77201,
     "geom:longitude":-86.740423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"730 Capshaw Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851107,
+        85688675,
         85633793,
         85913593,
         102085487,
-        85688675
+        85851107
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102519723,
-    "wof:lastmodified":1449070029,
+    "wof:lastmodified":1466317173,
     "wof:name":"Hilliard & Mc Cutcheon",
     "wof:parent_id":85851107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.740423,34.77201,-86.740423,34.77201],
-  "geometry": {"coordinates":[-86.740423,34.77201],"type":"Point"}
+  "bbox": [
+    -86.740423,
+    34.77201,
+    -86.740423,
+    34.77201
+],
+  "geometry": {"coordinates":[-86.74042300000001,34.77201],"type":"Point"}
 }

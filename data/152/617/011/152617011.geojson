@@ -2,13 +2,14 @@
   "id": 152617011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.829391,33.469086,-86.829391,33.469086",
     "geom:latitude":33.469086,
     "geom:longitude":-86.829391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"244 W Valley Ave",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817409,
+        85688675,
         85633793,
         85914847,
         102085481,
-        85688675
+        85817409
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152617011,
-    "wof:lastmodified":1449044453,
+    "wof:lastmodified":1466318906,
     "wof:name":"E Tech Communications Inc",
     "wof:parent_id":85817409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.829391,33.469086,-86.829391,33.469086],
+  "bbox": [
+    -86.829391,
+    33.469086,
+    -86.829391,
+    33.469086
+],
   "geometry": {"coordinates":[-86.829391,33.469086],"type":"Point"}
 }

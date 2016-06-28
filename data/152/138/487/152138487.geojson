@@ -2,13 +2,14 @@
   "id": 152138487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.622847,34.722724,-86.622847,34.722724",
     "geom:latitude":34.722724,
     "geom:longitude":-86.622847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"358 College Park Cir NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822763,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85822763
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152138487,
-    "wof:lastmodified":1449045634,
+    "wof:lastmodified":1466315355,
     "wof:name":"Outsource 2000",
     "wof:parent_id":85822763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.622847,34.722724,-86.622847,34.722724],
-  "geometry": {"coordinates":[-86.622847,34.722724],"type":"Point"}
+  "bbox": [
+    -86.622847,
+    34.722724,
+    -86.622847,
+    34.722724
+],
+  "geometry": {"coordinates":[-86.62284699999999,34.722724],"type":"Point"}
 }

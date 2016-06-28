@@ -2,13 +2,14 @@
   "id": 119132495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.734356,33.555671,-86.734356,33.555671",
     "geom:latitude":33.555671,
     "geom:longitude":-86.734356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7125 1st Ave N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854117,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85854117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":119132495,
-    "wof:lastmodified":1449042128,
+    "wof:lastmodified":1466314588,
     "wof:name":"Salon Panache",
     "wof:parent_id":85854117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.734356,33.555671,-86.734356,33.555671],
-  "geometry": {"coordinates":[-86.734356,33.555671],"type":"Point"}
+  "bbox": [
+    -86.734356,
+    33.555671,
+    -86.734356,
+    33.555671
+],
+  "geometry": {"coordinates":[-86.73435600000001,33.555671],"type":"Point"}
 }

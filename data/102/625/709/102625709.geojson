@@ -2,13 +2,14 @@
   "id": 102625709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.570379,33.208099,-87.570379,33.208099",
     "geom:latitude":33.208099,
     "geom:longitude":-87.570379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2521 6th St",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816127,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85816127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102625709,
-    "wof:lastmodified":1449070250,
+    "wof:lastmodified":1466317467,
     "wof:name":"Harbin & West",
     "wof:parent_id":85816127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.570379,33.208099,-87.570379,33.208099],
+  "bbox": [
+    -87.570379,
+    33.208099,
+    -87.570379,
+    33.208099
+],
   "geometry": {"coordinates":[-87.570379,33.208099],"type":"Point"}
 }

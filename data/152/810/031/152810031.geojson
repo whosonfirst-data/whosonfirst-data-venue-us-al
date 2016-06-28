@@ -2,13 +2,14 @@
   "id": 152810031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.192308,32.338471,-86.192308,32.338471",
     "geom:latitude":32.338471,
     "geom:longitude":-86.192308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7006 Vaughn Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879051,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152810031,
-    "wof:lastmodified":1449045645,
+    "wof:lastmodified":1466319865,
     "wof:name":"Weddings By Jill",
     "wof:parent_id":85879051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.192308,32.338471,-86.192308,32.338471],
+  "bbox": [
+    -86.192308,
+    32.338471,
+    -86.192308,
+    32.338471
+],
   "geometry": {"coordinates":[-86.192308,32.338471],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152518889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.366597,31.203162,-85.366597,31.203162",
     "geom:latitude":31.203162,
     "geom:longitude":-85.366597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1405 Ross Clark Cir",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847911,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85847911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152518889,
-    "wof:lastmodified":1449046909,
+    "wof:lastmodified":1466318451,
     "wof:name":"American Self Storage",
     "wof:parent_id":85847911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.366597,31.203162,-85.366597,31.203162],
+  "bbox": [
+    -85.366597,
+    31.203162,
+    -85.366597,
+    31.203162
+],
   "geometry": {"coordinates":[-85.366597,31.203162],"type":"Point"}
 }

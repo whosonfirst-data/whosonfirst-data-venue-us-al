@@ -2,13 +2,14 @@
   "id": 102610055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.127853,30.656406,-88.127853,30.656406",
     "geom:latitude":30.656406,
     "geom:longitude":-88.127853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"755 Lakeside Dr",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807453,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85807453
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102610055,
-    "wof:lastmodified":1449070177,
+    "wof:lastmodified":1466317379,
     "wof:name":"ASA-American Svc Alliance",
     "wof:parent_id":85807453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.127853,30.656406,-88.127853,30.656406],
+  "bbox": [
+    -88.127853,
+    30.656406,
+    -88.127853,
+    30.656406
+],
   "geometry": {"coordinates":[-88.127853,30.656406],"type":"Point"}
 }

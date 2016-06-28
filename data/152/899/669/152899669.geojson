@@ -2,13 +2,14 @@
   "id": 152899669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.598315,34.735444,-86.598315,34.735444",
     "geom:latitude":34.735444,
     "geom:longitude":-86.598315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 Memorial Pkwy NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851965,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85851965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152899669,
-    "wof:lastmodified":1449048686,
+    "wof:lastmodified":1466320350,
     "wof:name":"Big Easy Arcade Number 2",
     "wof:parent_id":85851965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.598315,34.735444,-86.598315,34.735444],
+  "bbox": [
+    -86.598315,
+    34.735444,
+    -86.598315,
+    34.735444
+],
   "geometry": {"coordinates":[-86.598315,34.735444],"type":"Point"}
 }

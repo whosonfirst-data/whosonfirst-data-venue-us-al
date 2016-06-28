@@ -2,13 +2,14 @@
   "id": 152411921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.299006,34.620254,-86.299006,34.620254",
     "geom:latitude":34.620254,
     "geom:longitude":-86.299006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6582 US Hwy 72",
     "sg:city":"Woodville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152411921,
-    "wof:lastmodified":1449044514,
+    "wof:lastmodified":1466317889,
     "wof:name":"B G Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.299006,34.620254,-86.299006,34.620254],
-  "geometry": {"coordinates":[-86.299006,34.620254],"type":"Point"}
+  "bbox": [
+    -86.299006,
+    34.620254,
+    -86.299006,
+    34.620254
+],
+  "geometry": {"coordinates":[-86.29900600000001,34.620254],"type":"Point"}
 }

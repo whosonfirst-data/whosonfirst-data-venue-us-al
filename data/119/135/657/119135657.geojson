@@ -2,13 +2,14 @@
   "id": 119135657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.560594,33.212192,-87.560594,33.212192",
     "geom:latitude":33.212192,
     "geom:longitude":-87.560594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"414 Queen City Ave",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85844931,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85844931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":119135657,
-    "wof:lastmodified":1449041787,
+    "wof:lastmodified":1466314718,
     "wof:name":"Joel's Barber & Style Shop",
     "wof:parent_id":85844931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.560594,33.212192,-87.560594,33.212192],
-  "geometry": {"coordinates":[-87.560594,33.212192],"type":"Point"}
+  "bbox": [
+    -87.560594,
+    33.212192,
+    -87.560594,
+    33.212192
+],
+  "geometry": {"coordinates":[-87.56059399999999,33.212192],"type":"Point"}
 }

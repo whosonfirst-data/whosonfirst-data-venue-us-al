@@ -2,13 +2,14 @@
   "id": 152477123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.207056,32.401049,-86.207056,32.401049",
     "geom:latitude":32.401049,
     "geom:longitude":-86.207056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"880 Plantation Way",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834995,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85834995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152477123,
-    "wof:lastmodified":1449045103,
+    "wof:lastmodified":1466318298,
     "wof:name":"Air Supply Co Inc",
     "wof:parent_id":85834995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.207056,32.401049,-86.207056,32.401049],
-  "geometry": {"coordinates":[-86.207056,32.401049],"type":"Point"}
+  "bbox": [
+    -86.207056,
+    32.401049,
+    -86.207056,
+    32.401049
+],
+  "geometry": {"coordinates":[-86.20705599999999,32.401049],"type":"Point"}
 }

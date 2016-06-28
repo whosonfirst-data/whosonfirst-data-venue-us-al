@@ -2,13 +2,14 @@
   "id": 152133619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.559643,32.482738,-85.559643,32.482738",
     "geom:latitude":32.482738,
     "geom:longitude":-85.559643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2020 US Hwy 29",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152133619,
-    "wof:lastmodified":1449048118,
+    "wof:lastmodified":1466315232,
     "wof:name":"Safe Mini Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.559643,32.482738,-85.559643,32.482738],
-  "geometry": {"coordinates":[-85.559643,32.482738],"type":"Point"}
+  "bbox": [
+    -85.559643,
+    32.482738,
+    -85.559643,
+    32.482738
+],
+  "geometry": {"coordinates":[-85.55964299999999,32.482738],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152353853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.761663,33.780751,-85.761663,33.780751",
     "geom:latitude":33.780751,
     "geom:longitude":-85.761663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1876 Pelham Rd S",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817157,
+        85688675,
         85633793,
         85914293,
         102085603,
-        85688675
+        85817157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152353853,
-    "wof:lastmodified":1449045632,
+    "wof:lastmodified":1466317768,
     "wof:name":"Akers Steve Carpet Installer",
     "wof:parent_id":85817157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.761663,33.780751,-85.761663,33.780751],
+  "bbox": [
+    -85.761663,
+    33.780751,
+    -85.761663,
+    33.780751
+],
   "geometry": {"coordinates":[-85.761663,33.780751],"type":"Point"}
 }

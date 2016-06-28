@@ -2,13 +2,14 @@
   "id": 152846583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.791966,31.254497,-85.791966,31.254497",
     "geom:latitude":31.254497,
     "geom:longitude":-85.791966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 State Rte 92",
     "sg:city":"Enterprise",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.clbconthe.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848823,
+        85688675,
         85633793,
         85899527,
         102085699,
-        85688675
+        85848823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152846583,
-    "wof:lastmodified":1449047881,
+    "wof:lastmodified":1466320142,
     "wof:name":"County Line Baptist Church",
     "wof:parent_id":85848823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.791966,31.254497,-85.791966,31.254497],
+  "bbox": [
+    -85.791966,
+    31.254497,
+    -85.791966,
+    31.254497
+],
   "geometry": {"coordinates":[-85.791966,31.254497],"type":"Point"}
 }

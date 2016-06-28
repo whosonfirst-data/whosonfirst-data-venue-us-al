@@ -2,13 +2,14 @@
   "id": 152146363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.519761,30.301518,-87.519761,30.301518",
     "geom:latitude":30.301518,
     "geom:longitude":-87.519761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29499 Bayshore Dr",
     "sg:city":"Orange Beach",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868551,
+        85688675,
         85633793,
         85914719,
         102085469,
-        85688675
+        85868551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152146363,
-    "wof:lastmodified":1449046229,
+    "wof:lastmodified":1466315428,
     "wof:name":"PH Hill Consulting",
     "wof:parent_id":85868551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.519761,30.301518,-87.519761,30.301518],
+  "bbox": [
+    -87.519761,
+    30.301518,
+    -87.519761,
+    30.301518
+],
   "geometry": {"coordinates":[-87.519761,30.301518],"type":"Point"}
 }

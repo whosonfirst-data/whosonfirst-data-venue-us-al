@@ -2,13 +2,14 @@
   "id": 102627305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.448142,32.456981,-86.448142,32.456981",
     "geom:latitude":32.456981,
     "geom:longitude":-86.448142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"983 S Memorial Dr",
     "sg:city":"Prattville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843041,
+        85688675,
         85633793,
         85913977,
         102085509,
-        85688675
+        85843041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102627305,
-    "wof:lastmodified":1449070259,
+    "wof:lastmodified":1466317447,
     "wof:name":"Jim's Cabinets",
     "wof:parent_id":85843041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.448142,32.456981,-86.448142,32.456981],
+  "bbox": [
+    -86.448142,
+    32.456981,
+    -86.448142,
+    32.456981
+],
   "geometry": {"coordinates":[-86.448142,32.456981],"type":"Point"}
 }

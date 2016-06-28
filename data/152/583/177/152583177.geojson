@@ -2,13 +2,14 @@
   "id": 152583177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.61522,34.71584,-86.61522,34.71584",
     "geom:latitude":34.71584,
     "geom:longitude":-86.61522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2301 11th St SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -36,11 +37,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825531,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85825531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":152583177,
-    "wof:lastmodified":1449047948,
+    "wof:lastmodified":1466318756,
     "wof:name":"Alabama Lawn Master Inc",
     "wof:parent_id":85825531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.61522,34.71584,-86.61522,34.71584],
-  "geometry": {"coordinates":[-86.61522,34.71584],"type":"Point"}
+  "bbox": [
+    -86.61522,
+    34.71584,
+    -86.61522,
+    34.71584
+],
+  "geometry": {"coordinates":[-86.61521999999999,34.71584],"type":"Point"}
 }

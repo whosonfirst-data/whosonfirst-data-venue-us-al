@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102479845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.393267,31.201457,-85.393267,31.201457",
     "geom:latitude":31.201457,
     "geom:longitude":-85.393267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 Jerome Ct",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852069,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85852069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":102479845,
-    "wof:lastmodified":1449069442,
+    "wof:lastmodified":1466315071,
     "wof:name":"Stone Plumbing & Electric Svc",
     "wof:parent_id":85852069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.393267,31.201457,-85.393267,31.201457],
-  "geometry": {"coordinates":[-85.393267,31.201457],"type":"Point"}
+  "bbox": [
+    -85.393267,
+    31.201457,
+    -85.393267,
+    31.201457
+],
+  "geometry": {"coordinates":[-85.39326699999999,31.201457],"type":"Point"}
 }

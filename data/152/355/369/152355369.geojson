@@ -2,13 +2,14 @@
   "id": 152355369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.759466,33.09681,-86.759466,33.09681",
     "geom:latitude":33.09681,
     "geom:longitude":-86.759466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1645 21st Ave",
     "sg:city":"Calera",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85849529
+        85633793,
+        85849529,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152355369,
-    "wof:lastmodified":1449045595,
+    "wof:lastmodified":1466317764,
     "wof:name":"Calera Housing Authority",
     "wof:parent_id":85849529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.759466,33.09681,-86.759466,33.09681],
+  "bbox": [
+    -86.759466,
+    33.09681,
+    -86.759466,
+    33.09681
+],
   "geometry": {"coordinates":[-86.759466,33.09681],"type":"Point"}
 }

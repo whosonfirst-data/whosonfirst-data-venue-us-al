@@ -2,13 +2,14 @@
   "id": 152405899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.887231,32.893724,-85.887231,32.893724",
     "geom:latitude":32.893724,
     "geom:longitude":-85.887231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Riverwood Ln",
     "sg:city":"Alexander City",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085567,
-        85633793,
         85688675,
-        85853455
+        85633793,
+        85853455,
+        102085567
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152405899,
-    "wof:lastmodified":1449048538,
+    "wof:lastmodified":1466318022,
     "wof:name":"Miles Associates",
     "wof:parent_id":85853455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.887231,32.893724,-85.887231,32.893724],
+  "bbox": [
+    -85.887231,
+    32.893724,
+    -85.887231,
+    32.893724
+],
   "geometry": {"coordinates":[-85.887231,32.893724],"type":"Point"}
 }

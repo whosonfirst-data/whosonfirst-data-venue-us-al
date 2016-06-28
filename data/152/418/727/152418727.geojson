@@ -2,13 +2,14 @@
   "id": 152418727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.712676,33.403252,-86.712676,33.403252",
     "geom:latitude":33.403252,
     "geom:longitude":-86.712676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3320 Culloden Way",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85826983
+        85633793,
+        85826983,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152418727,
-    "wof:lastmodified":1449047917,
+    "wof:lastmodified":1466317930,
     "wof:name":"Suggs Equipment Sales Inc",
     "wof:parent_id":85826983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.712676,33.403252,-86.712676,33.403252],
+  "bbox": [
+    -86.712676,
+    33.403252,
+    -86.712676,
+    33.403252
+],
   "geometry": {"coordinates":[-86.712676,33.403252],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102442093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.186535,32.869991,-85.186535,32.869991",
     "geom:latitude":32.869991,
     "geom:longitude":-85.186535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 N Gilmer Ave",
     "sg:city":"Lanett",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848065,
+        85688675,
         85633793,
         85914191,
         102085637,
-        85688675
+        85848065
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102442093,
-    "wof:lastmodified":1449068819,
+    "wof:lastmodified":1466315329,
     "wof:name":"Alabama Career Center System",
     "wof:parent_id":85848065,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.186535,32.869991,-85.186535,32.869991],
-  "geometry": {"coordinates":[-85.186535,32.869991],"type":"Point"}
+  "bbox": [
+    -85.186535,
+    32.869991,
+    -85.186535,
+    32.869991
+],
+  "geometry": {"coordinates":[-85.18653500000001,32.869991],"type":"Point"}
 }

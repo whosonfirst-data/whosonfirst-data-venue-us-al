@@ -2,13 +2,14 @@
   "id": 152516357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.279075,32.377806,-86.279075,32.377806",
     "geom:latitude":32.377806,
     "geom:longitude":-86.279075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2028 Mount Meigs Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809389,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85809389
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152516357,
-    "wof:lastmodified":1449045194,
+    "wof:lastmodified":1466318504,
     "wof:name":"D L Vaughn Plumbing Heating Co",
     "wof:parent_id":85809389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.279075,32.377806,-86.279075,32.377806],
-  "geometry": {"coordinates":[-86.279075,32.377806],"type":"Point"}
+  "bbox": [
+    -86.279075,
+    32.377806,
+    -86.279075,
+    32.377806
+],
+  "geometry": {"coordinates":[-86.27907500000001,32.377806],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152643797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.729614,34.664425,-86.729614,34.664425",
     "geom:latitude":34.664425,
     "geom:longitude":-86.729614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"474 Sussex Dr SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831899,
+        85688675,
         85633793,
         85913593,
         102085487,
-        85688675,
+        85831899,
         85807231
     ],
     "wof:breaches":[],
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":152643797,
-    "wof:lastmodified":1449048308,
+    "wof:lastmodified":1466319074,
     "wof:name":"Unique Times",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.729614,34.664425,-86.729614,34.664425],
+  "bbox": [
+    -86.729614,
+    34.664425,
+    -86.729614,
+    34.664425
+],
   "geometry": {"coordinates":[-86.729614,34.664425],"type":"Point"}
 }

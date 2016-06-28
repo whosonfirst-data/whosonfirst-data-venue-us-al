@@ -2,13 +2,14 @@
   "id": 152369159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.155246,33.639026,-87.155246,33.639026",
     "geom:latitude":33.639026,
     "geom:longitude":-87.155246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"71 Chock Ln",
     "sg:city":"Quinton",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152369159,
-    "wof:lastmodified":1449048682,
+    "wof:lastmodified":1466317679,
     "wof:name":"Chambers Ortho Laboratory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.155246,33.639026,-87.155246,33.639026],
-  "geometry": {"coordinates":[-87.155246,33.639026],"type":"Point"}
+  "bbox": [
+    -87.155246,
+    33.639026,
+    -87.155246,
+    33.639026
+],
+  "geometry": {"coordinates":[-87.15524600000001,33.639026],"type":"Point"}
 }

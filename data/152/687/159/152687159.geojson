@@ -2,13 +2,14 @@
   "id": 152687159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.192779,30.616267,-88.192779,30.616267",
     "geom:latitude":30.616267,
     "geom:longitude":-88.192779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6463 Windsor Dr",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850317,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85850317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152687159,
-    "wof:lastmodified":1449045595,
+    "wof:lastmodified":1466319285,
     "wof:name":"Jackson Appraisal Svc",
     "wof:parent_id":85850317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.192779,30.616267,-88.192779,30.616267],
+  "bbox": [
+    -88.192779,
+    30.616267,
+    -88.192779,
+    30.616267
+],
   "geometry": {"coordinates":[-88.192779,30.616267],"type":"Point"}
 }

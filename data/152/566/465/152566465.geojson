@@ -2,13 +2,14 @@
   "id": 152566465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.219378,32.342894,-86.219378,32.342894",
     "geom:latitude":32.342894,
     "geom:longitude":-86.219378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5289 Vaughn Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879059,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879059
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152566465,
-    "wof:lastmodified":1449044393,
+    "wof:lastmodified":1466318662,
     "wof:name":"State Farm Insurance",
     "wof:parent_id":85879059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.219378,32.342894,-86.219378,32.342894],
-  "geometry": {"coordinates":[-86.219378,32.342894],"type":"Point"}
+  "bbox": [
+    -86.219378,
+    32.342894,
+    -86.219378,
+    32.342894
+],
+  "geometry": {"coordinates":[-86.21937800000001,32.342894],"type":"Point"}
 }

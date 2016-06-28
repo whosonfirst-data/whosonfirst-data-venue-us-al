@@ -2,13 +2,14 @@
   "id": 152201795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.073434,34.280662,-86.073434,34.280662",
     "geom:latitude":34.280662,
     "geom:longitude":-86.073434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1679 Co Rd 179",
     "sg:city":"Crossville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815015,
+        85688675,
         85633793,
         85897515,
         102085615,
-        85688675
+        85815015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152201795,
-    "wof:lastmodified":1449048299,
+    "wof:lastmodified":1466315948,
     "wof:name":"Joe Freeman",
     "wof:parent_id":85815015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.073434,34.280662,-86.073434,34.280662],
-  "geometry": {"coordinates":[-86.073434,34.280662],"type":"Point"}
+  "bbox": [
+    -86.073434,
+    34.280662,
+    -86.073434,
+    34.280662
+],
+  "geometry": {"coordinates":[-86.07343400000001,34.280662],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152494213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.629237,33.16574,-86.629237,33.16574",
     "geom:latitude":33.16574,
     "geom:longitude":-86.629237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19204 Old Hwy 25",
     "sg:city":"Columbiana",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825591,
+        85688675,
         85633793,
         85914497,
         102085499,
-        85688675
+        85825591
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152494213,
-    "wof:lastmodified":1449048414,
+    "wof:lastmodified":1466318432,
     "wof:name":"Apperson Refrigeration Svc",
     "wof:parent_id":85825591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.629237,33.16574,-86.629237,33.16574],
+  "bbox": [
+    -86.629237,
+    33.16574,
+    -86.629237,
+    33.16574
+],
   "geometry": {"coordinates":[-86.629237,33.16574],"type":"Point"}
 }

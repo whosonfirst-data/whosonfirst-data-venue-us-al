@@ -2,13 +2,14 @@
   "id": 152291443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.796298,31.50575,-87.796298,31.50575",
     "geom:latitude":31.50575,
     "geom:longitude":-87.796298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"665 Evergreen Rd",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":152291443,
-    "wof:lastmodified":1449045731,
+    "wof:lastmodified":1466317217,
     "wof:name":"Mt Sinai Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.796298,31.50575,-87.796298,31.50575],
-  "geometry": {"coordinates":[-87.796298,31.50575],"type":"Point"}
+  "bbox": [
+    -87.796298,
+    31.50575,
+    -87.796298,
+    31.50575
+],
+  "geometry": {"coordinates":[-87.79629799999999,31.50575],"type":"Point"}
 }

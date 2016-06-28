@@ -2,13 +2,14 @@
   "id": 152488625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.772281,33.482061,-86.772281,33.482061",
     "geom:latitude":33.482061,
     "geom:longitude":-86.772281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2921 Cahaba Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854765,
+        85688675,
         85633793,
         85914807,
         102085481,
-        85688675
+        85854765
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152488625,
-    "wof:lastmodified":1449048796,
+    "wof:lastmodified":1466318270,
     "wof:name":"Thompson Architecture Inc",
     "wof:parent_id":85854765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.772281,33.482061,-86.772281,33.482061],
-  "geometry": {"coordinates":[-86.772281,33.482061],"type":"Point"}
+  "bbox": [
+    -86.772281,
+    33.482061,
+    -86.772281,
+    33.482061
+],
+  "geometry": {"coordinates":[-86.77228100000001,33.482061],"type":"Point"}
 }

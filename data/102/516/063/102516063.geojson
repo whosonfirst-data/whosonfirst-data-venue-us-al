@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102516063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.839137,33.465423,-86.839137,33.465423",
     "geom:latitude":33.465423,
     "geom:longitude":-86.839137,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Ward Way",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817409,
+        85688675,
         85633793,
         85914847,
         102085481,
-        85688675
+        85817409
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102516063,
-    "wof:lastmodified":1449068259,
+    "wof:lastmodified":1466316871,
     "wof:name":"Jim Davis & Co",
     "wof:parent_id":85817409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.839137,33.465423,-86.839137,33.465423],
-  "geometry": {"coordinates":[-86.839137,33.465423],"type":"Point"}
+  "bbox": [
+    -86.839137,
+    33.465423,
+    -86.839137,
+    33.465423
+],
+  "geometry": {"coordinates":[-86.83913699999999,33.465423],"type":"Point"}
 }

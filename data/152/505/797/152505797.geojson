@@ -2,13 +2,14 @@
   "id": 152505797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.676944,34.800937,-87.676944,34.800937",
     "geom:latitude":34.800937,
     "geom:longitude":-87.676944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 W Mobile St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848857,
+        85688675,
         85633793,
         85914011,
         102085527,
-        85688675
+        85848857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152505797,
-    "wof:lastmodified":1449048159,
+    "wof:lastmodified":1466318372,
     "wof:name":"North Alabama Printing",
     "wof:parent_id":85848857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.676944,34.800937,-87.676944,34.800937],
-  "geometry": {"coordinates":[-87.676944,34.800937],"type":"Point"}
+  "bbox": [
+    -87.676944,
+    34.800937,
+    -87.676944,
+    34.800937
+],
+  "geometry": {"coordinates":[-87.67694400000001,34.800937],"type":"Point"}
 }

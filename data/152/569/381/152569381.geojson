@@ -2,13 +2,14 @@
   "id": 152569381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.068582,32.459753,-86.068582,32.459753",
     "geom:latitude":32.459753,
     "geom:longitude":-86.068582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"478 Hamp Simmons Rd",
     "sg:city":"Tallassee",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827347,
+        85688675,
         85633793,
         85915121,
         102085631,
-        85688675
+        85827347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152569381,
-    "wof:lastmodified":1449048728,
+    "wof:lastmodified":1466318670,
     "wof:name":"Wayne Hyde Trucking",
     "wof:parent_id":85827347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.068582,32.459753,-86.068582,32.459753],
-  "geometry": {"coordinates":[-86.068582,32.459753],"type":"Point"}
+  "bbox": [
+    -86.068582,
+    32.459753,
+    -86.068582,
+    32.459753
+],
+  "geometry": {"coordinates":[-86.06858200000001,32.459753],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152784817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.605038,34.541793,-85.605038,34.541793",
     "geom:latitude":34.541793,
     "geom:longitude":-85.605038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Co Rd 614",
     "sg:city":"Mentone",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85844901,
+        85688675,
         85633793,
         85897439,
         102085615,
-        85688675
+        85844901
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152784817,
-    "wof:lastmodified":1449047383,
+    "wof:lastmodified":1466319767,
     "wof:name":"Strickland Camp Ground",
     "wof:parent_id":85844901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.605038,34.541793,-85.605038,34.541793],
-  "geometry": {"coordinates":[-85.605038,34.541793],"type":"Point"}
+  "bbox": [
+    -85.605038,
+    34.541793,
+    -85.605038,
+    34.541793
+],
+  "geometry": {"coordinates":[-85.60503799999999,34.541793],"type":"Point"}
 }

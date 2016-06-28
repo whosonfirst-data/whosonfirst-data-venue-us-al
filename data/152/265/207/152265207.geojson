@@ -2,13 +2,14 @@
   "id": 152265207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.985356,34.002626,-85.985356,34.002626",
     "geom:latitude":34.002626,
     "geom:longitude":-85.985356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 8th St S",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822279,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85822279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152265207,
-    "wof:lastmodified":1449045883,
+    "wof:lastmodified":1466316862,
     "wof:name":"Pollard Properties",
     "wof:parent_id":85822279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.985356,34.002626,-85.985356,34.002626],
+  "bbox": [
+    -85.985356,
+    34.002626,
+    -85.985356,
+    34.002626
+],
   "geometry": {"coordinates":[-85.985356,34.002626],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102449515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.383012,31.248612,-85.383012,31.248612",
     "geom:latitude":31.248612,
     "geom:longitude":-85.383012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"151 Tinker Ct",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859419,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85859419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102449515,
-    "wof:lastmodified":1449070004,
+    "wof:lastmodified":1466314613,
     "wof:name":"Full Line Exhaust",
     "wof:parent_id":85859419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.383012,31.248612,-85.383012,31.248612],
-  "geometry": {"coordinates":[-85.383012,31.248612],"type":"Point"}
+  "bbox": [
+    -85.383012,
+    31.248612,
+    -85.383012,
+    31.248612
+],
+  "geometry": {"coordinates":[-85.38301199999999,31.248612],"type":"Point"}
 }

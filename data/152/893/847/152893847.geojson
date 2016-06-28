@@ -2,13 +2,14 @@
   "id": 152893847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.548252,34.71309,-86.548252,34.71309",
     "geom:latitude":34.71309,
     "geom:longitude":-86.548252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2606 Hickory Flats Trl SE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85835805,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85835805
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152893847,
-    "wof:lastmodified":1449048045,
+    "wof:lastmodified":1466320316,
     "wof:name":"Btec LLC",
     "wof:parent_id":85835805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.548252,34.71309,-86.548252,34.71309],
-  "geometry": {"coordinates":[-86.548252,34.71309],"type":"Point"}
+  "bbox": [
+    -86.548252,
+    34.71309,
+    -86.548252,
+    34.71309
+],
+  "geometry": {"coordinates":[-86.54825200000001,34.71309],"type":"Point"}
 }

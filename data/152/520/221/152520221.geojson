@@ -2,13 +2,14 @@
   "id": 152520221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.732774,33.595713,-86.732774,33.595713",
     "geom:latitude":33.595713,
     "geom:longitude":-86.732774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1124 Northwood Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816499,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85816499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152520221,
-    "wof:lastmodified":1449045829,
+    "wof:lastmodified":1466318414,
     "wof:name":"Matthew Lee Rev",
     "wof:parent_id":85816499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.732774,33.595713,-86.732774,33.595713],
-  "geometry": {"coordinates":[-86.732774,33.595713],"type":"Point"}
+  "bbox": [
+    -86.732774,
+    33.595713,
+    -86.732774,
+    33.595713
+],
+  "geometry": {"coordinates":[-86.73277400000001,33.595713],"type":"Point"}
 }

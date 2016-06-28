@@ -2,13 +2,14 @@
   "id": 152595339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.638674,34.7551,-86.638674,34.7551",
     "geom:latitude":34.7551,
     "geom:longitude":-86.638674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2411 Jordan Ln NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851401,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85851401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152595339,
-    "wof:lastmodified":1449048469,
+    "wof:lastmodified":1466318808,
     "wof:name":"Abdul Grocery",
     "wof:parent_id":85851401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.638674,34.7551,-86.638674,34.7551],
-  "geometry": {"coordinates":[-86.638674,34.7551],"type":"Point"}
+  "bbox": [
+    -86.638674,
+    34.7551,
+    -86.638674,
+    34.7551
+],
+  "geometry": {"coordinates":[-86.63867399999999,34.7551],"type":"Point"}
 }

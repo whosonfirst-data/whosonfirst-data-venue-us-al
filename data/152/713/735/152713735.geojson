@@ -2,13 +2,14 @@
   "id": 152713735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.604186,34.721924,-86.604186,34.721924",
     "geom:latitude":34.721924,
     "geom:longitude":-86.604186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2417 W Clinton Ave",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85855713,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85855713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152713735,
-    "wof:lastmodified":1449048489,
+    "wof:lastmodified":1466319424,
     "wof:name":"Winkles Sign Svc",
     "wof:parent_id":85855713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.604186,34.721924,-86.604186,34.721924],
+  "bbox": [
+    -86.604186,
+    34.721924,
+    -86.604186,
+    34.721924
+],
   "geometry": {"coordinates":[-86.604186,34.721924],"type":"Point"}
 }

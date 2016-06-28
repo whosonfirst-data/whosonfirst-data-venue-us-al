@@ -2,13 +2,14 @@
   "id": 152238101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.71938,33.598898,-86.71938,33.598898",
     "geom:latitude":33.598898,
     "geom:longitude":-86.71938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"541 Lawson Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845635,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85845635
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152238101,
-    "wof:lastmodified":1449046035,
+    "wof:lastmodified":1466316314,
     "wof:name":"Maple Grove Church",
     "wof:parent_id":85845635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.71938,33.598898,-86.71938,33.598898],
+  "bbox": [
+    -86.71938,
+    33.598898,
+    -86.71938,
+    33.598898
+],
   "geometry": {"coordinates":[-86.71938,33.598898],"type":"Point"}
 }

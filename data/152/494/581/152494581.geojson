@@ -2,13 +2,14 @@
   "id": 152494581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.856326,33.442487,-86.856326,33.442487",
     "geom:latitude":33.442487,
     "geom:longitude":-86.856326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Lyon Ln",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840093,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85840093
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152494581,
-    "wof:lastmodified":1449048413,
+    "wof:lastmodified":1466318317,
     "wof:name":"R B Atkins & Associates Inc",
     "wof:parent_id":85840093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.856326,33.442487,-86.856326,33.442487],
+  "bbox": [
+    -86.856326,
+    33.442487,
+    -86.856326,
+    33.442487
+],
   "geometry": {"coordinates":[-86.856326,33.442487],"type":"Point"}
 }

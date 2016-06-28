@@ -2,13 +2,14 @@
   "id": 102615325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.364847,32.365693,-86.364847,32.365693",
     "geom:latitude":32.365693,
     "geom:longitude":-86.364847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3150 Birmingham Hwy",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102615325,
-    "wof:lastmodified":1449068541,
+    "wof:lastmodified":1466317323,
     "wof:name":"Byrd's Pit Stop Phillips 66",
     "wof:parent_id":85913947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.364847,32.365693,-86.364847,32.365693],
+  "bbox": [
+    -86.364847,
+    32.365693,
+    -86.364847,
+    32.365693
+],
   "geometry": {"coordinates":[-86.364847,32.365693],"type":"Point"}
 }

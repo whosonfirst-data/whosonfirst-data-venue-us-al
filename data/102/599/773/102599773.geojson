@@ -2,13 +2,14 @@
   "id": 102599773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.79827,33.500928,-86.79827,33.500928",
     "geom:latitude":33.500928,
     "geom:longitude":-86.79827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1021 19th St S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819533,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85819533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102599773,
-    "wof:lastmodified":1449068883,
+    "wof:lastmodified":1466317295,
     "wof:name":"Raphael J Thornton DMD/PC",
     "wof:parent_id":85819533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.79827,33.500928,-86.79827,33.500928],
+  "bbox": [
+    -86.79827,
+    33.500928,
+    -86.79827,
+    33.500928
+],
   "geometry": {"coordinates":[-86.79827,33.500928],"type":"Point"}
 }

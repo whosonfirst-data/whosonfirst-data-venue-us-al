@@ -2,13 +2,14 @@
   "id": 152592171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.559531,34.751407,-86.559531,34.751407",
     "geom:latitude":34.751407,
     "geom:longitude":-86.559531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2006 Reuben Dr NE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813599,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85813599
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152592171,
-    "wof:lastmodified":1449046955,
+    "wof:lastmodified":1466318800,
     "wof:name":"Chapman Elementary School",
     "wof:parent_id":85813599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.559531,34.751407,-86.559531,34.751407],
-  "geometry": {"coordinates":[-86.559531,34.751407],"type":"Point"}
+  "bbox": [
+    -86.559531,
+    34.751407,
+    -86.559531,
+    34.751407
+],
+  "geometry": {"coordinates":[-86.55953100000001,34.751407],"type":"Point"}
 }

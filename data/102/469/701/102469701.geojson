@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102469701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.59068,34.762344,-86.59068,34.762344",
     "geom:latitude":34.762344,
     "geom:longitude":-86.59068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2001 Sparkman Dr NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811925,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85811925
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102469701,
-    "wof:lastmodified":1449070270,
+    "wof:lastmodified":1466315272,
     "wof:name":"CNAC",
     "wof:parent_id":85811925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.59068,34.762344,-86.59068,34.762344],
-  "geometry": {"coordinates":[-86.59068,34.762344],"type":"Point"}
+  "bbox": [
+    -86.59068,
+    34.762344,
+    -86.59068,
+    34.762344
+],
+  "geometry": {"coordinates":[-86.59068000000001,34.762344],"type":"Point"}
 }

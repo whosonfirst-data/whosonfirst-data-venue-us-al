@@ -2,13 +2,14 @@
   "id": 152209909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.633897,33.231897,-87.633897,33.231897",
     "geom:latitude":33.231897,
     "geom:longitude":-87.633897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9125 Energy Ln",
     "sg:city":"Northport",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811495,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85811495
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152209909,
-    "wof:lastmodified":1449048432,
+    "wof:lastmodified":1466316039,
     "wof:name":"Schrabeck Environmental Const",
     "wof:parent_id":85811495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.633897,33.231897,-87.633897,33.231897],
+  "bbox": [
+    -87.633897,
+    33.231897,
+    -87.633897,
+    33.231897
+],
   "geometry": {"coordinates":[-87.633897,33.231897],"type":"Point"}
 }

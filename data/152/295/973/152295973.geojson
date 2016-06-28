@@ -2,13 +2,14 @@
   "id": 152295973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.647883,34.725281,-87.647883,34.725281",
     "geom:latitude":34.725281,
     "geom:longitude":-87.647883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1603 Brentwood",
     "sg:city":"Muscle Shoals",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816399,
+        85688675,
         85633793,
         85897481,
         102085625,
-        85688675
+        85816399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152295973,
-    "wof:lastmodified":1449046185,
+    "wof:lastmodified":1466317097,
     "wof:name":"Rainbow Pools Inc",
     "wof:parent_id":85816399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.647883,34.725281,-87.647883,34.725281],
-  "geometry": {"coordinates":[-87.647883,34.725281],"type":"Point"}
+  "bbox": [
+    -87.647883,
+    34.725281,
+    -87.647883,
+    34.725281
+],
+  "geometry": {"coordinates":[-87.64788299999999,34.725281],"type":"Point"}
 }

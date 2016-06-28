@@ -2,13 +2,14 @@
   "id": 152793957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.832349,33.609496,-85.832349,33.609496",
     "geom:latitude":33.609496,
     "geom:longitude":-85.832349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"915 Stewart St",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829455,
+        85688675,
         85633793,
         85914281,
         102085603,
-        85688675
+        85829455
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152793957,
-    "wof:lastmodified":1449046843,
+    "wof:lastmodified":1466319860,
     "wof:name":"Oxford Senior High School",
     "wof:parent_id":85829455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.832349,33.609496,-85.832349,33.609496],
-  "geometry": {"coordinates":[-85.832349,33.609496],"type":"Point"}
+  "bbox": [
+    -85.832349,
+    33.609496,
+    -85.832349,
+    33.609496
+],
+  "geometry": {"coordinates":[-85.83234899999999,33.609496],"type":"Point"}
 }

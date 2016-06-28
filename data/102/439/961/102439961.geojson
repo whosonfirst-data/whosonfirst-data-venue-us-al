@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102439961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.267063,30.671744,-88.267063,30.671744",
     "geom:latitude":30.671744,
     "geom:longitude":-88.267063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9180 Airport Blvd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085585,
-        85633793,
         85688675,
-        85895801
+        85633793,
+        85895801,
+        102085585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102439961,
-    "wof:lastmodified":1449068446,
+    "wof:lastmodified":1466314482,
     "wof:name":"Kelly's Family Haircare & Tan",
     "wof:parent_id":85895801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.267063,30.671744,-88.267063,30.671744],
-  "geometry": {"coordinates":[-88.267063,30.671744],"type":"Point"}
+  "bbox": [
+    -88.267063,
+    30.671744,
+    -88.267063,
+    30.671744
+],
+  "geometry": {"coordinates":[-88.26706299999999,30.671744],"type":"Point"}
 }

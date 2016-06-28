@@ -2,13 +2,14 @@
   "id": 152252447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.254579,30.407018,-88.254579,30.407018",
     "geom:latitude":30.407018,
     "geom:longitude":-88.254579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9025 Little River Rd",
     "sg:city":"Bayou La Batre",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152252447,
-    "wof:lastmodified":1449044912,
+    "wof:lastmodified":1466316648,
     "wof:name":"White Trash Kennels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.254579,30.407018,-88.254579,30.407018],
-  "geometry": {"coordinates":[-88.254579,30.407018],"type":"Point"}
+  "bbox": [
+    -88.254579,
+    30.407018,
+    -88.254579,
+    30.407018
+],
+  "geometry": {"coordinates":[-88.25457900000001,30.407018],"type":"Point"}
 }

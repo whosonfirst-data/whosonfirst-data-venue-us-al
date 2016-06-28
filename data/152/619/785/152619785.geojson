@@ -2,13 +2,14 @@
   "id": 152619785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.904932,34.752312,-85.904932,34.752312",
     "geom:latitude":34.752312,
     "geom:longitude":-85.904932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"355 Co Rd 213",
     "sg:city":"Hollywood",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809451,
+        85688675,
         85633793,
         85914033,
         102085607,
-        85688675
+        85809451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152619785,
-    "wof:lastmodified":1449045139,
+    "wof:lastmodified":1466318967,
     "wof:name":"Creekstone Inc",
     "wof:parent_id":85809451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.904932,34.752312,-85.904932,34.752312],
+  "bbox": [
+    -85.904932,
+    34.752312,
+    -85.904932,
+    34.752312
+],
   "geometry": {"coordinates":[-85.904932,34.752312],"type":"Point"}
 }

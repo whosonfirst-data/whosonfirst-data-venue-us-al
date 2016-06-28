@@ -2,13 +2,14 @@
   "id": 152376263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.440306,33.673949,-86.440306,33.673949",
     "geom:latitude":33.673949,
     "geom:longitude":-86.440306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"775 Copper Springs Rd",
     "sg:city":"Odenville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807031,
+        85688675,
         85633793,
         85913421,
         102085647,
-        85688675
+        85807031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152376263,
-    "wof:lastmodified":1449045893,
+    "wof:lastmodified":1466317702,
     "wof:name":"Price Heating & AC",
     "wof:parent_id":85807031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.440306,33.673949,-86.440306,33.673949],
-  "geometry": {"coordinates":[-86.440306,33.673949],"type":"Point"}
+  "bbox": [
+    -86.440306,
+    33.673949,
+    -86.440306,
+    33.673949
+],
+  "geometry": {"coordinates":[-86.44030600000001,33.673949],"type":"Point"}
 }

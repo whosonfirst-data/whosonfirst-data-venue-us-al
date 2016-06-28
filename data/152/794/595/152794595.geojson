@@ -2,13 +2,14 @@
   "id": 152794595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.577376,33.195222,-87.577376,33.195222",
     "geom:latitude":33.195222,
     "geom:longitude":-87.577376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3008 Short 19th St",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813829,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85813829
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152794595,
-    "wof:lastmodified":1449046525,
+    "wof:lastmodified":1466319808,
     "wof:name":"Christway Christian Outreach",
     "wof:parent_id":85813829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.577376,33.195222,-87.577376,33.195222],
+  "bbox": [
+    -87.577376,
+    33.195222,
+    -87.577376,
+    33.195222
+],
   "geometry": {"coordinates":[-87.577376,33.195222],"type":"Point"}
 }

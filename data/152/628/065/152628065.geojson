@@ -2,13 +2,14 @@
   "id": 152628065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.525033,31.082742,-87.525033,31.082742",
     "geom:latitude":31.082742,
     "geom:longitude":-87.525033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"455 Kenneth Rd",
     "sg:city":"Atmore",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843687,
+        85688675,
         85633793,
         85899775,
         102085735,
-        85688675
+        85843687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152628065,
-    "wof:lastmodified":1449048044,
+    "wof:lastmodified":1466318961,
     "wof:name":"Bishop Family Clothing",
     "wof:parent_id":85843687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.525033,31.082742,-87.525033,31.082742],
-  "geometry": {"coordinates":[-87.525033,31.082742],"type":"Point"}
+  "bbox": [
+    -87.525033,
+    31.082742,
+    -87.525033,
+    31.082742
+],
+  "geometry": {"coordinates":[-87.52503299999999,31.082742],"type":"Point"}
 }

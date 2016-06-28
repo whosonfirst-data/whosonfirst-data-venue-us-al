@@ -2,13 +2,14 @@
   "id": 152700881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.209071,32.376478,-86.209071,32.376478",
     "geom:latitude":32.376478,
     "geom:longitude":-86.209071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5630 Eddins Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809571,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85809571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152700881,
-    "wof:lastmodified":1449048515,
+    "wof:lastmodified":1466319363,
     "wof:name":"Automotive Color Technology",
     "wof:parent_id":85809571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.209071,32.376478,-86.209071,32.376478],
-  "geometry": {"coordinates":[-86.209071,32.376478],"type":"Point"}
+  "bbox": [
+    -86.209071,
+    32.376478,
+    -86.209071,
+    32.376478
+],
+  "geometry": {"coordinates":[-86.20907099999999,32.376478],"type":"Point"}
 }

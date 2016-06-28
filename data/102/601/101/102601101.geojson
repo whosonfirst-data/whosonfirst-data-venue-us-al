@@ -2,13 +2,14 @@
   "id": 102601101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.177328,30.62386,-88.177328,30.62386",
     "geom:latitude":30.62386,
     "geom:longitude":-88.177328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5800 Southland Dr",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102601101,
-    "wof:lastmodified":1449068849,
+    "wof:lastmodified":1466317222,
     "wof:name":"Bay Pointe Hospital",
     "wof:parent_id":85913749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.177328,30.62386,-88.177328,30.62386],
+  "bbox": [
+    -88.177328,
+    30.62386,
+    -88.177328,
+    30.62386
+],
   "geometry": {"coordinates":[-88.177328,30.62386],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152424331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.69266,33.423067,-86.69266,33.423067",
     "geom:latitude":33.423067,
     "geom:longitude":-86.69266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Hunt Cliff Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85826983
+        85633793,
+        85826983,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152424331,
-    "wof:lastmodified":1449048633,
+    "wof:lastmodified":1466317961,
     "wof:name":"Cahaba Lakes Apartments",
     "wof:parent_id":85826983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.69266,33.423067,-86.69266,33.423067],
+  "bbox": [
+    -86.69266,
+    33.423067,
+    -86.69266,
+    33.423067
+],
   "geometry": {"coordinates":[-86.69266,33.423067],"type":"Point"}
 }

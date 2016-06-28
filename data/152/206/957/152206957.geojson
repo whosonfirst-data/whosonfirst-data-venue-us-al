@@ -2,13 +2,14 @@
   "id": 152206957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.154717,32.822743,-88.154717,32.822743",
     "geom:latitude":32.822743,
     "geom:longitude":-88.154717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"161 Yankee St",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152206957,
-    "wof:lastmodified":1449047440,
+    "wof:lastmodified":1466316118,
     "wof:name":"Gainesville Vlntr Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.154717,32.822743,-88.154717,32.822743],
-  "geometry": {"coordinates":[-88.154717,32.822743],"type":"Point"}
+  "bbox": [
+    -88.154717,
+    32.822743,
+    -88.154717,
+    32.822743
+],
+  "geometry": {"coordinates":[-88.15471700000001,32.822743],"type":"Point"}
 }

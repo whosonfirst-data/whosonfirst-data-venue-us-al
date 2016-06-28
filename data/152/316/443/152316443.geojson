@@ -2,13 +2,14 @@
   "id": 152316443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.435615,33.419748,-86.435615,33.419748",
     "geom:latitude":33.419748,
     "geom:longitude":-86.435615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1650 Co Rd 467",
     "sg:city":"Vincent",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85841999
+        85633793,
+        85841999,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152316443,
-    "wof:lastmodified":1449047429,
+    "wof:lastmodified":1466317378,
     "wof:name":"Whitfield's Upholstery Fabric",
     "wof:parent_id":85841999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.435615,33.419748,-86.435615,33.419748],
+  "bbox": [
+    -86.435615,
+    33.419748,
+    -86.435615,
+    33.419748
+],
   "geometry": {"coordinates":[-86.435615,33.419748],"type":"Point"}
 }

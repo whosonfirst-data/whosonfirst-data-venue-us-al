@@ -2,13 +2,14 @@
   "id": 152621885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.04328,33.462217,-87.04328,33.462217",
     "geom:latitude":33.462217,
     "geom:longitude":-87.04328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1518 Lilly Ln",
     "sg:city":"Bessemer",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152621885,
-    "wof:lastmodified":1449048369,
+    "wof:lastmodified":1466318973,
     "wof:name":"Smiths",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.04328,33.462217,-87.04328,33.462217],
+  "bbox": [
+    -87.04328,
+    33.462217,
+    -87.04328,
+    33.462217
+],
   "geometry": {"coordinates":[-87.04328,33.462217],"type":"Point"}
 }

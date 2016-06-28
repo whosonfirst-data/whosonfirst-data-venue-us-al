@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102442547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.987617,33.413274,-86.987617,33.413274",
     "geom:latitude":33.413274,
     "geom:longitude":-86.987617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1242 24th Ave",
     "sg:city":"Bessemer",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811055,
+        85688675,
         85633793,
         85914885,
         102085481,
-        85688675
+        85811055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102442547,
-    "wof:lastmodified":1449068818,
+    "wof:lastmodified":1466314395,
     "wof:name":"Westech",
     "wof:parent_id":85811055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.987617,33.413274,-86.987617,33.413274],
+  "bbox": [
+    -86.987617,
+    33.413274,
+    -86.987617,
+    33.413274
+],
   "geometry": {"coordinates":[-86.987617,33.413274],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152156761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.306531,32.377394,-86.306531,32.377394",
     "geom:latitude":32.377394,
     "geom:longitude":-86.306531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 Dexter Ave",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879037,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152156761,
-    "wof:lastmodified":1449045217,
+    "wof:lastmodified":1466315495,
     "wof:name":"Dorothy's Beauty Salon",
     "wof:parent_id":85879037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.306531,32.377394,-86.306531,32.377394],
-  "geometry": {"coordinates":[-86.306531,32.377394],"type":"Point"}
+  "bbox": [
+    -86.306531,
+    32.377394,
+    -86.306531,
+    32.377394
+],
+  "geometry": {"coordinates":[-86.30653100000001,32.377394],"type":"Point"}
 }

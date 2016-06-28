@@ -2,13 +2,14 @@
   "id": 152872637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.170018,32.341598,-86.170018,32.341598",
     "geom:latitude":32.341598,
     "geom:longitude":-86.170018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8228 Old Federal Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879051,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152872637,
-    "wof:lastmodified":1449044713,
+    "wof:lastmodified":1466320214,
     "wof:name":"Jerri Baker Real Estate",
     "wof:parent_id":85879051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.170018,32.341598,-86.170018,32.341598],
+  "bbox": [
+    -86.170018,
+    32.341598,
+    -86.170018,
+    32.341598
+],
   "geometry": {"coordinates":[-86.170018,32.341598],"type":"Point"}
 }

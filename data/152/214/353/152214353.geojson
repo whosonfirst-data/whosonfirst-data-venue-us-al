@@ -2,13 +2,14 @@
   "id": 152214353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.583728,34.747606,-86.583728,34.747606",
     "geom:latitude":34.747606,
     "geom:longitude":-86.583728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 Meridian St N",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878235,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878235
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152214353,
-    "wof:lastmodified":1449048770,
+    "wof:lastmodified":1466315923,
     "wof:name":"Cole Contracting Inc",
     "wof:parent_id":85878235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.583728,34.747606,-86.583728,34.747606],
-  "geometry": {"coordinates":[-86.583728,34.747606],"type":"Point"}
+  "bbox": [
+    -86.583728,
+    34.747606,
+    -86.583728,
+    34.747606
+],
+  "geometry": {"coordinates":[-86.58372799999999,34.747606],"type":"Point"}
 }

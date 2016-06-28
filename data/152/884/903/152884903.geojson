@@ -2,13 +2,14 @@
   "id": 152884903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.425617,32.459303,-86.425617,32.459303",
     "geom:latitude":32.459303,
     "geom:longitude":-86.425617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 Sheila Blvd",
     "sg:city":"Prattville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858707,
+        85688675,
         85633793,
         85913977,
         102085509,
-        85688675
+        85858707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152884903,
-    "wof:lastmodified":1449048023,
+    "wof:lastmodified":1466320287,
     "wof:name":"Kindercare Center 753",
     "wof:parent_id":85858707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.425617,32.459303,-86.425617,32.459303],
+  "bbox": [
+    -86.425617,
+    32.459303,
+    -86.425617,
+    32.459303
+],
   "geometry": {"coordinates":[-86.425617,32.459303],"type":"Point"}
 }

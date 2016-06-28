@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102498969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.945931,33.392698,-86.945931,33.392698",
     "geom:latitude":33.392698,
     "geom:longitude":-86.945931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 Fairfax Ave",
     "sg:city":"Bessemer",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807371,
+        85688675,
         85633793,
         85914885,
         102085481,
-        85688675
+        85807371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102498969,
-    "wof:lastmodified":1449069603,
+    "wof:lastmodified":1466316393,
     "wof:name":"Bessemer Housing Authority",
     "wof:parent_id":85807371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.945931,33.392698,-86.945931,33.392698],
+  "bbox": [
+    -86.945931,
+    33.392698,
+    -86.945931,
+    33.392698
+],
   "geometry": {"coordinates":[-86.945931,33.392698],"type":"Point"}
 }

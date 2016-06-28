@@ -2,13 +2,14 @@
   "id": 152703807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.119274,34.110428,-86.119274,34.110428",
     "geom:latitude":34.110428,
     "geom:longitude":-86.119274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"483 Bloodworth Rd",
     "sg:city":"Boaz",
     "sg:classifiers":[
@@ -36,10 +37,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085545,
-        85633793,
         85688675,
-        85851221
+        85633793,
+        85851221,
+        102085545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":152703807,
-    "wof:lastmodified":1449045708,
+    "wof:lastmodified":1466319379,
     "wof:name":"Hubbard Transportation",
     "wof:parent_id":85851221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.119274,34.110428,-86.119274,34.110428],
+  "bbox": [
+    -86.119274,
+    34.110428,
+    -86.119274,
+    34.110428
+],
   "geometry": {"coordinates":[-86.119274,34.110428],"type":"Point"}
 }

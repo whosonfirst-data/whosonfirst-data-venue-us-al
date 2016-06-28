@@ -2,13 +2,14 @@
   "id": 152226053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.119933,34.389226,-86.119933,34.389226",
     "geom:latitude":34.389226,
     "geom:longitude":-86.119933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1559 Kennamer Farm Rd",
     "sg:city":"Albertville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85830981,
+        85688675,
         85633793,
         85899833,
         102085513,
-        85688675
+        85830981
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152226053,
-    "wof:lastmodified":1449047649,
+    "wof:lastmodified":1466316163,
     "wof:name":"Floyd Auto Transport LLC",
     "wof:parent_id":85830981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.119933,34.389226,-86.119933,34.389226],
+  "bbox": [
+    -86.119933,
+    34.389226,
+    -86.119933,
+    34.389226
+],
   "geometry": {"coordinates":[-86.119933,34.389226],"type":"Point"}
 }

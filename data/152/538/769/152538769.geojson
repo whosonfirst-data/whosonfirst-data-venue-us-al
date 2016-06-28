@@ -2,13 +2,14 @@
   "id": 152538769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.972025,34.804254,-86.972025,34.804254",
     "geom:latitude":34.804254,
     "geom:longitude":-86.972025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 N Jefferson St",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829531,
+        85688675,
         85633793,
         85913543,
         102085489,
-        85688675
+        85829531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152538769,
-    "wof:lastmodified":1449044885,
+    "wof:lastmodified":1466318697,
     "wof:name":"Discount Vacuum Service",
     "wof:parent_id":85829531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.972025,34.804254,-86.972025,34.804254],
+  "bbox": [
+    -86.972025,
+    34.804254,
+    -86.972025,
+    34.804254
+],
   "geometry": {"coordinates":[-86.972025,34.804254],"type":"Point"}
 }

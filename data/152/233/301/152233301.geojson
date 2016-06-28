@@ -2,13 +2,14 @@
   "id": 152233301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.214195,32.38175,-86.214195,32.38175",
     "geom:latitude":32.38175,
     "geom:longitude":-86.214195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5460 Atlanta Hwy",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809571,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85809571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152233301,
-    "wof:lastmodified":1449048969,
+    "wof:lastmodified":1466316424,
     "wof:name":"Ok Market",
     "wof:parent_id":85809571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.214195,32.38175,-86.214195,32.38175],
+  "bbox": [
+    -86.214195,
+    32.38175,
+    -86.214195,
+    32.38175
+],
   "geometry": {"coordinates":[-86.214195,32.38175],"type":"Point"}
 }

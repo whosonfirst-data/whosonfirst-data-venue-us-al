@@ -2,13 +2,14 @@
   "id": 152721757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.927443,33.554632,-86.927443,33.554632",
     "geom:latitude":33.554632,
     "geom:longitude":-86.927443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 6th Ave",
     "sg:city":"Docena",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.jayelectric.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820003,
+        85688675,
         85633793,
         85914875,
         102085481,
-        85688675
+        85820003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152721757,
-    "wof:lastmodified":1449048891,
+    "wof:lastmodified":1466319466,
     "wof:name":"Jay Electric & Machine",
     "wof:parent_id":85820003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.927443,33.554632,-86.927443,33.554632],
+  "bbox": [
+    -86.927443,
+    33.554632,
+    -86.927443,
+    33.554632
+],
   "geometry": {"coordinates":[-86.927443,33.554632],"type":"Point"}
 }

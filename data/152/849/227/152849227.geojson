@@ -2,13 +2,14 @@
   "id": 152849227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.247426,34.557995,-87.247426,34.557995",
     "geom:latitude":34.557995,
     "geom:longitude":-87.247426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"571 Co Rd 307",
     "sg:city":"Moulton",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085601,
-        85633793,
         85688675,
-        85851971
+        85633793,
+        85851971,
+        102085601
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152849227,
-    "wof:lastmodified":1449045158,
+    "wof:lastmodified":1466320074,
     "wof:name":"McDaniel Consulting",
     "wof:parent_id":85851971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.247426,34.557995,-87.247426,34.557995],
+  "bbox": [
+    -87.247426,
+    34.557995,
+    -87.247426,
+    34.557995
+],
   "geometry": {"coordinates":[-87.247426,34.557995],"type":"Point"}
 }

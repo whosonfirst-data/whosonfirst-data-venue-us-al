@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102439651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.414297,32.493565,-86.414297,32.493565",
     "geom:latitude":32.493565,
     "geom:longitude":-86.414297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1966 Calumet Pkwy",
     "sg:city":"Prattville",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085631,
-        85633793,
         85688675,
-        85819047
+        85633793,
+        85819047,
+        102085631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102439651,
-    "wof:lastmodified":1449068442,
+    "wof:lastmodified":1466314418,
     "wof:name":"Lssc",
     "wof:parent_id":85819047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.414297,32.493565,-86.414297,32.493565],
+  "bbox": [
+    -86.414297,
+    32.493565,
+    -86.414297,
+    32.493565
+],
   "geometry": {"coordinates":[-86.414297,32.493565],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152754511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.705166,34.733337,-86.705166,34.733337",
     "geom:latitude":34.733337,
     "geom:longitude":-86.705166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"227 Ironwood Ct",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85826841,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85826841
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152754511,
-    "wof:lastmodified":1449047325,
+    "wof:lastmodified":1466319619,
     "wof:name":"Okike Okechuku",
     "wof:parent_id":85826841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.705166,34.733337,-86.705166,34.733337],
-  "geometry": {"coordinates":[-86.705166,34.733337],"type":"Point"}
+  "bbox": [
+    -86.705166,
+    34.733337,
+    -86.705166,
+    34.733337
+],
+  "geometry": {"coordinates":[-86.70516600000001,34.733337],"type":"Point"}
 }

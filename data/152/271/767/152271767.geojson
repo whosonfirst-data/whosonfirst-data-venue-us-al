@@ -2,13 +2,14 @@
   "id": 152271767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.877745,33.726837,-85.877745,33.726837",
     "geom:latitude":33.726837,
     "geom:longitude":-85.877745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3811 US Hwy 431",
     "sg:city":"Anniston",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.servpronet.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825451,
+        85688675,
         85633793,
         85915207,
         102085603,
-        85688675
+        85825451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152271767,
-    "wof:lastmodified":1449046723,
+    "wof:lastmodified":1466316896,
     "wof:name":"Servpro Of Anniston",
     "wof:parent_id":85825451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.877745,33.726837,-85.877745,33.726837],
+  "bbox": [
+    -85.877745,
+    33.726837,
+    -85.877745,
+    33.726837
+],
   "geometry": {"coordinates":[-85.877745,33.726837],"type":"Point"}
 }

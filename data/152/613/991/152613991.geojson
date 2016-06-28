@@ -2,13 +2,14 @@
   "id": 152613991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.888352,34.102136,-86.888352,34.102136",
     "geom:latitude":34.102136,
     "geom:longitude":-86.888352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"274 Stricklin Rd",
     "sg:city":"Cullman",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867305,
+        85688675,
         85633793,
         85914167,
         102085729,
-        85688675
+        85867305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152613991,
-    "wof:lastmodified":1449046460,
+    "wof:lastmodified":1466318959,
     "wof:name":"Living Wonders",
     "wof:parent_id":85867305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.888352,34.102136,-86.888352,34.102136],
+  "bbox": [
+    -86.888352,
+    34.102136,
+    -86.888352,
+    34.102136
+],
   "geometry": {"coordinates":[-86.888352,34.102136],"type":"Point"}
 }

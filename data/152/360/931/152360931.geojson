@@ -2,13 +2,14 @@
   "id": 152360931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.611867,34.720184,-86.611867,34.720184",
     "geom:latitude":34.720184,
     "geom:longitude":-86.611867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3312 Governors Dr SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825531,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85825531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152360931,
-    "wof:lastmodified":1449047860,
+    "wof:lastmodified":1466317650,
     "wof:name":"Tee's Designer Loft",
     "wof:parent_id":85825531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.611867,34.720184,-86.611867,34.720184],
+  "bbox": [
+    -86.611867,
+    34.720184,
+    -86.611867,
+    34.720184
+],
   "geometry": {"coordinates":[-86.611867,34.720184],"type":"Point"}
 }

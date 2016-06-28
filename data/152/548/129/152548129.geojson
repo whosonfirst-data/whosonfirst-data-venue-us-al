@@ -2,13 +2,14 @@
   "id": 152548129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.595609,34.803081,-86.595609,34.803081",
     "geom:latitude":34.803081,
     "geom:longitude":-86.595609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6213 Menifee Dr NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85810627,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85810627
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152548129,
-    "wof:lastmodified":1449047497,
+    "wof:lastmodified":1466318571,
     "wof:name":"Professional Painting Inc",
     "wof:parent_id":85810627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.595609,34.803081,-86.595609,34.803081],
+  "bbox": [
+    -86.595609,
+    34.803081,
+    -86.595609,
+    34.803081
+],
   "geometry": {"coordinates":[-86.595609,34.803081],"type":"Point"}
 }

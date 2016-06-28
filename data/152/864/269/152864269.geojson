@@ -2,13 +2,14 @@
   "id": 152864269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.914594,34.544469,-86.914594,34.544469",
     "geom:latitude":34.544469,
     "geom:longitude":-86.914594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3109 Upper River Rd",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813087,
+        85688675,
         85633793,
         85913589,
         102085531,
-        85688675
+        85813087
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152864269,
-    "wof:lastmodified":1449048952,
+    "wof:lastmodified":1466320171,
     "wof:name":"Dumas Floor Covering",
     "wof:parent_id":85813087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.914594,34.544469,-86.914594,34.544469],
-  "geometry": {"coordinates":[-86.914594,34.544469],"type":"Point"}
+  "bbox": [
+    -86.914594,
+    34.544469,
+    -86.914594,
+    34.544469
+],
+  "geometry": {"coordinates":[-86.91459399999999,34.544469],"type":"Point"}
 }

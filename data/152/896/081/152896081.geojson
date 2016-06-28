@@ -2,13 +2,14 @@
   "id": 152896081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.724681,34.687276,-86.724681,34.687276",
     "geom:latitude":34.687276,
     "geom:longitude":-86.724681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8191 Madison Blvd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807231,
+        85688675,
         85633793,
         85913593,
         102085487,
-        85688675
+        85807231
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152896081,
-    "wof:lastmodified":1449045996,
+    "wof:lastmodified":1466320296,
     "wof:name":"Washington Homes Inc",
     "wof:parent_id":85807231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.724681,34.687276,-86.724681,34.687276],
+  "bbox": [
+    -86.724681,
+    34.687276,
+    -86.724681,
+    34.687276
+],
   "geometry": {"coordinates":[-86.724681,34.687276],"type":"Point"}
 }

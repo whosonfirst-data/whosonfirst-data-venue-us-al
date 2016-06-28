@@ -2,13 +2,14 @@
   "id": 152658173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.991496,32.957941,-85.991496,32.957941",
     "geom:latitude":32.957941,
     "geom:longitude":-85.991496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3017 Washington St",
     "sg:city":"Alexander City",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840481,
+        85688675,
         85633793,
         85913363,
         102085567,
-        85688675
+        85840481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152658173,
-    "wof:lastmodified":1449044180,
+    "wof:lastmodified":1466319120,
     "wof:name":"Mayfield Salvage",
     "wof:parent_id":85840481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.991496,32.957941,-85.991496,32.957941],
+  "bbox": [
+    -85.991496,
+    32.957941,
+    -85.991496,
+    32.957941
+],
   "geometry": {"coordinates":[-85.991496,32.957941],"type":"Point"}
 }

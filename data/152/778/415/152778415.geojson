@@ -2,13 +2,14 @@
   "id": 152778415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.432199,34.580728,-86.432199,34.580728",
     "geom:latitude":34.580728,
     "geom:longitude":-86.432199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"631 Piney Woods Rd",
     "sg:city":"Owens Cross Roads",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878245,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152778415,
-    "wof:lastmodified":1449044384,
+    "wof:lastmodified":1466319808,
     "wof:name":"McDaniel & Hendrix Drywall",
     "wof:parent_id":85878245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.432199,34.580728,-86.432199,34.580728],
+  "bbox": [
+    -86.432199,
+    34.580728,
+    -86.432199,
+    34.580728
+],
   "geometry": {"coordinates":[-86.432199,34.580728],"type":"Point"}
 }

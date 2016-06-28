@@ -2,13 +2,14 @@
   "id": 152767517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.767081,33.516161,-86.767081,33.516161",
     "geom:latitude":33.516161,
     "geom:longitude":-86.767081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4216 Clairmont Ave S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876275,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152767517,
-    "wof:lastmodified":1449045620,
+    "wof:lastmodified":1466319675,
     "wof:name":"Southern Food Consult",
     "wof:parent_id":85876275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.767081,33.516161,-86.767081,33.516161],
+  "bbox": [
+    -86.767081,
+    33.516161,
+    -86.767081,
+    33.516161
+],
   "geometry": {"coordinates":[-86.767081,33.516161],"type":"Point"}
 }

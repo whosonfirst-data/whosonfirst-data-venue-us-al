@@ -2,13 +2,14 @@
   "id": 152865137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.450468,34.584795,-86.450468,34.584795",
     "geom:latitude":34.584795,
     "geom:longitude":-86.450468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8947 US Hwy 431",
     "sg:city":"Owens Cross Rds",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878245,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152865137,
-    "wof:lastmodified":1449047789,
+    "wof:lastmodified":1466320163,
     "wof:name":"Sam Williams Svc",
     "wof:parent_id":85878245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.450468,34.584795,-86.450468,34.584795],
+  "bbox": [
+    -86.450468,
+    34.584795,
+    -86.450468,
+    34.584795
+],
   "geometry": {"coordinates":[-86.450468,34.584795],"type":"Point"}
 }

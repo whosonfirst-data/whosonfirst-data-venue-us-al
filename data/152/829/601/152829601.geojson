@@ -2,13 +2,14 @@
   "id": 152829601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.79573,33.977013,-85.79573,33.977013",
     "geom:latitude":33.977013,
     "geom:longitude":-85.79573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9755 US Hwy 278 E",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":152829601,
-    "wof:lastmodified":1449048615,
+    "wof:lastmodified":1466320129,
     "wof:name":"Julie's Fireworks Discount",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.79573,33.977013,-85.79573,33.977013],
-  "geometry": {"coordinates":[-85.79573,33.977013],"type":"Point"}
+  "bbox": [
+    -85.79573,
+    33.977013,
+    -85.79573,
+    33.977013
+],
+  "geometry": {"coordinates":[-85.79573000000001,33.977013],"type":"Point"}
 }

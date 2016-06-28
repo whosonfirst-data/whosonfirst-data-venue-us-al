@@ -2,13 +2,14 @@
   "id": 152579337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.80409,33.228606,-86.80409,33.228606",
     "geom:latitude":33.228606,
     "geom:longitude":-86.80409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 1st St S",
     "sg:city":"Alabaster",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85853623
+        85633793,
+        85853623,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152579337,
-    "wof:lastmodified":1449045778,
+    "wof:lastmodified":1466318991,
     "wof:name":"Bed & Futon Gallery",
     "wof:parent_id":85853623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.80409,33.228606,-86.80409,33.228606],
+  "bbox": [
+    -86.80409,
+    33.228606,
+    -86.80409,
+    33.228606
+],
   "geometry": {"coordinates":[-86.80409,33.228606],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152308907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.585859,34.728602,-86.585859,34.728602",
     "geom:latitude":34.728602,
     "geom:longitude":-86.585859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 Fountain Cir SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.hsvcity.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878237,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152308907,
-    "wof:lastmodified":1449049019,
+    "wof:lastmodified":1466317033,
     "wof:name":"Huntsville Clerks Office",
     "wof:parent_id":85878237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.585859,34.728602,-86.585859,34.728602],
+  "bbox": [
+    -86.585859,
+    34.728602,
+    -86.585859,
+    34.728602
+],
   "geometry": {"coordinates":[-86.585859,34.728602],"type":"Point"}
 }

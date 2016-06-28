@@ -2,13 +2,14 @@
   "id": 102632037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.795108,33.350439,-86.795108,33.350439",
     "geom:latitude":33.350439,
     "geom:longitude":-86.795108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1839 Montgomery Hwy",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802401,
+        85688675,
         85633793,
         85914475,
         102085499,
-        85688675
+        85802401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102632037,
-    "wof:lastmodified":1449069307,
+    "wof:lastmodified":1466317489,
     "wof:name":"D L Acton Construction Co",
     "wof:parent_id":85802401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.795108,33.350439,-86.795108,33.350439],
+  "bbox": [
+    -86.795108,
+    33.350439,
+    -86.795108,
+    33.350439
+],
   "geometry": {"coordinates":[-86.795108,33.350439],"type":"Point"}
 }

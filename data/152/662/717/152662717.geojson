@@ -2,13 +2,14 @@
   "id": 152662717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.184351,30.687159,-88.184351,30.687159",
     "geom:latitude":30.687159,
     "geom:longitude":-88.184351,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"142 West Dr",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -35,11 +36,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895799,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85895799
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":152662717,
-    "wof:lastmodified":1449047423,
+    "wof:lastmodified":1466319155,
     "wof:name":"Morrison Nursery & Garden Ctr",
     "wof:parent_id":85895799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.184351,30.687159,-88.184351,30.687159],
-  "geometry": {"coordinates":[-88.184351,30.687159],"type":"Point"}
+  "bbox": [
+    -88.184351,
+    30.687159,
+    -88.184351,
+    30.687159
+],
+  "geometry": {"coordinates":[-88.18435100000001,30.687159],"type":"Point"}
 }

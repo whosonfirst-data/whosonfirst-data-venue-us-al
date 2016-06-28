@@ -2,13 +2,14 @@
   "id": 152726603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.264277,32.336359,-86.264277,32.336359",
     "geom:latitude":32.336359,
     "geom:longitude":-86.264277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2831 N Colonial Dr",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879045,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152726603,
-    "wof:lastmodified":1449047470,
+    "wof:lastmodified":1466319455,
     "wof:name":"Pritchard Plumbing Heating",
     "wof:parent_id":85879045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.264277,32.336359,-86.264277,32.336359],
-  "geometry": {"coordinates":[-86.264277,32.336359],"type":"Point"}
+  "bbox": [
+    -86.264277,
+    32.336359,
+    -86.264277,
+    32.336359
+],
+  "geometry": {"coordinates":[-86.26427700000001,32.336359],"type":"Point"}
 }

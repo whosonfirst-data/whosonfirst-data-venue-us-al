@@ -2,13 +2,14 @@
   "id": 152394395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.474816,33.945594,-86.474816,33.945594",
     "geom:latitude":33.945594,
     "geom:longitude":-86.474816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 1st Ave E",
     "sg:city":"Oneonta",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085667,
-        85633793,
         85688675,
-        85819523
+        85633793,
+        85819523,
+        102085667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152394395,
-    "wof:lastmodified":1449045201,
+    "wof:lastmodified":1466317817,
     "wof:name":"Ann Beaird Studios",
     "wof:parent_id":85819523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.474816,33.945594,-86.474816,33.945594],
+  "bbox": [
+    -86.474816,
+    33.945594,
+    -86.474816,
+    33.945594
+],
   "geometry": {"coordinates":[-86.474816,33.945594],"type":"Point"}
 }

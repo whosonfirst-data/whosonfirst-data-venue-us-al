@@ -2,13 +2,14 @@
   "id": 152260703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.188444,32.381261,-86.188444,32.381261",
     "geom:latitude":32.381261,
     "geom:longitude":-86.188444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 Market Pl",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829705,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85829705
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152260703,
-    "wof:lastmodified":1449045078,
+    "wof:lastmodified":1466316582,
     "wof:name":"Mc Kee-Southern Marketing Inc",
     "wof:parent_id":85829705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.188444,32.381261,-86.188444,32.381261],
+  "bbox": [
+    -86.188444,
+    32.381261,
+    -86.188444,
+    32.381261
+],
   "geometry": {"coordinates":[-86.188444,32.381261],"type":"Point"}
 }

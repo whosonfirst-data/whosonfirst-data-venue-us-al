@@ -2,13 +2,14 @@
   "id": 152435917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.026641,34.027353,-86.026641,34.027353",
     "geom:latitude":34.027353,
     "geom:longitude":-86.026641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1507 Tuscaloosa Ave",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805515,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85805515
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":152435917,
-    "wof:lastmodified":1449048492,
+    "wof:lastmodified":1466318101,
     "wof:name":"Alabama Soda Blasting LLC",
     "wof:parent_id":85805515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.026641,34.027353,-86.026641,34.027353],
+  "bbox": [
+    -86.026641,
+    34.027353,
+    -86.026641,
+    34.027353
+],
   "geometry": {"coordinates":[-86.026641,34.027353],"type":"Point"}
 }

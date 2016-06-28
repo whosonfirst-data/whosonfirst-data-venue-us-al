@@ -2,13 +2,14 @@
   "id": 152709891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.669318,33.113512,-87.669318,33.113512",
     "geom:latitude":33.113512,
     "geom:longitude":-87.669318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14036 Dry Creek Rd",
     "sg:city":"Fosters",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085553,
-        85633793,
         85688675,
-        85851887
+        85633793,
+        85851887,
+        102085553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152709891,
-    "wof:lastmodified":1449045228,
+    "wof:lastmodified":1466319383,
     "wof:name":"Zion Hill AME Church",
     "wof:parent_id":85851887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.669318,33.113512,-87.669318,33.113512],
+  "bbox": [
+    -87.669318,
+    33.113512,
+    -87.669318,
+    33.113512
+],
   "geometry": {"coordinates":[-87.669318,33.113512],"type":"Point"}
 }

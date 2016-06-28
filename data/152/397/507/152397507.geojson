@@ -2,13 +2,14 @@
   "id": 152397507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.725353,33.380755,-86.725353,33.380755",
     "geom:latitude":33.380755,
     "geom:longitude":-86.725353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5349 Pineywood Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -30,10 +31,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85826093
+        85633793,
+        85826093,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152397507,
-    "wof:lastmodified":1449046151,
+    "wof:lastmodified":1466317850,
     "wof:name":"Johnny Greenseed",
     "wof:parent_id":85826093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.725353,33.380755,-86.725353,33.380755],
+  "bbox": [
+    -86.725353,
+    33.380755,
+    -86.725353,
+    33.380755
+],
   "geometry": {"coordinates":[-86.725353,33.380755],"type":"Point"}
 }

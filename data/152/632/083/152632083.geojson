@@ -2,13 +2,14 @@
   "id": 152632083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.733263,33.10511,-86.733263,33.10511",
     "geom:latitude":33.10511,
     "geom:longitude":-86.733263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11937 State Rte 25",
     "sg:city":"Calera",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85849529
+        85633793,
+        85849529,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152632083,
-    "wof:lastmodified":1449047248,
+    "wof:lastmodified":1466319133,
     "wof:name":"Calera I 65 25 Package",
     "wof:parent_id":85849529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.733263,33.10511,-86.733263,33.10511],
-  "geometry": {"coordinates":[-86.733263,33.10511],"type":"Point"}
+  "bbox": [
+    -86.733263,
+    33.10511,
+    -86.733263,
+    33.10511
+],
+  "geometry": {"coordinates":[-86.73326299999999,33.10511],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152134631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.124675,30.708473,-88.124675,30.708473",
     "geom:latitude":30.708473,
     "geom:longitude":-88.124675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3606 Moffett Rd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85841745,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85841745
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152134631,
-    "wof:lastmodified":1449048662,
+    "wof:lastmodified":1466315241,
     "wof:name":"Speedway 9095",
     "wof:parent_id":85841745,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.124675,30.708473,-88.124675,30.708473],
+  "bbox": [
+    -88.124675,
+    30.708473,
+    -88.124675,
+    30.708473
+],
   "geometry": {"coordinates":[-88.124675,30.708473],"type":"Point"}
 }

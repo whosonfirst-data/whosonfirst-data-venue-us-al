@@ -2,13 +2,14 @@
   "id": 152125375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.493318,34.836083,-86.493318,34.836083",
     "geom:latitude":34.836083,
     "geom:longitude":-86.493318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"144 A Smith Rd",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":152125375,
-    "wof:lastmodified":1449048752,
+    "wof:lastmodified":1466314720,
     "wof:name":"Stan Barham",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.493318,34.836083,-86.493318,34.836083],
+  "bbox": [
+    -86.493318,
+    34.836083,
+    -86.493318,
+    34.836083
+],
   "geometry": {"coordinates":[-86.493318,34.836083],"type":"Point"}
 }

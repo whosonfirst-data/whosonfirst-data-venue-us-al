@@ -2,13 +2,14 @@
   "id": 152148359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.680619,33.442156,-86.680619,33.442156",
     "geom:latitude":33.442156,
     "geom:longitude":-86.680619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2097 Brook Highland Ridge",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85833411
+        85633793,
+        85833411,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152148359,
-    "wof:lastmodified":1449048188,
+    "wof:lastmodified":1466314441,
     "wof:name":"Proforma Print It",
     "wof:parent_id":85833411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.680619,33.442156,-86.680619,33.442156],
-  "geometry": {"coordinates":[-86.680619,33.442156],"type":"Point"}
+  "bbox": [
+    -86.680619,
+    33.442156,
+    -86.680619,
+    33.442156
+],
+  "geometry": {"coordinates":[-86.68061899999999,33.442156],"type":"Point"}
 }

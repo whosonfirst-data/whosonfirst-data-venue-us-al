@@ -2,13 +2,14 @@
   "id": 152603879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.341636,32.348164,-86.341636,32.348164",
     "geom:latitude":32.348164,
     "geom:longitude":-86.341636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1306 Air Base Blvd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833745,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85833745
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152603879,
-    "wof:lastmodified":1449048199,
+    "wof:lastmodified":1466318896,
     "wof:name":"Moody Tire Service Inc",
     "wof:parent_id":85833745,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.341636,32.348164,-86.341636,32.348164],
-  "geometry": {"coordinates":[-86.341636,32.348164],"type":"Point"}
+  "bbox": [
+    -86.341636,
+    32.348164,
+    -86.341636,
+    32.348164
+],
+  "geometry": {"coordinates":[-86.34163599999999,32.348164],"type":"Point"}
 }

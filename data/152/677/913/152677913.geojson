@@ -2,13 +2,14 @@
   "id": 152677913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.579518,34.277103,-86.579518,34.277103",
     "geom:latitude":34.277103,
     "geom:longitude":-86.579518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"956 Co Rd 1763",
     "sg:city":"Joppa",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.sullivanphotography.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867305,
+        85688675,
         85633793,
         85914167,
         102085729,
-        85688675
+        85867305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152677913,
-    "wof:lastmodified":1449045973,
+    "wof:lastmodified":1466319277,
     "wof:name":"Sullivan Photography",
     "wof:parent_id":85867305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.579518,34.277103,-86.579518,34.277103],
-  "geometry": {"coordinates":[-86.579518,34.277103],"type":"Point"}
+  "bbox": [
+    -86.579518,
+    34.277103,
+    -86.579518,
+    34.277103
+],
+  "geometry": {"coordinates":[-86.57951799999999,34.277103],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152254439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.287496,33.586644,-86.287496,33.586644",
     "geom:latitude":33.586644,
     "geom:longitude":-86.287496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1716 1st Ave N",
     "sg:city":"Pell City",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840553,
+        85688675,
         85633793,
         85913409,
         102085647,
-        85688675
+        85840553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152254439,
-    "wof:lastmodified":1449047473,
+    "wof:lastmodified":1466316709,
     "wof:name":"Norrell Clinic PA",
     "wof:parent_id":85840553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.287496,33.586644,-86.287496,33.586644],
+  "bbox": [
+    -86.287496,
+    33.586644,
+    -86.287496,
+    33.586644
+],
   "geometry": {"coordinates":[-86.287496,33.586644],"type":"Point"}
 }

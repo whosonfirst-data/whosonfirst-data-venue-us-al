@@ -2,13 +2,14 @@
   "id": 152214593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.41522,31.241257,-85.41522,31.241257",
     "geom:latitude":31.241257,
     "geom:longitude":-85.41522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2266 Montgomery Hwy",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851339,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85851339
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152214593,
-    "wof:lastmodified":1449048773,
+    "wof:lastmodified":1466316057,
     "wof:name":"American Reverse Mortgage",
     "wof:parent_id":85851339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.41522,31.241257,-85.41522,31.241257],
-  "geometry": {"coordinates":[-85.41522,31.241257],"type":"Point"}
+  "bbox": [
+    -85.41522,
+    31.241257,
+    -85.41522,
+    31.241257
+],
+  "geometry": {"coordinates":[-85.41522000000001,31.241257],"type":"Point"}
 }

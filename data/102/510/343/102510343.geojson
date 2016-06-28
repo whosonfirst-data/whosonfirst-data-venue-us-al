@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102510343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.823101,33.483827,-86.823101,33.483827",
     "geom:latitude":33.483827,
     "geom:longitude":-86.823101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2148 Green Springs Hwy S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821721,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85821721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102510343,
-    "wof:lastmodified":1449069190,
+    "wof:lastmodified":1466316635,
     "wof:name":"Red Mountain Animial Clinic",
     "wof:parent_id":85821721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.823101,33.483827,-86.823101,33.483827],
-  "geometry": {"coordinates":[-86.823101,33.483827],"type":"Point"}
+  "bbox": [
+    -86.823101,
+    33.483827,
+    -86.823101,
+    33.483827
+],
+  "geometry": {"coordinates":[-86.82310099999999,33.483827],"type":"Point"}
 }

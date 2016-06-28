@@ -2,13 +2,14 @@
   "id": 152339109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.886079,30.508609,-87.886079,30.508609",
     "geom:latitude":30.508609,
     "geom:longitude":-87.886079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19440 US Hwy 98",
     "sg:city":"Fairhope",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854025,
+        85688675,
         85633793,
         85914707,
         102085469,
-        85688675
+        85854025
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152339109,
-    "wof:lastmodified":1449046373,
+    "wof:lastmodified":1466317508,
     "wof:name":"Margie's Beauty Salon",
     "wof:parent_id":85854025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.886079,30.508609,-87.886079,30.508609],
+  "bbox": [
+    -87.886079,
+    30.508609,
+    -87.886079,
+    30.508609
+],
   "geometry": {"coordinates":[-87.886079,30.508609],"type":"Point"}
 }

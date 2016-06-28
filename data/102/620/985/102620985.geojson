@@ -2,13 +2,14 @@
   "id": 102620985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.910565,30.640107,-87.910565,30.640107",
     "geom:latitude":30.640107,
     "geom:longitude":-87.910565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28170 N Main St",
     "sg:city":"Daphne",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840537,
+        85688675,
         85633793,
         85914695,
         102085469,
-        85688675
+        85840537
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102620985,
-    "wof:lastmodified":1449069987,
+    "wof:lastmodified":1466317379,
     "wof:name":"Park City Water Authority",
     "wof:parent_id":85840537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.910565,30.640107,-87.910565,30.640107],
-  "geometry": {"coordinates":[-87.910565,30.640107],"type":"Point"}
+  "bbox": [
+    -87.910565,
+    30.640107,
+    -87.910565,
+    30.640107
+],
+  "geometry": {"coordinates":[-87.91056500000001,30.640107],"type":"Point"}
 }

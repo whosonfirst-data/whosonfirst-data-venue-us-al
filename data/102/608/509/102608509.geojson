@@ -2,13 +2,14 @@
   "id": 102608509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.954614,33.977765,-85.954614,33.977765",
     "geom:latitude":33.977765,
     "geom:longitude":-85.954614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2820 E Meighan Blvd",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102608509,
-    "wof:lastmodified":1449068787,
+    "wof:lastmodified":1466317259,
     "wof:name":"Avco Meat Company Inc",
     "wof:parent_id":85914359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.954614,33.977765,-85.954614,33.977765],
-  "geometry": {"coordinates":[-85.954614,33.977765],"type":"Point"}
+  "bbox": [
+    -85.954614,
+    33.977765,
+    -85.954614,
+    33.977765
+],
+  "geometry": {"coordinates":[-85.95461400000001,33.977765],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152394591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.729189,30.315668,-87.729189,30.315668",
     "geom:latitude":30.315668,
     "geom:longitude":-87.729189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6270 Bon Secour Hwy",
     "sg:city":"Bon Secour",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868551,
+        85688675,
         85633793,
         85914719,
         102085469,
-        85688675
+        85868551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152394591,
-    "wof:lastmodified":1449045200,
+    "wof:lastmodified":1466317819,
     "wof:name":"St Peter's Episcopal Church",
     "wof:parent_id":85868551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.729189,30.315668,-87.729189,30.315668],
-  "geometry": {"coordinates":[-87.729189,30.315668],"type":"Point"}
+  "bbox": [
+    -87.729189,
+    30.315668,
+    -87.729189,
+    30.315668
+],
+  "geometry": {"coordinates":[-87.72918900000001,30.315668],"type":"Point"}
 }

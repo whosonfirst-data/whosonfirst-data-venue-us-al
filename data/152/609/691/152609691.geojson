@@ -2,13 +2,14 @@
   "id": 152609691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.966545,34.421633,-85.966545,34.421633",
     "geom:latitude":34.421633,
     "geom:longitude":-85.966545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Co Rd 422",
     "sg:city":"Fyffe",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815015,
+        85688675,
         85633793,
         85897515,
         102085615,
-        85688675
+        85815015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152609691,
-    "wof:lastmodified":1449046024,
+    "wof:lastmodified":1466318884,
     "wof:name":"Gilberts Tire & Muffler",
     "wof:parent_id":85815015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.966545,34.421633,-85.966545,34.421633],
+  "bbox": [
+    -85.966545,
+    34.421633,
+    -85.966545,
+    34.421633
+],
   "geometry": {"coordinates":[-85.966545,34.421633],"type":"Point"}
 }

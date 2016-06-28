@@ -2,13 +2,14 @@
   "id": 152251853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.2256,30.758946,-88.2256,30.758946",
     "geom:latitude":30.758946,
     "geom:longitude":-88.2256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3247 Schillinger Rd N",
     "sg:city":"Semmes",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085585,
-        85633793,
         85688675,
-        85878987
+        85633793,
+        85878987,
+        102085585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152251853,
-    "wof:lastmodified":1449044380,
+    "wof:lastmodified":1466316626,
     "wof:name":"Sahara Club Inc",
     "wof:parent_id":85878987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.2256,30.758946,-88.2256,30.758946],
+  "bbox": [
+    -88.2256,
+    30.758946,
+    -88.2256,
+    30.758946
+],
   "geometry": {"coordinates":[-88.2256,30.758946],"type":"Point"}
 }

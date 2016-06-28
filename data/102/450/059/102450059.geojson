@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102450059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.656196,34.741198,-86.656196,34.741198",
     "geom:latitude":34.741198,
     "geom:longitude":-86.656196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4801 University Sq",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851401,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85851401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102450059,
-    "wof:lastmodified":1449069790,
+    "wof:lastmodified":1466314550,
     "wof:name":"Gomez Research Assoc",
     "wof:parent_id":85851401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.656196,34.741198,-86.656196,34.741198],
-  "geometry": {"coordinates":[-86.656196,34.741198],"type":"Point"}
+  "bbox": [
+    -86.656196,
+    34.741198,
+    -86.656196,
+    34.741198
+],
+  "geometry": {"coordinates":[-86.65619599999999,34.741198],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102503121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.237444,32.406945,-86.237444,32.406945",
     "geom:latitude":32.406945,
     "geom:longitude":-86.237444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2741 Gunter Park Dr W",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827567,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85827567
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":102503121,
-    "wof:lastmodified":1449070219,
+    "wof:lastmodified":1466316547,
     "wof:name":"Unisys Corporation",
     "wof:parent_id":85827567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.237444,32.406945,-86.237444,32.406945],
+  "bbox": [
+    -86.237444,
+    32.406945,
+    -86.237444,
+    32.406945
+],
   "geometry": {"coordinates":[-86.237444,32.406945],"type":"Point"}
 }

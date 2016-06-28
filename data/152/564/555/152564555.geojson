@@ -2,13 +2,14 @@
   "id": 152564555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.778024,32.297454,-87.778024,32.297454",
     "geom:latitude":32.297454,
     "geom:longitude":-87.778024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"138 Grace Cir",
     "sg:city":"Linden",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845427,
+        85688675,
         85633793,
         85899613,
         102085423,
-        85688675
+        85845427
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152564555,
-    "wof:lastmodified":1449048650,
+    "wof:lastmodified":1466318667,
     "wof:name":"Forest Hill Baptist Church",
     "wof:parent_id":85845427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.778024,32.297454,-87.778024,32.297454],
+  "bbox": [
+    -87.778024,
+    32.297454,
+    -87.778024,
+    32.297454
+],
   "geometry": {"coordinates":[-87.778024,32.297454],"type":"Point"}
 }

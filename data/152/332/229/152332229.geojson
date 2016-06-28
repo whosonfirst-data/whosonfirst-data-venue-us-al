@@ -2,13 +2,14 @@
   "id": 152332229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.593536,34.715382,-86.593536,34.715382",
     "geom:latitude":34.715382,
     "geom:longitude":-86.593536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2215 Mock Rd SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85855713,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85855713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152332229,
-    "wof:lastmodified":1449046876,
+    "wof:lastmodified":1466317308,
     "wof:name":"Expression Genetics Inc",
     "wof:parent_id":85855713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.593536,34.715382,-86.593536,34.715382],
+  "bbox": [
+    -86.593536,
+    34.715382,
+    -86.593536,
+    34.715382
+],
   "geometry": {"coordinates":[-86.593536,34.715382],"type":"Point"}
 }

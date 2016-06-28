@@ -2,13 +2,14 @@
   "id": 152657059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.911095,33.840794,-85.911095,33.840794",
     "geom:latitude":33.840794,
     "geom:longitude":-85.911095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1040 Duke Rd",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805945,
+        85688675,
         85633793,
         85914293,
         102085603,
-        85688675
+        85805945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152657059,
-    "wof:lastmodified":1449044823,
+    "wof:lastmodified":1466319294,
     "wof:name":"Elam Quarter Horses",
     "wof:parent_id":85805945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.911095,33.840794,-85.911095,33.840794],
+  "bbox": [
+    -85.911095,
+    33.840794,
+    -85.911095,
+    33.840794
+],
   "geometry": {"coordinates":[-85.911095,33.840794],"type":"Point"}
 }

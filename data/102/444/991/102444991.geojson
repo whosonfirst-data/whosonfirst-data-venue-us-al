@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102444991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.371021,32.659031,-85.371021,32.659031",
     "geom:latitude":32.659031,
     "geom:longitude":-85.371021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Samford Ave",
     "sg:city":"Opelika",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85857153,
+        85688675,
         85633793,
         85913815,
         102085751,
-        85688675
+        85857153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102444991,
-    "wof:lastmodified":1449069841,
+    "wof:lastmodified":1466314508,
     "wof:name":"Auburn Auto Sales",
     "wof:parent_id":85857153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.371021,32.659031,-85.371021,32.659031],
+  "bbox": [
+    -85.371021,
+    32.659031,
+    -85.371021,
+    32.659031
+],
   "geometry": {"coordinates":[-85.371021,32.659031],"type":"Point"}
 }

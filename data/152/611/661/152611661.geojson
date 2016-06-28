@@ -2,13 +2,14 @@
   "id": 152611661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.890358,30.548406,-87.890358,30.548406",
     "geom:latitude":30.548406,
     "geom:longitude":-87.890358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2003 US Hwy 98",
     "sg:city":"Daphne",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847563,
+        85688675,
         85633793,
         85914707,
         102085469,
-        85688675
+        85847563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152611661,
-    "wof:lastmodified":1449047942,
+    "wof:lastmodified":1466318916,
     "wof:name":"D C's Auto Sales",
     "wof:parent_id":85847563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.890358,30.548406,-87.890358,30.548406],
-  "geometry": {"coordinates":[-87.890358,30.548406],"type":"Point"}
+  "bbox": [
+    -87.890358,
+    30.548406,
+    -87.890358,
+    30.548406
+],
+  "geometry": {"coordinates":[-87.89035800000001,30.548406],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119119621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.902814,30.603038,-87.902814,30.603038",
     "geom:latitude":30.603038,
     "geom:longitude":-87.902814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1705 Main St",
     "sg:city":"Daphne",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827259,
+        85688675,
         85633793,
         85914695,
         102085469,
-        85688675
+        85827259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":119119621,
-    "wof:lastmodified":1449042779,
+    "wof:lastmodified":1466314418,
     "wof:name":"Daphne City Planning Dept",
     "wof:parent_id":85827259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.902814,30.603038,-87.902814,30.603038],
-  "geometry": {"coordinates":[-87.902814,30.603038],"type":"Point"}
+  "bbox": [
+    -87.902814,
+    30.603038,
+    -87.902814,
+    30.603038
+],
+  "geometry": {"coordinates":[-87.90281400000001,30.603038],"type":"Point"}
 }

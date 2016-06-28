@@ -2,13 +2,14 @@
   "id": 152889059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.582533,33.613039,-86.582533,33.613039",
     "geom:latitude":33.613039,
     "geom:longitude":-86.582533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Pinebluff Trl",
     "sg:city":"Trussville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808783,
+        85688675,
         85633793,
         85913473,
         102085481,
-        85688675
+        85808783
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152889059,
-    "wof:lastmodified":1449044194,
+    "wof:lastmodified":1466320272,
     "wof:name":"Dry-Loc Water Proofing System",
     "wof:parent_id":85808783,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.582533,33.613039,-86.582533,33.613039],
+  "bbox": [
+    -86.582533,
+    33.613039,
+    -86.582533,
+    33.613039
+],
   "geometry": {"coordinates":[-86.582533,33.613039],"type":"Point"}
 }

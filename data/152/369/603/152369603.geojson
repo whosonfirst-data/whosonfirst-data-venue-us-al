@@ -2,13 +2,14 @@
   "id": 152369603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.782003,33.569267,-86.782003,33.569267",
     "geom:latitude":33.569267,
     "geom:longitude":-86.782003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"516 Jefferson Blvd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815977,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85815977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152369603,
-    "wof:lastmodified":1449048685,
+    "wof:lastmodified":1466317700,
     "wof:name":"Alabama The Nation Blind",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.782003,33.569267,-86.782003,33.569267],
+  "bbox": [
+    -86.782003,
+    33.569267,
+    -86.782003,
+    33.569267
+],
   "geometry": {"coordinates":[-86.782003,33.569267],"type":"Point"}
 }

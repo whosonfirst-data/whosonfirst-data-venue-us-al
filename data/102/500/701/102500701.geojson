@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102500701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.405233,31.228254,-85.405233,31.228254",
     "geom:latitude":31.228254,
     "geom:longitude":-85.405233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"808 W Burdeshaw St",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852069,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85852069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102500701,
-    "wof:lastmodified":1449068388,
+    "wof:lastmodified":1466316512,
     "wof:name":"Diabetic Resource Specialists",
     "wof:parent_id":85852069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.405233,31.228254,-85.405233,31.228254],
+  "bbox": [
+    -85.405233,
+    31.228254,
+    -85.405233,
+    31.228254
+],
   "geometry": {"coordinates":[-85.405233,31.228254],"type":"Point"}
 }

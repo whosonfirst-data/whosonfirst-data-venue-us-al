@@ -2,13 +2,14 @@
   "id": 152535521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.248733,32.377715,-86.248733,32.377715",
     "geom:latitude":32.377715,
     "geom:longitude":-86.248733,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Happy Hollow Dr",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85832961,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85832961
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152535521,
-    "wof:lastmodified":1449045147,
+    "wof:lastmodified":1466318463,
     "wof:name":"New Vision Web Design",
     "wof:parent_id":85832961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.248733,32.377715,-86.248733,32.377715],
+  "bbox": [
+    -86.248733,
+    32.377715,
+    -86.248733,
+    32.377715
+],
   "geometry": {"coordinates":[-86.248733,32.377715],"type":"Point"}
 }

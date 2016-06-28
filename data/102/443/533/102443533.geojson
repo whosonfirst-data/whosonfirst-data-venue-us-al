@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102443533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.240704,32.367275,-86.240704,32.367275",
     "geom:latitude":32.367275,
     "geom:longitude":-86.240704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4007 Bienville Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879047,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102443533,
-    "wof:lastmodified":1449069722,
+    "wof:lastmodified":1466314417,
     "wof:name":"Eastern Bypass Exxon Inc",
     "wof:parent_id":85879047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.240704,32.367275,-86.240704,32.367275],
-  "geometry": {"coordinates":[-86.240704,32.367275],"type":"Point"}
+  "bbox": [
+    -86.240704,
+    32.367275,
+    -86.240704,
+    32.367275
+],
+  "geometry": {"coordinates":[-86.24070399999999,32.367275],"type":"Point"}
 }

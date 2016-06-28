@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102499809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.18947,32.869669,-85.18947,32.869669",
     "geom:latitude":32.869669,
     "geom:longitude":-85.18947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 N Lanier Ave",
     "sg:city":"Lanett",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848065,
+        85688675,
         85633793,
         85914191,
         102085637,
-        85688675
+        85848065
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102499809,
-    "wof:lastmodified":1449068259,
+    "wof:lastmodified":1466316506,
     "wof:name":"Smith & Ingram",
     "wof:parent_id":85848065,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.18947,32.869669,-85.18947,32.869669],
+  "bbox": [
+    -85.18947,
+    32.869669,
+    -85.18947,
+    32.869669
+],
   "geometry": {"coordinates":[-85.18947,32.869669],"type":"Point"}
 }

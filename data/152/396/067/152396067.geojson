@@ -2,13 +2,14 @@
   "id": 152396067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.208306,32.540332,-86.208306,32.540332",
     "geom:latitude":32.540332,
     "geom:longitude":-86.208306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 N Bridge St",
     "sg:city":"Wetumpka",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806527,
+        85688675,
         85633793,
         85913951,
         102085631,
-        85688675
+        85806527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152396067,
-    "wof:lastmodified":1449047329,
+    "wof:lastmodified":1466317823,
     "wof:name":"Prissy Hen",
     "wof:parent_id":85806527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.208306,32.540332,-86.208306,32.540332],
-  "geometry": {"coordinates":[-86.208306,32.540332],"type":"Point"}
+  "bbox": [
+    -86.208306,
+    32.540332,
+    -86.208306,
+    32.540332
+],
+  "geometry": {"coordinates":[-86.20830599999999,32.540332],"type":"Point"}
 }

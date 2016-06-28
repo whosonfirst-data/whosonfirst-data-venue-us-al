@@ -2,13 +2,14 @@
   "id": 152204371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.841238,33.446684,-86.841238,33.446684",
     "geom:latitude":33.446684,
     "geom:longitude":-86.841238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 W Oxmoor Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808947,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85808947
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152204371,
-    "wof:lastmodified":1449049029,
+    "wof:lastmodified":1466315877,
     "wof:name":"CHB Mechanical",
     "wof:parent_id":85808947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.841238,33.446684,-86.841238,33.446684],
+  "bbox": [
+    -86.841238,
+    33.446684,
+    -86.841238,
+    33.446684
+],
   "geometry": {"coordinates":[-86.841238,33.446684],"type":"Point"}
 }

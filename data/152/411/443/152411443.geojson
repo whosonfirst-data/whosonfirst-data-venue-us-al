@@ -2,13 +2,14 @@
   "id": 152411443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.233349,32.359817,-86.233349,32.359817",
     "geom:latitude":32.359817,
     "geom:longitude":-86.233349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4110 Wall St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809571,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85809571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152411443,
-    "wof:lastmodified":1449044515,
+    "wof:lastmodified":1466317883,
     "wof:name":"Lucido & Oliver Inc",
     "wof:parent_id":85809571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.233349,32.359817,-86.233349,32.359817],
+  "bbox": [
+    -86.233349,
+    32.359817,
+    -86.233349,
+    32.359817
+],
   "geometry": {"coordinates":[-86.233349,32.359817],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152654887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.997093,31.854244,-85.997093,31.854244",
     "geom:latitude":31.854244,
     "geom:longitude":-85.997093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"195 Old Hwy 231 N",
     "sg:city":"Troy",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085619,
-        85633793,
         85688675,
-        85867311
+        85633793,
+        85867311,
+        102085619
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152654887,
-    "wof:lastmodified":1449045858,
+    "wof:lastmodified":1466319136,
     "wof:name":"M Hamm Home Repair",
     "wof:parent_id":85867311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.997093,31.854244,-85.997093,31.854244],
-  "geometry": {"coordinates":[-85.997093,31.854244],"type":"Point"}
+  "bbox": [
+    -85.997093,
+    31.854244,
+    -85.997093,
+    31.854244
+],
+  "geometry": {"coordinates":[-85.99709300000001,31.854244],"type":"Point"}
 }

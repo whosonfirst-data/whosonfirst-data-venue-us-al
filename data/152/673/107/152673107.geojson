@@ -2,13 +2,14 @@
   "id": 152673107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.687427,33.608046,-86.687427,33.608046",
     "geom:latitude":33.608046,
     "geom:longitude":-86.687427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 Springville Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854035,
+        85688675,
         85633793,
         85914903,
         102085481,
-        85688675
+        85854035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152673107,
-    "wof:lastmodified":1449046094,
+    "wof:lastmodified":1466319182,
     "wof:name":"Jim's Super Pawn",
     "wof:parent_id":85854035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.687427,33.608046,-86.687427,33.608046],
+  "bbox": [
+    -86.687427,
+    33.608046,
+    -86.687427,
+    33.608046
+],
   "geometry": {"coordinates":[-86.687427,33.608046],"type":"Point"}
 }

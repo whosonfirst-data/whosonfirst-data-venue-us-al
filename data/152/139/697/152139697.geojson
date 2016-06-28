@@ -2,13 +2,14 @@
   "id": 152139697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.215207,32.454642,-86.215207,32.454642",
     "geom:latitude":32.454642,
     "geom:longitude":-86.215207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 Anderson Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827567,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85827567
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152139697,
-    "wof:lastmodified":1449044743,
+    "wof:lastmodified":1466315535,
     "wof:name":"South Alabama Glass",
     "wof:parent_id":85827567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.215207,32.454642,-86.215207,32.454642],
-  "geometry": {"coordinates":[-86.215207,32.454642],"type":"Point"}
+  "bbox": [
+    -86.215207,
+    32.454642,
+    -86.215207,
+    32.454642
+],
+  "geometry": {"coordinates":[-86.21520700000001,32.454642],"type":"Point"}
 }

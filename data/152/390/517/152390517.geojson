@@ -2,13 +2,14 @@
   "id": 152390517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.733555,33.454391,-86.733555,33.454391",
     "geom:latitude":33.454391,
     "geom:longitude":-86.733555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3177 Cahaba Heights Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802339,
+        85688675,
         85633793,
         85914483,
         102085481,
-        85688675
+        85802339
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152390517,
-    "wof:lastmodified":1449048940,
+    "wof:lastmodified":1466317967,
     "wof:name":"Chandler Brothers Insurance",
     "wof:parent_id":85802339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.733555,33.454391,-86.733555,33.454391],
+  "bbox": [
+    -86.733555,
+    33.454391,
+    -86.733555,
+    33.454391
+],
   "geometry": {"coordinates":[-86.733555,33.454391],"type":"Point"}
 }

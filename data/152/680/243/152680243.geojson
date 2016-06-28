@@ -2,13 +2,14 @@
   "id": 152680243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.448432,33.881005,-86.448432,33.881005",
     "geom:latitude":33.881005,
     "geom:longitude":-86.448432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"441 Dumas Bridge Rd",
     "sg:city":"Oneonta",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085667,
-        85633793,
         85688675,
-        85819523
+        85633793,
+        85819523,
+        102085667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152680243,
-    "wof:lastmodified":1449047538,
+    "wof:lastmodified":1466319241,
     "wof:name":"Glen Jeffery Payne Family",
     "wof:parent_id":85819523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.448432,33.881005,-86.448432,33.881005],
+  "bbox": [
+    -86.448432,
+    33.881005,
+    -86.448432,
+    33.881005
+],
   "geometry": {"coordinates":[-86.448432,33.881005],"type":"Point"}
 }

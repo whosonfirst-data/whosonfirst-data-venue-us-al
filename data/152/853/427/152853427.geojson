@@ -2,13 +2,14 @@
   "id": 152853427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.635725,33.006895,-87.635725,33.006895",
     "geom:latitude":33.006895,
     "geom:longitude":-87.635725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"89 River Bank Rd",
     "sg:city":"Moundville",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085553,
-        85633793,
         85688675,
-        85851887
+        85633793,
+        85851887,
+        102085553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152853427,
-    "wof:lastmodified":1449046170,
+    "wof:lastmodified":1466320122,
     "wof:name":"Beckham Trucking Co Inc",
     "wof:parent_id":85851887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.635725,33.006895,-87.635725,33.006895],
-  "geometry": {"coordinates":[-87.635725,33.006895],"type":"Point"}
+  "bbox": [
+    -87.635725,
+    33.006895,
+    -87.635725,
+    33.006895
+],
+  "geometry": {"coordinates":[-87.63572499999999,33.006895],"type":"Point"}
 }

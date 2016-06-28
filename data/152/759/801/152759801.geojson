@@ -2,13 +2,14 @@
   "id": 152759801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.04985,32.738751,-86.04985,32.738751",
     "geom:latitude":32.738751,
     "geom:longitude":-86.04985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Forrest Dr",
     "sg:city":"Eclectic",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851843,
+        85688675,
         85633793,
         85913951,
         102085631,
-        85688675
+        85851843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152759801,
-    "wof:lastmodified":1449048964,
+    "wof:lastmodified":1466319656,
     "wof:name":"Me-Mas 2",
     "wof:parent_id":85851843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.04985,32.738751,-86.04985,32.738751],
-  "geometry": {"coordinates":[-86.04985,32.738751],"type":"Point"}
+  "bbox": [
+    -86.04985,
+    32.738751,
+    -86.04985,
+    32.738751
+],
+  "geometry": {"coordinates":[-86.04985000000001,32.738751],"type":"Point"}
 }

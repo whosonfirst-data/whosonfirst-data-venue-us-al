@@ -2,13 +2,14 @@
   "id": 152595955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.495191,33.591229,-86.495191,33.591229",
     "geom:latitude":33.591229,
     "geom:longitude":-86.495191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3009 Moody Pkwy",
     "sg:city":"Moody",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807031,
+        85688675,
         85633793,
         85913421,
         102085647,
-        85688675
+        85807031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152595955,
-    "wof:lastmodified":1449048470,
+    "wof:lastmodified":1466319017,
     "wof:name":"Wayside Farm Inc",
     "wof:parent_id":85807031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.495191,33.591229,-86.495191,33.591229],
-  "geometry": {"coordinates":[-86.495191,33.591229],"type":"Point"}
+  "bbox": [
+    -86.495191,
+    33.591229,
+    -86.495191,
+    33.591229
+],
+  "geometry": {"coordinates":[-86.49519100000001,33.591229],"type":"Point"}
 }

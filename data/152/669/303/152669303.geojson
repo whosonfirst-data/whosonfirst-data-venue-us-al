@@ -2,13 +2,14 @@
   "id": 152669303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.902317,30.522962,-87.902317,30.522962",
     "geom:latitude":30.522962,
     "geom:longitude":-87.902317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"440 Fairhope Ave",
     "sg:city":"Fairhope",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854025,
+        85688675,
         85633793,
         85914707,
         102085469,
-        85688675
+        85854025
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152669303,
-    "wof:lastmodified":1449044833,
+    "wof:lastmodified":1466319183,
     "wof:name":"Faulkner Jr College",
     "wof:parent_id":85854025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.902317,30.522962,-87.902317,30.522962],
+  "bbox": [
+    -87.902317,
+    30.522962,
+    -87.902317,
+    30.522962
+],
   "geometry": {"coordinates":[-87.902317,30.522962],"type":"Point"}
 }

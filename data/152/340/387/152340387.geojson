@@ -2,13 +2,14 @@
   "id": 152340387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.99208,34.011398,-85.99208,34.011398",
     "geom:latitude":34.011398,
     "geom:longitude":-85.99208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 E Meighan Blvd",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822279,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85822279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152340387,
-    "wof:lastmodified":1449047863,
+    "wof:lastmodified":1466317524,
     "wof:name":"Colours",
     "wof:parent_id":85822279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.99208,34.011398,-85.99208,34.011398],
+  "bbox": [
+    -85.99208,
+    34.011398,
+    -85.99208,
+    34.011398
+],
   "geometry": {"coordinates":[-85.99208,34.011398],"type":"Point"}
 }

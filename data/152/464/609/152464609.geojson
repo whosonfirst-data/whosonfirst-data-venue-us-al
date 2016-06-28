@@ -2,13 +2,14 @@
   "id": 152464609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.971869,34.526824,-86.971869,34.526824",
     "geom:latitude":34.526824,
     "geom:longitude":-86.971869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4035 US Hwy 31",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85804905,
+        85688675,
         85633793,
         85913589,
         102085531,
-        85688675
+        85804905
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152464609,
-    "wof:lastmodified":1449045546,
+    "wof:lastmodified":1466318143,
     "wof:name":"Steam-Way Carpet Cleaners",
     "wof:parent_id":85804905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.971869,34.526824,-86.971869,34.526824],
+  "bbox": [
+    -86.971869,
+    34.526824,
+    -86.971869,
+    34.526824
+],
   "geometry": {"coordinates":[-86.971869,34.526824],"type":"Point"}
 }

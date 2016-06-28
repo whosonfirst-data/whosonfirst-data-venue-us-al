@@ -2,13 +2,14 @@
   "id": 119137181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.221961,32.348111,-86.221961,32.348111",
     "geom:latitude":32.348111,
     "geom:longitude":-86.221961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2759 Eastern Blvd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821317,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85821317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":119137181,
-    "wof:lastmodified":1449043163,
+    "wof:lastmodified":1466314767,
     "wof:name":"Fresh Market Montgomery",
     "wof:parent_id":85821317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.221961,32.348111,-86.221961,32.348111],
-  "geometry": {"coordinates":[-86.221961,32.348111],"type":"Point"}
+  "bbox": [
+    -86.221961,
+    32.348111,
+    -86.221961,
+    32.348111
+],
+  "geometry": {"coordinates":[-86.22196099999999,32.348111],"type":"Point"}
 }

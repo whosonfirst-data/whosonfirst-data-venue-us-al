@@ -2,13 +2,14 @@
   "id": 152161517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.235182,32.396085,-86.235182,32.396085",
     "geom:latitude":32.396085,
     "geom:longitude":-86.235182,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4030 Samantha Dr",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813403,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85813403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152161517,
-    "wof:lastmodified":1449046138,
+    "wof:lastmodified":1466315193,
     "wof:name":"Milstead Pulpwood Co Inc",
     "wof:parent_id":85813403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.235182,32.396085,-86.235182,32.396085],
-  "geometry": {"coordinates":[-86.235182,32.396085],"type":"Point"}
+  "bbox": [
+    -86.235182,
+    32.396085,
+    -86.235182,
+    32.396085
+],
+  "geometry": {"coordinates":[-86.23518199999999,32.396085],"type":"Point"}
 }

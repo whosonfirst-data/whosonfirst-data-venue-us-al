@@ -2,13 +2,14 @@
   "id": 152304575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.320696,32.405401,-86.320696,32.405401",
     "geom:latitude":32.405401,
     "geom:longitude":-86.320696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 Parallel St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85836773,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85836773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152304575,
-    "wof:lastmodified":1449047743,
+    "wof:lastmodified":1466317151,
     "wof:name":"Autostak Systems Inc",
     "wof:parent_id":85836773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.320696,32.405401,-86.320696,32.405401],
+  "bbox": [
+    -86.320696,
+    32.405401,
+    -86.320696,
+    32.405401
+],
   "geometry": {"coordinates":[-86.320696,32.405401],"type":"Point"}
 }

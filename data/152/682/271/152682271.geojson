@@ -2,13 +2,14 @@
   "id": 152682271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.819533,33.423355,-86.819533,33.423355",
     "geom:latitude":33.423355,
     "geom:longitude":-86.819533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2325 Royal Knoll Ln",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85835825,
+        85688675,
         85633793,
         85914475,
         102085481,
-        85688675
+        85835825
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152682271,
-    "wof:lastmodified":1449045115,
+    "wof:lastmodified":1466319241,
     "wof:name":"Arrell Internet Svc",
     "wof:parent_id":85835825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.819533,33.423355,-86.819533,33.423355],
-  "geometry": {"coordinates":[-86.819533,33.423355],"type":"Point"}
+  "bbox": [
+    -86.819533,
+    33.423355,
+    -86.819533,
+    33.423355
+],
+  "geometry": {"coordinates":[-86.81953300000001,33.423355],"type":"Point"}
 }

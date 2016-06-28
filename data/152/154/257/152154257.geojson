@@ -2,13 +2,14 @@
   "id": 152154257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.816187,33.551608,-86.816187,33.551608",
     "geom:latitude":33.551608,
     "geom:longitude":-86.816187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2913 27th St N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -35,11 +36,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837367,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85837367
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":152154257,
-    "wof:lastmodified":1449048956,
+    "wof:lastmodified":1466314776,
     "wof:name":"Ebony Beauty Supply",
     "wof:parent_id":85837367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.816187,33.551608,-86.816187,33.551608],
+  "bbox": [
+    -86.816187,
+    33.551608,
+    -86.816187,
+    33.551608
+],
   "geometry": {"coordinates":[-86.816187,33.551608],"type":"Point"}
 }

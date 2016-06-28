@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102463579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.064267,34.018494,-86.064267,34.018494",
     "geom:latitude":34.018494,
     "geom:longitude":-86.064267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3423 Forrest Ave",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085545,
-        85633793,
         85688675,
-        85851221
+        85633793,
+        85851221,
+        102085545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102463579,
-    "wof:lastmodified":1449069471,
+    "wof:lastmodified":1466315071,
     "wof:name":"Bingham Discount Tires",
     "wof:parent_id":85851221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.064267,34.018494,-86.064267,34.018494],
+  "bbox": [
+    -86.064267,
+    34.018494,
+    -86.064267,
+    34.018494
+],
   "geometry": {"coordinates":[-86.064267,34.018494],"type":"Point"}
 }

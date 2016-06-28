@@ -2,13 +2,14 @@
   "id": 152512105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.454101,33.182443,-87.454101,33.182443",
     "geom:latitude":33.182443,
     "geom:longitude":-87.454101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6291 Jaybird Rd",
     "sg:city":"Cottondale",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152512105,
-    "wof:lastmodified":1449047661,
+    "wof:lastmodified":1466318372,
     "wof:name":"Morgan's Machine Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.454101,33.182443,-87.454101,33.182443],
-  "geometry": {"coordinates":[-87.454101,33.182443],"type":"Point"}
+  "bbox": [
+    -87.454101,
+    33.182443,
+    -87.454101,
+    33.182443
+],
+  "geometry": {"coordinates":[-87.45410099999999,33.182443],"type":"Point"}
 }

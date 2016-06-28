@@ -2,13 +2,14 @@
   "id": 152623027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.85964,33.424991,-86.85964,33.424991",
     "geom:latitude":33.424991,
     "geom:longitude":-86.85964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"816 Cammack Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840093,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85840093
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152623027,
-    "wof:lastmodified":1449047538,
+    "wof:lastmodified":1466318930,
     "wof:name":"Lloyd Computer Financial Svc",
     "wof:parent_id":85840093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.85964,33.424991,-86.85964,33.424991],
+  "bbox": [
+    -86.85964,
+    33.424991,
+    -86.85964,
+    33.424991
+],
   "geometry": {"coordinates":[-86.85964,33.424991],"type":"Point"}
 }

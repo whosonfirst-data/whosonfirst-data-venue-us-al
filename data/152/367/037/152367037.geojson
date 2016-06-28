@@ -2,13 +2,14 @@
   "id": 152367037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.39898,33.248033,-87.39898,33.248033",
     "geom:latitude":33.248033,
     "geom:longitude":-87.39898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11820 Old Church House Rd",
     "sg:city":"Cottondale",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851363,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85851363
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152367037,
-    "wof:lastmodified":1449047032,
+    "wof:lastmodified":1466317652,
     "wof:name":"Highway 216 Mini-Storage",
     "wof:parent_id":85851363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.39898,33.248033,-87.39898,33.248033],
-  "geometry": {"coordinates":[-87.39898,33.248033],"type":"Point"}
+  "bbox": [
+    -87.39898,
+    33.248033,
+    -87.39898,
+    33.248033
+],
+  "geometry": {"coordinates":[-87.39897999999999,33.248033],"type":"Point"}
 }

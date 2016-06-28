@@ -2,13 +2,14 @@
   "id": 152775933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.504899,33.582788,-86.504899,33.582788",
     "geom:latitude":33.582788,
     "geom:longitude":-86.504899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2235 Moody Pkwy",
     "sg:city":"Moody",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807031,
+        85688675,
         85633793,
         85913421,
         102085647,
-        85688675
+        85807031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152775933,
-    "wof:lastmodified":1449047714,
+    "wof:lastmodified":1466319717,
     "wof:name":"Music Center",
     "wof:parent_id":85807031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.504899,33.582788,-86.504899,33.582788],
-  "geometry": {"coordinates":[-86.504899,33.582788],"type":"Point"}
+  "bbox": [
+    -86.504899,
+    33.582788,
+    -86.504899,
+    33.582788
+],
+  "geometry": {"coordinates":[-86.50489899999999,33.582788],"type":"Point"}
 }

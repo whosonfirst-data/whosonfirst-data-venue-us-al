@@ -2,13 +2,14 @@
   "id": 152605295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.497584,34.330585,-86.497584,34.330585",
     "geom:latitude":34.330585,
     "geom:longitude":-86.497584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Brookwood Dr NE",
     "sg:city":"Arab",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837211,
+        85688675,
         85633793,
         85913243,
         102085513,
-        85688675,
+        85837211,
         85817629
     ],
     "wof:breaches":[],
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":152605295,
-    "wof:lastmodified":1449046557,
+    "wof:lastmodified":1466318860,
     "wof:name":"Speleum Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.497584,34.330585,-86.497584,34.330585],
+  "bbox": [
+    -86.497584,
+    34.330585,
+    -86.497584,
+    34.330585
+],
   "geometry": {"coordinates":[-86.497584,34.330585],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152468047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.813742,33.620702,-85.813742,33.620702",
     "geom:latitude":33.620702,
     "geom:longitude":-85.813742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1235 Preston St",
     "sg:city":"Anniston",
     "sg:classifiers":[
@@ -36,11 +37,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827499,
+        85688675,
         85633793,
         85914159,
         102085603,
-        85688675
+        85827499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":152468047,
-    "wof:lastmodified":1449047611,
+    "wof:lastmodified":1466318147,
     "wof:name":"Edwards Aluminum Products Svc",
     "wof:parent_id":85827499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.813742,33.620702,-85.813742,33.620702],
+  "bbox": [
+    -85.813742,
+    33.620702,
+    -85.813742,
+    33.620702
+],
   "geometry": {"coordinates":[-85.813742,33.620702],"type":"Point"}
 }

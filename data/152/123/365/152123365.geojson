@@ -2,13 +2,14 @@
   "id": 152123365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.278389,32.427694,-86.278389,32.427694",
     "geom:latitude":32.427694,
     "geom:longitude":-86.278389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"506 5th St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806939,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85806939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152123365,
-    "wof:lastmodified":1449045686,
+    "wof:lastmodified":1466314647,
     "wof:name":"Barbara Brush",
     "wof:parent_id":85806939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.278389,32.427694,-86.278389,32.427694],
+  "bbox": [
+    -86.278389,
+    32.427694,
+    -86.278389,
+    32.427694
+],
   "geometry": {"coordinates":[-86.278389,32.427694],"type":"Point"}
 }

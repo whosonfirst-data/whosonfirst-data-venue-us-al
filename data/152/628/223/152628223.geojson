@@ -2,13 +2,14 @@
   "id": 152628223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.481704,32.601644,-85.481704,32.601644",
     "geom:latitude":32.601644,
     "geom:longitude":-85.481704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 S College St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.cambridgecoffee.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819999,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85819999
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152628223,
-    "wof:lastmodified":1449048042,
+    "wof:lastmodified":1466318741,
     "wof:name":"Cambridge Coffee",
     "wof:parent_id":85819999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.481704,32.601644,-85.481704,32.601644],
-  "geometry": {"coordinates":[-85.481704,32.601644],"type":"Point"}
+  "bbox": [
+    -85.481704,
+    32.601644,
+    -85.481704,
+    32.601644
+],
+  "geometry": {"coordinates":[-85.48170399999999,32.601644],"type":"Point"}
 }

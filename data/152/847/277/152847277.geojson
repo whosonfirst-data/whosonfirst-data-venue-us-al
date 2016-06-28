@@ -2,13 +2,14 @@
   "id": 152847277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.761306,33.813424,-85.761306,33.813424",
     "geom:latitude":33.813424,
     "geom:longitude":-85.761306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Ladiga St SW",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817157,
+        85688675,
         85633793,
         85914293,
         102085603,
-        85688675
+        85817157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152847277,
-    "wof:lastmodified":1449045989,
+    "wof:lastmodified":1466320080,
     "wof:name":"Pelhams",
     "wof:parent_id":85817157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.761306,33.813424,-85.761306,33.813424],
+  "bbox": [
+    -85.761306,
+    33.813424,
+    -85.761306,
+    33.813424
+],
   "geometry": {"coordinates":[-85.761306,33.813424],"type":"Point"}
 }

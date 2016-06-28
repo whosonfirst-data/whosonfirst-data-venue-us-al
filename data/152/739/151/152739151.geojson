@@ -2,13 +2,14 @@
   "id": 152739151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.114128,33.604658,-86.114128,33.604658",
     "geom:latitude":33.604658,
     "geom:longitude":-86.114128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47815 US Hwy 78",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085517,
-        85633793,
         85688675,
-        85849013
+        85633793,
+        85849013,
+        102085517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152739151,
-    "wof:lastmodified":1449046262,
+    "wof:lastmodified":1466319458,
     "wof:name":"Midway Auto Parts Inc",
     "wof:parent_id":85849013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.114128,33.604658,-86.114128,33.604658],
-  "geometry": {"coordinates":[-86.114128,33.604658],"type":"Point"}
+  "bbox": [
+    -86.114128,
+    33.604658,
+    -86.114128,
+    33.604658
+],
+  "geometry": {"coordinates":[-86.11412799999999,33.604658],"type":"Point"}
 }

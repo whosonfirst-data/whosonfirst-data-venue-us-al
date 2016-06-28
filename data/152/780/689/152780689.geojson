@@ -2,13 +2,14 @@
   "id": 152780689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.308562,32.359569,-86.308562,32.359569",
     "geom:latitude":32.359569,
     "geom:longitude":-86.308562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 S Court St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879039,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152780689,
-    "wof:lastmodified":1449047764,
+    "wof:lastmodified":1466319735,
     "wof:name":"Jan Elder Care",
     "wof:parent_id":85879039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.308562,32.359569,-86.308562,32.359569],
-  "geometry": {"coordinates":[-86.308562,32.359569],"type":"Point"}
+  "bbox": [
+    -86.308562,
+    32.359569,
+    -86.308562,
+    32.359569
+],
+  "geometry": {"coordinates":[-86.30856199999999,32.359569],"type":"Point"}
 }

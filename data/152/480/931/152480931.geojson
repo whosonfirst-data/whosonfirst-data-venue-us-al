@@ -2,13 +2,14 @@
   "id": 152480931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.636946,32.437141,-86.636946,32.437141",
     "geom:latitude":32.437141,
     "geom:longitude":-86.636946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2226 State Rte 14",
     "sg:city":"Autaugaville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152480931,
-    "wof:lastmodified":1449045813,
+    "wof:lastmodified":1466318325,
     "wof:name":"Alabama Forestry Community",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.636946,32.437141,-86.636946,32.437141],
-  "geometry": {"coordinates":[-86.636946,32.437141],"type":"Point"}
+  "bbox": [
+    -86.636946,
+    32.437141,
+    -86.636946,
+    32.437141
+],
+  "geometry": {"coordinates":[-86.63694599999999,32.437141],"type":"Point"}
 }

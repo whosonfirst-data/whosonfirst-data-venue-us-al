@@ -2,13 +2,14 @@
   "id": 152882675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.588804,33.195046,-87.588804,33.195046",
     "geom:latitude":33.195046,
     "geom:longitude":-87.588804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 40th Ave",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085553,
-        85633793,
         85688675,
-        85812491
+        85633793,
+        85812491,
+        102085553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152882675,
-    "wof:lastmodified":1449045136,
+    "wof:lastmodified":1466320273,
     "wof:name":"Taylor Masonry Co",
     "wof:parent_id":85812491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.588804,33.195046,-87.588804,33.195046],
+  "bbox": [
+    -87.588804,
+    33.195046,
+    -87.588804,
+    33.195046
+],
   "geometry": {"coordinates":[-87.588804,33.195046],"type":"Point"}
 }

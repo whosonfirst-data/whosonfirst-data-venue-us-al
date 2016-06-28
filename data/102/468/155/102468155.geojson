@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102468155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.456761,31.269742,-85.456761,31.269742",
     "geom:latitude":31.269742,
     "geom:longitude":-85.456761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Bent Oak Dr",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840987,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85840987
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102468155,
-    "wof:lastmodified":1449069528,
+    "wof:lastmodified":1466315126,
     "wof:name":"Cincinnati Insurance Co",
     "wof:parent_id":85840987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.456761,31.269742,-85.456761,31.269742],
+  "bbox": [
+    -85.456761,
+    31.269742,
+    -85.456761,
+    31.269742
+],
   "geometry": {"coordinates":[-85.456761,31.269742],"type":"Point"}
 }

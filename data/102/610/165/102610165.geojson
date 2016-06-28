@@ -2,13 +2,14 @@
   "id": 102610165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.170741,30.53711,-88.170741,30.53711",
     "geom:latitude":30.53711,
     "geom:longitude":-88.170741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7440 Bellingrath Rd",
     "sg:city":"Theodore",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102610165,
-    "wof:lastmodified":1449070178,
+    "wof:lastmodified":1466317379,
     "wof:name":"Woodys Recycled Auto Parts",
     "wof:parent_id":85915075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.170741,30.53711,-88.170741,30.53711],
-  "geometry": {"coordinates":[-88.170741,30.53711],"type":"Point"}
+  "bbox": [
+    -88.170741,
+    30.53711,
+    -88.170741,
+    30.53711
+],
+  "geometry": {"coordinates":[-88.17074100000001,30.53711],"type":"Point"}
 }

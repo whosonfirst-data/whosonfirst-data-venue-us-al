@@ -2,13 +2,14 @@
   "id": 152595055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.009173,32.80913,-87.009173,32.80913",
     "geom:latitude":32.80913,
     "geom:longitude":-87.009173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4875 State Rte 183",
     "sg:city":"Lawley",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":152595055,
-    "wof:lastmodified":1449048469,
+    "wof:lastmodified":1466318792,
     "wof:name":"EZ Retriever",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.009173,32.80913,-87.009173,32.80913],
+  "bbox": [
+    -87.009173,
+    32.80913,
+    -87.009173,
+    32.80913
+],
   "geometry": {"coordinates":[-87.009173,32.80913],"type":"Point"}
 }

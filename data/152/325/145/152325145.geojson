@@ -2,13 +2,14 @@
   "id": 152325145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.300987,32.613382,-87.300987,32.613382",
     "geom:latitude":32.613382,
     "geom:longitude":-87.300987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1005 Fikes Ferry Rd",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152325145,
-    "wof:lastmodified":1449046123,
+    "wof:lastmodified":1466317316,
     "wof:name":"Colonial Manor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.300987,32.613382,-87.300987,32.613382],
-  "geometry": {"coordinates":[-87.300987,32.613382],"type":"Point"}
+  "bbox": [
+    -87.300987,
+    32.613382,
+    -87.300987,
+    32.613382
+],
+  "geometry": {"coordinates":[-87.30098700000001,32.613382],"type":"Point"}
 }

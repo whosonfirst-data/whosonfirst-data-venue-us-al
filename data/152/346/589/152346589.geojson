@@ -2,13 +2,14 @@
   "id": 152346589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.421658,31.243564,-85.421658,31.243564",
     "geom:latitude":31.243564,
     "geom:longitude":-85.421658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Girard Ave",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85849273,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85849273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152346589,
-    "wof:lastmodified":1449044263,
+    "wof:lastmodified":1466317654,
     "wof:name":"Girard Ave Middle School",
     "wof:parent_id":85849273,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.421658,31.243564,-85.421658,31.243564],
-  "geometry": {"coordinates":[-85.421658,31.243564],"type":"Point"}
+  "bbox": [
+    -85.421658,
+    31.243564,
+    -85.421658,
+    31.243564
+],
+  "geometry": {"coordinates":[-85.42165799999999,31.243564],"type":"Point"}
 }

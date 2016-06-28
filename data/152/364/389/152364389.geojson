@@ -2,13 +2,14 @@
   "id": 152364389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.837296,33.47629,-86.837296,33.47629",
     "geom:latitude":33.47629,
     "geom:longitude":-86.837296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Walter Davis Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876279,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152364389,
-    "wof:lastmodified":1449046897,
+    "wof:lastmodified":1466317658,
     "wof:name":"Taylor Battery Systems of Ala",
     "wof:parent_id":85876279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.837296,33.47629,-86.837296,33.47629],
-  "geometry": {"coordinates":[-86.837296,33.47629],"type":"Point"}
+  "bbox": [
+    -86.837296,
+    33.47629,
+    -86.837296,
+    33.47629
+],
+  "geometry": {"coordinates":[-86.83729599999999,33.47629],"type":"Point"}
 }

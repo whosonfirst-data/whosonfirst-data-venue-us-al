@@ -2,13 +2,14 @@
   "id": 102632953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.289431,33.865846,-86.289431,33.865846",
     "geom:latitude":33.865846,
     "geom:longitude":-86.289431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37175 US Hwy 231",
     "sg:city":"Ashville",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102632953,
-    "wof:lastmodified":1449069306,
+    "wof:lastmodified":1466317642,
     "wof:name":"Discount House",
     "wof:parent_id":85913467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.289431,33.865846,-86.289431,33.865846],
-  "geometry": {"coordinates":[-86.289431,33.865846],"type":"Point"}
+  "bbox": [
+    -86.289431,
+    33.865846,
+    -86.289431,
+    33.865846
+],
+  "geometry": {"coordinates":[-86.28943099999999,33.865846],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152812093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.242341,32.389806,-86.242341,32.389806",
     "geom:latitude":32.389806,
     "geom:longitude":-86.242341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3954 Croydon Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813403,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85813403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152812093,
-    "wof:lastmodified":1449044418,
+    "wof:lastmodified":1466319884,
     "wof:name":"Croydon Finishing Inc",
     "wof:parent_id":85813403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.242341,32.389806,-86.242341,32.389806],
+  "bbox": [
+    -86.242341,
+    32.389806,
+    -86.242341,
+    32.389806
+],
   "geometry": {"coordinates":[-86.242341,32.389806],"type":"Point"}
 }

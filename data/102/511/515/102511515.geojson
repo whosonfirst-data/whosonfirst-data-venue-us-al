@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102511515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.822448,33.437748,-86.822448,33.437748",
     "geom:latitude":33.437748,
     "geom:longitude":-86.822448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1468 Berry Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829599,
+        85688675,
         85633793,
         85914847,
         102085481,
-        85688675
+        85829599
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102511515,
-    "wof:lastmodified":1449068878,
+    "wof:lastmodified":1466316826,
     "wof:name":"D&R Enterprise",
     "wof:parent_id":85829599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.822448,33.437748,-86.822448,33.437748],
-  "geometry": {"coordinates":[-86.822448,33.437748],"type":"Point"}
+  "bbox": [
+    -86.822448,
+    33.437748,
+    -86.822448,
+    33.437748
+],
+  "geometry": {"coordinates":[-86.82244799999999,33.437748],"type":"Point"}
 }

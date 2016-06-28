@@ -2,13 +2,14 @@
   "id": 152220701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.79864,32.300004,-86.79864,32.300004",
     "geom:latitude":32.300004,
     "geom:longitude":-86.79864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2235 Benton Rd",
     "sg:city":"Lowndesboro",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":152220701,
-    "wof:lastmodified":1449048753,
+    "wof:lastmodified":1466316174,
     "wof:name":"Lane Cattle Co LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.79864,32.300004,-86.79864,32.300004],
-  "geometry": {"coordinates":[-86.79864,32.300004],"type":"Point"}
+  "bbox": [
+    -86.79864,
+    32.300004,
+    -86.79864,
+    32.300004
+],
+  "geometry": {"coordinates":[-86.79864000000001,32.300004],"type":"Point"}
 }

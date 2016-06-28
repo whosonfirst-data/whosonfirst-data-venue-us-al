@@ -2,13 +2,14 @@
   "id": 152161769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.389327,30.753191,-88.389327,30.753191",
     "geom:latitude":30.753191,
     "geom:longitude":-88.389327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14805 Randolph Foster Rd",
     "sg:city":"Wilmer",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085585,
-        85633793,
         85688675,
-        85878987
+        85633793,
+        85878987,
+        102085585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152161769,
-    "wof:lastmodified":1449046138,
+    "wof:lastmodified":1466315209,
     "wof:name":"M & D Hauling Inc",
     "wof:parent_id":85878987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.389327,30.753191,-88.389327,30.753191],
-  "geometry": {"coordinates":[-88.389327,30.753191],"type":"Point"}
+  "bbox": [
+    -88.389327,
+    30.753191,
+    -88.389327,
+    30.753191
+],
+  "geometry": {"coordinates":[-88.38932699999999,30.753191],"type":"Point"}
 }

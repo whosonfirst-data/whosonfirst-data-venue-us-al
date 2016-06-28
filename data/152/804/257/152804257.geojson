@@ -2,13 +2,14 @@
   "id": 152804257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.389112,32.624837,-85.389112,32.624837",
     "geom:latitude":32.624837,
     "geom:longitude":-85.389112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1003 Wallace Ave",
     "sg:city":"Opelika",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819517,
+        85688675,
         85633793,
         85913815,
         102085751,
-        85688675
+        85819517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152804257,
-    "wof:lastmodified":1449047515,
+    "wof:lastmodified":1466319875,
     "wof:name":"Minor Misc",
     "wof:parent_id":85819517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.389112,32.624837,-85.389112,32.624837],
+  "bbox": [
+    -85.389112,
+    32.624837,
+    -85.389112,
+    32.624837
+],
   "geometry": {"coordinates":[-85.389112,32.624837],"type":"Point"}
 }

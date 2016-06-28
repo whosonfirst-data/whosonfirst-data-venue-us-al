@@ -2,13 +2,14 @@
   "id": 152605147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.736402,32.940292,-86.736402,32.940292",
     "geom:latitude":32.940292,
     "geom:longitude":-86.736402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23354 US Hwy 31",
     "sg:city":"Jemison",
     "sg:classifiers":[
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152605147,
-    "wof:lastmodified":1449046560,
+    "wof:lastmodified":1466318850,
     "wof:name":"Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.736402,32.940292,-86.736402,32.940292],
+  "bbox": [
+    -86.736402,
+    32.940292,
+    -86.736402,
+    32.940292
+],
   "geometry": {"coordinates":[-86.736402,32.940292],"type":"Point"}
 }

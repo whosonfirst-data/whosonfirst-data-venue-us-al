@@ -2,13 +2,14 @@
   "id": 152832255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.784629,30.567259,-87.784629,30.567259",
     "geom:latitude":30.567259,
     "geom:longitude":-87.784629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23100 Dixon Ln",
     "sg:city":"Loxley",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847563,
+        85688675,
         85633793,
         85914707,
         102085469,
-        85688675
+        85847563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152832255,
-    "wof:lastmodified":1449044312,
+    "wof:lastmodified":1466320022,
     "wof:name":"Women Work",
     "wof:parent_id":85847563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.784629,30.567259,-87.784629,30.567259],
+  "bbox": [
+    -87.784629,
+    30.567259,
+    -87.784629,
+    30.567259
+],
   "geometry": {"coordinates":[-87.784629,30.567259],"type":"Point"}
 }

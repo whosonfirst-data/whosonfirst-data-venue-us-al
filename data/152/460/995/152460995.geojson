@@ -2,13 +2,14 @@
   "id": 152460995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.302678,34.350264,-86.302678,34.350264",
     "geom:latitude":34.350264,
     "geom:longitude":-86.302678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1206 Rayburn Ave",
     "sg:city":"Guntersville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850331,
+        85688675,
         85633793,
         85899833,
         102085513,
-        85688675
+        85850331
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152460995,
-    "wof:lastmodified":1449048659,
+    "wof:lastmodified":1466318162,
     "wof:name":"Leiderbach Builders & Roofers",
     "wof:parent_id":85850331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.302678,34.350264,-86.302678,34.350264],
+  "bbox": [
+    -86.302678,
+    34.350264,
+    -86.302678,
+    34.350264
+],
   "geometry": {"coordinates":[-86.302678,34.350264],"type":"Point"}
 }

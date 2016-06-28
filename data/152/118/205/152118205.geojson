@@ -2,13 +2,14 @@
   "id": 152118205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.698299,34.473816,-86.698299,34.473816",
     "geom:latitude":34.473816,
     "geom:longitude":-86.698299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Cotaco School Rd",
     "sg:city":"Somerville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822793,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85822793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152118205,
-    "wof:lastmodified":1449048034,
+    "wof:lastmodified":1466314404,
     "wof:name":"Cotaco Community Headstart",
     "wof:parent_id":85822793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.698299,34.473816,-86.698299,34.473816],
-  "geometry": {"coordinates":[-86.698299,34.473816],"type":"Point"}
+  "bbox": [
+    -86.698299,
+    34.473816,
+    -86.698299,
+    34.473816
+],
+  "geometry": {"coordinates":[-86.69829900000001,34.473816],"type":"Point"}
 }

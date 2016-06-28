@@ -2,13 +2,14 @@
   "id": 152680199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.119085,34.761912,-87.119085,34.761912",
     "geom:latitude":34.761912,
     "geom:longitude":-87.119085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11327 Ripley Rd",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829531,
+        85688675,
         85633793,
         85913543,
         102085489,
-        85688675
+        85829531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152680199,
-    "wof:lastmodified":1449047533,
+    "wof:lastmodified":1466319239,
     "wof:name":"Riddles Chapel Unitd Methodst",
     "wof:parent_id":85829531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.119085,34.761912,-87.119085,34.761912],
+  "bbox": [
+    -87.119085,
+    34.761912,
+    -87.119085,
+    34.761912
+],
   "geometry": {"coordinates":[-87.119085,34.761912],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152533313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.753162,34.699433,-86.753162,34.699433",
     "geom:latitude":34.699433,
     "geom:longitude":-86.753162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"370 Mill Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831899,
+        85688675,
         85633793,
         85913593,
         102085487,
-        85688675
+        85831899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152533313,
-    "wof:lastmodified":1449044228,
+    "wof:lastmodified":1466318381,
     "wof:name":"Nicholas Antoine",
     "wof:parent_id":85831899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.753162,34.699433,-86.753162,34.699433],
+  "bbox": [
+    -86.753162,
+    34.699433,
+    -86.753162,
+    34.699433
+],
   "geometry": {"coordinates":[-86.753162,34.699433],"type":"Point"}
 }

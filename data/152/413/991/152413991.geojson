@@ -2,13 +2,14 @@
   "id": 152413991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.742246,34.699352,-86.742246,34.699352",
     "geom:latitude":34.699352,
     "geom:longitude":-86.742246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Hughes Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807231,
+        85688675,
         85633793,
         85913593,
         102085487,
-        85688675
+        85807231
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152413991,
-    "wof:lastmodified":1449045034,
+    "wof:lastmodified":1466317941,
     "wof:name":"Madison City Mayor",
     "wof:parent_id":85807231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.742246,34.699352,-86.742246,34.699352],
-  "geometry": {"coordinates":[-86.742246,34.699352],"type":"Point"}
+  "bbox": [
+    -86.742246,
+    34.699352,
+    -86.742246,
+    34.699352
+],
+  "geometry": {"coordinates":[-86.74224599999999,34.699352],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102624857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.577479,34.714351,-86.577479,34.714351",
     "geom:latitude":34.714351,
     "geom:longitude":-86.577479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2327 Pansy St SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818149,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85818149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102624857,
-    "wof:lastmodified":1449069453,
+    "wof:lastmodified":1466317499,
     "wof:name":"Care Assur Systm Agng Home Bd",
     "wof:parent_id":85818149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.577479,34.714351,-86.577479,34.714351],
+  "bbox": [
+    -86.577479,
+    34.714351,
+    -86.577479,
+    34.714351
+],
   "geometry": {"coordinates":[-86.577479,34.714351],"type":"Point"}
 }

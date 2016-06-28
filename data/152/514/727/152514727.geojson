@@ -2,13 +2,14 @@
   "id": 152514727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.056587,30.730368,-88.056587,30.730368",
     "geom:latitude":30.730368,
     "geom:longitude":-88.056587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"428 Chin St",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152514727,
-    "wof:lastmodified":1449046623,
+    "wof:lastmodified":1466318408,
     "wof:name":"Williams Wldg Indus Trade Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.056587,30.730368,-88.056587,30.730368],
-  "geometry": {"coordinates":[-88.056587,30.730368],"type":"Point"}
+  "bbox": [
+    -88.056587,
+    30.730368,
+    -88.056587,
+    30.730368
+],
+  "geometry": {"coordinates":[-88.05658699999999,30.730368],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152403753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.040676,32.500124,-85.040676,32.500124",
     "geom:latitude":32.500124,
     "geom:longitude":-85.040676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4200 Bridgecrest Dr",
     "sg:city":"Phenix City",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829585,
+        85688675,
         85633793,
         85913715,
         102085697,
-        85688675
+        85829585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152403753,
-    "wof:lastmodified":1449048265,
+    "wof:lastmodified":1466317835,
     "wof:name":"Wrights Electrical Contracting",
     "wof:parent_id":85829585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.040676,32.500124,-85.040676,32.500124],
+  "bbox": [
+    -85.040676,
+    32.500124,
+    -85.040676,
+    32.500124
+],
   "geometry": {"coordinates":[-85.040676,32.500124],"type":"Point"}
 }

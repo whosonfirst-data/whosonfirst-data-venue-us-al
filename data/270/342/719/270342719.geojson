@@ -2,13 +2,14 @@
   "id": 270342719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.518904,31.128562,-87.518904,31.128562",
     "geom:latitude":31.128562,
     "geom:longitude":-87.518904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3402 Atmosphere Rd",
     "sg:city":"Atmore",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270342719,
-    "wof:lastmodified":1449010931,
+    "wof:lastmodified":1466314319,
     "wof:name":"Parker Sand & Gravel",
     "wof:parent_id":85843687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "construction"
     ]
 },
-  "bbox": [-87.518904,31.128562,-87.518904,31.128562],
-  "geometry": {"coordinates":[-87.518904,31.128562],"type":"Point"}
+  "bbox": [
+    -87.518904,
+    31.128562,
+    -87.518904,
+    31.128562
+],
+  "geometry": {"coordinates":[-87.51890400000001,31.128562],"type":"Point"}
 }

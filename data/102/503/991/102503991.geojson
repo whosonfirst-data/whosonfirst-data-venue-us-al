@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102503991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.754395,33.805889,-85.754395,33.805889",
     "geom:latitude":33.805889,
     "geom:longitude":-85.754395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"895 Gardner Dr SE",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805945,
+        85688675,
         85633793,
         85914293,
         102085603,
-        85688675
+        85805945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102503991,
-    "wof:lastmodified":1449070219,
+    "wof:lastmodified":1466316704,
     "wof:name":"Jacksonville Housing Authority",
     "wof:parent_id":85805945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.754395,33.805889,-85.754395,33.805889],
+  "bbox": [
+    -85.754395,
+    33.805889,
+    -85.754395,
+    33.805889
+],
   "geometry": {"coordinates":[-85.754395,33.805889],"type":"Point"}
 }

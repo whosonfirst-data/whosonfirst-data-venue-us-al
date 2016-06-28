@@ -2,13 +2,14 @@
   "id": 152788627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.84659,33.445003,-86.84659,33.445003",
     "geom:latitude":33.445003,
     "geom:longitude":-86.84659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 Distribution Dr",
     "sg:city":"Homewood",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808947,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85808947
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152788627,
-    "wof:lastmodified":1449046687,
+    "wof:lastmodified":1466319838,
     "wof:name":"Beauty Masters Warehouse",
     "wof:parent_id":85808947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.84659,33.445003,-86.84659,33.445003],
-  "geometry": {"coordinates":[-86.84659,33.445003],"type":"Point"}
+  "bbox": [
+    -86.84659,
+    33.445003,
+    -86.84659,
+    33.445003
+],
+  "geometry": {"coordinates":[-86.84659000000001,33.445003],"type":"Point"}
 }

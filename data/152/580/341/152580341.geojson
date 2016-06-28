@@ -2,13 +2,14 @@
   "id": 152580341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.088388,34.000145,-86.088388,34.000145",
     "geom:latitude":34.000145,
     "geom:longitude":-86.088388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4301 Old Pump Station Rd",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085545,
-        85633793,
         85688675,
-        85851221
+        85633793,
+        85851221,
+        102085545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152580341,
-    "wof:lastmodified":1449047415,
+    "wof:lastmodified":1466318756,
     "wof:name":"BBC Transportation",
     "wof:parent_id":85851221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.088388,34.000145,-86.088388,34.000145],
-  "geometry": {"coordinates":[-86.088388,34.000145],"type":"Point"}
+  "bbox": [
+    -86.088388,
+    34.000145,
+    -86.088388,
+    34.000145
+],
+  "geometry": {"coordinates":[-86.08838799999999,34.000145],"type":"Point"}
 }

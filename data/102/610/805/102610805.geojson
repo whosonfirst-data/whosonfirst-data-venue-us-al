@@ -2,13 +2,14 @@
   "id": 102610805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.774132,33.464138,-86.774132,33.464138",
     "geom:latitude":33.464138,
     "geom:longitude":-86.774132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2010 Brookwood Medical Center Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.bwmc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853703,
+        85688675,
         85633793,
         85914847,
         102085481,
-        85688675
+        85853703
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102610805,
-    "wof:lastmodified":1449070177,
+    "wof:lastmodified":1466317293,
     "wof:name":"Brookwood Rehabilitation Unit",
     "wof:parent_id":85853703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.774132,33.464138,-86.774132,33.464138],
-  "geometry": {"coordinates":[-86.774132,33.464138],"type":"Point"}
+  "bbox": [
+    -86.774132,
+    33.464138,
+    -86.774132,
+    33.464138
+],
+  "geometry": {"coordinates":[-86.77413199999999,33.464138],"type":"Point"}
 }

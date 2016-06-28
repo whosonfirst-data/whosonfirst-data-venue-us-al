@@ -2,13 +2,14 @@
   "id": 152194047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.540784,34.698512,-87.540784,34.698512",
     "geom:latitude":34.698512,
     "geom:longitude":-87.540784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8025 Old Hwy 20",
     "sg:city":"Leighton",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816399,
+        85688675,
         85633793,
         85897481,
         102085625,
-        85688675
+        85816399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152194047,
-    "wof:lastmodified":1449048249,
+    "wof:lastmodified":1466315851,
     "wof:name":"Leighton Village Apartments",
     "wof:parent_id":85816399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.540784,34.698512,-87.540784,34.698512],
+  "bbox": [
+    -87.540784,
+    34.698512,
+    -87.540784,
+    34.698512
+],
   "geometry": {"coordinates":[-87.540784,34.698512],"type":"Point"}
 }

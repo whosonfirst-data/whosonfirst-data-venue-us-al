@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102483833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.814917,33.255899,-86.814917,33.255899",
     "geom:latitude":33.255899,
     "geom:longitude":-86.814917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Industrial Rd",
     "sg:city":"Alabaster",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847439,
+        85688675,
         85633793,
         85914487,
         102085499,
-        85688675
+        85847439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102483833,
-    "wof:lastmodified":1449069666,
+    "wof:lastmodified":1466315616,
     "wof:name":"Keller Wholesale Used Trunks",
     "wof:parent_id":85847439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.814917,33.255899,-86.814917,33.255899],
-  "geometry": {"coordinates":[-86.814917,33.255899],"type":"Point"}
+  "bbox": [
+    -86.814917,
+    33.255899,
+    -86.814917,
+    33.255899
+],
+  "geometry": {"coordinates":[-86.81491699999999,33.255899],"type":"Point"}
 }

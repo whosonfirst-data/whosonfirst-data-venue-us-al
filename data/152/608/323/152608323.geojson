@@ -2,13 +2,14 @@
   "id": 152608323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.361528,32.47843,-86.361528,32.47843",
     "geom:latitude":32.47843,
     "geom:longitude":-86.361528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3320 Main St",
     "sg:city":"Millbrook",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085631,
-        85633793,
         85688675,
-        85822701
+        85633793,
+        85822701,
+        102085631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152608323,
-    "wof:lastmodified":1449046288,
+    "wof:lastmodified":1466318865,
     "wof:name":"Millbrook Gun & Pawn",
     "wof:parent_id":85822701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.361528,32.47843,-86.361528,32.47843],
-  "geometry": {"coordinates":[-86.361528,32.47843],"type":"Point"}
+  "bbox": [
+    -86.361528,
+    32.47843,
+    -86.361528,
+    32.47843
+],
+  "geometry": {"coordinates":[-86.36152800000001,32.47843],"type":"Point"}
 }

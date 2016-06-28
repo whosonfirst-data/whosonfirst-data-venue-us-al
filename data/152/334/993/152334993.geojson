@@ -2,13 +2,14 @@
   "id": 152334993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.190766,30.659902,-88.190766,30.659902",
     "geom:latitude":30.659902,
     "geom:longitude":-88.190766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1363 Hillcrest Rd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851319,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85851319
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152334993,
-    "wof:lastmodified":1449045656,
+    "wof:lastmodified":1466317606,
     "wof:name":"Minute Stop 167",
     "wof:parent_id":85851319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.190766,30.659902,-88.190766,30.659902],
+  "bbox": [
+    -88.190766,
+    30.659902,
+    -88.190766,
+    30.659902
+],
   "geometry": {"coordinates":[-88.190766,30.659902],"type":"Point"}
 }

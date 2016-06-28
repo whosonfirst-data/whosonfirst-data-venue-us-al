@@ -2,13 +2,14 @@
   "id": 152835763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.97236,32.994768,-85.97236,32.994768",
     "geom:latitude":32.994768,
     "geom:longitude":-85.97236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"432 Bradford Rd",
     "sg:city":"Alexander City",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840481,
+        85688675,
         85633793,
         85913363,
         102085567,
-        85688675
+        85840481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152835763,
-    "wof:lastmodified":1449044969,
+    "wof:lastmodified":1466320051,
     "wof:name":"Bradford Construction Company",
     "wof:parent_id":85840481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.97236,32.994768,-85.97236,32.994768],
-  "geometry": {"coordinates":[-85.97236,32.994768],"type":"Point"}
+  "bbox": [
+    -85.97236,
+    32.994768,
+    -85.97236,
+    32.994768
+],
+  "geometry": {"coordinates":[-85.97235999999999,32.994768],"type":"Point"}
 }

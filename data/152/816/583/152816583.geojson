@@ -2,13 +2,14 @@
   "id": 152816583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.303989,32.381009,-86.303989,32.381009",
     "geom:latitude":32.381009,
     "geom:longitude":-86.303989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 N Hull St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879043,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152816583,
-    "wof:lastmodified":1449046997,
+    "wof:lastmodified":1466319944,
     "wof:name":"Community Center",
     "wof:parent_id":85879043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.303989,32.381009,-86.303989,32.381009],
+  "bbox": [
+    -86.303989,
+    32.381009,
+    -86.303989,
+    32.381009
+],
   "geometry": {"coordinates":[-86.303989,32.381009],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152872073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.819527,34.933165,-86.819527,34.933165",
     "geom:latitude":34.933165,
     "geom:longitude":-86.819527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25945 State Rte 251",
     "sg:city":"Toney",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085487,
-        85633793,
         85688675,
-        85820675
+        85633793,
+        85820675,
+        102085487
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152872073,
-    "wof:lastmodified":1449044713,
+    "wof:lastmodified":1466320181,
     "wof:name":"Bethel Grocery",
     "wof:parent_id":85820675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.819527,34.933165,-86.819527,34.933165],
-  "geometry": {"coordinates":[-86.819527,34.933165],"type":"Point"}
+  "bbox": [
+    -86.819527,
+    34.933165,
+    -86.819527,
+    34.933165
+],
+  "geometry": {"coordinates":[-86.81952699999999,34.933165],"type":"Point"}
 }

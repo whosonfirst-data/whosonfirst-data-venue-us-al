@@ -2,13 +2,14 @@
   "id": 152753619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.555426,33.0925,-87.555426,33.0925",
     "geom:latitude":33.0925,
     "geom:longitude":-87.555426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13493 Kateland Dr",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085553,
-        85633793,
         85688675,
-        85851887
+        85633793,
+        85851887,
+        102085553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152753619,
-    "wof:lastmodified":1449044846,
+    "wof:lastmodified":1466319625,
     "wof:name":"Irby Service Co",
     "wof:parent_id":85851887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.555426,33.0925,-87.555426,33.0925],
+  "bbox": [
+    -87.555426,
+    33.0925,
+    -87.555426,
+    33.0925
+],
   "geometry": {"coordinates":[-87.555426,33.0925],"type":"Point"}
 }

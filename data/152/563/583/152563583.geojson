@@ -2,13 +2,14 @@
   "id": 152563583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.709786,34.749314,-87.709786,34.749314",
     "geom:latitude":34.749314,
     "geom:longitude":-87.709786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"808 Shop Pike",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85832153,
+        85688675,
         85633793,
         85897447,
         102085625,
-        85688675
+        85832153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152563583,
-    "wof:lastmodified":1449044364,
+    "wof:lastmodified":1466318728,
     "wof:name":"Reids Body Shop",
     "wof:parent_id":85832153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.709786,34.749314,-87.709786,34.749314],
-  "geometry": {"coordinates":[-87.709786,34.749314],"type":"Point"}
+  "bbox": [
+    -87.709786,
+    34.749314,
+    -87.709786,
+    34.749314
+],
+  "geometry": {"coordinates":[-87.70978599999999,34.749314],"type":"Point"}
 }

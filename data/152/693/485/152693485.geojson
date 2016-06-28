@@ -2,13 +2,14 @@
   "id": 152693485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.790994,33.500282,-86.790994,33.500282",
     "geom:latitude":33.500282,
     "geom:longitude":-86.790994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2146 Highland Ave S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.hbvdlaw.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876277,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152693485,
-    "wof:lastmodified":1449044563,
+    "wof:lastmodified":1466319368,
     "wof:name":"Heninger Burge Vargo Davis LLP",
     "wof:parent_id":85876277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.790994,33.500282,-86.790994,33.500282],
+  "bbox": [
+    -86.790994,
+    33.500282,
+    -86.790994,
+    33.500282
+],
   "geometry": {"coordinates":[-86.790994,33.500282],"type":"Point"}
 }

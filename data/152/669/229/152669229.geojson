@@ -2,13 +2,14 @@
   "id": 152669229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.151525,32.601479,-85.151525,32.601479",
     "geom:latitude":32.601479,
     "geom:longitude":-85.151525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"495 Co Rd 434",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":152669229,
-    "wof:lastmodified":1449044834,
+    "wof:lastmodified":1466319179,
     "wof:name":"Antique Restorations & Woodwkg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.151525,32.601479,-85.151525,32.601479],
-  "geometry": {"coordinates":[-85.151525,32.601479],"type":"Point"}
+  "bbox": [
+    -85.151525,
+    32.601479,
+    -85.151525,
+    32.601479
+],
+  "geometry": {"coordinates":[-85.15152500000001,32.601479],"type":"Point"}
 }

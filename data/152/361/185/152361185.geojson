@@ -2,13 +2,14 @@
   "id": 152361185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.775271,33.346799,-86.775271,33.346799",
     "geom:latitude":33.346799,
     "geom:longitude":-86.775271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6151 Valley Station Dr",
     "sg:city":"Pelham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853353,
+        85688675,
         85633793,
         85914511,
         102085499,
-        85688675
+        85853353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152361185,
-    "wof:lastmodified":1449047665,
+    "wof:lastmodified":1466317611,
     "wof:name":"Barry Peterson",
     "wof:parent_id":85853353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.775271,33.346799,-86.775271,33.346799],
+  "bbox": [
+    -86.775271,
+    33.346799,
+    -86.775271,
+    33.346799
+],
   "geometry": {"coordinates":[-86.775271,33.346799],"type":"Point"}
 }

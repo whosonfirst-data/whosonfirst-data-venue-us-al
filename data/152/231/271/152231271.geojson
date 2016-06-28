@@ -2,13 +2,14 @@
   "id": 152231271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.792356,33.329966,-86.792356,33.329966",
     "geom:latitude":33.329966,
     "geom:longitude":-86.792356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2269 Pelham Pkwy",
     "sg:city":"Pelham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85826867,
+        85688675,
         85633793,
         85914501,
         102085499,
-        85688675
+        85826867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152231271,
-    "wof:lastmodified":1449046665,
+    "wof:lastmodified":1466316257,
     "wof:name":"Alabama Outdoors",
     "wof:parent_id":85826867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.792356,33.329966,-86.792356,33.329966],
+  "bbox": [
+    -86.792356,
+    33.329966,
+    -86.792356,
+    33.329966
+],
   "geometry": {"coordinates":[-86.792356,33.329966],"type":"Point"}
 }

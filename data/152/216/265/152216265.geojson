@@ -2,13 +2,14 @@
   "id": 152216265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.70321,34.754765,-87.70321,34.754765",
     "geom:latitude":34.754765,
     "geom:longitude":-87.70321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1405 Shop Pike",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858837,
+        85688675,
         85633793,
         85897473,
         102085625,
-        85688675
+        85858837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152216265,
-    "wof:lastmodified":1449048394,
+    "wof:lastmodified":1466315986,
     "wof:name":"Laborers Local",
     "wof:parent_id":85858837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.70321,34.754765,-87.70321,34.754765],
+  "bbox": [
+    -87.70321,
+    34.754765,
+    -87.70321,
+    34.754765
+],
   "geometry": {"coordinates":[-87.70321,34.754765],"type":"Point"}
 }

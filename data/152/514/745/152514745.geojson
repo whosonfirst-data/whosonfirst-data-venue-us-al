@@ -2,13 +2,14 @@
   "id": 152514745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.251416,31.562898,-85.251416,31.562898",
     "geom:latitude":31.562898,
     "geom:longitude":-85.251416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 Kirkland St",
     "sg:city":"Abbeville",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152514745,
-    "wof:lastmodified":1449046627,
+    "wof:lastmodified":1466318409,
     "wof:name":"Herndon Oil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.251416,31.562898,-85.251416,31.562898],
-  "geometry": {"coordinates":[-85.251416,31.562898],"type":"Point"}
+  "bbox": [
+    -85.251416,
+    31.562898,
+    -85.251416,
+    31.562898
+],
+  "geometry": {"coordinates":[-85.25141600000001,31.562898],"type":"Point"}
 }

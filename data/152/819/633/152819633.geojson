@@ -2,13 +2,14 @@
   "id": 152819633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.759864,33.817094,-85.759864,33.817094",
     "geom:latitude":33.817094,
     "geom:longitude":-85.759864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Church Ave NE",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817157,
+        85688675,
         85633793,
         85914293,
         102085603,
-        85688675
+        85817157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152819633,
-    "wof:lastmodified":1449045395,
+    "wof:lastmodified":1466319956,
     "wof:name":"Window Man Inc",
     "wof:parent_id":85817157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.759864,33.817094,-85.759864,33.817094],
-  "geometry": {"coordinates":[-85.759864,33.817094],"type":"Point"}
+  "bbox": [
+    -85.759864,
+    33.817094,
+    -85.759864,
+    33.817094
+],
+  "geometry": {"coordinates":[-85.75986399999999,33.817094],"type":"Point"}
 }

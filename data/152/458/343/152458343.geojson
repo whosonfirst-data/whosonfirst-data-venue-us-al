@@ -2,13 +2,14 @@
   "id": 152458343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.370217,33.924425,-86.370217,33.924425",
     "geom:latitude":33.924425,
     "geom:longitude":-86.370217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47545 US Hwy 231",
     "sg:city":"Oneonta",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085667,
-        85633793,
         85688675,
-        85819523
+        85633793,
+        85819523,
+        102085667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152458343,
-    "wof:lastmodified":1449047587,
+    "wof:lastmodified":1466318228,
     "wof:name":"Olympia Crusher Corp",
     "wof:parent_id":85819523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.370217,33.924425,-86.370217,33.924425],
+  "bbox": [
+    -86.370217,
+    33.924425,
+    -86.370217,
+    33.924425
+],
   "geometry": {"coordinates":[-86.370217,33.924425],"type":"Point"}
 }

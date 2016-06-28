@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102505971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.833802,33.503167,-86.833802,33.503167",
     "geom:latitude":33.503167,
     "geom:longitude":-86.833802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28 2nd Ave N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876279,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102505971,
-    "wof:lastmodified":1449069761,
+    "wof:lastmodified":1466316704,
     "wof:name":"American Lighting & Electric",
     "wof:parent_id":85876279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.833802,33.503167,-86.833802,33.503167],
-  "geometry": {"coordinates":[-86.833802,33.503167],"type":"Point"}
+  "bbox": [
+    -86.833802,
+    33.503167,
+    -86.833802,
+    33.503167
+],
+  "geometry": {"coordinates":[-86.83380200000001,33.503167],"type":"Point"}
 }

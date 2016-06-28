@@ -2,13 +2,14 @@
   "id": 152578409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.205106,32.385124,-86.205106,32.385124",
     "geom:latitude":32.385124,
     "geom:longitude":-86.205106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1278 Eastdale Mall",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834995,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85834995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152578409,
-    "wof:lastmodified":1449045455,
+    "wof:lastmodified":1466318745,
     "wof:name":"Gorins Cafe",
     "wof:parent_id":85834995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.205106,32.385124,-86.205106,32.385124],
+  "bbox": [
+    -86.205106,
+    32.385124,
+    -86.205106,
+    32.385124
+],
   "geometry": {"coordinates":[-86.205106,32.385124],"type":"Point"}
 }

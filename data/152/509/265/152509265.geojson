@@ -2,13 +2,14 @@
   "id": 152509265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.572552,33.207497,-87.572552,33.207497",
     "geom:latitude":33.207497,
     "geom:longitude":-87.572552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2760 6th St",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816127,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85816127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152509265,
-    "wof:lastmodified":1449044482,
+    "wof:lastmodified":1466318360,
     "wof:name":"Gulf States Paper Corp",
     "wof:parent_id":85816127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.572552,33.207497,-87.572552,33.207497],
+  "bbox": [
+    -87.572552,
+    33.207497,
+    -87.572552,
+    33.207497
+],
   "geometry": {"coordinates":[-87.572552,33.207497],"type":"Point"}
 }

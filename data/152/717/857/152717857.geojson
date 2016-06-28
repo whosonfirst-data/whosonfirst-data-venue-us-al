@@ -2,13 +2,14 @@
   "id": 152717857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.282456,32.376376,-86.282456,32.376376",
     "geom:latitude":32.376376,
     "geom:longitude":-86.282456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1820 Mount Meigs Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.photographic-solutions.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809389,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85809389
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152717857,
-    "wof:lastmodified":1449044418,
+    "wof:lastmodified":1466319516,
     "wof:name":"Photographic Solutions",
     "wof:parent_id":85809389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.282456,32.376376,-86.282456,32.376376],
+  "bbox": [
+    -86.282456,
+    32.376376,
+    -86.282456,
+    32.376376
+],
   "geometry": {"coordinates":[-86.282456,32.376376],"type":"Point"}
 }

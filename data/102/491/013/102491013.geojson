@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102491013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.843894,33.532545,-86.843894,33.532545",
     "geom:latitude":33.532545,
     "geom:longitude":-86.843894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Finley Blvd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85849097,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85849097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102491013,
-    "wof:lastmodified":1449067732,
+    "wof:lastmodified":1466316053,
     "wof:name":"Burlington Northern",
     "wof:parent_id":85849097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.843894,33.532545,-86.843894,33.532545],
-  "geometry": {"coordinates":[-86.843894,33.532545],"type":"Point"}
+  "bbox": [
+    -86.843894,
+    33.532545,
+    -86.843894,
+    33.532545
+],
+  "geometry": {"coordinates":[-86.84389400000001,33.532545],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152669315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.811265,34.872729,-85.811265,34.872729",
     "geom:latitude":34.872729,
     "geom:longitude":-85.811265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Co Rd 85",
     "sg:city":"Stevenson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809451,
+        85688675,
         85633793,
         85914033,
         102085607,
-        85688675
+        85809451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152669315,
-    "wof:lastmodified":1449044836,
+    "wof:lastmodified":1466319184,
     "wof:name":"North Jackson Animal Clinic",
     "wof:parent_id":85809451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.811265,34.872729,-85.811265,34.872729],
-  "geometry": {"coordinates":[-85.811265,34.872729],"type":"Point"}
+  "bbox": [
+    -85.811265,
+    34.872729,
+    -85.811265,
+    34.872729
+],
+  "geometry": {"coordinates":[-85.81126500000001,34.872729],"type":"Point"}
 }

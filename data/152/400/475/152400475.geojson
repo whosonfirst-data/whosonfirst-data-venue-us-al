@@ -2,13 +2,14 @@
   "id": 152400475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.447675,32.624119,-85.447675,32.624119",
     "geom:latitude":32.624119,
     "geom:longitude":-85.447675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1550 Opelika Rd",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853849,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85853849
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152400475,
-    "wof:lastmodified":1449044758,
+    "wof:lastmodified":1466317848,
     "wof:name":"Xxxtreme Performance",
     "wof:parent_id":85853849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.447675,32.624119,-85.447675,32.624119],
+  "bbox": [
+    -85.447675,
+    32.624119,
+    -85.447675,
+    32.624119
+],
   "geometry": {"coordinates":[-85.447675,32.624119],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102605275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.823736,33.230054,-86.823736,33.230054",
     "geom:latitude":33.230054,
     "geom:longitude":-86.823736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1249 Montevallo Rd",
     "sg:city":"Alabaster",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.comfortcare.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847439,
+        85688675,
         85633793,
         85914487,
         102085499,
-        85688675
+        85847439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102605275,
-    "wof:lastmodified":1449068936,
+    "wof:lastmodified":1466317155,
     "wof:name":"Comfort Care Home Health Servi",
     "wof:parent_id":85847439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.823736,33.230054,-86.823736,33.230054],
+  "bbox": [
+    -86.823736,
+    33.230054,
+    -86.823736,
+    33.230054
+],
   "geometry": {"coordinates":[-86.823736,33.230054],"type":"Point"}
 }

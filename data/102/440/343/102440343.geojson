@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102440343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.236089,32.358446,-86.236089,32.358446",
     "geom:latitude":32.358446,
     "geom:longitude":-86.236089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4156 Carmichael Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879047,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102440343,
-    "wof:lastmodified":1449068638,
+    "wof:lastmodified":1466315299,
     "wof:name":"Nursing Home Administrators",
     "wof:parent_id":85879047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.236089,32.358446,-86.236089,32.358446],
-  "geometry": {"coordinates":[-86.236089,32.358446],"type":"Point"}
+  "bbox": [
+    -86.236089,
+    32.358446,
+    -86.236089,
+    32.358446
+],
+  "geometry": {"coordinates":[-86.23608900000001,32.358446],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102508251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.954807,33.400084,-86.954807,33.400084",
     "geom:latitude":33.400084,
     "geom:longitude":-86.954807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 17th St N",
     "sg:city":"Bessemer",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807371,
+        85688675,
         85633793,
         85914885,
         102085481,
-        85688675
+        85807371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102508251,
-    "wof:lastmodified":1449069089,
+    "wof:lastmodified":1466316575,
     "wof:name":"David Hobdy",
     "wof:parent_id":85807371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.954807,33.400084,-86.954807,33.400084],
+  "bbox": [
+    -86.954807,
+    33.400084,
+    -86.954807,
+    33.400084
+],
   "geometry": {"coordinates":[-86.954807,33.400084],"type":"Point"}
 }

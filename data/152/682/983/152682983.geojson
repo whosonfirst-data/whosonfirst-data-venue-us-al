@@ -2,13 +2,14 @@
   "id": 152682983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.693965,33.407804,-86.693965,33.407804",
     "geom:latitude":33.407804,
     "geom:longitude":-86.693965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4985 Meadow Brook Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     "sg:website":"www.blairremodelers.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85833411
+        85633793,
+        85833411,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152682983,
-    "wof:lastmodified":1449045114,
+    "wof:lastmodified":1466319276,
     "wof:name":"Blair Building & Remodeling",
     "wof:parent_id":85833411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.693965,33.407804,-86.693965,33.407804],
-  "geometry": {"coordinates":[-86.693965,33.407804],"type":"Point"}
+  "bbox": [
+    -86.693965,
+    33.407804,
+    -86.693965,
+    33.407804
+],
+  "geometry": {"coordinates":[-86.69396500000001,33.407804],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152560401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.732359,34.79824,-86.732359,34.79824",
     "geom:latitude":34.79824,
     "geom:longitude":-86.732359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 Haddington Ct",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851107,
+        85688675,
         85633793,
         85913593,
         102085487,
-        85688675
+        85851107
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152560401,
-    "wof:lastmodified":1449047825,
+    "wof:lastmodified":1466318622,
     "wof:name":"Elizabeth Haynes Co CPA",
     "wof:parent_id":85851107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.732359,34.79824,-86.732359,34.79824],
+  "bbox": [
+    -86.732359,
+    34.79824,
+    -86.732359,
+    34.79824
+],
   "geometry": {"coordinates":[-86.732359,34.79824],"type":"Point"}
 }

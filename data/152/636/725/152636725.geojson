@@ -2,13 +2,14 @@
   "id": 152636725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.376554,32.643324,-85.376554,32.643324",
     "geom:latitude":32.643324,
     "geom:longitude":-85.376554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 Geneva St",
     "sg:city":"Opelika",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85857153,
+        85688675,
         85633793,
         85913815,
         102085751,
-        85688675,
+        85857153,
         85819517
     ],
     "wof:breaches":[],
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":152636725,
-    "wof:lastmodified":1449046140,
+    "wof:lastmodified":1466318972,
     "wof:name":"Alabama Council On Human Rltns",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.376554,32.643324,-85.376554,32.643324],
+  "bbox": [
+    -85.376554,
+    32.643324,
+    -85.376554,
+    32.643324
+],
   "geometry": {"coordinates":[-85.376554,32.643324],"type":"Point"}
 }

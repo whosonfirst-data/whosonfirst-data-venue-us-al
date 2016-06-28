@@ -2,13 +2,14 @@
   "id": 152640823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.73326,30.242984,-87.73326,30.242984",
     "geom:latitude":30.242984,
     "geom:longitude":-87.73326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"143 Blue Lagoon Dr",
     "sg:city":"Gulf Shores",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868551,
+        85688675,
         85633793,
         85914719,
         102085469,
-        85688675
+        85868551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152640823,
-    "wof:lastmodified":1449046322,
+    "wof:lastmodified":1466319081,
     "wof:name":"Lagoon Property Owners Assoc",
     "wof:parent_id":85868551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.73326,30.242984,-87.73326,30.242984],
+  "bbox": [
+    -87.73326,
+    30.242984,
+    -87.73326,
+    30.242984
+],
   "geometry": {"coordinates":[-87.73326,30.242984],"type":"Point"}
 }

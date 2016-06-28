@@ -2,13 +2,14 @@
   "id": 152821581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.72631,33.62352,-85.72631,33.62352",
     "geom:latitude":33.62352,
     "geom:longitude":-85.72631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5373 US Hwy 78",
     "sg:city":"Anniston",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850637,
+        85688675,
         85633793,
         85914281,
         102085603,
-        85688675
+        85850637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152821581,
-    "wof:lastmodified":1449046815,
+    "wof:lastmodified":1466319959,
     "wof:name":"Southern Wdwkg Prtble Bildings",
     "wof:parent_id":85850637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.72631,33.62352,-85.72631,33.62352],
+  "bbox": [
+    -85.72631,
+    33.62352,
+    -85.72631,
+    33.62352
+],
   "geometry": {"coordinates":[-85.72631,33.62352],"type":"Point"}
 }

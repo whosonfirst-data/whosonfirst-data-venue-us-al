@@ -2,13 +2,14 @@
   "id": 152608687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.15008,30.70533,-88.15008,30.70533",
     "geom:latitude":30.70533,
     "geom:longitude":-88.15008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4612 Springhill Ave",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878991,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878991
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152608687,
-    "wof:lastmodified":1449046288,
+    "wof:lastmodified":1466318887,
     "wof:name":"Carondolet Apartments",
     "wof:parent_id":85878991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.15008,30.70533,-88.15008,30.70533],
+  "bbox": [
+    -88.15008,
+    30.70533,
+    -88.15008,
+    30.70533
+],
   "geometry": {"coordinates":[-88.15008,30.70533],"type":"Point"}
 }

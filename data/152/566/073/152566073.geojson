@@ -2,13 +2,14 @@
   "id": 152566073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.076326,31.415139,-86.076326,31.415139",
     "geom:latitude":31.415139,
     "geom:longitude":-86.076326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1315 Hickman Ave",
     "sg:city":"Elba",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837695,
+        85688675,
         85633793,
         85899527,
         102085699,
-        85688675
+        85837695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152566073,
-    "wof:lastmodified":1449044387,
+    "wof:lastmodified":1466318639,
     "wof:name":"Dorsey Trailer Co",
     "wof:parent_id":85837695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.076326,31.415139,-86.076326,31.415139],
-  "geometry": {"coordinates":[-86.076326,31.415139],"type":"Point"}
+  "bbox": [
+    -86.076326,
+    31.415139,
+    -86.076326,
+    31.415139
+],
+  "geometry": {"coordinates":[-86.07632599999999,31.415139],"type":"Point"}
 }

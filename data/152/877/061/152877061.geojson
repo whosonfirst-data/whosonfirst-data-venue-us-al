@@ -2,13 +2,14 @@
   "id": 152877061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.447785,32.631189,-85.447785,32.631189",
     "geom:latitude":32.631189,
     "geom:longitude":-85.447785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1559 Professional Pkwy",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853849,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85853849
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152877061,
-    "wof:lastmodified":1449047547,
+    "wof:lastmodified":1466320216,
     "wof:name":"Gary B Harrelson MD",
     "wof:parent_id":85853849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.447785,32.631189,-85.447785,32.631189],
+  "bbox": [
+    -85.447785,
+    32.631189,
+    -85.447785,
+    32.631189
+],
   "geometry": {"coordinates":[-85.447785,32.631189],"type":"Point"}
 }

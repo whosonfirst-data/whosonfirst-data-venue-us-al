@@ -2,13 +2,14 @@
   "id": 152445229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.479839,32.605062,-85.479839,32.605062",
     "geom:latitude":32.605062,
     "geom:longitude":-85.479839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"137 S Gay St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819999,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85819999
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152445229,
-    "wof:lastmodified":1449044924,
+    "wof:lastmodified":1466318048,
     "wof:name":"Auburn United Methodist Church",
     "wof:parent_id":85819999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.479839,32.605062,-85.479839,32.605062],
+  "bbox": [
+    -85.479839,
+    32.605062,
+    -85.479839,
+    32.605062
+],
   "geometry": {"coordinates":[-85.479839,32.605062],"type":"Point"}
 }

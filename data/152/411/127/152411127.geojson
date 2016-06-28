@@ -2,13 +2,14 @@
   "id": 152411127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.309121,32.351678,-86.309121,32.351678",
     "geom:latitude":32.351678,
     "geom:longitude":-86.309121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"61 W Fairview Ave",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879039,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152411127,
-    "wof:lastmodified":1449044514,
+    "wof:lastmodified":1466317878,
     "wof:name":"Cell King",
     "wof:parent_id":85879039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.309121,32.351678,-86.309121,32.351678],
+  "bbox": [
+    -86.309121,
+    32.351678,
+    -86.309121,
+    32.351678
+],
   "geometry": {"coordinates":[-86.309121,32.351678],"type":"Point"}
 }

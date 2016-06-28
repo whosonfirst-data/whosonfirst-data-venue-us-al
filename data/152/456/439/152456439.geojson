@@ -2,13 +2,14 @@
   "id": 152456439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.917586,33.59065,-86.917586,33.59065",
     "geom:latitude":33.59065,
     "geom:longitude":-86.917586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2517 October Dr",
     "sg:city":"Adamsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820003,
+        85688675,
         85633793,
         85914875,
         102085481,
-        85688675
+        85820003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152456439,
-    "wof:lastmodified":1449045677,
+    "wof:lastmodified":1466318219,
     "wof:name":"Fresh N Clean",
     "wof:parent_id":85820003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.917586,33.59065,-86.917586,33.59065],
+  "bbox": [
+    -86.917586,
+    33.59065,
+    -86.917586,
+    33.59065
+],
   "geometry": {"coordinates":[-86.917586,33.59065],"type":"Point"}
 }

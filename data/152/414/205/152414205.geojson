@@ -2,13 +2,14 @@
   "id": 152414205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.104423,33.990422,-86.104423,33.990422",
     "geom:latitude":33.990422,
     "geom:longitude":-86.104423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 Burke Ave SE",
     "sg:city":"Attalla",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085545,
-        85633793,
         85688675,
-        85851221
+        85633793,
+        85851221,
+        102085545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152414205,
-    "wof:lastmodified":1449046466,
+    "wof:lastmodified":1466317901,
     "wof:name":"Recovery Bookkeep Income Tax",
     "wof:parent_id":85851221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.104423,33.990422,-86.104423,33.990422],
+  "bbox": [
+    -86.104423,
+    33.990422,
+    -86.104423,
+    33.990422
+],
   "geometry": {"coordinates":[-86.104423,33.990422],"type":"Point"}
 }

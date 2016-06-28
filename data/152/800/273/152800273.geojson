@@ -2,13 +2,14 @@
   "id": 152800273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.266816,32.363709,-86.266816,32.363709",
     "geom:latitude":32.363709,
     "geom:longitude":-86.266816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2752 Zelda Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85823265,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85823265
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152800273,
-    "wof:lastmodified":1449044668,
+    "wof:lastmodified":1466319849,
     "wof:name":"Montgomery Eye Physicians",
     "wof:parent_id":85823265,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.266816,32.363709,-86.266816,32.363709],
-  "geometry": {"coordinates":[-86.266816,32.363709],"type":"Point"}
+  "bbox": [
+    -86.266816,
+    32.363709,
+    -86.266816,
+    32.363709
+],
+  "geometry": {"coordinates":[-86.26681600000001,32.363709],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102481161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.735919,33.372594,-86.735919,33.372594",
     "geom:latitude":33.372594,
     "geom:longitude":-86.735919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"181 Indian Forest Trl",
     "sg:city":"Pelham",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85826093
+        85633793,
+        85826093,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102481161,
-    "wof:lastmodified":1449069866,
+    "wof:lastmodified":1466315335,
     "wof:name":"By Betty Ponder",
     "wof:parent_id":85826093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.735919,33.372594,-86.735919,33.372594],
+  "bbox": [
+    -86.735919,
+    33.372594,
+    -86.735919,
+    33.372594
+],
   "geometry": {"coordinates":[-86.735919,33.372594],"type":"Point"}
 }

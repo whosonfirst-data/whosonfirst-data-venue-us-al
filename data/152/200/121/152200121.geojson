@@ -2,13 +2,14 @@
   "id": 152200121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.7345,33.650831,-85.7345,33.650831",
     "geom:latitude":33.650831,
     "geom:longitude":-85.7345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"75 Balenger Dr",
     "sg:city":"Anniston",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850637,
+        85688675,
         85633793,
         85914281,
         102085603,
-        85688675
+        85850637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152200121,
-    "wof:lastmodified":1449046159,
+    "wof:lastmodified":1466315916,
     "wof:name":"C H McCrimmon Jr & Kathy Mcccr",
     "wof:parent_id":85850637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.7345,33.650831,-85.7345,33.650831],
+  "bbox": [
+    -85.7345,
+    33.650831,
+    -85.7345,
+    33.650831
+],
   "geometry": {"coordinates":[-85.7345,33.650831],"type":"Point"}
 }

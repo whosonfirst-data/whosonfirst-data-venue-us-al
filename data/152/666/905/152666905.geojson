@@ -2,13 +2,14 @@
   "id": 152666905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.511236,33.590895,-86.511236,33.590895",
     "geom:latitude":33.590895,
     "geom:longitude":-86.511236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2413 Sunrise Dr",
     "sg:city":"Moody",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807031,
+        85688675,
         85633793,
         85913421,
         102085647,
-        85688675
+        85807031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152666905,
-    "wof:lastmodified":1449046000,
+    "wof:lastmodified":1466319218,
     "wof:name":"Flat Top Concrete",
     "wof:parent_id":85807031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.511236,33.590895,-86.511236,33.590895],
+  "bbox": [
+    -86.511236,
+    33.590895,
+    -86.511236,
+    33.590895
+],
   "geometry": {"coordinates":[-86.511236,33.590895],"type":"Point"}
 }

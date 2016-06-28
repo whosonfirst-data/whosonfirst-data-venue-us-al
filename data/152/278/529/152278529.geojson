@@ -2,13 +2,14 @@
   "id": 152278529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.789526,33.389201,-86.789526,33.389201",
     "geom:latitude":33.389201,
     "geom:longitude":-86.789526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2155 Old Rocky Ridge Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858879,
+        85688675,
         85633793,
         85914475,
         102085481,
-        85688675
+        85858879
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152278529,
-    "wof:lastmodified":1449046852,
+    "wof:lastmodified":1466316848,
     "wof:name":"Dow Appraisal",
     "wof:parent_id":85858879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.789526,33.389201,-86.789526,33.389201],
+  "bbox": [
+    -86.789526,
+    33.389201,
+    -86.789526,
+    33.389201
+],
   "geometry": {"coordinates":[-86.789526,33.389201],"type":"Point"}
 }

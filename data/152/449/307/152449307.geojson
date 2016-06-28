@@ -2,13 +2,14 @@
   "id": 152449307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.104601,33.989058,-86.104601,33.989058",
     "geom:latitude":33.989058,
     "geom:longitude":-86.104601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 Greene St SE",
     "sg:city":"Attalla",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085545,
-        85633793,
         85688675,
-        85851221
+        85633793,
+        85851221,
+        102085545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152449307,
-    "wof:lastmodified":1449048582,
+    "wof:lastmodified":1466318121,
     "wof:name":"Greene's Pest Control Inc",
     "wof:parent_id":85851221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.104601,33.989058,-86.104601,33.989058],
+  "bbox": [
+    -86.104601,
+    33.989058,
+    -86.104601,
+    33.989058
+],
   "geometry": {"coordinates":[-86.104601,33.989058],"type":"Point"}
 }

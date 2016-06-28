@@ -2,13 +2,14 @@
   "id": 152812905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.573031,34.741917,-86.573031,34.741917",
     "geom:latitude":34.741917,
     "geom:longitude":-86.573031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1011 McCullough Ave NE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819449,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85819449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152812905,
-    "wof:lastmodified":1449044420,
+    "wof:lastmodified":1466319936,
     "wof:name":"Parthenon Construction Service",
     "wof:parent_id":85819449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.573031,34.741917,-86.573031,34.741917],
+  "bbox": [
+    -86.573031,
+    34.741917,
+    -86.573031,
+    34.741917
+],
   "geometry": {"coordinates":[-86.573031,34.741917],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152392055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.859737,30.599935,-87.859737,30.599935",
     "geom:latitude":30.599935,
     "geom:longitude":-87.859737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25743 Chamberlain Dr",
     "sg:city":"Daphne",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827259,
+        85688675,
         85633793,
         85914695,
         102085469,
-        85688675
+        85827259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152392055,
-    "wof:lastmodified":1449047999,
+    "wof:lastmodified":1466317794,
     "wof:name":"Porter Gallery",
     "wof:parent_id":85827259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.859737,30.599935,-87.859737,30.599935],
+  "bbox": [
+    -87.859737,
+    30.599935,
+    -87.859737,
+    30.599935
+],
   "geometry": {"coordinates":[-87.859737,30.599935],"type":"Point"}
 }

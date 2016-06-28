@@ -2,13 +2,14 @@
   "id": 102624721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.626077,31.828421,-86.626077,31.828421",
     "geom:latitude":31.828421,
     "geom:longitude":-86.626077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Caldwell St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102624721,
-    "wof:lastmodified":1449069454,
+    "wof:lastmodified":1466317490,
     "wof:name":"Butler County Office",
     "wof:parent_id":85913459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.626077,31.828421,-86.626077,31.828421],
+  "bbox": [
+    -86.626077,
+    31.828421,
+    -86.626077,
+    31.828421
+],
   "geometry": {"coordinates":[-86.626077,31.828421],"type":"Point"}
 }

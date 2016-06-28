@@ -2,13 +2,14 @@
   "id": 152159269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.485098,33.223357,-87.485098,33.223357",
     "geom:latitude":33.223357,
     "geom:longitude":-87.485098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"731 Crescent Ridge Rd NE",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":152159269,
-    "wof:lastmodified":1449044862,
+    "wof:lastmodified":1466315060,
     "wof:name":"John Monk Masonry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.485098,33.223357,-87.485098,33.223357],
-  "geometry": {"coordinates":[-87.485098,33.223357],"type":"Point"}
+  "bbox": [
+    -87.485098,
+    33.223357,
+    -87.485098,
+    33.223357
+],
+  "geometry": {"coordinates":[-87.48509799999999,33.223357],"type":"Point"}
 }

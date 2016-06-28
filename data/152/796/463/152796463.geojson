@@ -2,13 +2,14 @@
   "id": 152796463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.308817,32.643676,-86.308817,32.643676",
     "geom:latitude":32.643676,
     "geom:longitude":-86.308817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 Myrick Dr",
     "sg:city":"Deatsville",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085631,
-        85633793,
         85688675,
-        85843379
+        85633793,
+        85843379,
+        102085631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152796463,
-    "wof:lastmodified":1449046491,
+    "wof:lastmodified":1466319987,
     "wof:name":"Vines Vinyl Siding",
     "wof:parent_id":85843379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.308817,32.643676,-86.308817,32.643676],
+  "bbox": [
+    -86.308817,
+    32.643676,
+    -86.308817,
+    32.643676
+],
   "geometry": {"coordinates":[-86.308817,32.643676],"type":"Point"}
 }

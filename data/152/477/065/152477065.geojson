@@ -2,13 +2,14 @@
   "id": 152477065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.251978,30.778309,-88.251978,30.778309",
     "geom:latitude":30.778309,
     "geom:longitude":-88.251978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8984 Moffett Rd",
     "sg:city":"Semmes",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085585,
-        85633793,
         85688675,
-        85878987
+        85633793,
+        85878987,
+        102085585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152477065,
-    "wof:lastmodified":1449045105,
+    "wof:lastmodified":1466318297,
     "wof:name":"Semmes Tanning Salon",
     "wof:parent_id":85878987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.251978,30.778309,-88.251978,30.778309],
-  "geometry": {"coordinates":[-88.251978,30.778309],"type":"Point"}
+  "bbox": [
+    -88.251978,
+    30.778309,
+    -88.251978,
+    30.778309
+],
+  "geometry": {"coordinates":[-88.25197799999999,30.778309],"type":"Point"}
 }

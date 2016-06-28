@@ -2,13 +2,14 @@
   "id": 102632489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.005445,34.003967,-86.005445,34.003967",
     "geom:latitude":34.003967,
     "geom:longitude":-86.005445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 Southside Ave",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822279,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85822279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102632489,
-    "wof:lastmodified":1449069306,
+    "wof:lastmodified":1466317525,
     "wof:name":"Willow Productions",
     "wof:parent_id":85822279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.005445,34.003967,-86.005445,34.003967],
-  "geometry": {"coordinates":[-86.005445,34.003967],"type":"Point"}
+  "bbox": [
+    -86.005445,
+    34.003967,
+    -86.005445,
+    34.003967
+],
+  "geometry": {"coordinates":[-86.00544499999999,34.003967],"type":"Point"}
 }

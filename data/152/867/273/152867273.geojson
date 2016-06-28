@@ -2,13 +2,14 @@
   "id": 152867273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.00497,34.573856,-87.00497,34.573856",
     "geom:latitude":34.573856,
     "geom:longitude":-87.00497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2011 State Ave SW",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848819,
+        85688675,
         85633793,
         85913589,
         102085531,
-        85688675
+        85848819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152867273,
-    "wof:lastmodified":1449046307,
+    "wof:lastmodified":1466320172,
     "wof:name":"Jim Marlboro International",
     "wof:parent_id":85848819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.00497,34.573856,-87.00497,34.573856],
+  "bbox": [
+    -87.00497,
+    34.573856,
+    -87.00497,
+    34.573856
+],
   "geometry": {"coordinates":[-87.00497,34.573856],"type":"Point"}
 }

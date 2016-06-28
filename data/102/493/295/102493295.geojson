@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102493295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.047181,30.688208,-88.047181,30.688208",
     "geom:latitude":30.688208,
     "geom:longitude":-88.047181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"450 Government St",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895797,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85895797
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102493295,
-    "wof:lastmodified":1449068548,
+    "wof:lastmodified":1466316062,
     "wof:name":"First Continental Mortgage",
     "wof:parent_id":85895797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.047181,30.688208,-88.047181,30.688208],
-  "geometry": {"coordinates":[-88.047181,30.688208],"type":"Point"}
+  "bbox": [
+    -88.047181,
+    30.688208,
+    -88.047181,
+    30.688208
+],
+  "geometry": {"coordinates":[-88.04718099999999,30.688208],"type":"Point"}
 }

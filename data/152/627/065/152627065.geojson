@@ -2,13 +2,14 @@
   "id": 152627065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.660486,33.414853,-86.660486,33.414853",
     "geom:latitude":33.414853,
     "geom:longitude":-86.660486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"270 Village St",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85833411
+        85633793,
+        85833411,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152627065,
-    "wof:lastmodified":1449048994,
+    "wof:lastmodified":1466318961,
     "wof:name":"James P Beretta MD",
     "wof:parent_id":85833411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.660486,33.414853,-86.660486,33.414853],
-  "geometry": {"coordinates":[-86.660486,33.414853],"type":"Point"}
+  "bbox": [
+    -86.660486,
+    33.414853,
+    -86.660486,
+    33.414853
+],
+  "geometry": {"coordinates":[-86.66048600000001,33.414853],"type":"Point"}
 }

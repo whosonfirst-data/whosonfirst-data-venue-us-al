@@ -2,13 +2,14 @@
   "id": 119123977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.763455,33.823854,-85.763455,33.823854",
     "geom:latitude":33.823854,
     "geom:longitude":-85.763455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Pelham Rd N",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805945,
+        85688675,
         85633793,
         85914293,
         102085603,
-        85688675
+        85805945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":119123977,
-    "wof:lastmodified":1449041578,
+    "wof:lastmodified":1466314343,
     "wof:name":"Wljs",
     "wof:parent_id":85805945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.763455,33.823854,-85.763455,33.823854],
-  "geometry": {"coordinates":[-85.763455,33.823854],"type":"Point"}
+  "bbox": [
+    -85.763455,
+    33.823854,
+    -85.763455,
+    33.823854
+],
+  "geometry": {"coordinates":[-85.76345499999999,33.823854],"type":"Point"}
 }

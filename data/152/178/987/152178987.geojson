@@ -2,13 +2,14 @@
   "id": 152178987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.803946,33.351542,-86.803946,33.351542",
     "geom:latitude":33.351542,
     "geom:longitude":-86.803946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2053 Shagbark Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802401,
+        85688675,
         85633793,
         85914475,
         102085499,
-        85688675
+        85802401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152178987,
-    "wof:lastmodified":1449047616,
+    "wof:lastmodified":1466315812,
     "wof:name":"Faux Impressions",
     "wof:parent_id":85802401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.803946,33.351542,-86.803946,33.351542],
+  "bbox": [
+    -86.803946,
+    33.351542,
+    -86.803946,
+    33.351542
+],
   "geometry": {"coordinates":[-86.803946,33.351542],"type":"Point"}
 }

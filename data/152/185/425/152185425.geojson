@@ -2,13 +2,14 @@
   "id": 152185425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.211325,30.605699,-88.211325,30.605699",
     "geom:latitude":30.605699,
     "geom:longitude":-88.211325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4117 Oakbriar Dr W",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850317,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85850317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152185425,
-    "wof:lastmodified":1449045063,
+    "wof:lastmodified":1466315751,
     "wof:name":"Angelas Shrimp Cart Inc",
     "wof:parent_id":85850317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.211325,30.605699,-88.211325,30.605699],
+  "bbox": [
+    -88.211325,
+    30.605699,
+    -88.211325,
+    30.605699
+],
   "geometry": {"coordinates":[-88.211325,30.605699],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152735313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.813528,34.711941,-85.813528,34.711941",
     "geom:latitude":34.711941,
     "geom:longitude":-85.813528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4948 Co Rd 58",
     "sg:city":"Pisgah",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809451,
+        85688675,
         85633793,
         85914033,
         102085607,
-        85688675
+        85809451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152735313,
-    "wof:lastmodified":1449048802,
+    "wof:lastmodified":1466319415,
     "wof:name":"Sand Mountain Spindles",
     "wof:parent_id":85809451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.813528,34.711941,-85.813528,34.711941],
-  "geometry": {"coordinates":[-85.813528,34.711941],"type":"Point"}
+  "bbox": [
+    -85.813528,
+    34.711941,
+    -85.813528,
+    34.711941
+],
+  "geometry": {"coordinates":[-85.81352800000001,34.711941],"type":"Point"}
 }

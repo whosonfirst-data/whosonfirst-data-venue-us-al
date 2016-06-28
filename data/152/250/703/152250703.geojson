@@ -2,13 +2,14 @@
   "id": 152250703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.667681,34.757779,-87.667681,34.757779",
     "geom:latitude":34.757779,
     "geom:longitude":-87.667681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Woodward Ave",
     "sg:city":"Muscle Shoals",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848135,
+        85688675,
         85633793,
         85897473,
         102085625,
-        85688675
+        85848135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152250703,
-    "wof:lastmodified":1449046942,
+    "wof:lastmodified":1466316560,
     "wof:name":"Swamp Johns Catfish",
     "wof:parent_id":85848135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.667681,34.757779,-87.667681,34.757779],
+  "bbox": [
+    -87.667681,
+    34.757779,
+    -87.667681,
+    34.757779
+],
   "geometry": {"coordinates":[-87.667681,34.757779],"type":"Point"}
 }

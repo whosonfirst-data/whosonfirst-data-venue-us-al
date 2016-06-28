@@ -2,13 +2,14 @@
   "id": 152186987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.665422,33.483322,-86.665422,33.483322",
     "geom:latitude":33.483322,
     "geom:longitude":-86.665422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1094 Lake Colony Ln",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808787,
+        85688675,
         85633793,
         85914483,
         102085481,
-        85688675
+        85808787
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152186987,
-    "wof:lastmodified":1449047915,
+    "wof:lastmodified":1466315780,
     "wof:name":"Kelcraft Finish Solutions",
     "wof:parent_id":85808787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.665422,33.483322,-86.665422,33.483322],
-  "geometry": {"coordinates":[-86.665422,33.483322],"type":"Point"}
+  "bbox": [
+    -86.665422,
+    33.483322,
+    -86.665422,
+    33.483322
+],
+  "geometry": {"coordinates":[-86.66542200000001,33.483322],"type":"Point"}
 }

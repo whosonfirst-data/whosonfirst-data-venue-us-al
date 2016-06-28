@@ -2,13 +2,14 @@
   "id": 152611499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.408067,32.622406,-85.408067,32.622406",
     "geom:latitude":32.622406,
     "geom:longitude":-85.408067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2200 Frederick Rd",
     "sg:city":"Opelika",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819517,
+        85688675,
         85633793,
         85913815,
         102085751,
-        85688675
+        85819517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152611499,
-    "wof:lastmodified":1449047940,
+    "wof:lastmodified":1466319023,
     "wof:name":"Marble & Granite Works",
     "wof:parent_id":85819517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.408067,32.622406,-85.408067,32.622406],
+  "bbox": [
+    -85.408067,
+    32.622406,
+    -85.408067,
+    32.622406
+],
   "geometry": {"coordinates":[-85.408067,32.622406],"type":"Point"}
 }

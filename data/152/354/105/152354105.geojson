@@ -2,13 +2,14 @@
   "id": 152354105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.702273,34.731275,-87.702273,34.731275",
     "geom:latitude":34.731275,
     "geom:longitude":-87.702273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 E 6th St",
     "sg:city":"Tuscumbia",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852605,
+        85688675,
         85633793,
         85897447,
         102085625,
-        85688675
+        85852605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152354105,
-    "wof:lastmodified":1449048400,
+    "wof:lastmodified":1466317611,
     "wof:name":"Coldwater Seed & Supply Inc",
     "wof:parent_id":85852605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.702273,34.731275,-87.702273,34.731275],
-  "geometry": {"coordinates":[-87.702273,34.731275],"type":"Point"}
+  "bbox": [
+    -87.702273,
+    34.731275,
+    -87.702273,
+    34.731275
+],
+  "geometry": {"coordinates":[-87.70227300000001,34.731275],"type":"Point"}
 }

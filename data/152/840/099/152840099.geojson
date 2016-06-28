@@ -2,13 +2,14 @@
   "id": 152840099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.641599,34.77507,-86.641599,34.77507",
     "geom:latitude":34.77507,
     "geom:longitude":-86.641599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3612 Jonquil Dr NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851401,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85851401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152840099,
-    "wof:lastmodified":1449047873,
+    "wof:lastmodified":1466320039,
     "wof:name":"Calvin Ledet",
     "wof:parent_id":85851401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.641599,34.77507,-86.641599,34.77507],
+  "bbox": [
+    -86.641599,
+    34.77507,
+    -86.641599,
+    34.77507
+],
   "geometry": {"coordinates":[-86.641599,34.77507],"type":"Point"}
 }

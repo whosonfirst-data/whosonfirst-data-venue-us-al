@@ -2,13 +2,14 @@
   "id": 152543337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.999651,34.559825,-86.999651,34.559825",
     "geom:latitude":34.559825,
     "geom:longitude":-86.999651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"741 Beltline Rd SW",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803997,
+        85688675,
         85633793,
         85913589,
         102085531,
-        85688675,
+        85803997,
         85848819
     ],
     "wof:breaches":[],
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":152543337,
-    "wof:lastmodified":1449045206,
+    "wof:lastmodified":1466318561,
     "wof:name":"Cell-Pak-Jenkins",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.999651,34.559825,-86.999651,34.559825],
+  "bbox": [
+    -86.999651,
+    34.559825,
+    -86.999651,
+    34.559825
+],
   "geometry": {"coordinates":[-86.999651,34.559825],"type":"Point"}
 }

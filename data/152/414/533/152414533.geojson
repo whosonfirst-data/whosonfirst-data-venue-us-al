@@ -2,13 +2,14 @@
   "id": 152414533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.149909,30.705173,-88.149909,30.705173",
     "geom:latitude":30.705173,
     "geom:longitude":-88.149909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4625 Springhill Ave",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878991,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878991
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152414533,
-    "wof:lastmodified":1449046464,
+    "wof:lastmodified":1466317920,
     "wof:name":"Bronco Bills Supper Club Inc",
     "wof:parent_id":85878991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.149909,30.705173,-88.149909,30.705173],
-  "geometry": {"coordinates":[-88.149909,30.705173],"type":"Point"}
+  "bbox": [
+    -88.149909,
+    30.705173,
+    -88.149909,
+    30.705173
+],
+  "geometry": {"coordinates":[-88.14990899999999,30.705173],"type":"Point"}
 }

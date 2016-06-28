@@ -2,13 +2,14 @@
   "id": 152211351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.559944,34.705211,-86.559944,34.705211",
     "geom:latitude":34.705211,
     "geom:longitude":-86.559944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1005 Drake Ave SE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.randolphschool.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818149,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85818149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152211351,
-    "wof:lastmodified":1449045434,
+    "wof:lastmodified":1466316011,
     "wof:name":"Randolph School Inc",
     "wof:parent_id":85818149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.559944,34.705211,-86.559944,34.705211],
+  "bbox": [
+    -86.559944,
+    34.705211,
+    -86.559944,
+    34.705211
+],
   "geometry": {"coordinates":[-86.559944,34.705211],"type":"Point"}
 }

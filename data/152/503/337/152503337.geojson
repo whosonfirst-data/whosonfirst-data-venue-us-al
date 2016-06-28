@@ -2,13 +2,14 @@
   "id": 152503337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.684401,32.427026,-85.684401,32.427026",
     "geom:latitude":32.427026,
     "geom:longitude":-85.684401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 E Martin Luther King Hwy",
     "sg:city":"Tuskegee",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152503337,
-    "wof:lastmodified":1449048909,
+    "wof:lastmodified":1466318351,
     "wof:name":"Coop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.684401,32.427026,-85.684401,32.427026],
-  "geometry": {"coordinates":[-85.684401,32.427026],"type":"Point"}
+  "bbox": [
+    -85.684401,
+    32.427026,
+    -85.684401,
+    32.427026
+],
+  "geometry": {"coordinates":[-85.68440099999999,32.427026],"type":"Point"}
 }

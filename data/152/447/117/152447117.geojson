@@ -2,13 +2,14 @@
   "id": 152447117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.007179,34.006578,-86.007179,34.006578",
     "geom:latitude":34.006578,
     "geom:longitude":-86.007179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 Cherry St",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822279,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85822279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152447117,
-    "wof:lastmodified":1449047551,
+    "wof:lastmodified":1466318041,
     "wof:name":"Barbara Bryant & Assoc",
     "wof:parent_id":85822279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.007179,34.006578,-86.007179,34.006578],
-  "geometry": {"coordinates":[-86.007179,34.006578],"type":"Point"}
+  "bbox": [
+    -86.007179,
+    34.006578,
+    -86.007179,
+    34.006578
+],
+  "geometry": {"coordinates":[-86.00717899999999,34.006578],"type":"Point"}
 }

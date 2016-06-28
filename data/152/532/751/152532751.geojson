@@ -2,13 +2,14 @@
   "id": 152532751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.630529,34.744333,-86.630529,34.744333",
     "geom:latitude":34.744333,
     "geom:longitude":-86.630529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 Jordan Ln NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807105,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85807105
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152532751,
-    "wof:lastmodified":1449045860,
+    "wof:lastmodified":1466318351,
     "wof:name":"Scot Market 34",
     "wof:parent_id":85807105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.630529,34.744333,-86.630529,34.744333],
+  "bbox": [
+    -86.630529,
+    34.744333,
+    -86.630529,
+    34.744333
+],
   "geometry": {"coordinates":[-86.630529,34.744333],"type":"Point"}
 }

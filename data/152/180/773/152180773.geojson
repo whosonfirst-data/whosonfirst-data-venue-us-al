@@ -2,13 +2,14 @@
   "id": 152180773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.39129,31.253462,-85.39129,31.253462",
     "geom:latitude":31.253462,
     "geom:longitude":-85.39129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4210 Ross Clark Cir",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.southernstoragesolutions.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859419,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85859419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152180773,
-    "wof:lastmodified":1449044477,
+    "wof:lastmodified":1466315689,
     "wof:name":"Southern Storage Solutions",
     "wof:parent_id":85859419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.39129,31.253462,-85.39129,31.253462],
+  "bbox": [
+    -85.39129,
+    31.253462,
+    -85.39129,
+    31.253462
+],
   "geometry": {"coordinates":[-85.39129,31.253462],"type":"Point"}
 }

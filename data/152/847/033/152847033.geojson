@@ -2,13 +2,14 @@
   "id": 152847033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.406934,32.695214,-85.406934,32.695214",
     "geom:latitude":32.695214,
     "geom:longitude":-85.406934,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3400 Oak Bowery Rd",
     "sg:city":"Opelika",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829569,
+        85688675,
         85633793,
         85913815,
         102085751,
-        85688675
+        85829569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152847033,
-    "wof:lastmodified":1449045989,
+    "wof:lastmodified":1466320066,
     "wof:name":"Homestead Farm LLC",
     "wof:parent_id":85829569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.406934,32.695214,-85.406934,32.695214],
-  "geometry": {"coordinates":[-85.406934,32.695214],"type":"Point"}
+  "bbox": [
+    -85.406934,
+    32.695214,
+    -85.406934,
+    32.695214
+],
+  "geometry": {"coordinates":[-85.40693400000001,32.695214],"type":"Point"}
 }

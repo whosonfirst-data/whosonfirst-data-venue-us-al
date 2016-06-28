@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102470005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.269984,32.367428,-86.269984,32.367428",
     "geom:latitude":32.367428,
     "geom:longitude":-86.269984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2809 Chestnut St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85823265,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85823265
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102470005,
-    "wof:lastmodified":1449068374,
+    "wof:lastmodified":1466315172,
     "wof:name":"Barefoot Borders",
     "wof:parent_id":85823265,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.269984,32.367428,-86.269984,32.367428],
-  "geometry": {"coordinates":[-86.269984,32.367428],"type":"Point"}
+  "bbox": [
+    -86.269984,
+    32.367428,
+    -86.269984,
+    32.367428
+],
+  "geometry": {"coordinates":[-86.26998399999999,32.367428],"type":"Point"}
 }

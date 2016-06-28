@@ -2,13 +2,14 @@
   "id": 152596255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.708475,33.539692,-86.708475,33.539692",
     "geom:latitude":33.539692,
     "geom:longitude":-86.708475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1916 2nd Ave N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819529,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85819529
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152596255,
-    "wof:lastmodified":1449046669,
+    "wof:lastmodified":1466318809,
     "wof:name":"Judy's Downtown",
     "wof:parent_id":85819529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.708475,33.539692,-86.708475,33.539692],
-  "geometry": {"coordinates":[-86.708475,33.539692],"type":"Point"}
+  "bbox": [
+    -86.708475,
+    33.539692,
+    -86.708475,
+    33.539692
+],
+  "geometry": {"coordinates":[-86.70847500000001,33.539692],"type":"Point"}
 }

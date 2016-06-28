@@ -2,13 +2,14 @@
   "id": 102634831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.265596,32.342632,-86.265596,32.342632",
     "geom:latitude":32.342632,
     "geom:longitude":-86.265596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2603 Wildwood Dr",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879045,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102634831,
-    "wof:lastmodified":1449068918,
+    "wof:lastmodified":1466317571,
     "wof:name":"Gilliard Health Svc Inc",
     "wof:parent_id":85879045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.265596,32.342632,-86.265596,32.342632],
+  "bbox": [
+    -86.265596,
+    32.342632,
+    -86.265596,
+    32.342632
+],
   "geometry": {"coordinates":[-86.265596,32.342632],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152585401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.900066,33.508811,-86.900066,33.508811",
     "geom:latitude":33.508811,
     "geom:longitude":-86.900066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"577 24th St",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818187,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85818187
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152585401,
-    "wof:lastmodified":1449047376,
+    "wof:lastmodified":1466318777,
     "wof:name":"Tiny Footsteps To Fame Learnin",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.900066,33.508811,-86.900066,33.508811],
+  "bbox": [
+    -86.900066,
+    33.508811,
+    -86.900066,
+    33.508811
+],
   "geometry": {"coordinates":[-86.900066,33.508811],"type":"Point"}
 }

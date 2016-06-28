@@ -2,13 +2,14 @@
   "id": 152362419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.386923,31.210438,-85.386923,31.210438",
     "geom:latitude":31.210438,
     "geom:longitude":-85.386923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 Chalker St",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -35,11 +36,11 @@
     "sg:website":"www.southsidegranite.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852069,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85852069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":152362419,
-    "wof:lastmodified":1449047287,
+    "wof:lastmodified":1466317488,
     "wof:name":"Southside Granite Co Inc",
     "wof:parent_id":85852069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.386923,31.210438,-85.386923,31.210438],
+  "bbox": [
+    -85.386923,
+    31.210438,
+    -85.386923,
+    31.210438
+],
   "geometry": {"coordinates":[-85.386923,31.210438],"type":"Point"}
 }

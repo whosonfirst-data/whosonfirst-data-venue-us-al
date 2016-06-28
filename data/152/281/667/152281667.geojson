@@ -2,13 +2,14 @@
   "id": 152281667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.130115,34.149031,-86.130115,34.149031",
     "geom:latitude":34.149031,
     "geom:longitude":-86.130115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"61 N Main St",
     "sg:city":"Boaz",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085545,
-        85633793,
         85688675,
-        85851221
+        85633793,
+        85851221,
+        102085545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152281667,
-    "wof:lastmodified":1449048215,
+    "wof:lastmodified":1466316881,
     "wof:name":"B & M Campers Sales & Svc",
     "wof:parent_id":85851221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.130115,34.149031,-86.130115,34.149031],
+  "bbox": [
+    -86.130115,
+    34.149031,
+    -86.130115,
+    34.149031
+],
   "geometry": {"coordinates":[-86.130115,34.149031],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152482759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.173241,30.599565,-88.173241,30.599565",
     "geom:latitude":30.599565,
     "geom:longitude":-88.173241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3999 Holden Dr N",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852259,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85852259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152482759,
-    "wof:lastmodified":1449045955,
+    "wof:lastmodified":1466318333,
     "wof:name":"Southern Satellite Svc",
     "wof:parent_id":85852259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.173241,30.599565,-88.173241,30.599565],
+  "bbox": [
+    -88.173241,
+    30.599565,
+    -88.173241,
+    30.599565
+],
   "geometry": {"coordinates":[-88.173241,30.599565],"type":"Point"}
 }

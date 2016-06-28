@@ -2,13 +2,14 @@
   "id": 152518523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.669395,30.326471,-87.669395,30.326471",
     "geom:latitude":30.326471,
     "geom:longitude":-87.669395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20674 Co Rd 8",
     "sg:city":"Gulf Shores",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868551,
+        85688675,
         85633793,
         85914719,
         102085469,
-        85688675
+        85868551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152518523,
-    "wof:lastmodified":1449046912,
+    "wof:lastmodified":1466318433,
     "wof:name":"Gulfair Advertising LLC",
     "wof:parent_id":85868551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.669395,30.326471,-87.669395,30.326471],
-  "geometry": {"coordinates":[-87.669395,30.326471],"type":"Point"}
+  "bbox": [
+    -87.669395,
+    30.326471,
+    -87.669395,
+    30.326471
+],
+  "geometry": {"coordinates":[-87.66939499999999,30.326471],"type":"Point"}
 }

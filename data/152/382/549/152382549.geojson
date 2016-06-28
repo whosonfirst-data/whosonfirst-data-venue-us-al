@@ -2,13 +2,14 @@
   "id": 152382549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.497067,33.704107,-86.497067,33.704107",
     "geom:latitude":33.704107,
     "geom:longitude":-86.497067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Country View Dr",
     "sg:city":"Odenville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807031,
+        85688675,
         85633793,
         85913421,
         102085647,
-        85688675
+        85807031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152382549,
-    "wof:lastmodified":1449045524,
+    "wof:lastmodified":1466317752,
     "wof:name":"Cummings Used Cars",
     "wof:parent_id":85807031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.497067,33.704107,-86.497067,33.704107],
+  "bbox": [
+    -86.497067,
+    33.704107,
+    -86.497067,
+    33.704107
+],
   "geometry": {"coordinates":[-86.497067,33.704107],"type":"Point"}
 }

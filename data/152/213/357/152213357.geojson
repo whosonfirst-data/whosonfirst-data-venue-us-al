@@ -2,13 +2,14 @@
   "id": 152213357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.616651,34.778995,-86.616651,34.778995",
     "geom:latitude":34.778995,
     "geom:longitude":-86.616651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4015 Pulaski Pike NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152213357,
-    "wof:lastmodified":1449044349,
+    "wof:lastmodified":1466316138,
     "wof:name":"SES",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.616651,34.778995,-86.616651,34.778995],
+  "bbox": [
+    -86.616651,
+    34.778995,
+    -86.616651,
+    34.778995
+],
   "geometry": {"coordinates":[-86.616651,34.778995],"type":"Point"}
 }

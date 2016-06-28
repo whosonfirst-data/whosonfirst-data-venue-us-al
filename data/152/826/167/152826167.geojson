@@ -2,13 +2,14 @@
   "id": 152826167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.017414,34.567007,-87.017414,34.567007",
     "geom:latitude":34.567007,
     "geom:longitude":-87.017414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2426 Danville Rd SW",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.drdalepotter.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848819,
+        85688675,
         85633793,
         85913589,
         102085531,
-        85688675
+        85848819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152826167,
-    "wof:lastmodified":1449047656,
+    "wof:lastmodified":1466319972,
     "wof:name":"Dale Potter OD",
     "wof:parent_id":85848819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.017414,34.567007,-87.017414,34.567007],
+  "bbox": [
+    -87.017414,
+    34.567007,
+    -87.017414,
+    34.567007
+],
   "geometry": {"coordinates":[-87.017414,34.567007],"type":"Point"}
 }

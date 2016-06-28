@@ -2,13 +2,14 @@
   "id": 152513225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.718567,34.795018,-86.718567,34.795018",
     "geom:latitude":34.795018,
     "geom:longitude":-86.718567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Shoalford Dr NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851107,
+        85688675,
         85633793,
         85913593,
         102085487,
-        85688675
+        85851107
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152513225,
-    "wof:lastmodified":1449047354,
+    "wof:lastmodified":1466318379,
     "wof:name":"Jahnke Construction",
     "wof:parent_id":85851107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.718567,34.795018,-86.718567,34.795018],
-  "geometry": {"coordinates":[-86.718567,34.795018],"type":"Point"}
+  "bbox": [
+    -86.718567,
+    34.795018,
+    -86.718567,
+    34.795018
+],
+  "geometry": {"coordinates":[-86.71856699999999,34.795018],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152435327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.291166,32.351974,-86.291166,32.351974",
     "geom:latitude":32.351974,
     "geom:longitude":-86.291166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1048 E Fairview Ave",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811493,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85811493
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152435327,
-    "wof:lastmodified":1449048489,
+    "wof:lastmodified":1466318009,
     "wof:name":"Christines Feathered Nest LLC",
     "wof:parent_id":85811493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.291166,32.351974,-86.291166,32.351974],
+  "bbox": [
+    -86.291166,
+    32.351974,
+    -86.291166,
+    32.351974
+],
   "geometry": {"coordinates":[-86.291166,32.351974],"type":"Point"}
 }

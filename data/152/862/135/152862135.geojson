@@ -2,13 +2,14 @@
   "id": 152862135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.481719,32.609745,-85.481719,32.609745",
     "geom:latitude":32.609745,
     "geom:longitude":-85.481719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 N College St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809707,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85809707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152862135,
-    "wof:lastmodified":1449049006,
+    "wof:lastmodified":1466320161,
     "wof:name":"Hardy's Creative Childcare Inc",
     "wof:parent_id":85809707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.481719,32.609745,-85.481719,32.609745],
+  "bbox": [
+    -85.481719,
+    32.609745,
+    -85.481719,
+    32.609745
+],
   "geometry": {"coordinates":[-85.481719,32.609745],"type":"Point"}
 }

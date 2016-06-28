@@ -2,13 +2,14 @@
   "id": 152308151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.704682,33.581795,-86.704682,33.581795",
     "geom:latitude":33.581795,
     "geom:longitude":-86.704682,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"412 Cumberland Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845635,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85845635
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152308151,
-    "wof:lastmodified":1449049017,
+    "wof:lastmodified":1466317205,
     "wof:name":"Wilson Chapel United Methodist",
     "wof:parent_id":85845635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.704682,33.581795,-86.704682,33.581795],
-  "geometry": {"coordinates":[-86.704682,33.581795],"type":"Point"}
+  "bbox": [
+    -86.704682,
+    33.581795,
+    -86.704682,
+    33.581795
+],
+  "geometry": {"coordinates":[-86.70468200000001,33.581795],"type":"Point"}
 }

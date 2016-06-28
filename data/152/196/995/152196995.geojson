@@ -2,13 +2,14 @@
   "id": 152196995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.500986,32.56822,-85.500986,32.56822",
     "geom:latitude":32.56822,
     "geom:longitude":-85.500986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1930 S College St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851115,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85851115
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152196995,
-    "wof:lastmodified":1449045347,
+    "wof:lastmodified":1466315849,
     "wof:name":"Express Oil Change",
     "wof:parent_id":85851115,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.500986,32.56822,-85.500986,32.56822],
+  "bbox": [
+    -85.500986,
+    32.56822,
+    -85.500986,
+    32.56822
+],
   "geometry": {"coordinates":[-85.500986,32.56822],"type":"Point"}
 }

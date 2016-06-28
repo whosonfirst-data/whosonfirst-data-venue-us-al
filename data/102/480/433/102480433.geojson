@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102480433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.207424,30.719319,-88.207424,30.719319",
     "geom:latitude":30.719319,
     "geom:longitude":-88.207424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7054 Howells Ferry Rd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085585,
-        85633793,
         85688675,
-        85825595
+        85633793,
+        85825595,
+        102085585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102480433,
-    "wof:lastmodified":1449068575,
+    "wof:lastmodified":1466315191,
     "wof:name":"Willie D Preyor",
     "wof:parent_id":85825595,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.207424,30.719319,-88.207424,30.719319],
+  "bbox": [
+    -88.207424,
+    30.719319,
+    -88.207424,
+    30.719319
+],
   "geometry": {"coordinates":[-88.207424,30.719319],"type":"Point"}
 }

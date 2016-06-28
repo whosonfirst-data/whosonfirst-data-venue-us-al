@@ -2,13 +2,14 @@
   "id": 152802953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.801388,34.974867,-86.801388,34.974867",
     "geom:latitude":34.974867,
     "geom:longitude":-86.801388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28910 Old School House Rd",
     "sg:city":"Ardmore",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085487,
-        85633793,
         85688675,
-        85820675
+        85633793,
+        85820675,
+        102085487
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152802953,
-    "wof:lastmodified":1449048056,
+    "wof:lastmodified":1466319864,
     "wof:name":"Davis Masonry LLC",
     "wof:parent_id":85820675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.801388,34.974867,-86.801388,34.974867],
+  "bbox": [
+    -86.801388,
+    34.974867,
+    -86.801388,
+    34.974867
+],
   "geometry": {"coordinates":[-86.801388,34.974867],"type":"Point"}
 }

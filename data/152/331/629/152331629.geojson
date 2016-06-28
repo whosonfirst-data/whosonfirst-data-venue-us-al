@@ -2,13 +2,14 @@
   "id": 152331629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.531241,33.200621,-87.531241,33.200621",
     "geom:latitude":33.200621,
     "geom:longitude":-87.531241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"252 Cedar Crst",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809919,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675,
+        85809919,
         85819951
     ],
     "wof:breaches":[],
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":152331629,
-    "wof:lastmodified":1449047110,
+    "wof:lastmodified":1466317294,
     "wof:name":"Kendrick Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.531241,33.200621,-87.531241,33.200621],
-  "geometry": {"coordinates":[-87.531241,33.200621],"type":"Point"}
+  "bbox": [
+    -87.531241,
+    33.200621,
+    -87.531241,
+    33.200621
+],
+  "geometry": {"coordinates":[-87.53124099999999,33.200621],"type":"Point"}
 }

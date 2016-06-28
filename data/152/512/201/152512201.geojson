@@ -2,13 +2,14 @@
   "id": 152512201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.524796,33.171239,-87.524796,33.171239",
     "geom:latitude":33.171239,
     "geom:longitude":-87.524796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4126 McFarland Blvd E",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152512201,
-    "wof:lastmodified":1449047664,
+    "wof:lastmodified":1466318378,
     "wof:name":"Super China Buffet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.524796,33.171239,-87.524796,33.171239],
-  "geometry": {"coordinates":[-87.524796,33.171239],"type":"Point"}
+  "bbox": [
+    -87.524796,
+    33.171239,
+    -87.524796,
+    33.171239
+],
+  "geometry": {"coordinates":[-87.52479599999999,33.171239],"type":"Point"}
 }

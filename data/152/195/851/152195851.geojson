@@ -2,13 +2,14 @@
   "id": 152195851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.634102,33.440788,-86.634102,33.440788",
     "geom:latitude":33.440788,
     "geom:longitude":-86.634102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7001 N Highfield Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -30,10 +31,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85833411
+        85633793,
+        85833411,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152195851,
-    "wof:lastmodified":1449047336,
+    "wof:lastmodified":1466315886,
     "wof:name":"Weeks Engrg Cnstr Cnslting LLC",
     "wof:parent_id":85833411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.634102,33.440788,-86.634102,33.440788],
+  "bbox": [
+    -86.634102,
+    33.440788,
+    -86.634102,
+    33.440788
+],
   "geometry": {"coordinates":[-86.634102,33.440788],"type":"Point"}
 }

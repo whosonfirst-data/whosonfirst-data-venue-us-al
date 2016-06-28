@@ -2,13 +2,14 @@
   "id": 152574041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.501428,34.337375,-86.501428,34.337375",
     "geom:latitude":34.337375,
     "geom:longitude":-86.501428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1069 N Main St",
     "sg:city":"Arab",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837211,
+        85688675,
         85633793,
         85913243,
         102085513,
-        85688675
+        85837211
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152574041,
-    "wof:lastmodified":1449044255,
+    "wof:lastmodified":1466318709,
     "wof:name":"Redstone Federal Credit Union",
     "wof:parent_id":85837211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.501428,34.337375,-86.501428,34.337375],
+  "bbox": [
+    -86.501428,
+    34.337375,
+    -86.501428,
+    34.337375
+],
   "geometry": {"coordinates":[-86.501428,34.337375],"type":"Point"}
 }

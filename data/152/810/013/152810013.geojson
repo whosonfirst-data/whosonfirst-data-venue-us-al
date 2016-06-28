@@ -2,13 +2,14 @@
   "id": 152810013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.646923,33.372617,-86.646923,33.372617",
     "geom:latitude":33.372617,
     "geom:longitude":-86.646923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"139 Clair Mont Rd",
     "sg:city":"Sterrett",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85833411
+        85633793,
+        85833411,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152810013,
-    "wof:lastmodified":1449045650,
+    "wof:lastmodified":1466319865,
     "wof:name":"20/20 Home Inspections LLC",
     "wof:parent_id":85833411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.646923,33.372617,-86.646923,33.372617],
+  "bbox": [
+    -86.646923,
+    33.372617,
+    -86.646923,
+    33.372617
+],
   "geometry": {"coordinates":[-86.646923,33.372617],"type":"Point"}
 }

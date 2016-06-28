@@ -2,13 +2,14 @@
   "id": 152618385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.306507,32.363288,-86.306507,32.363288",
     "geom:latitude":32.363288,
     "geom:longitude":-86.306507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Noble Ave",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879039,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152618385,
-    "wof:lastmodified":1449047177,
+    "wof:lastmodified":1466318736,
     "wof:name":"Bo Willie Auto Service",
     "wof:parent_id":85879039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.306507,32.363288,-86.306507,32.363288],
+  "bbox": [
+    -86.306507,
+    32.363288,
+    -86.306507,
+    32.363288
+],
   "geometry": {"coordinates":[-86.306507,32.363288],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152880313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.676736,34.759624,-87.676736,34.759624",
     "geom:latitude":34.759624,
     "geom:longitude":-87.676736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1409 E 2nd St",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848135,
+        85688675,
         85633793,
         85897473,
         102085625,
-        85688675
+        85848135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152880313,
-    "wof:lastmodified":1449048932,
+    "wof:lastmodified":1466320231,
     "wof:name":"Epsco Inc",
     "wof:parent_id":85848135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.676736,34.759624,-87.676736,34.759624],
-  "geometry": {"coordinates":[-87.676736,34.759624],"type":"Point"}
+  "bbox": [
+    -87.676736,
+    34.759624,
+    -87.676736,
+    34.759624
+],
+  "geometry": {"coordinates":[-87.67673600000001,34.759624],"type":"Point"}
 }

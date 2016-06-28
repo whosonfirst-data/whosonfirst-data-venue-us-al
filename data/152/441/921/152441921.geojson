@@ -2,13 +2,14 @@
   "id": 152441921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.812762,33.513772,-86.812762,33.513772",
     "geom:latitude":33.513772,
     "geom:longitude":-86.812762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"328 16th St N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820315,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85820315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152441921,
-    "wof:lastmodified":1449044657,
+    "wof:lastmodified":1466318035,
     "wof:name":"La'Vase Fine Food",
     "wof:parent_id":85820315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.812762,33.513772,-86.812762,33.513772],
-  "geometry": {"coordinates":[-86.812762,33.513772],"type":"Point"}
+  "bbox": [
+    -86.812762,
+    33.513772,
+    -86.812762,
+    33.513772
+],
+  "geometry": {"coordinates":[-86.81276200000001,33.513772],"type":"Point"}
 }

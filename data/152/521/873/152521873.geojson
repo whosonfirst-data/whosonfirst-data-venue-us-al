@@ -2,13 +2,14 @@
   "id": 152521873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.791947,33.5446,-86.791947,33.5446",
     "geom:latitude":33.5446,
     "geom:longitude":-86.791947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1730 Vanderbilt Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.altec.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85838531,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85838531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152521873,
-    "wof:lastmodified":1449048693,
+    "wof:lastmodified":1466318421,
     "wof:name":"Altec Industries Inc",
     "wof:parent_id":85838531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.791947,33.5446,-86.791947,33.5446],
-  "geometry": {"coordinates":[-86.791947,33.5446],"type":"Point"}
+  "bbox": [
+    -86.791947,
+    33.5446,
+    -86.791947,
+    33.5446
+],
+  "geometry": {"coordinates":[-86.79194699999999,33.5446],"type":"Point"}
 }

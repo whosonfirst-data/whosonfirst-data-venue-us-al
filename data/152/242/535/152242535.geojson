@@ -2,13 +2,14 @@
   "id": 152242535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.123128,30.66862,-88.123128,30.66862",
     "geom:latitude":30.66862,
     "geom:longitude":-88.123128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3229 International Dr",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807453,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85807453
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152242535,
-    "wof:lastmodified":1449048378,
+    "wof:lastmodified":1466316370,
     "wof:name":"Response Ability",
     "wof:parent_id":85807453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.123128,30.66862,-88.123128,30.66862],
-  "geometry": {"coordinates":[-88.123128,30.66862],"type":"Point"}
+  "bbox": [
+    -88.123128,
+    30.66862,
+    -88.123128,
+    30.66862
+],
+  "geometry": {"coordinates":[-88.12312799999999,30.66862],"type":"Point"}
 }

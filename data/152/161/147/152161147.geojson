@@ -2,13 +2,14 @@
   "id": 152161147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.85112,31.305523,-85.85112,31.305523",
     "geom:latitude":31.305523,
     "geom:longitude":-85.85112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"550 Geneva Hwy",
     "sg:city":"Enterprise",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848823,
+        85688675,
         85633793,
         85899527,
         102085699,
-        85688675
+        85848823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152161147,
-    "wof:lastmodified":1449046137,
+    "wof:lastmodified":1466315170,
     "wof:name":"Loving Care Day Care",
     "wof:parent_id":85848823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.85112,31.305523,-85.85112,31.305523],
-  "geometry": {"coordinates":[-85.85112,31.305523],"type":"Point"}
+  "bbox": [
+    -85.85112,
+    31.305523,
+    -85.85112,
+    31.305523
+],
+  "geometry": {"coordinates":[-85.85111999999999,31.305523],"type":"Point"}
 }

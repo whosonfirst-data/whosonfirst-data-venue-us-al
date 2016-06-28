@@ -2,13 +2,14 @@
   "id": 152522759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.215628,33.358072,-86.215628,33.358072",
     "geom:latitude":33.358072,
     "geom:longitude":-86.215628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1450 Reynolds Mill Rd",
     "sg:city":"Alpine",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085517,
-        85633793,
         85688675,
-        85849013
+        85633793,
+        85849013,
+        102085517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152522759,
-    "wof:lastmodified":1449046513,
+    "wof:lastmodified":1466318514,
     "wof:name":"Garrett's Christian Daycare",
     "wof:parent_id":85849013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.215628,33.358072,-86.215628,33.358072],
+  "bbox": [
+    -86.215628,
+    33.358072,
+    -86.215628,
+    33.358072
+],
   "geometry": {"coordinates":[-86.215628,33.358072],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152718933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.898018,32.535816,-85.898018,32.535816",
     "geom:latitude":32.535816,
     "geom:longitude":-85.898018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 James St",
     "sg:city":"Tallassee",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827623,
+        85688675,
         85633793,
         85913291,
         102085631,
-        85688675
+        85827623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152718933,
-    "wof:lastmodified":1449045299,
+    "wof:lastmodified":1466319520,
     "wof:name":"Grays Painting",
     "wof:parent_id":85827623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.898018,32.535816,-85.898018,32.535816],
-  "geometry": {"coordinates":[-85.898018,32.535816],"type":"Point"}
+  "bbox": [
+    -85.898018,
+    32.535816,
+    -85.898018,
+    32.535816
+],
+  "geometry": {"coordinates":[-85.89801799999999,32.535816],"type":"Point"}
 }

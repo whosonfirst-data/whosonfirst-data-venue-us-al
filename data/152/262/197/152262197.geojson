@@ -2,13 +2,14 @@
   "id": 152262197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.242708,32.366777,-86.242708,32.366777",
     "geom:latitude":32.366777,
     "geom:longitude":-86.242708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3911 Fain Ct",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809571,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85809571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152262197,
-    "wof:lastmodified":1449047160,
+    "wof:lastmodified":1466316663,
     "wof:name":"Morris Leasing LLC",
     "wof:parent_id":85809571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.242708,32.366777,-86.242708,32.366777],
-  "geometry": {"coordinates":[-86.242708,32.366777],"type":"Point"}
+  "bbox": [
+    -86.242708,
+    32.366777,
+    -86.242708,
+    32.366777
+],
+  "geometry": {"coordinates":[-86.24270799999999,32.366777],"type":"Point"}
 }

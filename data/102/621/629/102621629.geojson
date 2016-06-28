@@ -2,13 +2,14 @@
   "id": 102621629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.450573,32.454597,-86.450573,32.454597",
     "geom:latitude":32.454597,
     "geom:longitude":-86.450573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 Honeysuckle Dr",
     "sg:city":"Prattville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843041,
+        85688675,
         85633793,
         85913977,
         102085509,
-        85688675
+        85843041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102621629,
-    "wof:lastmodified":1449069895,
+    "wof:lastmodified":1466317478,
     "wof:name":"Prattville Intermediate School",
     "wof:parent_id":85843041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.450573,32.454597,-86.450573,32.454597],
-  "geometry": {"coordinates":[-86.450573,32.454597],"type":"Point"}
+  "bbox": [
+    -86.450573,
+    32.454597,
+    -86.450573,
+    32.454597
+],
+  "geometry": {"coordinates":[-86.45057300000001,32.454597],"type":"Point"}
 }

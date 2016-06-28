@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102457695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.84727,33.712241,-85.84727,33.712241",
     "geom:latitude":33.712241,
     "geom:longitude":-85.84727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5001 Pitts Ave",
     "sg:city":"Anniston",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825451,
+        85688675,
         85633793,
         85915207,
         102085603,
-        85688675
+        85825451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102457695,
-    "wof:lastmodified":1449069404,
+    "wof:lastmodified":1466314942,
     "wof:name":"Dunaway Enterprises",
     "wof:parent_id":85825451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.84727,33.712241,-85.84727,33.712241],
-  "geometry": {"coordinates":[-85.84727,33.712241],"type":"Point"}
+  "bbox": [
+    -85.84727,
+    33.712241,
+    -85.84727,
+    33.712241
+],
+  "geometry": {"coordinates":[-85.84726999999999,33.712241],"type":"Point"}
 }

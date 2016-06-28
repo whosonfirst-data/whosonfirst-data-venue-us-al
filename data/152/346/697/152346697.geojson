@@ -2,13 +2,14 @@
   "id": 152346697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.683755,30.40477,-87.683755,30.40477",
     "geom:latitude":30.40477,
     "geom:longitude":-87.683755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 State Rte 59",
     "sg:city":"Foley",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868551,
+        85688675,
         85633793,
         85914719,
         102085469,
-        85688675
+        85868551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152346697,
-    "wof:lastmodified":1449044263,
+    "wof:lastmodified":1466317657,
     "wof:name":"LA Classique Elegance",
     "wof:parent_id":85868551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.683755,30.40477,-87.683755,30.40477],
+  "bbox": [
+    -87.683755,
+    30.40477,
+    -87.683755,
+    30.40477
+],
   "geometry": {"coordinates":[-87.683755,30.40477],"type":"Point"}
 }

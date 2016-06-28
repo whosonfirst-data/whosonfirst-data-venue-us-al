@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102477219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.781366,33.559307,-86.781366,33.559307",
     "geom:latitude":33.559307,
     "geom:longitude":-86.781366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3843 38th Ave N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815977,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85815977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102477219,
-    "wof:lastmodified":1449068220,
+    "wof:lastmodified":1466314553,
     "wof:name":"Chisholm",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.781366,33.559307,-86.781366,33.559307],
-  "geometry": {"coordinates":[-86.781366,33.559307],"type":"Point"}
+  "bbox": [
+    -86.781366,
+    33.559307,
+    -86.781366,
+    33.559307
+],
+  "geometry": {"coordinates":[-86.78136600000001,33.559307],"type":"Point"}
 }

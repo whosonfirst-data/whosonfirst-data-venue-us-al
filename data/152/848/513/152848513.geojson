@@ -2,13 +2,14 @@
   "id": 152848513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.260588,32.337637,-86.260588,32.337637",
     "geom:latitude":32.337637,
     "geom:longitude":-86.260588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3052 Mc Gehee Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879047,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152848513,
-    "wof:lastmodified":1449044956,
+    "wof:lastmodified":1466320093,
     "wof:name":"Waters Fleming RHO",
     "wof:parent_id":85879047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.260588,32.337637,-86.260588,32.337637],
+  "bbox": [
+    -86.260588,
+    32.337637,
+    -86.260588,
+    32.337637
+],
   "geometry": {"coordinates":[-86.260588,32.337637],"type":"Point"}
 }

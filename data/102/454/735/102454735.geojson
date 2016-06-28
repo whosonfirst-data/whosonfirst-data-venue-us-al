@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102454735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.210173,32.403175,-86.210173,32.403175",
     "geom:latitude":32.403175,
     "geom:longitude":-86.210173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"853 Lagoon Commercial Blvd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -33,10 +34,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085733,
-        85633793,
         85688675,
-        85879041
+        85633793,
+        85879041,
+        102085733
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":102454735,
-    "wof:lastmodified":1449069963,
+    "wof:lastmodified":1466314860,
     "wof:name":"Vulcan Interior Products Inc",
     "wof:parent_id":85879041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.210173,32.403175,-86.210173,32.403175],
+  "bbox": [
+    -86.210173,
+    32.403175,
+    -86.210173,
+    32.403175
+],
   "geometry": {"coordinates":[-86.210173,32.403175],"type":"Point"}
 }

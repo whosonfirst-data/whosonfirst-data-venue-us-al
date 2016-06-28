@@ -2,13 +2,14 @@
   "id": 152795165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.788604,33.593647,-85.788604,33.593647",
     "geom:latitude":33.593647,
     "geom:longitude":-85.788604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6233 Shannon Brook Ln",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806515,
+        85688675,
         85633793,
         85914159,
         102085603,
-        85688675
+        85806515
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152795165,
-    "wof:lastmodified":1449047036,
+    "wof:lastmodified":1466319754,
     "wof:name":"Kids Power Co",
     "wof:parent_id":85806515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.788604,33.593647,-85.788604,33.593647],
-  "geometry": {"coordinates":[-85.788604,33.593647],"type":"Point"}
+  "bbox": [
+    -85.788604,
+    33.593647,
+    -85.788604,
+    33.593647
+],
+  "geometry": {"coordinates":[-85.78860400000001,33.593647],"type":"Point"}
 }

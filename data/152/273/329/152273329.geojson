@@ -2,13 +2,14 @@
   "id": 152273329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.797548,33.442965,-86.797548,33.442965",
     "geom:latitude":33.442965,
     "geom:longitude":-86.797548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2221 Great Rock Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834905,
+        85688675,
         85633793,
         85914483,
         102085481,
-        85688675
+        85834905
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152273329,
-    "wof:lastmodified":1449046698,
+    "wof:lastmodified":1466316825,
     "wof:name":"Robert A Stiles Dr",
     "wof:parent_id":85834905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.797548,33.442965,-86.797548,33.442965],
-  "geometry": {"coordinates":[-86.797548,33.442965],"type":"Point"}
+  "bbox": [
+    -86.797548,
+    33.442965,
+    -86.797548,
+    33.442965
+],
+  "geometry": {"coordinates":[-86.79754800000001,33.442965],"type":"Point"}
 }

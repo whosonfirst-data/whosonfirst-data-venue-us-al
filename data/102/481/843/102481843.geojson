@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102481843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.656192,33.411565,-86.656192,33.411565",
     "geom:latitude":33.411565,
     "geom:longitude":-86.656192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"392 Greystone Glen Cir",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85833411
+        85633793,
+        85833411,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102481843,
-    "wof:lastmodified":1449069865,
+    "wof:lastmodified":1466315546,
     "wof:name":"Repairers of Breach",
     "wof:parent_id":85833411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.656192,33.411565,-86.656192,33.411565],
+  "bbox": [
+    -86.656192,
+    33.411565,
+    -86.656192,
+    33.411565
+],
   "geometry": {"coordinates":[-86.656192,33.411565],"type":"Point"}
 }

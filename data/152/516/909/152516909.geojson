@@ -2,13 +2,14 @@
   "id": 152516909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.783994,33.350561,-86.783994,33.350561",
     "geom:latitude":33.350561,
     "geom:longitude":-86.783994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Riverchase Pkwy S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.harbert.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802401,
+        85688675,
         85633793,
         85914475,
         102085499,
-        85688675
+        85802401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152516909,
-    "wof:lastmodified":1449045194,
+    "wof:lastmodified":1466318438,
     "wof:name":"Harbert Management Corp",
     "wof:parent_id":85802401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.783994,33.350561,-86.783994,33.350561],
-  "geometry": {"coordinates":[-86.783994,33.350561],"type":"Point"}
+  "bbox": [
+    -86.783994,
+    33.350561,
+    -86.783994,
+    33.350561
+],
+  "geometry": {"coordinates":[-86.78399400000001,33.350561],"type":"Point"}
 }

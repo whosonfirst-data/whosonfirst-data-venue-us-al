@@ -2,13 +2,14 @@
   "id": 152515319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.952491,34.17722,-87.952491,34.17722",
     "geom:latitude":34.17722,
     "geom:longitude":-87.952491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3129 State Rte 17",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152515319,
-    "wof:lastmodified":1449045368,
+    "wof:lastmodified":1466318390,
     "wof:name":"Redbone Drywall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.952491,34.17722,-87.952491,34.17722],
-  "geometry": {"coordinates":[-87.952491,34.17722],"type":"Point"}
+  "bbox": [
+    -87.952491,
+    34.17722,
+    -87.952491,
+    34.17722
+],
+  "geometry": {"coordinates":[-87.95249099999999,34.17722],"type":"Point"}
 }

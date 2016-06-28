@@ -2,13 +2,14 @@
   "id": 152419147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.889379,31.520396,-87.889379,31.520396",
     "geom:latitude":31.520396,
     "geom:longitude":-87.889379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"516 Jackson St",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152419147,
-    "wof:lastmodified":1449048825,
+    "wof:lastmodified":1466317927,
     "wof:name":"Jackson Street Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.889379,31.520396,-87.889379,31.520396],
-  "geometry": {"coordinates":[-87.889379,31.520396],"type":"Point"}
+  "bbox": [
+    -87.889379,
+    31.520396,
+    -87.889379,
+    31.520396
+],
+  "geometry": {"coordinates":[-87.88937900000001,31.520396],"type":"Point"}
 }

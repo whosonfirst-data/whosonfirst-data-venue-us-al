@@ -2,13 +2,14 @@
   "id": 152332071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.972129,34.802245,-86.972129,34.802245",
     "geom:latitude":34.802245,
     "geom:longitude":-86.972129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 S Jefferson St",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829531,
+        85688675,
         85633793,
         85913543,
         102085489,
-        85688675
+        85829531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152332071,
-    "wof:lastmodified":1449046874,
+    "wof:lastmodified":1466317389,
     "wof:name":"Jones & Ayers LLC",
     "wof:parent_id":85829531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.972129,34.802245,-86.972129,34.802245],
+  "bbox": [
+    -86.972129,
+    34.802245,
+    -86.972129,
+    34.802245
+],
   "geometry": {"coordinates":[-86.972129,34.802245],"type":"Point"}
 }

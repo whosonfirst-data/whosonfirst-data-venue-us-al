@@ -2,13 +2,14 @@
   "id": 152862059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.223768,32.079996,-88.223768,32.079996",
     "geom:latitude":32.079996,
     "geom:longitude":-88.223768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"918 S Mulberry Ave",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822759,
+        85688675,
         85633793,
         85899781,
         102085727,
-        85688675
+        85822759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152862059,
-    "wof:lastmodified":1449049006,
+    "wof:lastmodified":1466320377,
     "wof:name":"Shell",
     "wof:parent_id":85822759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.223768,32.079996,-88.223768,32.079996],
-  "geometry": {"coordinates":[-88.223768,32.079996],"type":"Point"}
+  "bbox": [
+    -88.223768,
+    32.079996,
+    -88.223768,
+    32.079996
+],
+  "geometry": {"coordinates":[-88.22376800000001,32.079996],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152133199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.662986,34.726538,-86.662986,34.726538",
     "geom:latitude":34.726538,
     "geom:longitude":-86.662986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5015 Bradford Blvd NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     "sg:website":"www.aviagen.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085487,
-        85633793,
         85688675,
-        85817803
+        85633793,
+        85817803,
+        102085487
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152133199,
-    "wof:lastmodified":1449048118,
+    "wof:lastmodified":1466315180,
     "wof:name":"Aviagen Inc",
     "wof:parent_id":85817803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.662986,34.726538,-86.662986,34.726538],
+  "bbox": [
+    -86.662986,
+    34.726538,
+    -86.662986,
+    34.726538
+],
   "geometry": {"coordinates":[-86.662986,34.726538],"type":"Point"}
 }

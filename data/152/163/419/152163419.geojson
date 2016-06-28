@@ -2,13 +2,14 @@
   "id": 152163419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.646427,34.692407,-85.646427,34.692407",
     "geom:latitude":34.692407,
     "geom:longitude":-85.646427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2659 Co Rd 651",
     "sg:city":"Ider",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85844901,
+        85688675,
         85633793,
         85897439,
         102085615,
-        85688675
+        85844901
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152163419,
-    "wof:lastmodified":1449048814,
+    "wof:lastmodified":1466315301,
     "wof:name":"Billy Greeson & Sons Farm",
     "wof:parent_id":85844901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.646427,34.692407,-85.646427,34.692407],
+  "bbox": [
+    -85.646427,
+    34.692407,
+    -85.646427,
+    34.692407
+],
   "geometry": {"coordinates":[-85.646427,34.692407],"type":"Point"}
 }

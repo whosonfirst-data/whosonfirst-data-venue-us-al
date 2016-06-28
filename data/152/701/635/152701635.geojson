@@ -2,13 +2,14 @@
   "id": 152701635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.72177,33.570955,-86.72177,33.570955",
     "geom:latitude":33.570955,
     "geom:longitude":-86.72177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 83rd St N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816499,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85816499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152701635,
-    "wof:lastmodified":1449047950,
+    "wof:lastmodified":1466319492,
     "wof:name":"Mild To Wild Kustoms",
     "wof:parent_id":85816499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.72177,33.570955,-86.72177,33.570955],
-  "geometry": {"coordinates":[-86.72177,33.570955],"type":"Point"}
+  "bbox": [
+    -86.72177,
+    33.570955,
+    -86.72177,
+    33.570955
+],
+  "geometry": {"coordinates":[-86.72177000000001,33.570955],"type":"Point"}
 }

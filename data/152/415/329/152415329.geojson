@@ -2,13 +2,14 @@
   "id": 152415329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.128689,33.808164,-88.128689,33.808164",
     "geom:latitude":33.808164,
     "geom:longitude":-88.128689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 Quail Dr",
     "sg:city":"Vernon",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152415329,
-    "wof:lastmodified":1449047629,
+    "wof:lastmodified":1466317909,
     "wof:name":"Danny Holmes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.128689,33.808164,-88.128689,33.808164],
-  "geometry": {"coordinates":[-88.128689,33.808164],"type":"Point"}
+  "bbox": [
+    -88.128689,
+    33.808164,
+    -88.128689,
+    33.808164
+],
+  "geometry": {"coordinates":[-88.12868899999999,33.808164],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152550885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.578314,34.738705,-86.578314,34.738705",
     "geom:latitude":34.738705,
     "geom:longitude":-86.578314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 Pratt Ave NE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878241,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878241
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152550885,
-    "wof:lastmodified":1449046801,
+    "wof:lastmodified":1466318605,
     "wof:name":"Bailey Chiropractic Clinic",
     "wof:parent_id":85878241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.578314,34.738705,-86.578314,34.738705],
-  "geometry": {"coordinates":[-86.578314,34.738705],"type":"Point"}
+  "bbox": [
+    -86.578314,
+    34.738705,
+    -86.578314,
+    34.738705
+],
+  "geometry": {"coordinates":[-86.57831400000001,34.738705],"type":"Point"}
 }

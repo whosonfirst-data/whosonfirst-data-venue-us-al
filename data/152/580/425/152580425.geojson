@@ -2,13 +2,14 @@
   "id": 152580425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.418601,31.219309,-85.418601,31.219309",
     "geom:latitude":31.219309,
     "geom:longitude":-85.418601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Parkplace Ct",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152580425,
-    "wof:lastmodified":1449047413,
+    "wof:lastmodified":1466318994,
     "wof:name":"US Airline Industry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.418601,31.219309,-85.418601,31.219309],
+  "bbox": [
+    -85.418601,
+    31.219309,
+    -85.418601,
+    31.219309
+],
   "geometry": {"coordinates":[-85.418601,31.219309],"type":"Point"}
 }

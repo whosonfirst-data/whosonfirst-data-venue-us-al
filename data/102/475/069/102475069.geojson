@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102475069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.749098,34.788512,-86.749098,34.788512",
     "geom:latitude":34.788512,
     "geom:longitude":-86.749098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7017 Wall Triana Hwy",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -36,10 +37,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085487,
-        85633793,
         85688675,
-        85838413
+        85633793,
+        85838413,
+        102085487
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":102475069,
-    "wof:lastmodified":1449068768,
+    "wof:lastmodified":1466315351,
     "wof:name":"BBC Systems Inc",
     "wof:parent_id":85838413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.749098,34.788512,-86.749098,34.788512],
+  "bbox": [
+    -86.749098,
+    34.788512,
+    -86.749098,
+    34.788512
+],
   "geometry": {"coordinates":[-86.749098,34.788512],"type":"Point"}
 }

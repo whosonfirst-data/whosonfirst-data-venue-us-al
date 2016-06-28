@@ -2,13 +2,14 @@
   "id": 152387259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.727627,34.716482,-87.727627,34.716482",
     "geom:latitude":34.716482,
     "geom:longitude":-87.727627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 Old Memphis Rd",
     "sg:city":"Tuscumbia",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852605,
+        85688675,
         85633793,
         85897447,
         102085625,
-        85688675
+        85852605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152387259,
-    "wof:lastmodified":1449048290,
+    "wof:lastmodified":1466317628,
     "wof:name":"Alabama Head Injury Fdn Family",
     "wof:parent_id":85852605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.727627,34.716482,-87.727627,34.716482],
+  "bbox": [
+    -87.727627,
+    34.716482,
+    -87.727627,
+    34.716482
+],
   "geometry": {"coordinates":[-87.727627,34.716482],"type":"Point"}
 }

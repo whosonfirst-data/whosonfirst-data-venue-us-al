@@ -2,13 +2,14 @@
   "id": 152212585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.564005,34.735526,-86.564005,34.735526",
     "geom:latitude":34.735526,
     "geom:longitude":-86.564005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Randolph Ave SE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819449,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85819449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152212585,
-    "wof:lastmodified":1449047289,
+    "wof:lastmodified":1466316039,
     "wof:name":"Kandy Gardner CPA",
     "wof:parent_id":85819449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.564005,34.735526,-86.564005,34.735526],
-  "geometry": {"coordinates":[-86.564005,34.735526],"type":"Point"}
+  "bbox": [
+    -86.564005,
+    34.735526,
+    -86.564005,
+    34.735526
+],
+  "geometry": {"coordinates":[-86.56400499999999,34.735526],"type":"Point"}
 }

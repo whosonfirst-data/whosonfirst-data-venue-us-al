@@ -2,13 +2,14 @@
   "id": 152868811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.896086,32.536272,-85.896086,32.536272",
     "geom:latitude":32.536272,
     "geom:longitude":-85.896086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 Barnett Blvd",
     "sg:city":"Tallassee",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827623,
+        85688675,
         85633793,
         85913291,
         102085631,
-        85688675
+        85827623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":152868811,
-    "wof:lastmodified":1449044505,
+    "wof:lastmodified":1466320204,
     "wof:name":"Kim's Hair & Nail Salon",
     "wof:parent_id":85827623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.896086,32.536272,-85.896086,32.536272],
+  "bbox": [
+    -85.896086,
+    32.536272,
+    -85.896086,
+    32.536272
+],
   "geometry": {"coordinates":[-85.896086,32.536272],"type":"Point"}
 }

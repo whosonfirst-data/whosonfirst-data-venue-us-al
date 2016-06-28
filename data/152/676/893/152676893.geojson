@@ -2,13 +2,14 @@
   "id": 152676893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.857389,31.329433,-85.857389,31.329433",
     "geom:latitude":31.329433,
     "geom:longitude":-85.857389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Weeks Dr",
     "sg:city":"Enterprise",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825461,
+        85688675,
         85633793,
         85899527,
         102085699,
-        85688675
+        85825461
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152676893,
-    "wof:lastmodified":1449047260,
+    "wof:lastmodified":1466319279,
     "wof:name":"S Fitzpatrick",
     "wof:parent_id":85825461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.857389,31.329433,-85.857389,31.329433],
+  "bbox": [
+    -85.857389,
+    31.329433,
+    -85.857389,
+    31.329433
+],
   "geometry": {"coordinates":[-85.857389,31.329433],"type":"Point"}
 }

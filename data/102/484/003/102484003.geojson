@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102484003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.774048,33.520587,-86.774048,33.520587",
     "geom:latitude":33.520587,
     "geom:longitude":-86.774048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 40th St S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.avonumc.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876275,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102484003,
-    "wof:lastmodified":1449070057,
+    "wof:lastmodified":1466315712,
     "wof:name":"Avondale United Methodist Chr",
     "wof:parent_id":85876275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.774048,33.520587,-86.774048,33.520587],
-  "geometry": {"coordinates":[-86.774048,33.520587],"type":"Point"}
+  "bbox": [
+    -86.774048,
+    33.520587,
+    -86.774048,
+    33.520587
+],
+  "geometry": {"coordinates":[-86.77404799999999,33.520587],"type":"Point"}
 }

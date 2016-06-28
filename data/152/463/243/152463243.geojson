@@ -2,13 +2,14 @@
   "id": 152463243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.844326,33.414419,-86.844326,33.414419",
     "geom:latitude":33.414419,
     "geom:longitude":-86.844326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"738 Shades Mountain Plz",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085481,
-        85633793,
         85688675,
-        85834275
+        85633793,
+        85834275,
+        102085481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152463243,
-    "wof:lastmodified":1449047510,
+    "wof:lastmodified":1466318260,
     "wof:name":"Carto-Craft Maps Inc",
     "wof:parent_id":85834275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.844326,33.414419,-86.844326,33.414419],
+  "bbox": [
+    -86.844326,
+    33.414419,
+    -86.844326,
+    33.414419
+],
   "geometry": {"coordinates":[-86.844326,33.414419],"type":"Point"}
 }

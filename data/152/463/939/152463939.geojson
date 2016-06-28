@@ -2,13 +2,14 @@
   "id": 152463939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.102563,32.308108,-86.102563,32.308108",
     "geom:latitude":32.308108,
     "geom:longitude":-86.102563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3427 Pike Rd",
     "sg:city":"Pike Road",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879033,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879033
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152463939,
-    "wof:lastmodified":1449047510,
+    "wof:lastmodified":1466318164,
     "wof:name":"Pike Road Voulnteer Fire Dept",
     "wof:parent_id":85879033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.102563,32.308108,-86.102563,32.308108],
+  "bbox": [
+    -86.102563,
+    32.308108,
+    -86.102563,
+    32.308108
+],
   "geometry": {"coordinates":[-86.102563,32.308108],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152472113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.761834,33.538856,-86.761834,33.538856",
     "geom:latitude":33.538856,
     "geom:longitude":-86.761834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"829 50th St N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858829,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85858829
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152472113,
-    "wof:lastmodified":1449044667,
+    "wof:lastmodified":1466318168,
     "wof:name":"G&C Home Improvements",
     "wof:parent_id":85858829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.761834,33.538856,-86.761834,33.538856],
-  "geometry": {"coordinates":[-86.761834,33.538856],"type":"Point"}
+  "bbox": [
+    -86.761834,
+    33.538856,
+    -86.761834,
+    33.538856
+],
+  "geometry": {"coordinates":[-86.76183399999999,33.538856],"type":"Point"}
 }

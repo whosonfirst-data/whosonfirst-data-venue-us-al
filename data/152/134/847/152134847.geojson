@@ -2,13 +2,14 @@
   "id": 152134847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.026106,34.009074,-86.026106,34.009074",
     "geom:latitude":34.009074,
     "geom:longitude":-86.026106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 S 15th St",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805515,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675,
+        85805515,
         85822279
     ],
     "wof:breaches":[],
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":152134847,
-    "wof:lastmodified":1449048661,
+    "wof:lastmodified":1466315254,
     "wof:name":"Gallilea Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.026106,34.009074,-86.026106,34.009074],
+  "bbox": [
+    -86.026106,
+    34.009074,
+    -86.026106,
+    34.009074
+],
   "geometry": {"coordinates":[-86.026106,34.009074],"type":"Point"}
 }

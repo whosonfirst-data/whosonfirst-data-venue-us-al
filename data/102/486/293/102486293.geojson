@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102486293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.749546,33.510511,-86.749546,33.510511",
     "geom:latitude":33.510511,
     "geom:longitude":-86.749546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Lorena Ln",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876275,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102486293,
-    "wof:lastmodified":1449069080,
+    "wof:lastmodified":1466315783,
     "wof:name":"Global Technology Consult",
     "wof:parent_id":85876275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.749546,33.510511,-86.749546,33.510511],
+  "bbox": [
+    -86.749546,
+    33.510511,
+    -86.749546,
+    33.510511
+],
   "geometry": {"coordinates":[-86.749546,33.510511],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152553381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.975892,34.801556,-86.975892,34.801556",
     "geom:latitude":34.801556,
     "geom:longitude":-86.975892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 Strange St",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829531,
+        85688675,
         85633793,
         85913543,
         102085489,
-        85688675
+        85829531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152553381,
-    "wof:lastmodified":1449044314,
+    "wof:lastmodified":1466318575,
     "wof:name":"S&H Auction",
     "wof:parent_id":85829531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.975892,34.801556,-86.975892,34.801556],
+  "bbox": [
+    -86.975892,
+    34.801556,
+    -86.975892,
+    34.801556
+],
   "geometry": {"coordinates":[-86.975892,34.801556],"type":"Point"}
 }

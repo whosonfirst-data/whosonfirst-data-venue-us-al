@@ -2,13 +2,14 @@
   "id": 152307281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.718985,34.77192,-86.718985,34.77192",
     "geom:latitude":34.77192,
     "geom:longitude":-86.718985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 Capshaw Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851107,
+        85688675,
         85633793,
         85913593,
         102085487,
-        85688675
+        85851107
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152307281,
-    "wof:lastmodified":1449045492,
+    "wof:lastmodified":1466317003,
     "wof:name":"Rainbow Riding Academy",
     "wof:parent_id":85851107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.718985,34.77192,-86.718985,34.77192],
+  "bbox": [
+    -86.718985,
+    34.77192,
+    -86.718985,
+    34.77192
+],
   "geometry": {"coordinates":[-86.718985,34.77192],"type":"Point"}
 }

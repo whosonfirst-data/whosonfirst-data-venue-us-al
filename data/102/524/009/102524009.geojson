@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102524009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.524206,33.150022,-87.524206,33.150022",
     "geom:latitude":33.150022,
     "geom:longitude":-87.524206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6000 McFarland Blvd E",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085553,
-        85633793,
         85688675,
-        85827473
+        85633793,
+        85827473,
+        102085553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102524009,
-    "wof:lastmodified":1449067748,
+    "wof:lastmodified":1466317100,
     "wof:name":"Bear Creek Motors Inc",
     "wof:parent_id":85827473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.524206,33.150022,-87.524206,33.150022],
-  "geometry": {"coordinates":[-87.524206,33.150022],"type":"Point"}
+  "bbox": [
+    -87.524206,
+    33.150022,
+    -87.524206,
+    33.150022
+],
+  "geometry": {"coordinates":[-87.52420600000001,33.150022],"type":"Point"}
 }

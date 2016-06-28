@@ -2,13 +2,14 @@
   "id": 152315949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.727943,33.464602,-86.727943,33.464602",
     "geom:latitude":33.464602,
     "geom:longitude":-86.727943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3278 Overton Manor Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802339,
+        85688675,
         85633793,
         85914483,
         102085481,
-        85688675
+        85802339
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152315949,
-    "wof:lastmodified":1449048678,
+    "wof:lastmodified":1466317382,
     "wof:name":"New Heights Media Graphics",
     "wof:parent_id":85802339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.727943,33.464602,-86.727943,33.464602],
+  "bbox": [
+    -86.727943,
+    33.464602,
+    -86.727943,
+    33.464602
+],
   "geometry": {"coordinates":[-86.727943,33.464602],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152808999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.701818,30.553071,-87.701818,30.553071",
     "geom:latitude":30.553071,
     "geom:longitude":-87.701818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22655 Ridgewood Dr",
     "sg:city":"Robertsdale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847563,
+        85688675,
         85633793,
         85914707,
         102085469,
-        85688675
+        85847563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152808999,
-    "wof:lastmodified":1449044518,
+    "wof:lastmodified":1466319921,
     "wof:name":"Jackson Electrical & Plumbing",
     "wof:parent_id":85847563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.701818,30.553071,-87.701818,30.553071],
+  "bbox": [
+    -87.701818,
+    30.553071,
+    -87.701818,
+    30.553071
+],
   "geometry": {"coordinates":[-87.701818,30.553071],"type":"Point"}
 }

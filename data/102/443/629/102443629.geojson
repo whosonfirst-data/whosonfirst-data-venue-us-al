@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102443629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.994937,34.586172,-86.994937,34.586172",
     "geom:latitude":34.586172,
     "geom:longitude":-86.994937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1302 5th Ave SW",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848819,
+        85688675,
         85633793,
         85913589,
         102085531,
-        85688675
+        85848819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102443629,
-    "wof:lastmodified":1449069727,
+    "wof:lastmodified":1466314435,
     "wof:name":"Brookhaven Middle School",
     "wof:parent_id":85848819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.994937,34.586172,-86.994937,34.586172],
-  "geometry": {"coordinates":[-86.994937,34.586172],"type":"Point"}
+  "bbox": [
+    -86.994937,
+    34.586172,
+    -86.994937,
+    34.586172
+],
+  "geometry": {"coordinates":[-86.99493699999999,34.586172],"type":"Point"}
 }

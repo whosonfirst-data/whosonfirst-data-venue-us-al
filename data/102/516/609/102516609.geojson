@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102516609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.834214,33.609462,-85.834214,33.609462",
     "geom:latitude":33.609462,
     "geom:longitude":-85.834214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 E 6th St",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827499,
+        85688675,
         85633793,
         85914159,
         102085603,
-        85688675
+        85827499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102516609,
-    "wof:lastmodified":1449068261,
+    "wof:lastmodified":1466316829,
     "wof:name":"Oxford House Apts",
     "wof:parent_id":85827499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.834214,33.609462,-85.834214,33.609462],
+  "bbox": [
+    -85.834214,
+    33.609462,
+    -85.834214,
+    33.609462
+],
   "geometry": {"coordinates":[-85.834214,33.609462],"type":"Point"}
 }

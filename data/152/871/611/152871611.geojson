@@ -2,13 +2,14 @@
   "id": 152871611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.725941,33.497846,-86.725941,33.497846",
     "geom:latitude":33.497846,
     "geom:longitude":-86.725941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3509 Victoria Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821807,
+        85688675,
         85633793,
         85914807,
         102085481,
-        85688675
+        85821807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152871611,
-    "wof:lastmodified":1449045828,
+    "wof:lastmodified":1466320215,
     "wof:name":"Tomlinson Frank Hilton Green",
     "wof:parent_id":85821807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.725941,33.497846,-86.725941,33.497846],
-  "geometry": {"coordinates":[-86.725941,33.497846],"type":"Point"}
+  "bbox": [
+    -86.725941,
+    33.497846,
+    -86.725941,
+    33.497846
+],
+  "geometry": {"coordinates":[-86.72594100000001,33.497846],"type":"Point"}
 }

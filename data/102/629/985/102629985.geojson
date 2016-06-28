@@ -2,13 +2,14 @@
   "id": 102629985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.111618,30.710432,-88.111618,30.710432",
     "geom:latitude":30.710432,
     "geom:longitude":-88.111618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"654 Rice St",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102629985,
-    "wof:lastmodified":1449069626,
+    "wof:lastmodified":1466317495,
     "wof:name":"Liberty Park Baptist Church",
     "wof:parent_id":85913749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.111618,30.710432,-88.111618,30.710432],
-  "geometry": {"coordinates":[-88.111618,30.710432],"type":"Point"}
+  "bbox": [
+    -88.111618,
+    30.710432,
+    -88.111618,
+    30.710432
+],
+  "geometry": {"coordinates":[-88.11161800000001,30.710432],"type":"Point"}
 }

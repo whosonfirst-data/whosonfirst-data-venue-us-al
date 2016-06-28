@@ -2,13 +2,14 @@
   "id": 152147087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.7901,33.336026,-86.7901,33.336026",
     "geom:latitude":33.336026,
     "geom:longitude":-86.7901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1022 Commerce Blvd",
     "sg:city":"Pelham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85826867,
+        85688675,
         85633793,
         85914501,
         102085499,
-        85688675
+        85826867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152147087,
-    "wof:lastmodified":1449048420,
+    "wof:lastmodified":1466315442,
     "wof:name":"Richs Pre-Owned Cars Inc",
     "wof:parent_id":85826867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.7901,33.336026,-86.7901,33.336026],
+  "bbox": [
+    -86.7901,
+    33.336026,
+    -86.7901,
+    33.336026
+],
   "geometry": {"coordinates":[-86.7901,33.336026],"type":"Point"}
 }

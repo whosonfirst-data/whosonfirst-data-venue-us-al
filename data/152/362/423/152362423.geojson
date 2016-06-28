@@ -2,13 +2,14 @@
   "id": 152362423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.676519,34.800982,-87.676519,34.800982",
     "geom:latitude":34.800982,
     "geom:longitude":-87.676519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 N Court St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848857,
+        85688675,
         85633793,
         85914011,
         102085527,
-        85688675
+        85848857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":152362423,
-    "wof:lastmodified":1449047282,
+    "wof:lastmodified":1466317489,
     "wof:name":"Frederick Montgomery Corp",
     "wof:parent_id":85848857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.676519,34.800982,-87.676519,34.800982],
+  "bbox": [
+    -87.676519,
+    34.800982,
+    -87.676519,
+    34.800982
+],
   "geometry": {"coordinates":[-87.676519,34.800982],"type":"Point"}
 }

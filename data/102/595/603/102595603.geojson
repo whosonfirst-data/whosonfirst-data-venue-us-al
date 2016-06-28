@@ -2,13 +2,14 @@
   "id": 102595603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.732881,34.690579,-86.732881,34.690579",
     "geom:latitude":34.690579,
     "geom:longitude":-86.732881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 Colonial Lake Dr",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807231,
+        85688675,
         85633793,
         85913593,
         102085487,
-        85688675
+        85807231
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102595603,
-    "wof:lastmodified":1449069952,
+    "wof:lastmodified":1466317193,
     "wof:name":"Purcom",
     "wof:parent_id":85807231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.732881,34.690579,-86.732881,34.690579],
-  "geometry": {"coordinates":[-86.732881,34.690579],"type":"Point"}
+  "bbox": [
+    -86.732881,
+    34.690579,
+    -86.732881,
+    34.690579
+],
+  "geometry": {"coordinates":[-86.73288100000001,34.690579],"type":"Point"}
 }

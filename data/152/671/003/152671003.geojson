@@ -2,13 +2,14 @@
   "id": 152671003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.807573,34.447089,-86.807573,34.447089",
     "geom:latitude":34.447089,
     "geom:longitude":-86.807573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2602 State Rte 36",
     "sg:city":"Hartselle",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152671003,
-    "wof:lastmodified":1449045362,
+    "wof:lastmodified":1466319322,
     "wof:name":"West 36 1 Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.807573,34.447089,-86.807573,34.447089],
+  "bbox": [
+    -86.807573,
+    34.447089,
+    -86.807573,
+    34.447089
+],
   "geometry": {"coordinates":[-86.807573,34.447089],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152640815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.06207,31.095051,-87.06207,31.095051",
     "geom:latitude":31.095051,
     "geom:longitude":-87.06207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"615 Forrest Ave",
     "sg:city":"East Brewton",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152640815,
-    "wof:lastmodified":1449046321,
+    "wof:lastmodified":1466319080,
     "wof:name":"East Brewton Police Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.06207,31.095051,-87.06207,31.095051],
-  "geometry": {"coordinates":[-87.06207,31.095051],"type":"Point"}
+  "bbox": [
+    -87.06207,
+    31.095051,
+    -87.06207,
+    31.095051
+],
+  "geometry": {"coordinates":[-87.06207000000001,31.095051],"type":"Point"}
 }

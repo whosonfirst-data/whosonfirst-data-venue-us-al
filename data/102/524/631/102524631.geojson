@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102524631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.297227,32.380304,-86.297227,32.380304",
     "geom:latitude":32.380304,
     "geom:longitude":-86.297227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"837 Madison Ave",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879043,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102524631,
-    "wof:lastmodified":1449067747,
+    "wof:lastmodified":1466316997,
     "wof:name":"Gibson Automatic Transmission",
     "wof:parent_id":85879043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.297227,32.380304,-86.297227,32.380304],
-  "geometry": {"coordinates":[-86.297227,32.380304],"type":"Point"}
+  "bbox": [
+    -86.297227,
+    32.380304,
+    -86.297227,
+    32.380304
+],
+  "geometry": {"coordinates":[-86.29722700000001,32.380304],"type":"Point"}
 }

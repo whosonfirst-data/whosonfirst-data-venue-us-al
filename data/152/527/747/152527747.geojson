@@ -2,13 +2,14 @@
   "id": 152527747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.314898,33.181217,-87.314898,33.181217",
     "geom:latitude":33.181217,
     "geom:longitude":-87.314898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10899 Taurus Rd",
     "sg:city":"Cottondale",
     "sg:classifiers":[
@@ -36,11 +37,11 @@
     "sg:website":"www.energen.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851363,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85851363
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":152527747,
-    "wof:lastmodified":1449047965,
+    "wof:lastmodified":1466318486,
     "wof:name":"Energen Resources Corp",
     "wof:parent_id":85851363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.314898,33.181217,-87.314898,33.181217],
+  "bbox": [
+    -87.314898,
+    33.181217,
+    -87.314898,
+    33.181217
+],
   "geometry": {"coordinates":[-87.314898,33.181217],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102625859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.387988,32.390181,-86.387988,32.390181",
     "geom:latitude":32.390181,
     "geom:longitude":-86.387988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3996 Birmingham Hwy",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102625859,
-    "wof:lastmodified":1449070252,
+    "wof:lastmodified":1466317476,
     "wof:name":"Sysco Alabama LLC",
     "wof:parent_id":85913947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.387988,32.390181,-86.387988,32.390181],
-  "geometry": {"coordinates":[-86.387988,32.390181],"type":"Point"}
+  "bbox": [
+    -86.387988,
+    32.390181,
+    -86.387988,
+    32.390181
+],
+  "geometry": {"coordinates":[-86.38798800000001,32.390181],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102448973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.212905,30.689121,-88.212905,30.689121",
     "geom:latitude":30.689121,
     "geom:longitude":-88.212905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"75 Border Cir E",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878993,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878993
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102448973,
-    "wof:lastmodified":1449070091,
+    "wof:lastmodified":1466314689,
     "wof:name":"E L Quinley LLC",
     "wof:parent_id":85878993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.212905,30.689121,-88.212905,30.689121],
-  "geometry": {"coordinates":[-88.212905,30.689121],"type":"Point"}
+  "bbox": [
+    -88.212905,
+    30.689121,
+    -88.212905,
+    30.689121
+],
+  "geometry": {"coordinates":[-88.21290500000001,30.689121],"type":"Point"}
 }

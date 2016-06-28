@@ -2,13 +2,14 @@
   "id": 152471789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.881261,33.510303,-86.881261,33.510303",
     "geom:latitude":33.510303,
     "geom:longitude":-86.881261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2001 19th St",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.holyfamilyhs.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847929,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85847929
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152471789,
-    "wof:lastmodified":1449046162,
+    "wof:lastmodified":1466318188,
     "wof:name":"Holy Family High School",
     "wof:parent_id":85847929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.881261,33.510303,-86.881261,33.510303],
-  "geometry": {"coordinates":[-86.881261,33.510303],"type":"Point"}
+  "bbox": [
+    -86.881261,
+    33.510303,
+    -86.881261,
+    33.510303
+],
+  "geometry": {"coordinates":[-86.88126099999999,33.510303],"type":"Point"}
 }

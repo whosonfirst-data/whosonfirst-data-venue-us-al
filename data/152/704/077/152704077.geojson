@@ -2,13 +2,14 @@
   "id": 152704077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.481423,32.563688,-85.481423,32.563688",
     "geom:latitude":32.563688,
     "geom:longitude":-85.481423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2014 Janabrooke Ln",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85838773,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85838773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152704077,
-    "wof:lastmodified":1449045501,
+    "wof:lastmodified":1466319364,
     "wof:name":"Sean Publishing",
     "wof:parent_id":85838773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.481423,32.563688,-85.481423,32.563688],
-  "geometry": {"coordinates":[-85.481423,32.563688],"type":"Point"}
+  "bbox": [
+    -85.481423,
+    32.563688,
+    -85.481423,
+    32.563688
+],
+  "geometry": {"coordinates":[-85.48142300000001,32.563688],"type":"Point"}
 }

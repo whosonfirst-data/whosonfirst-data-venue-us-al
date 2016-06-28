@@ -2,13 +2,14 @@
   "id": 152609799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.391641,31.218294,-85.391641,31.218294",
     "geom:latitude":31.218294,
     "geom:longitude":-85.391641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 S Foster St",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852069,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85852069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152609799,
-    "wof:lastmodified":1449046031,
+    "wof:lastmodified":1466318891,
     "wof:name":"H Eugene Doyle PC",
     "wof:parent_id":85852069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.391641,31.218294,-85.391641,31.218294],
-  "geometry": {"coordinates":[-85.391641,31.218294],"type":"Point"}
+  "bbox": [
+    -85.391641,
+    31.218294,
+    -85.391641,
+    31.218294
+],
+  "geometry": {"coordinates":[-85.39164100000001,31.218294],"type":"Point"}
 }

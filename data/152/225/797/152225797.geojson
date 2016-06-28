@@ -2,13 +2,14 @@
   "id": 152225797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.785833,33.573754,-86.785833,33.573754",
     "geom:latitude":33.573754,
     "geom:longitude":-86.785833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2475 Seaboard Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815977,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85815977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152225797,
-    "wof:lastmodified":1449045747,
+    "wof:lastmodified":1466316253,
     "wof:name":"Tarrant Quarry",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.785833,33.573754,-86.785833,33.573754],
+  "bbox": [
+    -86.785833,
+    33.573754,
+    -86.785833,
+    33.573754
+],
   "geometry": {"coordinates":[-86.785833,33.573754],"type":"Point"}
 }

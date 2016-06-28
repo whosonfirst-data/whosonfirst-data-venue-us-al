@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102512045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.78002,33.494659,-86.78002,33.494659",
     "geom:latitude":33.494659,
     "geom:longitude":-86.78002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2905 Thornhill Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876275,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102512045,
-    "wof:lastmodified":1449069552,
+    "wof:lastmodified":1466316954,
     "wof:name":"Paradise Parks Trailer Sales",
     "wof:parent_id":85876275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.78002,33.494659,-86.78002,33.494659],
-  "geometry": {"coordinates":[-86.78002,33.494659],"type":"Point"}
+  "bbox": [
+    -86.78002,
+    33.494659,
+    -86.78002,
+    33.494659
+],
+  "geometry": {"coordinates":[-86.78001999999999,33.494659],"type":"Point"}
 }

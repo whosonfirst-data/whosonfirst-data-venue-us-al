@@ -2,13 +2,14 @@
   "id": 152421721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.215713,32.359197,-86.215713,32.359197",
     "geom:latitude":32.359197,
     "geom:longitude":-86.215713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1451 Eastern Blvd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879059,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879059
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152421721,
-    "wof:lastmodified":1449047236,
+    "wof:lastmodified":1466317973,
     "wof:name":"Alabama Telco Credit Union",
     "wof:parent_id":85879059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.215713,32.359197,-86.215713,32.359197],
-  "geometry": {"coordinates":[-86.215713,32.359197],"type":"Point"}
+  "bbox": [
+    -86.215713,
+    32.359197,
+    -86.215713,
+    32.359197
+],
+  "geometry": {"coordinates":[-86.21571299999999,32.359197],"type":"Point"}
 }

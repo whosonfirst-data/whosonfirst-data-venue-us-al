@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102489437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.07133,30.802686,-88.07133,30.802686",
     "geom:latitude":30.802686,
     "geom:longitude":-88.07133,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"828 US Hwy 43",
     "sg:city":"Saraland",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085469,
-        85633793,
         85688675,
-        85878983
+        85633793,
+        85878983,
+        102085469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102489437,
-    "wof:lastmodified":1449069060,
+    "wof:lastmodified":1466315971,
     "wof:name":"Best Wireless",
     "wof:parent_id":85878983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.07133,30.802686,-88.07133,30.802686],
+  "bbox": [
+    -88.07133,
+    30.802686,
+    -88.07133,
+    30.802686
+],
   "geometry": {"coordinates":[-88.07133,30.802686],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152887287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.130833,30.701636,-88.130833,30.701636",
     "geom:latitude":30.701636,
     "geom:longitude":-88.130833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"132 Batre Ln",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879003,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85879003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152887287,
-    "wof:lastmodified":1449048007,
+    "wof:lastmodified":1466320261,
     "wof:name":"Assoc Brokers Inc",
     "wof:parent_id":85879003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.130833,30.701636,-88.130833,30.701636],
+  "bbox": [
+    -88.130833,
+    30.701636,
+    -88.130833,
+    30.701636
+],
   "geometry": {"coordinates":[-88.130833,30.701636],"type":"Point"}
 }

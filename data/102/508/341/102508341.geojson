@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102508341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.591637,34.708621,-86.591637,34.708621",
     "geom:latitude":34.708621,
     "geom:longitude":-86.591637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2607 Leeman Ferry Rd SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.panel-tec.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85855713,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85855713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102508341,
-    "wof:lastmodified":1449069093,
+    "wof:lastmodified":1466316589,
     "wof:name":"Panel-Tec",
     "wof:parent_id":85855713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.591637,34.708621,-86.591637,34.708621],
-  "geometry": {"coordinates":[-86.591637,34.708621],"type":"Point"}
+  "bbox": [
+    -86.591637,
+    34.708621,
+    -86.591637,
+    34.708621
+],
+  "geometry": {"coordinates":[-86.59163700000001,34.708621],"type":"Point"}
 }

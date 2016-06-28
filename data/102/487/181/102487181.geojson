@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102487181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.752384,33.306987,-85.752384,33.306987",
     "geom:latitude":33.306987,
     "geom:longitude":-85.752384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"166 Gay Ave",
     "sg:city":"Lineville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834105,
+        85688675,
         85633793,
         85914019,
         102085421,
-        85688675
+        85834105
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102487181,
-    "wof:lastmodified":1449068583,
+    "wof:lastmodified":1466315765,
     "wof:name":"Snf Docks Inc",
     "wof:parent_id":85834105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.752384,33.306987,-85.752384,33.306987],
-  "geometry": {"coordinates":[-85.752384,33.306987],"type":"Point"}
+  "bbox": [
+    -85.752384,
+    33.306987,
+    -85.752384,
+    33.306987
+],
+  "geometry": {"coordinates":[-85.75238400000001,33.306987],"type":"Point"}
 }

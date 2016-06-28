@@ -2,13 +2,14 @@
   "id": 152612877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.019027,34.021349,-86.019027,34.021349",
     "geom:latitude":34.021349,
     "geom:longitude":-86.019027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 Gardner St",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805515,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85805515
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152612877,
-    "wof:lastmodified":1449046357,
+    "wof:lastmodified":1466318926,
     "wof:name":"J & J Merchandise",
     "wof:parent_id":85805515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.019027,34.021349,-86.019027,34.021349],
-  "geometry": {"coordinates":[-86.019027,34.021349],"type":"Point"}
+  "bbox": [
+    -86.019027,
+    34.021349,
+    -86.019027,
+    34.021349
+],
+  "geometry": {"coordinates":[-86.01902699999999,34.021349],"type":"Point"}
 }

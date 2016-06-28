@@ -2,13 +2,14 @@
   "id": 152684531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.716853,31.629482,-85.716853,31.629482",
     "geom:latitude":31.629482,
     "geom:longitude":-85.716853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"52 River Rd",
     "sg:city":"Ariton",
     "sg:classifiers":[
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152684531,
-    "wof:lastmodified":1449045443,
+    "wof:lastmodified":1466319260,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.716853,31.629482,-85.716853,31.629482],
+  "bbox": [
+    -85.716853,
+    31.629482,
+    -85.716853,
+    31.629482
+],
   "geometry": {"coordinates":[-85.716853,31.629482],"type":"Point"}
 }

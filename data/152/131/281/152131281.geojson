@@ -2,13 +2,14 @@
   "id": 152131281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.800075,33.396361,-86.800075,33.396361",
     "geom:latitude":33.396361,
     "geom:longitude":-86.800075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3239 Lorna Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152131281,
-    "wof:lastmodified":1449045700,
+    "wof:lastmodified":1466315079,
     "wof:name":"Suburban Irrigation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.800075,33.396361,-86.800075,33.396361],
-  "geometry": {"coordinates":[-86.800075,33.396361],"type":"Point"}
+  "bbox": [
+    -86.800075,
+    33.396361,
+    -86.800075,
+    33.396361
+],
+  "geometry": {"coordinates":[-86.80007500000001,33.396361],"type":"Point"}
 }

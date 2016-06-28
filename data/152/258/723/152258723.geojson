@@ -2,13 +2,14 @@
   "id": 152258723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.979318,32.709151,-85.979318,32.709151",
     "geom:latitude":32.709151,
     "geom:longitude":-85.979318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"180 Birmingham Rd",
     "sg:city":"Eclectic",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827623,
+        85688675,
         85633793,
         85913291,
         102085631,
-        85688675
+        85827623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152258723,
-    "wof:lastmodified":1449047970,
+    "wof:lastmodified":1466316816,
     "wof:name":"Lake Martin Dock Co",
     "wof:parent_id":85827623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.979318,32.709151,-85.979318,32.709151],
-  "geometry": {"coordinates":[-85.979318,32.709151],"type":"Point"}
+  "bbox": [
+    -85.979318,
+    32.709151,
+    -85.979318,
+    32.709151
+],
+  "geometry": {"coordinates":[-85.97931800000001,32.709151],"type":"Point"}
 }

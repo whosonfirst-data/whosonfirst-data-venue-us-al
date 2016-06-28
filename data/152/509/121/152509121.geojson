@@ -2,13 +2,14 @@
   "id": 152509121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.849746,30.634353,-87.849746,30.634353",
     "geom:latitude":30.634353,
     "geom:longitude":-87.849746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28101 Lakeview Dr",
     "sg:city":"Daphne",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840537,
+        85688675,
         85633793,
         85914695,
         102085469,
-        85688675
+        85840537
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152509121,
-    "wof:lastmodified":1449044485,
+    "wof:lastmodified":1466318353,
     "wof:name":"Joseph P Foster Dr",
     "wof:parent_id":85840537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.849746,30.634353,-87.849746,30.634353],
+  "bbox": [
+    -87.849746,
+    30.634353,
+    -87.849746,
+    30.634353
+],
   "geometry": {"coordinates":[-87.849746,30.634353],"type":"Point"}
 }

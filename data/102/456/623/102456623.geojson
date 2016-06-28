@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102456623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.818711,33.65715,-85.818711,33.65715",
     "geom:latitude":33.65715,
     "geom:longitude":-85.818711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 E 10th St",
     "sg:city":"Anniston",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840061,
+        85688675,
         85633793,
         85914281,
         102085603,
-        85688675
+        85840061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102456623,
-    "wof:lastmodified":1449068497,
+    "wof:lastmodified":1466314917,
     "wof:name":"Anniston Optical Co",
     "wof:parent_id":85840061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.818711,33.65715,-85.818711,33.65715],
-  "geometry": {"coordinates":[-85.818711,33.65715],"type":"Point"}
+  "bbox": [
+    -85.818711,
+    33.65715,
+    -85.818711,
+    33.65715
+],
+  "geometry": {"coordinates":[-85.81871099999999,33.65715],"type":"Point"}
 }

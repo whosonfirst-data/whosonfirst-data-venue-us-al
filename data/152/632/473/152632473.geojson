@@ -2,13 +2,14 @@
   "id": 152632473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.827703,33.360164,-86.827703,33.360164",
     "geom:latitude":33.360164,
     "geom:longitude":-86.827703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"651 Cahaba River Ests",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802401,
+        85688675,
         85633793,
         85914475,
         102085499,
-        85688675
+        85802401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152632473,
-    "wof:lastmodified":1449047248,
+    "wof:lastmodified":1466319145,
     "wof:name":"Halliday House",
     "wof:parent_id":85802401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.827703,33.360164,-86.827703,33.360164],
+  "bbox": [
+    -86.827703,
+    33.360164,
+    -86.827703,
+    33.360164
+],
   "geometry": {"coordinates":[-86.827703,33.360164],"type":"Point"}
 }

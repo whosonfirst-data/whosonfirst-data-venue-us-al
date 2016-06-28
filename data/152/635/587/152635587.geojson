@@ -2,13 +2,14 @@
   "id": 152635587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.78025,30.895946,-87.78025,30.895946",
     "geom:latitude":30.895946,
     "geom:longitude":-87.78025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1517 Hand Ave",
     "sg:city":"Bay Minette",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813343,
+        85688675,
         85633793,
         85914703,
         102085469,
-        85688675
+        85813343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152635587,
-    "wof:lastmodified":1449046313,
+    "wof:lastmodified":1466318908,
     "wof:name":"Northside Assembly Of God",
     "wof:parent_id":85813343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.78025,30.895946,-87.78025,30.895946],
+  "bbox": [
+    -87.78025,
+    30.895946,
+    -87.78025,
+    30.895946
+],
   "geometry": {"coordinates":[-87.78025,30.895946],"type":"Point"}
 }

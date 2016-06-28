@@ -2,13 +2,14 @@
   "id": 152325233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.544453,33.20017,-87.544453,33.20017",
     "geom:latitude":33.20017,
     "geom:longitude":-87.544453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"534 14th St",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816279,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85816279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152325233,
-    "wof:lastmodified":1449046125,
+    "wof:lastmodified":1466317318,
     "wof:name":"Booker Bookkeeping Service",
     "wof:parent_id":85816279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.544453,33.20017,-87.544453,33.20017],
+  "bbox": [
+    -87.544453,
+    33.20017,
+    -87.544453,
+    33.20017
+],
   "geometry": {"coordinates":[-87.544453,33.20017],"type":"Point"}
 }

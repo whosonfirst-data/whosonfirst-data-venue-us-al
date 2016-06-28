@@ -2,13 +2,14 @@
   "id": 152589983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.112177,33.581893,-87.112177,33.581893",
     "geom:latitude":33.581893,
     "geom:longitude":-87.112177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8701 Birmingport Rd",
     "sg:city":"Mulga",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":152589983,
-    "wof:lastmodified":1449046770,
+    "wof:lastmodified":1466318827,
     "wof:name":"Alabama Synfuel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.112177,33.581893,-87.112177,33.581893],
+  "bbox": [
+    -87.112177,
+    33.581893,
+    -87.112177,
+    33.581893
+],
   "geometry": {"coordinates":[-87.112177,33.581893],"type":"Point"}
 }

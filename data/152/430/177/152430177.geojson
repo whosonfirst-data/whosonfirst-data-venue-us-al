@@ -2,13 +2,14 @@
   "id": 152430177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.353856,32.468041,-86.353856,32.468041",
     "geom:latitude":32.468041,
     "geom:longitude":-86.353856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2637 Lakeview Cir",
     "sg:city":"Millbrook",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085631,
-        85633793,
         85688675,
-        85822701
+        85633793,
+        85822701,
+        102085631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152430177,
-    "wof:lastmodified":1449047248,
+    "wof:lastmodified":1466317990,
     "wof:name":"Rapid Pier Technologies LLC",
     "wof:parent_id":85822701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.353856,32.468041,-86.353856,32.468041],
-  "geometry": {"coordinates":[-86.353856,32.468041],"type":"Point"}
+  "bbox": [
+    -86.353856,
+    32.468041,
+    -86.353856,
+    32.468041
+],
+  "geometry": {"coordinates":[-86.35385599999999,32.468041],"type":"Point"}
 }

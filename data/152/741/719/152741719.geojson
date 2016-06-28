@@ -2,13 +2,14 @@
   "id": 152741719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.434406,31.230414,-85.434406,31.230414",
     "geom:latitude":31.230414,
     "geom:longitude":-85.434406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"134 Westgate Pkwy",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805317,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85805317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152741719,
-    "wof:lastmodified":1449044548,
+    "wof:lastmodified":1466319682,
     "wof:name":"Wilson Jewelers",
     "wof:parent_id":85805317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.434406,31.230414,-85.434406,31.230414],
+  "bbox": [
+    -85.434406,
+    31.230414,
+    -85.434406,
+    31.230414
+],
   "geometry": {"coordinates":[-85.434406,31.230414],"type":"Point"}
 }

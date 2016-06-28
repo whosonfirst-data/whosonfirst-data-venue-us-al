@@ -2,13 +2,14 @@
   "id": 152415345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.688076,34.816075,-87.688076,34.816075",
     "geom:latitude":34.816075,
     "geom:longitude":-87.688076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1102 Wildwood Park Rd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848857,
+        85688675,
         85633793,
         85914011,
         102085527,
-        85688675
+        85848857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152415345,
-    "wof:lastmodified":1449047631,
+    "wof:lastmodified":1466317910,
     "wof:name":"Shoals Investigative Service",
     "wof:parent_id":85848857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.688076,34.816075,-87.688076,34.816075],
+  "bbox": [
+    -87.688076,
+    34.816075,
+    -87.688076,
+    34.816075
+],
   "geometry": {"coordinates":[-87.688076,34.816075],"type":"Point"}
 }

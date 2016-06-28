@@ -2,13 +2,14 @@
   "id": 152637513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.701336,33.541655,-86.701336,33.541655",
     "geom:latitude":33.541655,
     "geom:longitude":-86.701336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2455 1st Ave S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851139,
+        85688675,
         85633793,
         85914835,
         102085481,
-        85688675
+        85851139
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152637513,
-    "wof:lastmodified":1449044289,
+    "wof:lastmodified":1466319041,
     "wof:name":"Metro Contractors Inc",
     "wof:parent_id":85851139,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.701336,33.541655,-86.701336,33.541655],
+  "bbox": [
+    -86.701336,
+    33.541655,
+    -86.701336,
+    33.541655
+],
   "geometry": {"coordinates":[-86.701336,33.541655],"type":"Point"}
 }

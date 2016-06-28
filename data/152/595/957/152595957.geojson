@@ -2,13 +2,14 @@
   "id": 152595957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.834447,33.271068,-86.834447,33.271068",
     "geom:latitude":33.271068,
     "geom:longitude":-86.834447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6021 Woodvale Ct",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845631,
+        85688675,
         85633793,
         85914471,
         102085499,
-        85688675
+        85845631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152595957,
-    "wof:lastmodified":1449048471,
+    "wof:lastmodified":1466318836,
     "wof:name":"Foothills Contracting Inc",
     "wof:parent_id":85845631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.834447,33.271068,-86.834447,33.271068],
+  "bbox": [
+    -86.834447,
+    33.271068,
+    -86.834447,
+    33.271068
+],
   "geometry": {"coordinates":[-86.834447,33.271068],"type":"Point"}
 }

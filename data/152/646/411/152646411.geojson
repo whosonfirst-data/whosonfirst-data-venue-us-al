@@ -2,13 +2,14 @@
   "id": 152646411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.196964,32.365429,-86.196964,32.365429",
     "geom:latitude":32.365429,
     "geom:longitude":-86.196964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Greystone Dr",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829705,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85829705
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152646411,
-    "wof:lastmodified":1449044166,
+    "wof:lastmodified":1466319078,
     "wof:name":"Stanley Teresa Oriental Accent",
     "wof:parent_id":85829705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.196964,32.365429,-86.196964,32.365429],
-  "geometry": {"coordinates":[-86.196964,32.365429],"type":"Point"}
+  "bbox": [
+    -86.196964,
+    32.365429,
+    -86.196964,
+    32.365429
+],
+  "geometry": {"coordinates":[-86.19696399999999,32.365429],"type":"Point"}
 }

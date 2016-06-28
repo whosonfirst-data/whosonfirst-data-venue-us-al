@@ -2,13 +2,14 @@
   "id": 152891601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.538112,33.072624,-87.538112,33.072624",
     "geom:latitude":33.072624,
     "geom:longitude":-87.538112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10439 Haun Dr",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085553,
-        85633793,
         85688675,
-        85851887
+        85633793,
+        85851887,
+        102085553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152891601,
-    "wof:lastmodified":1449047085,
+    "wof:lastmodified":1466320303,
     "wof:name":"J C Smith Construction Company",
     "wof:parent_id":85851887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.538112,33.072624,-87.538112,33.072624],
+  "bbox": [
+    -87.538112,
+    33.072624,
+    -87.538112,
+    33.072624
+],
   "geometry": {"coordinates":[-87.538112,33.072624],"type":"Point"}
 }

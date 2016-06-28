@@ -2,13 +2,14 @@
   "id": 152783419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.123287,32.114018,-88.123287,32.114018",
     "geom:latitude":32.114018,
     "geom:longitude":-88.123287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23504 State Rte 10",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822759,
+        85688675,
         85633793,
         85899781,
         102085727,
-        85688675
+        85822759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152783419,
-    "wof:lastmodified":1449044442,
+    "wof:lastmodified":1466319821,
     "wof:name":"Johnson Racing Enterprise",
     "wof:parent_id":85822759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.123287,32.114018,-88.123287,32.114018],
+  "bbox": [
+    -88.123287,
+    32.114018,
+    -88.123287,
+    32.114018
+],
   "geometry": {"coordinates":[-88.123287,32.114018],"type":"Point"}
 }

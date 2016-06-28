@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102487003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.833472,33.511347,-86.833472,33.511347",
     "geom:latitude":33.511347,
     "geom:longitude":-86.833472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 Graymont Ave N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85849097,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85849097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102487003,
-    "wof:lastmodified":1449068585,
+    "wof:lastmodified":1466315730,
     "wof:name":"E & P Supermarket",
     "wof:parent_id":85849097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.833472,33.511347,-86.833472,33.511347],
+  "bbox": [
+    -86.833472,
+    33.511347,
+    -86.833472,
+    33.511347
+],
   "geometry": {"coordinates":[-86.833472,33.511347],"type":"Point"}
 }

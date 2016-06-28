@@ -2,13 +2,14 @@
   "id": 152371333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.100058,33.635509,-86.100058,33.635509",
     "geom:latitude":33.635509,
     "geom:longitude":-86.100058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"78797 State Rte 77",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085517,
-        85633793,
         85688675,
-        85849013
+        85633793,
+        85849013,
+        102085517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152371333,
-    "wof:lastmodified":1449047892,
+    "wof:lastmodified":1466317800,
     "wof:name":"Steed Timber Co Inc",
     "wof:parent_id":85849013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.100058,33.635509,-86.100058,33.635509],
+  "bbox": [
+    -86.100058,
+    33.635509,
+    -86.100058,
+    33.635509
+],
   "geometry": {"coordinates":[-86.100058,33.635509],"type":"Point"}
 }

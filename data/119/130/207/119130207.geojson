@@ -2,13 +2,14 @@
   "id": 119130207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.671546,33.676351,-86.671546,33.676351",
     "geom:latitude":33.676351,
     "geom:longitude":-86.671546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3109 Fieldstone Cir",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":119130207,
-    "wof:lastmodified":1449041698,
+    "wof:lastmodified":1466314519,
     "wof:name":"Willoughby Services",
     "wof:parent_id":85914895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.671546,33.676351,-86.671546,33.676351],
-  "geometry": {"coordinates":[-86.671546,33.676351],"type":"Point"}
+  "bbox": [
+    -86.671546,
+    33.676351,
+    -86.671546,
+    33.676351
+],
+  "geometry": {"coordinates":[-86.67154600000001,33.676351],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152173805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.950848,33.430889,-86.950848,33.430889",
     "geom:latitude":33.430889,
     "geom:longitude":-86.950848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3801 Huntsville Ave",
     "sg:city":"Bessemer",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152173805,
-    "wof:lastmodified":1449045196,
+    "wof:lastmodified":1466315723,
     "wof:name":"Swans Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.950848,33.430889,-86.950848,33.430889],
-  "geometry": {"coordinates":[-86.950848,33.430889],"type":"Point"}
+  "bbox": [
+    -86.950848,
+    33.430889,
+    -86.950848,
+    33.430889
+],
+  "geometry": {"coordinates":[-86.95084799999999,33.430889],"type":"Point"}
 }

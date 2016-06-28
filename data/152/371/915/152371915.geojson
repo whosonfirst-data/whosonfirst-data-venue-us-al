@@ -2,13 +2,14 @@
   "id": 152371915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.482185,32.580603,-85.482185,32.580603",
     "geom:latitude":32.580603,
     "geom:longitude":-85.482185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"133 Kimberly Dr",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811511,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85811511
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152371915,
-    "wof:lastmodified":1449047891,
+    "wof:lastmodified":1466317718,
     "wof:name":"Skin Care Savvy",
     "wof:parent_id":85811511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.482185,32.580603,-85.482185,32.580603],
+  "bbox": [
+    -85.482185,
+    32.580603,
+    -85.482185,
+    32.580603
+],
   "geometry": {"coordinates":[-85.482185,32.580603],"type":"Point"}
 }

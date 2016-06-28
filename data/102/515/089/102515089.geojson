@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102515089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.580171,34.722208,-86.580171,34.722208",
     "geom:latitude":34.722208,
     "geom:longitude":-86.580171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"805 Madison St",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878239,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878239
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102515089,
-    "wof:lastmodified":1449068351,
+    "wof:lastmodified":1466316875,
     "wof:name":"Pullen Comprehensive",
     "wof:parent_id":85878239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.580171,34.722208,-86.580171,34.722208],
-  "geometry": {"coordinates":[-86.580171,34.722208],"type":"Point"}
+  "bbox": [
+    -86.580171,
+    34.722208,
+    -86.580171,
+    34.722208
+],
+  "geometry": {"coordinates":[-86.58017100000001,34.722208],"type":"Point"}
 }

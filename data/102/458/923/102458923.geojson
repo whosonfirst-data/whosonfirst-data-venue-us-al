@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102458923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.533406,34.77358,-86.533406,34.77358",
     "geom:latitude":34.77358,
     "geom:longitude":-86.533406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1717 US Hwy 72",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.wump.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833793,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85833793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102458923,
-    "wof:lastmodified":1449069519,
+    "wof:lastmodified":1466315033,
     "wof:name":"WUMP",
     "wof:parent_id":85833793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.533406,34.77358,-86.533406,34.77358],
+  "bbox": [
+    -86.533406,
+    34.77358,
+    -86.533406,
+    34.77358
+],
   "geometry": {"coordinates":[-86.533406,34.77358],"type":"Point"}
 }

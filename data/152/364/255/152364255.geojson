@@ -2,13 +2,14 @@
   "id": 152364255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.578498,33.218973,-87.578498,33.218973",
     "geom:latitude":33.218973,
     "geom:longitude":-87.578498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Main Ave",
     "sg:city":"Northport",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816127,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85816127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":152364255,
-    "wof:lastmodified":1449046896,
+    "wof:lastmodified":1466317777,
     "wof:name":"It's A Sure Fit",
     "wof:parent_id":85816127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.578498,33.218973,-87.578498,33.218973],
+  "bbox": [
+    -87.578498,
+    33.218973,
+    -87.578498,
+    33.218973
+],
   "geometry": {"coordinates":[-87.578498,33.218973],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102635305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.618693,34.79725,-86.618693,34.79725",
     "geom:latitude":34.79725,
     "geom:longitude":-86.618693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6001 Matter Pl NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102635305,
-    "wof:lastmodified":1449068801,
+    "wof:lastmodified":1466317667,
     "wof:name":"Video By Brookins",
     "wof:parent_id":85913601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.618693,34.79725,-86.618693,34.79725],
-  "geometry": {"coordinates":[-86.618693,34.79725],"type":"Point"}
+  "bbox": [
+    -86.618693,
+    34.79725,
+    -86.618693,
+    34.79725
+],
+  "geometry": {"coordinates":[-86.61869299999999,34.79725],"type":"Point"}
 }

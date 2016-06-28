@@ -2,13 +2,14 @@
   "id": 152794761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.863517,31.320032,-85.863517,31.320032",
     "geom:latitude":31.320032,
     "geom:longitude":-85.863517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"712 Damascus Rd",
     "sg:city":"Enterprise",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848823,
+        85688675,
         85633793,
         85899527,
         102085699,
-        85688675
+        85848823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152794761,
-    "wof:lastmodified":1449046525,
+    "wof:lastmodified":1466319811,
     "wof:name":"Enterprise Villas",
     "wof:parent_id":85848823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.863517,31.320032,-85.863517,31.320032],
+  "bbox": [
+    -85.863517,
+    31.320032,
+    -85.863517,
+    31.320032
+],
   "geometry": {"coordinates":[-85.863517,31.320032],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152506105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.285647,32.416507,-86.285647,32.416507",
     "geom:latitude":32.416507,
     "geom:longitude":-86.285647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2817 Lower Wetumpka Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85836773,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85836773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152506105,
-    "wof:lastmodified":1449044394,
+    "wof:lastmodified":1466318341,
     "wof:name":"99 Cents Avenue",
     "wof:parent_id":85836773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.285647,32.416507,-86.285647,32.416507],
+  "bbox": [
+    -86.285647,
+    32.416507,
+    -86.285647,
+    32.416507
+],
   "geometry": {"coordinates":[-86.285647,32.416507],"type":"Point"}
 }

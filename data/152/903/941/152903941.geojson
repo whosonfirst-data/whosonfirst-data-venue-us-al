@@ -2,13 +2,14 @@
   "id": 152903941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.979711,34.404546,-85.979711,34.404546",
     "geom:latitude":34.404546,
     "geom:longitude":-85.979711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"610 Co Rd 883",
     "sg:city":"Fyffe",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815015,
+        85688675,
         85633793,
         85897515,
         102085615,
-        85688675
+        85815015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152903941,
-    "wof:lastmodified":1449044574,
+    "wof:lastmodified":1466320407,
     "wof:name":"Lees Prof Extermination",
     "wof:parent_id":85815015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.979711,34.404546,-85.979711,34.404546],
-  "geometry": {"coordinates":[-85.979711,34.404546],"type":"Point"}
+  "bbox": [
+    -85.979711,
+    34.404546,
+    -85.979711,
+    34.404546
+],
+  "geometry": {"coordinates":[-85.97971099999999,34.404546],"type":"Point"}
 }

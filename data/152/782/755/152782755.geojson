@@ -2,13 +2,14 @@
   "id": 152782755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.488402,32.632108,-86.488402,32.632108",
     "geom:latitude":32.632108,
     "geom:longitude":-86.488402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2575 US Hwy 31",
     "sg:city":"Deatsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831059,
+        85688675,
         85633793,
         85913977,
         102085509,
-        85688675
+        85831059
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152782755,
-    "wof:lastmodified":1449044266,
+    "wof:lastmodified":1466319764,
     "wof:name":"Rack Impressions",
     "wof:parent_id":85831059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.488402,32.632108,-86.488402,32.632108],
-  "geometry": {"coordinates":[-86.488402,32.632108],"type":"Point"}
+  "bbox": [
+    -86.488402,
+    32.632108,
+    -86.488402,
+    32.632108
+],
+  "geometry": {"coordinates":[-86.48840199999999,32.632108],"type":"Point"}
 }

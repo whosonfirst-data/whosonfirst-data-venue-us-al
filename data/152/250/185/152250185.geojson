@@ -2,13 +2,14 @@
   "id": 152250185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.713127,34.42476,-85.713127,34.42476",
     "geom:latitude":34.42476,
     "geom:longitude":-85.713127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Scenic Rd E",
     "sg:city":"Fort Payne",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834595,
+        85688675,
         85633793,
         85897515,
         102085615,
-        85688675
+        85834595
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152250185,
-    "wof:lastmodified":1449046940,
+    "wof:lastmodified":1466316529,
     "wof:name":"Vanity Flair Beauty Salon",
     "wof:parent_id":85834595,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.713127,34.42476,-85.713127,34.42476],
+  "bbox": [
+    -85.713127,
+    34.42476,
+    -85.713127,
+    34.42476
+],
   "geometry": {"coordinates":[-85.713127,34.42476],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152776165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.811083,33.616298,-85.811083,33.616298",
     "geom:latitude":33.616298,
     "geom:longitude":-85.811083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1335 Butler St",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827499,
+        85688675,
         85633793,
         85914159,
         102085603,
-        85688675
+        85827499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152776165,
-    "wof:lastmodified":1449045312,
+    "wof:lastmodified":1466319726,
     "wof:name":"SYSTEMS By Design",
     "wof:parent_id":85827499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.811083,33.616298,-85.811083,33.616298],
+  "bbox": [
+    -85.811083,
+    33.616298,
+    -85.811083,
+    33.616298
+],
   "geometry": {"coordinates":[-85.811083,33.616298],"type":"Point"}
 }

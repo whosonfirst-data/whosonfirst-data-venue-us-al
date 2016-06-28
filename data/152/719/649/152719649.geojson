@@ -2,13 +2,14 @@
   "id": 152719649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.447441,31.233615,-85.447441,31.233615",
     "geom:latitude":31.233615,
     "geom:longitude":-85.447441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Hidden Glen Way",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805317,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85805317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152719649,
-    "wof:lastmodified":1449044902,
+    "wof:lastmodified":1466319437,
     "wof:name":"Therapeutic Programs Inc",
     "wof:parent_id":85805317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.447441,31.233615,-85.447441,31.233615],
+  "bbox": [
+    -85.447441,
+    31.233615,
+    -85.447441,
+    31.233615
+],
   "geometry": {"coordinates":[-85.447441,31.233615],"type":"Point"}
 }

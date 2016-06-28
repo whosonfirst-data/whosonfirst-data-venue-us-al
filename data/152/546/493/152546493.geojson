@@ -2,13 +2,14 @@
   "id": 152546493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.531516,34.701122,-86.531516,34.701122",
     "geom:latitude":34.701122,
     "geom:longitude":-86.531516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1620 Chandler Dr SE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854251,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85854251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152546493,
-    "wof:lastmodified":1449044278,
+    "wof:lastmodified":1466318590,
     "wof:name":"International Home Quarters",
     "wof:parent_id":85854251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.531516,34.701122,-86.531516,34.701122],
+  "bbox": [
+    -86.531516,
+    34.701122,
+    -86.531516,
+    34.701122
+],
   "geometry": {"coordinates":[-86.531516,34.701122],"type":"Point"}
 }

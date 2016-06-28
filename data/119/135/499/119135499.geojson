@@ -2,13 +2,14 @@
   "id": 119135499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.836499,33.406751,-86.836499,33.406751",
     "geom:latitude":33.406751,
     "geom:longitude":-86.836499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"582 Turtle Creek Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805457,
+        85688675,
         85633793,
         85914475,
         102085481,
-        85688675
+        85805457
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":119135499,
-    "wof:lastmodified":1449041787,
+    "wof:lastmodified":1466314709,
     "wof:name":"Leveille Associates LLC",
     "wof:parent_id":85805457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.836499,33.406751,-86.836499,33.406751],
+  "bbox": [
+    -86.836499,
+    33.406751,
+    -86.836499,
+    33.406751
+],
   "geometry": {"coordinates":[-86.836499,33.406751],"type":"Point"}
 }

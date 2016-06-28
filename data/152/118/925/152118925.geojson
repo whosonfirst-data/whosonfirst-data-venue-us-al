@@ -2,13 +2,14 @@
   "id": 152118925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.62833,30.377704,-87.62833,30.377704",
     "geom:latitude":30.377704,
     "geom:longitude":-87.62833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12147 Sandy Creek Rd",
     "sg:city":"Foley",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868551,
+        85688675,
         85633793,
         85914719,
         102085469,
-        85688675
+        85868551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152118925,
-    "wof:lastmodified":1449048032,
+    "wof:lastmodified":1466314479,
     "wof:name":"Alabama Vintage Auto",
     "wof:parent_id":85868551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.62833,30.377704,-87.62833,30.377704],
-  "geometry": {"coordinates":[-87.62833,30.377704],"type":"Point"}
+  "bbox": [
+    -87.62833,
+    30.377704,
+    -87.62833,
+    30.377704
+],
+  "geometry": {"coordinates":[-87.62833000000001,30.377704],"type":"Point"}
 }

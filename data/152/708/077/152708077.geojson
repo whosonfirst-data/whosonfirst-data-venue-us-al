@@ -2,13 +2,14 @@
   "id": 152708077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.204595,32.385072,-86.204595,32.385072",
     "geom:latitude":32.385072,
     "geom:longitude":-86.204595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1030 Eastdale Mall",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834995,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85834995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152708077,
-    "wof:lastmodified":1449045028,
+    "wof:lastmodified":1466319378,
     "wof:name":"Hat Shack",
     "wof:parent_id":85834995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.204595,32.385072,-86.204595,32.385072],
+  "bbox": [
+    -86.204595,
+    32.385072,
+    -86.204595,
+    32.385072
+],
   "geometry": {"coordinates":[-86.204595,32.385072],"type":"Point"}
 }

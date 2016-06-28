@@ -2,13 +2,14 @@
   "id": 152365037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.397871,32.657195,-85.397871,32.657195",
     "geom:latitude":32.657195,
     "geom:longitude":-85.397871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 Piedmont Ave",
     "sg:city":"Opelika",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85857153,
+        85688675,
         85633793,
         85913815,
         102085751,
-        85688675,
+        85857153,
         85819517
     ],
     "wof:breaches":[],
@@ -60,14 +61,20 @@
         }
     ],
     "wof:id":152365037,
-    "wof:lastmodified":1449045053,
+    "wof:lastmodified":1466317653,
     "wof:name":"Minute Man Car Care Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.397871,32.657195,-85.397871,32.657195],
-  "geometry": {"coordinates":[-85.397871,32.657195],"type":"Point"}
+  "bbox": [
+    -85.397871,
+    32.657195,
+    -85.397871,
+    32.657195
+],
+  "geometry": {"coordinates":[-85.39787099999999,32.657195],"type":"Point"}
 }

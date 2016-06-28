@@ -2,13 +2,14 @@
   "id": 152292383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.693508,33.579026,-86.693508,33.579026",
     "geom:latitude":33.579026,
     "geom:longitude":-86.693508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"632 Hickory St",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152292383,
-    "wof:lastmodified":1449044689,
+    "wof:lastmodified":1466317032,
     "wof:name":"Things I Like Birmingham",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.693508,33.579026,-86.693508,33.579026],
-  "geometry": {"coordinates":[-86.693508,33.579026],"type":"Point"}
+  "bbox": [
+    -86.693508,
+    33.579026,
+    -86.693508,
+    33.579026
+],
+  "geometry": {"coordinates":[-86.69350799999999,33.579026],"type":"Point"}
 }

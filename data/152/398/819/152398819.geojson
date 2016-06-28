@@ -2,13 +2,14 @@
   "id": 152398819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.803567,33.510793,-86.803567,33.510793",
     "geom:latitude":33.510793,
     "geom:longitude":-86.803567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1922 2nd Ave S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.adamsonford.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819533,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675,
+        85819533,
         85876269
     ],
     "wof:breaches":[],
@@ -62,14 +63,20 @@
         }
     ],
     "wof:id":152398819,
-    "wof:lastmodified":1449044671,
+    "wof:lastmodified":1466317863,
     "wof:name":"Adamson Ford",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.803567,33.510793,-86.803567,33.510793],
+  "bbox": [
+    -86.803567,
+    33.510793,
+    -86.803567,
+    33.510793
+],
   "geometry": {"coordinates":[-86.803567,33.510793],"type":"Point"}
 }

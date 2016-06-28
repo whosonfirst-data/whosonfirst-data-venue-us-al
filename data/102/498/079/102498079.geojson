@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102498079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.63832,34.743829,-87.63832,34.743829",
     "geom:latitude":34.743829,
     "geom:longitude":-87.63832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Alabama Ave",
     "sg:city":"Muscle Shoals",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816399,
+        85688675,
         85633793,
         85897481,
         102085625,
-        85688675
+        85816399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102498079,
-    "wof:lastmodified":1449069609,
+    "wof:lastmodified":1466316319,
     "wof:name":"Sunbridge Care/Rehab For Muscl",
     "wof:parent_id":85816399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.63832,34.743829,-87.63832,34.743829],
-  "geometry": {"coordinates":[-87.63832,34.743829],"type":"Point"}
+  "bbox": [
+    -87.63832,
+    34.743829,
+    -87.63832,
+    34.743829
+],
+  "geometry": {"coordinates":[-87.63831999999999,34.743829],"type":"Point"}
 }

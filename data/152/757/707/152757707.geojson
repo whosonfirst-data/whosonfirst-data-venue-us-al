@@ -2,13 +2,14 @@
   "id": 152757707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.835958,33.405188,-86.835958,33.405188",
     "geom:latitude":33.405188,
     "geom:longitude":-86.835958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2504 Hawksbury Ln",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805457,
+        85688675,
         85633793,
         85914475,
         102085481,
-        85688675
+        85805457
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152757707,
-    "wof:lastmodified":1449046910,
+    "wof:lastmodified":1466319654,
     "wof:name":"Chalk It Up",
     "wof:parent_id":85805457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.835958,33.405188,-86.835958,33.405188],
-  "geometry": {"coordinates":[-86.835958,33.405188],"type":"Point"}
+  "bbox": [
+    -86.835958,
+    33.405188,
+    -86.835958,
+    33.405188
+],
+  "geometry": {"coordinates":[-86.83595800000001,33.405188],"type":"Point"}
 }

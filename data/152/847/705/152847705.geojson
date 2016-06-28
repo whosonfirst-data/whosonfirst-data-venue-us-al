@@ -2,13 +2,14 @@
   "id": 152847705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.283119,32.362679,-86.283119,32.362679",
     "geom:latitude":32.362679,
     "geom:longitude":-86.283119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1803 W 4th St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825725,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85825725
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152847705,
-    "wof:lastmodified":1449045991,
+    "wof:lastmodified":1466320098,
     "wof:name":"Ronnie Pollard MD",
     "wof:parent_id":85825725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.283119,32.362679,-86.283119,32.362679],
+  "bbox": [
+    -86.283119,
+    32.362679,
+    -86.283119,
+    32.362679
+],
   "geometry": {"coordinates":[-86.283119,32.362679],"type":"Point"}
 }

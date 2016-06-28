@@ -2,13 +2,14 @@
   "id": 152335115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.601976,32.70075,-87.601976,32.70075",
     "geom:latitude":32.70075,
     "geom:longitude":-87.601976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2050 State St",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152335115,
-    "wof:lastmodified":1449047343,
+    "wof:lastmodified":1466317335,
     "wof:name":"Richeys Deer Processing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.601976,32.70075,-87.601976,32.70075],
-  "geometry": {"coordinates":[-87.601976,32.70075],"type":"Point"}
+  "bbox": [
+    -87.601976,
+    32.70075,
+    -87.601976,
+    32.70075
+],
+  "geometry": {"coordinates":[-87.60197599999999,32.70075],"type":"Point"}
 }

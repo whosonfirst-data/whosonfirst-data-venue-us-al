@@ -2,13 +2,14 @@
   "id": 152423911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.617351,34.712824,-86.617351,34.712824",
     "geom:latitude":34.712824,
     "geom:longitude":-86.617351,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3601 Bob Wallace Ave SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -33,11 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825531,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85825531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":152423911,
-    "wof:lastmodified":1449045070,
+    "wof:lastmodified":1466317987,
     "wof:name":"Valley Garden Activity Ctr",
     "wof:parent_id":85825531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.617351,34.712824,-86.617351,34.712824],
+  "bbox": [
+    -86.617351,
+    34.712824,
+    -86.617351,
+    34.712824
+],
   "geometry": {"coordinates":[-86.617351,34.712824],"type":"Point"}
 }

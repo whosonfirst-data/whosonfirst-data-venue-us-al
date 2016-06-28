@@ -2,13 +2,14 @@
   "id": 152445833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.335833,31.502726,-87.335833,31.502726",
     "geom:latitude":31.502726,
     "geom:longitude":-87.335833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1290 S Mount Pleasant Ave",
     "sg:city":"Monroeville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152445833,
-    "wof:lastmodified":1449044921,
+    "wof:lastmodified":1466318071,
     "wof:name":"Greentree Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.335833,31.502726,-87.335833,31.502726],
-  "geometry": {"coordinates":[-87.335833,31.502726],"type":"Point"}
+  "bbox": [
+    -87.335833,
+    31.502726,
+    -87.335833,
+    31.502726
+],
+  "geometry": {"coordinates":[-87.33583299999999,31.502726],"type":"Point"}
 }

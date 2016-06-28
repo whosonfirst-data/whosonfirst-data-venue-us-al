@@ -2,13 +2,14 @@
   "id": 102624643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.839734,31.320585,-85.839734,31.320585",
     "geom:latitude":31.320585,
     "geom:longitude":-85.839734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"557 Glover Ave",
     "sg:city":"Enterprise",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827323,
+        85688675,
         85633793,
         85899527,
         102085699,
-        85688675
+        85827323
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102624643,
-    "wof:lastmodified":1449069454,
+    "wof:lastmodified":1466317482,
     "wof:name":"Wiregrass Hospice Enterprise",
     "wof:parent_id":85827323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.839734,31.320585,-85.839734,31.320585],
-  "geometry": {"coordinates":[-85.839734,31.320585],"type":"Point"}
+  "bbox": [
+    -85.839734,
+    31.320585,
+    -85.839734,
+    31.320585
+],
+  "geometry": {"coordinates":[-85.83973400000001,31.320585],"type":"Point"}
 }

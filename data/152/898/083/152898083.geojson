@@ -2,13 +2,14 @@
   "id": 152898083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.608866,34.719397,-86.608866,34.719397",
     "geom:latitude":34.719397,
     "geom:longitude":-86.608866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2707 W Clinton Ave",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825531,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85825531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":152898083,
-    "wof:lastmodified":1449044187,
+    "wof:lastmodified":1466320315,
     "wof:name":"Fidelity Tax and Payroll Svcs",
     "wof:parent_id":85825531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.608866,34.719397,-86.608866,34.719397],
-  "geometry": {"coordinates":[-86.608866,34.719397],"type":"Point"}
+  "bbox": [
+    -86.608866,
+    34.719397,
+    -86.608866,
+    34.719397
+],
+  "geometry": {"coordinates":[-86.60886600000001,34.719397],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152566895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.39185,31.256896,-85.39185,31.256896",
     "geom:latitude":31.256896,
     "geom:longitude":-85.39185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"255 Murray Rd",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859419,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85859419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152566895,
-    "wof:lastmodified":1449044392,
+    "wof:lastmodified":1466318732,
     "wof:name":"Screen Solutions",
     "wof:parent_id":85859419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.39185,31.256896,-85.39185,31.256896],
-  "geometry": {"coordinates":[-85.39185,31.256896],"type":"Point"}
+  "bbox": [
+    -85.39185,
+    31.256896,
+    -85.39185,
+    31.256896
+],
+  "geometry": {"coordinates":[-85.39185000000001,31.256896],"type":"Point"}
 }

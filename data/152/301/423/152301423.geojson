@@ -2,13 +2,14 @@
   "id": 152301423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.426058,32.460517,-86.426058,32.460517",
     "geom:latitude":32.460517,
     "geom:longitude":-86.426058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1595 E Main St",
     "sg:city":"Prattville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.baptistfirst.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858707,
+        85688675,
         85633793,
         85913977,
         102085509,
-        85688675
+        85858707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152301423,
-    "wof:lastmodified":1449045475,
+    "wof:lastmodified":1466317143,
     "wof:name":"Primed Silver Hills Prattville",
     "wof:parent_id":85858707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.426058,32.460517,-86.426058,32.460517],
+  "bbox": [
+    -86.426058,
+    32.460517,
+    -86.426058,
+    32.460517
+],
   "geometry": {"coordinates":[-86.426058,32.460517],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152851737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.920656,34.530398,-86.920656,34.530398",
     "geom:latitude":34.530398,
     "geom:longitude":-86.920656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4017 Indian Hills Rd SE",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.stillmeadow.bigstep.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813087,
+        85688675,
         85633793,
         85913589,
         102085531,
-        85688675
+        85813087
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152851737,
-    "wof:lastmodified":1449047341,
+    "wof:lastmodified":1466320111,
     "wof:name":"Stillmeadow Learning Center",
     "wof:parent_id":85813087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.920656,34.530398,-86.920656,34.530398],
-  "geometry": {"coordinates":[-86.920656,34.530398],"type":"Point"}
+  "bbox": [
+    -86.920656,
+    34.530398,
+    -86.920656,
+    34.530398
+],
+  "geometry": {"coordinates":[-86.92065599999999,34.530398],"type":"Point"}
 }

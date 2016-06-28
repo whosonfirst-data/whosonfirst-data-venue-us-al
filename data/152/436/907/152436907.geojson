@@ -2,13 +2,14 @@
   "id": 152436907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.830271,33.459756,-86.830271,33.459756",
     "geom:latitude":33.459756,
     "geom:longitude":-86.830271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"159 Oxmoor Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817409,
+        85688675,
         85633793,
         85914847,
         102085481,
-        85688675
+        85817409
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152436907,
-    "wof:lastmodified":1449048478,
+    "wof:lastmodified":1466317831,
     "wof:name":"Crown Services LLC",
     "wof:parent_id":85817409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.830271,33.459756,-86.830271,33.459756],
+  "bbox": [
+    -86.830271,
+    33.459756,
+    -86.830271,
+    33.459756
+],
   "geometry": {"coordinates":[-86.830271,33.459756],"type":"Point"}
 }

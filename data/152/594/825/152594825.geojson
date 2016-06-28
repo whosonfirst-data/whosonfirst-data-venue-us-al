@@ -2,13 +2,14 @@
   "id": 152594825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.044396,32.499079,-85.044396,32.499079",
     "geom:latitude":32.499079,
     "geom:longitude":-85.044396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3708 S Railroad St",
     "sg:city":"Phenix City",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829585,
+        85688675,
         85633793,
         85913715,
         102085697,
-        85688675
+        85829585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152594825,
-    "wof:lastmodified":1449044968,
+    "wof:lastmodified":1466318833,
     "wof:name":"Splash Car Wash",
     "wof:parent_id":85829585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.044396,32.499079,-85.044396,32.499079],
-  "geometry": {"coordinates":[-85.044396,32.499079],"type":"Point"}
+  "bbox": [
+    -85.044396,
+    32.499079,
+    -85.044396,
+    32.499079
+],
+  "geometry": {"coordinates":[-85.04439600000001,32.499079],"type":"Point"}
 }

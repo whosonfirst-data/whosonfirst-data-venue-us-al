@@ -2,13 +2,14 @@
   "id": 152689731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.718391,33.381893,-86.718391,33.381893",
     "geom:latitude":33.381893,
     "geom:longitude":-86.718391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5247 Willow Way",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85826093
+        85633793,
+        85826093,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152689731,
-    "wof:lastmodified":1449048142,
+    "wof:lastmodified":1466319080,
     "wof:name":"Denyse Signs",
     "wof:parent_id":85826093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.718391,33.381893,-86.718391,33.381893],
+  "bbox": [
+    -86.718391,
+    33.381893,
+    -86.718391,
+    33.381893
+],
   "geometry": {"coordinates":[-86.718391,33.381893],"type":"Point"}
 }

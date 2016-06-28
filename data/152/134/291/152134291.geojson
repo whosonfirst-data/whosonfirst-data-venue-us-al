@@ -2,13 +2,14 @@
   "id": 152134291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.085289,33.558322,-86.085289,33.558322",
     "geom:latitude":33.558322,
     "geom:longitude":-86.085289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8040 Jackson Trace Rd",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085517,
-        85633793,
         85688675,
-        85849013
+        85633793,
+        85849013,
+        102085517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152134291,
-    "wof:lastmodified":1449048662,
+    "wof:lastmodified":1466315224,
     "wof:name":"Johnson Enterprises",
     "wof:parent_id":85849013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.085289,33.558322,-86.085289,33.558322],
+  "bbox": [
+    -86.085289,
+    33.558322,
+    -86.085289,
+    33.558322
+],
   "geometry": {"coordinates":[-86.085289,33.558322],"type":"Point"}
 }

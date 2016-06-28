@@ -2,13 +2,14 @@
   "id": 152263075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.343288,32.358381,-86.343288,32.358381",
     "geom:latitude":32.358381,
     "geom:longitude":-86.343288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1852 Terminal Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152263075,
-    "wof:lastmodified":1449048780,
+    "wof:lastmodified":1466316763,
     "wof:name":"County of Montgomery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.343288,32.358381,-86.343288,32.358381],
+  "bbox": [
+    -86.343288,
+    32.358381,
+    -86.343288,
+    32.358381
+],
   "geometry": {"coordinates":[-86.343288,32.358381],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152371805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.045949,33.308953,-87.045949,33.308953",
     "geom:latitude":33.308953,
     "geom:longitude":-87.045949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6942 Old Tuscaloosa Hwy",
     "sg:city":"Mc Calla",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":152371805,
-    "wof:lastmodified":1449047886,
+    "wof:lastmodified":1466317711,
     "wof:name":"Green Lantern",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.045949,33.308953,-87.045949,33.308953],
-  "geometry": {"coordinates":[-87.045949,33.308953],"type":"Point"}
+  "bbox": [
+    -87.045949,
+    33.308953,
+    -87.045949,
+    33.308953
+],
+  "geometry": {"coordinates":[-87.04594899999999,33.308953],"type":"Point"}
 }

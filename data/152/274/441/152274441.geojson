@@ -2,13 +2,14 @@
   "id": 152274441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.71685,33.500959,-86.71685,33.500959",
     "geom:latitude":33.500959,
     "geom:longitude":-86.71685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3665 Rockhill Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085481,
-        85633793,
         85688675,
-        85810623
+        85633793,
+        85810623,
+        102085481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152274441,
-    "wof:lastmodified":1449044867,
+    "wof:lastmodified":1466316846,
     "wof:name":"B M C Associates",
     "wof:parent_id":85810623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.71685,33.500959,-86.71685,33.500959],
-  "geometry": {"coordinates":[-86.71685,33.500959],"type":"Point"}
+  "bbox": [
+    -86.71685,
+    33.500959,
+    -86.71685,
+    33.500959
+],
+  "geometry": {"coordinates":[-86.71684999999999,33.500959],"type":"Point"}
 }

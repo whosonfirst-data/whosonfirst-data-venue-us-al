@@ -2,13 +2,14 @@
   "id": 152717395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.502959,34.320392,-86.502959,34.320392",
     "geom:latitude":34.320392,
     "geom:longitude":-86.502959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 N Brindlee Mountain Pkwy",
     "sg:city":"Arab",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851541,
+        85688675,
         85633793,
         85913243,
         102085513,
-        85688675
+        85851541
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152717395,
-    "wof:lastmodified":1449044418,
+    "wof:lastmodified":1466319407,
     "wof:name":"Parts Connection Inc",
     "wof:parent_id":85851541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.502959,34.320392,-86.502959,34.320392],
+  "bbox": [
+    -86.502959,
+    34.320392,
+    -86.502959,
+    34.320392
+],
   "geometry": {"coordinates":[-86.502959,34.320392],"type":"Point"}
 }

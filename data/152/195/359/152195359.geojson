@@ -2,13 +2,14 @@
   "id": 152195359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.680718,34.748265,-87.680718,34.748265",
     "geom:latitude":34.748265,
     "geom:longitude":-87.680718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"422 Cox Blvd",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816399,
+        85688675,
         85633793,
         85897481,
         102085625,
-        85688675
+        85816399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152195359,
-    "wof:lastmodified":1449047333,
+    "wof:lastmodified":1466315874,
     "wof:name":"Shoals Area Clinic",
     "wof:parent_id":85816399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.680718,34.748265,-87.680718,34.748265],
+  "bbox": [
+    -87.680718,
+    34.748265,
+    -87.680718,
+    34.748265
+],
   "geometry": {"coordinates":[-87.680718,34.748265],"type":"Point"}
 }

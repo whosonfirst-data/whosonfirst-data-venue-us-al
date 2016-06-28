@@ -2,13 +2,14 @@
   "id": 152610465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.766115,33.52434,-86.766115,33.52434",
     "geom:latitude":33.52434,
     "geom:longitude":-86.766115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4405 6th Ave S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876275,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152610465,
-    "wof:lastmodified":1449048836,
+    "wof:lastmodified":1466318884,
     "wof:name":"Legal Temps",
     "wof:parent_id":85876275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.766115,33.52434,-86.766115,33.52434],
+  "bbox": [
+    -86.766115,
+    33.52434,
+    -86.766115,
+    33.52434
+],
   "geometry": {"coordinates":[-86.766115,33.52434],"type":"Point"}
 }

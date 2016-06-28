@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102456647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.955415,33.400367,-86.955415,33.400367",
     "geom:latitude":33.400367,
     "geom:longitude":-86.955415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1604 3rd Ave N",
     "sg:city":"Bessemer",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807371,
+        85688675,
         85633793,
         85914885,
         102085481,
-        85688675
+        85807371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102456647,
-    "wof:lastmodified":1449068493,
+    "wof:lastmodified":1466314920,
     "wof:name":"Andrew La Plante",
     "wof:parent_id":85807371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.955415,33.400367,-86.955415,33.400367],
+  "bbox": [
+    -86.955415,
+    33.400367,
+    -86.955415,
+    33.400367
+],
   "geometry": {"coordinates":[-86.955415,33.400367],"type":"Point"}
 }

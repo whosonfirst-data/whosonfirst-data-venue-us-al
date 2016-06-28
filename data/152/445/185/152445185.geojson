@@ -2,13 +2,14 @@
   "id": 152445185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.16558,32.069155,-88.16558,32.069155",
     "geom:latitude":32.069155,
     "geom:longitude":-88.16558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2175 Co Rd 43",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822759,
+        85688675,
         85633793,
         85899781,
         102085727,
-        85688675
+        85822759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152445185,
-    "wof:lastmodified":1449044922,
+    "wof:lastmodified":1466318119,
     "wof:name":"P B's Lounge",
     "wof:parent_id":85822759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.16558,32.069155,-88.16558,32.069155],
-  "geometry": {"coordinates":[-88.16558,32.069155],"type":"Point"}
+  "bbox": [
+    -88.16558,
+    32.069155,
+    -88.16558,
+    32.069155
+],
+  "geometry": {"coordinates":[-88.16558000000001,32.069155],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152247585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.833492,31.320494,-85.833492,31.320494",
     "geom:latitude":31.320494,
     "geom:longitude":-85.833492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"903 N Ouida St",
     "sg:city":"Enterprise",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827323,
+        85688675,
         85633793,
         85899527,
         102085699,
-        85688675
+        85827323
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152247585,
-    "wof:lastmodified":1449047010,
+    "wof:lastmodified":1466316500,
     "wof:name":"Sessions Cleaners",
     "wof:parent_id":85827323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.833492,31.320494,-85.833492,31.320494],
-  "geometry": {"coordinates":[-85.833492,31.320494],"type":"Point"}
+  "bbox": [
+    -85.833492,
+    31.320494,
+    -85.833492,
+    31.320494
+],
+  "geometry": {"coordinates":[-85.83349200000001,31.320494],"type":"Point"}
 }

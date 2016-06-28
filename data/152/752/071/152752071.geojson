@@ -2,13 +2,14 @@
   "id": 152752071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.059862,34.878959,-87.059862,34.878959",
     "geom:latitude":34.878959,
     "geom:longitude":-87.059862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14630 Section Line Rd",
     "sg:city":"Elkmont",
     "sg:classifiers":[
@@ -33,11 +34,11 @@
     "sg:website":"www.hicesewing.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829531,
+        85688675,
         85633793,
         85913543,
         102085489,
-        85688675
+        85829531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":152752071,
-    "wof:lastmodified":1449045082,
+    "wof:lastmodified":1466319527,
     "wof:name":"Hice Sewing Inc",
     "wof:parent_id":85829531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.059862,34.878959,-87.059862,34.878959],
+  "bbox": [
+    -87.059862,
+    34.878959,
+    -87.059862,
+    34.878959
+],
   "geometry": {"coordinates":[-87.059862,34.878959],"type":"Point"}
 }

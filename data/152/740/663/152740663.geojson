@@ -2,13 +2,14 @@
   "id": 152740663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.686027,30.418262,-87.686027,30.418262",
     "geom:latitude":30.418262,
     "geom:longitude":-87.686027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 W Berry Ave",
     "sg:city":"Foley",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868551,
+        85688675,
         85633793,
         85914719,
         102085469,
-        85688675
+        85868551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152740663,
-    "wof:lastmodified":1449046406,
+    "wof:lastmodified":1466319675,
     "wof:name":"Foley Apostolic Church",
     "wof:parent_id":85868551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.686027,30.418262,-87.686027,30.418262],
+  "bbox": [
+    -87.686027,
+    30.418262,
+    -87.686027,
+    30.418262
+],
   "geometry": {"coordinates":[-87.686027,30.418262],"type":"Point"}
 }

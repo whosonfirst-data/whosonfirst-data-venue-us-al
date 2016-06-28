@@ -2,13 +2,14 @@
   "id": 152389367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.663063,33.415365,-86.663063,33.415365",
     "geom:latitude":33.415365,
     "geom:longitude":-86.663063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Village St",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85833411
+        85633793,
+        85833411,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152389367,
-    "wof:lastmodified":1449047974,
+    "wof:lastmodified":1466317949,
     "wof:name":"Kidder Financial Group Inc",
     "wof:parent_id":85833411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.663063,33.415365,-86.663063,33.415365],
-  "geometry": {"coordinates":[-86.663063,33.415365],"type":"Point"}
+  "bbox": [
+    -86.663063,
+    33.415365,
+    -86.663063,
+    33.415365
+],
+  "geometry": {"coordinates":[-86.66306299999999,33.415365],"type":"Point"}
 }

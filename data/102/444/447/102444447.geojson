@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102444447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.752919,33.104885,-86.752919,33.104885",
     "geom:latitude":33.104885,
     "geom:longitude":-86.752919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8120 US Hwy 31",
     "sg:city":"Calera",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85849529
+        85633793,
+        85849529,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102444447,
-    "wof:lastmodified":1449069844,
+    "wof:lastmodified":1466314400,
     "wof:name":"Smitherman's Pharmacy",
     "wof:parent_id":85849529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.752919,33.104885,-86.752919,33.104885],
-  "geometry": {"coordinates":[-86.752919,33.104885],"type":"Point"}
+  "bbox": [
+    -86.752919,
+    33.104885,
+    -86.752919,
+    33.104885
+],
+  "geometry": {"coordinates":[-86.75291900000001,33.104885],"type":"Point"}
 }

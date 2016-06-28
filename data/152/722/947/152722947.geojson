@@ -2,13 +2,14 @@
   "id": 152722947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.838882,34.179471,-86.838882,34.179471",
     "geom:latitude":34.179471,
     "geom:longitude":-86.838882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 1st St NE",
     "sg:city":"Cullman",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867305,
+        85688675,
         85633793,
         85914167,
         102085729,
-        85688675
+        85867305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152722947,
-    "wof:lastmodified":1449045933,
+    "wof:lastmodified":1466319539,
     "wof:name":"Chiropractor Arts",
     "wof:parent_id":85867305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.838882,34.179471,-86.838882,34.179471],
+  "bbox": [
+    -86.838882,
+    34.179471,
+    -86.838882,
+    34.179471
+],
   "geometry": {"coordinates":[-86.838882,34.179471],"type":"Point"}
 }

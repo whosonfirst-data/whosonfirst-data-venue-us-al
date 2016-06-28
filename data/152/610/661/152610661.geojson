@@ -2,13 +2,14 @@
   "id": 152610661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.497395,32.612459,-85.497395,32.612459",
     "geom:latitude":32.612459,
     "geom:longitude":-85.497395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"713 Stubb Ave",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809707,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85809707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152610661,
-    "wof:lastmodified":1449048835,
+    "wof:lastmodified":1466318897,
     "wof:name":"Reneas Day Care",
     "wof:parent_id":85809707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.497395,32.612459,-85.497395,32.612459],
+  "bbox": [
+    -85.497395,
+    32.612459,
+    -85.497395,
+    32.612459
+],
   "geometry": {"coordinates":[-85.497395,32.612459],"type":"Point"}
 }

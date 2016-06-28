@@ -2,13 +2,14 @@
   "id": 102620427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.359326,33.303699,-85.359326,33.303699",
     "geom:latitude":33.303699,
     "geom:longitude":-85.359326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Co Rd 624",
     "sg:city":"Woodland",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":102620427,
-    "wof:lastmodified":1449069983,
+    "wof:lastmodified":1466317421,
     "wof:name":"Micro Tech",
     "wof:parent_id":85688675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.359326,33.303699,-85.359326,33.303699],
+  "bbox": [
+    -85.359326,
+    33.303699,
+    -85.359326,
+    33.303699
+],
   "geometry": {"coordinates":[-85.359326,33.303699],"type":"Point"}
 }

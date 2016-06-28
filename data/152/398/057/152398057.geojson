@@ -2,13 +2,14 @@
   "id": 152398057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.034455,34.108089,-86.034455,34.108089",
     "geom:latitude":34.108089,
     "geom:longitude":-86.034455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7127 Duck Springs Rd",
     "sg:city":"Attalla",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802495,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85802495
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152398057,
-    "wof:lastmodified":1449044676,
+    "wof:lastmodified":1466318009,
     "wof:name":"David Carnes",
     "wof:parent_id":85802495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.034455,34.108089,-86.034455,34.108089],
-  "geometry": {"coordinates":[-86.034455,34.108089],"type":"Point"}
+  "bbox": [
+    -86.034455,
+    34.108089,
+    -86.034455,
+    34.108089
+],
+  "geometry": {"coordinates":[-86.03445499999999,34.108089],"type":"Point"}
 }

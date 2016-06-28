@@ -2,13 +2,14 @@
   "id": 152425037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.83657,33.452862,-86.83657,33.452862",
     "geom:latitude":33.452862,
     "geom:longitude":-86.83657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 Oxmoor Cir",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829599,
+        85688675,
         85633793,
         85914847,
         102085481,
-        85688675
+        85829599
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152425037,
-    "wof:lastmodified":1449045943,
+    "wof:lastmodified":1466317949,
     "wof:name":"N A SGS Inc",
     "wof:parent_id":85829599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.83657,33.452862,-86.83657,33.452862],
-  "geometry": {"coordinates":[-86.83657,33.452862],"type":"Point"}
+  "bbox": [
+    -86.83657,
+    33.452862,
+    -86.83657,
+    33.452862
+],
+  "geometry": {"coordinates":[-86.83656999999999,33.452862],"type":"Point"}
 }

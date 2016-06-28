@@ -2,13 +2,14 @@
   "id": 152675691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.945745,31.794789,-85.945745,31.794789",
     "geom:latitude":31.794789,
     "geom:longitude":-85.945745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 Sussex Ave",
     "sg:city":"Troy",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867315,
+        85688675,
         85633793,
         85914551,
         102085619,
-        85688675
+        85867315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152675691,
-    "wof:lastmodified":1449046647,
+    "wof:lastmodified":1466319225,
     "wof:name":"Paramore Associates",
     "wof:parent_id":85867315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.945745,31.794789,-85.945745,31.794789],
+  "bbox": [
+    -85.945745,
+    31.794789,
+    -85.945745,
+    31.794789
+],
   "geometry": {"coordinates":[-85.945745,31.794789],"type":"Point"}
 }

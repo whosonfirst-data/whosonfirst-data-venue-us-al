@@ -2,13 +2,14 @@
   "id": 152555239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.353062,31.221836,-85.353062,31.221836",
     "geom:latitude":31.221836,
     "geom:longitude":-85.353062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2400 Columbia Hwy",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847911,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85847911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152555239,
-    "wof:lastmodified":1449048255,
+    "wof:lastmodified":1466318623,
     "wof:name":"Houston County Commission",
     "wof:parent_id":85847911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.353062,31.221836,-85.353062,31.221836],
-  "geometry": {"coordinates":[-85.353062,31.221836],"type":"Point"}
+  "bbox": [
+    -85.353062,
+    31.221836,
+    -85.353062,
+    31.221836
+],
+  "geometry": {"coordinates":[-85.35306199999999,31.221836],"type":"Point"}
 }

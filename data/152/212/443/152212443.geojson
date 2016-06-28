@@ -2,13 +2,14 @@
   "id": 152212443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.512753,34.317842,-86.512753,34.317842",
     "geom:latitude":34.317842,
     "geom:longitude":-86.512753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"933 1st Ave NW",
     "sg:city":"Arab",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837211,
+        85688675,
         85633793,
         85913243,
         102085513,
-        85688675
+        85837211
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152212443,
-    "wof:lastmodified":1449047289,
+    "wof:lastmodified":1466316020,
     "wof:name":"Brian Brown Construction",
     "wof:parent_id":85837211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.512753,34.317842,-86.512753,34.317842],
+  "bbox": [
+    -86.512753,
+    34.317842,
+    -86.512753,
+    34.317842
+],
   "geometry": {"coordinates":[-86.512753,34.317842],"type":"Point"}
 }

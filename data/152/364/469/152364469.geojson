@@ -2,13 +2,14 @@
   "id": 152364469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.024472,34.007592,-86.024472,34.007592",
     "geom:latitude":34.007592,
     "geom:longitude":-86.024472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1409 Short Spruce St",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805515,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675,
+        85805515,
         85822279
     ],
     "wof:breaches":[],
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":152364469,
-    "wof:lastmodified":1449046900,
+    "wof:lastmodified":1466317660,
     "wof:name":"AOH Church Of God Number One",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.024472,34.007592,-86.024472,34.007592],
+  "bbox": [
+    -86.024472,
+    34.007592,
+    -86.024472,
+    34.007592
+],
   "geometry": {"coordinates":[-86.024472,34.007592],"type":"Point"}
 }

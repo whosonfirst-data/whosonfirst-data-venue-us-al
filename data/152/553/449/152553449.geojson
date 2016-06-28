@@ -2,13 +2,14 @@
   "id": 152553449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.457491,32.573064,-86.457491,32.573064",
     "geom:latitude":32.573064,
     "geom:longitude":-86.457491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"198 Co Rd 104",
     "sg:city":"Prattville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831059,
+        85688675,
         85633793,
         85913977,
         102085509,
-        85688675
+        85831059
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152553449,
-    "wof:lastmodified":1449044322,
+    "wof:lastmodified":1466318576,
     "wof:name":"Smyth Mechanical Contractors",
     "wof:parent_id":85831059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.457491,32.573064,-86.457491,32.573064],
+  "bbox": [
+    -86.457491,
+    32.573064,
+    -86.457491,
+    32.573064
+],
   "geometry": {"coordinates":[-86.457491,32.573064],"type":"Point"}
 }

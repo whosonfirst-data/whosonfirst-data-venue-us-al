@@ -2,13 +2,14 @@
   "id": 152126353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.518473,32.545956,-85.518473,32.545956",
     "geom:latitude":32.545956,
     "geom:longitude":-85.518473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Technology Park",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85846969,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85846969
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152126353,
-    "wof:lastmodified":1449046010,
+    "wof:lastmodified":1466314774,
     "wof:name":"Comm-Tech",
     "wof:parent_id":85846969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.518473,32.545956,-85.518473,32.545956],
+  "bbox": [
+    -85.518473,
+    32.545956,
+    -85.518473,
+    32.545956
+],
   "geometry": {"coordinates":[-85.518473,32.545956],"type":"Point"}
 }

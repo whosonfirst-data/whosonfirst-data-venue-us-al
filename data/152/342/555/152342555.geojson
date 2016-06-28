@@ -2,13 +2,14 @@
   "id": 152342555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.687307,33.610813,-86.687307,33.610813",
     "geom:latitude":33.610813,
     "geom:longitude":-86.687307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1125 Huffman Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854035,
+        85688675,
         85633793,
         85914903,
         102085481,
-        85688675
+        85854035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152342555,
-    "wof:lastmodified":1449048592,
+    "wof:lastmodified":1466317537,
     "wof:name":"America's Thrift Stores",
     "wof:parent_id":85854035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.687307,33.610813,-86.687307,33.610813],
+  "bbox": [
+    -86.687307,
+    33.610813,
+    -86.687307,
+    33.610813
+],
   "geometry": {"coordinates":[-86.687307,33.610813],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102495173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.375023,31.229095,-85.375023,31.229095",
     "geom:latitude":31.229095,
     "geom:longitude":-85.375023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 Pryor St",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847911,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85847911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102495173,
-    "wof:lastmodified":1449068829,
+    "wof:lastmodified":1466316147,
     "wof:name":"City Program Of Houston Cnty",
     "wof:parent_id":85847911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.375023,31.229095,-85.375023,31.229095],
+  "bbox": [
+    -85.375023,
+    31.229095,
+    -85.375023,
+    31.229095
+],
   "geometry": {"coordinates":[-85.375023,31.229095],"type":"Point"}
 }

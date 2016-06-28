@@ -2,13 +2,14 @@
   "id": 152590523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.657801,33.855926,-85.657801,33.855926",
     "geom:latitude":33.855926,
     "geom:longitude":-85.657801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15625 State Rte 9",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817157,
+        85688675,
         85633793,
         85914293,
         102085603,
-        85688675
+        85817157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152590523,
-    "wof:lastmodified":1449047047,
+    "wof:lastmodified":1466318799,
     "wof:name":"Valley Diesel & Machine",
     "wof:parent_id":85817157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.657801,33.855926,-85.657801,33.855926],
-  "geometry": {"coordinates":[-85.657801,33.855926],"type":"Point"}
+  "bbox": [
+    -85.657801,
+    33.855926,
+    -85.657801,
+    33.855926
+],
+  "geometry": {"coordinates":[-85.65780100000001,33.855926],"type":"Point"}
 }

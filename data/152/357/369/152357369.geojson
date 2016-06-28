@@ -2,13 +2,14 @@
   "id": 152357369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.701979,34.746987,-87.701979,34.746987",
     "geom:latitude":34.746987,
     "geom:longitude":-87.701979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1120 S Jackson Hwy",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85832153,
+        85688675,
         85633793,
         85897447,
         102085625,
-        85688675
+        85832153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152357369,
-    "wof:lastmodified":1449048358,
+    "wof:lastmodified":1466317764,
     "wof:name":"John Scanlon Dr",
     "wof:parent_id":85832153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.701979,34.746987,-87.701979,34.746987],
-  "geometry": {"coordinates":[-87.701979,34.746987],"type":"Point"}
+  "bbox": [
+    -87.701979,
+    34.746987,
+    -87.701979,
+    34.746987
+],
+  "geometry": {"coordinates":[-87.70197899999999,34.746987],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152805885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.403798,34.63783,-86.403798,34.63783",
     "geom:latitude":34.63783,
     "geom:longitude":-86.403798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1031 Cherry Tree Rd",
     "sg:city":"Gurley",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878245,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152805885,
-    "wof:lastmodified":1449045850,
+    "wof:lastmodified":1466319909,
     "wof:name":"Bills Plumbing Co",
     "wof:parent_id":85878245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.403798,34.63783,-86.403798,34.63783],
-  "geometry": {"coordinates":[-86.403798,34.63783],"type":"Point"}
+  "bbox": [
+    -86.403798,
+    34.63783,
+    -86.403798,
+    34.63783
+],
+  "geometry": {"coordinates":[-86.40379799999999,34.63783],"type":"Point"}
 }

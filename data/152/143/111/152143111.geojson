@@ -2,13 +2,14 @@
   "id": 152143111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.494189,33.191362,-87.494189,33.191362",
     "geom:latitude":33.191362,
     "geom:longitude":-87.494189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2809 Winters Dr",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152143111,
-    "wof:lastmodified":1449048139,
+    "wof:lastmodified":1466315391,
     "wof:name":"Olde Tyme Antique Clock",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.494189,33.191362,-87.494189,33.191362],
-  "geometry": {"coordinates":[-87.494189,33.191362],"type":"Point"}
+  "bbox": [
+    -87.494189,
+    33.191362,
+    -87.494189,
+    33.191362
+],
+  "geometry": {"coordinates":[-87.49418900000001,33.191362],"type":"Point"}
 }

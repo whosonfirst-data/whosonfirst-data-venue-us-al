@@ -2,13 +2,14 @@
   "id": 152202963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.177153,30.652696,-88.177153,30.652696",
     "geom:latitude":30.652696,
     "geom:longitude":-88.177153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5750 Green Tree Rd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878961,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878961
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152202963,
-    "wof:lastmodified":1449048319,
+    "wof:lastmodified":1466316065,
     "wof:name":"Gail Pruitt",
     "wof:parent_id":85878961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.177153,30.652696,-88.177153,30.652696],
+  "bbox": [
+    -88.177153,
+    30.652696,
+    -88.177153,
+    30.652696
+],
   "geometry": {"coordinates":[-88.177153,30.652696],"type":"Point"}
 }

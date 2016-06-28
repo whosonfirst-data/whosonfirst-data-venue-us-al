@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102481043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.730484,33.450326,-86.730484,33.450326",
     "geom:latitude":33.450326,
     "geom:longitude":-86.730484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 Summit Pl",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856691,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85856691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102481043,
-    "wof:lastmodified":1449069868,
+    "wof:lastmodified":1466315313,
     "wof:name":"Gardens By Griffin",
     "wof:parent_id":85856691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.730484,33.450326,-86.730484,33.450326],
+  "bbox": [
+    -86.730484,
+    33.450326,
+    -86.730484,
+    33.450326
+],
   "geometry": {"coordinates":[-86.730484,33.450326],"type":"Point"}
 }

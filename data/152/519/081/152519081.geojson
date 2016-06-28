@@ -2,13 +2,14 @@
   "id": 152519081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.057008,34.682629,-86.057008,34.682629",
     "geom:latitude":34.682629,
     "geom:longitude":-86.057008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"363 Old Larkinsville Rd",
     "sg:city":"Scottsboro",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152519081,
-    "wof:lastmodified":1449048609,
+    "wof:lastmodified":1466318409,
     "wof:name":"Alabama Tarps",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.057008,34.682629,-86.057008,34.682629],
+  "bbox": [
+    -86.057008,
+    34.682629,
+    -86.057008,
+    34.682629
+],
   "geometry": {"coordinates":[-86.057008,34.682629],"type":"Point"}
 }

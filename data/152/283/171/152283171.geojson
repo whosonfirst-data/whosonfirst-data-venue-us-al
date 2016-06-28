@@ -2,13 +2,14 @@
   "id": 152283171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.100096,30.669458,-88.100096,30.669458",
     "geom:latitude":30.669458,
     "geom:longitude":-88.100096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2477 Commercial Park Dr",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878957,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878957
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152283171,
-    "wof:lastmodified":1449045676,
+    "wof:lastmodified":1466316903,
     "wof:name":"Mc Aleer Real Estate Appraisal",
     "wof:parent_id":85878957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.100096,30.669458,-88.100096,30.669458],
-  "geometry": {"coordinates":[-88.100096,30.669458],"type":"Point"}
+  "bbox": [
+    -88.100096,
+    30.669458,
+    -88.100096,
+    30.669458
+],
+  "geometry": {"coordinates":[-88.10009599999999,30.669458],"type":"Point"}
 }

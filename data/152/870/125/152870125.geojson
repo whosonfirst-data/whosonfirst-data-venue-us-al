@@ -2,13 +2,14 @@
   "id": 152870125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.168711,32.350898,-86.168711,32.350898",
     "geom:latitude":32.350898,
     "geom:longitude":-86.168711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1745 Platt Pl",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85823517,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85823517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152870125,
-    "wof:lastmodified":1449045513,
+    "wof:lastmodified":1466320161,
     "wof:name":"Colonial Supplemental Ins",
     "wof:parent_id":85823517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.168711,32.350898,-86.168711,32.350898],
+  "bbox": [
+    -86.168711,
+    32.350898,
+    -86.168711,
+    32.350898
+],
   "geometry": {"coordinates":[-86.168711,32.350898],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152294719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.956797,33.267158,-86.956797,33.267158",
     "geom:latitude":33.267158,
     "geom:longitude":-86.956797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5213 S Shades Crest Rd",
     "sg:city":"Bessemer",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845631,
+        85688675,
         85633793,
         85914471,
         102085499,
-        85688675
+        85845631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152294719,
-    "wof:lastmodified":1449047588,
+    "wof:lastmodified":1466317085,
     "wof:name":"Fabrics 2u",
     "wof:parent_id":85845631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.956797,33.267158,-86.956797,33.267158],
-  "geometry": {"coordinates":[-86.956797,33.267158],"type":"Point"}
+  "bbox": [
+    -86.956797,
+    33.267158,
+    -86.956797,
+    33.267158
+],
+  "geometry": {"coordinates":[-86.95679699999999,33.267158],"type":"Point"}
 }

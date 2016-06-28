@@ -2,13 +2,14 @@
   "id": 152412613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.196118,30.591805,-88.196118,30.591805",
     "geom:latitude":30.591805,
     "geom:longitude":-88.196118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6617 S Billingsgate Rd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850317,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85850317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152412613,
-    "wof:lastmodified":1449045247,
+    "wof:lastmodified":1466317925,
     "wof:name":"C D Moore Electric Co",
     "wof:parent_id":85850317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.196118,30.591805,-88.196118,30.591805],
+  "bbox": [
+    -88.196118,
+    30.591805,
+    -88.196118,
+    30.591805
+],
   "geometry": {"coordinates":[-88.196118,30.591805],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102459263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.06203,30.679294,-88.06203,30.679294",
     "geom:latitude":30.679294,
     "geom:longitude":-88.06203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1160 Elmira St",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865465,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85865465
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102459263,
-    "wof:lastmodified":1449068753,
+    "wof:lastmodified":1466314935,
     "wof:name":"William Landscaping",
     "wof:parent_id":85865465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.06203,30.679294,-88.06203,30.679294],
-  "geometry": {"coordinates":[-88.06203,30.679294],"type":"Point"}
+  "bbox": [
+    -88.06203,
+    30.679294,
+    -88.06203,
+    30.679294
+],
+  "geometry": {"coordinates":[-88.06202999999999,30.679294],"type":"Point"}
 }

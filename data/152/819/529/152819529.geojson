@@ -2,13 +2,14 @@
   "id": 152819529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.704206,33.408929,-86.704206,33.408929",
     "geom:latitude":33.408929,
     "geom:longitude":-86.704206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1230 Inverness Lndg",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85826983
+        85633793,
+        85826983,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152819529,
-    "wof:lastmodified":1449045393,
+    "wof:lastmodified":1466319952,
     "wof:name":"Enterprise Rent-A-Car",
     "wof:parent_id":85826983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.704206,33.408929,-86.704206,33.408929],
+  "bbox": [
+    -86.704206,
+    33.408929,
+    -86.704206,
+    33.408929
+],
   "geometry": {"coordinates":[-86.704206,33.408929],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152522849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.75809,33.391211,-86.75809,33.391211",
     "geom:latitude":33.391211,
     "geom:longitude":-86.75809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"142 Coshatt Trl",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85826093
+        85633793,
+        85826093,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152522849,
-    "wof:lastmodified":1449046510,
+    "wof:lastmodified":1466318456,
     "wof:name":"Room Service Unlimited LLC",
     "wof:parent_id":85826093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.75809,33.391211,-86.75809,33.391211],
+  "bbox": [
+    -86.75809,
+    33.391211,
+    -86.75809,
+    33.391211
+],
   "geometry": {"coordinates":[-86.75809,33.391211],"type":"Point"}
 }

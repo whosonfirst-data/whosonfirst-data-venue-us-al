@@ -2,13 +2,14 @@
   "id": 152188651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.830694,31.240238,-85.830694,31.240238",
     "geom:latitude":31.240238,
     "geom:longitude":-85.830694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2933 Co Rd 708",
     "sg:city":"Enterprise",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848823,
+        85688675,
         85633793,
         85899527,
         102085699,
-        85688675
+        85848823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152188651,
-    "wof:lastmodified":1449046596,
+    "wof:lastmodified":1466315764,
     "wof:name":"Fines Farm Center Inc",
     "wof:parent_id":85848823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.830694,31.240238,-85.830694,31.240238],
-  "geometry": {"coordinates":[-85.830694,31.240238],"type":"Point"}
+  "bbox": [
+    -85.830694,
+    31.240238,
+    -85.830694,
+    31.240238
+],
+  "geometry": {"coordinates":[-85.83069399999999,31.240238],"type":"Point"}
 }

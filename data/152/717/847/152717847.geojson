@@ -2,13 +2,14 @@
   "id": 152717847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.028348,32.475199,-85.028348,32.475199",
     "geom:latitude":32.475199,
     "geom:longitude":-85.028348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2500 14th St",
     "sg:city":"Phenix City",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822949,
+        85688675,
         85633793,
         85913715,
         102085697,
-        85688675
+        85822949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152717847,
-    "wof:lastmodified":1449044417,
+    "wof:lastmodified":1466319433,
     "wof:name":"Antioch B C",
     "wof:parent_id":85822949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.028348,32.475199,-85.028348,32.475199],
-  "geometry": {"coordinates":[-85.028348,32.475199],"type":"Point"}
+  "bbox": [
+    -85.028348,
+    32.475199,
+    -85.028348,
+    32.475199
+],
+  "geometry": {"coordinates":[-85.02834799999999,32.475199],"type":"Point"}
 }

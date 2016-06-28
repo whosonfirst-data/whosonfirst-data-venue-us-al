@@ -2,13 +2,14 @@
   "id": 152471417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.962325,34.026026,-86.962325,34.026026",
     "geom:latitude":34.026026,
     "geom:longitude":-86.962325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"591 Co Rd 226",
     "sg:city":"Cullman",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867305,
+        85688675,
         85633793,
         85914167,
         102085729,
-        85688675
+        85867305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152471417,
-    "wof:lastmodified":1449046161,
+    "wof:lastmodified":1466318169,
     "wof:name":"Cecil James White",
     "wof:parent_id":85867305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.962325,34.026026,-86.962325,34.026026],
-  "geometry": {"coordinates":[-86.962325,34.026026],"type":"Point"}
+  "bbox": [
+    -86.962325,
+    34.026026,
+    -86.962325,
+    34.026026
+],
+  "geometry": {"coordinates":[-86.96232500000001,34.026026],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152875173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.58488,34.844538,-87.58488,34.844538",
     "geom:latitude":34.844538,
     "geom:longitude":-87.58488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4021 Florence Blvd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085527,
-        85633793,
         85688675,
-        85829459
+        85633793,
+        85829459,
+        102085527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152875173,
-    "wof:lastmodified":1449047735,
+    "wof:lastmodified":1466320217,
     "wof:name":"Garrett Chiropractic Clinic",
     "wof:parent_id":85829459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.58488,34.844538,-87.58488,34.844538],
+  "bbox": [
+    -87.58488,
+    34.844538,
+    -87.58488,
+    34.844538
+],
   "geometry": {"coordinates":[-87.58488,34.844538],"type":"Point"}
 }

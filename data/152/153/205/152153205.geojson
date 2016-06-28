@@ -2,13 +2,14 @@
   "id": 152153205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.908237,34.07435,-86.908237,34.07435",
     "geom:latitude":34.07435,
     "geom:longitude":-86.908237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5526 Co Rd 437",
     "sg:city":"Cullman",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867305,
+        85688675,
         85633793,
         85914167,
         102085729,
-        85688675
+        85867305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152153205,
-    "wof:lastmodified":1449047481,
+    "wof:lastmodified":1466315484,
     "wof:name":"B & H Backhoe",
     "wof:parent_id":85867305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.908237,34.07435,-86.908237,34.07435],
+  "bbox": [
+    -86.908237,
+    34.07435,
+    -86.908237,
+    34.07435
+],
   "geometry": {"coordinates":[-86.908237,34.07435],"type":"Point"}
 }

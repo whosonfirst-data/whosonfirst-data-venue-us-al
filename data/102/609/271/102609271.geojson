@@ -2,13 +2,14 @@
   "id": 102609271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.208919,32.089608,-88.208919,32.089608",
     "geom:latitude":32.089608,
     "geom:longitude":-88.208919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"902 E Pushmataha St",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102609271,
-    "wof:lastmodified":1449068669,
+    "wof:lastmodified":1466317273,
     "wof:name":"Donellan Music",
     "wof:parent_id":85899781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.208919,32.089608,-88.208919,32.089608],
-  "geometry": {"coordinates":[-88.208919,32.089608],"type":"Point"}
+  "bbox": [
+    -88.208919,
+    32.089608,
+    -88.208919,
+    32.089608
+],
+  "geometry": {"coordinates":[-88.20891899999999,32.089608],"type":"Point"}
 }

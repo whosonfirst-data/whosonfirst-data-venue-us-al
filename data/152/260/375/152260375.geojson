@@ -2,13 +2,14 @@
   "id": 152260375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.154813,34.172899,-86.154813,34.172899",
     "geom:latitude":34.172899,
     "geom:longitude":-86.154813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Lindo Dr",
     "sg:city":"Boaz",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085545,
-        85633793,
         85688675,
-        85851221
+        85633793,
+        85851221,
+        102085545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152260375,
-    "wof:lastmodified":1449045072,
+    "wof:lastmodified":1466316561,
     "wof:name":"Martin Enterprises Inc",
     "wof:parent_id":85851221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.154813,34.172899,-86.154813,34.172899],
+  "bbox": [
+    -86.154813,
+    34.172899,
+    -86.154813,
+    34.172899
+],
   "geometry": {"coordinates":[-86.154813,34.172899],"type":"Point"}
 }

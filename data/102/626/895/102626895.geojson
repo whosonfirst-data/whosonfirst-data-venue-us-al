@@ -2,13 +2,14 @@
   "id": 102626895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.573647,34.789227,-86.573647,34.789227",
     "geom:latitude":34.789227,
     "geom:longitude":-86.573647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Industrial Dr NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -35,11 +36,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833383,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85833383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":102626895,
-    "wof:lastmodified":1449070210,
+    "wof:lastmodified":1466317484,
     "wof:name":"Atnip Design & Supply Ctr Inc",
     "wof:parent_id":85833383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.573647,34.789227,-86.573647,34.789227],
-  "geometry": {"coordinates":[-86.573647,34.789227],"type":"Point"}
+  "bbox": [
+    -86.573647,
+    34.789227,
+    -86.573647,
+    34.789227
+],
+  "geometry": {"coordinates":[-86.57364699999999,34.789227],"type":"Point"}
 }

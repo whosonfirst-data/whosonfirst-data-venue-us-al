@@ -2,13 +2,14 @@
   "id": 152144245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.560321,33.540299,-86.560321,33.540299",
     "geom:latitude":33.540299,
     "geom:longitude":-86.560321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 Montevallo Rd SW",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152144245,
-    "wof:lastmodified":1449047684,
+    "wof:lastmodified":1466315398,
     "wof:name":"Charles Softball Field",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.560321,33.540299,-86.560321,33.540299],
+  "bbox": [
+    -86.560321,
+    33.540299,
+    -86.560321,
+    33.540299
+],
   "geometry": {"coordinates":[-86.560321,33.540299],"type":"Point"}
 }

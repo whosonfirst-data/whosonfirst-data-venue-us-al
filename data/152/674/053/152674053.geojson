@@ -2,13 +2,14 @@
   "id": 152674053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.3217,33.255298,-87.3217,33.255298",
     "geom:latitude":33.255298,
     "geom:longitude":-87.3217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15897 State Rte 216",
     "sg:city":"Brookwood",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851363,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85851363
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152674053,
-    "wof:lastmodified":1449047756,
+    "wof:lastmodified":1466319181,
     "wof:name":"Brookwood Home & Auto Inc",
     "wof:parent_id":85851363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.3217,33.255298,-87.3217,33.255298],
-  "geometry": {"coordinates":[-87.3217,33.255298],"type":"Point"}
+  "bbox": [
+    -87.3217,
+    33.255298,
+    -87.3217,
+    33.255298
+],
+  "geometry": {"coordinates":[-87.32170000000001,33.255298],"type":"Point"}
 }

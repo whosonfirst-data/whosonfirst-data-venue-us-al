@@ -2,13 +2,14 @@
   "id": 119130515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.208649,32.359916,-86.208649,32.359916",
     "geom:latitude":32.359916,
     "geom:longitude":-86.208649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5766 Carmichael Pkwy",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809571,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85809571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":119130515,
-    "wof:lastmodified":1449041697,
+    "wof:lastmodified":1466314533,
     "wof:name":"American Mobile Imaging",
     "wof:parent_id":85809571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.208649,32.359916,-86.208649,32.359916],
-  "geometry": {"coordinates":[-86.208649,32.359916],"type":"Point"}
+  "bbox": [
+    -86.208649,
+    32.359916,
+    -86.208649,
+    32.359916
+],
+  "geometry": {"coordinates":[-86.20864899999999,32.359916],"type":"Point"}
 }

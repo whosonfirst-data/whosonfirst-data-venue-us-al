@@ -2,13 +2,14 @@
   "id": 102614431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.174028,34.245179,-86.174028,34.245179",
     "geom:latitude":34.245179,
     "geom:longitude":-86.174028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4395 US Hwy 431",
     "sg:city":"Albertville",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102614431,
-    "wof:lastmodified":1449070274,
+    "wof:lastmodified":1466317300,
     "wof:name":"Lynn's Stripe Shop",
     "wof:parent_id":85913247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.174028,34.245179,-86.174028,34.245179],
-  "geometry": {"coordinates":[-86.174028,34.245179],"type":"Point"}
+  "bbox": [
+    -86.174028,
+    34.245179,
+    -86.174028,
+    34.245179
+],
+  "geometry": {"coordinates":[-86.17402800000001,34.245179],"type":"Point"}
 }

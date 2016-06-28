@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102458851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.261603,32.413359,-86.261603,32.413359",
     "geom:latitude":32.413359,
     "geom:longitude":-86.261603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 Newell Pkwy",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     "sg:website":"www.admiralmovers.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837839,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85837839
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":102458851,
-    "wof:lastmodified":1449069520,
+    "wof:lastmodified":1466315018,
     "wof:name":"Admiral Movers Inc",
     "wof:parent_id":85837839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.261603,32.413359,-86.261603,32.413359],
-  "geometry": {"coordinates":[-86.261603,32.413359],"type":"Point"}
+  "bbox": [
+    -86.261603,
+    32.413359,
+    -86.261603,
+    32.413359
+],
+  "geometry": {"coordinates":[-86.26160299999999,32.413359],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152597435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.480527,32.616558,-85.480527,32.616558",
     "geom:latitude":32.616558,
     "geom:longitude":-85.480527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"561 Heritage Ct",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809707,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85809707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152597435,
-    "wof:lastmodified":1449048849,
+    "wof:lastmodified":1466318825,
     "wof:name":"Kimberly Communications",
     "wof:parent_id":85809707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.480527,32.616558,-85.480527,32.616558],
+  "bbox": [
+    -85.480527,
+    32.616558,
+    -85.480527,
+    32.616558
+],
   "geometry": {"coordinates":[-85.480527,32.616558],"type":"Point"}
 }

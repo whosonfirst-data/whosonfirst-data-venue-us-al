@@ -2,13 +2,14 @@
   "id": 152325455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.576777,33.237074,-87.576777,33.237074",
     "geom:latitude":33.237074,
     "geom:longitude":-87.576777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2801 Lurleen B Wallace Blvd",
     "sg:city":"Northport",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806217,
+        85688675,
         85633793,
         85914425,
         102085553,
-        85688675
+        85806217
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152325455,
-    "wof:lastmodified":1449046124,
+    "wof:lastmodified":1466317323,
     "wof:name":"Cash Plus",
     "wof:parent_id":85806217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.576777,33.237074,-87.576777,33.237074],
-  "geometry": {"coordinates":[-87.576777,33.237074],"type":"Point"}
+  "bbox": [
+    -87.576777,
+    33.237074,
+    -87.576777,
+    33.237074
+],
+  "geometry": {"coordinates":[-87.57677700000001,33.237074],"type":"Point"}
 }

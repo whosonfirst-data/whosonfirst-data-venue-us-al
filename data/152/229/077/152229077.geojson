@@ -2,13 +2,14 @@
   "id": 152229077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.895881,30.618494,-87.895881,30.618494",
     "geom:latitude":30.618494,
     "geom:longitude":-87.895881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1105 Whispering Pines Rd",
     "sg:city":"Daphne",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827259,
+        85688675,
         85633793,
         85914695,
         102085469,
-        85688675
+        85827259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152229077,
-    "wof:lastmodified":1449047982,
+    "wof:lastmodified":1466316225,
     "wof:name":"William Mills",
     "wof:parent_id":85827259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.895881,30.618494,-87.895881,30.618494],
+  "bbox": [
+    -87.895881,
+    30.618494,
+    -87.895881,
+    30.618494
+],
   "geometry": {"coordinates":[-87.895881,30.618494],"type":"Point"}
 }

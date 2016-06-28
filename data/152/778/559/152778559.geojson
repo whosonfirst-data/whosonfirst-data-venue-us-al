@@ -2,13 +2,14 @@
   "id": 152778559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.909225,30.596299,-87.909225,30.596299",
     "geom:latitude":30.596299,
     "geom:longitude":-87.909225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1204 Old County Rd",
     "sg:city":"Daphne",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827259,
+        85688675,
         85633793,
         85914695,
         102085469,
-        85688675
+        85827259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152778559,
-    "wof:lastmodified":1449044385,
+    "wof:lastmodified":1466319812,
     "wof:name":"Stephen Morgan Gross",
     "wof:parent_id":85827259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.909225,30.596299,-87.909225,30.596299],
-  "geometry": {"coordinates":[-87.909225,30.596299],"type":"Point"}
+  "bbox": [
+    -87.909225,
+    30.596299,
+    -87.909225,
+    30.596299
+],
+  "geometry": {"coordinates":[-87.90922500000001,30.596299],"type":"Point"}
 }

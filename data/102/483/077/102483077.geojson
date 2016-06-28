@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102483077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.825578,33.217761,-86.825578,33.217761",
     "geom:latitude":33.217761,
     "geom:longitude":-86.825578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Buck Creek Plz",
     "sg:city":"Alabaster",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85853623
+        85633793,
+        85853623,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102483077,
-    "wof:lastmodified":1449069665,
+    "wof:lastmodified":1466315626,
     "wof:name":"Elements Tanning & Salon Spa",
     "wof:parent_id":85853623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.825578,33.217761,-86.825578,33.217761],
-  "geometry": {"coordinates":[-86.825578,33.217761],"type":"Point"}
+  "bbox": [
+    -86.825578,
+    33.217761,
+    -86.825578,
+    33.217761
+],
+  "geometry": {"coordinates":[-86.82557799999999,33.217761],"type":"Point"}
 }

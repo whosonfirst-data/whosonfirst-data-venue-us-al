@@ -2,13 +2,14 @@
   "id": 152630761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.137931,30.73438,-88.137931,30.73438",
     "geom:latitude":30.73438,
     "geom:longitude":-88.137931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2105 Cornell Dr",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878949,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152630761,
-    "wof:lastmodified":1449045964,
+    "wof:lastmodified":1466318999,
     "wof:name":"Top Of The Bay Limousine Taxi",
     "wof:parent_id":85878949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.137931,30.73438,-88.137931,30.73438],
-  "geometry": {"coordinates":[-88.137931,30.73438],"type":"Point"}
+  "bbox": [
+    -88.137931,
+    30.73438,
+    -88.137931,
+    30.73438
+],
+  "geometry": {"coordinates":[-88.13793099999999,30.73438],"type":"Point"}
 }

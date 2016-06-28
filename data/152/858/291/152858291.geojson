@@ -2,13 +2,14 @@
   "id": 152858291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.691854,32.60909,-85.691854,32.60909",
     "geom:latitude":32.60909,
     "geom:longitude":-85.691854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5905 Co Rd 217",
     "sg:city":"Notasulga",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085751,
-        85633793,
         85688675,
-        85828853
+        85633793,
+        85828853,
+        102085751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152858291,
-    "wof:lastmodified":1449044761,
+    "wof:lastmodified":1466320357,
     "wof:name":"Godfrey Garage",
     "wof:parent_id":85828853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.691854,32.60909,-85.691854,32.60909],
-  "geometry": {"coordinates":[-85.691854,32.60909],"type":"Point"}
+  "bbox": [
+    -85.691854,
+    32.60909,
+    -85.691854,
+    32.60909
+],
+  "geometry": {"coordinates":[-85.69185400000001,32.60909],"type":"Point"}
 }

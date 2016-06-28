@@ -2,13 +2,14 @@
   "id": 102637813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.681396,34.820732,-87.681396,34.820732",
     "geom:latitude":34.820732,
     "geom:longitude":-87.681396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1406 N Wood Ave",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848857,
+        85688675,
         85633793,
         85914011,
         102085527,
-        85688675
+        85848857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102637813,
-    "wof:lastmodified":1449067763,
+    "wof:lastmodified":1466317604,
     "wof:name":"John Hargett CPA",
     "wof:parent_id":85848857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.681396,34.820732,-87.681396,34.820732],
-  "geometry": {"coordinates":[-87.681396,34.820732],"type":"Point"}
+  "bbox": [
+    -87.681396,
+    34.820732,
+    -87.681396,
+    34.820732
+],
+  "geometry": {"coordinates":[-87.68139600000001,34.820732],"type":"Point"}
 }

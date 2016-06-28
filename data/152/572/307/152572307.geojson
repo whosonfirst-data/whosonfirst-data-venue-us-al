@@ -2,13 +2,14 @@
   "id": 152572307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.805873,33.493707,-86.805873,33.493707",
     "geom:latitude":33.493707,
     "geom:longitude":-86.805873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1222 14th Ave S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813175,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85813175
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152572307,
-    "wof:lastmodified":1449047126,
+    "wof:lastmodified":1466318549,
     "wof:name":"Urlolgy Poole PC",
     "wof:parent_id":85813175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.805873,33.493707,-86.805873,33.493707],
-  "geometry": {"coordinates":[-86.805873,33.493707],"type":"Point"}
+  "bbox": [
+    -86.805873,
+    33.493707,
+    -86.805873,
+    33.493707
+],
+  "geometry": {"coordinates":[-86.80587300000001,33.493707],"type":"Point"}
 }

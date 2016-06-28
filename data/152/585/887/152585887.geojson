@@ -2,13 +2,14 @@
   "id": 152585887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.046557,30.685088,-88.046557,30.685088",
     "geom:latitude":30.685088,
     "geom:longitude":-88.046557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 S Cedar St",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878959,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152585887,
-    "wof:lastmodified":1449047377,
+    "wof:lastmodified":1466318795,
     "wof:name":"Carney Jana Faye & Assoc",
     "wof:parent_id":85878959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.046557,30.685088,-88.046557,30.685088],
-  "geometry": {"coordinates":[-88.046557,30.685088],"type":"Point"}
+  "bbox": [
+    -88.046557,
+    30.685088,
+    -88.046557,
+    30.685088
+],
+  "geometry": {"coordinates":[-88.04655700000001,30.685088],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152466927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.458204,34.745066,-86.458204,34.745066",
     "geom:latitude":34.745066,
     "geom:longitude":-86.458204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"154 Morring Ln",
     "sg:city":"Brownsboro",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878245,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152466927,
-    "wof:lastmodified":1449045685,
+    "wof:lastmodified":1466318196,
     "wof:name":"Woodcarvings Plus",
     "wof:parent_id":85878245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.458204,34.745066,-86.458204,34.745066],
-  "geometry": {"coordinates":[-86.458204,34.745066],"type":"Point"}
+  "bbox": [
+    -86.458204,
+    34.745066,
+    -86.458204,
+    34.745066
+],
+  "geometry": {"coordinates":[-86.45820399999999,34.745066],"type":"Point"}
 }

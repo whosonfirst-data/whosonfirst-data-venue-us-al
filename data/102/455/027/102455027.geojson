@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102455027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.055202,30.685727,-88.055202,30.685727",
     "geom:latitude":30.685727,
     "geom:longitude":-88.055202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"909 Government St",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895797,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85895797
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102455027,
-    "wof:lastmodified":1449069767,
+    "wof:lastmodified":1466314742,
     "wof:name":"Thomas A Deas",
     "wof:parent_id":85895797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.055202,30.685727,-88.055202,30.685727],
-  "geometry": {"coordinates":[-88.055202,30.685727],"type":"Point"}
+  "bbox": [
+    -88.055202,
+    30.685727,
+    -88.055202,
+    30.685727
+],
+  "geometry": {"coordinates":[-88.05520199999999,30.685727],"type":"Point"}
 }

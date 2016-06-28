@@ -2,13 +2,14 @@
   "id": 152235393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.003278,34.007674,-86.003278,34.007674",
     "geom:latitude":34.007674,
     "geom:longitude":-86.003278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Bay St",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.nationwide.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822279,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85822279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152235393,
-    "wof:lastmodified":1449045105,
+    "wof:lastmodified":1466316363,
     "wof:name":"Nancy M Davis Insurance",
     "wof:parent_id":85822279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.003278,34.007674,-86.003278,34.007674],
-  "geometry": {"coordinates":[-86.003278,34.007674],"type":"Point"}
+  "bbox": [
+    -86.003278,
+    34.007674,
+    -86.003278,
+    34.007674
+],
+  "geometry": {"coordinates":[-86.00327799999999,34.007674],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102453671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.030859,32.475215,-85.030859,32.475215",
     "geom:latitude":32.475215,
     "geom:longitude":-85.030859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3300 US Hwy 80",
     "sg:city":"Phenix City",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822949,
+        85688675,
         85633793,
         85913715,
         102085697,
-        85688675
+        85822949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102453671,
-    "wof:lastmodified":1449069598,
+    "wof:lastmodified":1466314810,
     "wof:name":"Spectrum 80",
     "wof:parent_id":85822949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.030859,32.475215,-85.030859,32.475215],
-  "geometry": {"coordinates":[-85.030859,32.475215],"type":"Point"}
+  "bbox": [
+    -85.030859,
+    32.475215,
+    -85.030859,
+    32.475215
+],
+  "geometry": {"coordinates":[-85.03085900000001,32.475215],"type":"Point"}
 }

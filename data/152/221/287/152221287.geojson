@@ -2,13 +2,14 @@
   "id": 152221287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.272935,34.344775,-86.272935,34.344775",
     "geom:latitude":34.344775,
     "geom:longitude":-86.272935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4836 Hide Away Dr",
     "sg:city":"Guntersville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85823365,
+        85688675,
         85633793,
         85899833,
         102085513,
-        85688675
+        85823365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152221287,
-    "wof:lastmodified":1449046342,
+    "wof:lastmodified":1466316270,
     "wof:name":"Willie JS At Macs",
     "wof:parent_id":85823365,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.272935,34.344775,-86.272935,34.344775],
+  "bbox": [
+    -86.272935,
+    34.344775,
+    -86.272935,
+    34.344775
+],
   "geometry": {"coordinates":[-86.272935,34.344775],"type":"Point"}
 }

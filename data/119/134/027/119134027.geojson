@@ -2,13 +2,14 @@
   "id": 119134027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.790439,33.407279,-86.790439,33.407279",
     "geom:latitude":33.407279,
     "geom:longitude":-86.790439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3217 Wisteria Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840369,
+        85688675,
         85633793,
         85914483,
         102085481,
-        85688675
+        85840369
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":119134027,
-    "wof:lastmodified":1449043404,
+    "wof:lastmodified":1466314616,
     "wof:name":"Faulkner Painting Co",
     "wof:parent_id":85840369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.790439,33.407279,-86.790439,33.407279],
-  "geometry": {"coordinates":[-86.790439,33.407279],"type":"Point"}
+  "bbox": [
+    -86.790439,
+    33.407279,
+    -86.790439,
+    33.407279
+],
+  "geometry": {"coordinates":[-86.79043900000001,33.407279],"type":"Point"}
 }

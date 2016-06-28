@@ -2,13 +2,14 @@
   "id": 152261929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.27839,32.410713,-86.27839,32.410713",
     "geom:latitude":32.410713,
     "geom:longitude":-86.27839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3304 Harris St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85810909,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85810909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152261929,
-    "wof:lastmodified":1449044369,
+    "wof:lastmodified":1466316650,
     "wof:name":"Ricky Cannon Painting",
     "wof:parent_id":85810909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.27839,32.410713,-86.27839,32.410713],
+  "bbox": [
+    -86.27839,
+    32.410713,
+    -86.27839,
+    32.410713
+],
   "geometry": {"coordinates":[-86.27839,32.410713],"type":"Point"}
 }

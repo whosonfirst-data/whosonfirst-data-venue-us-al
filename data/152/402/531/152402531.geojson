@@ -2,13 +2,14 @@
   "id": 152402531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.480262,32.608203,-85.480262,32.608203",
     "geom:latitude":32.608203,
     "geom:longitude":-85.480262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 Tichenor Ave",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809707,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85809707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152402531,
-    "wof:lastmodified":1449045783,
+    "wof:lastmodified":1466317850,
     "wof:name":"Adams Umbach Davidson & White",
     "wof:parent_id":85809707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.480262,32.608203,-85.480262,32.608203],
+  "bbox": [
+    -85.480262,
+    32.608203,
+    -85.480262,
+    32.608203
+],
   "geometry": {"coordinates":[-85.480262,32.608203],"type":"Point"}
 }

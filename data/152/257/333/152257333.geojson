@@ -2,13 +2,14 @@
   "id": 152257333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.232594,30.704973,-88.232594,30.704973",
     "geom:latitude":30.704973,
     "geom:longitude":-88.232594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8151 Zeigler Blvd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":152257333,
-    "wof:lastmodified":1449045667,
+    "wof:lastmodified":1466316804,
     "wof:name":"Bayou Concrete",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.232594,30.704973,-88.232594,30.704973],
-  "geometry": {"coordinates":[-88.232594,30.704973],"type":"Point"}
+  "bbox": [
+    -88.232594,
+    30.704973,
+    -88.232594,
+    30.704973
+],
+  "geometry": {"coordinates":[-88.23259400000001,30.704973],"type":"Point"}
 }

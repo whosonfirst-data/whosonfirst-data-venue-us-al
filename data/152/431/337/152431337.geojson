@@ -2,13 +2,14 @@
   "id": 152431337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.618201,34.691561,-86.618201,34.691561",
     "geom:latitude":34.691561,
     "geom:longitude":-86.618201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3416 Grassfort Dr SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840971,
+        85688675,
         85633793,
         85915405,
         102085487,
-        85688675
+        85840971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152431337,
-    "wof:lastmodified":1449044925,
+    "wof:lastmodified":1466318085,
     "wof:name":"L & P Lawn Care",
     "wof:parent_id":85840971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.618201,34.691561,-86.618201,34.691561],
+  "bbox": [
+    -86.618201,
+    34.691561,
+    -86.618201,
+    34.691561
+],
   "geometry": {"coordinates":[-86.618201,34.691561],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152414513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.683444,30.416798,-87.683444,30.416798",
     "geom:latitude":30.416798,
     "geom:longitude":-87.683444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 McKenzie St",
     "sg:city":"Foley",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868551,
+        85688675,
         85633793,
         85914719,
         102085469,
-        85688675
+        85868551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152414513,
-    "wof:lastmodified":1449046466,
+    "wof:lastmodified":1466317919,
     "wof:name":"Mc Donald's",
     "wof:parent_id":85868551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.683444,30.416798,-87.683444,30.416798],
-  "geometry": {"coordinates":[-87.683444,30.416798],"type":"Point"}
+  "bbox": [
+    -87.683444,
+    30.416798,
+    -87.683444,
+    30.416798
+],
+  "geometry": {"coordinates":[-87.68344399999999,30.416798],"type":"Point"}
 }

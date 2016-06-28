@@ -2,13 +2,14 @@
   "id": 152235233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.179924,34.317154,-86.179924,34.317154",
     "geom:latitude":34.317154,
     "geom:longitude":-86.179924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2638 Hustleville Rd",
     "sg:city":"Albertville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85830981,
+        85688675,
         85633793,
         85899833,
         102085513,
-        85688675
+        85830981
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152235233,
-    "wof:lastmodified":1449045113,
+    "wof:lastmodified":1466316433,
     "wof:name":"Mega Graphics LLC",
     "wof:parent_id":85830981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.179924,34.317154,-86.179924,34.317154],
+  "bbox": [
+    -86.179924,
+    34.317154,
+    -86.179924,
+    34.317154
+],
   "geometry": {"coordinates":[-86.179924,34.317154],"type":"Point"}
 }

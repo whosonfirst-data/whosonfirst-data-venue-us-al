@@ -2,13 +2,14 @@
   "id": 152633317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.702321,34.732429,-87.702321,34.732429",
     "geom:latitude":34.732429,
     "geom:longitude":-87.702321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 E 5th St",
     "sg:city":"Tuscumbia",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85832153,
+        85688675,
         85633793,
         85897447,
         102085625,
-        85688675
+        85832153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152633317,
-    "wof:lastmodified":1449048870,
+    "wof:lastmodified":1466319143,
     "wof:name":"Langston Chiropractic Clinic",
     "wof:parent_id":85832153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.702321,34.732429,-87.702321,34.732429],
+  "bbox": [
+    -87.702321,
+    34.732429,
+    -87.702321,
+    34.732429
+],
   "geometry": {"coordinates":[-87.702321,34.732429],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102610913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.458453,32.601763,-85.458453,32.601763",
     "geom:latitude":32.601763,
     "geom:longitude":-85.458453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"234 Conrey Dr",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851953,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85851953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102610913,
-    "wof:lastmodified":1449070177,
+    "wof:lastmodified":1466317384,
     "wof:name":"F C M Inc",
     "wof:parent_id":85851953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.458453,32.601763,-85.458453,32.601763],
-  "geometry": {"coordinates":[-85.458453,32.601763],"type":"Point"}
+  "bbox": [
+    -85.458453,
+    32.601763,
+    -85.458453,
+    32.601763
+],
+  "geometry": {"coordinates":[-85.45845300000001,32.601763],"type":"Point"}
 }

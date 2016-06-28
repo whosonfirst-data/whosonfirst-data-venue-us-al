@@ -2,13 +2,14 @@
   "id": 152638625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.785918,33.516643,-86.785918,33.516643",
     "geom:latitude":33.516643,
     "geom:longitude":-86.785918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3131 4th Ave S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876269,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152638625,
-    "wof:lastmodified":1449044559,
+    "wof:lastmodified":1466319069,
     "wof:name":"Magic City Sportswear",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.785918,33.516643,-86.785918,33.516643],
+  "bbox": [
+    -86.785918,
+    33.516643,
+    -86.785918,
+    33.516643
+],
   "geometry": {"coordinates":[-86.785918,33.516643],"type":"Point"}
 }

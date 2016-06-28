@@ -2,13 +2,14 @@
   "id": 152514623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.75119,33.382142,-86.75119,33.382142",
     "geom:latitude":33.382142,
     "geom:longitude":-86.75119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"525 Green Glade Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85826093
+        85633793,
+        85826093,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152514623,
-    "wof:lastmodified":1449046625,
+    "wof:lastmodified":1466318499,
     "wof:name":"Elmo Glenn Paving Company",
     "wof:parent_id":85826093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.75119,33.382142,-86.75119,33.382142],
-  "geometry": {"coordinates":[-86.75119,33.382142],"type":"Point"}
+  "bbox": [
+    -86.75119,
+    33.382142,
+    -86.75119,
+    33.382142
+],
+  "geometry": {"coordinates":[-86.75118999999999,33.382142],"type":"Point"}
 }

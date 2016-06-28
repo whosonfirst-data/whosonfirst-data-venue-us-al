@@ -2,13 +2,14 @@
   "id": 152305963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.352956,31.29982,-85.352956,31.29982",
     "geom:latitude":31.29982,
     "geom:longitude":-85.352956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"63 Broad St",
     "sg:city":"Kinsey",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152305963,
-    "wof:lastmodified":1449045008,
+    "wof:lastmodified":1466317173,
     "wof:name":"Easterwood Cabinets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.352956,31.29982,-85.352956,31.29982],
-  "geometry": {"coordinates":[-85.352956,31.29982],"type":"Point"}
+  "bbox": [
+    -85.352956,
+    31.29982,
+    -85.352956,
+    31.29982
+],
+  "geometry": {"coordinates":[-85.35295600000001,31.29982],"type":"Point"}
 }

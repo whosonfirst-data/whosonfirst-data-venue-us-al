@@ -2,13 +2,14 @@
   "id": 152725823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.021419,34.342456,-86.021419,34.342456",
     "geom:latitude":34.342456,
     "geom:longitude":-86.021419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1424 Co Rd 28",
     "sg:city":"Crossville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815015,
+        85688675,
         85633793,
         85897515,
         102085615,
-        85688675
+        85815015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152725823,
-    "wof:lastmodified":1449045418,
+    "wof:lastmodified":1466319476,
     "wof:name":"H&A Farms",
     "wof:parent_id":85815015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.021419,34.342456,-86.021419,34.342456],
-  "geometry": {"coordinates":[-86.021419,34.342456],"type":"Point"}
+  "bbox": [
+    -86.021419,
+    34.342456,
+    -86.021419,
+    34.342456
+],
+  "geometry": {"coordinates":[-86.02141899999999,34.342456],"type":"Point"}
 }

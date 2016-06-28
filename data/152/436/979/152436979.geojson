@@ -2,13 +2,14 @@
   "id": 152436979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.173433,32.514531,-86.173433,32.514531",
     "geom:latitude":32.514531,
     "geom:longitude":-86.173433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"78 Doe Ln",
     "sg:city":"Wetumpka",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827347,
+        85688675,
         85633793,
         85915121,
         102085631,
-        85688675
+        85827347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152436979,
-    "wof:lastmodified":1449048476,
+    "wof:lastmodified":1466318014,
     "wof:name":"Echo Contracting and Sup Inc",
     "wof:parent_id":85827347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.173433,32.514531,-86.173433,32.514531],
+  "bbox": [
+    -86.173433,
+    32.514531,
+    -86.173433,
+    32.514531
+],
   "geometry": {"coordinates":[-86.173433,32.514531],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152336299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.209876,30.63882,-88.209876,30.63882",
     "geom:latitude":30.63882,
     "geom:longitude":-88.209876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7179 Cottage Hill Rd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809629,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85809629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152336299,
-    "wof:lastmodified":1449044191,
+    "wof:lastmodified":1466317426,
     "wof:name":"Garrett's Nursery",
     "wof:parent_id":85809629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.209876,30.63882,-88.209876,30.63882],
-  "geometry": {"coordinates":[-88.209876,30.63882],"type":"Point"}
+  "bbox": [
+    -88.209876,
+    30.63882,
+    -88.209876,
+    30.63882
+],
+  "geometry": {"coordinates":[-88.20987599999999,30.63882],"type":"Point"}
 }

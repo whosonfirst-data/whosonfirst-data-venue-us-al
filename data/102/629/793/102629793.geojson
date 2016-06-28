@@ -2,13 +2,14 @@
   "id": 102629793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.571121,34.862266,-86.571121,34.862266",
     "geom:latitude":34.862266,
     "geom:longitude":-86.571121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12036 US Hwy 431",
     "sg:city":"Meridianville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102629793,
-    "wof:lastmodified":1449069625,
+    "wof:lastmodified":1466317482,
     "wof:name":"Perimeter Auctioneers",
     "wof:parent_id":85915391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.571121,34.862266,-86.571121,34.862266],
-  "geometry": {"coordinates":[-86.571121,34.862266],"type":"Point"}
+  "bbox": [
+    -86.571121,
+    34.862266,
+    -86.571121,
+    34.862266
+],
+  "geometry": {"coordinates":[-86.57112100000001,34.862266],"type":"Point"}
 }

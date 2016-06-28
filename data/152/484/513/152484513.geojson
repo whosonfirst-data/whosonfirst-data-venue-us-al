@@ -2,13 +2,14 @@
   "id": 152484513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.648468,34.719566,-86.648468,34.719566",
     "geom:latitude":34.719566,
     "geom:longitude":-86.648468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6000 Technology Dr NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.gdc4s.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822763,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85822763
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152484513,
-    "wof:lastmodified":1449048653,
+    "wof:lastmodified":1466318327,
     "wof:name":"General Dynamics C4 Systems",
     "wof:parent_id":85822763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.648468,34.719566,-86.648468,34.719566],
-  "geometry": {"coordinates":[-86.648468,34.719566],"type":"Point"}
+  "bbox": [
+    -86.648468,
+    34.719566,
+    -86.648468,
+    34.719566
+],
+  "geometry": {"coordinates":[-86.64846799999999,34.719566],"type":"Point"}
 }

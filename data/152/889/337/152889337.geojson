@@ -2,13 +2,14 @@
   "id": 152889337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.543174,33.083042,-87.543174,33.083042",
     "geom:latitude":33.083042,
     "geom:longitude":-87.543174,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13760 Chandawood Dr",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085553,
-        85633793,
         85688675,
-        85851887
+        85633793,
+        85851887,
+        102085553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152889337,
-    "wof:lastmodified":1449044199,
+    "wof:lastmodified":1466320289,
     "wof:name":"Alabama Aluminum & Vinyl",
     "wof:parent_id":85851887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.543174,33.083042,-87.543174,33.083042],
-  "geometry": {"coordinates":[-87.543174,33.083042],"type":"Point"}
+  "bbox": [
+    -87.543174,
+    33.083042,
+    -87.543174,
+    33.083042
+],
+  "geometry": {"coordinates":[-87.54317399999999,33.083042],"type":"Point"}
 }

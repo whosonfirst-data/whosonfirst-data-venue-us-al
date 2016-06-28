@@ -2,13 +2,14 @@
   "id": 152828321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.602538,33.620511,-86.602538,33.620511",
     "geom:latitude":33.620511,
     "geom:longitude":-86.602538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 City Hall Rd",
     "sg:city":"Trussville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808783,
+        85688675,
         85633793,
         85913473,
         102085481,
-        85688675
+        85808783
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152828321,
-    "wof:lastmodified":1449046642,
+    "wof:lastmodified":1466319998,
     "wof:name":"Environmental Svc Dept",
     "wof:parent_id":85808783,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.602538,33.620511,-86.602538,33.620511],
+  "bbox": [
+    -86.602538,
+    33.620511,
+    -86.602538,
+    33.620511
+],
   "geometry": {"coordinates":[-86.602538,33.620511],"type":"Point"}
 }

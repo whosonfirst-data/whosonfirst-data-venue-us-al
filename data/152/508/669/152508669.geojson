@@ -2,13 +2,14 @@
   "id": 152508669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.754431,33.532499,-86.754431,33.532499",
     "geom:latitude":33.532499,
     "geom:longitude":-86.754431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5116 6th Ave S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815977,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85815977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152508669,
-    "wof:lastmodified":1449046892,
+    "wof:lastmodified":1466318382,
     "wof:name":"Quik Slides",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.754431,33.532499,-86.754431,33.532499],
+  "bbox": [
+    -86.754431,
+    33.532499,
+    -86.754431,
+    33.532499
+],
   "geometry": {"coordinates":[-86.754431,33.532499],"type":"Point"}
 }

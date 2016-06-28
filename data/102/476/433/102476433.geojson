@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102476433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.214724,30.705638,-88.214724,30.705638",
     "geom:latitude":30.705638,
     "geom:longitude":-88.214724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7361 Zeigler Blvd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085585,
-        85633793,
         85688675,
-        85825595
+        85633793,
+        85825595,
+        102085585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102476433,
-    "wof:lastmodified":1449068737,
+    "wof:lastmodified":1466314397,
     "wof:name":"Mobile's Answer Svc Inc",
     "wof:parent_id":85825595,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.214724,30.705638,-88.214724,30.705638],
+  "bbox": [
+    -88.214724,
+    30.705638,
+    -88.214724,
+    30.705638
+],
   "geometry": {"coordinates":[-88.214724,30.705638],"type":"Point"}
 }

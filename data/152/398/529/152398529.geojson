@@ -2,13 +2,14 @@
   "id": 152398529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.561513,33.2117,-87.561513,33.2117",
     "geom:latitude":33.2117,
     "geom:longitude":-87.561513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1809 University Blvd",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152398529,
-    "wof:lastmodified":1449044669,
+    "wof:lastmodified":1466317846,
     "wof:name":"Morrison & Smith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.561513,33.2117,-87.561513,33.2117],
-  "geometry": {"coordinates":[-87.561513,33.2117],"type":"Point"}
+  "bbox": [
+    -87.561513,
+    33.2117,
+    -87.561513,
+    33.2117
+],
+  "geometry": {"coordinates":[-87.56151300000001,33.2117],"type":"Point"}
 }

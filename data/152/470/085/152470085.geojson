@@ -2,13 +2,14 @@
   "id": 152470085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.577728,33.218928,-87.577728,33.218928",
     "geom:latitude":33.218928,
     "geom:longitude":-87.577728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 20th Ave",
     "sg:city":"Northport",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816127,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85816127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152470085,
-    "wof:lastmodified":1449045409,
+    "wof:lastmodified":1466318152,
     "wof:name":"Gallery Off Main",
     "wof:parent_id":85816127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.577728,33.218928,-87.577728,33.218928],
-  "geometry": {"coordinates":[-87.577728,33.218928],"type":"Point"}
+  "bbox": [
+    -87.577728,
+    33.218928,
+    -87.577728,
+    33.218928
+],
+  "geometry": {"coordinates":[-87.57772799999999,33.218928],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152853229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.817066,34.139098,-86.817066,34.139098",
     "geom:latitude":34.139098,
     "geom:longitude":-86.817066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1611 22nd St SE",
     "sg:city":"Cullman",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867305,
+        85688675,
         85633793,
         85914167,
         102085729,
-        85688675
+        85867305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152853229,
-    "wof:lastmodified":1449046173,
+    "wof:lastmodified":1466319988,
     "wof:name":"Chemcraft International Inc",
     "wof:parent_id":85867305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.817066,34.139098,-86.817066,34.139098],
+  "bbox": [
+    -86.817066,
+    34.139098,
+    -86.817066,
+    34.139098
+],
   "geometry": {"coordinates":[-86.817066,34.139098],"type":"Point"}
 }

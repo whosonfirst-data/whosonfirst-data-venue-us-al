@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102460303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.766441,33.455639,-86.766441,33.455639",
     "geom:latitude":33.455639,
     "geom:longitude":-86.766441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1974 Rocky Brook Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853703,
+        85688675,
         85633793,
         85914847,
         102085481,
-        85688675
+        85853703
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102460303,
-    "wof:lastmodified":1449070059,
+    "wof:lastmodified":1466314945,
     "wof:name":"Portrait Associates",
     "wof:parent_id":85853703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.766441,33.455639,-86.766441,33.455639],
+  "bbox": [
+    -86.766441,
+    33.455639,
+    -86.766441,
+    33.455639
+],
   "geometry": {"coordinates":[-86.766441,33.455639],"type":"Point"}
 }

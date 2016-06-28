@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102505277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.110756,30.596071,-88.110756,30.596071",
     "geom:latitude":30.596071,
     "geom:longitude":-88.110756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3620 Scenic Dr",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085585,
-        85633793,
         85688675,
-        85879001
+        85633793,
+        85879001,
+        102085585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102505277,
-    "wof:lastmodified":1449069761,
+    "wof:lastmodified":1466316578,
     "wof:name":"Scenic Yacht Basin",
     "wof:parent_id":85879001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.110756,30.596071,-88.110756,30.596071],
-  "geometry": {"coordinates":[-88.110756,30.596071],"type":"Point"}
+  "bbox": [
+    -88.110756,
+    30.596071,
+    -88.110756,
+    30.596071
+],
+  "geometry": {"coordinates":[-88.11075599999999,30.596071],"type":"Point"}
 }

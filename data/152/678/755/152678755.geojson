@@ -2,13 +2,14 @@
   "id": 152678755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.480567,33.238337,-86.480567,33.238337",
     "geom:latitude":33.238337,
     "geom:longitude":-86.480567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31111 State Rte 25",
     "sg:city":"Wilsonville",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85841999
+        85633793,
+        85841999,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152678755,
-    "wof:lastmodified":1449046536,
+    "wof:lastmodified":1466319268,
     "wof:name":"US Post Office",
     "wof:parent_id":85841999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.480567,33.238337,-86.480567,33.238337],
-  "geometry": {"coordinates":[-86.480567,33.238337],"type":"Point"}
+  "bbox": [
+    -86.480567,
+    33.238337,
+    -86.480567,
+    33.238337
+],
+  "geometry": {"coordinates":[-86.48056699999999,33.238337],"type":"Point"}
 }

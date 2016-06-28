@@ -2,13 +2,14 @@
   "id": 152497567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.569619,30.280482,-87.569619,30.280482",
     "geom:latitude":30.280482,
     "geom:longitude":-87.569619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26239 Corondelette Dr",
     "sg:city":"Orange Beach",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868551,
+        85688675,
         85633793,
         85914719,
         102085469,
-        85688675
+        85868551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152497567,
-    "wof:lastmodified":1449048846,
+    "wof:lastmodified":1466318323,
     "wof:name":"C & W Plumbing",
     "wof:parent_id":85868551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.569619,30.280482,-87.569619,30.280482],
+  "bbox": [
+    -87.569619,
+    30.280482,
+    -87.569619,
+    30.280482
+],
   "geometry": {"coordinates":[-87.569619,30.280482],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152823101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.531538,34.734379,-86.531538,34.734379",
     "geom:latitude":34.734379,
     "geom:longitude":-86.531538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3505 Carroll Cir SE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85835813,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85835813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152823101,
-    "wof:lastmodified":1449048868,
+    "wof:lastmodified":1466319821,
     "wof:name":"Starnes Studio",
     "wof:parent_id":85835813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.531538,34.734379,-86.531538,34.734379],
+  "bbox": [
+    -86.531538,
+    34.734379,
+    -86.531538,
+    34.734379
+],
   "geometry": {"coordinates":[-86.531538,34.734379],"type":"Point"}
 }

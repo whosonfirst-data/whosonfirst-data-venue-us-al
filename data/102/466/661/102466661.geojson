@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102466661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.591942,34.695251,-86.591942,34.695251",
     "geom:latitude":34.695251,
     "geom:longitude":-86.591942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3106 Leeman Ferry Rd SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -38,11 +39,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85841535,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85841535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,14 +62,20 @@
         }
     ],
     "wof:id":102466661,
-    "wof:lastmodified":1449068499,
+    "wof:lastmodified":1466315211,
     "wof:name":"Huntsville Pool & Spa Service",
     "wof:parent_id":85841535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.591942,34.695251,-86.591942,34.695251],
+  "bbox": [
+    -86.591942,
+    34.695251,
+    -86.591942,
+    34.695251
+],
   "geometry": {"coordinates":[-86.591942,34.695251],"type":"Point"}
 }

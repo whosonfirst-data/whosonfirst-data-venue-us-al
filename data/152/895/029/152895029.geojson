@@ -2,13 +2,14 @@
   "id": 152895029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.104072,34.025469,-86.104072,34.025469",
     "geom:latitude":34.025469,
     "geom:longitude":-86.104072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Woodhaven Ave",
     "sg:city":"Attalla",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085545,
-        85633793,
         85688675,
-        85851221
+        85633793,
+        85851221,
+        102085545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152895029,
-    "wof:lastmodified":1449046273,
+    "wof:lastmodified":1466320287,
     "wof:name":"Cupboard",
     "wof:parent_id":85851221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.104072,34.025469,-86.104072,34.025469],
+  "bbox": [
+    -86.104072,
+    34.025469,
+    -86.104072,
+    34.025469
+],
   "geometry": {"coordinates":[-86.104072,34.025469],"type":"Point"}
 }

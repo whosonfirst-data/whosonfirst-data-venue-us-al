@@ -2,13 +2,14 @@
   "id": 152699065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.750942,33.357034,-86.750942,33.357034",
     "geom:latitude":33.357034,
     "geom:longitude":-86.750942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"441 Valley View Rd",
     "sg:city":"Pelham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853353,
+        85688675,
         85633793,
         85914511,
         102085499,
-        85688675
+        85853353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152699065,
-    "wof:lastmodified":1449044939,
+    "wof:lastmodified":1466319340,
     "wof:name":"Eugene Dekich",
     "wof:parent_id":85853353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.750942,33.357034,-86.750942,33.357034],
-  "geometry": {"coordinates":[-86.750942,33.357034],"type":"Point"}
+  "bbox": [
+    -86.750942,
+    33.357034,
+    -86.750942,
+    33.357034
+],
+  "geometry": {"coordinates":[-86.75094199999999,33.357034],"type":"Point"}
 }

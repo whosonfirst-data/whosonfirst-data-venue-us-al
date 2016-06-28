@@ -2,13 +2,14 @@
   "id": 152273067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.805884,33.622249,-85.805884,33.622249",
     "geom:latitude":33.622249,
     "geom:longitude":-85.805884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 William F Andrews Rd",
     "sg:city":"Anniston",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806515,
+        85688675,
         85633793,
         85914159,
         102085603,
-        85688675
+        85806515
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152273067,
-    "wof:lastmodified":1449046700,
+    "wof:lastmodified":1466316823,
     "wof:name":"Kr Komarek Brequetting Inc",
     "wof:parent_id":85806515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.805884,33.622249,-85.805884,33.622249],
-  "geometry": {"coordinates":[-85.805884,33.622249],"type":"Point"}
+  "bbox": [
+    -85.805884,
+    33.622249,
+    -85.805884,
+    33.622249
+],
+  "geometry": {"coordinates":[-85.80588400000001,33.622249],"type":"Point"}
 }

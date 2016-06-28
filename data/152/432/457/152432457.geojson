@@ -2,13 +2,14 @@
   "id": 152432457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.41783,34.603079,-86.41783,34.603079",
     "geom:latitude":34.603079,
     "geom:longitude":-86.41783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1149 Cave Spring Rd",
     "sg:city":"Owens Cross Rds",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878245,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152432457,
-    "wof:lastmodified":1449044205,
+    "wof:lastmodified":1466317999,
     "wof:name":"Pruitt's Painting",
     "wof:parent_id":85878245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.41783,34.603079,-86.41783,34.603079],
+  "bbox": [
+    -86.41783,
+    34.603079,
+    -86.41783,
+    34.603079
+],
   "geometry": {"coordinates":[-86.41783,34.603079],"type":"Point"}
 }

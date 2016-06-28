@@ -2,13 +2,14 @@
   "id": 152452533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.803532,33.202203,-86.803532,33.202203",
     "geom:latitude":33.202203,
     "geom:longitude":-86.803532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"714 Forest Hills Trce",
     "sg:city":"Alabaster",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85853623
+        85633793,
+        85853623,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152452533,
-    "wof:lastmodified":1449045379,
+    "wof:lastmodified":1466318085,
     "wof:name":"Beth Blevins",
     "wof:parent_id":85853623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.803532,33.202203,-86.803532,33.202203],
+  "bbox": [
+    -86.803532,
+    33.202203,
+    -86.803532,
+    33.202203
+],
   "geometry": {"coordinates":[-86.803532,33.202203],"type":"Point"}
 }

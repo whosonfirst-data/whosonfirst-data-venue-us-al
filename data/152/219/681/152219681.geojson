@@ -2,13 +2,14 @@
   "id": 152219681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.662609,33.63415,-86.662609,33.63415",
     "geom:latitude":33.63415,
     "geom:longitude":-86.662609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1920 Old Springville Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085481,
-        85633793,
         85688675,
-        85816403
+        85633793,
+        85816403,
+        102085481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152219681,
-    "wof:lastmodified":1449048727,
+    "wof:lastmodified":1466316174,
     "wof:name":"Muscular Therapy",
     "wof:parent_id":85816403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.662609,33.63415,-86.662609,33.63415],
+  "bbox": [
+    -86.662609,
+    33.63415,
+    -86.662609,
+    33.63415
+],
   "geometry": {"coordinates":[-86.662609,33.63415],"type":"Point"}
 }

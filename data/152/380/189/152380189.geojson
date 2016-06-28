@@ -2,13 +2,14 @@
   "id": 152380189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.729905,33.5862,-86.729905,33.5862",
     "geom:latitude":33.5862,
     "geom:longitude":-86.729905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9000 9th Ave N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816499,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85816499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152380189,
-    "wof:lastmodified":1449046452,
+    "wof:lastmodified":1466317701,
     "wof:name":"Prophtic Ministries Church God",
     "wof:parent_id":85816499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.729905,33.5862,-86.729905,33.5862],
+  "bbox": [
+    -86.729905,
+    33.5862,
+    -86.729905,
+    33.5862
+],
   "geometry": {"coordinates":[-86.729905,33.5862],"type":"Point"}
 }

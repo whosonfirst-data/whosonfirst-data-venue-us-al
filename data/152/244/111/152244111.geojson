@@ -2,13 +2,14 @@
   "id": 152244111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.791686,33.333484,-86.791686,33.333484",
     "geom:latitude":33.333484,
     "geom:longitude":-86.791686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2201 Pelham Pkwy",
     "sg:city":"Pelham",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85826867,
+        85688675,
         85633793,
         85914501,
         102085499,
-        85688675
+        85826867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152244111,
-    "wof:lastmodified":1449046150,
+    "wof:lastmodified":1466316412,
     "wof:name":"Wittichen Supply Co",
     "wof:parent_id":85826867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.791686,33.333484,-86.791686,33.333484],
+  "bbox": [
+    -86.791686,
+    33.333484,
+    -86.791686,
+    33.333484
+],
   "geometry": {"coordinates":[-86.791686,33.333484],"type":"Point"}
 }

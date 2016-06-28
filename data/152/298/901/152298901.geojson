@@ -2,13 +2,14 @@
   "id": 152298901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.749075,34.796686,-86.749075,34.796686",
     "geom:latitude":34.796686,
     "geom:longitude":-86.749075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7253 Wall Triana Hwy",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085487,
-        85633793,
         85688675,
-        85838413
+        85633793,
+        85838413,
+        102085487
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152298901,
-    "wof:lastmodified":1449045549,
+    "wof:lastmodified":1466317095,
     "wof:name":"David W Jones Construction",
     "wof:parent_id":85838413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.749075,34.796686,-86.749075,34.796686],
+  "bbox": [
+    -86.749075,
+    34.796686,
+    -86.749075,
+    34.796686
+],
   "geometry": {"coordinates":[-86.749075,34.796686],"type":"Point"}
 }

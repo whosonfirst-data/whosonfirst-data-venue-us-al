@@ -2,13 +2,14 @@
   "id": 152587595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.131941,33.285978,-87.131941,33.285978",
     "geom:latitude":33.285978,
     "geom:longitude":-87.131941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21391 Tammie Dr",
     "sg:city":"Mc Calla",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851363,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85851363
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152587595,
-    "wof:lastmodified":1449045895,
+    "wof:lastmodified":1466318769,
     "wof:name":"A&J Industries",
     "wof:parent_id":85851363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.131941,33.285978,-87.131941,33.285978],
+  "bbox": [
+    -87.131941,
+    33.285978,
+    -87.131941,
+    33.285978
+],
   "geometry": {"coordinates":[-87.131941,33.285978],"type":"Point"}
 }

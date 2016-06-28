@@ -2,13 +2,14 @@
   "id": 152521033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.138025,34.349992,-86.138025,34.349992",
     "geom:latitude":34.349992,
     "geom:longitude":-86.138025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Strange Acres",
     "sg:city":"Albertville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85830981,
+        85688675,
         85633793,
         85899833,
         102085513,
-        85688675
+        85830981
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152521033,
-    "wof:lastmodified":1449048692,
+    "wof:lastmodified":1466318302,
     "wof:name":"Lifestyle Publications",
     "wof:parent_id":85830981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.138025,34.349992,-86.138025,34.349992],
+  "bbox": [
+    -86.138025,
+    34.349992,
+    -86.138025,
+    34.349992
+],
   "geometry": {"coordinates":[-86.138025,34.349992],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152289705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.817676,33.474058,-86.817676,33.474058",
     "geom:latitude":33.474058,
     "geom:longitude":-86.817676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Valley Ave",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821721,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85821721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152289705,
-    "wof:lastmodified":1449048152,
+    "wof:lastmodified":1466317185,
     "wof:name":"Metro Pediatrics PC",
     "wof:parent_id":85821721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.817676,33.474058,-86.817676,33.474058],
-  "geometry": {"coordinates":[-86.817676,33.474058],"type":"Point"}
+  "bbox": [
+    -86.817676,
+    33.474058,
+    -86.817676,
+    33.474058
+],
+  "geometry": {"coordinates":[-86.81767600000001,33.474058],"type":"Point"}
 }

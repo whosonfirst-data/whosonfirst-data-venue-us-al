@@ -2,13 +2,14 @@
   "id": 152564881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.434816,31.218491,-85.434816,31.218491",
     "geom:latitude":31.218491,
     "geom:longitude":-85.434816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"827 Honeysuckle Rd",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85846119,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85846119
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152564881,
-    "wof:lastmodified":1449048649,
+    "wof:lastmodified":1466318733,
     "wof:name":"American Self Storage",
     "wof:parent_id":85846119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.434816,31.218491,-85.434816,31.218491],
+  "bbox": [
+    -85.434816,
+    31.218491,
+    -85.434816,
+    31.218491
+],
   "geometry": {"coordinates":[-85.434816,31.218491],"type":"Point"}
 }

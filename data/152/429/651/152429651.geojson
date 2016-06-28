@@ -2,13 +2,14 @@
   "id": 152429651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.413882,31.253161,-85.413882,31.253161",
     "geom:latitude":31.253161,
     "geom:longitude":-85.413882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3775 Ross Clark Cir",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851339,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85851339
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152429651,
-    "wof:lastmodified":1449048674,
+    "wof:lastmodified":1466318005,
     "wof:name":"Strickland Music Co",
     "wof:parent_id":85851339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.413882,31.253161,-85.413882,31.253161],
+  "bbox": [
+    -85.413882,
+    31.253161,
+    -85.413882,
+    31.253161
+],
   "geometry": {"coordinates":[-85.413882,31.253161],"type":"Point"}
 }

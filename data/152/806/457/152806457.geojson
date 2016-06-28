@@ -2,13 +2,14 @@
   "id": 152806457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.699537,30.260535,-87.699537,30.260535",
     "geom:latitude":30.260535,
     "geom:longitude":-87.699537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"621 Fort Morgan Rd",
     "sg:city":"Gulf Shores",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868551,
+        85688675,
         85633793,
         85914719,
         102085469,
-        85688675
+        85868551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152806457,
-    "wof:lastmodified":1449044276,
+    "wof:lastmodified":1466319892,
     "wof:name":"David P Cahoon General Co",
     "wof:parent_id":85868551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.699537,30.260535,-87.699537,30.260535],
-  "geometry": {"coordinates":[-87.699537,30.260535],"type":"Point"}
+  "bbox": [
+    -87.699537,
+    30.260535,
+    -87.699537,
+    30.260535
+],
+  "geometry": {"coordinates":[-87.69953700000001,30.260535],"type":"Point"}
 }

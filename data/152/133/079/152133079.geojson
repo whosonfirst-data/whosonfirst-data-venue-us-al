@@ -2,13 +2,14 @@
   "id": 152133079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.292019,31.774623,-88.292019,31.774623",
     "geom:latitude":31.774623,
     "geom:longitude":-88.292019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3440 Co Rd 6",
     "sg:city":"Silas",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822759,
+        85688675,
         85633793,
         85899781,
         102085727,
-        85688675
+        85822759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152133079,
-    "wof:lastmodified":1449048123,
+    "wof:lastmodified":1466315166,
     "wof:name":"Silas Baptist Church",
     "wof:parent_id":85822759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.292019,31.774623,-88.292019,31.774623],
+  "bbox": [
+    -88.292019,
+    31.774623,
+    -88.292019,
+    31.774623
+],
   "geometry": {"coordinates":[-88.292019,31.774623],"type":"Point"}
 }

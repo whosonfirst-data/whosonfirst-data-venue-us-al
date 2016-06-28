@@ -2,13 +2,14 @@
   "id": 152772751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.209268,32.37289,-86.209268,32.37289",
     "geom:latitude":32.37289,
     "geom:longitude":-86.209268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Eastern Blvd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809571,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85809571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152772751,
-    "wof:lastmodified":1449046383,
+    "wof:lastmodified":1466319798,
     "wof:name":"A J Odle CPA PC",
     "wof:parent_id":85809571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.209268,32.37289,-86.209268,32.37289],
-  "geometry": {"coordinates":[-86.209268,32.37289],"type":"Point"}
+  "bbox": [
+    -86.209268,
+    32.37289,
+    -86.209268,
+    32.37289
+],
+  "geometry": {"coordinates":[-86.20926799999999,32.37289],"type":"Point"}
 }

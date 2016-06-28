@@ -2,13 +2,14 @@
   "id": 152211133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.70245,33.638616,-86.70245,33.638616",
     "geom:latitude":33.638616,
     "geom:longitude":-86.70245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"580 Sun Valley Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851413,
+        85688675,
         85633793,
         85914903,
         102085481,
-        85688675
+        85851413
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152211133,
-    "wof:lastmodified":1449045432,
+    "wof:lastmodified":1466316103,
     "wof:name":"Blendmasters",
     "wof:parent_id":85851413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.70245,33.638616,-86.70245,33.638616],
+  "bbox": [
+    -86.70245,
+    33.638616,
+    -86.70245,
+    33.638616
+],
   "geometry": {"coordinates":[-86.70245,33.638616],"type":"Point"}
 }

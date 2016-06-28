@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102451697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.154496,30.725955,-88.154496,30.725955",
     "geom:latitude":30.725955,
     "geom:longitude":-88.154496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1713 Sandcastle Ct",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878949,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102451697,
-    "wof:lastmodified":1449068817,
+    "wof:lastmodified":1466314727,
     "wof:name":"Bay City Refrigeration",
     "wof:parent_id":85878949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.154496,30.725955,-88.154496,30.725955],
-  "geometry": {"coordinates":[-88.154496,30.725955],"type":"Point"}
+  "bbox": [
+    -88.154496,
+    30.725955,
+    -88.154496,
+    30.725955
+],
+  "geometry": {"coordinates":[-88.15449599999999,30.725955],"type":"Point"}
 }

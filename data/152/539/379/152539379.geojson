@@ -2,13 +2,14 @@
   "id": 152539379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.578045,34.742416,-86.578045,34.742416",
     "geom:latitude":34.742416,
     "geom:longitude":-86.578045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"603 Dement St NE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819449,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85819449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152539379,
-    "wof:lastmodified":1449048987,
+    "wof:lastmodified":1466318691,
     "wof:name":"Sky Corp Inc",
     "wof:parent_id":85819449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.578045,34.742416,-86.578045,34.742416],
+  "bbox": [
+    -86.578045,
+    34.742416,
+    -86.578045,
+    34.742416
+],
   "geometry": {"coordinates":[-86.578045,34.742416],"type":"Point"}
 }

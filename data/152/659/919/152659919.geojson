@@ -2,13 +2,14 @@
   "id": 152659919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.26895,32.341194,-86.26895,32.341194",
     "geom:latitude":32.341194,
     "geom:longitude":-86.26895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3418 Boxwood Dr",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879045,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152659919,
-    "wof:lastmodified":1449044806,
+    "wof:lastmodified":1466319318,
     "wof:name":"Aptco Business Forms & Labels",
     "wof:parent_id":85879045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.26895,32.341194,-86.26895,32.341194],
+  "bbox": [
+    -86.26895,
+    32.341194,
+    -86.26895,
+    32.341194
+],
   "geometry": {"coordinates":[-86.26895,32.341194],"type":"Point"}
 }

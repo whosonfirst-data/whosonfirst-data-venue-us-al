@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102476227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.717596,33.404755,-86.717596,33.404755",
     "geom:latitude":33.404755,
     "geom:longitude":-86.717596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 Bradberry Ln",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85826983
+        85633793,
+        85826983,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102476227,
-    "wof:lastmodified":1449068739,
+    "wof:lastmodified":1466314354,
     "wof:name":"J Devine & Co",
     "wof:parent_id":85826983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.717596,33.404755,-86.717596,33.404755],
+  "bbox": [
+    -86.717596,
+    33.404755,
+    -86.717596,
+    33.404755
+],
   "geometry": {"coordinates":[-86.717596,33.404755],"type":"Point"}
 }

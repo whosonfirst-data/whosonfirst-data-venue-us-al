@@ -2,13 +2,14 @@
   "id": 152643603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.788823,31.885716,-87.788823,31.885716",
     "geom:latitude":31.885716,
     "geom:longitude":-87.788823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1002 Midway Rd",
     "sg:city":"Thomasville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152643603,
-    "wof:lastmodified":1449048308,
+    "wof:lastmodified":1466319064,
     "wof:name":"Irby's Air Conditioning Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.788823,31.885716,-87.788823,31.885716],
-  "geometry": {"coordinates":[-87.788823,31.885716],"type":"Point"}
+  "bbox": [
+    -87.788823,
+    31.885716,
+    -87.788823,
+    31.885716
+],
+  "geometry": {"coordinates":[-87.78882299999999,31.885716],"type":"Point"}
 }

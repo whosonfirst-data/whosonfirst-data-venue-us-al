@@ -2,13 +2,14 @@
   "id": 152709253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.836941,33.215132,-86.836941,33.215132",
     "geom:latitude":33.215132,
     "geom:longitude":-86.836941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1564 Kent Dairy Rd",
     "sg:city":"Alabaster",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85839361,
+        85688675,
         85633793,
         85914487,
         102085499,
-        85688675
+        85839361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152709253,
-    "wof:lastmodified":1449045227,
+    "wof:lastmodified":1466319378,
     "wof:name":"Rex Abbot Roofing",
     "wof:parent_id":85839361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.836941,33.215132,-86.836941,33.215132],
+  "bbox": [
+    -86.836941,
+    33.215132,
+    -86.836941,
+    33.215132
+],
   "geometry": {"coordinates":[-86.836941,33.215132],"type":"Point"}
 }

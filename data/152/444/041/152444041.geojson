@@ -2,13 +2,14 @@
   "id": 152444041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.720669,33.316988,-86.720669,33.316988",
     "geom:latitude":33.316988,
     "geom:longitude":-86.720669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8131 Co Rd 11",
     "sg:city":"Chelsea",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85833411
+        85633793,
+        85833411,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152444041,
-    "wof:lastmodified":1449048286,
+    "wof:lastmodified":1466318037,
     "wof:name":"Bradberry Racing",
     "wof:parent_id":85833411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.720669,33.316988,-86.720669,33.316988],
+  "bbox": [
+    -86.720669,
+    33.316988,
+    -86.720669,
+    33.316988
+],
   "geometry": {"coordinates":[-86.720669,33.316988],"type":"Point"}
 }

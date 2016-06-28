@@ -2,13 +2,14 @@
   "id": 152498653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.015037,34.016862,-86.015037,34.016862",
     "geom:latitude":34.016862,
     "geom:longitude":-86.015037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"914 Forrest Ave",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805515,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675,
+        85805515,
         85822279
     ],
     "wof:breaches":[],
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":152498653,
-    "wof:lastmodified":1449047800,
+    "wof:lastmodified":1466318332,
     "wof:name":"Swanns",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.015037,34.016862,-86.015037,34.016862],
-  "geometry": {"coordinates":[-86.015037,34.016862],"type":"Point"}
+  "bbox": [
+    -86.015037,
+    34.016862,
+    -86.015037,
+    34.016862
+],
+  "geometry": {"coordinates":[-86.01503700000001,34.016862],"type":"Point"}
 }

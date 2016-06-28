@@ -2,13 +2,14 @@
   "id": 152394139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.265819,32.361964,-86.265819,32.361964",
     "geom:latitude":32.361964,
     "geom:longitude":-86.265819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2785 Zelda Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85823265,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85823265
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152394139,
-    "wof:lastmodified":1449045199,
+    "wof:lastmodified":1466317815,
     "wof:name":"Max Federal Credit Union",
     "wof:parent_id":85823265,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.265819,32.361964,-86.265819,32.361964],
-  "geometry": {"coordinates":[-86.265819,32.361964],"type":"Point"}
+  "bbox": [
+    -86.265819,
+    32.361964,
+    -86.265819,
+    32.361964
+],
+  "geometry": {"coordinates":[-86.26581899999999,32.361964],"type":"Point"}
 }

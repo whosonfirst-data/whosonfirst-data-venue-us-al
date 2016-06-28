@@ -2,13 +2,14 @@
   "id": 152799287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.379689,31.209947,-85.379689,31.209947",
     "geom:latitude":31.209947,
     "geom:longitude":-85.379689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"948 3rd Ave",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847911,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85847911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152799287,
-    "wof:lastmodified":1449048917,
+    "wof:lastmodified":1466319834,
     "wof:name":"New Mt Moriah Missionary Bapt",
     "wof:parent_id":85847911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.379689,31.209947,-85.379689,31.209947],
+  "bbox": [
+    -85.379689,
+    31.209947,
+    -85.379689,
+    31.209947
+],
   "geometry": {"coordinates":[-85.379689,31.209947],"type":"Point"}
 }

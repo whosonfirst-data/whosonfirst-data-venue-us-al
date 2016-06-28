@@ -2,13 +2,14 @@
   "id": 152733185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.986579,31.808796,-85.986579,31.808796",
     "geom:latitude":31.808796,
     "geom:longitude":-85.986579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"915 Murphree St",
     "sg:city":"Troy",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085619,
-        85633793,
         85688675,
-        85867311
+        85633793,
+        85867311,
+        102085619
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152733185,
-    "wof:lastmodified":1449044946,
+    "wof:lastmodified":1466319550,
     "wof:name":"Deep South Timber Inc",
     "wof:parent_id":85867311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.986579,31.808796,-85.986579,31.808796],
-  "geometry": {"coordinates":[-85.986579,31.808796],"type":"Point"}
+  "bbox": [
+    -85.986579,
+    31.808796,
+    -85.986579,
+    31.808796
+],
+  "geometry": {"coordinates":[-85.98657900000001,31.808796],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152781581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.668159,34.797884,-87.668159,34.797884",
     "geom:latitude":34.797884,
     "geom:longitude":-87.668159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"425 Veterans Dr",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848857,
+        85688675,
         85633793,
         85914011,
         102085527,
-        85688675
+        85848857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152781581,
-    "wof:lastmodified":1449045171,
+    "wof:lastmodified":1466319758,
     "wof:name":"Valley Supply Co",
     "wof:parent_id":85848857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.668159,34.797884,-87.668159,34.797884],
+  "bbox": [
+    -87.668159,
+    34.797884,
+    -87.668159,
+    34.797884
+],
   "geometry": {"coordinates":[-87.668159,34.797884],"type":"Point"}
 }

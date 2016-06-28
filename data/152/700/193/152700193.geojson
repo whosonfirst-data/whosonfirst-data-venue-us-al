@@ -2,13 +2,14 @@
   "id": 152700193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.832017,33.933415,-87.832017,33.933415",
     "geom:latitude":33.933415,
     "geom:longitude":-87.832017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2324 US Hwy 43",
     "sg:city":"Winfield",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152700193,
-    "wof:lastmodified":1449048513,
+    "wof:lastmodified":1466319478,
     "wof:name":"Cars & Trucks Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.832017,33.933415,-87.832017,33.933415],
-  "geometry": {"coordinates":[-87.832017,33.933415],"type":"Point"}
+  "bbox": [
+    -87.832017,
+    33.933415,
+    -87.832017,
+    33.933415
+],
+  "geometry": {"coordinates":[-87.83201699999999,33.933415],"type":"Point"}
 }

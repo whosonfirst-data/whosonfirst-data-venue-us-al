@@ -2,13 +2,14 @@
   "id": 152246181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.896471,33.580623,-86.896471,33.580623",
     "geom:latitude":33.580623,
     "geom:longitude":-86.896471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"548 Collette St",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820003,
+        85688675,
         85633793,
         85914875,
         102085481,
-        85688675
+        85820003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152246181,
-    "wof:lastmodified":1449044619,
+    "wof:lastmodified":1466316720,
     "wof:name":"Gabriel Electric Co",
     "wof:parent_id":85820003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.896471,33.580623,-86.896471,33.580623],
-  "geometry": {"coordinates":[-86.896471,33.580623],"type":"Point"}
+  "bbox": [
+    -86.896471,
+    33.580623,
+    -86.896471,
+    33.580623
+],
+  "geometry": {"coordinates":[-86.89647100000001,33.580623],"type":"Point"}
 }

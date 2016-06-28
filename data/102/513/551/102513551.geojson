@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102513551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.724713,34.798635,-86.724713,34.798635",
     "geom:latitude":34.798635,
     "geom:longitude":-86.724713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"479 Dupree Dr NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -38,10 +39,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085487,
-        85633793,
         85688675,
-        85838413
+        85633793,
+        85838413,
+        102085487
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":102513551,
-    "wof:lastmodified":1449069372,
+    "wof:lastmodified":1466316918,
     "wof:name":"Modular Process Technology",
     "wof:parent_id":85838413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.724713,34.798635,-86.724713,34.798635],
-  "geometry": {"coordinates":[-86.724713,34.798635],"type":"Point"}
+  "bbox": [
+    -86.724713,
+    34.798635,
+    -86.724713,
+    34.798635
+],
+  "geometry": {"coordinates":[-86.72471299999999,34.798635],"type":"Point"}
 }

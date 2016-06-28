@@ -2,13 +2,14 @@
   "id": 152602135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.194915,32.564183,-86.194915,32.564183",
     "geom:latitude":32.564183,
     "geom:longitude":-86.194915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8966 US Hwy 231",
     "sg:city":"Wetumpka",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851843,
+        85688675,
         85633793,
         85913951,
         102085631,
-        85688675
+        85851843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152602135,
-    "wof:lastmodified":1449046475,
+    "wof:lastmodified":1466318848,
     "wof:name":"A C I Data Entry",
     "wof:parent_id":85851843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.194915,32.564183,-86.194915,32.564183],
-  "geometry": {"coordinates":[-86.194915,32.564183],"type":"Point"}
+  "bbox": [
+    -86.194915,
+    32.564183,
+    -86.194915,
+    32.564183
+],
+  "geometry": {"coordinates":[-86.19491499999999,32.564183],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152856041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.867707,30.421246,-87.867707,30.421246",
     "geom:latitude":30.421246,
     "geom:longitude":-87.867707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9105 US Hwy 98",
     "sg:city":"Fairhope",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854025,
+        85688675,
         85633793,
         85914707,
         102085469,
-        85688675
+        85854025
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152856041,
-    "wof:lastmodified":1449045611,
+    "wof:lastmodified":1466320329,
     "wof:name":"Green Flag Wholesale",
     "wof:parent_id":85854025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.867707,30.421246,-87.867707,30.421246],
+  "bbox": [
+    -87.867707,
+    30.421246,
+    -87.867707,
+    30.421246
+],
   "geometry": {"coordinates":[-87.867707,30.421246],"type":"Point"}
 }

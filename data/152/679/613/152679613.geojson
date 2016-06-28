@@ -2,13 +2,14 @@
   "id": 152679613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.16706,32.367686,-86.16706,32.367686",
     "geom:latitude":32.367686,
     "geom:longitude":-86.16706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7115 Halcyon Summit Dr",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.harmoncone.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885419,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85885419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152679613,
-    "wof:lastmodified":1449047267,
+    "wof:lastmodified":1466319257,
     "wof:name":"Harmon Dennis Bradshaw",
     "wof:parent_id":85885419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.16706,32.367686,-86.16706,32.367686],
-  "geometry": {"coordinates":[-86.16706,32.367686],"type":"Point"}
+  "bbox": [
+    -86.16706,
+    32.367686,
+    -86.16706,
+    32.367686
+],
+  "geometry": {"coordinates":[-86.16706000000001,32.367686],"type":"Point"}
 }

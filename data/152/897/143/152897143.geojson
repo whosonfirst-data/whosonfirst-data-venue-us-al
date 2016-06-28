@@ -2,13 +2,14 @@
   "id": 152897143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.463647,31.160742,-87.463647,31.160742",
     "geom:latitude":31.160742,
     "geom:longitude":-87.463647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9677 State Rte 21",
     "sg:city":"Atmore",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843687,
+        85688675,
         85633793,
         85899775,
         102085735,
-        85688675
+        85843687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152897143,
-    "wof:lastmodified":1449048171,
+    "wof:lastmodified":1466320319,
     "wof:name":"Metal Fab Dept",
     "wof:parent_id":85843687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.463647,31.160742,-87.463647,31.160742],
-  "geometry": {"coordinates":[-87.463647,31.160742],"type":"Point"}
+  "bbox": [
+    -87.463647,
+    31.160742,
+    -87.463647,
+    31.160742
+],
+  "geometry": {"coordinates":[-87.46364699999999,31.160742],"type":"Point"}
 }

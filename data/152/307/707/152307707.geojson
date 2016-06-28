@@ -2,13 +2,14 @@
   "id": 152307707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.1482,34.246619,-86.1482,34.246619",
     "geom:latitude":34.246619,
     "geom:longitude":-86.1482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"350 Arnold Dr",
     "sg:city":"Boaz",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85830981,
+        85688675,
         85633793,
         85899833,
         102085513,
-        85688675
+        85830981
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152307707,
-    "wof:lastmodified":1449045492,
+    "wof:lastmodified":1466317013,
     "wof:name":"Arnold Trucking LLC",
     "wof:parent_id":85830981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.1482,34.246619,-86.1482,34.246619],
+  "bbox": [
+    -86.1482,
+    34.246619,
+    -86.1482,
+    34.246619
+],
   "geometry": {"coordinates":[-86.1482,34.246619],"type":"Point"}
 }

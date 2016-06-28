@@ -2,13 +2,14 @@
   "id": 152855749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.285653,32.416469,-86.285653,32.416469",
     "geom:latitude":32.416469,
     "geom:longitude":-86.285653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2823 Lower Wetumpka Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85836773,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85836773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152855749,
-    "wof:lastmodified":1449047706,
+    "wof:lastmodified":1466320143,
     "wof:name":"S & S Laundry",
     "wof:parent_id":85836773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.285653,32.416469,-86.285653,32.416469],
+  "bbox": [
+    -86.285653,
+    32.416469,
+    -86.285653,
+    32.416469
+],
   "geometry": {"coordinates":[-86.285653,32.416469],"type":"Point"}
 }

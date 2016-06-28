@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102452465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.84253,33.441591,-86.84253,33.441591",
     "geom:latitude":33.441591,
     "geom:longitude":-86.84253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"280 Oxmoor Ct",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808947,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85808947
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102452465,
-    "wof:lastmodified":1449068367,
+    "wof:lastmodified":1466314732,
     "wof:name":"Birmingham Portable Storage",
     "wof:parent_id":85808947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.84253,33.441591,-86.84253,33.441591],
+  "bbox": [
+    -86.84253,
+    33.441591,
+    -86.84253,
+    33.441591
+],
   "geometry": {"coordinates":[-86.84253,33.441591],"type":"Point"}
 }

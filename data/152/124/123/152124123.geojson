@@ -2,13 +2,14 @@
   "id": 152124123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.86377,34.262836,-85.86377,34.262836",
     "geom:latitude":34.262836,
     "geom:longitude":-85.86377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 1st St",
     "sg:city":"Collinsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815015,
+        85688675,
         85633793,
         85897515,
         102085615,
-        85688675
+        85815015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152124123,
-    "wof:lastmodified":1449048560,
+    "wof:lastmodified":1466314673,
     "wof:name":"Collinsville Church Of Christ",
     "wof:parent_id":85815015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.86377,34.262836,-85.86377,34.262836],
+  "bbox": [
+    -85.86377,
+    34.262836,
+    -85.86377,
+    34.262836
+],
   "geometry": {"coordinates":[-85.86377,34.262836],"type":"Point"}
 }

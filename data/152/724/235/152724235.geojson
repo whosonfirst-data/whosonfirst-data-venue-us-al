@@ -2,13 +2,14 @@
   "id": 152724235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.174191,30.570756,-88.174191,30.570756",
     "geom:latitude":30.570756,
     "geom:longitude":-88.174191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5826 Larue Steiner Rd",
     "sg:city":"Theodore",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     "sg:website":"www.rhettbutlertrucking.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852259,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85852259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":152724235,
-    "wof:lastmodified":1449048814,
+    "wof:lastmodified":1466319530,
     "wof:name":"Rhett Butler Trucking Inc",
     "wof:parent_id":85852259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.174191,30.570756,-88.174191,30.570756],
-  "geometry": {"coordinates":[-88.174191,30.570756],"type":"Point"}
+  "bbox": [
+    -88.174191,
+    30.570756,
+    -88.174191,
+    30.570756
+],
+  "geometry": {"coordinates":[-88.17419099999999,30.570756],"type":"Point"}
 }

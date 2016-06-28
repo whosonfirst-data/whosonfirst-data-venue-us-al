@@ -2,13 +2,14 @@
   "id": 152712919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.621753,30.370271,-87.621753,30.370271",
     "geom:latitude":30.370271,
     "geom:longitude":-87.621753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23650 Miflin Rd",
     "sg:city":"Elberta",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868551,
+        85688675,
         85633793,
         85914719,
         102085469,
-        85688675
+        85868551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152712919,
-    "wof:lastmodified":1449046293,
+    "wof:lastmodified":1466319432,
     "wof:name":"Twin Creeks Bait & Tackle",
     "wof:parent_id":85868551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.621753,30.370271,-87.621753,30.370271],
+  "bbox": [
+    -87.621753,
+    30.370271,
+    -87.621753,
+    30.370271
+],
   "geometry": {"coordinates":[-87.621753,30.370271],"type":"Point"}
 }

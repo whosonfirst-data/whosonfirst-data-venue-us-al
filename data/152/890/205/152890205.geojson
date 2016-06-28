@@ -2,13 +2,14 @@
   "id": 152890205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.918682,32.966508,-85.918682,32.966508",
     "geom:latitude":32.966508,
     "geom:longitude":-85.918682,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1755 Mayfair Ln",
     "sg:city":"Alexander City",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840481,
+        85688675,
         85633793,
         85913363,
         102085567,
-        85688675
+        85840481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152890205,
-    "wof:lastmodified":1449045313,
+    "wof:lastmodified":1466320281,
     "wof:name":"Public Housing Security Sltns",
     "wof:parent_id":85840481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.918682,32.966508,-85.918682,32.966508],
+  "bbox": [
+    -85.918682,
+    32.966508,
+    -85.918682,
+    32.966508
+],
   "geometry": {"coordinates":[-85.918682,32.966508],"type":"Point"}
 }

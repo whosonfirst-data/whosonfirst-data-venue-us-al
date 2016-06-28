@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102480071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.152044,30.675889,-88.152044,30.675889",
     "geom:latitude":30.675889,
     "geom:longitude":-88.152044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4019 Airport Blvd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878955,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":102480071,
-    "wof:lastmodified":1449068576,
+    "wof:lastmodified":1466315117,
     "wof:name":"Cellular South",
     "wof:parent_id":85878955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.152044,30.675889,-88.152044,30.675889],
+  "bbox": [
+    -88.152044,
+    30.675889,
+    -88.152044,
+    30.675889
+],
   "geometry": {"coordinates":[-88.152044,30.675889],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152234291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.711116,33.382112,-86.711116,33.382112",
     "geom:latitude":33.382112,
     "geom:longitude":-86.711116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5232 Birdsong Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85833411
+        85633793,
+        85833411,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152234291,
-    "wof:lastmodified":1449048666,
+    "wof:lastmodified":1466316279,
     "wof:name":"Dan & Cheryl McIntyre",
     "wof:parent_id":85833411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.711116,33.382112,-86.711116,33.382112],
+  "bbox": [
+    -86.711116,
+    33.382112,
+    -86.711116,
+    33.382112
+],
   "geometry": {"coordinates":[-86.711116,33.382112],"type":"Point"}
 }

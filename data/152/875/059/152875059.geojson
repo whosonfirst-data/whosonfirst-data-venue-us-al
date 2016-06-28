@@ -2,13 +2,14 @@
   "id": 152875059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.633196,34.749981,-87.633196,34.749981",
     "geom:latitude":34.749981,
     "geom:longitude":-87.633196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Elliott Ave",
     "sg:city":"Muscle Shoals",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816399,
+        85688675,
         85633793,
         85897481,
         102085625,
-        85688675
+        85816399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152875059,
-    "wof:lastmodified":1449047735,
+    "wof:lastmodified":1466320210,
     "wof:name":"North Alabama Erectors",
     "wof:parent_id":85816399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.633196,34.749981,-87.633196,34.749981],
+  "bbox": [
+    -87.633196,
+    34.749981,
+    -87.633196,
+    34.749981
+],
   "geometry": {"coordinates":[-87.633196,34.749981],"type":"Point"}
 }

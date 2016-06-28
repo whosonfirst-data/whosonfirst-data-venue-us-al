@@ -2,13 +2,14 @@
   "id": 152847015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.832536,33.723087,-85.832536,33.723087",
     "geom:latitude":33.723087,
     "geom:longitude":-85.832536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"285 Lenlock Ln",
     "sg:city":"Anniston",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825451,
+        85688675,
         85633793,
         85915207,
         102085603,
-        85688675
+        85825451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152847015,
-    "wof:lastmodified":1449045988,
+    "wof:lastmodified":1466320066,
     "wof:name":"C & J Unfinished Furniture",
     "wof:parent_id":85825451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.832536,33.723087,-85.832536,33.723087],
+  "bbox": [
+    -85.832536,
+    33.723087,
+    -85.832536,
+    33.723087
+],
   "geometry": {"coordinates":[-85.832536,33.723087],"type":"Point"}
 }

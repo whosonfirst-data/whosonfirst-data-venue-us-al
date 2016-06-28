@@ -2,13 +2,14 @@
   "id": 152299383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.602381,34.765143,-86.602381,34.765143",
     "geom:latitude":34.765143,
     "geom:longitude":-86.602381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3003 Mountain Park Cir NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809309,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85809309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152299383,
-    "wof:lastmodified":1449045469,
+    "wof:lastmodified":1466317061,
     "wof:name":"Above It All Sky Diving School",
     "wof:parent_id":85809309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.602381,34.765143,-86.602381,34.765143],
-  "geometry": {"coordinates":[-86.602381,34.765143],"type":"Point"}
+  "bbox": [
+    -86.602381,
+    34.765143,
+    -86.602381,
+    34.765143
+],
+  "geometry": {"coordinates":[-86.60238099999999,34.765143],"type":"Point"}
 }

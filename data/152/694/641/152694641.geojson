@@ -2,13 +2,14 @@
   "id": 152694641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.556749,34.666698,-86.556749,34.666698",
     "geom:latitude":34.666698,
     "geom:longitude":-86.556749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 Suhill Rd SE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819605,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85819605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152694641,
-    "wof:lastmodified":1449045604,
+    "wof:lastmodified":1466319317,
     "wof:name":"Hands & Heart Quilting",
     "wof:parent_id":85819605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.556749,34.666698,-86.556749,34.666698],
+  "bbox": [
+    -86.556749,
+    34.666698,
+    -86.556749,
+    34.666698
+],
   "geometry": {"coordinates":[-86.556749,34.666698],"type":"Point"}
 }

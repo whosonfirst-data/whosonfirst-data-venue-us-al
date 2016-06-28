@@ -2,13 +2,14 @@
   "id": 152415701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.791571,33.503641,-86.791571,33.503641",
     "geom:latitude":33.503641,
     "geom:longitude":-86.791571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1034 23rd St S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876277,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152415701,
-    "wof:lastmodified":1449047631,
+    "wof:lastmodified":1466317929,
     "wof:name":"Pittston",
     "wof:parent_id":85876277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.791571,33.503641,-86.791571,33.503641],
+  "bbox": [
+    -86.791571,
+    33.503641,
+    -86.791571,
+    33.503641
+],
   "geometry": {"coordinates":[-86.791571,33.503641],"type":"Point"}
 }

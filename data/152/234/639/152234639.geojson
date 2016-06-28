@@ -2,13 +2,14 @@
   "id": 152234639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.669825,34.772527,-86.669825,34.772527",
     "geom:latitude":34.772527,
     "geom:longitude":-86.669825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 Nick Fitcheard Rd NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     "sg:website":"www.dolphinaquatics.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851401,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85851401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":152234639,
-    "wof:lastmodified":1449048672,
+    "wof:lastmodified":1466316347,
     "wof:name":"Dolphin Aquatics Inc",
     "wof:parent_id":85851401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.669825,34.772527,-86.669825,34.772527],
+  "bbox": [
+    -86.669825,
+    34.772527,
+    -86.669825,
+    34.772527
+],
   "geometry": {"coordinates":[-86.669825,34.772527],"type":"Point"}
 }

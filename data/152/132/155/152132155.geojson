@@ -2,13 +2,14 @@
   "id": 152132155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.724336,34.705121,-86.724336,34.705121",
     "geom:latitude":34.705121,
     "geom:longitude":-86.724336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"707 Cardinal Ave",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831889,
+        85688675,
         85633793,
         85913593,
         102085487,
-        85688675,
+        85831889,
         85807231
     ],
     "wof:breaches":[],
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":152132155,
-    "wof:lastmodified":1449046568,
+    "wof:lastmodified":1466315146,
     "wof:name":"Leprechaun Lawn Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.724336,34.705121,-86.724336,34.705121],
-  "geometry": {"coordinates":[-86.724336,34.705121],"type":"Point"}
+  "bbox": [
+    -86.724336,
+    34.705121,
+    -86.724336,
+    34.705121
+],
+  "geometry": {"coordinates":[-86.72433599999999,34.705121],"type":"Point"}
 }

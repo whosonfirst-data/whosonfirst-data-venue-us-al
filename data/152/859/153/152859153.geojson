@@ -2,13 +2,14 @@
   "id": 152859153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.285546,32.629063,-86.285546,32.629063",
     "geom:latitude":32.629063,
     "geom:longitude":-86.285546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"330 Beachwood Rd",
     "sg:city":"Wetumpka",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085631,
-        85633793,
         85688675,
-        85843379
+        85633793,
+        85843379,
+        102085631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152859153,
-    "wof:lastmodified":1449047606,
+    "wof:lastmodified":1466320365,
     "wof:name":"Stitches By George Inc",
     "wof:parent_id":85843379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.285546,32.629063,-86.285546,32.629063],
+  "bbox": [
+    -86.285546,
+    32.629063,
+    -86.285546,
+    32.629063
+],
   "geometry": {"coordinates":[-86.285546,32.629063],"type":"Point"}
 }

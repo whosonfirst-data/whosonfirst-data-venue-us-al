@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102503431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.37832,32.469695,-86.37832,32.469695",
     "geom:latitude":32.469695,
     "geom:longitude":-86.37832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2490 Edgewood Rd",
     "sg:city":"Millbrook",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085631,
-        85633793,
         85688675,
-        85822701
+        85633793,
+        85822701,
+        102085631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102503431,
-    "wof:lastmodified":1449070217,
+    "wof:lastmodified":1466316602,
     "wof:name":"Greenscape Lawn Services Inc",
     "wof:parent_id":85822701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.37832,32.469695,-86.37832,32.469695],
+  "bbox": [
+    -86.37832,
+    32.469695,
+    -86.37832,
+    32.469695
+],
   "geometry": {"coordinates":[-86.37832,32.469695],"type":"Point"}
 }

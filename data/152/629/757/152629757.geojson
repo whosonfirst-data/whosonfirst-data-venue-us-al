@@ -2,13 +2,14 @@
   "id": 152629757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.706074,34.820628,-87.706074,34.820628",
     "geom:latitude":34.820628,
     "geom:longitude":-87.706074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 Cypress Dr",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818709,
+        85688675,
         85633793,
         85914011,
         102085527,
-        85688675
+        85818709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152629757,
-    "wof:lastmodified":1449047836,
+    "wof:lastmodified":1466319044,
     "wof:name":"Allen F Long MD",
     "wof:parent_id":85818709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.706074,34.820628,-87.706074,34.820628],
+  "bbox": [
+    -87.706074,
+    34.820628,
+    -87.706074,
+    34.820628
+],
   "geometry": {"coordinates":[-87.706074,34.820628],"type":"Point"}
 }

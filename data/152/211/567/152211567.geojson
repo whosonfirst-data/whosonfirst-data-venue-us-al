@@ -2,13 +2,14 @@
   "id": 152211567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.165212,32.334022,-86.165212,32.334022",
     "geom:latitude":32.334022,
     "geom:longitude":-86.165212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8817 Old Magnolia Way",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879049,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879049
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152211567,
-    "wof:lastmodified":1449045432,
+    "wof:lastmodified":1466316021,
     "wof:name":"Bartizan Inc",
     "wof:parent_id":85879049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.165212,32.334022,-86.165212,32.334022],
+  "bbox": [
+    -86.165212,
+    32.334022,
+    -86.165212,
+    32.334022
+],
   "geometry": {"coordinates":[-86.165212,32.334022],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152780383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.501036,33.58664,-86.501036,33.58664",
     "geom:latitude":33.58664,
     "geom:longitude":-86.501036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2616 Moody Pkwy",
     "sg:city":"Moody",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807031,
+        85688675,
         85633793,
         85913421,
         102085647,
-        85688675
+        85807031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152780383,
-    "wof:lastmodified":1449047759,
+    "wof:lastmodified":1466319669,
     "wof:name":"Thermogas",
     "wof:parent_id":85807031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.501036,33.58664,-86.501036,33.58664],
+  "bbox": [
+    -86.501036,
+    33.58664,
+    -86.501036,
+    33.58664
+],
   "geometry": {"coordinates":[-86.501036,33.58664],"type":"Point"}
 }

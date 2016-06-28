@@ -2,13 +2,14 @@
   "id": 102631413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.471485,33.188933,-87.471485,33.188933",
     "geom:latitude":33.188933,
     "geom:longitude":-87.471485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4970 Pelham Heights Rd",
     "sg:city":"Cottondale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831771,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85831771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102631413,
-    "wof:lastmodified":1449068521,
+    "wof:lastmodified":1466317637,
     "wof:name":"Prestige Consultant",
     "wof:parent_id":85831771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.471485,33.188933,-87.471485,33.188933],
+  "bbox": [
+    -87.471485,
+    33.188933,
+    -87.471485,
+    33.188933
+],
   "geometry": {"coordinates":[-87.471485,33.188933],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102621739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.060215,31.090149,-87.060215,31.090149",
     "geom:latitude":31.090149,
     "geom:longitude":-87.060215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Grice St",
     "sg:city":"Brewton",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102621739,
-    "wof:lastmodified":1449069893,
+    "wof:lastmodified":1466317487,
     "wof:name":"Sr Scott Builders",
     "wof:parent_id":85899763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.060215,31.090149,-87.060215,31.090149],
+  "bbox": [
+    -87.060215,
+    31.090149,
+    -87.060215,
+    31.090149
+],
   "geometry": {"coordinates":[-87.060215,31.090149],"type":"Point"}
 }

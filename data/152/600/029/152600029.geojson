@@ -2,13 +2,14 @@
   "id": 152600029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.995966,34.571958,-86.995966,34.571958",
     "geom:latitude":34.571958,
     "geom:longitude":-86.995966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"521 Austinville Rd SW",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818653,
+        85688675,
         85633793,
         85913589,
         102085531,
-        85688675
+        85818653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152600029,
-    "wof:lastmodified":1449044726,
+    "wof:lastmodified":1466318828,
     "wof:name":"Austinvlle First Baptst Church",
     "wof:parent_id":85818653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.995966,34.571958,-86.995966,34.571958],
+  "bbox": [
+    -86.995966,
+    34.571958,
+    -86.995966,
+    34.571958
+],
   "geometry": {"coordinates":[-86.995966,34.571958],"type":"Point"}
 }

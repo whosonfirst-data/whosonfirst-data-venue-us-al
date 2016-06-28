@@ -2,13 +2,14 @@
   "id": 102608463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.338488,32.333189,-86.338488,32.333189",
     "geom:latitude":32.333189,
     "geom:longitude":-86.338488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4041 Gage St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811331,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85811331
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102608463,
-    "wof:lastmodified":1449068789,
+    "wof:lastmodified":1466317210,
     "wof:name":"Dan's Home Cleaning Svc",
     "wof:parent_id":85811331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.338488,32.333189,-86.338488,32.333189],
+  "bbox": [
+    -86.338488,
+    32.333189,
+    -86.338488,
+    32.333189
+],
   "geometry": {"coordinates":[-86.338488,32.333189],"type":"Point"}
 }

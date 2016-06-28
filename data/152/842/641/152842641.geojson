@@ -2,13 +2,14 @@
   "id": 152842641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.781125,33.528243,-86.781125,33.528243",
     "geom:latitude":33.528243,
     "geom:longitude":-86.781125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 38th St N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876275,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152842641,
-    "wof:lastmodified":1449044641,
+    "wof:lastmodified":1466320073,
     "wof:name":"Green Bull Inc",
     "wof:parent_id":85876275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.781125,33.528243,-86.781125,33.528243],
+  "bbox": [
+    -86.781125,
+    33.528243,
+    -86.781125,
+    33.528243
+],
   "geometry": {"coordinates":[-86.781125,33.528243],"type":"Point"}
 }

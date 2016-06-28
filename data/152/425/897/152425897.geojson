@@ -2,13 +2,14 @@
   "id": 152425897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.591341,33.259742,-87.591341,33.259742",
     "geom:latitude":33.259742,
     "geom:longitude":-87.591341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5306 Lakehurst Dr",
     "sg:city":"Northport",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806217,
+        85688675,
         85633793,
         85914425,
         102085553,
-        85688675
+        85806217
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152425897,
-    "wof:lastmodified":1449045943,
+    "wof:lastmodified":1466317988,
     "wof:name":"Price Land Co",
     "wof:parent_id":85806217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.591341,33.259742,-87.591341,33.259742],
+  "bbox": [
+    -87.591341,
+    33.259742,
+    -87.591341,
+    33.259742
+],
   "geometry": {"coordinates":[-87.591341,33.259742],"type":"Point"}
 }

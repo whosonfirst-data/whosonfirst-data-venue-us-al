@@ -2,13 +2,14 @@
   "id": 152325217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.340316,31.778384,-88.340316,31.778384",
     "geom:latitude":31.778384,
     "geom:longitude":-88.340316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7825 US Hwy 84",
     "sg:city":"Silas",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822759,
+        85688675,
         85633793,
         85899781,
         102085727,
-        85688675
+        85822759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152325217,
-    "wof:lastmodified":1449046126,
+    "wof:lastmodified":1466317318,
     "wof:name":"Springbank Baptist Church",
     "wof:parent_id":85822759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.340316,31.778384,-88.340316,31.778384],
+  "bbox": [
+    -88.340316,
+    31.778384,
+    -88.340316,
+    31.778384
+],
   "geometry": {"coordinates":[-88.340316,31.778384],"type":"Point"}
 }

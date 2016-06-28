@@ -2,13 +2,14 @@
   "id": 152146937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.47398,33.185845,-87.47398,33.185845",
     "geom:latitude":33.185845,
     "geom:longitude":-87.47398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2617 47th Ave E",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831771,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85831771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152146937,
-    "wof:lastmodified":1449046227,
+    "wof:lastmodified":1466315453,
     "wof:name":"M & M Landscape & Lawn Service",
     "wof:parent_id":85831771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.47398,33.185845,-87.47398,33.185845],
+  "bbox": [
+    -87.47398,
+    33.185845,
+    -87.47398,
+    33.185845
+],
   "geometry": {"coordinates":[-87.47398,33.185845],"type":"Point"}
 }

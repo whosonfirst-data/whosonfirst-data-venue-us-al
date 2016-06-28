@@ -2,13 +2,14 @@
   "id": 152426469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.000193,34.014983,-86.000193,34.014983",
     "geom:latitude":34.014983,
     "geom:longitude":-86.000193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 W Meighan Blvd",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.medicaid.state.al.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822279,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85822279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152426469,
-    "wof:lastmodified":1449045291,
+    "wof:lastmodified":1466318063,
     "wof:name":"Medicaid Agebcy Gadsden Dist",
     "wof:parent_id":85822279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.000193,34.014983,-86.000193,34.014983],
+  "bbox": [
+    -86.000193,
+    34.014983,
+    -86.000193,
+    34.014983
+],
   "geometry": {"coordinates":[-86.000193,34.014983],"type":"Point"}
 }

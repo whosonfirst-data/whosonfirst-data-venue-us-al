@@ -2,13 +2,14 @@
   "id": 152830915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.052524,32.648219,-86.052524,32.648219",
     "geom:latitude":32.648219,
     "geom:longitude":-86.052524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11280 Georgia Rd",
     "sg:city":"Eclectic",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851843,
+        85688675,
         85633793,
         85913951,
         102085631,
-        85688675
+        85851843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152830915,
-    "wof:lastmodified":1449045287,
+    "wof:lastmodified":1466320014,
     "wof:name":"Hicks Grocery",
     "wof:parent_id":85851843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.052524,32.648219,-86.052524,32.648219],
-  "geometry": {"coordinates":[-86.052524,32.648219],"type":"Point"}
+  "bbox": [
+    -86.052524,
+    32.648219,
+    -86.052524,
+    32.648219
+],
+  "geometry": {"coordinates":[-86.05252400000001,32.648219],"type":"Point"}
 }

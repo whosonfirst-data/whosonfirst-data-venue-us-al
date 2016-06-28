@@ -2,13 +2,14 @@
   "id": 152727797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.345989,30.500474,-88.345989,30.500474",
     "geom:latitude":30.500474,
     "geom:longitude":-88.345989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9121 Mayfield Ct E",
     "sg:city":"Grand Bay",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085585,
-        85633793,
         85688675,
-        85895801
+        85633793,
+        85895801,
+        102085585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152727797,
-    "wof:lastmodified":1449045008,
+    "wof:lastmodified":1466319493,
     "wof:name":"Independent Order of Odd",
     "wof:parent_id":85895801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.345989,30.500474,-88.345989,30.500474],
+  "bbox": [
+    -88.345989,
+    30.500474,
+    -88.345989,
+    30.500474
+],
   "geometry": {"coordinates":[-88.345989,30.500474],"type":"Point"}
 }

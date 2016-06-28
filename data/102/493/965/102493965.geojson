@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102493965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.783144,33.532432,-86.783144,33.532432",
     "geom:latitude":33.532432,
     "geom:longitude":-86.783144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"608 37th St N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815977,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85815977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":102493965,
-    "wof:lastmodified":1449068549,
+    "wof:lastmodified":1466316201,
     "wof:name":"Okonite Cables",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.783144,33.532432,-86.783144,33.532432],
-  "geometry": {"coordinates":[-86.783144,33.532432],"type":"Point"}
+  "bbox": [
+    -86.783144,
+    33.532432,
+    -86.783144,
+    33.532432
+],
+  "geometry": {"coordinates":[-86.78314399999999,33.532432],"type":"Point"}
 }

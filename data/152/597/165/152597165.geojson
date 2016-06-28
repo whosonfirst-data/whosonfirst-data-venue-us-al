@@ -2,13 +2,14 @@
   "id": 152597165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.755412,30.994283,-87.755412,30.994283",
     "geom:latitude":30.994283,
     "geom:longitude":-87.755412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"52591 Van Harville Rd",
     "sg:city":"Bay Minette",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813343,
+        85688675,
         85633793,
         85914703,
         102085469,
-        85688675
+        85813343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152597165,
-    "wof:lastmodified":1449048849,
+    "wof:lastmodified":1466318809,
     "wof:name":"Rabun Used Car Sales",
     "wof:parent_id":85813343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.755412,30.994283,-87.755412,30.994283],
-  "geometry": {"coordinates":[-87.755412,30.994283],"type":"Point"}
+  "bbox": [
+    -87.755412,
+    30.994283,
+    -87.755412,
+    30.994283
+],
+  "geometry": {"coordinates":[-87.75541200000001,30.994283],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102462961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.479801,32.606598,-85.479801,32.606598",
     "geom:latitude":32.606598,
     "geom:longitude":-85.479801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"166 N Gay St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819999,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85819999
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102462961,
-    "wof:lastmodified":1449070124,
+    "wof:lastmodified":1466315120,
     "wof:name":"Appel Studio",
     "wof:parent_id":85819999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.479801,32.606598,-85.479801,32.606598],
-  "geometry": {"coordinates":[-85.479801,32.606598],"type":"Point"}
+  "bbox": [
+    -85.479801,
+    32.606598,
+    -85.479801,
+    32.606598
+],
+  "geometry": {"coordinates":[-85.47980099999999,32.606598],"type":"Point"}
 }

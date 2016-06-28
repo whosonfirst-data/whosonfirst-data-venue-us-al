@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102460377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.281827,32.37224,-86.281827,32.37224",
     "geom:latitude":32.37224,
     "geom:longitude":-86.281827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 Highland Ave",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809389,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85809389
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102460377,
-    "wof:lastmodified":1449070057,
+    "wof:lastmodified":1466314958,
     "wof:name":"Highland Avenue Baptist Church",
     "wof:parent_id":85809389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.281827,32.37224,-86.281827,32.37224],
-  "geometry": {"coordinates":[-86.281827,32.37224],"type":"Point"}
+  "bbox": [
+    -86.281827,
+    32.37224,
+    -86.281827,
+    32.37224
+],
+  "geometry": {"coordinates":[-86.28182700000001,32.37224],"type":"Point"}
 }

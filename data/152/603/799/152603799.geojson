@@ -2,13 +2,14 @@
   "id": 152603799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.013093,30.885109,-88.013093,30.885109",
     "geom:latitude":30.885109,
     "geom:longitude":-88.013093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9513 Sailor Rd",
     "sg:city":"Creola",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085469,
-        85633793,
         85688675,
-        85878983
+        85633793,
+        85878983,
+        102085469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152603799,
-    "wof:lastmodified":1449048209,
+    "wof:lastmodified":1466318891,
     "wof:name":"Cardinal Contracting",
     "wof:parent_id":85878983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.013093,30.885109,-88.013093,30.885109],
+  "bbox": [
+    -88.013093,
+    30.885109,
+    -88.013093,
+    30.885109
+],
   "geometry": {"coordinates":[-88.013093,30.885109],"type":"Point"}
 }

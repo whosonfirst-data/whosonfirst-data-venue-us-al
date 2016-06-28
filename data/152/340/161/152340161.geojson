@@ -2,13 +2,14 @@
   "id": 152340161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.939456,32.948347,-85.939456,32.948347",
     "geom:latitude":32.948347,
     "geom:longitude":-85.939456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1651 Tallapoosa St",
     "sg:city":"Alexander City",
     "sg:classifiers":[
@@ -36,11 +37,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840481,
+        85688675,
         85633793,
         85913363,
         102085567,
-        85688675
+        85840481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":152340161,
-    "wof:lastmodified":1449047862,
+    "wof:lastmodified":1466317512,
     "wof:name":"Quality Floor Company",
     "wof:parent_id":85840481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.939456,32.948347,-85.939456,32.948347],
-  "geometry": {"coordinates":[-85.939456,32.948347],"type":"Point"}
+  "bbox": [
+    -85.939456,
+    32.948347,
+    -85.939456,
+    32.948347
+],
+  "geometry": {"coordinates":[-85.93945600000001,32.948347],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152561447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.357613,32.349852,-86.357613,32.349852",
     "geom:latitude":32.349852,
     "geom:longitude":-86.357613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3325 Aronov Ave",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152561447,
-    "wof:lastmodified":1449047576,
+    "wof:lastmodified":1466318630,
     "wof:name":"Copaco/Montgomery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.357613,32.349852,-86.357613,32.349852],
+  "bbox": [
+    -86.357613,
+    32.349852,
+    -86.357613,
+    32.349852
+],
   "geometry": {"coordinates":[-86.357613,32.349852],"type":"Point"}
 }

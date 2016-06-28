@@ -2,13 +2,14 @@
   "id": 152829201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.581345,30.439228,-87.581345,30.439228",
     "geom:latitude":30.439228,
     "geom:longitude":-87.581345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14710 Co Rd 87",
     "sg:city":"Elberta",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868551,
+        85688675,
         85633793,
         85914719,
         102085469,
-        85688675
+        85868551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152829201,
-    "wof:lastmodified":1449048619,
+    "wof:lastmodified":1466320122,
     "wof:name":"Gulf Kist Seed",
     "wof:parent_id":85868551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.581345,30.439228,-87.581345,30.439228],
+  "bbox": [
+    -87.581345,
+    30.439228,
+    -87.581345,
+    30.439228
+],
   "geometry": {"coordinates":[-87.581345,30.439228],"type":"Point"}
 }

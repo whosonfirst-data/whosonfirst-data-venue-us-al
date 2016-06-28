@@ -2,13 +2,14 @@
   "id": 152588201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.836201,33.68326,-85.836201,33.68326",
     "geom:latitude":33.68326,
     "geom:longitude":-85.836201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"429 W 29th St",
     "sg:city":"Anniston",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840061,
+        85688675,
         85633793,
         85914281,
         102085603,
-        85688675
+        85840061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152588201,
-    "wof:lastmodified":1449048011,
+    "wof:lastmodified":1466319007,
     "wof:name":"Norwood Park Swim Ctr",
     "wof:parent_id":85840061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.836201,33.68326,-85.836201,33.68326],
+  "bbox": [
+    -85.836201,
+    33.68326,
+    -85.836201,
+    33.68326
+],
   "geometry": {"coordinates":[-85.836201,33.68326],"type":"Point"}
 }

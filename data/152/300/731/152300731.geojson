@@ -2,13 +2,14 @@
   "id": 152300731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.405348,32.637924,-85.405348,32.637924",
     "geom:latitude":32.637924,
     "geom:longitude":-85.405348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2015 Pepperell Pkwy",
     "sg:city":"Opelika",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819517,
+        85688675,
         85633793,
         85913815,
         102085751,
-        85688675
+        85819517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152300731,
-    "wof:lastmodified":1449046906,
+    "wof:lastmodified":1466317113,
     "wof:name":"Grub Mart",
     "wof:parent_id":85819517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.405348,32.637924,-85.405348,32.637924],
+  "bbox": [
+    -85.405348,
+    32.637924,
+    -85.405348,
+    32.637924
+],
   "geometry": {"coordinates":[-85.405348,32.637924],"type":"Point"}
 }

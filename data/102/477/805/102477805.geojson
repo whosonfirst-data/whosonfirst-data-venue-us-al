@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102477805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.857456,31.300253,-85.857456,31.300253",
     "geom:latitude":31.300253,
     "geom:longitude":-85.857456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1061 Geneva Hwy",
     "sg:city":"Enterprise",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848823,
+        85688675,
         85633793,
         85899527,
         102085699,
-        85688675
+        85848823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102477805,
-    "wof:lastmodified":1449068220,
+    "wof:lastmodified":1466315475,
     "wof:name":"La Mexicana",
     "wof:parent_id":85848823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.857456,31.300253,-85.857456,31.300253],
+  "bbox": [
+    -85.857456,
+    31.300253,
+    -85.857456,
+    31.300253
+],
   "geometry": {"coordinates":[-85.857456,31.300253],"type":"Point"}
 }

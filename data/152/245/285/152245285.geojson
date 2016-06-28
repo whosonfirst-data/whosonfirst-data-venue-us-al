@@ -2,13 +2,14 @@
   "id": 152245285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.333649,33.170356,-87.333649,33.170356",
     "geom:latitude":33.170356,
     "geom:longitude":-87.333649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15585 US Hwy 11",
     "sg:city":"Coaling",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851363,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85851363
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152245285,
-    "wof:lastmodified":1449048765,
+    "wof:lastmodified":1466316497,
     "wof:name":"Alright Used Cars",
     "wof:parent_id":85851363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.333649,33.170356,-87.333649,33.170356],
-  "geometry": {"coordinates":[-87.333649,33.170356],"type":"Point"}
+  "bbox": [
+    -87.333649,
+    33.170356,
+    -87.333649,
+    33.170356
+],
+  "geometry": {"coordinates":[-87.33364899999999,33.170356],"type":"Point"}
 }

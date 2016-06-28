@@ -2,13 +2,14 @@
   "id": 152642345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.898756,33.446574,-86.898756,33.446574",
     "geom:latitude":33.446574,
     "geom:longitude":-86.898756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4313 Viola Ave SW",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851831,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85851831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152642345,
-    "wof:lastmodified":1449044573,
+    "wof:lastmodified":1466319287,
     "wof:name":"St James Independent Methodist",
     "wof:parent_id":85851831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.898756,33.446574,-86.898756,33.446574],
-  "geometry": {"coordinates":[-86.898756,33.446574],"type":"Point"}
+  "bbox": [
+    -86.898756,
+    33.446574,
+    -86.898756,
+    33.446574
+],
+  "geometry": {"coordinates":[-86.89875600000001,33.446574],"type":"Point"}
 }

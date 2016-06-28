@@ -2,13 +2,14 @@
   "id": 152882177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.140132,32.374539,-86.140132,32.374539",
     "geom:latitude":32.374539,
     "geom:longitude":-86.140132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9105 Green Chase Dr",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803631,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85803631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152882177,
-    "wof:lastmodified":1449045138,
+    "wof:lastmodified":1466320249,
     "wof:name":"Grading Consulting Group Inc",
     "wof:parent_id":85803631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.140132,32.374539,-86.140132,32.374539],
-  "geometry": {"coordinates":[-86.140132,32.374539],"type":"Point"}
+  "bbox": [
+    -86.140132,
+    32.374539,
+    -86.140132,
+    32.374539
+],
+  "geometry": {"coordinates":[-86.14013199999999,32.374539],"type":"Point"}
 }

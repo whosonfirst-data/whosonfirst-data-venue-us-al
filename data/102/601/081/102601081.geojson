@@ -2,13 +2,14 @@
   "id": 102601081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.233585,34.257315,-86.233585,34.257315",
     "geom:latitude":34.257315,
     "geom:longitude":-86.233585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1104 Bruce St",
     "sg:city":"Albertville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102601081,
-    "wof:lastmodified":1449068848,
+    "wof:lastmodified":1466317222,
     "wof:name":"Katies Beauty Salon",
     "wof:parent_id":85913247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.233585,34.257315,-86.233585,34.257315],
-  "geometry": {"coordinates":[-86.233585,34.257315],"type":"Point"}
+  "bbox": [
+    -86.233585,
+    34.257315,
+    -86.233585,
+    34.257315
+],
+  "geometry": {"coordinates":[-86.23358500000001,34.257315],"type":"Point"}
 }

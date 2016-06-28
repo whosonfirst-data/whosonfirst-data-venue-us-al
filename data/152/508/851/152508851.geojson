@@ -2,13 +2,14 @@
   "id": 152508851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.254242,32.591395,-86.254242,32.591395",
     "geom:latitude":32.591395,
     "geom:longitude":-86.254242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5369 Holtville Rd",
     "sg:city":"Wetumpka",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085631,
-        85633793,
         85688675,
-        85843379
+        85633793,
+        85843379,
+        102085631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152508851,
-    "wof:lastmodified":1449046891,
+    "wof:lastmodified":1466318494,
     "wof:name":"Brian 2 Croyle",
     "wof:parent_id":85843379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.254242,32.591395,-86.254242,32.591395],
+  "bbox": [
+    -86.254242,
+    32.591395,
+    -86.254242,
+    32.591395
+],
   "geometry": {"coordinates":[-86.254242,32.591395],"type":"Point"}
 }

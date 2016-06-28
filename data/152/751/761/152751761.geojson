@@ -2,13 +2,14 @@
   "id": 152751761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.811234,33.27545,-86.811234,33.27545",
     "geom:latitude":33.27545,
     "geom:longitude":-86.811234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3363 Pelham Pkwy",
     "sg:city":"Pelham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828267,
+        85688675,
         85633793,
         85914501,
         102085499,
-        85688675
+        85828267
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152751761,
-    "wof:lastmodified":1449044561,
+    "wof:lastmodified":1466319581,
     "wof:name":"Insurance Shop",
     "wof:parent_id":85828267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.811234,33.27545,-86.811234,33.27545],
+  "bbox": [
+    -86.811234,
+    33.27545,
+    -86.811234,
+    33.27545
+],
   "geometry": {"coordinates":[-86.811234,33.27545],"type":"Point"}
 }

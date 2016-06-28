@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102484113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.792189,33.485864,-86.792189,33.485864",
     "geom:latitude":33.485864,
     "geom:longitude":-86.792189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2510 18th St S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,13 +30,13 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845971,
+        85688675,
         85633793,
         85914847,
         102085481,
-        85688675,
-        85876277,
-        85914465
+        85845971,
+        85914465,
+        85876277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,14 +63,20 @@
         }
     ],
     "wof:id":102484113,
-    "wof:lastmodified":1449070057,
+    "wof:lastmodified":1466315833,
     "wof:name":"Homewood Garden Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.792189,33.485864,-86.792189,33.485864],
-  "geometry": {"coordinates":[-86.792189,33.485864],"type":"Point"}
+  "bbox": [
+    -86.792189,
+    33.485864,
+    -86.792189,
+    33.485864
+],
+  "geometry": {"coordinates":[-86.79218899999999,33.485864],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152468859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.603213,34.690519,-86.603213,34.690519",
     "geom:latitude":34.690519,
     "geom:longitude":-86.603213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4210 W Schrimsher Ln SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85810591,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85810591
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152468859,
-    "wof:lastmodified":1449047611,
+    "wof:lastmodified":1466318187,
     "wof:name":"Tranco Logistics LLC",
     "wof:parent_id":85810591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.603213,34.690519,-86.603213,34.690519],
+  "bbox": [
+    -86.603213,
+    34.690519,
+    -86.603213,
+    34.690519
+],
   "geometry": {"coordinates":[-86.603213,34.690519],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152721619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.97852,31.254205,-85.97852,31.254205",
     "geom:latitude":31.254205,
     "geom:longitude":-85.97852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3806 Co Rd 636",
     "sg:city":"Enterprise",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848823,
+        85688675,
         85633793,
         85899527,
         102085699,
-        85688675
+        85848823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152721619,
-    "wof:lastmodified":1449048890,
+    "wof:lastmodified":1466319460,
     "wof:name":"A-Absolute Bonding Inc",
     "wof:parent_id":85848823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.97852,31.254205,-85.97852,31.254205],
+  "bbox": [
+    -85.97852,
+    31.254205,
+    -85.97852,
+    31.254205
+],
   "geometry": {"coordinates":[-85.97852,31.254205],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152259359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.682532,33.610967,-86.682532,33.610967",
     "geom:latitude":33.610967,
     "geom:longitude":-86.682532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"950 Springville Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.bhm.k12.al.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854035,
+        85688675,
         85633793,
         85914903,
         102085481,
-        85688675
+        85854035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152259359,
-    "wof:lastmodified":1449045346,
+    "wof:lastmodified":1466316739,
     "wof:name":"Huffman High School",
     "wof:parent_id":85854035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.682532,33.610967,-86.682532,33.610967],
-  "geometry": {"coordinates":[-86.682532,33.610967],"type":"Point"}
+  "bbox": [
+    -86.682532,
+    33.610967,
+    -86.682532,
+    33.610967
+],
+  "geometry": {"coordinates":[-86.68253199999999,33.610967],"type":"Point"}
 }

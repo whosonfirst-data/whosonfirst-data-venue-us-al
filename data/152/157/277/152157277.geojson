@@ -2,13 +2,14 @@
   "id": 152157277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.775829,33.468942,-86.775829,33.468942",
     "geom:latitude":33.468942,
     "geom:longitude":-86.775829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 Brookwood Blvd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850365,
+        85688675,
         85633793,
         85914847,
         102085481,
-        85688675
+        85850365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152157277,
-    "wof:lastmodified":1449048260,
+    "wof:lastmodified":1466314945,
     "wof:name":"Brookwood Shell Food Mart",
     "wof:parent_id":85850365,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.775829,33.468942,-86.775829,33.468942],
+  "bbox": [
+    -86.775829,
+    33.468942,
+    -86.775829,
+    33.468942
+],
   "geometry": {"coordinates":[-86.775829,33.468942],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152237859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.568009,34.657481,-86.568009,34.657481",
     "geom:latitude":34.657481,
     "geom:longitude":-86.568009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8210 Stephanie Dr SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85830495,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85830495
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152237859,
-    "wof:lastmodified":1449044407,
+    "wof:lastmodified":1466316406,
     "wof:name":"Global Impact Church",
     "wof:parent_id":85830495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.568009,34.657481,-86.568009,34.657481],
+  "bbox": [
+    -86.568009,
+    34.657481,
+    -86.568009,
+    34.657481
+],
   "geometry": {"coordinates":[-86.568009,34.657481],"type":"Point"}
 }

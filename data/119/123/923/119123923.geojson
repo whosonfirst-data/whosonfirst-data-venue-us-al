@@ -2,13 +2,14 @@
   "id": 119123923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.470723,32.476894,-86.470723,32.476894",
     "geom:latitude":32.476894,
     "geom:longitude":-86.470723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"835 Martin Luther King Dr",
     "sg:city":"Prattville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831059,
+        85688675,
         85633793,
         85913977,
         102085509,
-        85688675
+        85831059
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":119123923,
-    "wof:lastmodified":1449041578,
+    "wof:lastmodified":1466314340,
     "wof:name":"Chestnut Street Chr Of Christ",
     "wof:parent_id":85831059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.470723,32.476894,-86.470723,32.476894],
-  "geometry": {"coordinates":[-86.470723,32.476894],"type":"Point"}
+  "bbox": [
+    -86.470723,
+    32.476894,
+    -86.470723,
+    32.476894
+],
+  "geometry": {"coordinates":[-86.47072300000001,32.476894],"type":"Point"}
 }

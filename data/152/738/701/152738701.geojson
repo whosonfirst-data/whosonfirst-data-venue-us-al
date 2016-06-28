@@ -2,13 +2,14 @@
   "id": 152738701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.796958,33.519732,-86.796958,33.519732",
     "geom:latitude":33.519732,
     "geom:longitude":-86.796958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2625 2nd Ave N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876269,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152738701,
-    "wof:lastmodified":1449047691,
+    "wof:lastmodified":1466319445,
     "wof:name":"Nuncies Music Company Inc",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.796958,33.519732,-86.796958,33.519732],
+  "bbox": [
+    -86.796958,
+    33.519732,
+    -86.796958,
+    33.519732
+],
   "geometry": {"coordinates":[-86.796958,33.519732],"type":"Point"}
 }

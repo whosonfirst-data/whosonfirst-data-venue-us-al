@@ -2,13 +2,14 @@
   "id": 152439459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.443061,32.618385,-85.443061,32.618385",
     "geom:latitude":32.618385,
     "geom:longitude":-85.443061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1742 Saugahatchee Rd",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821713,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85821713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152439459,
-    "wof:lastmodified":1449045574,
+    "wof:lastmodified":1466317908,
     "wof:name":"Indian Pines Country Day Schl",
     "wof:parent_id":85821713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.443061,32.618385,-85.443061,32.618385],
+  "bbox": [
+    -85.443061,
+    32.618385,
+    -85.443061,
+    32.618385
+],
   "geometry": {"coordinates":[-85.443061,32.618385],"type":"Point"}
 }

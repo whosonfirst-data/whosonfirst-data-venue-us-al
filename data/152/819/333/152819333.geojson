@@ -2,13 +2,14 @@
   "id": 152819333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.763876,32.885763,-85.763876,32.885763",
     "geom:latitude":32.885763,
     "geom:longitude":-85.763876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"372 Oak Ridge Rd",
     "sg:city":"Dadeville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848983,
+        85688675,
         85633793,
         85913327,
         102085567,
-        85688675
+        85848983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152819333,
-    "wof:lastmodified":1449045395,
+    "wof:lastmodified":1466319943,
     "wof:name":"Buddy Sherum Logging",
     "wof:parent_id":85848983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.763876,32.885763,-85.763876,32.885763],
+  "bbox": [
+    -85.763876,
+    32.885763,
+    -85.763876,
+    32.885763
+],
   "geometry": {"coordinates":[-85.763876,32.885763],"type":"Point"}
 }

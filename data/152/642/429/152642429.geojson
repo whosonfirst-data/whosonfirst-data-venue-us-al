@@ -2,13 +2,14 @@
   "id": 152642429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.725264,33.468411,-86.725264,33.468411",
     "geom:latitude":33.468411,
     "geom:longitude":-86.725264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3413 Oak Canyon Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802339,
+        85688675,
         85633793,
         85914483,
         102085481,
-        85688675
+        85802339
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152642429,
-    "wof:lastmodified":1449044572,
+    "wof:lastmodified":1466319288,
     "wof:name":"Shevin & Associates",
     "wof:parent_id":85802339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.725264,33.468411,-86.725264,33.468411],
+  "bbox": [
+    -86.725264,
+    33.468411,
+    -86.725264,
+    33.468411
+],
   "geometry": {"coordinates":[-86.725264,33.468411],"type":"Point"}
 }

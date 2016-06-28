@@ -2,13 +2,14 @@
   "id": 152196667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.272236,32.707549,-86.272236,32.707549",
     "geom:latitude":32.707549,
     "geom:longitude":-86.272236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1336 Redbud Rd",
     "sg:city":"Titus",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851843,
+        85688675,
         85633793,
         85913951,
         102085631,
-        85688675
+        85851843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152196667,
-    "wof:lastmodified":1449045347,
+    "wof:lastmodified":1466315903,
     "wof:name":"Charles Lawrence Farm",
     "wof:parent_id":85851843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.272236,32.707549,-86.272236,32.707549],
-  "geometry": {"coordinates":[-86.272236,32.707549],"type":"Point"}
+  "bbox": [
+    -86.272236,
+    32.707549,
+    -86.272236,
+    32.707549
+],
+  "geometry": {"coordinates":[-86.27223600000001,32.707549],"type":"Point"}
 }

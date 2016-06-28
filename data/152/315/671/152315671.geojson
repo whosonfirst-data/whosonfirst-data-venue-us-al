@@ -2,13 +2,14 @@
   "id": 152315671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.409905,31.253288,-85.409905,31.253288",
     "geom:latitude":31.253288,
     "geom:longitude":-85.409905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3849 Ross Clark Cir",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851339,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85851339
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152315671,
-    "wof:lastmodified":1449048676,
+    "wof:lastmodified":1466317281,
     "wof:name":"Simply Six",
     "wof:parent_id":85851339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.409905,31.253288,-85.409905,31.253288],
-  "geometry": {"coordinates":[-85.409905,31.253288],"type":"Point"}
+  "bbox": [
+    -85.409905,
+    31.253288,
+    -85.409905,
+    31.253288
+],
+  "geometry": {"coordinates":[-85.40990499999999,31.253288],"type":"Point"}
 }

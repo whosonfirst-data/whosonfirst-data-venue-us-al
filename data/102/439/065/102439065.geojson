@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102439065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.004449,33.988746,-86.004449,33.988746",
     "geom:latitude":33.988746,
     "geom:longitude":-86.004449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 Rainbow Dr",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822279,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85822279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102439065,
-    "wof:lastmodified":1449068446,
+    "wof:lastmodified":1466314892,
     "wof:name":"Mc Cord Communication Svc Inc",
     "wof:parent_id":85822279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.004449,33.988746,-86.004449,33.988746],
-  "geometry": {"coordinates":[-86.004449,33.988746],"type":"Point"}
+  "bbox": [
+    -86.004449,
+    33.988746,
+    -86.004449,
+    33.988746
+],
+  "geometry": {"coordinates":[-86.00444899999999,33.988746],"type":"Point"}
 }

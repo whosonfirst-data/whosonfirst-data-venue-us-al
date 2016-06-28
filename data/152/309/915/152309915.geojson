@@ -2,13 +2,14 @@
   "id": 152309915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.523899,34.827741,-86.523899,34.827741",
     "geom:latitude":34.827741,
     "geom:longitude":-86.523899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7041 Moores Mill Rd",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842195,
+        85688675,
         85633793,
         85915397,
         102085487,
-        85688675
+        85842195
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152309915,
-    "wof:lastmodified":1449045334,
+    "wof:lastmodified":1466317071,
     "wof:name":"Moores Mill Church Of Christ",
     "wof:parent_id":85842195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.523899,34.827741,-86.523899,34.827741],
+  "bbox": [
+    -86.523899,
+    34.827741,
+    -86.523899,
+    34.827741
+],
   "geometry": {"coordinates":[-86.523899,34.827741],"type":"Point"}
 }

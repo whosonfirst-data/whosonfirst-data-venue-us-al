@@ -2,13 +2,14 @@
   "id": 152247867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.046226,30.686417,-88.046226,30.686417",
     "geom:latitude":30.686417,
     "geom:longitude":-88.046226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"456 Civic Center Dr",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.trinovainc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878959,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152247867,
-    "wof:lastmodified":1449047011,
+    "wof:lastmodified":1466316504,
     "wof:name":"Trinova Inc",
     "wof:parent_id":85878959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.046226,30.686417,-88.046226,30.686417],
+  "bbox": [
+    -88.046226,
+    30.686417,
+    -88.046226,
+    30.686417
+],
   "geometry": {"coordinates":[-88.046226,30.686417],"type":"Point"}
 }

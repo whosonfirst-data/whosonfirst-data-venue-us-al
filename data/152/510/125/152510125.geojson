@@ -2,13 +2,14 @@
   "id": 152510125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.963882,31.802153,-85.963882,31.802153",
     "geom:latitude":31.802153,
     "geom:longitude":-85.963882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 Park St",
     "sg:city":"Troy",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867315,
+        85688675,
         85633793,
         85914551,
         102085619,
-        85688675
+        85867315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152510125,
-    "wof:lastmodified":1449047080,
+    "wof:lastmodified":1466318351,
     "wof:name":"Corner Laundry Express",
     "wof:parent_id":85867315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.963882,31.802153,-85.963882,31.802153],
+  "bbox": [
+    -85.963882,
+    31.802153,
+    -85.963882,
+    31.802153
+],
   "geometry": {"coordinates":[-85.963882,31.802153],"type":"Point"}
 }

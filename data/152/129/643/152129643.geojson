@@ -2,13 +2,14 @@
   "id": 152129643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.275266,32.354823,-86.275266,32.354823",
     "geom:latitude":32.354823,
     "geom:longitude":-86.275266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2210 Rosemont Pl",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879045,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152129643,
-    "wof:lastmodified":1449048031,
+    "wof:lastmodified":1466314917,
     "wof:name":"Capitol's Rosemont Gardens",
     "wof:parent_id":85879045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.275266,32.354823,-86.275266,32.354823],
+  "bbox": [
+    -86.275266,
+    32.354823,
+    -86.275266,
+    32.354823
+],
   "geometry": {"coordinates":[-86.275266,32.354823],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152289005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.656956,33.527413,-86.656956,33.527413",
     "geom:latitude":33.527413,
     "geom:longitude":-86.656956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5191 Pine Whispers Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.jefcoed.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85804755,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85804755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152289005,
-    "wof:lastmodified":1449048153,
+    "wof:lastmodified":1466317150,
     "wof:name":"Dabbs Area Vocational Ctr",
     "wof:parent_id":85804755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.656956,33.527413,-86.656956,33.527413],
-  "geometry": {"coordinates":[-86.656956,33.527413],"type":"Point"}
+  "bbox": [
+    -86.656956,
+    33.527413,
+    -86.656956,
+    33.527413
+],
+  "geometry": {"coordinates":[-86.65695599999999,33.527413],"type":"Point"}
 }

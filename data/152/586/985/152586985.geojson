@@ -2,13 +2,14 @@
   "id": 152586985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.462885,31.223145,-85.462885,31.223145",
     "geom:latitude":31.223145,
     "geom:longitude":-85.462885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"603 Woodleigh Rd",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805317,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85805317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152586985,
-    "wof:lastmodified":1449048392,
+    "wof:lastmodified":1466318801,
     "wof:name":"Jackson County School Readines",
     "wof:parent_id":85805317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.462885,31.223145,-85.462885,31.223145],
+  "bbox": [
+    -85.462885,
+    31.223145,
+    -85.462885,
+    31.223145
+],
   "geometry": {"coordinates":[-85.462885,31.223145],"type":"Point"}
 }

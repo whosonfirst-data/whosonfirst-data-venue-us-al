@@ -2,13 +2,14 @@
   "id": 152691607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.953977,33.402734,-86.953977,33.402734",
     "geom:latitude":33.402734,
     "geom:longitude":-86.953977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 19th St N",
     "sg:city":"Bessemer",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807371,
+        85688675,
         85633793,
         85914885,
         102085481,
-        85688675
+        85807371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152691607,
-    "wof:lastmodified":1449044681,
+    "wof:lastmodified":1466319364,
     "wof:name":"E Earl's Antiques",
     "wof:parent_id":85807371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.953977,33.402734,-86.953977,33.402734],
-  "geometry": {"coordinates":[-86.953977,33.402734],"type":"Point"}
+  "bbox": [
+    -86.953977,
+    33.402734,
+    -86.953977,
+    33.402734
+],
+  "geometry": {"coordinates":[-86.95397699999999,33.402734],"type":"Point"}
 }

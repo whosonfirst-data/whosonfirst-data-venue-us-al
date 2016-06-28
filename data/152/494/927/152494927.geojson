@@ -2,13 +2,14 @@
   "id": 152494927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.617502,34.757184,-86.617502,34.757184",
     "geom:latitude":34.757184,
     "geom:longitude":-86.617502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2207 Laverne Dr NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809309,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85809309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152494927,
-    "wof:lastmodified":1449048416,
+    "wof:lastmodified":1466318327,
     "wof:name":"Henryco Inc",
     "wof:parent_id":85809309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.617502,34.757184,-86.617502,34.757184],
+  "bbox": [
+    -86.617502,
+    34.757184,
+    -86.617502,
+    34.757184
+],
   "geometry": {"coordinates":[-86.617502,34.757184],"type":"Point"}
 }

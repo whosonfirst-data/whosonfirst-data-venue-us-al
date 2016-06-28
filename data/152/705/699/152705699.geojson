@@ -2,13 +2,14 @@
   "id": 152705699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.697984,34.727276,-87.697984,34.727276",
     "geom:latitude":34.727276,
     "geom:longitude":-87.697984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"512 S High St",
     "sg:city":"Tuscumbia",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852605,
+        85688675,
         85633793,
         85897447,
         102085625,
-        85688675
+        85852605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152705699,
-    "wof:lastmodified":1449048923,
+    "wof:lastmodified":1466319506,
     "wof:name":"Lesley Temple C M E Church",
     "wof:parent_id":85852605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.697984,34.727276,-87.697984,34.727276],
-  "geometry": {"coordinates":[-87.697984,34.727276],"type":"Point"}
+  "bbox": [
+    -87.697984,
+    34.727276,
+    -87.697984,
+    34.727276
+],
+  "geometry": {"coordinates":[-87.69798400000001,34.727276],"type":"Point"}
 }

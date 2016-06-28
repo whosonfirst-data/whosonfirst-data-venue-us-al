@@ -2,13 +2,14 @@
   "id": 152551471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.090654,32.465417,-85.090654,32.465417",
     "geom:latitude":32.465417,
     "geom:longitude":-85.090654,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Georgia Ave",
     "sg:city":"Phenix City",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822949,
+        85688675,
         85633793,
         85913715,
         102085697,
-        85688675
+        85822949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152551471,
-    "wof:lastmodified":1449045229,
+    "wof:lastmodified":1466318712,
     "wof:name":"Kelly S Lawn Care Service",
     "wof:parent_id":85822949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.090654,32.465417,-85.090654,32.465417],
+  "bbox": [
+    -85.090654,
+    32.465417,
+    -85.090654,
+    32.465417
+],
   "geometry": {"coordinates":[-85.090654,32.465417],"type":"Point"}
 }

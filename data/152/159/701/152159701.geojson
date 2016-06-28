@@ -2,13 +2,14 @@
   "id": 152159701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.839481,33.608756,-85.839481,33.608756",
     "geom:latitude":33.608756,
     "geom:longitude":-85.839481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1520 McPherson St",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.tyson.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829455,
+        85688675,
         85633793,
         85914281,
         102085603,
-        85688675
+        85829455
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152159701,
-    "wof:lastmodified":1449044864,
+    "wof:lastmodified":1466315084,
     "wof:name":"Tyson Foods Inc",
     "wof:parent_id":85829455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.839481,33.608756,-85.839481,33.608756],
-  "geometry": {"coordinates":[-85.839481,33.608756],"type":"Point"}
+  "bbox": [
+    -85.839481,
+    33.608756,
+    -85.839481,
+    33.608756
+],
+  "geometry": {"coordinates":[-85.83948100000001,33.608756],"type":"Point"}
 }

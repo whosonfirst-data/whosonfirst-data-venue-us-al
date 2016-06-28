@@ -2,13 +2,14 @@
   "id": 152385895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.328027,32.379244,-86.328027,32.379244",
     "geom:latitude":32.379244,
     "geom:longitude":-86.328027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Eugene St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856867,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85856867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152385895,
-    "wof:lastmodified":1449047043,
+    "wof:lastmodified":1466317818,
     "wof:name":"Montgomery Housing Authority",
     "wof:parent_id":85856867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.328027,32.379244,-86.328027,32.379244],
-  "geometry": {"coordinates":[-86.328027,32.379244],"type":"Point"}
+  "bbox": [
+    -86.328027,
+    32.379244,
+    -86.328027,
+    32.379244
+],
+  "geometry": {"coordinates":[-86.32802700000001,32.379244],"type":"Point"}
 }

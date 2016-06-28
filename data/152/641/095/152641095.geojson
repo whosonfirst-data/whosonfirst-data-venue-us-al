@@ -2,13 +2,14 @@
   "id": 152641095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.472935,34.204557,-86.472935,34.204557",
     "geom:latitude":34.204557,
     "geom:longitude":-86.472935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2335 Hinds Rd",
     "sg:city":"Blountsville",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085667,
-        85633793,
         85688675,
-        85819523
+        85633793,
+        85819523,
+        102085667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152641095,
-    "wof:lastmodified":1449047806,
+    "wof:lastmodified":1466319281,
     "wof:name":"Madison Materials Inc",
     "wof:parent_id":85819523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.472935,34.204557,-86.472935,34.204557],
-  "geometry": {"coordinates":[-86.472935,34.204557],"type":"Point"}
+  "bbox": [
+    -86.472935,
+    34.204557,
+    -86.472935,
+    34.204557
+],
+  "geometry": {"coordinates":[-86.47293500000001,34.204557],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152862133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.716642,33.599112,-86.716642,33.599112",
     "geom:latitude":33.599112,
     "geom:longitude":-86.716642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Lawson Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845635,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85845635
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152862133,
-    "wof:lastmodified":1449049012,
+    "wof:lastmodified":1466320160,
     "wof:name":"Korner Kupboard",
     "wof:parent_id":85845635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.716642,33.599112,-86.716642,33.599112],
-  "geometry": {"coordinates":[-86.716642,33.599112],"type":"Point"}
+  "bbox": [
+    -86.716642,
+    33.599112,
+    -86.716642,
+    33.599112
+],
+  "geometry": {"coordinates":[-86.71664199999999,33.599112],"type":"Point"}
 }

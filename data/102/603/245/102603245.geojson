@@ -2,13 +2,14 @@
   "id": 102603245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.694482,34.747553,-87.694482,34.747553",
     "geom:latitude":34.747553,
     "geom:longitude":-87.694482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 E 15th St",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858837,
+        85688675,
         85633793,
         85897473,
         102085625,
-        85688675
+        85858837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102603245,
-    "wof:lastmodified":1449069790,
+    "wof:lastmodified":1466317096,
     "wof:name":"Nile Valley Enterprise",
     "wof:parent_id":85858837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.694482,34.747553,-87.694482,34.747553],
-  "geometry": {"coordinates":[-87.694482,34.747553],"type":"Point"}
+  "bbox": [
+    -87.694482,
+    34.747553,
+    -87.694482,
+    34.747553
+],
+  "geometry": {"coordinates":[-87.69448199999999,34.747553],"type":"Point"}
 }

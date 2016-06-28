@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102480583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.856319,31.344312,-85.856319,31.344312",
     "geom:latitude":31.344312,
     "geom:longitude":-85.856319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 Beam Rd",
     "sg:city":"Enterprise",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848185,
+        85688675,
         85633793,
         85899527,
         102085699,
-        85688675
+        85848185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102480583,
-    "wof:lastmodified":1449068577,
+    "wof:lastmodified":1466315221,
     "wof:name":"Bartosch Enterprises",
     "wof:parent_id":85848185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.856319,31.344312,-85.856319,31.344312],
+  "bbox": [
+    -85.856319,
+    31.344312,
+    -85.856319,
+    31.344312
+],
   "geometry": {"coordinates":[-85.856319,31.344312],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152201409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.941686,32.565993,-85.941686,32.565993",
     "geom:latitude":32.565993,
     "geom:longitude":-85.941686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"796 Dolan Rd",
     "sg:city":"Tallassee",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827623,
+        85688675,
         85633793,
         85913291,
         102085631,
-        85688675
+        85827623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152201409,
-    "wof:lastmodified":1449048297,
+    "wof:lastmodified":1466315928,
     "wof:name":"Landscape Solutions LLC",
     "wof:parent_id":85827623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.941686,32.565993,-85.941686,32.565993],
+  "bbox": [
+    -85.941686,
+    32.565993,
+    -85.941686,
+    32.565993
+],
   "geometry": {"coordinates":[-85.941686,32.565993],"type":"Point"}
 }

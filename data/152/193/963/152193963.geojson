@@ -2,13 +2,14 @@
   "id": 152193963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.481215,34.655583,-86.481215,34.655583",
     "geom:latitude":34.655583,
     "geom:longitude":-86.481215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6751 US Hwy 431",
     "sg:city":"Owens Cross Rds",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878245,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152193963,
-    "wof:lastmodified":1449045052,
+    "wof:lastmodified":1466315977,
     "wof:name":"Century Products",
     "wof:parent_id":85878245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.481215,34.655583,-86.481215,34.655583],
-  "geometry": {"coordinates":[-86.481215,34.655583],"type":"Point"}
+  "bbox": [
+    -86.481215,
+    34.655583,
+    -86.481215,
+    34.655583
+],
+  "geometry": {"coordinates":[-86.48121500000001,34.655583],"type":"Point"}
 }

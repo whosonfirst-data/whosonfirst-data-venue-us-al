@@ -2,13 +2,14 @@
   "id": 152260907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.759995,33.412516,-86.759995,33.412516",
     "geom:latitude":33.412516,
     "geom:longitude":-86.759995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2550 Acton Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     "sg:website":"www.janiking.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085481,
-        85633793,
         85688675,
-        85831323
+        85633793,
+        85831323,
+        102085481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152260907,
-    "wof:lastmodified":1449045080,
+    "wof:lastmodified":1466316594,
     "wof:name":"Jani-King",
     "wof:parent_id":85831323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.759995,33.412516,-86.759995,33.412516],
+  "bbox": [
+    -86.759995,
+    33.412516,
+    -86.759995,
+    33.412516
+],
   "geometry": {"coordinates":[-86.759995,33.412516],"type":"Point"}
 }

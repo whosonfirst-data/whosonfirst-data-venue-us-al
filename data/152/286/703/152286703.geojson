@@ -2,13 +2,14 @@
   "id": 152286703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.010251,32.304173,-85.010251,32.304173",
     "geom:latitude":32.304173,
     "geom:longitude":-85.010251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"862 State Rte 165",
     "sg:city":"Fort Mitchell",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":152286703,
-    "wof:lastmodified":1449045504,
+    "wof:lastmodified":1466316887,
     "wof:name":"My Father's House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.010251,32.304173,-85.010251,32.304173],
+  "bbox": [
+    -85.010251,
+    32.304173,
+    -85.010251,
+    32.304173
+],
   "geometry": {"coordinates":[-85.010251,32.304173],"type":"Point"}
 }

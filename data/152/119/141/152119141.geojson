@@ -2,13 +2,14 @@
   "id": 152119141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.921583,33.34346,-86.921583,33.34346",
     "geom:latitude":33.34346,
     "geom:longitude":-86.921583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2500 Exchange Pl",
     "sg:city":"Bessemer",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825667,
+        85688675,
         85633793,
         85914885,
         102085481,
-        85688675
+        85825667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152119141,
-    "wof:lastmodified":1449047600,
+    "wof:lastmodified":1466314510,
     "wof:name":"Communications Test Design",
     "wof:parent_id":85825667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.921583,33.34346,-86.921583,33.34346],
+  "bbox": [
+    -86.921583,
+    33.34346,
+    -86.921583,
+    33.34346
+],
   "geometry": {"coordinates":[-86.921583,33.34346],"type":"Point"}
 }

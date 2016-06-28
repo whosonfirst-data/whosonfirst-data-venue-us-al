@@ -2,13 +2,14 @@
   "id": 152130925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.080123,34.520601,-87.080123,34.520601",
     "geom:latitude":34.520601,
     "geom:longitude":-87.080123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2547 Kirby Bridge Rd",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152130925,
-    "wof:lastmodified":1449045894,
+    "wof:lastmodified":1466315062,
     "wof:name":"West Morgan Water Auth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.080123,34.520601,-87.080123,34.520601],
+  "bbox": [
+    -87.080123,
+    34.520601,
+    -87.080123,
+    34.520601
+],
   "geometry": {"coordinates":[-87.080123,34.520601],"type":"Point"}
 }

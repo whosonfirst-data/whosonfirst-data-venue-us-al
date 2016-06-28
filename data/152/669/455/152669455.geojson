@@ -2,13 +2,14 @@
   "id": 152669455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.858765,34.119822,-86.858765,34.119822",
     "geom:latitude":34.119822,
     "geom:longitude":-86.858765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Lindsey Rd",
     "sg:city":"Cullman",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867305,
+        85688675,
         85633793,
         85914167,
         102085729,
-        85688675
+        85867305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152669455,
-    "wof:lastmodified":1449044835,
+    "wof:lastmodified":1466319194,
     "wof:name":"Sure Set Mobile Home Service",
     "wof:parent_id":85867305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.858765,34.119822,-86.858765,34.119822],
-  "geometry": {"coordinates":[-86.858765,34.119822],"type":"Point"}
+  "bbox": [
+    -86.858765,
+    34.119822,
+    -86.858765,
+    34.119822
+],
+  "geometry": {"coordinates":[-86.85876500000001,34.119822],"type":"Point"}
 }

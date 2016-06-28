@@ -2,13 +2,14 @@
   "id": 152830363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.417398,34.344232,-86.417398,34.344232",
     "geom:latitude":34.344232,
     "geom:longitude":-86.417398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"842 Alta Vis",
     "sg:city":"Arab",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085513,
-        85633793,
         85688675,
-        85849079
+        85633793,
+        85849079,
+        102085513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152830363,
-    "wof:lastmodified":1449045287,
+    "wof:lastmodified":1466319999,
     "wof:name":"Jimmy Flynn",
     "wof:parent_id":85849079,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.417398,34.344232,-86.417398,34.344232],
-  "geometry": {"coordinates":[-86.417398,34.344232],"type":"Point"}
+  "bbox": [
+    -86.417398,
+    34.344232,
+    -86.417398,
+    34.344232
+],
+  "geometry": {"coordinates":[-86.41739800000001,34.344232],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152661839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.448553,33.21082,-87.448553,33.21082",
     "geom:latitude":33.21082,
     "geom:longitude":-87.448553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7701 Old Birmingham Hwy",
     "sg:city":"Cottondale",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851363,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85851363
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":152661839,
-    "wof:lastmodified":1449048424,
+    "wof:lastmodified":1466319169,
     "wof:name":"Mr Bob's Bail Bonds",
     "wof:parent_id":85851363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.448553,33.21082,-87.448553,33.21082],
+  "bbox": [
+    -87.448553,
+    33.21082,
+    -87.448553,
+    33.21082
+],
   "geometry": {"coordinates":[-87.448553,33.21082],"type":"Point"}
 }

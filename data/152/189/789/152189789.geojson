@@ -2,13 +2,14 @@
   "id": 152189789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.734508,33.539276,-86.734508,33.539276",
     "geom:latitude":33.539276,
     "geom:longitude":-86.734508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"514 Chester Ave",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854117,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85854117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152189789,
-    "wof:lastmodified":1449047565,
+    "wof:lastmodified":1466315663,
     "wof:name":"Birmingham Housing Authority",
     "wof:parent_id":85854117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.734508,33.539276,-86.734508,33.539276],
-  "geometry": {"coordinates":[-86.734508,33.539276],"type":"Point"}
+  "bbox": [
+    -86.734508,
+    33.539276,
+    -86.734508,
+    33.539276
+],
+  "geometry": {"coordinates":[-86.73450800000001,33.539276],"type":"Point"}
 }

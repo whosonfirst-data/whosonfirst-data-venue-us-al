@@ -2,13 +2,14 @@
   "id": 152594243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.916803,33.575092,-86.916803,33.575092",
     "geom:latitude":33.575092,
     "geom:longitude":-86.916803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"425 Laurie Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820003,
+        85688675,
         85633793,
         85914875,
         102085481,
-        85688675
+        85820003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152594243,
-    "wof:lastmodified":1449044967,
+    "wof:lastmodified":1466318804,
     "wof:name":"CAW Construction",
     "wof:parent_id":85820003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.916803,33.575092,-86.916803,33.575092],
+  "bbox": [
+    -86.916803,
+    33.575092,
+    -86.916803,
+    33.575092
+],
   "geometry": {"coordinates":[-86.916803,33.575092],"type":"Point"}
 }

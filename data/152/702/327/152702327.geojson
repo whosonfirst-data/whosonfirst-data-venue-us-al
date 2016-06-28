@@ -2,13 +2,14 @@
   "id": 152702327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.902118,30.636266,-87.902118,30.636266",
     "geom:latitude":30.636266,
     "geom:longitude":-87.902118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7499 Pinehill Rd",
     "sg:city":"Daphne",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827259,
+        85688675,
         85633793,
         85914695,
         102085469,
-        85688675
+        85827259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152702327,
-    "wof:lastmodified":1449046611,
+    "wof:lastmodified":1466319353,
     "wof:name":"Asphalt Paving & Concrete Co",
     "wof:parent_id":85827259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.902118,30.636266,-87.902118,30.636266],
+  "bbox": [
+    -87.902118,
+    30.636266,
+    -87.902118,
+    30.636266
+],
   "geometry": {"coordinates":[-87.902118,30.636266],"type":"Point"}
 }

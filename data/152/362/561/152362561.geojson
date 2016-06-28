@@ -2,13 +2,14 @@
   "id": 152362561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.514352,32.602652,-85.514352,32.602652",
     "geom:latitude":32.602652,
     "geom:longitude":-85.514352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1635 Pumphrey Ave",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     "sg:website":"www.archangel.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851115,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85851115
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152362561,
-    "wof:lastmodified":1449047285,
+    "wof:lastmodified":1466317496,
     "wof:name":"Archangel Systems Inc",
     "wof:parent_id":85851115,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.514352,32.602652,-85.514352,32.602652],
+  "bbox": [
+    -85.514352,
+    32.602652,
+    -85.514352,
+    32.602652
+],
   "geometry": {"coordinates":[-85.514352,32.602652],"type":"Point"}
 }

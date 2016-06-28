@@ -2,13 +2,14 @@
   "id": 152792049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.540076,32.601286,-86.540076,32.601286",
     "geom:latitude":32.601286,
     "geom:longitude":-86.540076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2310 Co Rd 66",
     "sg:city":"Prattville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831059,
+        85688675,
         85633793,
         85913977,
         102085509,
-        85688675
+        85831059
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152792049,
-    "wof:lastmodified":1449045292,
+    "wof:lastmodified":1466319697,
     "wof:name":"Boones Chapel Baptist Church",
     "wof:parent_id":85831059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.540076,32.601286,-86.540076,32.601286],
+  "bbox": [
+    -86.540076,
+    32.601286,
+    -86.540076,
+    32.601286
+],
   "geometry": {"coordinates":[-86.540076,32.601286],"type":"Point"}
 }

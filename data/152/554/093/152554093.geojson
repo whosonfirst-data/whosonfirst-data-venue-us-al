@@ -2,13 +2,14 @@
   "id": 152554093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.173366,30.687705,-88.173366,30.687705",
     "geom:latitude":30.687705,
     "geom:longitude":-88.173366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 University Blvd S",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895799,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85895799
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152554093,
-    "wof:lastmodified":1449045254,
+    "wof:lastmodified":1466318594,
     "wof:name":"Mary Widberg Insurance",
     "wof:parent_id":85895799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.173366,30.687705,-88.173366,30.687705],
+  "bbox": [
+    -88.173366,
+    30.687705,
+    -88.173366,
+    30.687705
+],
   "geometry": {"coordinates":[-88.173366,30.687705],"type":"Point"}
 }

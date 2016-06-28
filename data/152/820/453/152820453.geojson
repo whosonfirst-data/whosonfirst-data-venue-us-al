@@ -2,13 +2,14 @@
   "id": 152820453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.84696,33.352108,-86.84696,33.352108",
     "geom:latitude":33.352108,
     "geom:longitude":-86.84696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Emery Dr W",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829763,
+        85688675,
         85633793,
         85914475,
         102085481,
-        85688675
+        85829763
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":152820453,
-    "wof:lastmodified":1449046690,
+    "wof:lastmodified":1466320100,
     "wof:name":"Annamarie M Dichiara DDS",
     "wof:parent_id":85829763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.84696,33.352108,-86.84696,33.352108],
+  "bbox": [
+    -86.84696,
+    33.352108,
+    -86.84696,
+    33.352108
+],
   "geometry": {"coordinates":[-86.84696,33.352108],"type":"Point"}
 }

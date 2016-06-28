@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102461249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.465652,32.616134,-85.465652,32.616134",
     "geom:latitude":32.616134,
     "geom:longitude":-85.465652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"739 Opelika Rd",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.connerbros.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852419,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85852419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102461249,
-    "wof:lastmodified":1449068689,
+    "wof:lastmodified":1466314972,
     "wof:name":"Conner Brothers Construction",
     "wof:parent_id":85852419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.465652,32.616134,-85.465652,32.616134],
-  "geometry": {"coordinates":[-85.465652,32.616134],"type":"Point"}
+  "bbox": [
+    -85.465652,
+    32.616134,
+    -85.465652,
+    32.616134
+],
+  "geometry": {"coordinates":[-85.46565200000001,32.616134],"type":"Point"}
 }

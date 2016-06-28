@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102446893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.723914,33.39827,-86.723914,33.39827",
     "geom:latitude":33.39827,
     "geom:longitude":-86.723914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5241 Kirkwall Ln",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -33,10 +34,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85826983
+        85633793,
+        85826983,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":102446893,
-    "wof:lastmodified":1449069993,
+    "wof:lastmodified":1466314517,
     "wof:name":"Fant Consulting Services Inc",
     "wof:parent_id":85826983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.723914,33.39827,-86.723914,33.39827],
-  "geometry": {"coordinates":[-86.723914,33.39827],"type":"Point"}
+  "bbox": [
+    -86.723914,
+    33.39827,
+    -86.723914,
+    33.39827
+],
+  "geometry": {"coordinates":[-86.72391399999999,33.39827],"type":"Point"}
 }

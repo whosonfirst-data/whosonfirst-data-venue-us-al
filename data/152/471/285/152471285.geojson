@@ -2,13 +2,14 @@
   "id": 152471285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.727353,33.105522,-86.727353,33.105522",
     "geom:latitude":33.105522,
     "geom:longitude":-86.727353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Shady Hills Cir",
     "sg:city":"Calera",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85849529
+        85633793,
+        85849529,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152471285,
-    "wof:lastmodified":1449046161,
+    "wof:lastmodified":1466318161,
     "wof:name":"A Gang Maintenance",
     "wof:parent_id":85849529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.727353,33.105522,-86.727353,33.105522],
-  "geometry": {"coordinates":[-86.727353,33.105522],"type":"Point"}
+  "bbox": [
+    -86.727353,
+    33.105522,
+    -86.727353,
+    33.105522
+],
+  "geometry": {"coordinates":[-86.72735299999999,33.105522],"type":"Point"}
 }

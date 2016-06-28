@@ -2,13 +2,14 @@
   "id": 152357667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.610157,34.676235,-86.610157,34.676235",
     "geom:latitude":34.676235,
     "geom:longitude":-86.610157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5251 Triana Blvd SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85810591,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85810591
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152357667,
-    "wof:lastmodified":1449048357,
+    "wof:lastmodified":1466317638,
     "wof:name":"Covanta Huntsville Inc",
     "wof:parent_id":85810591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.610157,34.676235,-86.610157,34.676235],
+  "bbox": [
+    -86.610157,
+    34.676235,
+    -86.610157,
+    34.676235
+],
   "geometry": {"coordinates":[-86.610157,34.676235],"type":"Point"}
 }

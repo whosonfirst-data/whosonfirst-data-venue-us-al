@@ -2,13 +2,14 @@
   "id": 152662215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.804477,33.496447,-86.804477,33.496447",
     "geom:latitude":33.496447,
     "geom:longitude":-86.804477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1117 14th St S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813175,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85813175
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152662215,
-    "wof:lastmodified":1449047425,
+    "wof:lastmodified":1466319022,
     "wof:name":"Univ Ala B At Ham Police Dept",
     "wof:parent_id":85813175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.804477,33.496447,-86.804477,33.496447],
-  "geometry": {"coordinates":[-86.804477,33.496447],"type":"Point"}
+  "bbox": [
+    -86.804477,
+    33.496447,
+    -86.804477,
+    33.496447
+],
+  "geometry": {"coordinates":[-86.80447700000001,33.496447],"type":"Point"}
 }

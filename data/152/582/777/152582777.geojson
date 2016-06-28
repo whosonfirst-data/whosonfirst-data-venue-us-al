@@ -2,13 +2,14 @@
   "id": 152582777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.401935,31.22804,-85.401935,31.22804",
     "geom:latitude":31.22804,
     "geom:longitude":-85.401935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Montana St",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852069,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85852069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152582777,
-    "wof:lastmodified":1449046792,
+    "wof:lastmodified":1466318784,
     "wof:name":"Varner Memorial Funeral Home",
     "wof:parent_id":85852069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.401935,31.22804,-85.401935,31.22804],
-  "geometry": {"coordinates":[-85.401935,31.22804],"type":"Point"}
+  "bbox": [
+    -85.401935,
+    31.22804,
+    -85.401935,
+    31.22804
+],
+  "geometry": {"coordinates":[-85.40193499999999,31.22804],"type":"Point"}
 }

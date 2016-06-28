@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102510911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.314597,34.335079,-86.314597,34.335079",
     "geom:latitude":34.335079,
     "geom:longitude":-86.314597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2300 Gunter Ave",
     "sg:city":"Guntersville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829421,
+        85688675,
         85633793,
         85899833,
         102085513,
-        85688675
+        85829421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102510911,
-    "wof:lastmodified":1449069191,
+    "wof:lastmodified":1466316771,
     "wof:name":"Lakeview Inn",
     "wof:parent_id":85829421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.314597,34.335079,-86.314597,34.335079],
-  "geometry": {"coordinates":[-86.314597,34.335079],"type":"Point"}
+  "bbox": [
+    -86.314597,
+    34.335079,
+    -86.314597,
+    34.335079
+],
+  "geometry": {"coordinates":[-86.31459700000001,34.335079],"type":"Point"}
 }

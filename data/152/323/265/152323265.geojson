@@ -2,13 +2,14 @@
   "id": 152323265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.670475,34.528883,-86.670475,34.528883",
     "geom:latitude":34.528883,
     "geom:longitude":-86.670475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"654 Johnson Landing Rd",
     "sg:city":"Valhermoso Springs",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822793,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85822793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152323265,
-    "wof:lastmodified":1449044701,
+    "wof:lastmodified":1466317323,
     "wof:name":"Marcys Hands & Feet",
     "wof:parent_id":85822793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.670475,34.528883,-86.670475,34.528883],
+  "bbox": [
+    -86.670475,
+    34.528883,
+    -86.670475,
+    34.528883
+],
   "geometry": {"coordinates":[-86.670475,34.528883],"type":"Point"}
 }

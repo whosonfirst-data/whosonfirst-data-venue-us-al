@@ -2,13 +2,14 @@
   "id": 152205375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.476434,32.604303,-85.476434,32.604303",
     "geom:latitude":32.604303,
     "geom:longitude":-85.476434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 E Thach Ave",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819999,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85819999
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152205375,
-    "wof:lastmodified":1449047089,
+    "wof:lastmodified":1466316106,
     "wof:name":"Alabama Head Injury Foundation",
     "wof:parent_id":85819999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.476434,32.604303,-85.476434,32.604303],
+  "bbox": [
+    -85.476434,
+    32.604303,
+    -85.476434,
+    32.604303
+],
   "geometry": {"coordinates":[-85.476434,32.604303],"type":"Point"}
 }

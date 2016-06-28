@@ -2,13 +2,14 @@
   "id": 152550865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.826264,31.324065,-85.826264,31.324065",
     "geom:latitude":31.324065,
     "geom:longitude":-85.826264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"913 Rucker Blvd",
     "sg:city":"Enterprise",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827323,
+        85688675,
         85633793,
         85899527,
         102085699,
-        85688675
+        85827323
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152550865,
-    "wof:lastmodified":1449046804,
+    "wof:lastmodified":1466318605,
     "wof:name":"Black Belt Accadimy",
     "wof:parent_id":85827323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.826264,31.324065,-85.826264,31.324065],
-  "geometry": {"coordinates":[-85.826264,31.324065],"type":"Point"}
+  "bbox": [
+    -85.826264,
+    31.324065,
+    -85.826264,
+    31.324065
+],
+  "geometry": {"coordinates":[-85.82626399999999,31.324065],"type":"Point"}
 }

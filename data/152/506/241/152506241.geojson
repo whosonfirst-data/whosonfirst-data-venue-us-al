@@ -2,13 +2,14 @@
   "id": 152506241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.861691,31.345719,-85.861691,31.345719",
     "geom:latitude":31.345719,
     "geom:longitude":-85.861691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Windover Way",
     "sg:city":"Enterprise",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848185,
+        85688675,
         85633793,
         85899527,
         102085699,
-        85688675,
+        85848185,
         85837695
     ],
     "wof:breaches":[],
@@ -61,14 +62,20 @@
         }
     ],
     "wof:id":152506241,
-    "wof:lastmodified":1449044397,
+    "wof:lastmodified":1466318342,
     "wof:name":"Kilcrease Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.861691,31.345719,-85.861691,31.345719],
-  "geometry": {"coordinates":[-85.861691,31.345719],"type":"Point"}
+  "bbox": [
+    -85.861691,
+    31.345719,
+    -85.861691,
+    31.345719
+],
+  "geometry": {"coordinates":[-85.86169099999999,31.345719],"type":"Point"}
 }

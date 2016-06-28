@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102445081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.801515,33.255432,-86.801515,33.255432",
     "geom:latitude":33.255432,
     "geom:longitude":-86.801515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1211 Simmsville Rd",
     "sg:city":"Alabaster",
     "sg:classifiers":[
@@ -36,11 +37,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828267,
+        85688675,
         85633793,
         85914501,
         102085499,
-        85688675
+        85828267
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":102445081,
-    "wof:lastmodified":1449068126,
+    "wof:lastmodified":1466314330,
     "wof:name":"Central Alabama Heating & Air",
     "wof:parent_id":85828267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.801515,33.255432,-86.801515,33.255432],
-  "geometry": {"coordinates":[-86.801515,33.255432],"type":"Point"}
+  "bbox": [
+    -86.801515,
+    33.255432,
+    -86.801515,
+    33.255432
+],
+  "geometry": {"coordinates":[-86.80151499999999,33.255432],"type":"Point"}
 }

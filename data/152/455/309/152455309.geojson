@@ -2,13 +2,14 @@
   "id": 152455309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.768364,34.885591,-85.768364,34.885591",
     "geom:latitude":34.885591,
     "geom:longitude":-85.768364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2283 Co Rd 96",
     "sg:city":"Stevenson",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809451,
+        85688675,
         85633793,
         85914033,
         102085607,
-        85688675
+        85809451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152455309,
-    "wof:lastmodified":1449048173,
+    "wof:lastmodified":1466318210,
     "wof:name":"Hicks Disposal Svc",
     "wof:parent_id":85809451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.768364,34.885591,-85.768364,34.885591],
-  "geometry": {"coordinates":[-85.768364,34.885591],"type":"Point"}
+  "bbox": [
+    -85.768364,
+    34.885591,
+    -85.768364,
+    34.885591
+],
+  "geometry": {"coordinates":[-85.76836400000001,34.885591],"type":"Point"}
 }

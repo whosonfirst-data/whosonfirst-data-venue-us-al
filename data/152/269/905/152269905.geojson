@@ -2,13 +2,14 @@
   "id": 152269905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.302798,32.381973,-86.302798,32.381973",
     "geom:latitude":32.381973,
     "geom:longitude":-86.302798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 N Decatur St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879043,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152269905,
-    "wof:lastmodified":1449047201,
+    "wof:lastmodified":1466316816,
     "wof:name":"Mc Clendon's Svc Ctr",
     "wof:parent_id":85879043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.302798,32.381973,-86.302798,32.381973],
+  "bbox": [
+    -86.302798,
+    32.381973,
+    -86.302798,
+    32.381973
+],
   "geometry": {"coordinates":[-86.302798,32.381973],"type":"Point"}
 }

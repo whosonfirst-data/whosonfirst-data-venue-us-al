@@ -2,13 +2,14 @@
   "id": 102630363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.232628,32.358907,-86.232628,32.358907",
     "geom:latitude":32.358907,
     "geom:longitude":-86.232628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4270 Carmichael Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879047,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102630363,
-    "wof:lastmodified":1449068648,
+    "wof:lastmodified":1466317455,
     "wof:name":"John E Bennett DMD",
     "wof:parent_id":85879047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.232628,32.358907,-86.232628,32.358907],
-  "geometry": {"coordinates":[-86.232628,32.358907],"type":"Point"}
+  "bbox": [
+    -86.232628,
+    32.358907,
+    -86.232628,
+    32.358907
+],
+  "geometry": {"coordinates":[-86.23262800000001,32.358907],"type":"Point"}
 }

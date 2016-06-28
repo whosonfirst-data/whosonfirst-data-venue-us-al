@@ -2,13 +2,14 @@
   "id": 152622105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.143988,31.885976,-85.143988,31.885976",
     "geom:latitude":31.885976,
     "geom:longitude":-85.143988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"549 S Randolph Ave",
     "sg:city":"Eufaula",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152622105,
-    "wof:lastmodified":1449048078,
+    "wof:lastmodified":1466318930,
     "wof:name":"Stanford Memorial Chapel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.143988,31.885976,-85.143988,31.885976],
-  "geometry": {"coordinates":[-85.143988,31.885976],"type":"Point"}
+  "bbox": [
+    -85.143988,
+    31.885976,
+    -85.143988,
+    31.885976
+],
+  "geometry": {"coordinates":[-85.14398799999999,31.885976],"type":"Point"}
 }

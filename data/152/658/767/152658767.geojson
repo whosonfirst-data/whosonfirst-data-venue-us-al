@@ -2,13 +2,14 @@
   "id": 152658767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.52943,32.598403,-85.52943,32.598403",
     "geom:latitude":32.598403,
     "geom:longitude":-85.52943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"354 Industry Dr",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.arotech.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851115,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85851115
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152658767,
-    "wof:lastmodified":1449044178,
+    "wof:lastmodified":1466319140,
     "wof:name":"Arotech Corp",
     "wof:parent_id":85851115,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.52943,32.598403,-85.52943,32.598403],
+  "bbox": [
+    -85.52943,
+    32.598403,
+    -85.52943,
+    32.598403
+],
   "geometry": {"coordinates":[-85.52943,32.598403],"type":"Point"}
 }

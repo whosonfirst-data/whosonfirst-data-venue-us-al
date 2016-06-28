@@ -2,13 +2,14 @@
   "id": 152486155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.885697,33.322159,-86.885697,33.322159",
     "geom:latitude":33.322159,
     "geom:longitude":-86.885697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1970 Lakemont Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851743,
+        85688675,
         85633793,
         85914471,
         102085499,
-        85688675
+        85851743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152486155,
-    "wof:lastmodified":1449046877,
+    "wof:lastmodified":1466318242,
     "wof:name":"Celeste Prestenbach Designs",
     "wof:parent_id":85851743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.885697,33.322159,-86.885697,33.322159],
-  "geometry": {"coordinates":[-86.885697,33.322159],"type":"Point"}
+  "bbox": [
+    -86.885697,
+    33.322159,
+    -86.885697,
+    33.322159
+],
+  "geometry": {"coordinates":[-86.88569699999999,33.322159],"type":"Point"}
 }

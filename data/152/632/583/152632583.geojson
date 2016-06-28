@@ -2,13 +2,14 @@
   "id": 152632583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.868406,33.958486,-86.868406,33.958486",
     "geom:latitude":33.958486,
     "geom:longitude":-86.868406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 Co Rd 517",
     "sg:city":"Hanceville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867305,
+        85688675,
         85633793,
         85914167,
         102085729,
-        85688675
+        85867305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152632583,
-    "wof:lastmodified":1449047251,
+    "wof:lastmodified":1466319147,
     "wof:name":"Sanders Farm Supply",
     "wof:parent_id":85867305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.868406,33.958486,-86.868406,33.958486],
-  "geometry": {"coordinates":[-86.868406,33.958486],"type":"Point"}
+  "bbox": [
+    -86.868406,
+    33.958486,
+    -86.868406,
+    33.958486
+],
+  "geometry": {"coordinates":[-86.86840599999999,33.958486],"type":"Point"}
 }

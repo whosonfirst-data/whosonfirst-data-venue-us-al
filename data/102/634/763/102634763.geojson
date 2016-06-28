@@ -2,13 +2,14 @@
   "id": 102634763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.95015,34.193003,-87.95015,34.193003",
     "geom:latitude":34.193003,
     "geom:longitude":-87.95015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1818 Grover Davis Rd",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102634763,
-    "wof:lastmodified":1449068922,
+    "wof:lastmodified":1466317570,
     "wof:name":"Jimmie D Cantrell",
     "wof:parent_id":85688675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.95015,34.193003,-87.95015,34.193003],
-  "geometry": {"coordinates":[-87.95015,34.193003],"type":"Point"}
+  "bbox": [
+    -87.95015,
+    34.193003,
+    -87.95015,
+    34.193003
+],
+  "geometry": {"coordinates":[-87.95014999999999,34.193003],"type":"Point"}
 }

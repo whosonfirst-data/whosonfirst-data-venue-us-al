@@ -2,13 +2,14 @@
   "id": 152442627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.041252,33.874413,-86.041252,33.874413",
     "geom:latitude":33.874413,
     "geom:longitude":-86.041252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1960 Leota Rd",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085545,
-        85633793,
         85688675,
-        85839341
+        85633793,
+        85839341,
+        102085545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152442627,
-    "wof:lastmodified":1449046342,
+    "wof:lastmodified":1466318062,
     "wof:name":"Hurley Heating & Cooling",
     "wof:parent_id":85839341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.041252,33.874413,-86.041252,33.874413],
+  "bbox": [
+    -86.041252,
+    33.874413,
+    -86.041252,
+    33.874413
+],
   "geometry": {"coordinates":[-86.041252,33.874413],"type":"Point"}
 }

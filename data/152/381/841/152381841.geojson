@@ -2,13 +2,14 @@
   "id": 152381841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.399047,31.210143,-85.399047,31.210143",
     "geom:latitude":31.210143,
     "geom:longitude":-85.399047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"910 S Bell St",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852069,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85852069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152381841,
-    "wof:lastmodified":1449044677,
+    "wof:lastmodified":1466317760,
     "wof:name":"CNC Daycare",
     "wof:parent_id":85852069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.399047,31.210143,-85.399047,31.210143],
+  "bbox": [
+    -85.399047,
+    31.210143,
+    -85.399047,
+    31.210143
+],
   "geometry": {"coordinates":[-85.399047,31.210143],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152853815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.092814,30.556584,-88.092814,30.556584",
     "geom:latitude":30.556584,
     "geom:longitude":-88.092814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6470 Dauphin Island Pkwy",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     "sg:website":"www.flowerwood.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085585,
-        85633793,
         85688675,
-        85878941
+        85633793,
+        85878941,
+        102085585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152853815,
-    "wof:lastmodified":1449046172,
+    "wof:lastmodified":1466320127,
     "wof:name":"Flowerwood Nursery Inc",
     "wof:parent_id":85878941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.092814,30.556584,-88.092814,30.556584],
+  "bbox": [
+    -88.092814,
+    30.556584,
+    -88.092814,
+    30.556584
+],
   "geometry": {"coordinates":[-88.092814,30.556584],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102507493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.124702,30.662073,-88.124702,30.662073",
     "geom:latitude":30.662073,
     "geom:longitude":-88.124702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3258 Pleasant Valley Rd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807453,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85807453
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102507493,
-    "wof:lastmodified":1449068987,
+    "wof:lastmodified":1466316619,
     "wof:name":"Glidden Paint",
     "wof:parent_id":85807453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.124702,30.662073,-88.124702,30.662073],
+  "bbox": [
+    -88.124702,
+    30.662073,
+    -88.124702,
+    30.662073
+],
   "geometry": {"coordinates":[-88.124702,30.662073],"type":"Point"}
 }

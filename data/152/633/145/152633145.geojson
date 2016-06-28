@@ -2,13 +2,14 @@
   "id": 152633145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.354864,31.209945,-85.354864,31.209945",
     "geom:latitude":31.209945,
     "geom:longitude":-85.354864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2191 E Main St",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847911,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85847911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152633145,
-    "wof:lastmodified":1449048869,
+    "wof:lastmodified":1466319014,
     "wof:name":"Altacare Of Dothan",
     "wof:parent_id":85847911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.354864,31.209945,-85.354864,31.209945],
-  "geometry": {"coordinates":[-85.354864,31.209945],"type":"Point"}
+  "bbox": [
+    -85.354864,
+    31.209945,
+    -85.354864,
+    31.209945
+],
+  "geometry": {"coordinates":[-85.35486400000001,31.209945],"type":"Point"}
 }

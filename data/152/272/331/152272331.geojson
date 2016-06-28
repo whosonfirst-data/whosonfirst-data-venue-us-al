@@ -2,13 +2,14 @@
   "id": 152272331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.862435,34.167262,-86.862435,34.167262",
     "geom:latitude":34.167262,
     "geom:longitude":-86.862435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1634 Logan Dr SW",
     "sg:city":"Cullman",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867305,
+        85688675,
         85633793,
         85914167,
         102085729,
-        85688675
+        85867305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152272331,
-    "wof:lastmodified":1449048603,
+    "wof:lastmodified":1466316740,
     "wof:name":"Bennefield Brothers Moving Co",
     "wof:parent_id":85867305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.862435,34.167262,-86.862435,34.167262],
+  "bbox": [
+    -86.862435,
+    34.167262,
+    -86.862435,
+    34.167262
+],
   "geometry": {"coordinates":[-86.862435,34.167262],"type":"Point"}
 }

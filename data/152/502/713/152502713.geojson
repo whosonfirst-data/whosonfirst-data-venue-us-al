@@ -2,13 +2,14 @@
   "id": 152502713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.490434,34.801902,-86.490434,34.801902",
     "geom:latitude":34.801902,
     "geom:longitude":-86.490434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Squirrel Dr",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":152502713,
-    "wof:lastmodified":1449046432,
+    "wof:lastmodified":1466318366,
     "wof:name":"Kauffman & Gagliano Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.490434,34.801902,-86.490434,34.801902],
-  "geometry": {"coordinates":[-86.490434,34.801902],"type":"Point"}
+  "bbox": [
+    -86.490434,
+    34.801902,
+    -86.490434,
+    34.801902
+],
+  "geometry": {"coordinates":[-86.49043399999999,34.801902],"type":"Point"}
 }

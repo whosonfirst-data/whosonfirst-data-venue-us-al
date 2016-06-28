@@ -2,13 +2,14 @@
   "id": 152872499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.307027,32.363841,-86.307027,32.363841",
     "geom:latitude":32.363841,
     "geom:longitude":-86.307027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"922 S Perry St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879039,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152872499,
-    "wof:lastmodified":1449044714,
+    "wof:lastmodified":1466320206,
     "wof:name":"HI Tech Photographics Inc",
     "wof:parent_id":85879039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.307027,32.363841,-86.307027,32.363841],
-  "geometry": {"coordinates":[-86.307027,32.363841],"type":"Point"}
+  "bbox": [
+    -86.307027,
+    32.363841,
+    -86.307027,
+    32.363841
+],
+  "geometry": {"coordinates":[-86.30702700000001,32.363841],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152407275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.534712,31.166973,-87.534712,31.166973",
     "geom:latitude":31.166973,
     "geom:longitude":-87.534712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"369 McCullough Rd",
     "sg:city":"Atmore",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843687,
+        85688675,
         85633793,
         85899775,
         102085735,
-        85688675
+        85843687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152407275,
-    "wof:lastmodified":1449046865,
+    "wof:lastmodified":1466318021,
     "wof:name":"Drew Managment Group Inc",
     "wof:parent_id":85843687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.534712,31.166973,-87.534712,31.166973],
+  "bbox": [
+    -87.534712,
+    31.166973,
+    -87.534712,
+    31.166973
+],
   "geometry": {"coordinates":[-87.534712,31.166973],"type":"Point"}
 }

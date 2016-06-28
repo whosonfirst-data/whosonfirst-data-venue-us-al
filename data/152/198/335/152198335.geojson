@@ -2,13 +2,14 @@
   "id": 152198335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.774014,33.514807,-86.774014,33.514807",
     "geom:latitude":33.514807,
     "geom:longitude":-86.774014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3807 Clairmont Ave S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876275,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152198335,
-    "wof:lastmodified":1449045986,
+    "wof:lastmodified":1466315929,
     "wof:name":"Gaia's",
     "wof:parent_id":85876275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.774014,33.514807,-86.774014,33.514807],
-  "geometry": {"coordinates":[-86.774014,33.514807],"type":"Point"}
+  "bbox": [
+    -86.774014,
+    33.514807,
+    -86.774014,
+    33.514807
+],
+  "geometry": {"coordinates":[-86.77401399999999,33.514807],"type":"Point"}
 }

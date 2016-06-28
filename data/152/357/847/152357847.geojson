@@ -2,13 +2,14 @@
   "id": 152357847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.739376,34.677265,-86.739376,34.677265",
     "geom:latitude":34.677265,
     "geom:longitude":-86.739376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Lime Quarry Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831899,
+        85688675,
         85633793,
         85913593,
         102085487,
-        85688675,
+        85831899,
         85807231
     ],
     "wof:breaches":[],
@@ -61,14 +62,20 @@
         }
     ],
     "wof:id":152357847,
-    "wof:lastmodified":1449048355,
+    "wof:lastmodified":1466317771,
     "wof:name":"Madison Golf Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.739376,34.677265,-86.739376,34.677265],
-  "geometry": {"coordinates":[-86.739376,34.677265],"type":"Point"}
+  "bbox": [
+    -86.739376,
+    34.677265,
+    -86.739376,
+    34.677265
+],
+  "geometry": {"coordinates":[-86.73937599999999,34.677265],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152494431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.843796,31.308174,-85.843796,31.308174",
     "geom:latitude":31.308174,
     "geom:longitude":-85.843796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"610 E Park Ave",
     "sg:city":"Enterprise",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848823,
+        85688675,
         85633793,
         85899527,
         102085699,
-        85688675
+        85848823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152494431,
-    "wof:lastmodified":1449048414,
+    "wof:lastmodified":1466318314,
     "wof:name":"Park Avenue Package Store",
     "wof:parent_id":85848823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.843796,31.308174,-85.843796,31.308174],
+  "bbox": [
+    -85.843796,
+    31.308174,
+    -85.843796,
+    31.308174
+],
   "geometry": {"coordinates":[-85.843796,31.308174],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152424569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.107865,30.526315,-88.107865,30.526315",
     "geom:latitude":30.526315,
     "geom:longitude":-88.107865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7875 Dauphin Island Pkwy",
     "sg:city":"Theodore",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085585,
-        85633793,
         85688675,
-        85878941
+        85633793,
+        85878941,
+        102085585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152424569,
-    "wof:lastmodified":1449048638,
+    "wof:lastmodified":1466317971,
     "wof:name":"Weyerhaeuser Company",
     "wof:parent_id":85878941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.107865,30.526315,-88.107865,30.526315],
+  "bbox": [
+    -88.107865,
+    30.526315,
+    -88.107865,
+    30.526315
+],
   "geometry": {"coordinates":[-88.107865,30.526315],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102520339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.825752,33.698954,-85.825752,33.698954",
     "geom:latitude":33.698954,
     "geom:longitude":-85.825752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4200 Whiteside Ave",
     "sg:city":"Anniston",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825451,
+        85688675,
         85633793,
         85915207,
         102085603,
-        85688675
+        85825451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102520339,
-    "wof:lastmodified":1449068587,
+    "wof:lastmodified":1466317231,
     "wof:name":"Ms Faye's Daycare",
     "wof:parent_id":85825451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.825752,33.698954,-85.825752,33.698954],
-  "geometry": {"coordinates":[-85.825752,33.698954],"type":"Point"}
+  "bbox": [
+    -85.825752,
+    33.698954,
+    -85.825752,
+    33.698954
+],
+  "geometry": {"coordinates":[-85.82575199999999,33.698954],"type":"Point"}
 }

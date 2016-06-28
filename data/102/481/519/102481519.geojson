@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102481519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.570641,34.657799,-86.570641,34.657799",
     "geom:latitude":34.657799,
     "geom:longitude":-86.570641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7920 Logan Dr SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85830495,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85830495
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102481519,
-    "wof:lastmodified":1449069867,
+    "wof:lastmodified":1466315403,
     "wof:name":"Super Rose Nails",
     "wof:parent_id":85830495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.570641,34.657799,-86.570641,34.657799],
-  "geometry": {"coordinates":[-86.570641,34.657799],"type":"Point"}
+  "bbox": [
+    -86.570641,
+    34.657799,
+    -86.570641,
+    34.657799
+],
+  "geometry": {"coordinates":[-86.57064099999999,34.657799],"type":"Point"}
 }

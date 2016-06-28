@@ -2,13 +2,14 @@
   "id": 152522547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.4545,32.598607,-86.4545,32.598607",
     "geom:latitude":32.598607,
     "geom:longitude":-86.4545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 Co Rd 100",
     "sg:city":"Deatsville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831059,
+        85688675,
         85633793,
         85913977,
         102085509,
-        85688675
+        85831059
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152522547,
-    "wof:lastmodified":1449046510,
+    "wof:lastmodified":1466318511,
     "wof:name":"Silas & Sons Construction",
     "wof:parent_id":85831059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.4545,32.598607,-86.4545,32.598607],
+  "bbox": [
+    -86.4545,
+    32.598607,
+    -86.4545,
+    32.598607
+],
   "geometry": {"coordinates":[-86.4545,32.598607],"type":"Point"}
 }

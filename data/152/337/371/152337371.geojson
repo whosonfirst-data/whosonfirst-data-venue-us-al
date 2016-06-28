@@ -2,13 +2,14 @@
   "id": 152337371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.851327,31.311095,-85.851327,31.311095",
     "geom:latitude":31.311095,
     "geom:longitude":-85.851327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 S Main St",
     "sg:city":"Enterprise",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.ndgi.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848823,
+        85688675,
         85633793,
         85899527,
         102085699,
-        85688675
+        85848823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152337371,
-    "wof:lastmodified":1449046470,
+    "wof:lastmodified":1466317524,
     "wof:name":"Navigator Development Group",
     "wof:parent_id":85848823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.851327,31.311095,-85.851327,31.311095],
+  "bbox": [
+    -85.851327,
+    31.311095,
+    -85.851327,
+    31.311095
+],
   "geometry": {"coordinates":[-85.851327,31.311095],"type":"Point"}
 }

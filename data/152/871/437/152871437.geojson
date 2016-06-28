@@ -2,13 +2,14 @@
   "id": 152871437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.004449,33.989042,-86.004449,33.989042",
     "geom:latitude":33.989042,
     "geom:longitude":-86.004449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1617 Rainbow Dr",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822279,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85822279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152871437,
-    "wof:lastmodified":1449045827,
+    "wof:lastmodified":1466320202,
     "wof:name":"Pruett's Bar-B-Q",
     "wof:parent_id":85822279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.004449,33.989042,-86.004449,33.989042],
-  "geometry": {"coordinates":[-86.004449,33.989042],"type":"Point"}
+  "bbox": [
+    -86.004449,
+    33.989042,
+    -86.004449,
+    33.989042
+],
+  "geometry": {"coordinates":[-86.00444899999999,33.989042],"type":"Point"}
 }

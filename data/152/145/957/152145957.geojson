@@ -2,13 +2,14 @@
   "id": 152145957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.688546,30.2595,-87.688546,30.2595",
     "geom:latitude":30.2595,
     "geom:longitude":-87.688546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"821 Gulf Shores Pkwy",
     "sg:city":"Gulf Shores",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.gulfshoresaccommodations.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868551,
+        85688675,
         85633793,
         85914719,
         102085469,
-        85688675
+        85868551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152145957,
-    "wof:lastmodified":1449045713,
+    "wof:lastmodified":1466315447,
     "wof:name":"Gulf Shores Rentals Inc",
     "wof:parent_id":85868551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.688546,30.2595,-87.688546,30.2595],
+  "bbox": [
+    -87.688546,
+    30.2595,
+    -87.688546,
+    30.2595
+],
   "geometry": {"coordinates":[-87.688546,30.2595],"type":"Point"}
 }

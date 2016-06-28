@@ -2,13 +2,14 @@
   "id": 152618327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.520193,30.301522,-87.520193,30.301522",
     "geom:latitude":30.301522,
     "geom:longitude":-87.520193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29266 Bayshore Dr",
     "sg:city":"Orange Beach",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868551,
+        85688675,
         85633793,
         85914719,
         102085469,
-        85688675
+        85868551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152618327,
-    "wof:lastmodified":1449047172,
+    "wof:lastmodified":1466318913,
     "wof:name":"Powells Marine Services",
     "wof:parent_id":85868551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.520193,30.301522,-87.520193,30.301522],
-  "geometry": {"coordinates":[-87.520193,30.301522],"type":"Point"}
+  "bbox": [
+    -87.520193,
+    30.301522,
+    -87.520193,
+    30.301522
+],
+  "geometry": {"coordinates":[-87.52019300000001,30.301522],"type":"Point"}
 }

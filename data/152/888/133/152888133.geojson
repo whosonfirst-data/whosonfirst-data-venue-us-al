@@ -2,13 +2,14 @@
   "id": 152888133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.087357,31.41722,-86.087357,31.41722",
     "geom:latitude":31.41722,
     "geom:longitude":-86.087357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1855 Hickman Ave",
     "sg:city":"Elba",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837695,
+        85688675,
         85633793,
         85899527,
         102085699,
-        85688675
+        85837695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152888133,
-    "wof:lastmodified":1449047181,
+    "wof:lastmodified":1466320275,
     "wof:name":"Mary Phillips",
     "wof:parent_id":85837695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.087357,31.41722,-86.087357,31.41722],
+  "bbox": [
+    -86.087357,
+    31.41722,
+    -86.087357,
+    31.41722
+],
   "geometry": {"coordinates":[-86.087357,31.41722],"type":"Point"}
 }

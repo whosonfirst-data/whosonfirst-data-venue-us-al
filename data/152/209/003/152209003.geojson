@@ -2,13 +2,14 @@
   "id": 152209003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.677062,34.735715,-86.677062,34.735715",
     "geom:latitude":34.735715,
     "geom:longitude":-86.677062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"631 Discovery Dr NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85826841,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85826841
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152209003,
-    "wof:lastmodified":1449048432,
+    "wof:lastmodified":1466315993,
     "wof:name":"Aegis Technologies Group Inc",
     "wof:parent_id":85826841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.677062,34.735715,-86.677062,34.735715],
-  "geometry": {"coordinates":[-86.677062,34.735715],"type":"Point"}
+  "bbox": [
+    -86.677062,
+    34.735715,
+    -86.677062,
+    34.735715
+],
+  "geometry": {"coordinates":[-86.67706200000001,34.735715],"type":"Point"}
 }

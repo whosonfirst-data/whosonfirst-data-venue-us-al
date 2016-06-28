@@ -2,13 +2,14 @@
   "id": 152456129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.573524,34.699087,-86.573524,34.699087",
     "geom:latitude":34.699087,
     "geom:longitude":-86.573524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Quincy Dr SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818149,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85818149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152456129,
-    "wof:lastmodified":1449045678,
+    "wof:lastmodified":1466318210,
     "wof:name":"William J Patterson Dr",
     "wof:parent_id":85818149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.573524,34.699087,-86.573524,34.699087],
-  "geometry": {"coordinates":[-86.573524,34.699087],"type":"Point"}
+  "bbox": [
+    -86.573524,
+    34.699087,
+    -86.573524,
+    34.699087
+],
+  "geometry": {"coordinates":[-86.57352400000001,34.699087],"type":"Point"}
 }

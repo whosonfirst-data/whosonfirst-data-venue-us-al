@@ -2,13 +2,14 @@
   "id": 152254675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.909839,33.991363,-85.909839,33.991363",
     "geom:latitude":33.991363,
     "geom:longitude":-85.909839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3490 US Hwy 278 E",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152254675,
-    "wof:lastmodified":1449047475,
+    "wof:lastmodified":1466316712,
     "wof:name":"Electric Beach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.909839,33.991363,-85.909839,33.991363],
-  "geometry": {"coordinates":[-85.909839,33.991363],"type":"Point"}
+  "bbox": [
+    -85.909839,
+    33.991363,
+    -85.909839,
+    33.991363
+],
+  "geometry": {"coordinates":[-85.90983900000001,33.991363],"type":"Point"}
 }

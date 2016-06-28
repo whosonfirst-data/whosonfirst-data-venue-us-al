@@ -2,13 +2,14 @@
   "id": 152554255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.20586,32.527058,-86.20586,32.527058",
     "geom:latitude":32.527058,
     "geom:longitude":-86.20586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"815 Wilson St",
     "sg:city":"Wetumpka",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806527,
+        85688675,
         85633793,
         85913951,
         102085631,
-        85688675
+        85806527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152554255,
-    "wof:lastmodified":1449045255,
+    "wof:lastmodified":1466318598,
     "wof:name":"Sesame Street Clubhouse",
     "wof:parent_id":85806527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.20586,32.527058,-86.20586,32.527058],
+  "bbox": [
+    -86.20586,
+    32.527058,
+    -86.20586,
+    32.527058
+],
   "geometry": {"coordinates":[-86.20586,32.527058],"type":"Point"}
 }

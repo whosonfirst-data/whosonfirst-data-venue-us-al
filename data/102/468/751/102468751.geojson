@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102468751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.246687,30.703046,-88.246687,30.703046",
     "geom:latitude":30.703046,
     "geom:longitude":-88.246687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8650 Tanner Williams Rd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085585,
-        85633793,
         85688675,
-        85825595
+        85633793,
+        85825595,
+        102085585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102468751,
-    "wof:lastmodified":1449069525,
+    "wof:lastmodified":1466315245,
     "wof:name":"Faith Academy",
     "wof:parent_id":85825595,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.246687,30.703046,-88.246687,30.703046],
-  "geometry": {"coordinates":[-88.246687,30.703046],"type":"Point"}
+  "bbox": [
+    -88.246687,
+    30.703046,
+    -88.246687,
+    30.703046
+],
+  "geometry": {"coordinates":[-88.24668699999999,30.703046],"type":"Point"}
 }

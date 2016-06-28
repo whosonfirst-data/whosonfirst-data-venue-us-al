@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102445529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.637009,34.840377,-87.637009,34.840377",
     "geom:latitude":34.840377,
     "geom:longitude":-87.637009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"384 Cox Creek Pkwy",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858143,
+        85688675,
         85633793,
         85914011,
         102085527,
-        85688675
+        85858143
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102445529,
-    "wof:lastmodified":1449068127,
+    "wof:lastmodified":1466314422,
     "wof:name":"Amy's Hallmark",
     "wof:parent_id":85858143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.637009,34.840377,-87.637009,34.840377],
-  "geometry": {"coordinates":[-87.637009,34.840377],"type":"Point"}
+  "bbox": [
+    -87.637009,
+    34.840377,
+    -87.637009,
+    34.840377
+],
+  "geometry": {"coordinates":[-87.63700900000001,34.840377],"type":"Point"}
 }

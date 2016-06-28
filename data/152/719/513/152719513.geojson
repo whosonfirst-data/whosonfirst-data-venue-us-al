@@ -2,13 +2,14 @@
   "id": 152719513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.764389,32.831356,-85.764389,32.831356",
     "geom:latitude":32.831356,
     "geom:longitude":-85.764389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 W Cusseta St",
     "sg:city":"Dadeville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848983,
+        85688675,
         85633793,
         85913327,
         102085567,
-        85688675
+        85848983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152719513,
-    "wof:lastmodified":1449044901,
+    "wof:lastmodified":1466319436,
     "wof:name":"Faith Hospice Inc",
     "wof:parent_id":85848983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.764389,32.831356,-85.764389,32.831356],
-  "geometry": {"coordinates":[-85.764389,32.831356],"type":"Point"}
+  "bbox": [
+    -85.764389,
+    32.831356,
+    -85.764389,
+    32.831356
+],
+  "geometry": {"coordinates":[-85.76438899999999,32.831356],"type":"Point"}
 }

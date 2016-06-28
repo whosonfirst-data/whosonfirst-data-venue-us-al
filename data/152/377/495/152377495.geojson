@@ -2,13 +2,14 @@
   "id": 152377495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.724945,30.392135,-87.724945,30.392135",
     "geom:latitude":30.392135,
     "geom:longitude":-87.724945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17547 Co Rd 26",
     "sg:city":"Foley",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868551,
+        85688675,
         85633793,
         85914719,
         102085469,
-        85688675
+        85868551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152377495,
-    "wof:lastmodified":1449046042,
+    "wof:lastmodified":1466317717,
     "wof:name":"Brewer Circle B Mobile Home Pk",
     "wof:parent_id":85868551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.724945,30.392135,-87.724945,30.392135],
-  "geometry": {"coordinates":[-87.724945,30.392135],"type":"Point"}
+  "bbox": [
+    -87.724945,
+    30.392135,
+    -87.724945,
+    30.392135
+],
+  "geometry": {"coordinates":[-87.72494500000001,30.392135],"type":"Point"}
 }

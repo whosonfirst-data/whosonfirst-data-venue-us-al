@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102470387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.052384,33.935703,-86.052384,33.935703",
     "geom:latitude":33.935703,
     "geom:longitude":-86.052384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Lakeside Dr",
     "sg:city":"Rainbow City",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085545,
-        85633793,
         85688675,
-        85839341
+        85633793,
+        85839341,
+        102085545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102470387,
-    "wof:lastmodified":1449068375,
+    "wof:lastmodified":1466315250,
     "wof:name":"Mr Fence",
     "wof:parent_id":85839341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.052384,33.935703,-86.052384,33.935703],
+  "bbox": [
+    -86.052384,
+    33.935703,
+    -86.052384,
+    33.935703
+],
   "geometry": {"coordinates":[-86.052384,33.935703],"type":"Point"}
 }

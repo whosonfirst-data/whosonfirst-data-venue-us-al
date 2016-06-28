@@ -2,13 +2,14 @@
   "id": 152197815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.801166,33.499519,-86.801166,33.499519",
     "geom:latitude":33.499519,
     "geom:longitude":-86.801166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 17th St S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819533,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675,
+        85819533,
         85876277
     ],
     "wof:breaches":[],
@@ -60,14 +61,20 @@
         }
     ],
     "wof:id":152197815,
-    "wof:lastmodified":1449048344,
+    "wof:lastmodified":1466315954,
     "wof:name":"New Woman All Women Hlth Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.801166,33.499519,-86.801166,33.499519],
-  "geometry": {"coordinates":[-86.801166,33.499519],"type":"Point"}
+  "bbox": [
+    -86.801166,
+    33.499519,
+    -86.801166,
+    33.499519
+],
+  "geometry": {"coordinates":[-86.80116599999999,33.499519],"type":"Point"}
 }

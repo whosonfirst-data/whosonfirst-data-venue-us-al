@@ -2,13 +2,14 @@
   "id": 152421493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.226546,32.538342,-86.226546,32.538342",
     "geom:latitude":32.538342,
     "geom:longitude":-86.226546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1282 Elmore Rd",
     "sg:city":"Wetumpka",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806527,
+        85688675,
         85633793,
         85913951,
         102085631,
-        85688675
+        85806527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152421493,
-    "wof:lastmodified":1449047230,
+    "wof:lastmodified":1466318072,
     "wof:name":"Sherry S Auto Sales",
     "wof:parent_id":85806527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.226546,32.538342,-86.226546,32.538342],
+  "bbox": [
+    -86.226546,
+    32.538342,
+    -86.226546,
+    32.538342
+],
   "geometry": {"coordinates":[-86.226546,32.538342],"type":"Point"}
 }

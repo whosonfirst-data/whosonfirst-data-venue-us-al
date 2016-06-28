@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102456085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.652602,33.513247,-86.652602,33.513247",
     "geom:latitude":33.513247,
     "geom:longitude":-86.652602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2161 Grants Mill Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085481,
-        85633793,
         85688675,
-        85807947
+        85633793,
+        85807947,
+        102085481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102456085,
-    "wof:lastmodified":1449068493,
+    "wof:lastmodified":1466314807,
     "wof:name":"Liano Properties",
     "wof:parent_id":85807947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.652602,33.513247,-86.652602,33.513247],
+  "bbox": [
+    -86.652602,
+    33.513247,
+    -86.652602,
+    33.513247
+],
   "geometry": {"coordinates":[-86.652602,33.513247],"type":"Point"}
 }

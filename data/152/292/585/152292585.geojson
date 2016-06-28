@@ -2,13 +2,14 @@
   "id": 152292585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.577278,34.720998,-86.577278,34.720998",
     "geom:latitude":34.720998,
     "geom:longitude":-86.577278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Lowell Dr SE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878239,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878239
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152292585,
-    "wof:lastmodified":1449044690,
+    "wof:lastmodified":1466317035,
     "wof:name":"Honea Houserman & Long",
     "wof:parent_id":85878239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.577278,34.720998,-86.577278,34.720998],
-  "geometry": {"coordinates":[-86.577278,34.720998],"type":"Point"}
+  "bbox": [
+    -86.577278,
+    34.720998,
+    -86.577278,
+    34.720998
+],
+  "geometry": {"coordinates":[-86.57727800000001,34.720998],"type":"Point"}
 }

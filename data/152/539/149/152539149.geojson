@@ -2,13 +2,14 @@
   "id": 152539149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.859122,34.224173,-86.859122,34.224173",
     "geom:latitude":34.224173,
     "geom:longitude":-86.859122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17600 US Hwy 31",
     "sg:city":"Cullman",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085729,
-        85633793,
         85688675,
-        85867307
+        85633793,
+        85867307,
+        102085729
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152539149,
-    "wof:lastmodified":1449048984,
+    "wof:lastmodified":1466318530,
     "wof:name":"Community Action & Development",
     "wof:parent_id":85867307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.859122,34.224173,-86.859122,34.224173],
+  "bbox": [
+    -86.859122,
+    34.224173,
+    -86.859122,
+    34.224173
+],
   "geometry": {"coordinates":[-86.859122,34.224173],"type":"Point"}
 }

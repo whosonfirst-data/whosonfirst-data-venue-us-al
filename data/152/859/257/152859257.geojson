@@ -2,13 +2,14 @@
   "id": 152859257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.61215,32.5993,-85.61215,32.5993",
     "geom:latitude":32.5993,
     "geom:longitude":-85.61215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 Co Rd 660",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085751,
-        85633793,
         85688675,
-        85828853
+        85633793,
+        85828853,
+        102085751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152859257,
-    "wof:lastmodified":1449047605,
+    "wof:lastmodified":1466320366,
     "wof:name":"George H Walton Enterprise",
     "wof:parent_id":85828853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.61215,32.5993,-85.61215,32.5993],
+  "bbox": [
+    -85.61215,
+    32.5993,
+    -85.61215,
+    32.5993
+],
   "geometry": {"coordinates":[-85.61215,32.5993],"type":"Point"}
 }

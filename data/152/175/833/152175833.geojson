@@ -2,13 +2,14 @@
   "id": 152175833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.401535,33.295684,-86.401535,33.295684",
     "geom:latitude":33.295684,
     "geom:longitude":-86.401535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1127 Klein Rd",
     "sg:city":"Harpersville",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85841999
+        85633793,
+        85841999,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152175833,
-    "wof:lastmodified":1449047499,
+    "wof:lastmodified":1466315790,
     "wof:name":"Cardco",
     "wof:parent_id":85841999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.401535,33.295684,-86.401535,33.295684],
+  "bbox": [
+    -86.401535,
+    33.295684,
+    -86.401535,
+    33.295684
+],
   "geometry": {"coordinates":[-86.401535,33.295684],"type":"Point"}
 }

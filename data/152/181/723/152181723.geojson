@@ -2,13 +2,14 @@
   "id": 152181723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.310968,34.339706,-86.310968,34.339706",
     "geom:latitude":34.339706,
     "geom:longitude":-86.310968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1910 Gunter Ave",
     "sg:city":"Guntersville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829421,
+        85688675,
         85633793,
         85899833,
         102085513,
-        85688675
+        85829421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152181723,
-    "wof:lastmodified":1449047135,
+    "wof:lastmodified":1466315611,
     "wof:name":"Haralson Discount Drugs",
     "wof:parent_id":85829421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.310968,34.339706,-86.310968,34.339706],
+  "bbox": [
+    -86.310968,
+    34.339706,
+    -86.310968,
+    34.339706
+],
   "geometry": {"coordinates":[-86.310968,34.339706],"type":"Point"}
 }

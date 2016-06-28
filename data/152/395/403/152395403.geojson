@@ -2,13 +2,14 @@
   "id": 152395403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.190499,34.264003,-86.190499,34.264003",
     "geom:latitude":34.264003,
     "geom:longitude":-86.190499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6021 US Hwy 431",
     "sg:city":"Albertville",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152395403,
-    "wof:lastmodified":1449048241,
+    "wof:lastmodified":1466317837,
     "wof:name":"Car Connection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.190499,34.264003,-86.190499,34.264003],
+  "bbox": [
+    -86.190499,
+    34.264003,
+    -86.190499,
+    34.264003
+],
   "geometry": {"coordinates":[-86.190499,34.264003],"type":"Point"}
 }

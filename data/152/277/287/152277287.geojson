@@ -2,13 +2,14 @@
   "id": 152277287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.771488,33.527287,-86.771488,33.527287",
     "geom:latitude":33.527287,
     "geom:longitude":-86.771488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4240 1st Ave S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.elev.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876275,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152277287,
-    "wof:lastmodified":1449044827,
+    "wof:lastmodified":1466316926,
     "wof:name":"Bagby Elevator Co",
     "wof:parent_id":85876275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.771488,33.527287,-86.771488,33.527287],
-  "geometry": {"coordinates":[-86.771488,33.527287],"type":"Point"}
+  "bbox": [
+    -86.771488,
+    33.527287,
+    -86.771488,
+    33.527287
+],
+  "geometry": {"coordinates":[-86.77148800000001,33.527287],"type":"Point"}
 }

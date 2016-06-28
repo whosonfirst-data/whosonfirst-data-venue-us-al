@@ -2,13 +2,14 @@
   "id": 152169545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.155907,32.470217,-86.155907,32.470217",
     "geom:latitude":32.470217,
     "geom:longitude":-86.155907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"624 New Bingham Dr",
     "sg:city":"Wetumpka",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827347,
+        85688675,
         85633793,
         85915121,
         102085631,
-        85688675
+        85827347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152169545,
-    "wof:lastmodified":1449047146,
+    "wof:lastmodified":1466315532,
     "wof:name":"Dan Riemer & Sons Inc",
     "wof:parent_id":85827347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.155907,32.470217,-86.155907,32.470217],
+  "bbox": [
+    -86.155907,
+    32.470217,
+    -86.155907,
+    32.470217
+],
   "geometry": {"coordinates":[-86.155907,32.470217],"type":"Point"}
 }

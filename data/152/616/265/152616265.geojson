@@ -2,13 +2,14 @@
   "id": 152616265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.558973,34.257349,-87.558973,34.257349",
     "geom:latitude":34.257349,
     "geom:longitude":-87.558973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40209 State Rte 195",
     "sg:city":"Haleyville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152616265,
-    "wof:lastmodified":1449047698,
+    "wof:lastmodified":1466319025,
     "wof:name":"Pumpcrete",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.558973,34.257349,-87.558973,34.257349],
-  "geometry": {"coordinates":[-87.558973,34.257349],"type":"Point"}
+  "bbox": [
+    -87.558973,
+    34.257349,
+    -87.558973,
+    34.257349
+],
+  "geometry": {"coordinates":[-87.55897299999999,34.257349],"type":"Point"}
 }

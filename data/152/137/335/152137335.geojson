@@ -2,13 +2,14 @@
   "id": 152137335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.375149,31.192519,-85.375149,31.192519",
     "geom:latitude":31.192519,
     "geom:longitude":-85.375149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1676 E Cottonwood Rd",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152137335,
-    "wof:lastmodified":1449048284,
+    "wof:lastmodified":1466315319,
     "wof:name":"Hop-In 5",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.375149,31.192519,-85.375149,31.192519],
-  "geometry": {"coordinates":[-85.375149,31.192519],"type":"Point"}
+  "bbox": [
+    -85.375149,
+    31.192519,
+    -85.375149,
+    31.192519
+],
+  "geometry": {"coordinates":[-85.37514899999999,31.192519],"type":"Point"}
 }

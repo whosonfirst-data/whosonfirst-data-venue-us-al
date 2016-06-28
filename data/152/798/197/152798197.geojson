@@ -2,13 +2,14 @@
   "id": 152798197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.761682,33.780622,-85.761682,33.780622",
     "geom:latitude":33.780622,
     "geom:longitude":-85.761682,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1881 Pelham Rd S",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817157,
+        85688675,
         85633793,
         85914293,
         102085603,
-        85688675
+        85817157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152798197,
-    "wof:lastmodified":1449045164,
+    "wof:lastmodified":1466319982,
     "wof:name":"Family Practice-Jacksonville",
     "wof:parent_id":85817157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.761682,33.780622,-85.761682,33.780622],
-  "geometry": {"coordinates":[-85.761682,33.780622],"type":"Point"}
+  "bbox": [
+    -85.761682,
+    33.780622,
+    -85.761682,
+    33.780622
+],
+  "geometry": {"coordinates":[-85.76168199999999,33.780622],"type":"Point"}
 }

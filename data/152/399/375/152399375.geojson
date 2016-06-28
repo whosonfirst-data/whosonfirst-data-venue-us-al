@@ -2,13 +2,14 @@
   "id": 152399375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.833291,33.467149,-86.833291,33.467149",
     "geom:latitude":33.467149,
     "geom:longitude":-86.833291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Summit Pkwy",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817409,
+        85688675,
         85633793,
         85914847,
         102085481,
-        85688675
+        85817409
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152399375,
-    "wof:lastmodified":1449045119,
+    "wof:lastmodified":1466318017,
     "wof:name":"Metrocall Holdings Inc",
     "wof:parent_id":85817409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.833291,33.467149,-86.833291,33.467149],
+  "bbox": [
+    -86.833291,
+    33.467149,
+    -86.833291,
+    33.467149
+],
   "geometry": {"coordinates":[-86.833291,33.467149],"type":"Point"}
 }

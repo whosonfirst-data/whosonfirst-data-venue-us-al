@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102478481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.91989,33.505671,-86.91989,33.505671",
     "geom:latitude":33.505671,
     "geom:longitude":-86.91989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4200 7th Ave",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818869,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85818869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102478481,
-    "wof:lastmodified":1449067851,
+    "wof:lastmodified":1466314803,
     "wof:name":"L and N Services",
     "wof:parent_id":85818869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.91989,33.505671,-86.91989,33.505671],
+  "bbox": [
+    -86.91989,
+    33.505671,
+    -86.91989,
+    33.505671
+],
   "geometry": {"coordinates":[-86.91989,33.505671],"type":"Point"}
 }

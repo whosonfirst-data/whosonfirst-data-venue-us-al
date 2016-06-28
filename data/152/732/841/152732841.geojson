@@ -2,13 +2,14 @@
   "id": 152732841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.699203,34.756229,-87.699203,34.756229",
     "geom:latitude":34.756229,
     "geom:longitude":-87.699203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 W Montgomery Ave",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858837,
+        85688675,
         85633793,
         85897473,
         102085625,
-        85688675
+        85858837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152732841,
-    "wof:lastmodified":1449049039,
+    "wof:lastmodified":1466319561,
     "wof:name":"Russells Meats",
     "wof:parent_id":85858837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.699203,34.756229,-87.699203,34.756229],
+  "bbox": [
+    -87.699203,
+    34.756229,
+    -87.699203,
+    34.756229
+],
   "geometry": {"coordinates":[-87.699203,34.756229],"type":"Point"}
 }

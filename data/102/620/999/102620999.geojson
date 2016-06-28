@@ -2,13 +2,14 @@
   "id": 102620999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.578052,34.73975,-86.578052,34.73975",
     "geom:latitude":34.73975,
     "geom:longitude":-86.578052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 Ward Ave NE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878241,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675,
+        85878241,
         85819449
     ],
     "wof:breaches":[],
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":102620999,
-    "wof:lastmodified":1449069987,
+    "wof:lastmodified":1466317428,
     "wof:name":"Planet Hardwood",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.578052,34.73975,-86.578052,34.73975],
+  "bbox": [
+    -86.578052,
+    34.73975,
+    -86.578052,
+    34.73975
+],
   "geometry": {"coordinates":[-86.578052,34.73975],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102638239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.525866,33.182614,-87.525866,33.182614",
     "geom:latitude":33.182614,
     "geom:longitude":-87.525866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2825 McFarland Blvd E",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802929,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85802929
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102638239,
-    "wof:lastmodified":1449067914,
+    "wof:lastmodified":1466317619,
     "wof:name":"Tuscaloosa Newborn Billing Svc",
     "wof:parent_id":85802929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.525866,33.182614,-87.525866,33.182614],
-  "geometry": {"coordinates":[-87.525866,33.182614],"type":"Point"}
+  "bbox": [
+    -87.525866,
+    33.182614,
+    -87.525866,
+    33.182614
+],
+  "geometry": {"coordinates":[-87.52586599999999,33.182614],"type":"Point"}
 }

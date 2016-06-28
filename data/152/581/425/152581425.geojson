@@ -2,13 +2,14 @@
   "id": 152581425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.188474,32.627426,-86.188474,32.627426",
     "geom:latitude":32.627426,
     "geom:longitude":-86.188474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2150 Grier Rd",
     "sg:city":"Wetumpka",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851843,
+        85688675,
         85633793,
         85913951,
         102085631,
-        85688675
+        85851843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152581425,
-    "wof:lastmodified":1449045278,
+    "wof:lastmodified":1466318751,
     "wof:name":"Macon Place Builders LLC",
     "wof:parent_id":85851843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.188474,32.627426,-86.188474,32.627426],
+  "bbox": [
+    -86.188474,
+    32.627426,
+    -86.188474,
+    32.627426
+],
   "geometry": {"coordinates":[-86.188474,32.627426],"type":"Point"}
 }

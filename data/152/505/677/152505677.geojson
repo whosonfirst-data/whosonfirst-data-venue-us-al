@@ -2,13 +2,14 @@
   "id": 152505677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.936477,32.943754,-85.936477,32.943754",
     "geom:latitude":32.943754,
     "geom:longitude":-85.936477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1402 Hillabee St",
     "sg:city":"Alexander City",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840481,
+        85688675,
         85633793,
         85913363,
         102085567,
-        85688675
+        85840481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152505677,
-    "wof:lastmodified":1449048157,
+    "wof:lastmodified":1466318490,
     "wof:name":"River of Life Worship Center",
     "wof:parent_id":85840481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.936477,32.943754,-85.936477,32.943754],
+  "bbox": [
+    -85.936477,
+    32.943754,
+    -85.936477,
+    32.943754
+],
   "geometry": {"coordinates":[-85.936477,32.943754],"type":"Point"}
 }

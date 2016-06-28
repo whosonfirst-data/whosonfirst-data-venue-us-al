@@ -2,13 +2,14 @@
   "id": 152801255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.915069,33.895543,-85.915069,33.895543",
     "geom:latitude":33.895543,
     "geom:longitude":-85.915069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 Hollingsworth Dr",
     "sg:city":"Glencoe",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805945,
+        85688675,
         85633793,
         85914293,
         102085603,
-        85688675
+        85805945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152801255,
-    "wof:lastmodified":1449048105,
+    "wof:lastmodified":1466319852,
     "wof:name":"Glencoe Senior Outreach Svc",
     "wof:parent_id":85805945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.915069,33.895543,-85.915069,33.895543],
+  "bbox": [
+    -85.915069,
+    33.895543,
+    -85.915069,
+    33.895543
+],
   "geometry": {"coordinates":[-85.915069,33.895543],"type":"Point"}
 }

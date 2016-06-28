@@ -2,13 +2,14 @@
   "id": 102624171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.267336,32.391052,-86.267336,32.391052",
     "geom:latitude":32.391052,
     "geom:longitude":-86.267336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2857 Ashley Ave",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837839,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85837839
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102624171,
-    "wof:lastmodified":1449069454,
+    "wof:lastmodified":1466317442,
     "wof:name":"System Oriented Solution Inc",
     "wof:parent_id":85837839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.267336,32.391052,-86.267336,32.391052],
+  "bbox": [
+    -86.267336,
+    32.391052,
+    -86.267336,
+    32.391052
+],
   "geometry": {"coordinates":[-86.267336,32.391052],"type":"Point"}
 }

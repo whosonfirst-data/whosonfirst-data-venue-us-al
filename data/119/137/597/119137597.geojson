@@ -2,13 +2,14 @@
   "id": 119137597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.229036,32.325776,-86.229036,32.325776",
     "geom:latitude":32.325776,
     "geom:longitude":-86.229036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5800 Eagle Cir",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879047,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":119137597,
-    "wof:lastmodified":1449043167,
+    "wof:lastmodified":1466314783,
     "wof:name":"Eagle Landing-Villas Apartment",
     "wof:parent_id":85879047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.229036,32.325776,-86.229036,32.325776],
-  "geometry": {"coordinates":[-86.229036,32.325776],"type":"Point"}
+  "bbox": [
+    -86.229036,
+    32.325776,
+    -86.229036,
+    32.325776
+],
+  "geometry": {"coordinates":[-86.22903599999999,32.325776],"type":"Point"}
 }

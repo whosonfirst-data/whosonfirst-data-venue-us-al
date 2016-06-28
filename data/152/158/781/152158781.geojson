@@ -2,13 +2,14 @@
   "id": 152158781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.592407,33.259901,-87.592407,33.259901",
     "geom:latitude":33.259901,
     "geom:longitude":-87.592407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3416 Mayberry Landing Dr",
     "sg:city":"Northport",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806217,
+        85688675,
         85633793,
         85914425,
         102085553,
-        85688675
+        85806217
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152158781,
-    "wof:lastmodified":1449047376,
+    "wof:lastmodified":1466315032,
     "wof:name":"Jimmys Superior Painting",
     "wof:parent_id":85806217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.592407,33.259901,-87.592407,33.259901],
-  "geometry": {"coordinates":[-87.592407,33.259901],"type":"Point"}
+  "bbox": [
+    -87.592407,
+    33.259901,
+    -87.592407,
+    33.259901
+],
+  "geometry": {"coordinates":[-87.59240699999999,33.259901],"type":"Point"}
 }

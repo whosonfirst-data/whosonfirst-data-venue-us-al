@@ -2,13 +2,14 @@
   "id": 152865791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.422801,31.247478,-85.422801,31.247478",
     "geom:latitude":31.247478,
     "geom:longitude":-85.422801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2870 Montgomery Hwy",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851339,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85851339
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152865791,
-    "wof:lastmodified":1449047789,
+    "wof:lastmodified":1466320200,
     "wof:name":"China Star Chinese Restaurant",
     "wof:parent_id":85851339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.422801,31.247478,-85.422801,31.247478],
-  "geometry": {"coordinates":[-85.422801,31.247478],"type":"Point"}
+  "bbox": [
+    -85.422801,
+    31.247478,
+    -85.422801,
+    31.247478
+],
+  "geometry": {"coordinates":[-85.42280100000001,31.247478],"type":"Point"}
 }

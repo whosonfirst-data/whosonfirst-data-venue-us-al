@@ -2,13 +2,14 @@
   "id": 152422823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.569161,34.845075,-87.569161,34.845075",
     "geom:latitude":34.845075,
     "geom:longitude":-87.569161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"379 Acton Dr",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085527,
-        85633793,
         85688675,
-        85829459
+        85633793,
+        85829459,
+        102085527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152422823,
-    "wof:lastmodified":1449044629,
+    "wof:lastmodified":1466317986,
     "wof:name":"Preston Barclift Management",
     "wof:parent_id":85829459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.569161,34.845075,-87.569161,34.845075],
-  "geometry": {"coordinates":[-87.569161,34.845075],"type":"Point"}
+  "bbox": [
+    -87.569161,
+    34.845075,
+    -87.569161,
+    34.845075
+],
+  "geometry": {"coordinates":[-87.56916099999999,34.845075],"type":"Point"}
 }

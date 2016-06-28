@@ -2,13 +2,14 @@
   "id": 152202133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.464616,31.314944,-86.464616,31.314944",
     "geom:latitude":31.314944,
     "geom:longitude":-86.464616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1517 E Three Notch St",
     "sg:city":"Andalusia",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152202133,
-    "wof:lastmodified":1449048321,
+    "wof:lastmodified":1466315917,
     "wof:name":"Three Notch Pawn & Gun Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.464616,31.314944,-86.464616,31.314944],
-  "geometry": {"coordinates":[-86.464616,31.314944],"type":"Point"}
+  "bbox": [
+    -86.464616,
+    31.314944,
+    -86.464616,
+    31.314944
+],
+  "geometry": {"coordinates":[-86.46461600000001,31.314944],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152594389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.584648,33.114813,-86.584648,33.114813",
     "geom:latitude":33.114813,
     "geom:longitude":-86.584648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10268 Co Rd 42",
     "sg:city":"Shelby",
     "sg:classifiers":[
@@ -33,11 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825591,
+        85688675,
         85633793,
         85914497,
         102085499,
-        85688675
+        85825591
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":152594389,
-    "wof:lastmodified":1449044970,
+    "wof:lastmodified":1466318812,
     "wof:name":"Shelby Iron Works Parks",
     "wof:parent_id":85825591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.584648,33.114813,-86.584648,33.114813],
+  "bbox": [
+    -86.584648,
+    33.114813,
+    -86.584648,
+    33.114813
+],
   "geometry": {"coordinates":[-86.584648,33.114813],"type":"Point"}
 }

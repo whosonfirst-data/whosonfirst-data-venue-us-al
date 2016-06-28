@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102475631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.66277,34.740026,-86.66277,34.740026",
     "geom:latitude":34.740026,
     "geom:longitude":-86.66277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5901 University Dr NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.bamafever.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851401,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85851401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102475631,
-    "wof:lastmodified":1449068768,
+    "wof:lastmodified":1466315457,
     "wof:name":"Bama Fever Inc",
     "wof:parent_id":85851401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.66277,34.740026,-86.66277,34.740026],
-  "geometry": {"coordinates":[-86.66277,34.740026],"type":"Point"}
+  "bbox": [
+    -86.66277,
+    34.740026,
+    -86.66277,
+    34.740026
+],
+  "geometry": {"coordinates":[-86.66276999999999,34.740026],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152131147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.66529,34.742824,-86.66529,34.742824",
     "geom:latitude":34.742824,
     "geom:longitude":-86.66529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1023 Claude Cir NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851401,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85851401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152131147,
-    "wof:lastmodified":1449045698,
+    "wof:lastmodified":1466315065,
     "wof:name":"Business Systems & Consultants",
     "wof:parent_id":85851401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.66529,34.742824,-86.66529,34.742824],
+  "bbox": [
+    -86.66529,
+    34.742824,
+    -86.66529,
+    34.742824
+],
   "geometry": {"coordinates":[-86.66529,34.742824],"type":"Point"}
 }

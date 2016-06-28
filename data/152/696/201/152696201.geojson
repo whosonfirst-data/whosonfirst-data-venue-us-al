@@ -2,13 +2,14 @@
   "id": 152696201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.283427,33.536435,-86.283427,33.536435",
     "geom:latitude":33.536435,
     "geom:longitude":-86.283427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2405 Blue Spring Rd",
     "sg:city":"Cropwell",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.jbventures.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85826525,
+        85688675,
         85633793,
         85913409,
         102085647,
-        85688675
+        85826525
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152696201,
-    "wof:lastmodified":1449044647,
+    "wof:lastmodified":1466319328,
     "wof:name":"J B Ventures Inc",
     "wof:parent_id":85826525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.283427,33.536435,-86.283427,33.536435],
+  "bbox": [
+    -86.283427,
+    33.536435,
+    -86.283427,
+    33.536435
+],
   "geometry": {"coordinates":[-86.283427,33.536435],"type":"Point"}
 }

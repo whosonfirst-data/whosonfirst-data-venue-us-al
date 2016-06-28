@@ -2,13 +2,14 @@
   "id": 152457911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.002581,33.783783,-86.002581,33.783783",
     "geom:latitude":33.783783,
     "geom:longitude":-86.002581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"296 Main St",
     "sg:city":"Ohatchee",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152457911,
-    "wof:lastmodified":1449047402,
+    "wof:lastmodified":1466318115,
     "wof:name":"Ohatchee Volunteer Rescue",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.002581,33.783783,-86.002581,33.783783],
-  "geometry": {"coordinates":[-86.002581,33.783783],"type":"Point"}
+  "bbox": [
+    -86.002581,
+    33.783783,
+    -86.002581,
+    33.783783
+],
+  "geometry": {"coordinates":[-86.00258100000001,33.783783],"type":"Point"}
 }

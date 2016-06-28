@@ -2,13 +2,14 @@
   "id": 152156429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.797693,33.420477,-86.797693,33.420477",
     "geom:latitude":33.420477,
     "geom:longitude":-86.797693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"240 Old Town Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840369,
+        85688675,
         85633793,
         85914483,
         102085481,
-        85688675
+        85840369
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152156429,
-    "wof:lastmodified":1449045218,
+    "wof:lastmodified":1466314900,
     "wof:name":"Accustaff",
     "wof:parent_id":85840369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.797693,33.420477,-86.797693,33.420477],
+  "bbox": [
+    -86.797693,
+    33.420477,
+    -86.797693,
+    33.420477
+],
   "geometry": {"coordinates":[-86.797693,33.420477],"type":"Point"}
 }

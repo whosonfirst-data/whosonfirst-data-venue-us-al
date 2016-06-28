@@ -2,13 +2,14 @@
   "id": 152210125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.817937,33.477919,-86.817937,33.477919",
     "geom:latitude":33.477919,
     "geom:longitude":-86.817937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"820 Beacon Pkwy E",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821721,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85821721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152210125,
-    "wof:lastmodified":1449045881,
+    "wof:lastmodified":1466315999,
     "wof:name":"Personal Care Inc",
     "wof:parent_id":85821721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.817937,33.477919,-86.817937,33.477919],
+  "bbox": [
+    -86.817937,
+    33.477919,
+    -86.817937,
+    33.477919
+],
   "geometry": {"coordinates":[-86.817937,33.477919],"type":"Point"}
 }

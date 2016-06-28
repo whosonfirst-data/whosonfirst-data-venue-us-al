@@ -2,13 +2,14 @@
   "id": 152753253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.569969,34.70698,-86.569969,34.70698",
     "geom:latitude":34.70698,
     "geom:longitude":-86.569969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Northampton Dr SE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818149,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85818149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152753253,
-    "wof:lastmodified":1449044853,
+    "wof:lastmodified":1466319726,
     "wof:name":"Cedarhurst",
     "wof:parent_id":85818149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.569969,34.70698,-86.569969,34.70698],
+  "bbox": [
+    -86.569969,
+    34.70698,
+    -86.569969,
+    34.70698
+],
   "geometry": {"coordinates":[-86.569969,34.70698],"type":"Point"}
 }

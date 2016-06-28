@@ -2,13 +2,14 @@
   "id": 152412871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.350291,32.369684,-86.350291,32.369684",
     "geom:latitude":32.369684,
     "geom:longitude":-86.350291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3803 Day St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856867,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675,
+        85856867,
         85832931
     ],
     "wof:breaches":[],
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":152412871,
-    "wof:lastmodified":1449045244,
+    "wof:lastmodified":1466318027,
     "wof:name":"Affordable Eyewear",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.350291,32.369684,-86.350291,32.369684],
+  "bbox": [
+    -86.350291,
+    32.369684,
+    -86.350291,
+    32.369684
+],
   "geometry": {"coordinates":[-86.350291,32.369684],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152585621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.576308,34.71335,-86.576308,34.71335",
     "geom:latitude":34.71335,
     "geom:longitude":-86.576308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2305 Starmont Cir SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818149,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85818149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152585621,
-    "wof:lastmodified":1449047377,
+    "wof:lastmodified":1466318784,
     "wof:name":"Lawrence A Hendrix Jr DDS",
     "wof:parent_id":85818149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.576308,34.71335,-86.576308,34.71335],
+  "bbox": [
+    -86.576308,
+    34.71335,
+    -86.576308,
+    34.71335
+],
   "geometry": {"coordinates":[-86.576308,34.71335],"type":"Point"}
 }

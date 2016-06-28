@@ -2,13 +2,14 @@
   "id": 152131607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.629458,34.735293,-87.629458,34.735293",
     "geom:latitude":34.735293,
     "geom:longitude":-87.629458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 E Nassau Ave",
     "sg:city":"Muscle Shoals",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816399,
+        85688675,
         85633793,
         85897481,
         102085625,
-        85688675
+        85816399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152131607,
-    "wof:lastmodified":1449045695,
+    "wof:lastmodified":1466315116,
     "wof:name":"Robert W Price / Sherry Diane",
     "wof:parent_id":85816399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.629458,34.735293,-87.629458,34.735293],
+  "bbox": [
+    -87.629458,
+    34.735293,
+    -87.629458,
+    34.735293
+],
   "geometry": {"coordinates":[-87.629458,34.735293],"type":"Point"}
 }

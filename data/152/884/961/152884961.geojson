@@ -2,13 +2,14 @@
   "id": 152884961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.248819,34.520035,-86.248819,34.520035",
     "geom:latitude":34.520035,
     "geom:longitude":-86.248819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"481 Fire Tower Rd",
     "sg:city":"Grant",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     "sg:website":"www.firthsterling.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085513,
-        85633793,
         85688675,
-        85851677
+        85633793,
+        85851677,
+        102085513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152884961,
-    "wof:lastmodified":1449048027,
+    "wof:lastmodified":1466320292,
     "wof:name":"Alldyne Powder Technologies",
     "wof:parent_id":85851677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.248819,34.520035,-86.248819,34.520035],
+  "bbox": [
+    -86.248819,
+    34.520035,
+    -86.248819,
+    34.520035
+],
   "geometry": {"coordinates":[-86.248819,34.520035],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102438697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.755506,33.10578,-86.755506,33.10578",
     "geom:latitude":33.10578,
     "geom:longitude":-86.755506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1002 14th St",
     "sg:city":"Calera",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85849529
+        85633793,
+        85849529,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102438697,
-    "wof:lastmodified":1449068605,
+    "wof:lastmodified":1466314489,
     "wof:name":"Calera Body Shop",
     "wof:parent_id":85849529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.755506,33.10578,-86.755506,33.10578],
+  "bbox": [
+    -86.755506,
+    33.10578,
+    -86.755506,
+    33.10578
+],
   "geometry": {"coordinates":[-86.755506,33.10578],"type":"Point"}
 }

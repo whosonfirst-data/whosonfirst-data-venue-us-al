@@ -2,13 +2,14 @@
   "id": 102632097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.54065,34.644072,-86.54065,34.644072",
     "geom:latitude":34.644072,
     "geom:longitude":-86.54065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1405 Weatherly Plz SE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851327,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85851327
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":102632097,
-    "wof:lastmodified":1449069305,
+    "wof:lastmodified":1466317493,
     "wof:name":"Shane Young Studios",
     "wof:parent_id":85851327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.54065,34.644072,-86.54065,34.644072],
+  "bbox": [
+    -86.54065,
+    34.644072,
+    -86.54065,
+    34.644072
+],
   "geometry": {"coordinates":[-86.54065,34.644072],"type":"Point"}
 }

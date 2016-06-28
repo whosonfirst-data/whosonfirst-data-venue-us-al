@@ -2,13 +2,14 @@
   "id": 119120081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.824661,33.7095,-85.824661,33.7095",
     "geom:latitude":33.7095,
     "geom:longitude":-85.824661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4700 Cleghorn Dr",
     "sg:city":"Anniston",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825451,
+        85688675,
         85633793,
         85915207,
         102085603,
-        85688675
+        85825451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":119120081,
-    "wof:lastmodified":1449043150,
+    "wof:lastmodified":1466314490,
     "wof:name":"Mini-Warehouse & Storage Co",
     "wof:parent_id":85825451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.824661,33.7095,-85.824661,33.7095],
-  "geometry": {"coordinates":[-85.824661,33.7095],"type":"Point"}
+  "bbox": [
+    -85.824661,
+    33.7095,
+    -85.824661,
+    33.7095
+],
+  "geometry": {"coordinates":[-85.82466100000001,33.7095],"type":"Point"}
 }

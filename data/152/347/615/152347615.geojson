@@ -2,13 +2,14 @@
   "id": 152347615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.307285,34.341067,-86.307285,34.341067",
     "geom:latitude":34.341067,
     "geom:longitude":-86.307285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1741 Blount Ave",
     "sg:city":"Guntersville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829421,
+        85688675,
         85633793,
         85899833,
         102085513,
-        85688675
+        85829421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152347615,
-    "wof:lastmodified":1449046543,
+    "wof:lastmodified":1466317572,
     "wof:name":"Beverage Control Board Div",
     "wof:parent_id":85829421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.307285,34.341067,-86.307285,34.341067],
-  "geometry": {"coordinates":[-86.307285,34.341067],"type":"Point"}
+  "bbox": [
+    -86.307285,
+    34.341067,
+    -86.307285,
+    34.341067
+],
+  "geometry": {"coordinates":[-86.30728499999999,34.341067],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152678287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.78991,33.499055,-86.78991,33.499055",
     "geom:latitude":33.499055,
     "geom:longitude":-86.78991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1330 21st Way S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876277,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152678287,
-    "wof:lastmodified":1449046533,
+    "wof:lastmodified":1466319242,
     "wof:name":"Land Developers Construction",
     "wof:parent_id":85876277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.78991,33.499055,-86.78991,33.499055],
-  "geometry": {"coordinates":[-86.78991,33.499055],"type":"Point"}
+  "bbox": [
+    -86.78991,
+    33.499055,
+    -86.78991,
+    33.499055
+],
+  "geometry": {"coordinates":[-86.78991000000001,33.499055],"type":"Point"}
 }

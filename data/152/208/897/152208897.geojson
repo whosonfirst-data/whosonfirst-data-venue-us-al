@@ -2,13 +2,14 @@
   "id": 152208897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.861522,31.345791,-85.861522,31.345791",
     "geom:latitude":31.345791,
     "geom:longitude":-85.861522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Pawnee Dr",
     "sg:city":"Enterprise",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848185,
+        85688675,
         85633793,
         85899527,
         102085699,
-        85688675,
+        85848185,
         85837695
     ],
     "wof:breaches":[],
@@ -60,14 +61,20 @@
         }
     ],
     "wof:id":152208897,
-    "wof:lastmodified":1449044846,
+    "wof:lastmodified":1466316038,
     "wof:name":"Jones Gifford",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.861522,31.345791,-85.861522,31.345791],
-  "geometry": {"coordinates":[-85.861522,31.345791],"type":"Point"}
+  "bbox": [
+    -85.861522,
+    31.345791,
+    -85.861522,
+    31.345791
+],
+  "geometry": {"coordinates":[-85.86152199999999,31.345791],"type":"Point"}
 }

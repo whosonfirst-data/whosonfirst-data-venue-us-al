@@ -2,13 +2,14 @@
   "id": 152340619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.973312,33.626448,-86.973312,33.626448",
     "geom:latitude":33.626448,
     "geom:longitude":-86.973312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 S Main St",
     "sg:city":"Graysville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152340619,
-    "wof:lastmodified":1449047862,
+    "wof:lastmodified":1466317539,
     "wof:name":"Graysville Public Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.973312,33.626448,-86.973312,33.626448],
-  "geometry": {"coordinates":[-86.973312,33.626448],"type":"Point"}
+  "bbox": [
+    -86.973312,
+    33.626448,
+    -86.973312,
+    33.626448
+],
+  "geometry": {"coordinates":[-86.97331200000001,33.626448],"type":"Point"}
 }

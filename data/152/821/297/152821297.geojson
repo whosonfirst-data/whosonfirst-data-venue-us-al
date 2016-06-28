@@ -2,13 +2,14 @@
   "id": 152821297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.796422,33.498036,-86.796422,33.498036",
     "geom:latitude":33.498036,
     "geom:longitude":-86.796422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 19th St S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876277,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152821297,
-    "wof:lastmodified":1449046818,
+    "wof:lastmodified":1466319944,
     "wof:name":"Dog Guard Out-Of-Sight Fencing",
     "wof:parent_id":85876277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.796422,33.498036,-86.796422,33.498036],
-  "geometry": {"coordinates":[-86.796422,33.498036],"type":"Point"}
+  "bbox": [
+    -86.796422,
+    33.498036,
+    -86.796422,
+    33.498036
+],
+  "geometry": {"coordinates":[-86.79642200000001,33.498036],"type":"Point"}
 }

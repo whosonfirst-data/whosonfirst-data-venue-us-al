@@ -2,13 +2,14 @@
   "id": 102596457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.50237,34.669964,-86.50237,34.669964",
     "geom:latitude":34.669964,
     "geom:longitude":-86.50237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Catherine Dr",
     "sg:city":"Owens Cross Roads",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878245,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102596457,
-    "wof:lastmodified":1449068985,
+    "wof:lastmodified":1466317246,
     "wof:name":"Advanced Software Technology",
     "wof:parent_id":85878245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.50237,34.669964,-86.50237,34.669964],
+  "bbox": [
+    -86.50237,
+    34.669964,
+    -86.50237,
+    34.669964
+],
   "geometry": {"coordinates":[-86.50237,34.669964],"type":"Point"}
 }

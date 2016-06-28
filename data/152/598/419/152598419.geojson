@@ -2,13 +2,14 @@
   "id": 152598419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.200133,34.2595,-86.200133,34.2595",
     "geom:latitude":34.2595,
     "geom:longitude":-86.200133,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"521 Baltimore Ave",
     "sg:city":"Albertville",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152598419,
-    "wof:lastmodified":1449044548,
+    "wof:lastmodified":1466318814,
     "wof:name":"Genesis Manufacturing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.200133,34.2595,-86.200133,34.2595],
-  "geometry": {"coordinates":[-86.200133,34.2595],"type":"Point"}
+  "bbox": [
+    -86.200133,
+    34.2595,
+    -86.200133,
+    34.2595
+],
+  "geometry": {"coordinates":[-86.20013299999999,34.2595],"type":"Point"}
 }

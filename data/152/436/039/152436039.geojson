@@ -2,13 +2,14 @@
   "id": 152436039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.582594,34.73878,-86.582594,34.73878",
     "geom:latitude":34.73878,
     "geom:longitude":-86.582594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Pratt Ave NE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878241,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878241
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152436039,
-    "wof:lastmodified":1449048476,
+    "wof:lastmodified":1466317999,
     "wof:name":"National Chld Advocacy Ctr Inc",
     "wof:parent_id":85878241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.582594,34.73878,-86.582594,34.73878],
+  "bbox": [
+    -86.582594,
+    34.73878,
+    -86.582594,
+    34.73878
+],
   "geometry": {"coordinates":[-86.582594,34.73878],"type":"Point"}
 }

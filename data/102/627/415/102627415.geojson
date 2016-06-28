@@ -2,13 +2,14 @@
   "id": 102627415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.020783,32.771544,-86.020783,32.771544",
     "geom:latitude":32.771544,
     "geom:longitude":-86.020783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8300 Parker Creek Marina Rd",
     "sg:city":"Equality",
     "sg:classifiers":[
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":102627415,
-    "wof:lastmodified":1449070263,
+    "wof:lastmodified":1466317454,
     "wof:name":"Parker Creek Marina",
     "wof:parent_id":85688675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.020783,32.771544,-86.020783,32.771544],
-  "geometry": {"coordinates":[-86.020783,32.771544],"type":"Point"}
+  "bbox": [
+    -86.020783,
+    32.771544,
+    -86.020783,
+    32.771544
+],
+  "geometry": {"coordinates":[-86.02078299999999,32.771544],"type":"Point"}
 }

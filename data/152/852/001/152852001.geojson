@@ -2,13 +2,14 @@
   "id": 152852001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.793348,33.395814,-86.793348,33.395814",
     "geom:latitude":33.395814,
     "geom:longitude":-86.793348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2140 Lynngate Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152852001,
-    "wof:lastmodified":1449048129,
+    "wof:lastmodified":1466319946,
     "wof:name":"Spiff It Up",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.793348,33.395814,-86.793348,33.395814],
-  "geometry": {"coordinates":[-86.793348,33.395814],"type":"Point"}
+  "bbox": [
+    -86.793348,
+    33.395814,
+    -86.793348,
+    33.395814
+],
+  "geometry": {"coordinates":[-86.79334799999999,33.395814],"type":"Point"}
 }

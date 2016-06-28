@@ -2,13 +2,14 @@
   "id": 152784599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.383963,31.227804,-85.383963,31.227804",
     "geom:latitude":31.227804,
     "geom:longitude":-85.383963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"693 E Burdeshaw St",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852069,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85852069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152784599,
-    "wof:lastmodified":1449047383,
+    "wof:lastmodified":1466319822,
     "wof:name":"Burdeshaw Street Beauty Salon",
     "wof:parent_id":85852069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.383963,31.227804,-85.383963,31.227804],
-  "geometry": {"coordinates":[-85.383963,31.227804],"type":"Point"}
+  "bbox": [
+    -85.383963,
+    31.227804,
+    -85.383963,
+    31.227804
+],
+  "geometry": {"coordinates":[-85.38396299999999,31.227804],"type":"Point"}
 }

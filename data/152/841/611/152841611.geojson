@@ -2,13 +2,14 @@
   "id": 152841611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.801527,33.51641,-86.801527,33.51641",
     "geom:latitude":33.51641,
     "geom:longitude":-86.801527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2228 1st Ave N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876269,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152841611,
-    "wof:lastmodified":1449045276,
+    "wof:lastmodified":1466320068,
     "wof:name":"Patrick B Odum DMD",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.801527,33.51641,-86.801527,33.51641],
-  "geometry": {"coordinates":[-86.801527,33.51641],"type":"Point"}
+  "bbox": [
+    -86.801527,
+    33.51641,
+    -86.801527,
+    33.51641
+],
+  "geometry": {"coordinates":[-86.80152699999999,33.51641],"type":"Point"}
 }

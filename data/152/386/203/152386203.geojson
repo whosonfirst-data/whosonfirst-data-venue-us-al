@@ -2,13 +2,14 @@
   "id": 152386203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.767197,33.460162,-86.767197,33.460162",
     "geom:latitude":33.460162,
     "geom:longitude":-86.767197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 Vestavia Cir",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853703,
+        85688675,
         85633793,
         85914847,
         102085481,
-        85688675
+        85853703
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152386203,
-    "wof:lastmodified":1449046728,
+    "wof:lastmodified":1466317749,
     "wof:name":"Joe Morris & Assoc",
     "wof:parent_id":85853703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.767197,33.460162,-86.767197,33.460162],
+  "bbox": [
+    -86.767197,
+    33.460162,
+    -86.767197,
+    33.460162
+],
   "geometry": {"coordinates":[-86.767197,33.460162],"type":"Point"}
 }

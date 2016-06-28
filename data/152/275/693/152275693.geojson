@@ -2,13 +2,14 @@
   "id": 152275693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.118895,30.755516,-88.118895,30.755516",
     "geom:latitude":30.755516,
     "geom:longitude":-88.118895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"821 Boaz Ave",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85857413,
+        85688675,
         85633793,
         85913741,
         102085585,
-        85688675
+        85857413
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152275693,
-    "wof:lastmodified":1449045789,
+    "wof:lastmodified":1466316844,
     "wof:name":"Revelations Customs & Rstrtn",
     "wof:parent_id":85857413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.118895,30.755516,-88.118895,30.755516],
-  "geometry": {"coordinates":[-88.118895,30.755516],"type":"Point"}
+  "bbox": [
+    -88.118895,
+    30.755516,
+    -88.118895,
+    30.755516
+],
+  "geometry": {"coordinates":[-88.11889499999999,30.755516],"type":"Point"}
 }

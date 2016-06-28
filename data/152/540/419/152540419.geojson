@@ -2,13 +2,14 @@
   "id": 152540419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.555755,33.221734,-87.555755,33.221734",
     "geom:latitude":33.221734,
     "geom:longitude":-87.555755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1415 River Ro Dr",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85844931,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85844931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152540419,
-    "wof:lastmodified":1449046130,
+    "wof:lastmodified":1466318691,
     "wof:name":"Jerrys Cleaners",
     "wof:parent_id":85844931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.555755,33.221734,-87.555755,33.221734],
+  "bbox": [
+    -87.555755,
+    33.221734,
+    -87.555755,
+    33.221734
+],
   "geometry": {"coordinates":[-87.555755,33.221734],"type":"Point"}
 }

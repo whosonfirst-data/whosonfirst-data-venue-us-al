@@ -2,13 +2,14 @@
   "id": 152781253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.261024,33.826962,-86.261024,33.826962",
     "geom:latitude":33.826962,
     "geom:longitude":-86.261024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33215 US Hwy 231",
     "sg:city":"Ashville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152781253,
-    "wof:lastmodified":1449045172,
+    "wof:lastmodified":1466319748,
     "wof:name":"Ashville High School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.261024,33.826962,-86.261024,33.826962],
-  "geometry": {"coordinates":[-86.261024,33.826962],"type":"Point"}
+  "bbox": [
+    -86.261024,
+    33.826962,
+    -86.261024,
+    33.826962
+],
+  "geometry": {"coordinates":[-86.26102400000001,33.826962],"type":"Point"}
 }

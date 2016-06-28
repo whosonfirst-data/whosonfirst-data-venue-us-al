@@ -2,13 +2,14 @@
   "id": 152511089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.35101,31.22916,-85.35101,31.22916",
     "geom:latitude":31.22916,
     "geom:longitude":-85.35101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"378 Eastland Rd",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847911,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85847911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":152511089,
-    "wof:lastmodified":1449046440,
+    "wof:lastmodified":1466318371,
     "wof:name":"Dixieland Metals Inc",
     "wof:parent_id":85847911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.35101,31.22916,-85.35101,31.22916],
+  "bbox": [
+    -85.35101,
+    31.22916,
+    -85.35101,
+    31.22916
+],
   "geometry": {"coordinates":[-85.35101,31.22916],"type":"Point"}
 }

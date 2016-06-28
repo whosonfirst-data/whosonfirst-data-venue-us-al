@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102519965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.705119,33.544255,-86.705119,33.544255",
     "geom:latitude":33.544255,
     "geom:longitude":-86.705119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2312 Highland Ave",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819529,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85819529
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102519965,
-    "wof:lastmodified":1449070028,
+    "wof:lastmodified":1466317253,
     "wof:name":"Woods Tek",
     "wof:parent_id":85819529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.705119,33.544255,-86.705119,33.544255],
+  "bbox": [
+    -86.705119,
+    33.544255,
+    -86.705119,
+    33.544255
+],
   "geometry": {"coordinates":[-86.705119,33.544255],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152726207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.161453,33.598973,-86.161453,33.598973",
     "geom:latitude":33.598973,
     "geom:longitude":-86.161453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"223 Clear Springs Rd",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085517,
-        85633793,
         85688675,
-        85849013
+        85633793,
+        85849013,
+        102085517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152726207,
-    "wof:lastmodified":1449047464,
+    "wof:lastmodified":1466319450,
     "wof:name":"Ancra International",
     "wof:parent_id":85849013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.161453,33.598973,-86.161453,33.598973],
-  "geometry": {"coordinates":[-86.161453,33.598973],"type":"Point"}
+  "bbox": [
+    -86.161453,
+    33.598973,
+    -86.161453,
+    33.598973
+],
+  "geometry": {"coordinates":[-86.16145299999999,33.598973],"type":"Point"}
 }

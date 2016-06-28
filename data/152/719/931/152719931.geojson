@@ -2,13 +2,14 @@
   "id": 152719931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.045278,32.480103,-85.045278,32.480103",
     "geom:latitude":32.480103,
     "geom:longitude":-85.045278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2204 Dobbs Dr",
     "sg:city":"Phenix City",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     "sg:website":"www.earthscapes.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822949,
+        85688675,
         85633793,
         85913715,
         102085697,
-        85688675
+        85822949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":152719931,
-    "wof:lastmodified":1449044902,
+    "wof:lastmodified":1466319440,
     "wof:name":"Earth-Scapes Inc",
     "wof:parent_id":85822949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.045278,32.480103,-85.045278,32.480103],
+  "bbox": [
+    -85.045278,
+    32.480103,
+    -85.045278,
+    32.480103
+],
   "geometry": {"coordinates":[-85.045278,32.480103],"type":"Point"}
 }

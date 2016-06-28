@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102503577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.5807,33.200679,-87.5807,33.200679",
     "geom:latitude":33.200679,
     "geom:longitude":-87.5807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3501 Stillman Blvd",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085553,
-        85633793,
         85688675,
-        85812491
+        85633793,
+        85812491,
+        102085553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102503577,
-    "wof:lastmodified":1449070221,
+    "wof:lastmodified":1466316627,
     "wof:name":"St Paul Baptist Church",
     "wof:parent_id":85812491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.5807,33.200679,-87.5807,33.200679],
-  "geometry": {"coordinates":[-87.5807,33.200679],"type":"Point"}
+  "bbox": [
+    -87.5807,
+    33.200679,
+    -87.5807,
+    33.200679
+],
+  "geometry": {"coordinates":[-87.58069999999999,33.200679],"type":"Point"}
 }

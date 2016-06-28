@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102500133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.090814,30.674857,-88.090814,30.674857",
     "geom:latitude":30.674857,
     "geom:longitude":-88.090814,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2100 Government St",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.millertechintl.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878957,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878957
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102500133,
-    "wof:lastmodified":1449068388,
+    "wof:lastmodified":1466316469,
     "wof:name":"Miller Technologies Intl",
     "wof:parent_id":85878957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.090814,30.674857,-88.090814,30.674857],
-  "geometry": {"coordinates":[-88.090814,30.674857],"type":"Point"}
+  "bbox": [
+    -88.090814,
+    30.674857,
+    -88.090814,
+    30.674857
+],
+  "geometry": {"coordinates":[-88.09081399999999,30.674857],"type":"Point"}
 }

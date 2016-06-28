@@ -2,13 +2,14 @@
   "id": 152755559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.671126,30.402388,-87.671126,30.402388",
     "geom:latitude":30.402388,
     "geom:longitude":-87.671126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 Walker Ave",
     "sg:city":"Foley",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868551,
+        85688675,
         85633793,
         85914719,
         102085469,
-        85688675
+        85868551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152755559,
-    "wof:lastmodified":1449045608,
+    "wof:lastmodified":1466319624,
     "wof:name":"Alpha Contractors",
     "wof:parent_id":85868551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.671126,30.402388,-87.671126,30.402388],
+  "bbox": [
+    -87.671126,
+    30.402388,
+    -87.671126,
+    30.402388
+],
   "geometry": {"coordinates":[-87.671126,30.402388],"type":"Point"}
 }

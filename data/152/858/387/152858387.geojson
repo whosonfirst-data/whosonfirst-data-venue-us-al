@@ -2,13 +2,14 @@
   "id": 152858387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.118513,33.607508,-86.118513,33.607508",
     "geom:latitude":33.607508,
     "geom:longitude":-86.118513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"143 Magnolia St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085517,
-        85633793,
         85688675,
-        85849013
+        85633793,
+        85849013,
+        102085517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152858387,
-    "wof:lastmodified":1449044763,
+    "wof:lastmodified":1466320358,
     "wof:name":"Two Friends Florist",
     "wof:parent_id":85849013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.118513,33.607508,-86.118513,33.607508],
-  "geometry": {"coordinates":[-86.118513,33.607508],"type":"Point"}
+  "bbox": [
+    -86.118513,
+    33.607508,
+    -86.118513,
+    33.607508
+],
+  "geometry": {"coordinates":[-86.11851299999999,33.607508],"type":"Point"}
 }

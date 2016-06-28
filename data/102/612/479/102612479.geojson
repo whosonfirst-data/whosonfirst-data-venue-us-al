@@ -2,13 +2,14 @@
   "id": 102612479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.042943,30.872049,-88.042943,30.872049",
     "geom:latitude":30.872049,
     "geom:longitude":-88.042943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 Thomas Rd",
     "sg:city":"Satsuma",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102612479,
-    "wof:lastmodified":1449068833,
+    "wof:lastmodified":1466317380,
     "wof:name":"Kei Spec Printing",
     "wof:parent_id":85913731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.042943,30.872049,-88.042943,30.872049],
-  "geometry": {"coordinates":[-88.042943,30.872049],"type":"Point"}
+  "bbox": [
+    -88.042943,
+    30.872049,
+    -88.042943,
+    30.872049
+],
+  "geometry": {"coordinates":[-88.04294299999999,30.872049],"type":"Point"}
 }

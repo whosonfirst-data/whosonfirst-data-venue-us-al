@@ -2,13 +2,14 @@
   "id": 152582665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.015961,33.452349,-87.015961,33.452349",
     "geom:latitude":33.452349,
     "geom:longitude":-87.015961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Hill Ave",
     "sg:city":"Bessemer",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152582665,
-    "wof:lastmodified":1449046790,
+    "wof:lastmodified":1466318779,
     "wof:name":"Herring Concrete",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.015961,33.452349,-87.015961,33.452349],
+  "bbox": [
+    -87.015961,
+    33.452349,
+    -87.015961,
+    33.452349
+],
   "geometry": {"coordinates":[-87.015961,33.452349],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152489345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.011635,34.013992,-86.011635,34.013992",
     "geom:latitude":34.013992,
     "geom:longitude":-86.011635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"756 Chestnut St",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822279,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85822279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152489345,
-    "wof:lastmodified":1449046829,
+    "wof:lastmodified":1466318253,
     "wof:name":"Mc Cord & Martin",
     "wof:parent_id":85822279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.011635,34.013992,-86.011635,34.013992],
+  "bbox": [
+    -86.011635,
+    34.013992,
+    -86.011635,
+    34.013992
+],
   "geometry": {"coordinates":[-86.011635,34.013992],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152758875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.914187,34.753928,-85.914187,34.753928",
     "geom:latitude":34.753928,
     "geom:longitude":-85.914187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1105 Co Rd 412",
     "sg:city":"Hollywood",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809451,
+        85688675,
         85633793,
         85914033,
         102085607,
-        85688675
+        85809451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152758875,
-    "wof:lastmodified":1449045703,
+    "wof:lastmodified":1466319664,
     "wof:name":"Apostles & Prophets Church",
     "wof:parent_id":85809451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.914187,34.753928,-85.914187,34.753928],
+  "bbox": [
+    -85.914187,
+    34.753928,
+    -85.914187,
+    34.753928
+],
   "geometry": {"coordinates":[-85.914187,34.753928],"type":"Point"}
 }

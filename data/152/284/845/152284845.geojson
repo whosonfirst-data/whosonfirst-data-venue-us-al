@@ -2,13 +2,14 @@
   "id": 152284845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.259568,31.019683,-88.259568,31.019683",
     "geom:latitude":31.019683,
     "geom:longitude":-88.259568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8878 Sand Ridge Rd",
     "sg:city":"Citronelle",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085585,
-        85633793,
         85688675,
-        85878987
+        85633793,
+        85878987,
+        102085585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152284845,
-    "wof:lastmodified":1449047169,
+    "wof:lastmodified":1466316940,
     "wof:name":"Rivers Timber Company",
     "wof:parent_id":85878987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.259568,31.019683,-88.259568,31.019683],
+  "bbox": [
+    -88.259568,
+    31.019683,
+    -88.259568,
+    31.019683
+],
   "geometry": {"coordinates":[-88.259568,31.019683],"type":"Point"}
 }

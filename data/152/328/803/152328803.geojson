@@ -2,13 +2,14 @@
   "id": 152328803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.311765,30.581214,-88.311765,30.581214",
     "geom:latitude":30.581214,
     "geom:longitude":-88.311765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4021 Dawes Rd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152328803,
-    "wof:lastmodified":1449047026,
+    "wof:lastmodified":1466317372,
     "wof:name":"Dawes Hardware Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.311765,30.581214,-88.311765,30.581214],
-  "geometry": {"coordinates":[-88.311765,30.581214],"type":"Point"}
+  "bbox": [
+    -88.311765,
+    30.581214,
+    -88.311765,
+    30.581214
+],
+  "geometry": {"coordinates":[-88.31176499999999,30.581214],"type":"Point"}
 }

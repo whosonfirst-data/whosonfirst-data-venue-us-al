@@ -2,13 +2,14 @@
   "id": 152661845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.784774,33.343633,-86.784774,33.343633",
     "geom:latitude":33.343633,
     "geom:longitude":-86.784774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"280 Cahaba Valley Pkwy N",
     "sg:city":"Pelham",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.bookvalues.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85826867,
+        85688675,
         85633793,
         85914501,
         102085499,
-        85688675
+        85826867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152661845,
-    "wof:lastmodified":1449048422,
+    "wof:lastmodified":1466319169,
     "wof:name":"BOOKSVALUE.COM",
     "wof:parent_id":85826867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.784774,33.343633,-86.784774,33.343633],
+  "bbox": [
+    -86.784774,
+    33.343633,
+    -86.784774,
+    33.343633
+],
   "geometry": {"coordinates":[-86.784774,33.343633],"type":"Point"}
 }

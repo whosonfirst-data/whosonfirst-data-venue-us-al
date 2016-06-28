@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102497313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.668458,34.718128,-86.668458,34.718128",
     "geom:latitude":34.718128,
     "geom:longitude":-86.668458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"335 Forrest Park Ct NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085487,
-        85633793,
         85688675,
-        85817803
+        85633793,
+        85817803,
+        102085487
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102497313,
-    "wof:lastmodified":1449070179,
+    "wof:lastmodified":1466316473,
     "wof:name":"US Gartex",
     "wof:parent_id":85817803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.668458,34.718128,-86.668458,34.718128],
+  "bbox": [
+    -86.668458,
+    34.718128,
+    -86.668458,
+    34.718128
+],
   "geometry": {"coordinates":[-86.668458,34.718128],"type":"Point"}
 }

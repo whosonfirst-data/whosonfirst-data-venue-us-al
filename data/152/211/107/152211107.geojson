@@ -2,13 +2,14 @@
   "id": 152211107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.761321,33.535509,-86.761321,33.535509",
     "geom:latitude":33.535509,
     "geom:longitude":-86.761321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4930 1st Ave N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815977,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85815977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152211107,
-    "wof:lastmodified":1449045431,
+    "wof:lastmodified":1466315998,
     "wof:name":"Birmingham Cylinder Head Exch",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.761321,33.535509,-86.761321,33.535509],
+  "bbox": [
+    -86.761321,
+    33.535509,
+    -86.761321,
+    33.535509
+],
   "geometry": {"coordinates":[-86.761321,33.535509],"type":"Point"}
 }

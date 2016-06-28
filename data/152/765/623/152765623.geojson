@@ -2,13 +2,14 @@
   "id": 152765623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.306755,31.871478,-88.306755,31.871478",
     "geom:latitude":31.871478,
     "geom:longitude":-88.306755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4261 Mosley Bridge Rd",
     "sg:city":"Gilbertown",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822759,
+        85688675,
         85633793,
         85899781,
         102085727,
-        85688675
+        85822759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152765623,
-    "wof:lastmodified":1449046976,
+    "wof:lastmodified":1466319742,
     "wof:name":"Southern Charm Catering",
     "wof:parent_id":85822759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.306755,31.871478,-88.306755,31.871478],
+  "bbox": [
+    -88.306755,
+    31.871478,
+    -88.306755,
+    31.871478
+],
   "geometry": {"coordinates":[-88.306755,31.871478],"type":"Point"}
 }

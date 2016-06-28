@@ -2,13 +2,14 @@
   "id": 152588505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.208748,32.394474,-86.208748,32.394474",
     "geom:latitude":32.394474,
     "geom:longitude":-86.208748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"584 Oliver Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834995,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85834995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152588505,
-    "wof:lastmodified":1449048011,
+    "wof:lastmodified":1466318789,
     "wof:name":"Flooring Services Inc",
     "wof:parent_id":85834995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.208748,32.394474,-86.208748,32.394474],
+  "bbox": [
+    -86.208748,
+    32.394474,
+    -86.208748,
+    32.394474
+],
   "geometry": {"coordinates":[-86.208748,32.394474],"type":"Point"}
 }

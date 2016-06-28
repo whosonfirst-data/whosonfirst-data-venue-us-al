@@ -2,13 +2,14 @@
   "id": 152551147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.474332,34.163546,-86.474332,34.163546",
     "geom:latitude":34.163546,
     "geom:longitude":-86.474332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50951 State Hwy 79",
     "sg:city":"Blountsville",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085667,
-        85633793,
         85688675,
-        85819523
+        85633793,
+        85819523,
+        102085667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152551147,
-    "wof:lastmodified":1449045232,
+    "wof:lastmodified":1466318573,
     "wof:name":"Brooksville Cabinets",
     "wof:parent_id":85819523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.474332,34.163546,-86.474332,34.163546],
+  "bbox": [
+    -86.474332,
+    34.163546,
+    -86.474332,
+    34.163546
+],
   "geometry": {"coordinates":[-86.474332,34.163546],"type":"Point"}
 }

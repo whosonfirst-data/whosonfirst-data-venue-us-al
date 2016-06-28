@@ -2,13 +2,14 @@
   "id": 152637721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.434816,31.222961,-85.434816,31.222961",
     "geom:latitude":31.222961,
     "geom:longitude":-85.434816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"480 Honeysuckle Rd",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85846119,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85846119
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152637721,
-    "wof:lastmodified":1449044291,
+    "wof:lastmodified":1466319044,
     "wof:name":"Jeffrey J Crittenden MD",
     "wof:parent_id":85846119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.434816,31.222961,-85.434816,31.222961],
+  "bbox": [
+    -85.434816,
+    31.222961,
+    -85.434816,
+    31.222961
+],
   "geometry": {"coordinates":[-85.434816,31.222961],"type":"Point"}
 }

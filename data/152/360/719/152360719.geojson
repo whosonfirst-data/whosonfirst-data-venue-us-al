@@ -2,13 +2,14 @@
   "id": 152360719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.64423,31.022085,-87.64423,31.022085",
     "geom:latitude":31.022085,
     "geom:longitude":-87.64423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"54875 White Ln",
     "sg:city":"Perdido",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813343,
+        85688675,
         85633793,
         85914703,
         102085469,
-        85688675
+        85813343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152360719,
-    "wof:lastmodified":1449047859,
+    "wof:lastmodified":1466317770,
     "wof:name":"White Well Drilling & Pump Co",
     "wof:parent_id":85813343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.64423,31.022085,-87.64423,31.022085],
-  "geometry": {"coordinates":[-87.64423,31.022085],"type":"Point"}
+  "bbox": [
+    -87.64423,
+    31.022085,
+    -87.64423,
+    31.022085
+],
+  "geometry": {"coordinates":[-87.64422999999999,31.022085],"type":"Point"}
 }

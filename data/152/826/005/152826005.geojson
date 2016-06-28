@@ -2,13 +2,14 @@
   "id": 152826005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.193632,34.370816,-86.193632,34.370816",
     "geom:latitude":34.370816,
     "geom:longitude":-86.193632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1202 Martling Gap Rd",
     "sg:city":"Albertville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85830981,
+        85688675,
         85633793,
         85899833,
         102085513,
-        85688675
+        85830981
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152826005,
-    "wof:lastmodified":1449047656,
+    "wof:lastmodified":1466320107,
     "wof:name":"Studio 4 Models & Talent",
     "wof:parent_id":85830981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.193632,34.370816,-86.193632,34.370816],
-  "geometry": {"coordinates":[-86.193632,34.370816],"type":"Point"}
+  "bbox": [
+    -86.193632,
+    34.370816,
+    -86.193632,
+    34.370816
+],
+  "geometry": {"coordinates":[-86.19363199999999,34.370816],"type":"Point"}
 }

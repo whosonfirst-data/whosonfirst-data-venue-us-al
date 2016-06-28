@@ -2,13 +2,14 @@
   "id": 152164681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.952915,32.942381,-85.952915,32.942381",
     "geom:latitude":32.942381,
     "geom:longitude":-85.952915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 Madison St",
     "sg:city":"Alexander City",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840481,
+        85688675,
         85633793,
         85913363,
         102085567,
-        85688675
+        85840481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152164681,
-    "wof:lastmodified":1449044855,
+    "wof:lastmodified":1466315373,
     "wof:name":"Jones & Hill",
     "wof:parent_id":85840481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.952915,32.942381,-85.952915,32.942381],
+  "bbox": [
+    -85.952915,
+    32.942381,
+    -85.952915,
+    32.942381
+],
   "geometry": {"coordinates":[-85.952915,32.942381],"type":"Point"}
 }

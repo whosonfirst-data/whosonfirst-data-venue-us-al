@@ -2,13 +2,14 @@
   "id": 152793203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.809924,33.444429,-86.809924,33.444429",
     "geom:latitude":33.444429,
     "geom:longitude":-86.809924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1745 Woodbine Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803351,
+        85688675,
         85633793,
         85914483,
         102085481,
-        85688675
+        85803351
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152793203,
-    "wof:lastmodified":1449046840,
+    "wof:lastmodified":1466319801,
     "wof:name":"Tiger Pride LLC",
     "wof:parent_id":85803351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.809924,33.444429,-86.809924,33.444429],
+  "bbox": [
+    -86.809924,
+    33.444429,
+    -86.809924,
+    33.444429
+],
   "geometry": {"coordinates":[-86.809924,33.444429],"type":"Point"}
 }

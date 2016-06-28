@@ -2,13 +2,14 @@
   "id": 152555955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.581653,34.55899,-86.581653,34.55899",
     "geom:latitude":34.55899,
     "geom:longitude":-86.581653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"699 US Hwy 231",
     "sg:city":"Laceys Spring",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822793,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85822793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152555955,
-    "wof:lastmodified":1449048260,
+    "wof:lastmodified":1466318660,
     "wof:name":"Pepper's Laceys Spring Diner",
     "wof:parent_id":85822793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.581653,34.55899,-86.581653,34.55899],
+  "bbox": [
+    -86.581653,
+    34.55899,
+    -86.581653,
+    34.55899
+],
   "geometry": {"coordinates":[-86.581653,34.55899],"type":"Point"}
 }

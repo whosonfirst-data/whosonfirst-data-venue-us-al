@@ -2,13 +2,14 @@
   "id": 152165867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.814171,33.518337,-86.814171,33.518337",
     "geom:latitude":33.518337,
     "geom:longitude":-86.814171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1616 7th Ave N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.jones-mcleod.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820315,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85820315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152165867,
-    "wof:lastmodified":1449048908,
+    "wof:lastmodified":1466315441,
     "wof:name":"Jones-Mc Leod Inc",
     "wof:parent_id":85820315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.814171,33.518337,-86.814171,33.518337],
+  "bbox": [
+    -86.814171,
+    33.518337,
+    -86.814171,
+    33.518337
+],
   "geometry": {"coordinates":[-86.814171,33.518337],"type":"Point"}
 }

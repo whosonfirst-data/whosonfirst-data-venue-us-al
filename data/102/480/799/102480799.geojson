@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102480799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.866104,31.313011,-85.866104,31.313011",
     "geom:latitude":31.313011,
     "geom:longitude":-85.866104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"707 W Adams St",
     "sg:city":"Enterprise",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837695,
+        85688675,
         85633793,
         85899527,
         102085699,
-        85688675
+        85837695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102480799,
-    "wof:lastmodified":1449068582,
+    "wof:lastmodified":1466315266,
     "wof:name":"Wanda Pierson",
     "wof:parent_id":85837695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.866104,31.313011,-85.866104,31.313011],
-  "geometry": {"coordinates":[-85.866104,31.313011],"type":"Point"}
+  "bbox": [
+    -85.866104,
+    31.313011,
+    -85.866104,
+    31.313011
+],
+  "geometry": {"coordinates":[-85.86610400000001,31.313011],"type":"Point"}
 }

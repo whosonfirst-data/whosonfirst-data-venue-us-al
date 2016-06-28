@@ -2,13 +2,14 @@
   "id": 152431899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.675379,33.637667,-86.675379,33.637667",
     "geom:latitude":33.637667,
     "geom:longitude":-86.675379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1843 Mara Dr NE",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085481,
-        85633793,
         85688675,
-        85816403
+        85633793,
+        85816403,
+        102085481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152431899,
-    "wof:lastmodified":1449044928,
+    "wof:lastmodified":1466318093,
     "wof:name":"Port City Seafood Market",
     "wof:parent_id":85816403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.675379,33.637667,-86.675379,33.637667],
-  "geometry": {"coordinates":[-86.675379,33.637667],"type":"Point"}
+  "bbox": [
+    -86.675379,
+    33.637667,
+    -86.675379,
+    33.637667
+],
+  "geometry": {"coordinates":[-86.67537900000001,33.637667],"type":"Point"}
 }

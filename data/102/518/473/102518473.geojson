@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102518473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.698242,33.57198,-86.698242,33.57198",
     "geom:latitude":33.57198,
     "geom:longitude":-86.698242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8929 Glendale Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845635,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85845635
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":102518473,
-    "wof:lastmodified":1449069108,
+    "wof:lastmodified":1466316924,
     "wof:name":"Reliable Moving Company",
     "wof:parent_id":85845635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.698242,33.57198,-86.698242,33.57198],
-  "geometry": {"coordinates":[-86.698242,33.57198],"type":"Point"}
+  "bbox": [
+    -86.698242,
+    33.57198,
+    -86.698242,
+    33.57198
+],
+  "geometry": {"coordinates":[-86.69824199999999,33.57198],"type":"Point"}
 }

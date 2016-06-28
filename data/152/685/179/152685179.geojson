@@ -2,13 +2,14 @@
   "id": 152685179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.759937,34.176944,-85.759937,34.176944",
     "geom:latitude":34.176944,
     "geom:longitude":-85.759937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1045 Riverside St",
     "sg:city":"Leesburg",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152685179,
-    "wof:lastmodified":1449048803,
+    "wof:lastmodified":1466319239,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.759937,34.176944,-85.759937,34.176944],
-  "geometry": {"coordinates":[-85.759937,34.176944],"type":"Point"}
+  "bbox": [
+    -85.759937,
+    34.176944,
+    -85.759937,
+    34.176944
+],
+  "geometry": {"coordinates":[-85.75993699999999,34.176944],"type":"Point"}
 }

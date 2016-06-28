@@ -2,13 +2,14 @@
   "id": 152550877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.679054,34.746945,-87.679054,34.746945",
     "geom:latitude":34.746945,
     "geom:longitude":-87.679054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Wh Blake Jr Dr",
     "sg:city":"Muscle Shoals",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816399,
+        85688675,
         85633793,
         85897481,
         102085625,
-        85688675
+        85816399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152550877,
-    "wof:lastmodified":1449046803,
+    "wof:lastmodified":1466318605,
     "wof:name":"Northwest Alabama Cancer Ctr",
     "wof:parent_id":85816399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.679054,34.746945,-87.679054,34.746945],
-  "geometry": {"coordinates":[-87.679054,34.746945],"type":"Point"}
+  "bbox": [
+    -87.679054,
+    34.746945,
+    -87.679054,
+    34.746945
+],
+  "geometry": {"coordinates":[-87.67905399999999,34.746945],"type":"Point"}
 }

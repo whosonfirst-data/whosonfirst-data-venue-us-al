@@ -2,13 +2,14 @@
   "id": 152831701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.212546,32.591548,-86.212546,32.591548",
     "geom:latitude":32.591548,
     "geom:longitude":-86.212546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11217 US Hwy 231",
     "sg:city":"Wetumpka",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851843,
+        85688675,
         85633793,
         85913951,
         102085631,
-        85688675
+        85851843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152831701,
-    "wof:lastmodified":1449047014,
+    "wof:lastmodified":1466320007,
     "wof:name":"S Collier Carpet Cleaning",
     "wof:parent_id":85851843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.212546,32.591548,-86.212546,32.591548],
+  "bbox": [
+    -86.212546,
+    32.591548,
+    -86.212546,
+    32.591548
+],
   "geometry": {"coordinates":[-86.212546,32.591548],"type":"Point"}
 }

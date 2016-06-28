@@ -2,13 +2,14 @@
   "id": 152205135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.49274,34.674921,-86.49274,34.674921",
     "geom:latitude":34.674921,
     "geom:longitude":-86.49274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"295 Miller Ln",
     "sg:city":"Owens Cross Rds",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878245,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152205135,
-    "wof:lastmodified":1449047091,
+    "wof:lastmodified":1466316000,
     "wof:name":"Hampton Cove Dog Grooming",
     "wof:parent_id":85878245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.49274,34.674921,-86.49274,34.674921],
+  "bbox": [
+    -86.49274,
+    34.674921,
+    -86.49274,
+    34.674921
+],
   "geometry": {"coordinates":[-86.49274,34.674921],"type":"Point"}
 }

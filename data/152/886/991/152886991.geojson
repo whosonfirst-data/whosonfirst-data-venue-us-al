@@ -2,13 +2,14 @@
   "id": 152886991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.722182,34.441605,-85.722182,34.441605",
     "geom:latitude":34.441605,
     "geom:longitude":-85.722182,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Gault Ave N",
     "sg:city":"Fort Payne",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815015,
+        85688675,
         85633793,
         85897515,
         102085615,
-        85688675
+        85815015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152886991,
-    "wof:lastmodified":1449046854,
+    "wof:lastmodified":1466320285,
     "wof:name":"M&M Trading",
     "wof:parent_id":85815015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.722182,34.441605,-85.722182,34.441605],
+  "bbox": [
+    -85.722182,
+    34.441605,
+    -85.722182,
+    34.441605
+],
   "geometry": {"coordinates":[-85.722182,34.441605],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152532851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.515215,33.69422,-86.515215,33.69422",
     "geom:latitude":33.69422,
     "geom:longitude":-86.515215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Big Rock Ln",
     "sg:city":"Trussville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807031,
+        85688675,
         85633793,
         85913421,
         102085647,
-        85688675
+        85807031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152532851,
-    "wof:lastmodified":1449045862,
+    "wof:lastmodified":1466318357,
     "wof:name":"Big Rock Cabinet & Woodworks",
     "wof:parent_id":85807031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.515215,33.69422,-86.515215,33.69422],
+  "bbox": [
+    -86.515215,
+    33.69422,
+    -86.515215,
+    33.69422
+],
   "geometry": {"coordinates":[-86.515215,33.69422],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152524819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.489022,33.447959,-86.489022,33.447959",
     "geom:latitude":33.447959,
     "geom:longitude":-86.489022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"234 Co Rd 45",
     "sg:city":"Sterrett",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85833411
+        85633793,
+        85833411,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152524819,
-    "wof:lastmodified":1449044241,
+    "wof:lastmodified":1466318515,
     "wof:name":"Team Nexus Consulting Inc",
     "wof:parent_id":85833411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.489022,33.447959,-86.489022,33.447959],
-  "geometry": {"coordinates":[-86.489022,33.447959],"type":"Point"}
+  "bbox": [
+    -86.489022,
+    33.447959,
+    -86.489022,
+    33.447959
+],
+  "geometry": {"coordinates":[-86.48902200000001,33.447959],"type":"Point"}
 }

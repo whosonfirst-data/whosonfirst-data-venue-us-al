@@ -2,13 +2,14 @@
   "id": 152577331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.710552,31.3211,-85.710552,31.3211",
     "geom:latitude":31.3211,
     "geom:longitude":-85.710552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"423 Daleville Ave",
     "sg:city":"Daleville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152577331,
-    "wof:lastmodified":1449049038,
+    "wof:lastmodified":1466318976,
     "wof:name":"Betsy's Bo's & Blossoms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.710552,31.3211,-85.710552,31.3211],
-  "geometry": {"coordinates":[-85.710552,31.3211],"type":"Point"}
+  "bbox": [
+    -85.710552,
+    31.3211,
+    -85.710552,
+    31.3211
+],
+  "geometry": {"coordinates":[-85.71055200000001,31.3211],"type":"Point"}
 }

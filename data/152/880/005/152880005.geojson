@@ -2,13 +2,14 @@
   "id": 152880005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.315216,32.543633,-86.315216,32.543633",
     "geom:latitude":32.543633,
     "geom:longitude":-86.315216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"449 Jackson St",
     "sg:city":"Elmore",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152880005,
-    "wof:lastmodified":1449048936,
+    "wof:lastmodified":1466320382,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.315216,32.543633,-86.315216,32.543633],
-  "geometry": {"coordinates":[-86.315216,32.543633],"type":"Point"}
+  "bbox": [
+    -86.315216,
+    32.543633,
+    -86.315216,
+    32.543633
+],
+  "geometry": {"coordinates":[-86.31521600000001,32.543633],"type":"Point"}
 }

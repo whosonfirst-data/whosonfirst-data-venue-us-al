@@ -2,13 +2,14 @@
   "id": 152441083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.55176,34.628517,-86.55176,34.628517",
     "geom:latitude":34.628517,
     "geom:longitude":-86.55176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 Versailles Dr SE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854899,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85854899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152441083,
-    "wof:lastmodified":1449044656,
+    "wof:lastmodified":1466318029,
     "wof:name":"Mindgames Inc",
     "wof:parent_id":85854899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.55176,34.628517,-86.55176,34.628517],
+  "bbox": [
+    -86.55176,
+    34.628517,
+    -86.55176,
+    34.628517
+],
   "geometry": {"coordinates":[-86.55176,34.628517],"type":"Point"}
 }

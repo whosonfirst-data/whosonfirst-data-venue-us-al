@@ -2,13 +2,14 @@
   "id": 152334551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.599063,34.766445,-86.599063,34.766445",
     "geom:latitude":34.766445,
     "geom:longitude":-86.599063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3201 Blue Spring Rd NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809309,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85809309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152334551,
-    "wof:lastmodified":1449045654,
+    "wof:lastmodified":1466317414,
     "wof:name":"Sammy Milton Rev",
     "wof:parent_id":85809309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.599063,34.766445,-86.599063,34.766445],
+  "bbox": [
+    -86.599063,
+    34.766445,
+    -86.599063,
+    34.766445
+],
   "geometry": {"coordinates":[-86.599063,34.766445],"type":"Point"}
 }

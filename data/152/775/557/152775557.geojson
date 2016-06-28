@@ -2,13 +2,14 @@
   "id": 152775557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.241328,32.098009,-88.241328,32.098009",
     "geom:latitude":32.098009,
     "geom:longitude":-88.241328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1421 W Pushmataha St",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822759,
+        85688675,
         85633793,
         85899781,
         102085727,
-        85688675
+        85822759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152775557,
-    "wof:lastmodified":1449047719,
+    "wof:lastmodified":1466319597,
     "wof:name":"C & H Roofing",
     "wof:parent_id":85822759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.241328,32.098009,-88.241328,32.098009],
+  "bbox": [
+    -88.241328,
+    32.098009,
+    -88.241328,
+    32.098009
+],
   "geometry": {"coordinates":[-88.241328,32.098009],"type":"Point"}
 }

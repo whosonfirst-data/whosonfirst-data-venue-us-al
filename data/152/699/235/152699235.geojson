@@ -2,13 +2,14 @@
   "id": 152699235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.580644,34.722868,-86.580644,34.722868",
     "geom:latitude":34.722868,
     "geom:longitude":-86.580644,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"726 Madison St",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878239,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878239
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152699235,
-    "wof:lastmodified":1449044935,
+    "wof:lastmodified":1466319290,
     "wof:name":"McDaris Lee MD",
     "wof:parent_id":85878239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.580644,34.722868,-86.580644,34.722868],
-  "geometry": {"coordinates":[-86.580644,34.722868],"type":"Point"}
+  "bbox": [
+    -86.580644,
+    34.722868,
+    -86.580644,
+    34.722868
+],
+  "geometry": {"coordinates":[-86.58064400000001,34.722868],"type":"Point"}
 }

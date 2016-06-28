@@ -2,13 +2,14 @@
   "id": 152549191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.601235,34.723639,-86.601235,34.723639",
     "geom:latitude":34.723639,
     "geom:longitude":-86.601235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2212 W Clinton Ave",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851965,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85851965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152549191,
-    "wof:lastmodified":1449045572,
+    "wof:lastmodified":1466318577,
     "wof:name":"Hi & Bye Food & Deli",
     "wof:parent_id":85851965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.601235,34.723639,-86.601235,34.723639],
+  "bbox": [
+    -86.601235,
+    34.723639,
+    -86.601235,
+    34.723639
+],
   "geometry": {"coordinates":[-86.601235,34.723639],"type":"Point"}
 }

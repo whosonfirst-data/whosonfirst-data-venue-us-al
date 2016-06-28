@@ -2,13 +2,14 @@
   "id": 152523841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.193535,32.384716,-86.193535,32.384716",
     "geom:latitude":32.384716,
     "geom:longitude":-86.193535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"280 Haven Dr",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.barringtonplaceatsomerset.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829705,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85829705
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152523841,
-    "wof:lastmodified":1449046963,
+    "wof:lastmodified":1466318519,
     "wof:name":"Barrington Place Apartments",
     "wof:parent_id":85829705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.193535,32.384716,-86.193535,32.384716],
+  "bbox": [
+    -86.193535,
+    32.384716,
+    -86.193535,
+    32.384716
+],
   "geometry": {"coordinates":[-86.193535,32.384716],"type":"Point"}
 }

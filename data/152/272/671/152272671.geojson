@@ -2,13 +2,14 @@
   "id": 152272671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.695554,30.618445,-87.695554,30.618445",
     "geom:latitude":30.618445,
     "geom:longitude":-87.695554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19260 Co Rd 64",
     "sg:city":"Loxley",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840537,
+        85688675,
         85633793,
         85914695,
         102085469,
-        85688675
+        85840537
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152272671,
-    "wof:lastmodified":1449048603,
+    "wof:lastmodified":1466316745,
     "wof:name":"Coastal Airo Space Technology",
     "wof:parent_id":85840537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.695554,30.618445,-87.695554,30.618445],
+  "bbox": [
+    -87.695554,
+    30.618445,
+    -87.695554,
+    30.618445
+],
   "geometry": {"coordinates":[-87.695554,30.618445],"type":"Point"}
 }

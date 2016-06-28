@@ -2,13 +2,14 @@
   "id": 152649667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.834223,33.602276,-85.834223,33.602276",
     "geom:latitude":33.602276,
     "geom:longitude":-85.834223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 State Rte 21",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827499,
+        85688675,
         85633793,
         85914159,
         102085603,
-        85688675
+        85827499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152649667,
-    "wof:lastmodified":1449047449,
+    "wof:lastmodified":1466319122,
     "wof:name":"Spirit Express",
     "wof:parent_id":85827499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.834223,33.602276,-85.834223,33.602276],
-  "geometry": {"coordinates":[-85.834223,33.602276],"type":"Point"}
+  "bbox": [
+    -85.834223,
+    33.602276,
+    -85.834223,
+    33.602276
+],
+  "geometry": {"coordinates":[-85.83422299999999,33.602276],"type":"Point"}
 }

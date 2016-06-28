@@ -2,13 +2,14 @@
   "id": 152600153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.857734,31.297437,-85.857734,31.297437",
     "geom:latitude":31.297437,
     "geom:longitude":-85.857734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Marvin St",
     "sg:city":"Enterprise",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848823,
+        85688675,
         85633793,
         85899527,
         102085699,
-        85688675
+        85848823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152600153,
-    "wof:lastmodified":1449044728,
+    "wof:lastmodified":1466318833,
     "wof:name":"American International Movers",
     "wof:parent_id":85848823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.857734,31.297437,-85.857734,31.297437],
-  "geometry": {"coordinates":[-85.857734,31.297437],"type":"Point"}
+  "bbox": [
+    -85.857734,
+    31.297437,
+    -85.857734,
+    31.297437
+],
+  "geometry": {"coordinates":[-85.85773399999999,31.297437],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102624153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.20555,32.251363,-86.20555,32.251363",
     "geom:latitude":32.251363,
     "geom:longitude":-86.20555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8228 Woodley Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":102624153,
-    "wof:lastmodified":1449069453,
+    "wof:lastmodified":1466317441,
     "wof:name":"Montgomery County Vol Fire",
     "wof:parent_id":85688675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.20555,32.251363,-86.20555,32.251363],
+  "bbox": [
+    -86.20555,
+    32.251363,
+    -86.20555,
+    32.251363
+],
   "geometry": {"coordinates":[-86.20555,32.251363],"type":"Point"}
 }

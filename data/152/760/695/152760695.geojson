@@ -2,13 +2,14 @@
   "id": 152760695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.437992,32.548776,-86.437992,32.548776",
     "geom:latitude":32.548776,
     "geom:longitude":-86.437992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1745 Co Rd 87",
     "sg:city":"Deatsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831059,
+        85688675,
         85633793,
         85913977,
         102085509,
-        85688675
+        85831059
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152760695,
-    "wof:lastmodified":1449048741,
+    "wof:lastmodified":1466319651,
     "wof:name":"Creative Memories Consultant",
     "wof:parent_id":85831059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.437992,32.548776,-86.437992,32.548776],
-  "geometry": {"coordinates":[-86.437992,32.548776],"type":"Point"}
+  "bbox": [
+    -86.437992,
+    32.548776,
+    -86.437992,
+    32.548776
+],
+  "geometry": {"coordinates":[-86.43799199999999,32.548776],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152807131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.07294,30.65626,-88.07294,30.65626",
     "geom:latitude":30.65626,
     "geom:longitude":-88.07294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1517 Plaza Dr",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878943,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878943
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152807131,
-    "wof:lastmodified":1449045479,
+    "wof:lastmodified":1466319868,
     "wof:name":"R V Taylor Plaza",
     "wof:parent_id":85878943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.07294,30.65626,-88.07294,30.65626],
+  "bbox": [
+    -88.07294,
+    30.65626,
+    -88.07294,
+    30.65626
+],
   "geometry": {"coordinates":[-88.07294,30.65626],"type":"Point"}
 }

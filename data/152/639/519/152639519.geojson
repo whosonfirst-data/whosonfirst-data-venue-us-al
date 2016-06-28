@@ -2,13 +2,14 @@
   "id": 152639519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.692528,33.627018,-86.692528,33.627018",
     "geom:latitude":33.627018,
     "geom:longitude":-86.692528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1509 4th St NW",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851413,
+        85688675,
         85633793,
         85914903,
         102085481,
-        85688675
+        85851413
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152639519,
-    "wof:lastmodified":1449048886,
+    "wof:lastmodified":1466319064,
     "wof:name":"Ultimate Touch",
     "wof:parent_id":85851413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.692528,33.627018,-86.692528,33.627018],
+  "bbox": [
+    -86.692528,
+    33.627018,
+    -86.692528,
+    33.627018
+],
   "geometry": {"coordinates":[-86.692528,33.627018],"type":"Point"}
 }

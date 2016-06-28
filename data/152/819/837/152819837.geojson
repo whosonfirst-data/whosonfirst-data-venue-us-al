@@ -2,13 +2,14 @@
   "id": 152819837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.273902,30.671904,-88.273902,30.671904",
     "geom:latitude":30.671904,
     "geom:longitude":-88.273902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9650 Trailwood Dr S",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152819837,
-    "wof:lastmodified":1449045392,
+    "wof:lastmodified":1466319968,
     "wof:name":"American Guild of Organists",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.273902,30.671904,-88.273902,30.671904],
-  "geometry": {"coordinates":[-88.273902,30.671904],"type":"Point"}
+  "bbox": [
+    -88.273902,
+    30.671904,
+    -88.273902,
+    30.671904
+],
+  "geometry": {"coordinates":[-88.27390200000001,30.671904],"type":"Point"}
 }

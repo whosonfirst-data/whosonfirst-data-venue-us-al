@@ -2,13 +2,14 @@
   "id": 152882519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.03707,32.610378,-86.03707,32.610378",
     "geom:latitude":32.610378,
     "geom:longitude":-86.03707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Mockingbird Ln",
     "sg:city":"Eclectic",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827623,
+        85688675,
         85633793,
         85913291,
         102085631,
-        85688675
+        85827623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152882519,
-    "wof:lastmodified":1449045137,
+    "wof:lastmodified":1466320266,
     "wof:name":"Ray Miller Painting & Hom",
     "wof:parent_id":85827623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.03707,32.610378,-86.03707,32.610378],
+  "bbox": [
+    -86.03707,
+    32.610378,
+    -86.03707,
+    32.610378
+],
   "geometry": {"coordinates":[-86.03707,32.610378],"type":"Point"}
 }

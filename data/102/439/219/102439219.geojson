@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102439219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.803469,33.291735,-86.803469,33.291735",
     "geom:latitude":33.291735,
     "geom:longitude":-86.803469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Commerce Dr",
     "sg:city":"Pelham",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.docupak.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828267,
+        85688675,
         85633793,
         85914501,
         102085499,
-        85688675
+        85828267
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102439219,
-    "wof:lastmodified":1449068447,
+    "wof:lastmodified":1466314330,
     "wof:name":"Docupak",
     "wof:parent_id":85828267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.803469,33.291735,-86.803469,33.291735],
-  "geometry": {"coordinates":[-86.803469,33.291735],"type":"Point"}
+  "bbox": [
+    -86.803469,
+    33.291735,
+    -86.803469,
+    33.291735
+],
+  "geometry": {"coordinates":[-86.80346900000001,33.291735],"type":"Point"}
 }

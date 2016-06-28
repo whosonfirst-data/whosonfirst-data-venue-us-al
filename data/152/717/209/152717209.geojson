@@ -2,13 +2,14 @@
   "id": 152717209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.667781,34.743958,-87.667781,34.743958",
     "geom:latitude":34.743958,
     "geom:longitude":-87.667781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1808 Woodward Ave",
     "sg:city":"Muscle Shoals",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816399,
+        85688675,
         85633793,
         85897481,
         102085625,
-        85688675
+        85816399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152717209,
-    "wof:lastmodified":1449044418,
+    "wof:lastmodified":1466319397,
     "wof:name":"Pete Rose Insurance Inc",
     "wof:parent_id":85816399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.667781,34.743958,-87.667781,34.743958],
-  "geometry": {"coordinates":[-87.667781,34.743958],"type":"Point"}
+  "bbox": [
+    -87.667781,
+    34.743958,
+    -87.667781,
+    34.743958
+],
+  "geometry": {"coordinates":[-87.66778100000001,34.743958],"type":"Point"}
 }

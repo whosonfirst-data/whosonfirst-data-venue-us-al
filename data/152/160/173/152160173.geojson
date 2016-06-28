@@ -2,13 +2,14 @@
   "id": 152160173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.798822,34.473473,-86.798822,34.473473",
     "geom:latitude":34.473473,
     "geom:longitude":-86.798822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"192 Broad St",
     "sg:city":"Somerville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152160173,
-    "wof:lastmodified":1449048183,
+    "wof:lastmodified":1466315110,
     "wof:name":"Somerville Public Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.798822,34.473473,-86.798822,34.473473],
+  "bbox": [
+    -86.798822,
+    34.473473,
+    -86.798822,
+    34.473473
+],
   "geometry": {"coordinates":[-86.798822,34.473473],"type":"Point"}
 }

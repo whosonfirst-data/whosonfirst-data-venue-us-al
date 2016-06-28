@@ -2,13 +2,14 @@
   "id": 152285957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.688171,33.396574,-86.688171,33.396574",
     "geom:latitude":33.396574,
     "geom:longitude":-86.688171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2209 Hearthwood Cir",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85833411
+        85633793,
+        85833411,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152285957,
-    "wof:lastmodified":1449044428,
+    "wof:lastmodified":1466316979,
     "wof:name":"Global Mortgage",
     "wof:parent_id":85833411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.688171,33.396574,-86.688171,33.396574],
+  "bbox": [
+    -86.688171,
+    33.396574,
+    -86.688171,
+    33.396574
+],
   "geometry": {"coordinates":[-86.688171,33.396574],"type":"Point"}
 }

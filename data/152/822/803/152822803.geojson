@@ -2,13 +2,14 @@
   "id": 152822803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.483028,33.604051,-86.483028,33.604051",
     "geom:latitude":33.604051,
     "geom:longitude":-86.483028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3305 Byars Dr",
     "sg:city":"Moody",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807031,
+        85688675,
         85633793,
         85913421,
         102085647,
-        85688675
+        85807031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152822803,
-    "wof:lastmodified":1449048777,
+    "wof:lastmodified":1466319978,
     "wof:name":"Golden Painting",
     "wof:parent_id":85807031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.483028,33.604051,-86.483028,33.604051],
+  "bbox": [
+    -86.483028,
+    33.604051,
+    -86.483028,
+    33.604051
+],
   "geometry": {"coordinates":[-86.483028,33.604051],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102443917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.799513,33.512718,-86.799513,33.512718",
     "geom:latitude":33.512718,
     "geom:longitude":-86.799513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2230 2nd Ave S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.bebco.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876269,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102443917,
-    "wof:lastmodified":1449069728,
+    "wof:lastmodified":1466314493,
     "wof:name":"Bebco Generator",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.799513,33.512718,-86.799513,33.512718],
+  "bbox": [
+    -86.799513,
+    33.512718,
+    -86.799513,
+    33.512718
+],
   "geometry": {"coordinates":[-86.799513,33.512718],"type":"Point"}
 }

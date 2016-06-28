@@ -2,13 +2,14 @@
   "id": 152681353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.299817,32.358231,-86.299817,32.358231",
     "geom:latitude":32.358231,
     "geom:longitude":-86.299817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1603 S Decatur St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811493,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85811493
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152681353,
-    "wof:lastmodified":1449047122,
+    "wof:lastmodified":1466319330,
     "wof:name":"New Hob Nob",
     "wof:parent_id":85811493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.299817,32.358231,-86.299817,32.358231],
+  "bbox": [
+    -86.299817,
+    32.358231,
+    -86.299817,
+    32.358231
+],
   "geometry": {"coordinates":[-86.299817,32.358231],"type":"Point"}
 }

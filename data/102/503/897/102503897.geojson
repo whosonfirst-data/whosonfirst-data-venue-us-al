@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102503897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.851769,33.274284,-86.851769,33.274284",
     "geom:latitude":33.274284,
     "geom:longitude":-86.851769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5135 Co Rd 17",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845631,
+        85688675,
         85633793,
         85914471,
         102085499,
-        85688675
+        85845631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102503897,
-    "wof:lastmodified":1449070222,
+    "wof:lastmodified":1466316758,
     "wof:name":"Helena Florist",
     "wof:parent_id":85845631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.851769,33.274284,-86.851769,33.274284],
+  "bbox": [
+    -86.851769,
+    33.274284,
+    -86.851769,
+    33.274284
+],
   "geometry": {"coordinates":[-86.851769,33.274284],"type":"Point"}
 }

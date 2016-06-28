@@ -2,13 +2,14 @@
   "id": 152818393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.104289,30.690275,-88.104289,30.690275",
     "geom:latitude":30.690275,
     "geom:longitude":-88.104289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2654 Cameron St",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152818393,
-    "wof:lastmodified":1449046549,
+    "wof:lastmodified":1466319942,
     "wof:name":"GE",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.104289,30.690275,-88.104289,30.690275],
-  "geometry": {"coordinates":[-88.104289,30.690275],"type":"Point"}
+  "bbox": [
+    -88.104289,
+    30.690275,
+    -88.104289,
+    30.690275
+],
+  "geometry": {"coordinates":[-88.10428899999999,30.690275],"type":"Point"}
 }

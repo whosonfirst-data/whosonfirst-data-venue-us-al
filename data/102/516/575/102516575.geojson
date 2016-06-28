@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102516575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.856804,33.399034,-86.856804,33.399034",
     "geom:latitude":33.399034,
     "geom:longitude":-86.856804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Park Ave",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828169,
+        85688675,
         85633793,
         85914475,
         102085481,
-        85688675
+        85828169
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102516575,
-    "wof:lastmodified":1449068260,
+    "wof:lastmodified":1466316914,
     "wof:name":"Church Communication Network",
     "wof:parent_id":85828169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.856804,33.399034,-86.856804,33.399034],
+  "bbox": [
+    -86.856804,
+    33.399034,
+    -86.856804,
+    33.399034
+],
   "geometry": {"coordinates":[-86.856804,33.399034],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152783089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.611786,34.494556,-86.611786,34.494556",
     "geom:latitude":34.494556,
     "geom:longitude":-86.611786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 Bluff Ln",
     "sg:city":"Laceys Spring",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822793,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85822793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152783089,
-    "wof:lastmodified":1449044441,
+    "wof:lastmodified":1466319814,
     "wof:name":"Paging U S A South Inc",
     "wof:parent_id":85822793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.611786,34.494556,-86.611786,34.494556],
+  "bbox": [
+    -86.611786,
+    34.494556,
+    -86.611786,
+    34.494556
+],
   "geometry": {"coordinates":[-86.611786,34.494556],"type":"Point"}
 }

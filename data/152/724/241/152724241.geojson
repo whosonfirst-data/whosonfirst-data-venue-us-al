@@ -2,13 +2,14 @@
   "id": 152724241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.226036,30.685109,-88.226036,30.685109",
     "geom:latitude":30.685109,
     "geom:longitude":-88.226036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7863 Schillinger Park W",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85841857,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85841857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":152724241,
-    "wof:lastmodified":1449048815,
+    "wof:lastmodified":1466319530,
     "wof:name":"Gesotec Automation LLC",
     "wof:parent_id":85841857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.226036,30.685109,-88.226036,30.685109],
-  "geometry": {"coordinates":[-88.226036,30.685109],"type":"Point"}
+  "bbox": [
+    -88.226036,
+    30.685109,
+    -88.226036,
+    30.685109
+],
+  "geometry": {"coordinates":[-88.22603599999999,30.685109],"type":"Point"}
 }

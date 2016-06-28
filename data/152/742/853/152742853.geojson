@@ -2,13 +2,14 @@
   "id": 152742853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.835451,31.320987,-85.835451,31.320987",
     "geom:latitude":31.320987,
     "geom:longitude":-85.835451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"734 Glover Ave",
     "sg:city":"Enterprise",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827323,
+        85688675,
         85633793,
         85899527,
         102085699,
-        85688675
+        85827323
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152742853,
-    "wof:lastmodified":1449044607,
+    "wof:lastmodified":1466319689,
     "wof:name":"Ugly Joes Pub",
     "wof:parent_id":85827323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.835451,31.320987,-85.835451,31.320987],
-  "geometry": {"coordinates":[-85.835451,31.320987],"type":"Point"}
+  "bbox": [
+    -85.835451,
+    31.320987,
+    -85.835451,
+    31.320987
+],
+  "geometry": {"coordinates":[-85.83545100000001,31.320987],"type":"Point"}
 }

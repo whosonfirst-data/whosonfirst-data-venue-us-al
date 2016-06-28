@@ -2,13 +2,14 @@
   "id": 152462737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.131414,34.371296,-86.131414,34.371296",
     "geom:latitude":34.371296,
     "geom:longitude":-86.131414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3031 Asbury Rd",
     "sg:city":"Albertville",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85830981,
+        85688675,
         85633793,
         85899833,
         102085513,
-        85688675
+        85830981
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152462737,
-    "wof:lastmodified":1449048738,
+    "wof:lastmodified":1466318163,
     "wof:name":"Quality Feeds",
     "wof:parent_id":85830981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.131414,34.371296,-86.131414,34.371296],
-  "geometry": {"coordinates":[-86.131414,34.371296],"type":"Point"}
+  "bbox": [
+    -86.131414,
+    34.371296,
+    -86.131414,
+    34.371296
+],
+  "geometry": {"coordinates":[-86.13141400000001,34.371296],"type":"Point"}
 }

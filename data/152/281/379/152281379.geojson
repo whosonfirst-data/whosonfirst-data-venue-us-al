@@ -2,13 +2,14 @@
   "id": 152281379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.843245,33.499553,-86.843245,33.499553",
     "geom:latitude":33.499553,
     "geom:longitude":-86.843245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"652 Lomb Ave SW",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817999,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85817999
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152281379,
-    "wof:lastmodified":1449048216,
+    "wof:lastmodified":1466316958,
     "wof:name":"Dabbs Jack M Dr",
     "wof:parent_id":85817999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.843245,33.499553,-86.843245,33.499553],
+  "bbox": [
+    -86.843245,
+    33.499553,
+    -86.843245,
+    33.499553
+],
   "geometry": {"coordinates":[-86.843245,33.499553],"type":"Point"}
 }

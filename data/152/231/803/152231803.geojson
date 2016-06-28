@@ -2,13 +2,14 @@
   "id": 152231803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.314025,32.403759,-86.314025,32.403759",
     "geom:latitude":32.403759,
     "geom:longitude":-86.314025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"169 6th St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85836773,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85836773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152231803,
-    "wof:lastmodified":1449046668,
+    "wof:lastmodified":1466316331,
     "wof:name":"Rhino Linings Of Montgomery",
     "wof:parent_id":85836773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.314025,32.403759,-86.314025,32.403759],
+  "bbox": [
+    -86.314025,
+    32.403759,
+    -86.314025,
+    32.403759
+],
   "geometry": {"coordinates":[-86.314025,32.403759],"type":"Point"}
 }

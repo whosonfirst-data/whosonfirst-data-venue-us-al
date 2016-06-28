@@ -2,13 +2,14 @@
   "id": 152690167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.606336,33.620394,-86.606336,33.620394",
     "geom:latitude":33.620394,
     "geom:longitude":-86.606336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"198 Main St",
     "sg:city":"Trussville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808783,
+        85688675,
         85633793,
         85913473,
         102085481,
-        85688675
+        85808783
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152690167,
-    "wof:lastmodified":1449046748,
+    "wof:lastmodified":1466319107,
     "wof:name":"About Face",
     "wof:parent_id":85808783,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.606336,33.620394,-86.606336,33.620394],
+  "bbox": [
+    -86.606336,
+    33.620394,
+    -86.606336,
+    33.620394
+],
   "geometry": {"coordinates":[-86.606336,33.620394],"type":"Point"}
 }

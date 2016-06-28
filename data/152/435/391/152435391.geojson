@@ -2,13 +2,14 @@
   "id": 152435391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.912194,30.652129,-87.912194,30.652129",
     "geom:latitude":30.652129,
     "geom:longitude":-87.912194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28796 US Hwy 98",
     "sg:city":"Daphne",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840537,
+        85688675,
         85633793,
         85914695,
         102085469,
-        85688675
+        85840537
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152435391,
-    "wof:lastmodified":1449048492,
+    "wof:lastmodified":1466318012,
     "wof:name":"State Farm Insurance",
     "wof:parent_id":85840537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.912194,30.652129,-87.912194,30.652129],
+  "bbox": [
+    -87.912194,
+    30.652129,
+    -87.912194,
+    30.652129
+],
   "geometry": {"coordinates":[-87.912194,30.652129],"type":"Point"}
 }

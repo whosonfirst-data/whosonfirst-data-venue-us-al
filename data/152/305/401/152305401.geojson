@@ -2,13 +2,14 @@
   "id": 152305401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.849116,34.326123,-86.849116,34.326123",
     "geom:latitude":34.326123,
     "geom:longitude":-86.849116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 Dabbs Rd",
     "sg:city":"Falkville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851807,
+        85688675,
         85633793,
         85914103,
         102085531,
-        85688675
+        85851807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152305401,
-    "wof:lastmodified":1449045010,
+    "wof:lastmodified":1466317142,
     "wof:name":"Johnnie Reid Selectrucks Bh",
     "wof:parent_id":85851807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.849116,34.326123,-86.849116,34.326123],
+  "bbox": [
+    -86.849116,
+    34.326123,
+    -86.849116,
+    34.326123
+],
   "geometry": {"coordinates":[-86.849116,34.326123],"type":"Point"}
 }

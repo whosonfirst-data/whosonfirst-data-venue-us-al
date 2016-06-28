@@ -2,13 +2,14 @@
   "id": 152607181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.79509,33.499566,-86.79509,33.499566",
     "geom:latitude":33.499566,
     "geom:longitude":-86.79509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2019 Highland Ave S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876277,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152607181,
-    "wof:lastmodified":1449044915,
+    "wof:lastmodified":1466318852,
     "wof:name":"Alabama Republican Party",
     "wof:parent_id":85876277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.79509,33.499566,-86.79509,33.499566],
+  "bbox": [
+    -86.79509,
+    33.499566,
+    -86.79509,
+    33.499566
+],
   "geometry": {"coordinates":[-86.79509,33.499566],"type":"Point"}
 }

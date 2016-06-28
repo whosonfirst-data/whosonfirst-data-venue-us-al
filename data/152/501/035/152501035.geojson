@@ -2,13 +2,14 @@
   "id": 152501035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.732847,34.430014,-85.732847,34.430014",
     "geom:latitude":34.430014,
     "geom:longitude":-85.732847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 Gault Ave S",
     "sg:city":"Fort Payne",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815015,
+        85688675,
         85633793,
         85897515,
         102085615,
-        85688675
+        85815015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152501035,
-    "wof:lastmodified":1449048932,
+    "wof:lastmodified":1466318340,
     "wof:name":"South Y Citgo",
     "wof:parent_id":85815015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.732847,34.430014,-85.732847,34.430014],
-  "geometry": {"coordinates":[-85.732847,34.430014],"type":"Point"}
+  "bbox": [
+    -85.732847,
+    34.430014,
+    -85.732847,
+    34.430014
+],
+  "geometry": {"coordinates":[-85.73284700000001,34.430014],"type":"Point"}
 }

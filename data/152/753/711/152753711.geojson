@@ -2,13 +2,14 @@
   "id": 152753711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.839492,33.604059,-85.839492,33.604059",
     "geom:latitude":33.604059,
     "geom:longitude":-85.839492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1924 Barry St",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827499,
+        85688675,
         85633793,
         85914159,
         102085603,
-        85688675
+        85827499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152753711,
-    "wof:lastmodified":1449044850,
+    "wof:lastmodified":1466319631,
     "wof:name":"Alabama Body & Wrecker Svc",
     "wof:parent_id":85827499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.839492,33.604059,-85.839492,33.604059],
-  "geometry": {"coordinates":[-85.839492,33.604059],"type":"Point"}
+  "bbox": [
+    -85.839492,
+    33.604059,
+    -85.839492,
+    33.604059
+],
+  "geometry": {"coordinates":[-85.83949200000001,33.604059],"type":"Point"}
 }

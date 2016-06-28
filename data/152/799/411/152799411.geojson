@@ -2,13 +2,14 @@
   "id": 152799411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.029511,34.314514,-86.029511,34.314514",
     "geom:latitude":34.314514,
     "geom:longitude":-86.029511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"318 Co Rd 482",
     "sg:city":"Crossville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815015,
+        85688675,
         85633793,
         85897515,
         102085615,
-        85688675
+        85815015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152799411,
-    "wof:lastmodified":1449048916,
+    "wof:lastmodified":1466319782,
     "wof:name":"Morgan's Lawn Care",
     "wof:parent_id":85815015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.029511,34.314514,-86.029511,34.314514],
+  "bbox": [
+    -86.029511,
+    34.314514,
+    -86.029511,
+    34.314514
+],
   "geometry": {"coordinates":[-86.029511,34.314514],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152789871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.280474,32.380598,-86.280474,32.380598",
     "geom:latitude":32.380598,
     "geom:longitude":-86.280474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1927 Madison Ave",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809389,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85809389
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152789871,
-    "wof:lastmodified":1449046394,
+    "wof:lastmodified":1466319848,
     "wof:name":"Moosehorn Lodge Limited",
     "wof:parent_id":85809389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.280474,32.380598,-86.280474,32.380598],
+  "bbox": [
+    -86.280474,
+    32.380598,
+    -86.280474,
+    32.380598
+],
   "geometry": {"coordinates":[-86.280474,32.380598],"type":"Point"}
 }

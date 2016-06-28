@@ -2,13 +2,14 @@
   "id": 152841283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.713981,31.307319,-85.713981,31.307319",
     "geom:latitude":31.307319,
     "geom:longitude":-85.713981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Daleville Ave",
     "sg:city":"Daleville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152841283,
-    "wof:lastmodified":1449045271,
+    "wof:lastmodified":1466320049,
     "wof:name":"Daleville Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.713981,31.307319,-85.713981,31.307319],
+  "bbox": [
+    -85.713981,
+    31.307319,
+    -85.713981,
+    31.307319
+],
   "geometry": {"coordinates":[-85.713981,31.307319],"type":"Point"}
 }

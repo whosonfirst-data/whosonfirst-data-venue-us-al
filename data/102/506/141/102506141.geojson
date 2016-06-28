@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102506141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.555516,33.211275,-87.555516,33.211275",
     "geom:latitude":33.211275,
     "geom:longitude":-87.555516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1418 University Blvd",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845037,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675,
+        85845037,
         85816279
     ],
     "wof:breaches":[],
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":102506141,
-    "wof:lastmodified":1449067817,
+    "wof:lastmodified":1466316551,
     "wof:name":"Cleansing Tide Laundromat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.555516,33.211275,-87.555516,33.211275],
+  "bbox": [
+    -87.555516,
+    33.211275,
+    -87.555516,
+    33.211275
+],
   "geometry": {"coordinates":[-87.555516,33.211275],"type":"Point"}
 }

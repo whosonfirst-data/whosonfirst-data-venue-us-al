@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102443785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.121282,30.676109,-88.121282,30.676109",
     "geom:latitude":30.676109,
     "geom:longitude":-88.121282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3255 Airport Blvd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878965,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675,
+        85878965,
         85808003
     ],
     "wof:breaches":[],
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":102443785,
-    "wof:lastmodified":1449069727,
+    "wof:lastmodified":1466314468,
     "wof:name":"Goodyear Gemini Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.121282,30.676109,-88.121282,30.676109],
-  "geometry": {"coordinates":[-88.121282,30.676109],"type":"Point"}
+  "bbox": [
+    -88.121282,
+    30.676109,
+    -88.121282,
+    30.676109
+],
+  "geometry": {"coordinates":[-88.12128199999999,30.676109],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152308599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.063421,34.791789,-87.063421,34.791789",
     "geom:latitude":34.791789,
     "geom:longitude":-87.063421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14517 US Hwy 72",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829531,
+        85688675,
         85633793,
         85913543,
         102085489,
-        85688675
+        85829531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152308599,
-    "wof:lastmodified":1449049017,
+    "wof:lastmodified":1466317213,
     "wof:name":"H & H Heating & Cooling",
     "wof:parent_id":85829531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.063421,34.791789,-87.063421,34.791789],
-  "geometry": {"coordinates":[-87.063421,34.791789],"type":"Point"}
+  "bbox": [
+    -87.063421,
+    34.791789,
+    -87.063421,
+    34.791789
+],
+  "geometry": {"coordinates":[-87.06342100000001,34.791789],"type":"Point"}
 }

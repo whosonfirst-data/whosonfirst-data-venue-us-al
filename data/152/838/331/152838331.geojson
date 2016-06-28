@@ -2,13 +2,14 @@
   "id": 152838331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.475149,32.607519,-85.475149,32.607519",
     "geom:latitude":32.607519,
     "geom:longitude":-85.475149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"161 N Ross St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809707,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85809707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152838331,
-    "wof:lastmodified":1449044866,
+    "wof:lastmodified":1466320135,
     "wof:name":"Auburn City Communications Div",
     "wof:parent_id":85809707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.475149,32.607519,-85.475149,32.607519],
+  "bbox": [
+    -85.475149,
+    32.607519,
+    -85.475149,
+    32.607519
+],
   "geometry": {"coordinates":[-85.475149,32.607519],"type":"Point"}
 }

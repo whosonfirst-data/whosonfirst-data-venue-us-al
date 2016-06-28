@@ -2,13 +2,14 @@
   "id": 152234707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.078347,30.746633,-88.078347,30.746633",
     "geom:latitude":30.746633,
     "geom:longitude":-88.078347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1214 N Wilson Ave",
     "sg:city":"Prichard",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837835,
+        85688675,
         85633793,
         85913741,
         102085585,
-        85688675
+        85837835
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152234707,
-    "wof:lastmodified":1449048673,
+    "wof:lastmodified":1466316284,
     "wof:name":"Citizens Funeral Chapel",
     "wof:parent_id":85837835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.078347,30.746633,-88.078347,30.746633],
-  "geometry": {"coordinates":[-88.078347,30.746633],"type":"Point"}
+  "bbox": [
+    -88.078347,
+    30.746633,
+    -88.078347,
+    30.746633
+],
+  "geometry": {"coordinates":[-88.07834699999999,30.746633],"type":"Point"}
 }

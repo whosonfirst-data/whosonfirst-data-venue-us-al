@@ -2,13 +2,14 @@
   "id": 152817919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.856582,30.676825,-87.856582,30.676825",
     "geom:latitude":30.676825,
     "geom:longitude":-87.856582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9939 Spanish Fort Blvd",
     "sg:city":"Spanish Fort",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807399,
+        85688675,
         85633793,
         85914741,
         102085469,
-        85688675
+        85807399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152817919,
-    "wof:lastmodified":1449048016,
+    "wof:lastmodified":1466320108,
     "wof:name":"A & B Mini Storage",
     "wof:parent_id":85807399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.856582,30.676825,-87.856582,30.676825],
+  "bbox": [
+    -87.856582,
+    30.676825,
+    -87.856582,
+    30.676825
+],
   "geometry": {"coordinates":[-87.856582,30.676825],"type":"Point"}
 }

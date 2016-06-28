@@ -2,13 +2,14 @@
   "id": 152131885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.230827,34.357668,-86.230827,34.357668",
     "geom:latitude":34.357668,
     "geom:longitude":-86.230827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7187 Hustleville Rd",
     "sg:city":"Albertville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85830981,
+        85688675,
         85633793,
         85899833,
         102085513,
-        85688675
+        85830981
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152131885,
-    "wof:lastmodified":1449045696,
+    "wof:lastmodified":1466315148,
     "wof:name":"H & S Feed Mill & Distribution",
     "wof:parent_id":85830981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.230827,34.357668,-86.230827,34.357668],
-  "geometry": {"coordinates":[-86.230827,34.357668],"type":"Point"}
+  "bbox": [
+    -86.230827,
+    34.357668,
+    -86.230827,
+    34.357668
+],
+  "geometry": {"coordinates":[-86.23082700000001,34.357668],"type":"Point"}
 }

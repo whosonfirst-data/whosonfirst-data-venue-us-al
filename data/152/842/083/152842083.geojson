@@ -2,13 +2,14 @@
   "id": 152842083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.868104,33.500574,-86.868104,33.500574",
     "geom:latitude":33.500574,
     "geom:longitude":-86.868104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2920 Lomb Ave",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818187,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85818187
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152842083,
-    "wof:lastmodified":1449044642,
+    "wof:lastmodified":1466320037,
     "wof:name":"Rev F V Walker",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.868104,33.500574,-86.868104,33.500574],
+  "bbox": [
+    -86.868104,
+    33.500574,
+    -86.868104,
+    33.500574
+],
   "geometry": {"coordinates":[-86.868104,33.500574],"type":"Point"}
 }

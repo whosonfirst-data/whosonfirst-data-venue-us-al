@@ -2,13 +2,14 @@
   "id": 152488027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.462658,32.61486,-85.462658,32.61486",
     "geom:latitude":32.61486,
     "geom:longitude":-85.462658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"923 Stage Rd",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852419,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85852419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":152488027,
-    "wof:lastmodified":1449048795,
+    "wof:lastmodified":1466318234,
     "wof:name":"East Alabama Telephone Spclts",
     "wof:parent_id":85852419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.462658,32.61486,-85.462658,32.61486],
+  "bbox": [
+    -85.462658,
+    32.61486,
+    -85.462658,
+    32.61486
+],
   "geometry": {"coordinates":[-85.462658,32.61486],"type":"Point"}
 }

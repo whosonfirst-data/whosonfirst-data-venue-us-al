@@ -2,13 +2,14 @@
   "id": 152314887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.068179,33.935815,-86.068179,33.935815",
     "geom:latitude":33.935815,
     "geom:longitude":-86.068179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4545 Rainbow Dr",
     "sg:city":"Rainbow City",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085545,
-        85633793,
         85688675,
-        85839341
+        85633793,
+        85839341,
+        102085545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152314887,
-    "wof:lastmodified":1449048720,
+    "wof:lastmodified":1466317279,
     "wof:name":"Life Church",
     "wof:parent_id":85839341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.068179,33.935815,-86.068179,33.935815],
+  "bbox": [
+    -86.068179,
+    33.935815,
+    -86.068179,
+    33.935815
+],
   "geometry": {"coordinates":[-86.068179,33.935815],"type":"Point"}
 }

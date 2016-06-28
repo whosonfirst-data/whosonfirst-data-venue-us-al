@@ -2,13 +2,14 @@
   "id": 152839519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.355094,33.277967,-86.355094,33.277967",
     "geom:latitude":33.277967,
     "geom:longitude":-86.355094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 8th Ave SW",
     "sg:city":"Childersburg",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85812203,
+        85688675,
         85633793,
         85914155,
         102085517,
-        85688675
+        85812203
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152839519,
-    "wof:lastmodified":1449047076,
+    "wof:lastmodified":1466320025,
     "wof:name":"Wright & Sprayberry Insurance",
     "wof:parent_id":85812203,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.355094,33.277967,-86.355094,33.277967],
-  "geometry": {"coordinates":[-86.355094,33.277967],"type":"Point"}
+  "bbox": [
+    -86.355094,
+    33.277967,
+    -86.355094,
+    33.277967
+],
+  "geometry": {"coordinates":[-86.35509399999999,33.277967],"type":"Point"}
 }

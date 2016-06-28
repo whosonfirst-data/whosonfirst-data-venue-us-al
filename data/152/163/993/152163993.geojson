@@ -2,13 +2,14 @@
   "id": 152163993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.325254,32.32863,-86.325254,32.32863",
     "geom:latitude":32.32863,
     "geom:longitude":-86.325254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4244 Davenport Dr",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811331,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85811331
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152163993,
-    "wof:lastmodified":1449048808,
+    "wof:lastmodified":1466315334,
     "wof:name":"Lilys Cleaners Inc",
     "wof:parent_id":85811331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.325254,32.32863,-86.325254,32.32863],
+  "bbox": [
+    -86.325254,
+    32.32863,
+    -86.325254,
+    32.32863
+],
   "geometry": {"coordinates":[-86.325254,32.32863],"type":"Point"}
 }

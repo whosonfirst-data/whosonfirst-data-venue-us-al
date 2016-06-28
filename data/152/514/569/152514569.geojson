@@ -2,13 +2,14 @@
   "id": 152514569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.534741,34.656737,-87.534741,34.656737",
     "geom:latitude":34.656737,
     "geom:longitude":-87.534741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4430 State Rte 157",
     "sg:city":"Leighton",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816399,
+        85688675,
         85633793,
         85897481,
         102085625,
-        85688675
+        85816399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152514569,
-    "wof:lastmodified":1449046627,
+    "wof:lastmodified":1466318498,
     "wof:name":"Smiths Variety",
     "wof:parent_id":85816399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.534741,34.656737,-87.534741,34.656737],
+  "bbox": [
+    -87.534741,
+    34.656737,
+    -87.534741,
+    34.656737
+],
   "geometry": {"coordinates":[-87.534741,34.656737],"type":"Point"}
 }

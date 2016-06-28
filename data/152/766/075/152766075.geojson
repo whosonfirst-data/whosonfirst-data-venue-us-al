@@ -2,13 +2,14 @@
   "id": 152766075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.752106,33.540483,-86.752106,33.540483",
     "geom:latitude":33.540483,
     "geom:longitude":-86.752106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 55th Pl N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858829,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85858829
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152766075,
-    "wof:lastmodified":1449044227,
+    "wof:lastmodified":1466319653,
     "wof:name":"Fifty Fifth Place",
     "wof:parent_id":85858829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.752106,33.540483,-86.752106,33.540483],
+  "bbox": [
+    -86.752106,
+    33.540483,
+    -86.752106,
+    33.540483
+],
   "geometry": {"coordinates":[-86.752106,33.540483],"type":"Point"}
 }

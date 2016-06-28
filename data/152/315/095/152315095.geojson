@@ -2,13 +2,14 @@
   "id": 152315095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.817637,30.367169,-87.817637,30.367169",
     "geom:latitude":30.367169,
     "geom:longitude":-87.817637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9655 John Hall Ln",
     "sg:city":"Foley",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868551,
+        85688675,
         85633793,
         85914719,
         102085469,
-        85688675
+        85868551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152315095,
-    "wof:lastmodified":1449048677,
+    "wof:lastmodified":1466317259,
     "wof:name":"All American Interiors",
     "wof:parent_id":85868551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.817637,30.367169,-87.817637,30.367169],
+  "bbox": [
+    -87.817637,
+    30.367169,
+    -87.817637,
+    30.367169
+],
   "geometry": {"coordinates":[-87.817637,30.367169],"type":"Point"}
 }

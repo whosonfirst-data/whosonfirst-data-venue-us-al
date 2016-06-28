@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102515683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.007151,34.005537,-86.007151,34.005537",
     "geom:latitude":34.005537,
     "geom:longitude":-86.007151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"506 S 5th St",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822279,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85822279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102515683,
-    "wof:lastmodified":1449068354,
+    "wof:lastmodified":1466317013,
     "wof:name":"Gulf Coast Business Solutions",
     "wof:parent_id":85822279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.007151,34.005537,-86.007151,34.005537],
-  "geometry": {"coordinates":[-86.007151,34.005537],"type":"Point"}
+  "bbox": [
+    -86.007151,
+    34.005537,
+    -86.007151,
+    34.005537
+],
+  "geometry": {"coordinates":[-86.00715099999999,34.005537],"type":"Point"}
 }

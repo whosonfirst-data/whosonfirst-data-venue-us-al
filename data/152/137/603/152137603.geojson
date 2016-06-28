@@ -2,13 +2,14 @@
   "id": 152137603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.313736,32.376653,-86.313736,32.376653",
     "geom:latitude":32.376653,
     "geom:longitude":-86.313736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 Catoma St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879037,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152137603,
-    "wof:lastmodified":1449048285,
+    "wof:lastmodified":1466315335,
     "wof:name":"American Real Estate Institute",
     "wof:parent_id":85879037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.313736,32.376653,-86.313736,32.376653],
-  "geometry": {"coordinates":[-86.313736,32.376653],"type":"Point"}
+  "bbox": [
+    -86.313736,
+    32.376653,
+    -86.313736,
+    32.376653
+],
+  "geometry": {"coordinates":[-86.31373600000001,32.376653],"type":"Point"}
 }

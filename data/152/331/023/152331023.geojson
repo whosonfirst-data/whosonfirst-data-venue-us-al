@@ -2,13 +2,14 @@
   "id": 152331023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.81279,33.337893,-86.81279,33.337893",
     "geom:latitude":33.337893,
     "geom:longitude":-86.81279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"155 Stratford Cir",
     "sg:city":"Pelham",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152331023,
-    "wof:lastmodified":1449047111,
+    "wof:lastmodified":1466317265,
     "wof:name":"Billy Joewade",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.81279,33.337893,-86.81279,33.337893],
-  "geometry": {"coordinates":[-86.81279,33.337893],"type":"Point"}
+  "bbox": [
+    -86.81279,
+    33.337893,
+    -86.81279,
+    33.337893
+],
+  "geometry": {"coordinates":[-86.81279000000001,33.337893],"type":"Point"}
 }

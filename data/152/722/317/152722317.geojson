@@ -2,13 +2,14 @@
   "id": 152722317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.039566,30.692646,-88.039566,30.692646",
     "geom:latitude":30.692646,
     "geom:longitude":-88.039566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Dauphin St",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878959,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152722317,
-    "wof:lastmodified":1449045933,
+    "wof:lastmodified":1466319456,
     "wof:name":"Aco Information Services LLC",
     "wof:parent_id":85878959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.039566,30.692646,-88.039566,30.692646],
-  "geometry": {"coordinates":[-88.039566,30.692646],"type":"Point"}
+  "bbox": [
+    -88.039566,
+    30.692646,
+    -88.039566,
+    30.692646
+],
+  "geometry": {"coordinates":[-88.03956599999999,30.692646],"type":"Point"}
 }

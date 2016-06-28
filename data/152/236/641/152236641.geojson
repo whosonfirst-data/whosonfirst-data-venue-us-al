@@ -2,13 +2,14 @@
   "id": 152236641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.696611,33.613075,-86.696611,33.613075",
     "geom:latitude":33.613075,
     "geom:longitude":-86.696611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1128 Violet Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854035,
+        85688675,
         85633793,
         85914903,
         102085481,
-        85688675
+        85854035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152236641,
-    "wof:lastmodified":1449044800,
+    "wof:lastmodified":1466316377,
     "wof:name":"Gomez Construction",
     "wof:parent_id":85854035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.696611,33.613075,-86.696611,33.613075],
+  "bbox": [
+    -86.696611,
+    33.613075,
+    -86.696611,
+    33.613075
+],
   "geometry": {"coordinates":[-86.696611,33.613075],"type":"Point"}
 }

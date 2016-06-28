@@ -2,13 +2,14 @@
   "id": 152861505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.085028,30.695308,-88.085028,30.695308",
     "geom:latitude":30.695308,
     "geom:longitude":-88.085028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1911 Oak Knoll Dr",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878989,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152861505,
-    "wof:lastmodified":1449048877,
+    "wof:lastmodified":1466320169,
     "wof:name":"Bay City Convention & Tours",
     "wof:parent_id":85878989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.085028,30.695308,-88.085028,30.695308],
-  "geometry": {"coordinates":[-88.085028,30.695308],"type":"Point"}
+  "bbox": [
+    -88.085028,
+    30.695308,
+    -88.085028,
+    30.695308
+],
+  "geometry": {"coordinates":[-88.08502799999999,30.695308],"type":"Point"}
 }

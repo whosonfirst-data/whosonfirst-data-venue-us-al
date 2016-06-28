@@ -2,13 +2,14 @@
   "id": 102623275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.17207,30.636281,-88.17207,30.636281",
     "geom:latitude":30.636281,
     "geom:longitude":-88.17207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2605 Mount Brook Dr",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102623275,
-    "wof:lastmodified":1449069488,
+    "wof:lastmodified":1466317452,
     "wof:name":"Autumn Landscaping",
     "wof:parent_id":85913749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.17207,30.636281,-88.17207,30.636281],
-  "geometry": {"coordinates":[-88.17207,30.636281],"type":"Point"}
+  "bbox": [
+    -88.17207,
+    30.636281,
+    -88.17207,
+    30.636281
+],
+  "geometry": {"coordinates":[-88.17207000000001,30.636281],"type":"Point"}
 }

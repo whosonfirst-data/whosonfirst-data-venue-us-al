@@ -2,13 +2,14 @@
   "id": 152119301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.37803,31.206786,-85.37803,31.206786",
     "geom:latitude":31.206786,
     "geom:longitude":-85.37803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"905 Post Oak Dr",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847911,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85847911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152119301,
-    "wof:lastmodified":1449047598,
+    "wof:lastmodified":1466314526,
     "wof:name":"Italians Pride Painting",
     "wof:parent_id":85847911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.37803,31.206786,-85.37803,31.206786],
+  "bbox": [
+    -85.37803,
+    31.206786,
+    -85.37803,
+    31.206786
+],
   "geometry": {"coordinates":[-85.37803,31.206786],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152621189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.808223,33.492923,-86.808223,33.492923",
     "geom:latitude":33.492923,
     "geom:longitude":-86.808223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1135 14th Ave S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813175,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85813175
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152621189,
-    "wof:lastmodified":1449048371,
+    "wof:lastmodified":1466318936,
     "wof:name":"Pathways",
     "wof:parent_id":85813175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.808223,33.492923,-86.808223,33.492923],
+  "bbox": [
+    -86.808223,
+    33.492923,
+    -86.808223,
+    33.492923
+],
   "geometry": {"coordinates":[-86.808223,33.492923],"type":"Point"}
 }

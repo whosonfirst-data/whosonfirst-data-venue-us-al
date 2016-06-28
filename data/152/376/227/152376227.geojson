@@ -2,13 +2,14 @@
   "id": 152376227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.736122,34.742422,-86.736122,34.742422",
     "geom:latitude":34.742422,
     "geom:longitude":-86.736122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Lynbrook Blvd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851107,
+        85688675,
         85633793,
         85913593,
         102085487,
-        85688675
+        85851107
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152376227,
-    "wof:lastmodified":1449045886,
+    "wof:lastmodified":1466317700,
     "wof:name":"Mfg Technology Inc",
     "wof:parent_id":85851107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.736122,34.742422,-86.736122,34.742422],
-  "geometry": {"coordinates":[-86.736122,34.742422],"type":"Point"}
+  "bbox": [
+    -86.736122,
+    34.742422,
+    -86.736122,
+    34.742422
+],
+  "geometry": {"coordinates":[-86.73612199999999,34.742422],"type":"Point"}
 }

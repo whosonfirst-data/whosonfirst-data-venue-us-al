@@ -2,13 +2,14 @@
   "id": 152364491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.173801,32.33703,-86.173801,32.33703",
     "geom:latitude":32.33703,
     "geom:longitude":-86.173801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8700 Seaton Blvd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.sturbridgeapartments.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879051,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152364491,
-    "wof:lastmodified":1449046894,
+    "wof:lastmodified":1466317660,
     "wof:name":"Sturbridge Commons Apartment",
     "wof:parent_id":85879051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.173801,32.33703,-86.173801,32.33703],
+  "bbox": [
+    -86.173801,
+    32.33703,
+    -86.173801,
+    32.33703
+],
   "geometry": {"coordinates":[-86.173801,32.33703],"type":"Point"}
 }

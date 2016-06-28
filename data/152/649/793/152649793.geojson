@@ -2,13 +2,14 @@
   "id": 152649793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.479984,32.609515,-85.479984,32.609515",
     "geom:latitude":32.609515,
     "geom:longitude":-85.479984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 N Gay St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809707,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85809707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152649793,
-    "wof:lastmodified":1449047450,
+    "wof:lastmodified":1466319128,
     "wof:name":"Highway 21 Records",
     "wof:parent_id":85809707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.479984,32.609515,-85.479984,32.609515],
+  "bbox": [
+    -85.479984,
+    32.609515,
+    -85.479984,
+    32.609515
+],
   "geometry": {"coordinates":[-85.479984,32.609515],"type":"Point"}
 }

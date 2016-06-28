@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102512683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.264874,32.422421,-86.264874,32.422421",
     "geom:latitude":32.422421,
     "geom:longitude":-86.264874,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4040 Northern Blvd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806939,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85806939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":102512683,
-    "wof:lastmodified":1449069552,
+    "wof:lastmodified":1466317015,
     "wof:name":"Metro Irrigation LLC",
     "wof:parent_id":85806939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.264874,32.422421,-86.264874,32.422421],
-  "geometry": {"coordinates":[-86.264874,32.422421],"type":"Point"}
+  "bbox": [
+    -86.264874,
+    32.422421,
+    -86.264874,
+    32.422421
+],
+  "geometry": {"coordinates":[-86.26487400000001,32.422421],"type":"Point"}
 }

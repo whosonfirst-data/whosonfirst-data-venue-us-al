@@ -2,13 +2,14 @@
   "id": 152549909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.788482,33.511192,-86.788482,33.511192",
     "geom:latitude":33.511192,
     "geom:longitude":-86.788482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2829 7th Ave S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876275,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152549909,
-    "wof:lastmodified":1449045573,
+    "wof:lastmodified":1466318618,
     "wof:name":"Vazda Video Studios Inc",
     "wof:parent_id":85876275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.788482,33.511192,-86.788482,33.511192],
+  "bbox": [
+    -86.788482,
+    33.511192,
+    -86.788482,
+    33.511192
+],
   "geometry": {"coordinates":[-86.788482,33.511192],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152422921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.49587,34.319156,-86.49587,34.319156",
     "geom:latitude":34.319156,
     "geom:longitude":-86.49587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"231 N Main St",
     "sg:city":"Arab",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851541,
+        85688675,
         85633793,
         85913243,
         102085513,
-        85688675
+        85851541
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152422921,
-    "wof:lastmodified":1449044629,
+    "wof:lastmodified":1466317990,
     "wof:name":"Marshall County Gas District",
     "wof:parent_id":85851541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.49587,34.319156,-86.49587,34.319156],
+  "bbox": [
+    -86.49587,
+    34.319156,
+    -86.49587,
+    34.319156
+],
   "geometry": {"coordinates":[-86.49587,34.319156],"type":"Point"}
 }

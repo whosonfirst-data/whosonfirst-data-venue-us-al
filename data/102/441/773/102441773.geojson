@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102441773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.464424,32.615546,-85.464424,32.615546",
     "geom:latitude":32.615546,
     "geom:longitude":-85.464424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"440 N Dean Rd",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.auburnhomesandmore.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852419,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85852419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102441773,
-    "wof:lastmodified":1449067978,
+    "wof:lastmodified":1466314438,
     "wof:name":"Auburn Homes & More",
     "wof:parent_id":85852419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.464424,32.615546,-85.464424,32.615546],
-  "geometry": {"coordinates":[-85.464424,32.615546],"type":"Point"}
+  "bbox": [
+    -85.464424,
+    32.615546,
+    -85.464424,
+    32.615546
+],
+  "geometry": {"coordinates":[-85.46442399999999,32.615546],"type":"Point"}
 }

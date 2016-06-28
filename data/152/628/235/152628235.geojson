@@ -2,13 +2,14 @@
   "id": 152628235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.261035,33.826951,-86.261035,33.826951",
     "geom:latitude":33.826951,
     "geom:longitude":-86.261035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33225 US Hwy 231",
     "sg:city":"Ashville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152628235,
-    "wof:lastmodified":1449048041,
+    "wof:lastmodified":1466318970,
     "wof:name":"Ashville Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.261035,33.826951,-86.261035,33.826951],
-  "geometry": {"coordinates":[-86.261035,33.826951],"type":"Point"}
+  "bbox": [
+    -86.261035,
+    33.826951,
+    -86.261035,
+    33.826951
+],
+  "geometry": {"coordinates":[-86.26103500000001,33.826951],"type":"Point"}
 }

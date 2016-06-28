@@ -2,13 +2,14 @@
   "id": 152668945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.676359,34.803272,-87.676359,34.803272",
     "geom:latitude":34.803272,
     "geom:longitude":-87.676359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 E Tuscaloosa St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848857,
+        85688675,
         85633793,
         85914011,
         102085527,
-        85688675
+        85848857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152668945,
-    "wof:lastmodified":1449047519,
+    "wof:lastmodified":1466319220,
     "wof:name":"Bella Cappelli",
     "wof:parent_id":85848857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.676359,34.803272,-87.676359,34.803272],
-  "geometry": {"coordinates":[-87.676359,34.803272],"type":"Point"}
+  "bbox": [
+    -87.676359,
+    34.803272,
+    -87.676359,
+    34.803272
+],
+  "geometry": {"coordinates":[-87.67635900000001,34.803272],"type":"Point"}
 }

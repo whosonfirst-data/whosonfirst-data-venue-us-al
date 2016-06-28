@@ -2,13 +2,14 @@
   "id": 152571905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.258946,31.228975,-85.258946,31.228975",
     "geom:latitude":31.228975,
     "geom:longitude":-85.258946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"425 Ben Ivey Rd",
     "sg:city":"Webb",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847911,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85847911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152571905,
-    "wof:lastmodified":1449047451,
+    "wof:lastmodified":1466318745,
     "wof:name":"Carroll Chester Lee Auctioneer",
     "wof:parent_id":85847911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.258946,31.228975,-85.258946,31.228975],
-  "geometry": {"coordinates":[-85.258946,31.228975],"type":"Point"}
+  "bbox": [
+    -85.258946,
+    31.228975,
+    -85.258946,
+    31.228975
+],
+  "geometry": {"coordinates":[-85.25894599999999,31.228975],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152123603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.157693,32.333034,-86.157693,32.333034",
     "geom:latitude":32.333034,
     "geom:longitude":-86.157693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"395 Ray Thorington Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879033,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879033
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152123603,
-    "wof:lastmodified":1449045688,
+    "wof:lastmodified":1466314674,
     "wof:name":"Churchill Academy",
     "wof:parent_id":85879033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.157693,32.333034,-86.157693,32.333034],
-  "geometry": {"coordinates":[-86.157693,32.333034],"type":"Point"}
+  "bbox": [
+    -86.157693,
+    32.333034,
+    -86.157693,
+    32.333034
+],
+  "geometry": {"coordinates":[-86.15769299999999,32.333034],"type":"Point"}
 }

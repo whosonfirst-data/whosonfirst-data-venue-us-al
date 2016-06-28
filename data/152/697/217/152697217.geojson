@@ -2,13 +2,14 @@
   "id": 152697217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.389944,31.208347,-85.389944,31.208347",
     "geom:latitude":31.208347,
     "geom:longitude":-85.389944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"223 E Cottonwood Rd",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852069,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85852069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152697217,
-    "wof:lastmodified":1449047216,
+    "wof:lastmodified":1466319280,
     "wof:name":"Arco",
     "wof:parent_id":85852069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.389944,31.208347,-85.389944,31.208347],
+  "bbox": [
+    -85.389944,
+    31.208347,
+    -85.389944,
+    31.208347
+],
   "geometry": {"coordinates":[-85.389944,31.208347],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119128031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.651638,34.772427,-86.651638,34.772427",
     "geom:latitude":34.772427,
     "geom:longitude":-86.651638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2990 State Rte 53",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":119128031,
-    "wof:lastmodified":1449041792,
+    "wof:lastmodified":1466314458,
     "wof:name":"Madison Armored Car",
     "wof:parent_id":85913601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.651638,34.772427,-86.651638,34.772427],
-  "geometry": {"coordinates":[-86.651638,34.772427],"type":"Point"}
+  "bbox": [
+    -86.651638,
+    34.772427,
+    -86.651638,
+    34.772427
+],
+  "geometry": {"coordinates":[-86.65163800000001,34.772427],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102502657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.592048,34.55026,-85.592048,34.55026",
     "geom:latitude":34.55026,
     "geom:longitude":-85.592048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 Co Rd 650",
     "sg:city":"Mentone",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85844901,
+        85688675,
         85633793,
         85897439,
         102085615,
-        85688675
+        85844901
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102502657,
-    "wof:lastmodified":1449068869,
+    "wof:lastmodified":1466316649,
     "wof:name":"Canyon Falls Cottage",
     "wof:parent_id":85844901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.592048,34.55026,-85.592048,34.55026],
-  "geometry": {"coordinates":[-85.592048,34.55026],"type":"Point"}
+  "bbox": [
+    -85.592048,
+    34.55026,
+    -85.592048,
+    34.55026
+],
+  "geometry": {"coordinates":[-85.59204800000001,34.55026],"type":"Point"}
 }

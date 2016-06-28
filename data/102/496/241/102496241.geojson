@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102496241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.279493,32.417643,-86.279493,32.417643",
     "geom:latitude":32.417643,
     "geom:longitude":-86.279493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 E Vandiver Blvd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806939,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85806939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102496241,
-    "wof:lastmodified":1449069804,
+    "wof:lastmodified":1466316313,
     "wof:name":"Mann Wildlife Learning Museum",
     "wof:parent_id":85806939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.279493,32.417643,-86.279493,32.417643],
+  "bbox": [
+    -86.279493,
+    32.417643,
+    -86.279493,
+    32.417643
+],
   "geometry": {"coordinates":[-86.279493,32.417643],"type":"Point"}
 }

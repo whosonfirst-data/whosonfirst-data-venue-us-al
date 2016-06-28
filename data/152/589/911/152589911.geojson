@@ -2,13 +2,14 @@
   "id": 152589911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.284346,32.385161,-86.284346,32.385161",
     "geom:latitude":32.385161,
     "geom:longitude":-86.284346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1761 Upper Wetumpka Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825469,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85825469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152589911,
-    "wof:lastmodified":1449046771,
+    "wof:lastmodified":1466318823,
     "wof:name":"Cash & Carry",
     "wof:parent_id":85825469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.284346,32.385161,-86.284346,32.385161],
+  "bbox": [
+    -86.284346,
+    32.385161,
+    -86.284346,
+    32.385161
+],
   "geometry": {"coordinates":[-86.284346,32.385161],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152174335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.997262,31.854196,-85.997262,31.854196",
     "geom:latitude":31.854196,
     "geom:longitude":-85.997262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"152 Old Hwy 231 N",
     "sg:city":"Troy",
     "sg:classifiers":[
@@ -31,10 +32,10 @@
     "sg:website":"www.billjacksonusedcars.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085619,
-        85633793,
         85688675,
-        85867311
+        85633793,
+        85867311,
+        102085619
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152174335,
-    "wof:lastmodified":1449044933,
+    "wof:lastmodified":1466315622,
     "wof:name":"Bill Jackson Chevrolet Cad Pon",
     "wof:parent_id":85867311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.997262,31.854196,-85.997262,31.854196],
-  "geometry": {"coordinates":[-85.997262,31.854196],"type":"Point"}
+  "bbox": [
+    -85.997262,
+    31.854196,
+    -85.997262,
+    31.854196
+],
+  "geometry": {"coordinates":[-85.99726200000001,31.854196],"type":"Point"}
 }

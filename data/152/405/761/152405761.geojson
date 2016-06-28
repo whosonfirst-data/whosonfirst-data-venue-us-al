@@ -2,13 +2,14 @@
   "id": 152405761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.667242,33.369272,-86.667242,33.369272",
     "geom:latitude":33.369272,
     "geom:longitude":-86.667242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"245 Narrows Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85833411
+        85633793,
+        85833411,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152405761,
-    "wof:lastmodified":1449048537,
+    "wof:lastmodified":1466317882,
     "wof:name":"May Chiropractic Clinic",
     "wof:parent_id":85833411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.667242,33.369272,-86.667242,33.369272],
+  "bbox": [
+    -86.667242,
+    33.369272,
+    -86.667242,
+    33.369272
+],
   "geometry": {"coordinates":[-86.667242,33.369272],"type":"Point"}
 }

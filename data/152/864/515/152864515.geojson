@@ -2,13 +2,14 @@
   "id": 152864515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.940629,33.999749,-86.940629,33.999749",
     "geom:latitude":33.999749,
     "geom:longitude":-86.940629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6363 State Rte 69",
     "sg:city":"Cullman",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867305,
+        85688675,
         85633793,
         85914167,
         102085729,
-        85688675
+        85867305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152864515,
-    "wof:lastmodified":1449048946,
+    "wof:lastmodified":1466320186,
     "wof:name":"Quick Silver Pilot Cars",
     "wof:parent_id":85867305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.940629,33.999749,-86.940629,33.999749],
+  "bbox": [
+    -86.940629,
+    33.999749,
+    -86.940629,
+    33.999749
+],
   "geometry": {"coordinates":[-86.940629,33.999749],"type":"Point"}
 }

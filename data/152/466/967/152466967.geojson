@@ -2,13 +2,14 @@
   "id": 152466967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.117977,32.405436,-86.117977,32.405436",
     "geom:latitude":32.405436,
     "geom:longitude":-86.117977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11653 Wares Ferry Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803631,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85803631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152466967,
-    "wof:lastmodified":1449045685,
+    "wof:lastmodified":1466318198,
     "wof:name":"Shutter Shop",
     "wof:parent_id":85803631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.117977,32.405436,-86.117977,32.405436],
+  "bbox": [
+    -86.117977,
+    32.405436,
+    -86.117977,
+    32.405436
+],
   "geometry": {"coordinates":[-86.117977,32.405436],"type":"Point"}
 }

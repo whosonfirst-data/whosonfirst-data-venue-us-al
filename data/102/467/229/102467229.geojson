@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102467229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.824266,33.529953,-86.824266,33.529953",
     "geom:latitude":33.529953,
     "geom:longitude":-86.824266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1127 15th Ct N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85849097,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85849097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102467229,
-    "wof:lastmodified":1449069665,
+    "wof:lastmodified":1466315131,
     "wof:name":"Matthews Enterprises",
     "wof:parent_id":85849097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.824266,33.529953,-86.824266,33.529953],
-  "geometry": {"coordinates":[-86.824266,33.529953],"type":"Point"}
+  "bbox": [
+    -86.824266,
+    33.529953,
+    -86.824266,
+    33.529953
+],
+  "geometry": {"coordinates":[-86.82426599999999,33.529953],"type":"Point"}
 }

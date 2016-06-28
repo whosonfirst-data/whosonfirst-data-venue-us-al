@@ -2,13 +2,14 @@
   "id": 152192287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.833391,33.506743,-86.833391,33.506743",
     "geom:latitude":33.506743,
     "geom:longitude":-86.833391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"99 3rd Ave N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817999,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85817999
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152192287,
-    "wof:lastmodified":1449047570,
+    "wof:lastmodified":1466315751,
     "wof:name":"All American Remodeling",
     "wof:parent_id":85817999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.833391,33.506743,-86.833391,33.506743],
-  "geometry": {"coordinates":[-86.833391,33.506743],"type":"Point"}
+  "bbox": [
+    -86.833391,
+    33.506743,
+    -86.833391,
+    33.506743
+],
+  "geometry": {"coordinates":[-86.83339100000001,33.506743],"type":"Point"}
 }

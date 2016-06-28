@@ -2,13 +2,14 @@
   "id": 152192049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.170025,32.373738,-86.170025,32.373738",
     "geom:latitude":32.373738,
     "geom:longitude":-86.170025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7045 Sydney Curve",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885419,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85885419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152192049,
-    "wof:lastmodified":1449047570,
+    "wof:lastmodified":1466315740,
     "wof:name":"Foy Benjamin S DDS",
     "wof:parent_id":85885419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.170025,32.373738,-86.170025,32.373738],
+  "bbox": [
+    -86.170025,
+    32.373738,
+    -86.170025,
+    32.373738
+],
   "geometry": {"coordinates":[-86.170025,32.373738],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152164615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.578631,34.716241,-86.578631,34.716241",
     "geom:latitude":34.716241,
     "geom:longitude":-86.578631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Marsheutz Ave SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818149,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85818149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152164615,
-    "wof:lastmodified":1449044853,
+    "wof:lastmodified":1466315368,
     "wof:name":"Red Door Interiors LLC",
     "wof:parent_id":85818149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.578631,34.716241,-86.578631,34.716241],
+  "bbox": [
+    -86.578631,
+    34.716241,
+    -86.578631,
+    34.716241
+],
   "geometry": {"coordinates":[-86.578631,34.716241],"type":"Point"}
 }

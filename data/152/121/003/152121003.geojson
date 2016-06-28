@@ -2,13 +2,14 @@
   "id": 152121003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.65075,34.750131,-85.65075,34.750131",
     "geom:latitude":34.750131,
     "geom:longitude":-85.65075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"194 Co Rd 803",
     "sg:city":"Ider",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85844901,
+        85688675,
         85633793,
         85897439,
         102085615,
-        85688675
+        85844901
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152121003,
-    "wof:lastmodified":1449047907,
+    "wof:lastmodified":1466315453,
     "wof:name":"Charles Ott Farms",
     "wof:parent_id":85844901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.65075,34.750131,-85.65075,34.750131],
+  "bbox": [
+    -85.65075,
+    34.750131,
+    -85.65075,
+    34.750131
+],
   "geometry": {"coordinates":[-85.65075,34.750131],"type":"Point"}
 }

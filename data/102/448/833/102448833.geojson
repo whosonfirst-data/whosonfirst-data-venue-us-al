@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102448833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.676061,33.428827,-86.676061,33.428827",
     "geom:latitude":33.428827,
     "geom:longitude":-86.676061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2504 Magnolia Pl",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85833411
+        85633793,
+        85833411,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102448833,
-    "wof:lastmodified":1449070089,
+    "wof:lastmodified":1466314661,
     "wof:name":"Camille L Wooten Inc",
     "wof:parent_id":85833411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.676061,33.428827,-86.676061,33.428827],
+  "bbox": [
+    -86.676061,
+    33.428827,
+    -86.676061,
+    33.428827
+],
   "geometry": {"coordinates":[-86.676061,33.428827],"type":"Point"}
 }

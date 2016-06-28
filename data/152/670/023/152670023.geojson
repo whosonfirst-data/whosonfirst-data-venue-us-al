@@ -2,13 +2,14 @@
   "id": 152670023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.866509,33.091761,-86.866509,33.091761",
     "geom:latitude":33.091761,
     "geom:longitude":-86.866509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3960 State Rte 25",
     "sg:city":"Montevallo",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152670023,
-    "wof:lastmodified":1449045004,
+    "wof:lastmodified":1466319166,
     "wof:name":"State Liquor Store 100",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.866509,33.091761,-86.866509,33.091761],
-  "geometry": {"coordinates":[-86.866509,33.091761],"type":"Point"}
+  "bbox": [
+    -86.866509,
+    33.091761,
+    -86.866509,
+    33.091761
+],
+  "geometry": {"coordinates":[-86.86650899999999,33.091761],"type":"Point"}
 }

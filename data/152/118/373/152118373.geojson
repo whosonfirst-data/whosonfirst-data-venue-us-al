@@ -2,13 +2,14 @@
   "id": 152118373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.922675,34.529861,-86.922675,34.529861",
     "geom:latitude":34.529861,
     "geom:longitude":-86.922675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4136 Indian Hills Rd SE",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085531,
-        85633793,
         85688675,
-        85808557
+        85633793,
+        85808557,
+        102085531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152118373,
-    "wof:lastmodified":1449048034,
+    "wof:lastmodified":1466314422,
     "wof:name":"Cedar Lake Farms",
     "wof:parent_id":85808557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.922675,34.529861,-86.922675,34.529861],
+  "bbox": [
+    -86.922675,
+    34.529861,
+    -86.922675,
+    34.529861
+],
   "geometry": {"coordinates":[-86.922675,34.529861],"type":"Point"}
 }

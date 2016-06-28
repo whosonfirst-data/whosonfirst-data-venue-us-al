@@ -2,13 +2,14 @@
   "id": 152295929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.392142,31.224467,-85.392142,31.224467",
     "geom:latitude":31.224467,
     "geom:longitude":-85.392142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"144 N Foster St",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852069,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85852069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152295929,
-    "wof:lastmodified":1449046184,
+    "wof:lastmodified":1466317094,
     "wof:name":"Moontimes Bar & Billiards",
     "wof:parent_id":85852069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.392142,31.224467,-85.392142,31.224467],
-  "geometry": {"coordinates":[-85.392142,31.224467],"type":"Point"}
+  "bbox": [
+    -85.392142,
+    31.224467,
+    -85.392142,
+    31.224467
+],
+  "geometry": {"coordinates":[-85.39214200000001,31.224467],"type":"Point"}
 }

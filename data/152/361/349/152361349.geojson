@@ -2,13 +2,14 @@
   "id": 152361349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.892132,30.552636,-87.892132,30.552636",
     "geom:latitude":30.552636,
     "geom:longitude":-87.892132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3035 US Hwy 98",
     "sg:city":"Daphne",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847563,
+        85688675,
         85633793,
         85914707,
         102085469,
-        85688675
+        85847563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152361349,
-    "wof:lastmodified":1449047664,
+    "wof:lastmodified":1466317619,
     "wof:name":"Azalea Travel Professional",
     "wof:parent_id":85847563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.892132,30.552636,-87.892132,30.552636],
+  "bbox": [
+    -87.892132,
+    30.552636,
+    -87.892132,
+    30.552636
+],
   "geometry": {"coordinates":[-87.892132,30.552636],"type":"Point"}
 }

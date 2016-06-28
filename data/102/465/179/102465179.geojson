@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102465179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.613335,34.718973,-86.613335,34.718973",
     "geom:latitude":34.718973,
     "geom:longitude":-86.613335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3405 6th Ave SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85855713,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85855713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":102465179,
-    "wof:lastmodified":1449069409,
+    "wof:lastmodified":1466315040,
     "wof:name":"Hall's Cooling & Heating Co",
     "wof:parent_id":85855713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.613335,34.718973,-86.613335,34.718973],
-  "geometry": {"coordinates":[-86.613335,34.718973],"type":"Point"}
+  "bbox": [
+    -86.613335,
+    34.718973,
+    -86.613335,
+    34.718973
+],
+  "geometry": {"coordinates":[-86.61333500000001,34.718973],"type":"Point"}
 }

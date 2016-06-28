@@ -2,13 +2,14 @@
   "id": 152661457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.827637,33.462266,-86.827637,33.462266",
     "geom:latitude":33.462266,
     "geom:longitude":-86.827637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 Oxmoor Rd",
     "sg:city":"Homewood",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.jimnnicks.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817409,
+        85688675,
         85633793,
         85914847,
         102085481,
-        85688675
+        85817409
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152661457,
-    "wof:lastmodified":1449048425,
+    "wof:lastmodified":1466319155,
     "wof:name":"Jim 'n Nick's Bar BQ",
     "wof:parent_id":85817409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.827637,33.462266,-86.827637,33.462266],
+  "bbox": [
+    -86.827637,
+    33.462266,
+    -86.827637,
+    33.462266
+],
   "geometry": {"coordinates":[-86.827637,33.462266],"type":"Point"}
 }

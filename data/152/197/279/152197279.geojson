@@ -2,13 +2,14 @@
   "id": 152197279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.006043,34.011817,-86.006043,34.011817",
     "geom:latitude":34.011817,
     "geom:longitude":-86.006043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 S 5th St",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822279,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85822279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152197279,
-    "wof:lastmodified":1449048342,
+    "wof:lastmodified":1466315923,
     "wof:name":"Behavioral Health Assoc",
     "wof:parent_id":85822279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.006043,34.011817,-86.006043,34.011817],
-  "geometry": {"coordinates":[-86.006043,34.011817],"type":"Point"}
+  "bbox": [
+    -86.006043,
+    34.011817,
+    -86.006043,
+    34.011817
+],
+  "geometry": {"coordinates":[-86.00604300000001,34.011817],"type":"Point"}
 }

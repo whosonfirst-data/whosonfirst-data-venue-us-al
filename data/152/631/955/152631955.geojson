@@ -2,13 +2,14 @@
   "id": 152631955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.912141,34.379213,-86.912141,34.379213",
     "geom:latitude":34.379213,
     "geom:longitude":-86.912141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4279 US Hwy 31",
     "sg:city":"Falkville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851807,
+        85688675,
         85633793,
         85914103,
         102085531,
-        85688675
+        85851807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152631955,
-    "wof:lastmodified":1449045736,
+    "wof:lastmodified":1466319012,
     "wof:name":"Rv Refrigerator Repair",
     "wof:parent_id":85851807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.912141,34.379213,-86.912141,34.379213],
-  "geometry": {"coordinates":[-86.912141,34.379213],"type":"Point"}
+  "bbox": [
+    -86.912141,
+    34.379213,
+    -86.912141,
+    34.379213
+],
+  "geometry": {"coordinates":[-86.91214100000001,34.379213],"type":"Point"}
 }

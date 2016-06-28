@@ -2,13 +2,14 @@
   "id": 152400665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.004048,34.009534,-86.004048,34.009534",
     "geom:latitude":34.009534,
     "geom:longitude":-86.004048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"241 S 3rd St",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822279,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85822279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152400665,
-    "wof:lastmodified":1449044758,
+    "wof:lastmodified":1466317860,
     "wof:name":"Charter Media Cable Advg",
     "wof:parent_id":85822279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.004048,34.009534,-86.004048,34.009534],
+  "bbox": [
+    -86.004048,
+    34.009534,
+    -86.004048,
+    34.009534
+],
   "geometry": {"coordinates":[-86.004048,34.009534],"type":"Point"}
 }

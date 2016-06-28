@@ -2,13 +2,14 @@
   "id": 152738841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.787597,33.215152,-86.787597,33.215152",
     "geom:latitude":33.215152,
     "geom:longitude":-86.787597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Ozley Rd",
     "sg:city":"Alabaster",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85853623
+        85633793,
+        85853623,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152738841,
-    "wof:lastmodified":1449047687,
+    "wof:lastmodified":1466319449,
     "wof:name":"William Carter Plumbing",
     "wof:parent_id":85853623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.787597,33.215152,-86.787597,33.215152],
-  "geometry": {"coordinates":[-86.787597,33.215152],"type":"Point"}
+  "bbox": [
+    -86.787597,
+    33.215152,
+    -86.787597,
+    33.215152
+],
+  "geometry": {"coordinates":[-86.78759700000001,33.215152],"type":"Point"}
 }

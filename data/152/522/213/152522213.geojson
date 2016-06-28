@@ -2,13 +2,14 @@
   "id": 152522213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.576652,34.741208,-86.576652,34.741208",
     "geom:latitude":34.741208,
     "geom:longitude":-86.576652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"504 Andrew Jackson Way NE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819449,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85819449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152522213,
-    "wof:lastmodified":1449046507,
+    "wof:lastmodified":1466318433,
     "wof:name":"S&R Sewing Machine & Vacuums",
     "wof:parent_id":85819449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.576652,34.741208,-86.576652,34.741208],
+  "bbox": [
+    -86.576652,
+    34.741208,
+    -86.576652,
+    34.741208
+],
   "geometry": {"coordinates":[-86.576652,34.741208],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102603433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.798707,33.631226,-86.798707,33.631226",
     "geom:latitude":33.631226,
     "geom:longitude":-86.798707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3030 Hunters Run",
     "sg:city":"Gardendale",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102603433,
-    "wof:lastmodified":1449069786,
+    "wof:lastmodified":1466317228,
     "wof:name":"International Reading Assn",
     "wof:parent_id":85914857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.798707,33.631226,-86.798707,33.631226],
-  "geometry": {"coordinates":[-86.798707,33.631226],"type":"Point"}
+  "bbox": [
+    -86.798707,
+    33.631226,
+    -86.798707,
+    33.631226
+],
+  "geometry": {"coordinates":[-86.79870699999999,33.631226],"type":"Point"}
 }

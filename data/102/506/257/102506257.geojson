@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102506257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.823935,33.228664,-86.823935,33.228664",
     "geom:latitude":33.228664,
     "geom:longitude":-86.823935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1337 Montevallo Rd",
     "sg:city":"Alabaster",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847439,
+        85688675,
         85633793,
         85914487,
         102085499,
-        85688675
+        85847439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102506257,
-    "wof:lastmodified":1449067818,
+    "wof:lastmodified":1466316576,
     "wof:name":"Jeff Bentley Insurance",
     "wof:parent_id":85847439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.823935,33.228664,-86.823935,33.228664],
-  "geometry": {"coordinates":[-86.823935,33.228664],"type":"Point"}
+  "bbox": [
+    -86.823935,
+    33.228664,
+    -86.823935,
+    33.228664
+],
+  "geometry": {"coordinates":[-86.82393500000001,33.228664],"type":"Point"}
 }

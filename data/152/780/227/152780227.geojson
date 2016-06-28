@@ -2,13 +2,14 @@
   "id": 152780227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.005789,32.985048,-86.005789,32.985048",
     "geom:latitude":32.985048,
     "geom:longitude":-86.005789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"60 Moon Rd",
     "sg:city":"Bradford",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840481,
+        85688675,
         85633793,
         85913363,
         102085567,
-        85688675
+        85840481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152780227,
-    "wof:lastmodified":1449047759,
+    "wof:lastmodified":1466319668,
     "wof:name":"Bess Eaton Donut",
     "wof:parent_id":85840481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.005789,32.985048,-86.005789,32.985048],
-  "geometry": {"coordinates":[-86.005789,32.985048],"type":"Point"}
+  "bbox": [
+    -86.005789,
+    32.985048,
+    -86.005789,
+    32.985048
+],
+  "geometry": {"coordinates":[-86.00578899999999,32.985048],"type":"Point"}
 }

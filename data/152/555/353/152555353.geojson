@@ -2,13 +2,14 @@
   "id": 152555353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.816113,34.674003,-86.816113,34.674003",
     "geom:latitude":34.674003,
     "geom:longitude":-86.816113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8430 Segers Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845785,
+        85688675,
         85633793,
         85913593,
         102085487,
-        85688675
+        85845785
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152555353,
-    "wof:lastmodified":1449048255,
+    "wof:lastmodified":1466318722,
     "wof:name":"Capital Trailways Huntsville",
     "wof:parent_id":85845785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.816113,34.674003,-86.816113,34.674003],
+  "bbox": [
+    -86.816113,
+    34.674003,
+    -86.816113,
+    34.674003
+],
   "geometry": {"coordinates":[-86.816113,34.674003],"type":"Point"}
 }

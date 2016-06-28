@@ -2,13 +2,14 @@
   "id": 102626777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.205065,32.368511,-86.205065,32.368511",
     "geom:latitude":32.368511,
     "geom:longitude":-86.205065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5916 E Shirley Ln",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809571,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85809571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":102626777,
-    "wof:lastmodified":1449070211,
+    "wof:lastmodified":1466317477,
     "wof:name":"Lisa Dell Custom Embroidery",
     "wof:parent_id":85809571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.205065,32.368511,-86.205065,32.368511],
+  "bbox": [
+    -86.205065,
+    32.368511,
+    -86.205065,
+    32.368511
+],
   "geometry": {"coordinates":[-86.205065,32.368511],"type":"Point"}
 }

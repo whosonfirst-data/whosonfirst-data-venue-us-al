@@ -2,13 +2,14 @@
   "id": 102636741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.338315,31.496234,-87.338315,31.496234",
     "geom:latitude":31.496234,
     "geom:longitude":-87.338315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Fox Run Rd",
     "sg:city":"Monroeville",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102636741,
-    "wof:lastmodified":1449068713,
+    "wof:lastmodified":1466317588,
     "wof:name":"AAA Mini Storage",
     "wof:parent_id":85913681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.338315,31.496234,-87.338315,31.496234],
-  "geometry": {"coordinates":[-87.338315,31.496234],"type":"Point"}
+  "bbox": [
+    -87.338315,
+    31.496234,
+    -87.338315,
+    31.496234
+],
+  "geometry": {"coordinates":[-87.33831499999999,31.496234],"type":"Point"}
 }

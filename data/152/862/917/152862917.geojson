@@ -2,13 +2,14 @@
   "id": 152862917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.798101,33.289704,-86.798101,33.289704",
     "geom:latitude":33.289704,
     "geom:longitude":-86.798101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 Co Rd 361",
     "sg:city":"Pelham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828267,
+        85688675,
         85633793,
         85914501,
         102085499,
-        85688675
+        85828267
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152862917,
-    "wof:lastmodified":1449049010,
+    "wof:lastmodified":1466320201,
     "wof:name":"Above All Doors",
     "wof:parent_id":85828267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.798101,33.289704,-86.798101,33.289704],
+  "bbox": [
+    -86.798101,
+    33.289704,
+    -86.798101,
+    33.289704
+],
   "geometry": {"coordinates":[-86.798101,33.289704],"type":"Point"}
 }

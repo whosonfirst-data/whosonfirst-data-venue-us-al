@@ -2,13 +2,14 @@
   "id": 102631531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.802777,33.311225,-86.802777,33.311225",
     "geom:latitude":33.311225,
     "geom:longitude":-86.802777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2710 Pelham Pkwy",
     "sg:city":"Pelham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85826867,
+        85688675,
         85633793,
         85914501,
         102085499,
-        85688675
+        85826867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102631531,
-    "wof:lastmodified":1449068521,
+    "wof:lastmodified":1466317510,
     "wof:name":"Nations Rent",
     "wof:parent_id":85826867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.802777,33.311225,-86.802777,33.311225],
-  "geometry": {"coordinates":[-86.802777,33.311225],"type":"Point"}
+  "bbox": [
+    -86.802777,
+    33.311225,
+    -86.802777,
+    33.311225
+],
+  "geometry": {"coordinates":[-86.80277700000001,33.311225],"type":"Point"}
 }

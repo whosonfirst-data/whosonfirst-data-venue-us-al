@@ -2,13 +2,14 @@
   "id": 152243945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.071197,30.805677,-88.071197,30.805677",
     "geom:latitude":30.805677,
     "geom:longitude":-88.071197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Saraland Blvd S",
     "sg:city":"Saraland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152243945,
-    "wof:lastmodified":1449045803,
+    "wof:lastmodified":1466316406,
     "wof:name":"TRANSMISSION Depot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.071197,30.805677,-88.071197,30.805677],
+  "bbox": [
+    -88.071197,
+    30.805677,
+    -88.071197,
+    30.805677
+],
   "geometry": {"coordinates":[-88.071197,30.805677],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152635865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.833178,33.28028,-86.833178,33.28028",
     "geom:latitude":33.28028,
     "geom:longitude":-86.833178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1888 Co Rd 95",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845631,
+        85688675,
         85633793,
         85914471,
         102085499,
-        85688675
+        85845631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152635865,
-    "wof:lastmodified":1449046314,
+    "wof:lastmodified":1466319027,
     "wof:name":"Helena Veterinary Clinic",
     "wof:parent_id":85845631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.833178,33.28028,-86.833178,33.28028],
+  "bbox": [
+    -86.833178,
+    33.28028,
+    -86.833178,
+    33.28028
+],
   "geometry": {"coordinates":[-86.833178,33.28028],"type":"Point"}
 }

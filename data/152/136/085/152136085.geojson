@@ -2,13 +2,14 @@
   "id": 152136085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.345283,34.535173,-86.345283,34.535173",
     "geom:latitude":34.535173,
     "geom:longitude":-86.345283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"246 Sam Hill Rd",
     "sg:city":"New Hope",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878245,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152136085,
-    "wof:lastmodified":1449048837,
+    "wof:lastmodified":1466315285,
     "wof:name":"South Madison County Hvac",
     "wof:parent_id":85878245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.345283,34.535173,-86.345283,34.535173],
-  "geometry": {"coordinates":[-86.345283,34.535173],"type":"Point"}
+  "bbox": [
+    -86.345283,
+    34.535173,
+    -86.345283,
+    34.535173
+],
+  "geometry": {"coordinates":[-86.34528299999999,34.535173],"type":"Point"}
 }

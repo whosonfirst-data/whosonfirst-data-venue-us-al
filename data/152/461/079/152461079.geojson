@@ -2,13 +2,14 @@
   "id": 152461079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.794158,33.592063,-85.794158,33.592063",
     "geom:latitude":33.592063,
     "geom:longitude":-85.794158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2108 Marian Ln",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806515,
+        85688675,
         85633793,
         85914159,
         102085603,
-        85688675
+        85806515
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152461079,
-    "wof:lastmodified":1449046046,
+    "wof:lastmodified":1466318254,
     "wof:name":"Danny J Shears",
     "wof:parent_id":85806515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.794158,33.592063,-85.794158,33.592063],
+  "bbox": [
+    -85.794158,
+    33.592063,
+    -85.794158,
+    33.592063
+],
   "geometry": {"coordinates":[-85.794158,33.592063],"type":"Point"}
 }

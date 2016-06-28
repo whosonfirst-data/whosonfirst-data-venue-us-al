@@ -2,13 +2,14 @@
   "id": 152447107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.725059,30.646225,-87.725059,30.646225",
     "geom:latitude":30.646225,
     "geom:longitude":-87.725059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28842 Conway Rd",
     "sg:city":"Loxley",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807399,
+        85688675,
         85633793,
         85914741,
         102085469,
-        85688675
+        85807399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152447107,
-    "wof:lastmodified":1449047547,
+    "wof:lastmodified":1466318117,
     "wof:name":"K & C Transport Inc",
     "wof:parent_id":85807399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.725059,30.646225,-87.725059,30.646225],
+  "bbox": [
+    -87.725059,
+    30.646225,
+    -87.725059,
+    30.646225
+],
   "geometry": {"coordinates":[-87.725059,30.646225],"type":"Point"}
 }

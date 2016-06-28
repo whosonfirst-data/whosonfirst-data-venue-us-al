@@ -2,13 +2,14 @@
   "id": 152601769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.759502,34.792175,-86.759502,34.792175",
     "geom:latitude":34.792175,
     "geom:longitude":-86.759502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Scarlet Oak Cir",
     "sg:city":"Harvest",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085487,
-        85633793,
         85688675,
-        85838413
+        85633793,
+        85838413,
+        102085487
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152601769,
-    "wof:lastmodified":1449046380,
+    "wof:lastmodified":1466318840,
     "wof:name":"Slaters Home Repair",
     "wof:parent_id":85838413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.759502,34.792175,-86.759502,34.792175],
+  "bbox": [
+    -86.759502,
+    34.792175,
+    -86.759502,
+    34.792175
+],
   "geometry": {"coordinates":[-86.759502,34.792175],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152893229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.823477,33.66084,-85.823477,33.66084",
     "geom:latitude":33.66084,
     "geom:longitude":-85.823477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1220 Christine Ave",
     "sg:city":"Anniston",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840061,
+        85688675,
         85633793,
         85914281,
         102085603,
-        85688675
+        85840061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152893229,
-    "wof:lastmodified":1449048046,
+    "wof:lastmodified":1466320283,
     "wof:name":"James L Finley DMD",
     "wof:parent_id":85840061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.823477,33.66084,-85.823477,33.66084],
+  "bbox": [
+    -85.823477,
+    33.66084,
+    -85.823477,
+    33.66084
+],
   "geometry": {"coordinates":[-85.823477,33.66084],"type":"Point"}
 }

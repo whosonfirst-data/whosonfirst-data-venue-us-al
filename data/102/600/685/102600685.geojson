@@ -2,13 +2,14 @@
   "id": 102600685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.71824,33.624148,-85.71824,33.624148",
     "geom:latitude":33.624148,
     "geom:longitude":-85.71824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6177 US Hwy 78",
     "sg:city":"Anniston",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102600685,
-    "wof:lastmodified":1449068016,
+    "wof:lastmodified":1466317216,
     "wof:name":"Woerner Transportation Inc",
     "wof:parent_id":85688675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.71824,33.624148,-85.71824,33.624148],
-  "geometry": {"coordinates":[-85.71824,33.624148],"type":"Point"}
+  "bbox": [
+    -85.71824,
+    33.624148,
+    -85.71824,
+    33.624148
+],
+  "geometry": {"coordinates":[-85.71823999999999,33.624148],"type":"Point"}
 }

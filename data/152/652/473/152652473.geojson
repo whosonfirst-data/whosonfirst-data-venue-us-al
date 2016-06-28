@@ -2,13 +2,14 @@
   "id": 152652473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.718166,34.449678,-85.718166,34.449678",
     "geom:latitude":34.449678,
     "geom:longitude":-85.718166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 9th St NW",
     "sg:city":"Fort Payne",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834595,
+        85688675,
         85633793,
         85897515,
         102085615,
-        85688675
+        85834595
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152652473,
-    "wof:lastmodified":1449047274,
+    "wof:lastmodified":1466319116,
     "wof:name":"Saint Paul Untd Methdst Church",
     "wof:parent_id":85834595,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.718166,34.449678,-85.718166,34.449678],
+  "bbox": [
+    -85.718166,
+    34.449678,
+    -85.718166,
+    34.449678
+],
   "geometry": {"coordinates":[-85.718166,34.449678],"type":"Point"}
 }

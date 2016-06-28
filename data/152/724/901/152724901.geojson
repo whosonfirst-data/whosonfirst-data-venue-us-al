@@ -2,13 +2,14 @@
   "id": 152724901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.483708,34.59355,-86.483708,34.59355",
     "geom:latitude":34.59355,
     "geom:longitude":-86.483708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3136 Old Big Cove Rd",
     "sg:city":"Owens Cross Rds",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820451,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85820451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152724901,
-    "wof:lastmodified":1449048814,
+    "wof:lastmodified":1466319477,
     "wof:name":"Averbuch Realty",
     "wof:parent_id":85820451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.483708,34.59355,-86.483708,34.59355],
-  "geometry": {"coordinates":[-86.483708,34.59355],"type":"Point"}
+  "bbox": [
+    -86.483708,
+    34.59355,
+    -86.483708,
+    34.59355
+],
+  "geometry": {"coordinates":[-86.48370799999999,34.59355],"type":"Point"}
 }

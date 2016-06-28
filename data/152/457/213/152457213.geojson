@@ -2,13 +2,14 @@
   "id": 152457213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.203188,34.802348,-87.203188,34.802348",
     "geom:latitude":34.802348,
     "geom:longitude":-87.203188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6494 US Hwy 72",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.webejeeping.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829531,
+        85688675,
         85633793,
         85913543,
         102085489,
-        85688675
+        85829531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152457213,
-    "wof:lastmodified":1449047400,
+    "wof:lastmodified":1466318105,
     "wof:name":"Gilbert Jeeps & 4x4 TRUCKS",
     "wof:parent_id":85829531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.203188,34.802348,-87.203188,34.802348],
+  "bbox": [
+    -87.203188,
+    34.802348,
+    -87.203188,
+    34.802348
+],
   "geometry": {"coordinates":[-87.203188,34.802348],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152374607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.008758,34.011296,-86.008758,34.011296",
     "geom:latitude":34.011296,
     "geom:longitude":-86.008758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"644 Walnut St",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.national-auction.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822279,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85822279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152374607,
-    "wof:lastmodified":1449046322,
+    "wof:lastmodified":1466317725,
     "wof:name":"National Auction Group",
     "wof:parent_id":85822279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.008758,34.011296,-86.008758,34.011296],
+  "bbox": [
+    -86.008758,
+    34.011296,
+    -86.008758,
+    34.011296
+],
   "geometry": {"coordinates":[-86.008758,34.011296],"type":"Point"}
 }

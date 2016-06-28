@@ -2,13 +2,14 @@
   "id": 152738929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.204777,31.246699,-85.204777,31.246699",
     "geom:latitude":31.246699,
     "geom:longitude":-85.204777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3754 Cedar Springs Rd",
     "sg:city":"Ashford",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847911,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85847911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152738929,
-    "wof:lastmodified":1449047688,
+    "wof:lastmodified":1466319452,
     "wof:name":"Cedar Springs Baptist Church",
     "wof:parent_id":85847911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.204777,31.246699,-85.204777,31.246699],
-  "geometry": {"coordinates":[-85.204777,31.246699],"type":"Point"}
+  "bbox": [
+    -85.204777,
+    31.246699,
+    -85.204777,
+    31.246699
+],
+  "geometry": {"coordinates":[-85.20477700000001,31.246699],"type":"Point"}
 }

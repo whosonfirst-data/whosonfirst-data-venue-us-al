@@ -2,13 +2,14 @@
   "id": 152563177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.521071,32.458995,-86.521071,32.458995",
     "geom:latitude":32.458995,
     "geom:longitude":-86.521071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1072 Arrowhead Dr",
     "sg:city":"Prattville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152563177,
-    "wof:lastmodified":1449044369,
+    "wof:lastmodified":1466318645,
     "wof:name":"George D King",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.521071,32.458995,-86.521071,32.458995],
-  "geometry": {"coordinates":[-86.521071,32.458995],"type":"Point"}
+  "bbox": [
+    -86.521071,
+    32.458995,
+    -86.521071,
+    32.458995
+],
+  "geometry": {"coordinates":[-86.52107100000001,32.458995],"type":"Point"}
 }

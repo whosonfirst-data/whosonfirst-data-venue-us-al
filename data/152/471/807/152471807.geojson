@@ -2,13 +2,14 @@
   "id": 152471807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.872577,33.5083,-86.872577,33.5083",
     "geom:latitude":33.5083,
     "geom:longitude":-86.872577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2720 20th Pl",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847929,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85847929
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152471807,
-    "wof:lastmodified":1449046161,
+    "wof:lastmodified":1466318189,
     "wof:name":"Broadnax Casket Co",
     "wof:parent_id":85847929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.872577,33.5083,-86.872577,33.5083],
-  "geometry": {"coordinates":[-86.872577,33.5083],"type":"Point"}
+  "bbox": [
+    -86.872577,
+    33.5083,
+    -86.872577,
+    33.5083
+],
+  "geometry": {"coordinates":[-86.87257700000001,33.5083],"type":"Point"}
 }

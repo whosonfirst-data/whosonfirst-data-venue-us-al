@@ -2,13 +2,14 @@
   "id": 152380205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.728359,33.560957,-86.728359,33.560957",
     "geom:latitude":33.560957,
     "geom:longitude":-86.728359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Oporto Madrid Blvd N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816499,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85816499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152380205,
-    "wof:lastmodified":1449046453,
+    "wof:lastmodified":1466317702,
     "wof:name":"Sign Shop LLC",
     "wof:parent_id":85816499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.728359,33.560957,-86.728359,33.560957],
+  "bbox": [
+    -86.728359,
+    33.560957,
+    -86.728359,
+    33.560957
+],
   "geometry": {"coordinates":[-86.728359,33.560957],"type":"Point"}
 }

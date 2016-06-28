@@ -2,13 +2,14 @@
   "id": 152136475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.800287,34.845297,-87.800287,34.845297",
     "geom:latitude":34.845297,
     "geom:longitude":-87.800287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24059 Co Rd 14",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152136475,
-    "wof:lastmodified":1449048838,
+    "wof:lastmodified":1466315305,
     "wof:name":"LLT",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.800287,34.845297,-87.800287,34.845297],
+  "bbox": [
+    -87.800287,
+    34.845297,
+    -87.800287,
+    34.845297
+],
   "geometry": {"coordinates":[-87.800287,34.845297],"type":"Point"}
 }

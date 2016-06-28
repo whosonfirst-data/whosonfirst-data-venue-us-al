@@ -2,13 +2,14 @@
   "id": 152391615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.253033,34.526973,-86.253033,34.526973",
     "geom:latitude":34.526973,
     "geom:longitude":-86.253033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5379 Main St",
     "sg:city":"Grant",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085513,
-        85633793,
         85688675,
-        85851677
+        85633793,
+        85851677,
+        102085513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152391615,
-    "wof:lastmodified":1449047253,
+    "wof:lastmodified":1466317801,
     "wof:name":"Grant Public Library",
     "wof:parent_id":85851677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.253033,34.526973,-86.253033,34.526973],
+  "bbox": [
+    -86.253033,
+    34.526973,
+    -86.253033,
+    34.526973
+],
   "geometry": {"coordinates":[-86.253033,34.526973],"type":"Point"}
 }

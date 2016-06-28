@@ -2,13 +2,14 @@
   "id": 152683293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.397179,32.661077,-85.397179,32.661077",
     "geom:latitude":32.661077,
     "geom:longitude":-85.397179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 Oak Bowery Rd",
     "sg:city":"Opelika",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85857153,
+        85688675,
         85633793,
         85913815,
         102085751,
-        85688675,
+        85857153,
         85819517
     ],
     "wof:breaches":[],
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":152683293,
-    "wof:lastmodified":1449046003,
+    "wof:lastmodified":1466319243,
     "wof:name":"Custom Built By Sutton LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.397179,32.661077,-85.397179,32.661077],
-  "geometry": {"coordinates":[-85.397179,32.661077],"type":"Point"}
+  "bbox": [
+    -85.397179,
+    32.661077,
+    -85.397179,
+    32.661077
+],
+  "geometry": {"coordinates":[-85.39717899999999,32.661077],"type":"Point"}
 }

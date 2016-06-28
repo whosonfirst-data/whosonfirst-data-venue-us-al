@@ -2,13 +2,14 @@
   "id": 152887713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.110503,30.757224,-88.110503,30.757224",
     "geom:latitude":30.757224,
     "geom:longitude":-88.110503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"151 S Gould Ave",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85857413,
+        85688675,
         85633793,
         85913741,
         102085585,
-        85688675
+        85857413
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152887713,
-    "wof:lastmodified":1449048009,
+    "wof:lastmodified":1466320266,
     "wof:name":"Johnson Malachi",
     "wof:parent_id":85857413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.110503,30.757224,-88.110503,30.757224],
-  "geometry": {"coordinates":[-88.110503,30.757224],"type":"Point"}
+  "bbox": [
+    -88.110503,
+    30.757224,
+    -88.110503,
+    30.757224
+],
+  "geometry": {"coordinates":[-88.11050299999999,30.757224],"type":"Point"}
 }

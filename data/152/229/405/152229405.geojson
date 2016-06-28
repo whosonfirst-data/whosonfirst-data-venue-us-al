@@ -2,13 +2,14 @@
   "id": 152229405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.995127,34.140573,-87.995127,34.140573",
     "geom:latitude":34.140573,
     "geom:longitude":-87.995127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"553 3rd Ave SW",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152229405,
-    "wof:lastmodified":1449047985,
+    "wof:lastmodified":1466316303,
     "wof:name":"Byrd Nest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.995127,34.140573,-87.995127,34.140573],
+  "bbox": [
+    -87.995127,
+    34.140573,
+    -87.995127,
+    34.140573
+],
   "geometry": {"coordinates":[-87.995127,34.140573],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152418183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.321794,31.515548,-87.321794,31.515548",
     "geom:latitude":31.515548,
     "geom:longitude":-87.321794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"876 Alabama Ave",
     "sg:city":"Monroeville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152418183,
-    "wof:lastmodified":1449047919,
+    "wof:lastmodified":1466317901,
     "wof:name":"My Favorite Things",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.321794,31.515548,-87.321794,31.515548],
+  "bbox": [
+    -87.321794,
+    31.515548,
+    -87.321794,
+    31.515548
+],
   "geometry": {"coordinates":[-87.321794,31.515548],"type":"Point"}
 }

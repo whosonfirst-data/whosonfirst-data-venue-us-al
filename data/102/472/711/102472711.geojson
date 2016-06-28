@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102472711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.217537,32.381699,-86.217537,32.381699",
     "geom:latitude":32.381699,
     "geom:longitude":-86.217537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5246 Atlanta Hwy",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834995,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85834995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102472711,
-    "wof:lastmodified":1449067983,
+    "wof:lastmodified":1466315379,
     "wof:name":"Woodwares",
     "wof:parent_id":85834995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.217537,32.381699,-86.217537,32.381699],
-  "geometry": {"coordinates":[-86.217537,32.381699],"type":"Point"}
+  "bbox": [
+    -86.217537,
+    32.381699,
+    -86.217537,
+    32.381699
+],
+  "geometry": {"coordinates":[-86.21753699999999,32.381699],"type":"Point"}
 }

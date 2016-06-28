@@ -2,13 +2,14 @@
   "id": 152896465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.976291,34.552432,-86.976291,34.552432",
     "geom:latitude":34.552432,
     "geom:longitude":-86.976291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 Cedar Lake Rd SE",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85804905,
+        85688675,
         85633793,
         85913589,
         102085531,
-        85688675
+        85804905
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152896465,
-    "wof:lastmodified":1449045996,
+    "wof:lastmodified":1466320302,
     "wof:name":"Workers Compensation Guaranty",
     "wof:parent_id":85804905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.976291,34.552432,-86.976291,34.552432],
+  "bbox": [
+    -86.976291,
+    34.552432,
+    -86.976291,
+    34.552432
+],
   "geometry": {"coordinates":[-86.976291,34.552432],"type":"Point"}
 }

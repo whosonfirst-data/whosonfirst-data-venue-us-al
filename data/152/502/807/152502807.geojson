@@ -2,13 +2,14 @@
   "id": 152502807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.710245,34.765955,-87.710245,34.765955",
     "geom:latitude":34.765955,
     "geom:longitude":-87.710245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"615 River Bluff Dr",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -35,11 +36,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858837,
+        85688675,
         85633793,
         85897473,
         102085625,
-        85688675
+        85858837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":152502807,
-    "wof:lastmodified":1449046428,
+    "wof:lastmodified":1466318372,
     "wof:name":"Southern Wood Fiber Inc",
     "wof:parent_id":85858837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.710245,34.765955,-87.710245,34.765955],
+  "bbox": [
+    -87.710245,
+    34.765955,
+    -87.710245,
+    34.765955
+],
   "geometry": {"coordinates":[-87.710245,34.765955],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152843999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.630408,34.904067,-85.630408,34.904067",
     "geom:latitude":34.904067,
     "geom:longitude":-85.630408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4587 State Rte 73",
     "sg:city":"Bryant",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085607,
-        85633793,
         85688675,
-        85804739
+        85633793,
+        85804739,
+        102085607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152843999,
-    "wof:lastmodified":1449044714,
+    "wof:lastmodified":1466320091,
     "wof:name":"Bryant Primary Health Center",
     "wof:parent_id":85804739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.630408,34.904067,-85.630408,34.904067],
+  "bbox": [
+    -85.630408,
+    34.904067,
+    -85.630408,
+    34.904067
+],
   "geometry": {"coordinates":[-85.630408,34.904067],"type":"Point"}
 }

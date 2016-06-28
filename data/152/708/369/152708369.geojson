@@ -2,13 +2,14 @@
   "id": 152708369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.633856,33.294123,-87.633856,33.294123",
     "geom:latitude":33.294123,
     "geom:longitude":-87.633856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13000 Old Cove Rd",
     "sg:city":"Northport",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":152708369,
-    "wof:lastmodified":1449045034,
+    "wof:lastmodified":1466319384,
     "wof:name":"Hidden Meadows Golf Course",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.633856,33.294123,-87.633856,33.294123],
-  "geometry": {"coordinates":[-87.633856,33.294123],"type":"Point"}
+  "bbox": [
+    -87.633856,
+    33.294123,
+    -87.633856,
+    33.294123
+],
+  "geometry": {"coordinates":[-87.63385599999999,33.294123],"type":"Point"}
 }

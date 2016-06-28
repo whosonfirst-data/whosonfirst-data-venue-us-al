@@ -2,13 +2,14 @@
   "id": 152370191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.800599,33.396805,-86.800599,33.396805",
     "geom:latitude":33.396805,
     "geom:longitude":-86.800599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3249 Lorna Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152370191,
-    "wof:lastmodified":1449046824,
+    "wof:lastmodified":1466317681,
     "wof:name":"Hoover Animal Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.800599,33.396805,-86.800599,33.396805],
-  "geometry": {"coordinates":[-86.800599,33.396805],"type":"Point"}
+  "bbox": [
+    -86.800599,
+    33.396805,
+    -86.800599,
+    33.396805
+],
+  "geometry": {"coordinates":[-86.80059900000001,33.396805],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152549747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.305421,32.367268,-86.305421,32.367268",
     "geom:latitude":32.367268,
     "geom:longitude":-86.305421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"380 Arba St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879037,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152549747,
-    "wof:lastmodified":1449045571,
+    "wof:lastmodified":1466318716,
     "wof:name":"Montgomery Office Equipment",
     "wof:parent_id":85879037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.305421,32.367268,-86.305421,32.367268],
+  "bbox": [
+    -86.305421,
+    32.367268,
+    -86.305421,
+    32.367268
+],
   "geometry": {"coordinates":[-86.305421,32.367268],"type":"Point"}
 }

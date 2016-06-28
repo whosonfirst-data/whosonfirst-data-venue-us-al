@@ -2,13 +2,14 @@
   "id": 152206423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.138861,34.170863,-86.138861,34.170863",
     "geom:latitude":34.170863,
     "geom:longitude":-86.138861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Sardis Dr",
     "sg:city":"Boaz",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085545,
-        85633793,
         85688675,
-        85851221
+        85633793,
+        85851221,
+        102085545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152206423,
-    "wof:lastmodified":1449047437,
+    "wof:lastmodified":1466316016,
     "wof:name":"Millers Carpet & Tile",
     "wof:parent_id":85851221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.138861,34.170863,-86.138861,34.170863],
-  "geometry": {"coordinates":[-86.138861,34.170863],"type":"Point"}
+  "bbox": [
+    -86.138861,
+    34.170863,
+    -86.138861,
+    34.170863
+],
+  "geometry": {"coordinates":[-86.13886100000001,34.170863],"type":"Point"}
 }

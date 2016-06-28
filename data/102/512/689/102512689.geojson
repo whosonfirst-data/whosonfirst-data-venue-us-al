@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102512689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.185912,32.339305,-86.185912,32.339305",
     "geom:latitude":32.339305,
     "geom:longitude":-86.185912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6431 Applewood Ct",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879051,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102512689,
-    "wof:lastmodified":1449069551,
+    "wof:lastmodified":1466317015,
     "wof:name":"Custard Veterinary Svc",
     "wof:parent_id":85879051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.185912,32.339305,-86.185912,32.339305],
+  "bbox": [
+    -86.185912,
+    32.339305,
+    -86.185912,
+    32.339305
+],
   "geometry": {"coordinates":[-86.185912,32.339305],"type":"Point"}
 }

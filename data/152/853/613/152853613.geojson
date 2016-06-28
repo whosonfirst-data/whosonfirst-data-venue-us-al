@@ -2,13 +2,14 @@
   "id": 152853613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.312528,34.322466,-86.312528,34.322466",
     "geom:latitude":34.322466,
     "geom:longitude":-86.312528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14340 US Hwy 431",
     "sg:city":"Guntersville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829421,
+        85688675,
         85633793,
         85899833,
         102085513,
-        85688675
+        85829421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152853613,
-    "wof:lastmodified":1449046171,
+    "wof:lastmodified":1466320125,
     "wof:name":"Navids Conoco",
     "wof:parent_id":85829421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.312528,34.322466,-86.312528,34.322466],
+  "bbox": [
+    -86.312528,
+    34.322466,
+    -86.312528,
+    34.322466
+],
   "geometry": {"coordinates":[-86.312528,34.322466],"type":"Point"}
 }

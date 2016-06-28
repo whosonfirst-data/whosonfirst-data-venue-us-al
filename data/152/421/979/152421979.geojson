@@ -2,13 +2,14 @@
   "id": 152421979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.700442,34.275773,-87.700442,34.275773",
     "geom:latitude":34.275773,
     "geom:longitude":-87.700442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"335 Main St",
     "sg:city":"Bear Creek",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152421979,
-    "wof:lastmodified":1449047231,
+    "wof:lastmodified":1466317984,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.700442,34.275773,-87.700442,34.275773],
+  "bbox": [
+    -87.700442,
+    34.275773,
+    -87.700442,
+    34.275773
+],
   "geometry": {"coordinates":[-87.700442,34.275773],"type":"Point"}
 }

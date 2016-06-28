@@ -2,13 +2,14 @@
   "id": 152851179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.732824,33.536549,-86.732824,33.536549",
     "geom:latitude":33.536549,
     "geom:longitude":-86.732824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6853 6th Ct S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850695,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85850695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152851179,
-    "wof:lastmodified":1449047342,
+    "wof:lastmodified":1466320101,
     "wof:name":"New Community Baptist Church",
     "wof:parent_id":85850695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.732824,33.536549,-86.732824,33.536549],
-  "geometry": {"coordinates":[-86.732824,33.536549],"type":"Point"}
+  "bbox": [
+    -86.732824,
+    33.536549,
+    -86.732824,
+    33.536549
+],
+  "geometry": {"coordinates":[-86.73282399999999,33.536549],"type":"Point"}
 }

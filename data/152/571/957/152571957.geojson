@@ -2,13 +2,14 @@
   "id": 152571957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.21602,32.548015,-86.21602,32.548015",
     "geom:latitude":32.548015,
     "geom:longitude":-86.21602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"765 Kelly Fitzpatrick Dr",
     "sg:city":"Wetumpka",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806527,
+        85688675,
         85633793,
         85913951,
         102085631,
-        85688675
+        85806527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152571957,
-    "wof:lastmodified":1449047459,
+    "wof:lastmodified":1466318746,
     "wof:name":"Teel Tooling & Manufacturing I",
     "wof:parent_id":85806527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.21602,32.548015,-86.21602,32.548015],
+  "bbox": [
+    -86.21602,
+    32.548015,
+    -86.21602,
+    32.548015
+],
   "geometry": {"coordinates":[-86.21602,32.548015],"type":"Point"}
 }

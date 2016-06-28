@@ -2,13 +2,14 @@
   "id": 152616667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.001531,34.010034,-86.001531,34.010034",
     "geom:latitude":34.010034,
     "geom:longitude":-86.001531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Commerce Sq",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822279,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85822279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152616667,
-    "wof:lastmodified":1449047699,
+    "wof:lastmodified":1466318938,
     "wof:name":"Physician's Who Care-Northeast",
     "wof:parent_id":85822279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.001531,34.010034,-86.001531,34.010034],
+  "bbox": [
+    -86.001531,
+    34.010034,
+    -86.001531,
+    34.010034
+],
   "geometry": {"coordinates":[-86.001531,34.010034],"type":"Point"}
 }

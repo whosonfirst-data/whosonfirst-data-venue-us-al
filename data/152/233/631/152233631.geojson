@@ -2,13 +2,14 @@
   "id": 152233631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.993038,32.634688,-85.993038,32.634688",
     "geom:latitude":32.634688,
     "geom:longitude":-85.993038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Dunn Adams Rd",
     "sg:city":"Eclectic",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827623,
+        85688675,
         85633793,
         85913291,
         102085631,
-        85688675
+        85827623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152233631,
-    "wof:lastmodified":1449048970,
+    "wof:lastmodified":1466316360,
     "wof:name":"Eagle Buildings",
     "wof:parent_id":85827623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.993038,32.634688,-85.993038,32.634688],
+  "bbox": [
+    -85.993038,
+    32.634688,
+    -85.993038,
+    32.634688
+],
   "geometry": {"coordinates":[-85.993038,32.634688],"type":"Point"}
 }

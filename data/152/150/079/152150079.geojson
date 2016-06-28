@@ -2,13 +2,14 @@
   "id": 152150079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.23855,32.34686,-86.23855,32.34686",
     "geom:latitude":32.34686,
     "geom:longitude":-86.23855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1925 Worley Ln",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85839481,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85839481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152150079,
-    "wof:lastmodified":1449044356,
+    "wof:lastmodified":1466314541,
     "wof:name":"Narmour Plumbing Inc",
     "wof:parent_id":85839481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.23855,32.34686,-86.23855,32.34686],
+  "bbox": [
+    -86.23855,
+    32.34686,
+    -86.23855,
+    32.34686
+],
   "geometry": {"coordinates":[-86.23855,32.34686],"type":"Point"}
 }

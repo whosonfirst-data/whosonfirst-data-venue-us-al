@@ -2,13 +2,14 @@
   "id": 152686509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.950696,32.949486,-85.950696,32.949486",
     "geom:latitude":32.949486,
     "geom:longitude":-85.950696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"397 Circle Dr",
     "sg:city":"Alexander City",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840481,
+        85688675,
         85633793,
         85913363,
         102085567,
-        85688675
+        85840481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152686509,
-    "wof:lastmodified":1449047794,
+    "wof:lastmodified":1466319255,
     "wof:name":"Brooks Painting William L",
     "wof:parent_id":85840481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.950696,32.949486,-85.950696,32.949486],
-  "geometry": {"coordinates":[-85.950696,32.949486],"type":"Point"}
+  "bbox": [
+    -85.950696,
+    32.949486,
+    -85.950696,
+    32.949486
+],
+  "geometry": {"coordinates":[-85.95069599999999,32.949486],"type":"Point"}
 }

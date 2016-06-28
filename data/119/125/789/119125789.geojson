@@ -2,13 +2,14 @@
   "id": 119125789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.825602,33.266632,-86.825602,33.266632",
     "geom:latitude":33.266632,
     "geom:longitude":-86.825602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1549 Napoleon Dr",
     "sg:city":"Alabaster",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828267,
+        85688675,
         85633793,
         85914501,
         102085499,
-        85688675
+        85828267
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":119125789,
-    "wof:lastmodified":1449043467,
+    "wof:lastmodified":1466314376,
     "wof:name":"Jack Of All Trades",
     "wof:parent_id":85828267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.825602,33.266632,-86.825602,33.266632],
+  "bbox": [
+    -86.825602,
+    33.266632,
+    -86.825602,
+    33.266632
+],
   "geometry": {"coordinates":[-86.825602,33.266632],"type":"Point"}
 }

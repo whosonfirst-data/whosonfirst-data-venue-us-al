@@ -2,13 +2,14 @@
   "id": 152206385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.519174,33.094301,-86.519174,33.094301",
     "geom:latitude":33.094301,
     "geom:longitude":-86.519174,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Beach Ln",
     "sg:city":"Shelby",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825591,
+        85688675,
         85633793,
         85914497,
         102085499,
-        85688675
+        85825591
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152206385,
-    "wof:lastmodified":1449047439,
+    "wof:lastmodified":1466316014,
     "wof:name":"Schofield & Schofield",
     "wof:parent_id":85825591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.519174,33.094301,-86.519174,33.094301],
-  "geometry": {"coordinates":[-86.519174,33.094301],"type":"Point"}
+  "bbox": [
+    -86.519174,
+    33.094301,
+    -86.519174,
+    33.094301
+],
+  "geometry": {"coordinates":[-86.51917400000001,33.094301],"type":"Point"}
 }

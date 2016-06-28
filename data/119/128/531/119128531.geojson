@@ -2,13 +2,14 @@
   "id": 119128531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.58871,33.235157,-87.58871,33.235157",
     "geom:latitude":33.235157,
     "geom:longitude":-87.58871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2620 Main Ave",
     "sg:city":"Northport",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805585,
+        85688675,
         85633793,
         85914425,
         102085553,
-        85688675
+        85805585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":119128531,
-    "wof:lastmodified":1449041791,
+    "wof:lastmodified":1466314475,
     "wof:name":"W Mitchun Pump Co LLC",
     "wof:parent_id":85805585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.58871,33.235157,-87.58871,33.235157],
-  "geometry": {"coordinates":[-87.58871,33.235157],"type":"Point"}
+  "bbox": [
+    -87.58871,
+    33.235157,
+    -87.58871,
+    33.235157
+],
+  "geometry": {"coordinates":[-87.58871000000001,33.235157],"type":"Point"}
 }

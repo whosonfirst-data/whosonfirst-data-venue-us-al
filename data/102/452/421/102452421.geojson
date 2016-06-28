@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102452421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.704326,33.632368,-86.704326,33.632368",
     "geom:latitude":33.632368,
     "geom:longitude":-86.704326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1816 Marlin Springs Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851413,
+        85688675,
         85633793,
         85914903,
         102085481,
-        85688675
+        85851413
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102452421,
-    "wof:lastmodified":1449068368,
+    "wof:lastmodified":1466314723,
     "wof:name":"Successstory LLC",
     "wof:parent_id":85851413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.704326,33.632368,-86.704326,33.632368],
-  "geometry": {"coordinates":[-86.704326,33.632368],"type":"Point"}
+  "bbox": [
+    -86.704326,
+    33.632368,
+    -86.704326,
+    33.632368
+],
+  "geometry": {"coordinates":[-86.70432599999999,33.632368],"type":"Point"}
 }

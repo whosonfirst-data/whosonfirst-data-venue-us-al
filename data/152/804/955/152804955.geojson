@@ -2,13 +2,14 @@
   "id": 152804955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.592193,30.290355,-87.592193,30.290355",
     "geom:latitude":30.290355,
     "geom:longitude":-87.592193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25187 Canal Rd",
     "sg:city":"Orange Beach",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868551,
+        85688675,
         85633793,
         85914719,
         102085469,
-        85688675
+        85868551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152804955,
-    "wof:lastmodified":1449047517,
+    "wof:lastmodified":1466319915,
     "wof:name":"Beach Barn II",
     "wof:parent_id":85868551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.592193,30.290355,-87.592193,30.290355],
-  "geometry": {"coordinates":[-87.592193,30.290355],"type":"Point"}
+  "bbox": [
+    -87.592193,
+    30.290355,
+    -87.592193,
+    30.290355
+],
+  "geometry": {"coordinates":[-87.59219299999999,30.290355],"type":"Point"}
 }

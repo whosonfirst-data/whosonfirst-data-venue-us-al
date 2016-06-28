@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102458551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.199328,32.38366,-86.199328,32.38366",
     "geom:latitude":32.38366,
     "geom:longitude":-86.199328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 N Burbank Dr",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834995,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85834995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":102458551,
-    "wof:lastmodified":1449069517,
+    "wof:lastmodified":1466314956,
     "wof:name":"Premiere Video Superstore",
     "wof:parent_id":85834995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.199328,32.38366,-86.199328,32.38366],
-  "geometry": {"coordinates":[-86.199328,32.38366],"type":"Point"}
+  "bbox": [
+    -86.199328,
+    32.38366,
+    -86.199328,
+    32.38366
+],
+  "geometry": {"coordinates":[-86.19932799999999,32.38366],"type":"Point"}
 }

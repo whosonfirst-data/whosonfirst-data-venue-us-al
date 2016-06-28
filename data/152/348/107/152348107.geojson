@@ -2,13 +2,14 @@
   "id": 152348107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.495611,34.816493,-86.495611,34.816493",
     "geom:latitude":34.816493,
     "geom:longitude":-86.495611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2123 Winchester Rd NE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852127,
+        85688675,
         85633793,
         85915397,
         102085487,
-        85688675
+        85852127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152348107,
-    "wof:lastmodified":1449044490,
+    "wof:lastmodified":1466317563,
     "wof:name":"Morris Chapel Church",
     "wof:parent_id":85852127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.495611,34.816493,-86.495611,34.816493],
+  "bbox": [
+    -86.495611,
+    34.816493,
+    -86.495611,
+    34.816493
+],
   "geometry": {"coordinates":[-86.495611,34.816493],"type":"Point"}
 }

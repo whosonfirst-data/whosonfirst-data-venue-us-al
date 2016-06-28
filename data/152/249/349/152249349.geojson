@@ -2,13 +2,14 @@
   "id": 152249349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.830087,33.506854,-86.830087,33.506854",
     "geom:latitude":33.506854,
     "geom:longitude":-86.830087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"314 3rd Ave N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152249349,
-    "wof:lastmodified":1449044536,
+    "wof:lastmodified":1466316533,
     "wof:name":"I B S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.830087,33.506854,-86.830087,33.506854],
-  "geometry": {"coordinates":[-86.830087,33.506854],"type":"Point"}
+  "bbox": [
+    -86.830087,
+    33.506854,
+    -86.830087,
+    33.506854
+],
+  "geometry": {"coordinates":[-86.83008700000001,33.506854],"type":"Point"}
 }

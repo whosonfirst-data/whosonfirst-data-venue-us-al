@@ -2,13 +2,14 @@
   "id": 152189949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.613716,33.944082,-85.613716,33.944082",
     "geom:latitude":33.944082,
     "geom:longitude":-85.613716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"761 James St",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817157,
+        85688675,
         85633793,
         85914293,
         102085603,
-        85688675
+        85817157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152189949,
-    "wof:lastmodified":1449047566,
+    "wof:lastmodified":1466315671,
     "wof:name":"Precision Machine",
     "wof:parent_id":85817157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.613716,33.944082,-85.613716,33.944082],
+  "bbox": [
+    -85.613716,
+    33.944082,
+    -85.613716,
+    33.944082
+],
   "geometry": {"coordinates":[-85.613716,33.944082],"type":"Point"}
 }

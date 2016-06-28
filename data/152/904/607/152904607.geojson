@@ -2,13 +2,14 @@
   "id": 152904607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.181362,30.680167,-88.181362,30.680167",
     "geom:latitude":30.680167,
     "geom:longitude":-88.181362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"617 Shenandoah Rd W",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895799,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85895799
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152904607,
-    "wof:lastmodified":1449048995,
+    "wof:lastmodified":1466320359,
     "wof:name":"Kendrel M Helton Dr",
     "wof:parent_id":85895799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.181362,30.680167,-88.181362,30.680167],
-  "geometry": {"coordinates":[-88.181362,30.680167],"type":"Point"}
+  "bbox": [
+    -88.181362,
+    30.680167,
+    -88.181362,
+    30.680167
+],
+  "geometry": {"coordinates":[-88.18136199999999,30.680167],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102504813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.893098,33.510396,-86.893098,33.510396",
     "geom:latitude":33.510396,
     "geom:longitude":-86.893098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 Ave I",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818187,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85818187
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102504813,
-    "wof:lastmodified":1449068231,
+    "wof:lastmodified":1466316674,
     "wof:name":"Parker Limousine Service",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.893098,33.510396,-86.893098,33.510396],
-  "geometry": {"coordinates":[-86.893098,33.510396],"type":"Point"}
+  "bbox": [
+    -86.893098,
+    33.510396,
+    -86.893098,
+    33.510396
+],
+  "geometry": {"coordinates":[-86.89309799999999,33.510396],"type":"Point"}
 }

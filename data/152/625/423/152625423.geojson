@@ -2,13 +2,14 @@
   "id": 152625423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.422214,31.255938,-85.422214,31.255938",
     "geom:latitude":31.255938,
     "geom:longitude":-85.422214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2104 Centenial Dr",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851339,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85851339
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152625423,
-    "wof:lastmodified":1449048964,
+    "wof:lastmodified":1466318976,
     "wof:name":"Air Force Sergeants Assn",
     "wof:parent_id":85851339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.422214,31.255938,-85.422214,31.255938],
+  "bbox": [
+    -85.422214,
+    31.255938,
+    -85.422214,
+    31.255938
+],
   "geometry": {"coordinates":[-85.422214,31.255938],"type":"Point"}
 }

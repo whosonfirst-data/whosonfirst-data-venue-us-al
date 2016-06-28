@@ -2,13 +2,14 @@
   "id": 152884331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.545668,33.115636,-87.545668,33.115636",
     "geom:latitude":33.115636,
     "geom:longitude":-87.545668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"645 Haymarket Ln",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085553,
-        85633793,
         85688675,
-        85851887
+        85633793,
+        85851887,
+        102085553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152884331,
-    "wof:lastmodified":1449048027,
+    "wof:lastmodified":1466320388,
     "wof:name":"Estes Health Services Inc",
     "wof:parent_id":85851887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.545668,33.115636,-87.545668,33.115636],
-  "geometry": {"coordinates":[-87.545668,33.115636],"type":"Point"}
+  "bbox": [
+    -87.545668,
+    33.115636,
+    -87.545668,
+    33.115636
+],
+  "geometry": {"coordinates":[-87.54566800000001,33.115636],"type":"Point"}
 }

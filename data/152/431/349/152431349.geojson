@@ -2,13 +2,14 @@
   "id": 152431349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.572801,33.589035,-86.572801,33.589035",
     "geom:latitude":33.589035,
     "geom:longitude":-86.572801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7389 Gasline Rd",
     "sg:city":"Trussville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847425,
+        85688675,
         85633793,
         85913477,
         102085481,
-        85688675
+        85847425
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152431349,
-    "wof:lastmodified":1449044926,
+    "wof:lastmodified":1466318085,
     "wof:name":"Utilities Board",
     "wof:parent_id":85847425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.572801,33.589035,-86.572801,33.589035],
+  "bbox": [
+    -86.572801,
+    33.589035,
+    -86.572801,
+    33.589035
+],
   "geometry": {"coordinates":[-86.572801,33.589035],"type":"Point"}
 }

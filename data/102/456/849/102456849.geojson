@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102456849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.897633,30.633134,-87.897633,30.633134",
     "geom:latitude":30.633134,
     "geom:longitude":-87.897633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7124 Carl Davis Rd",
     "sg:city":"Daphne",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840537,
+        85688675,
         85633793,
         85914695,
         102085469,
-        85688675
+        85840537
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102456849,
-    "wof:lastmodified":1449068494,
+    "wof:lastmodified":1466314961,
     "wof:name":"Davis Electric Service",
     "wof:parent_id":85840537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.897633,30.633134,-87.897633,30.633134],
+  "bbox": [
+    -87.897633,
+    30.633134,
+    -87.897633,
+    30.633134
+],
   "geometry": {"coordinates":[-87.897633,30.633134],"type":"Point"}
 }

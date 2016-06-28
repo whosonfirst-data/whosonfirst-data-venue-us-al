@@ -2,13 +2,14 @@
   "id": 152677399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.103044,33.881216,-86.103044,33.881216",
     "geom:latitude":33.881216,
     "geom:longitude":-86.103044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Vada Dr",
     "sg:city":"Rainbow City",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085545,
-        85633793,
         85688675,
-        85839341
+        85633793,
+        85839341,
+        102085545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152677399,
-    "wof:lastmodified":1449045972,
+    "wof:lastmodified":1466319250,
     "wof:name":"Rainbow Electric Inc",
     "wof:parent_id":85839341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.103044,33.881216,-86.103044,33.881216],
+  "bbox": [
+    -86.103044,
+    33.881216,
+    -86.103044,
+    33.881216
+],
   "geometry": {"coordinates":[-86.103044,33.881216],"type":"Point"}
 }

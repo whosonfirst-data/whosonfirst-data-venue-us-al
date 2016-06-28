@@ -2,13 +2,14 @@
   "id": 152808653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.740981,33.547619,-86.740981,33.547619",
     "geom:latitude":33.547619,
     "geom:longitude":-86.740981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6441 Division Ave",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858829,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85858829
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152808653,
-    "wof:lastmodified":1449044516,
+    "wof:lastmodified":1466319901,
     "wof:name":"Birmingham Fence Co Inc",
     "wof:parent_id":85858829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.740981,33.547619,-86.740981,33.547619],
+  "bbox": [
+    -86.740981,
+    33.547619,
+    -86.740981,
+    33.547619
+],
   "geometry": {"coordinates":[-86.740981,33.547619],"type":"Point"}
 }

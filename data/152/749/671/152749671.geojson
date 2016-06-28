@@ -2,13 +2,14 @@
   "id": 152749671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.956781,34.781442,-86.956781,34.781442",
     "geom:latitude":34.781442,
     "geom:longitude":-86.956781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 US Hwy 31",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811513,
+        85688675,
         85633793,
         85913543,
         102085489,
-        85688675
+        85811513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152749671,
-    "wof:lastmodified":1449045615,
+    "wof:lastmodified":1466319712,
     "wof:name":"Bomar Inn",
     "wof:parent_id":85811513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.956781,34.781442,-86.956781,34.781442],
-  "geometry": {"coordinates":[-86.956781,34.781442],"type":"Point"}
+  "bbox": [
+    -86.956781,
+    34.781442,
+    -86.956781,
+    34.781442
+],
+  "geometry": {"coordinates":[-86.95678100000001,34.781442],"type":"Point"}
 }

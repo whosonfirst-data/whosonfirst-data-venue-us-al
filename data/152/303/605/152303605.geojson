@@ -2,13 +2,14 @@
   "id": 152303605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.538361,33.16661,-87.538361,33.16661",
     "geom:latitude":33.16661,
     "geom:longitude":-87.538361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"246 Skyland Blvd",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152303605,
-    "wof:lastmodified":1449044338,
+    "wof:lastmodified":1466317236,
     "wof:name":"Dockins Motor Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.538361,33.16661,-87.538361,33.16661],
-  "geometry": {"coordinates":[-87.538361,33.16661],"type":"Point"}
+  "bbox": [
+    -87.538361,
+    33.16661,
+    -87.538361,
+    33.16661
+],
+  "geometry": {"coordinates":[-87.53836099999999,33.16661],"type":"Point"}
 }

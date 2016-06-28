@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102470849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.106899,30.66456,-88.106899,30.66456",
     "geom:latitude":30.66456,
     "geom:longitude":-88.106899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2691 Government Blvd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808003,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85808003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102470849,
-    "wof:lastmodified":1449068372,
+    "wof:lastmodified":1466315341,
     "wof:name":"Bob Rouillier Motors",
     "wof:parent_id":85808003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.106899,30.66456,-88.106899,30.66456],
+  "bbox": [
+    -88.106899,
+    30.66456,
+    -88.106899,
+    30.66456
+],
   "geometry": {"coordinates":[-88.106899,30.66456],"type":"Point"}
 }

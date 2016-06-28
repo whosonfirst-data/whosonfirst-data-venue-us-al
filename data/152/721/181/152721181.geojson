@@ -2,13 +2,14 @@
   "id": 152721181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.752141,33.837554,-85.752141,33.837554",
     "geom:latitude":33.837554,
     "geom:longitude":-85.752141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"598 Laura Ln NE",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817157,
+        85688675,
         85633793,
         85914293,
         102085603,
-        85688675
+        85817157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152721181,
-    "wof:lastmodified":1449048892,
+    "wof:lastmodified":1466319525,
     "wof:name":"BHA Group Inc",
     "wof:parent_id":85817157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.752141,33.837554,-85.752141,33.837554],
-  "geometry": {"coordinates":[-85.752141,33.837554],"type":"Point"}
+  "bbox": [
+    -85.752141,
+    33.837554,
+    -85.752141,
+    33.837554
+],
+  "geometry": {"coordinates":[-85.75214099999999,33.837554],"type":"Point"}
 }

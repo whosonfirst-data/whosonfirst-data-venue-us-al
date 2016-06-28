@@ -2,13 +2,14 @@
   "id": 152336161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.898898,30.643407,-87.898898,30.643407",
     "geom:latitude":30.643407,
     "geom:longitude":-87.898898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"184 Country Club Dr",
     "sg:city":"Daphne",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840537,
+        85688675,
         85633793,
         85914695,
         102085469,
-        85688675
+        85840537
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152336161,
-    "wof:lastmodified":1449044192,
+    "wof:lastmodified":1466317424,
     "wof:name":"Novus Windshield Repair",
     "wof:parent_id":85840537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.898898,30.643407,-87.898898,30.643407],
+  "bbox": [
+    -87.898898,
+    30.643407,
+    -87.898898,
+    30.643407
+],
   "geometry": {"coordinates":[-87.898898,30.643407],"type":"Point"}
 }

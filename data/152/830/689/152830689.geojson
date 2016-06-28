@@ -2,13 +2,14 @@
   "id": 152830689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.781719,33.824683,-85.781719,33.824683",
     "geom:latitude":33.824683,
     "geom:longitude":-85.781719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8464 State Rte 204",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.cootersribs.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805945,
+        85688675,
         85633793,
         85914293,
         102085603,
-        85688675
+        85805945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152830689,
-    "wof:lastmodified":1449045287,
+    "wof:lastmodified":1466320131,
     "wof:name":"Cooter Browns Rib Shack L",
     "wof:parent_id":85805945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.781719,33.824683,-85.781719,33.824683],
+  "bbox": [
+    -85.781719,
+    33.824683,
+    -85.781719,
+    33.824683
+],
   "geometry": {"coordinates":[-85.781719,33.824683],"type":"Point"}
 }

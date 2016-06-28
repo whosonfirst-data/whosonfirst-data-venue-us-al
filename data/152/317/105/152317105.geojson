@@ -2,13 +2,14 @@
   "id": 152317105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.133173,30.669136,-88.133173,30.669136",
     "geom:latitude":30.669136,
     "geom:longitude":-88.133173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1224 Montlimar Dr",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878955,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152317105,
-    "wof:lastmodified":1449046425,
+    "wof:lastmodified":1466317259,
     "wof:name":"Baehrs Automotive Service Ctr",
     "wof:parent_id":85878955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.133173,30.669136,-88.133173,30.669136],
+  "bbox": [
+    -88.133173,
+    30.669136,
+    -88.133173,
+    30.669136
+],
   "geometry": {"coordinates":[-88.133173,30.669136],"type":"Point"}
 }

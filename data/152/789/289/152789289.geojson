@@ -2,13 +2,14 @@
   "id": 152789289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.085088,30.676601,-88.085088,30.676601",
     "geom:latitude":30.676601,
     "geom:longitude":-88.085088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1908 Government St",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878975,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878975
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152789289,
-    "wof:lastmodified":1449046396,
+    "wof:lastmodified":1466319783,
     "wof:name":"Ulmer Hillman & Ballard PC",
     "wof:parent_id":85878975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.085088,30.676601,-88.085088,30.676601],
+  "bbox": [
+    -88.085088,
+    30.676601,
+    -88.085088,
+    30.676601
+],
   "geometry": {"coordinates":[-88.085088,30.676601],"type":"Point"}
 }

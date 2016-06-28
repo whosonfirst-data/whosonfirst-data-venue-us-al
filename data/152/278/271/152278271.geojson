@@ -2,13 +2,14 @@
   "id": 152278271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.668162,34.797742,-87.668162,34.797742",
     "geom:latitude":34.797742,
     "geom:longitude":-87.668162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"426 Veterans Dr",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848857,
+        85688675,
         85633793,
         85914011,
         102085527,
-        85688675
+        85848857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152278271,
-    "wof:lastmodified":1449046852,
+    "wof:lastmodified":1466316925,
     "wof:name":"CCI Triad Compass Comms",
     "wof:parent_id":85848857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.668162,34.797742,-87.668162,34.797742],
+  "bbox": [
+    -87.668162,
+    34.797742,
+    -87.668162,
+    34.797742
+],
   "geometry": {"coordinates":[-87.668162,34.797742],"type":"Point"}
 }

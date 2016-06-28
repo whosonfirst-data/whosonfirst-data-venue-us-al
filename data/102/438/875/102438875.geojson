@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102438875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.814585,33.253058,-86.814585,33.253058",
     "geom:latitude":33.253058,
     "geom:longitude":-86.814585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1005 1st St N",
     "sg:city":"Alabaster",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847439,
+        85688675,
         85633793,
         85914487,
         102085499,
-        85688675
+        85847439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102438875,
-    "wof:lastmodified":1449068605,
+    "wof:lastmodified":1466314672,
     "wof:name":"Samaritan Counseling Center",
     "wof:parent_id":85847439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.814585,33.253058,-86.814585,33.253058],
-  "geometry": {"coordinates":[-86.814585,33.253058],"type":"Point"}
+  "bbox": [
+    -86.814585,
+    33.253058,
+    -86.814585,
+    33.253058
+],
+  "geometry": {"coordinates":[-86.81458499999999,33.253058],"type":"Point"}
 }

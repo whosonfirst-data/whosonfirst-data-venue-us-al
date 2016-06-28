@@ -2,13 +2,14 @@
   "id": 152283539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.17405,32.351516,-86.17405,32.351516",
     "geom:latitude":32.351516,
     "geom:longitude":-86.17405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2117 Taylor Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85823517,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85823517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152283539,
-    "wof:lastmodified":1449045675,
+    "wof:lastmodified":1466316825,
     "wof:name":"Zink Chiropractic Center",
     "wof:parent_id":85823517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.17405,32.351516,-86.17405,32.351516],
-  "geometry": {"coordinates":[-86.17405,32.351516],"type":"Point"}
+  "bbox": [
+    -86.17405,
+    32.351516,
+    -86.17405,
+    32.351516
+],
+  "geometry": {"coordinates":[-86.17404999999999,32.351516],"type":"Point"}
 }

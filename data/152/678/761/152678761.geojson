@@ -2,13 +2,14 @@
   "id": 152678761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.817118,33.553192,-86.817118,33.553192",
     "geom:latitude":33.553192,
     "geom:longitude":-86.817118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2614 31st Ave N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837367,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85837367
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152678761,
-    "wof:lastmodified":1449046537,
+    "wof:lastmodified":1466319269,
     "wof:name":"Shoe Show 778",
     "wof:parent_id":85837367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.817118,33.553192,-86.817118,33.553192],
-  "geometry": {"coordinates":[-86.817118,33.553192],"type":"Point"}
+  "bbox": [
+    -86.817118,
+    33.553192,
+    -86.817118,
+    33.553192
+],
+  "geometry": {"coordinates":[-86.81711799999999,33.553192],"type":"Point"}
 }

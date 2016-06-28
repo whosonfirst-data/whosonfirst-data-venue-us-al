@@ -2,13 +2,14 @@
   "id": 152153909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.47903,32.581281,-85.47903,32.581281",
     "geom:latitude":32.581281,
     "geom:longitude":-85.47903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"163 Windsor Cir",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811511,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85811511
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152153909,
-    "wof:lastmodified":1449047481,
+    "wof:lastmodified":1466314755,
     "wof:name":"Blue Sky Graphics LLC",
     "wof:parent_id":85811511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.47903,32.581281,-85.47903,32.581281],
-  "geometry": {"coordinates":[-85.47903,32.581281],"type":"Point"}
+  "bbox": [
+    -85.47903,
+    32.581281,
+    -85.47903,
+    32.581281
+],
+  "geometry": {"coordinates":[-85.47902999999999,32.581281],"type":"Point"}
 }

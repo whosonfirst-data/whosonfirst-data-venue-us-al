@@ -2,13 +2,14 @@
   "id": 152644579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.815559,33.24623,-86.815559,33.24623",
     "geom:latitude":33.24623,
     "geom:longitude":-86.815559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"224 1st St N",
     "sg:city":"Alabaster",
     "sg:classifiers":[
@@ -28,12 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
+        85633793,
         85853623,
-        85847439,
-        85914487
+        102085499,
+        85914487,
+        85847439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":152644579,
-    "wof:lastmodified":1449046951,
+    "wof:lastmodified":1466319053,
     "wof:name":"Imagesouth-Shelby",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.815559,33.24623,-86.815559,33.24623],
-  "geometry": {"coordinates":[-86.815559,33.24623],"type":"Point"}
+  "bbox": [
+    -86.815559,
+    33.24623,
+    -86.815559,
+    33.24623
+],
+  "geometry": {"coordinates":[-86.81555899999999,33.24623],"type":"Point"}
 }

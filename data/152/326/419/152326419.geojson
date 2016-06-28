@@ -2,13 +2,14 @@
   "id": 152326419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.184385,30.680861,-88.184385,30.680861",
     "geom:latitude":30.680861,
     "geom:longitude":-88.184385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6101 Highland Woods Dr N",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858377,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85858377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152326419,
-    "wof:lastmodified":1449046279,
+    "wof:lastmodified":1466317362,
     "wof:name":"Studio Services",
     "wof:parent_id":85858377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.184385,30.680861,-88.184385,30.680861],
-  "geometry": {"coordinates":[-88.184385,30.680861],"type":"Point"}
+  "bbox": [
+    -88.184385,
+    30.680861,
+    -88.184385,
+    30.680861
+],
+  "geometry": {"coordinates":[-88.18438500000001,30.680861],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152660203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.118744,32.470885,-85.118744,32.470885",
     "geom:latitude":32.470885,
     "geom:longitude":-85.118744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Newberry Dr",
     "sg:city":"Phenix City",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822949,
+        85688675,
         85633793,
         85913715,
         102085697,
-        85688675
+        85822949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152660203,
-    "wof:lastmodified":1449048446,
+    "wof:lastmodified":1466319307,
     "wof:name":"Peeler Const",
     "wof:parent_id":85822949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.118744,32.470885,-85.118744,32.470885],
-  "geometry": {"coordinates":[-85.118744,32.470885],"type":"Point"}
+  "bbox": [
+    -85.118744,
+    32.470885,
+    -85.118744,
+    32.470885
+],
+  "geometry": {"coordinates":[-85.11874400000001,32.470885],"type":"Point"}
 }

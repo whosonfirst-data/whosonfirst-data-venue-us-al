@@ -2,13 +2,14 @@
   "id": 152857025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.558483,34.460002,-86.558483,34.460002",
     "geom:latitude":34.460002,
     "geom:longitude":-86.558483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15225 US Hwy 231",
     "sg:city":"Union Grove",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837211,
+        85688675,
         85633793,
         85913243,
         102085513,
-        85688675
+        85837211
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152857025,
-    "wof:lastmodified":1449047296,
+    "wof:lastmodified":1466320149,
     "wof:name":"Barksdale Enterprises Inc",
     "wof:parent_id":85837211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.558483,34.460002,-86.558483,34.460002],
+  "bbox": [
+    -86.558483,
+    34.460002,
+    -86.558483,
+    34.460002
+],
   "geometry": {"coordinates":[-86.558483,34.460002],"type":"Point"}
 }

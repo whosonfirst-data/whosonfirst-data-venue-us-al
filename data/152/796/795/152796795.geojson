@@ -2,13 +2,14 @@
   "id": 152796795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.223383,32.312064,-86.223383,32.312064",
     "geom:latitude":32.312064,
     "geom:longitude":-86.223383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4458 Troy Hwy",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858743,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85858743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152796795,
-    "wof:lastmodified":1449046490,
+    "wof:lastmodified":1466319843,
     "wof:name":"Money Depot LLC",
     "wof:parent_id":85858743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.223383,32.312064,-86.223383,32.312064],
+  "bbox": [
+    -86.223383,
+    32.312064,
+    -86.223383,
+    32.312064
+],
   "geometry": {"coordinates":[-86.223383,32.312064],"type":"Point"}
 }

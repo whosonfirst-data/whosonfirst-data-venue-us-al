@@ -2,13 +2,14 @@
   "id": 152892613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.456622,31.265567,-85.456622,31.265567",
     "geom:latitude":31.265567,
     "geom:longitude":-85.456622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3610 Oak Ridge Ln",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840987,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85840987
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152892613,
-    "wof:lastmodified":1449044990,
+    "wof:lastmodified":1466320395,
     "wof:name":"Gene & Terri Cobb",
     "wof:parent_id":85840987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.456622,31.265567,-85.456622,31.265567],
+  "bbox": [
+    -85.456622,
+    31.265567,
+    -85.456622,
+    31.265567
+],
   "geometry": {"coordinates":[-85.456622,31.265567],"type":"Point"}
 }

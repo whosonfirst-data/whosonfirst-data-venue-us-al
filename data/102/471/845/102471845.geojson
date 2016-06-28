@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102471845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.973616,31.803669,-85.973616,31.803669",
     "geom:latitude":31.803669,
     "geom:longitude":-85.973616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 S 3 Notch St",
     "sg:city":"Troy",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867313,
+        85688675,
         85633793,
         85914551,
         102085619,
-        85688675
+        85867313
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102471845,
-    "wof:lastmodified":1449068731,
+    "wof:lastmodified":1466315377,
     "wof:name":"New Dimensions Styling Salon",
     "wof:parent_id":85867313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.973616,31.803669,-85.973616,31.803669],
-  "geometry": {"coordinates":[-85.973616,31.803669],"type":"Point"}
+  "bbox": [
+    -85.973616,
+    31.803669,
+    -85.973616,
+    31.803669
+],
+  "geometry": {"coordinates":[-85.97361600000001,31.803669],"type":"Point"}
 }

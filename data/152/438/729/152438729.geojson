@@ -2,13 +2,14 @@
   "id": 152438729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.923886,34.409985,-86.923886,34.409985",
     "geom:latitude":34.409985,
     "geom:longitude":-86.923886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"450 Airport Rd SW",
     "sg:city":"Hartselle",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851807,
+        85688675,
         85633793,
         85914103,
         102085531,
-        85688675
+        85851807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152438729,
-    "wof:lastmodified":1449045871,
+    "wof:lastmodified":1466318108,
     "wof:name":"Hartsell Airport",
     "wof:parent_id":85851807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.923886,34.409985,-86.923886,34.409985],
+  "bbox": [
+    -86.923886,
+    34.409985,
+    -86.923886,
+    34.409985
+],
   "geometry": {"coordinates":[-86.923886,34.409985],"type":"Point"}
 }

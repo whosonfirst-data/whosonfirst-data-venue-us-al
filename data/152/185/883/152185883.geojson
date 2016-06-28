@@ -2,13 +2,14 @@
   "id": 152185883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.615944,34.698223,-86.615944,34.698223",
     "geom:latitude":34.698223,
     "geom:longitude":-86.615944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3701 Grote St SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840971,
+        85688675,
         85633793,
         85915405,
         102085487,
-        85688675
+        85840971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152185883,
-    "wof:lastmodified":1449045066,
+    "wof:lastmodified":1466315778,
     "wof:name":"Candy's Escort",
     "wof:parent_id":85840971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.615944,34.698223,-86.615944,34.698223],
+  "bbox": [
+    -86.615944,
+    34.698223,
+    -86.615944,
+    34.698223
+],
   "geometry": {"coordinates":[-86.615944,34.698223],"type":"Point"}
 }

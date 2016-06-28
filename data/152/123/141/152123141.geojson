@@ -2,13 +2,14 @@
   "id": 152123141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.548252,33.177176,-87.548252,33.177176",
     "geom:latitude":33.177176,
     "geom:longitude":-87.548252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3620 Greensboro Ave",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152123141,
-    "wof:lastmodified":1449045686,
+    "wof:lastmodified":1466314622,
     "wof:name":"Scooter's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.548252,33.177176,-87.548252,33.177176],
-  "geometry": {"coordinates":[-87.548252,33.177176],"type":"Point"}
+  "bbox": [
+    -87.548252,
+    33.177176,
+    -87.548252,
+    33.177176
+],
+  "geometry": {"coordinates":[-87.54825200000001,33.177176],"type":"Point"}
 }

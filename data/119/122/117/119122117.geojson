@@ -2,13 +2,14 @@
   "id": 119122117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.837552,33.471765,-86.837552,33.471765",
     "geom:latitude":33.471765,
     "geom:longitude":-86.837552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Olympia Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817409,
+        85688675,
         85633793,
         85914847,
         102085481,
-        85688675
+        85817409
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":119122117,
-    "wof:lastmodified":1449042376,
+    "wof:lastmodified":1466314310,
     "wof:name":"Babylon Escorts",
     "wof:parent_id":85817409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.837552,33.471765,-86.837552,33.471765],
+  "bbox": [
+    -86.837552,
+    33.471765,
+    -86.837552,
+    33.471765
+],
   "geometry": {"coordinates":[-86.837552,33.471765],"type":"Point"}
 }

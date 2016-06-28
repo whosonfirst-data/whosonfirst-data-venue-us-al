@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102506621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.811478,33.276308,-86.811478,33.276308",
     "geom:latitude":33.276308,
     "geom:longitude":-86.811478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3347 Pelham Pkwy",
     "sg:city":"Pelham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828267,
+        85688675,
         85633793,
         85914501,
         102085499,
-        85688675
+        85828267
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102506621,
-    "wof:lastmodified":1449067819,
+    "wof:lastmodified":1466316642,
     "wof:name":"Highway 31 Service Center",
     "wof:parent_id":85828267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.811478,33.276308,-86.811478,33.276308],
-  "geometry": {"coordinates":[-86.811478,33.276308],"type":"Point"}
+  "bbox": [
+    -86.811478,
+    33.276308,
+    -86.811478,
+    33.276308
+],
+  "geometry": {"coordinates":[-86.81147799999999,33.276308],"type":"Point"}
 }

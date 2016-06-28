@@ -2,13 +2,14 @@
   "id": 152745647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.427705,31.229757,-85.427705,31.229757",
     "geom:latitude":31.229757,
     "geom:longitude":-85.427705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Pinetree Dr",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805317,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85805317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152745647,
-    "wof:lastmodified":1449048709,
+    "wof:lastmodified":1466319695,
     "wof:name":"St Columba Priest Home",
     "wof:parent_id":85805317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.427705,31.229757,-85.427705,31.229757],
+  "bbox": [
+    -85.427705,
+    31.229757,
+    -85.427705,
+    31.229757
+],
   "geometry": {"coordinates":[-85.427705,31.229757],"type":"Point"}
 }

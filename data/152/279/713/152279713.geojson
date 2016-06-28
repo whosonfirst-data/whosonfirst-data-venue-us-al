@@ -2,13 +2,14 @@
   "id": 152279713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.084692,34.913047,-86.084692,34.913047",
     "geom:latitude":34.913047,
     "geom:longitude":-86.084692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29330 State Rte 79",
     "sg:city":"Scottsboro",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809451,
+        85688675,
         85633793,
         85914033,
         102085607,
-        85688675
+        85809451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152279713,
-    "wof:lastmodified":1449046433,
+    "wof:lastmodified":1466316840,
     "wof:name":"Sealey Cnstr Bckhoe Dozer Work",
     "wof:parent_id":85809451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.084692,34.913047,-86.084692,34.913047],
+  "bbox": [
+    -86.084692,
+    34.913047,
+    -86.084692,
+    34.913047
+],
   "geometry": {"coordinates":[-86.084692,34.913047],"type":"Point"}
 }

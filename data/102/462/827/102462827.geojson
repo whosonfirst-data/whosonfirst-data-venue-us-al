@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102462827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.816707,33.50453,-86.816707,33.50453",
     "geom:latitude":33.50453,
     "geom:longitude":-86.816707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1032 2nd Ave S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     "sg:website":"www.alluriamstone.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819533,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85819533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":102462827,
-    "wof:lastmodified":1449070121,
+    "wof:lastmodified":1466315092,
     "wof:name":"Alluriam Stone",
     "wof:parent_id":85819533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.816707,33.50453,-86.816707,33.50453],
-  "geometry": {"coordinates":[-86.816707,33.50453],"type":"Point"}
+  "bbox": [
+    -86.816707,
+    33.50453,
+    -86.816707,
+    33.50453
+],
+  "geometry": {"coordinates":[-86.81670699999999,33.50453],"type":"Point"}
 }

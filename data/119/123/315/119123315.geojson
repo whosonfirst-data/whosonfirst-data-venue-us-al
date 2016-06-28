@@ -2,13 +2,14 @@
   "id": 119123315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.271267,33.236141,-88.271267,33.236141",
     "geom:latitude":33.236141,
     "geom:longitude":-88.271267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"332 Pine Crest Ln",
     "sg:city":"Carrollton",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":119123315,
-    "wof:lastmodified":1449041578,
+    "wof:lastmodified":1466314318,
     "wof:name":"Jerry D Pate",
     "wof:parent_id":85899551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.271267,33.236141,-88.271267,33.236141],
-  "geometry": {"coordinates":[-88.271267,33.236141],"type":"Point"}
+  "bbox": [
+    -88.271267,
+    33.236141,
+    -88.271267,
+    33.236141
+],
+  "geometry": {"coordinates":[-88.27126699999999,33.236141],"type":"Point"}
 }

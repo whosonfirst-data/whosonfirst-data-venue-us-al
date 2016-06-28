@@ -2,13 +2,14 @@
   "id": 152121017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.207062,32.333039,-86.207062,32.333039",
     "geom:latitude":32.333039,
     "geom:longitude":-86.207062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2307 Sansone Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879055,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152121017,
-    "wof:lastmodified":1449047907,
+    "wof:lastmodified":1466314522,
     "wof:name":"Daniel E Retzer",
     "wof:parent_id":85879055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.207062,32.333039,-86.207062,32.333039],
-  "geometry": {"coordinates":[-86.207062,32.333039],"type":"Point"}
+  "bbox": [
+    -86.207062,
+    32.333039,
+    -86.207062,
+    32.333039
+],
+  "geometry": {"coordinates":[-86.20706199999999,32.333039],"type":"Point"}
 }

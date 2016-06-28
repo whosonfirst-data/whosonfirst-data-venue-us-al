@@ -2,13 +2,14 @@
   "id": 152200535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.069839,34.170917,-86.069839,34.170917",
     "geom:latitude":34.170917,
     "geom:longitude":-86.069839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 Doc Gaskin Rd",
     "sg:city":"Boaz",
     "sg:classifiers":[
@@ -35,11 +36,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802495,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85802495
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":152200535,
-    "wof:lastmodified":1449046157,
+    "wof:lastmodified":1466315936,
     "wof:name":"Pounds Roy & Son Sheet Metal",
     "wof:parent_id":85802495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.069839,34.170917,-86.069839,34.170917],
+  "bbox": [
+    -86.069839,
+    34.170917,
+    -86.069839,
+    34.170917
+],
   "geometry": {"coordinates":[-86.069839,34.170917],"type":"Point"}
 }

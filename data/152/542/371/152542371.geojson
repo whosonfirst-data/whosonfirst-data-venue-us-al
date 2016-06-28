@@ -2,13 +2,14 @@
   "id": 152542371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.041299,30.693114,-88.041299,30.693114",
     "geom:latitude":30.693114,
     "geom:longitude":-88.041299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 N Royal St",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878959,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152542371,
-    "wof:lastmodified":1449047885,
+    "wof:lastmodified":1466318529,
     "wof:name":"Henderson & Associates Court",
     "wof:parent_id":85878959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.041299,30.693114,-88.041299,30.693114],
+  "bbox": [
+    -88.041299,
+    30.693114,
+    -88.041299,
+    30.693114
+],
   "geometry": {"coordinates":[-88.041299,30.693114],"type":"Point"}
 }

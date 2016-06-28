@@ -2,13 +2,14 @@
   "id": 152777329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.557645,30.292544,-87.557645,30.292544",
     "geom:latitude":30.292544,
     "geom:longitude":-87.557645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4601 D Ave",
     "sg:city":"Orange Beach",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868551,
+        85688675,
         85633793,
         85914719,
         102085469,
-        85688675
+        85868551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152777329,
-    "wof:lastmodified":1449046743,
+    "wof:lastmodified":1466319730,
     "wof:name":"Holk Electric Inc",
     "wof:parent_id":85868551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.557645,30.292544,-87.557645,30.292544],
-  "geometry": {"coordinates":[-87.557645,30.292544],"type":"Point"}
+  "bbox": [
+    -87.557645,
+    30.292544,
+    -87.557645,
+    30.292544
+],
+  "geometry": {"coordinates":[-87.55764499999999,30.292544],"type":"Point"}
 }

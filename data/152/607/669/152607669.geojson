@@ -2,13 +2,14 @@
   "id": 152607669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.003761,32.961515,-86.003761,32.961515",
     "geom:latitude":32.961515,
     "geom:longitude":-86.003761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"468 US Hwy 280",
     "sg:city":"Alexander City",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840481,
+        85688675,
         85633793,
         85913363,
         102085567,
-        85688675
+        85840481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152607669,
-    "wof:lastmodified":1449044912,
+    "wof:lastmodified":1466318884,
     "wof:name":"Pipe & Equipment",
     "wof:parent_id":85840481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.003761,32.961515,-86.003761,32.961515],
+  "bbox": [
+    -86.003761,
+    32.961515,
+    -86.003761,
+    32.961515
+],
   "geometry": {"coordinates":[-86.003761,32.961515],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102471853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.582969,34.735583,-86.582969,34.735583",
     "geom:latitude":34.735583,
     "geom:longitude":-86.582969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 Holmes Ave NE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878241,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878241
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102471853,
-    "wof:lastmodified":1449068732,
+    "wof:lastmodified":1466315378,
     "wof:name":"Sugar Valley Farms",
     "wof:parent_id":85878241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.582969,34.735583,-86.582969,34.735583],
-  "geometry": {"coordinates":[-86.582969,34.735583],"type":"Point"}
+  "bbox": [
+    -86.582969,
+    34.735583,
+    -86.582969,
+    34.735583
+],
+  "geometry": {"coordinates":[-86.58296900000001,34.735583],"type":"Point"}
 }

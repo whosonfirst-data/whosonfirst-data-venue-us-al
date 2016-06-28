@@ -2,13 +2,14 @@
   "id": 152125399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.892237,33.586954,-86.892237,33.586954",
     "geom:latitude":33.586954,
     "geom:longitude":-86.892237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 Roberta Cir",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820003,
+        85688675,
         85633793,
         85914875,
         102085481,
-        85688675
+        85820003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152125399,
-    "wof:lastmodified":1449048755,
+    "wof:lastmodified":1466314722,
     "wof:name":"H&H All Purpose Cleaning",
     "wof:parent_id":85820003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.892237,33.586954,-86.892237,33.586954],
-  "geometry": {"coordinates":[-86.892237,33.586954],"type":"Point"}
+  "bbox": [
+    -86.892237,
+    33.586954,
+    -86.892237,
+    33.586954
+],
+  "geometry": {"coordinates":[-86.89223699999999,33.586954],"type":"Point"}
 }

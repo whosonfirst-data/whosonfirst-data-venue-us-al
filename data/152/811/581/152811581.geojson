@@ -2,13 +2,14 @@
   "id": 152811581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.464413,32.61588,-85.464413,32.61588",
     "geom:latitude":32.61588,
     "geom:longitude":-85.464413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 N Dean Rd",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852419,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85852419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152811581,
-    "wof:lastmodified":1449046531,
+    "wof:lastmodified":1466319913,
     "wof:name":"Patio Apartments",
     "wof:parent_id":85852419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.464413,32.61588,-85.464413,32.61588],
-  "geometry": {"coordinates":[-85.464413,32.61588],"type":"Point"}
+  "bbox": [
+    -85.464413,
+    32.61588,
+    -85.464413,
+    32.61588
+],
+  "geometry": {"coordinates":[-85.46441299999999,32.61588],"type":"Point"}
 }

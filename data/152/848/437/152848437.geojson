@@ -2,13 +2,14 @@
   "id": 152848437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.605331,34.220145,-85.605331,34.220145",
     "geom:latitude":34.220145,
     "geom:longitude":-85.605331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3655 Old Hwy 9",
     "sg:city":"Cedar Bluff",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152848437,
-    "wof:lastmodified":1449044956,
+    "wof:lastmodified":1466320089,
     "wof:name":"Cedar Bluff High School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.605331,34.220145,-85.605331,34.220145],
-  "geometry": {"coordinates":[-85.605331,34.220145],"type":"Point"}
+  "bbox": [
+    -85.605331,
+    34.220145,
+    -85.605331,
+    34.220145
+],
+  "geometry": {"coordinates":[-85.60533100000001,34.220145],"type":"Point"}
 }

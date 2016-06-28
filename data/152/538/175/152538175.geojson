@@ -2,13 +2,14 @@
   "id": 152538175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.287058,31.178566,-85.287058,31.178566",
     "geom:latitude":31.178566,
     "geom:longitude":-85.287058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"417 Broadway Ave",
     "sg:city":"Ashford",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847911,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85847911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152538175,
-    "wof:lastmodified":1449044888,
+    "wof:lastmodified":1466318681,
     "wof:name":"Rag Tops",
     "wof:parent_id":85847911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.287058,31.178566,-85.287058,31.178566],
+  "bbox": [
+    -85.287058,
+    31.178566,
+    -85.287058,
+    31.178566
+],
   "geometry": {"coordinates":[-85.287058,31.178566],"type":"Point"}
 }

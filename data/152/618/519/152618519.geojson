@@ -2,13 +2,14 @@
   "id": 152618519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.787673,33.520288,-86.787673,33.520288",
     "geom:latitude":33.520288,
     "geom:longitude":-86.787673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4905 Powell Ave S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876269,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152618519,
-    "wof:lastmodified":1449047176,
+    "wof:lastmodified":1466318916,
     "wof:name":"Simpson Commercial Contracting",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.787673,33.520288,-86.787673,33.520288],
+  "bbox": [
+    -86.787673,
+    33.520288,
+    -86.787673,
+    33.520288
+],
   "geometry": {"coordinates":[-86.787673,33.520288],"type":"Point"}
 }

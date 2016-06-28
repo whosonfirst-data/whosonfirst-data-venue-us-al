@@ -2,13 +2,14 @@
   "id": 152424943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.476479,32.591374,-85.476479,32.591374",
     "geom:latitude":32.591374,
     "geom:longitude":-85.476479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"351 Woodfield Dr",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811511,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85811511
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152424943,
-    "wof:lastmodified":1449048629,
+    "wof:lastmodified":1466317985,
     "wof:name":"Fine Portraits In Oil",
     "wof:parent_id":85811511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.476479,32.591374,-85.476479,32.591374],
+  "bbox": [
+    -85.476479,
+    32.591374,
+    -85.476479,
+    32.591374
+],
   "geometry": {"coordinates":[-85.476479,32.591374],"type":"Point"}
 }

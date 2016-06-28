@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102473635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.228985,32.359564,-86.228985,32.359564",
     "geom:latitude":32.359564,
     "geom:longitude":-86.228985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4200 Carmichael Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879047,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102473635,
-    "wof:lastmodified":1449068296,
+    "wof:lastmodified":1466315392,
     "wof:name":"Quick Service",
     "wof:parent_id":85879047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.228985,32.359564,-86.228985,32.359564],
-  "geometry": {"coordinates":[-86.228985,32.359564],"type":"Point"}
+  "bbox": [
+    -86.228985,
+    32.359564,
+    -86.228985,
+    32.359564
+],
+  "geometry": {"coordinates":[-86.22898499999999,32.359564],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119129117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.585519,32.701363,-87.585519,32.701363",
     "geom:latitude":32.701363,
     "geom:longitude":-87.585519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"809 2nd St",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":119129117,
-    "wof:lastmodified":1449042991,
+    "wof:lastmodified":1466314489,
     "wof:name":"Bobbies Monogram Shop",
     "wof:parent_id":85913429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.585519,32.701363,-87.585519,32.701363],
-  "geometry": {"coordinates":[-87.585519,32.701363],"type":"Point"}
+  "bbox": [
+    -87.585519,
+    32.701363,
+    -87.585519,
+    32.701363
+],
+  "geometry": {"coordinates":[-87.58551900000001,32.701363],"type":"Point"}
 }

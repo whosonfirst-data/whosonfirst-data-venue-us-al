@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102494501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.39701,32.653508,-85.39701,32.653508",
     "geom:latitude":32.653508,
     "geom:longitude":-85.39701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"622 Terracewood Dr",
     "sg:city":"Opelika",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85857153,
+        85688675,
         85633793,
         85913815,
         102085751,
-        85688675
+        85857153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102494501,
-    "wof:lastmodified":1449069929,
+    "wof:lastmodified":1466316258,
     "wof:name":"Oak Bowery Farms",
     "wof:parent_id":85857153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.39701,32.653508,-85.39701,32.653508],
-  "geometry": {"coordinates":[-85.39701,32.653508],"type":"Point"}
+  "bbox": [
+    -85.39701,
+    32.653508,
+    -85.39701,
+    32.653508
+],
+  "geometry": {"coordinates":[-85.39700999999999,32.653508],"type":"Point"}
 }

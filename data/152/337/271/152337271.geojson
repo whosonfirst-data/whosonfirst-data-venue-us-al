@@ -2,13 +2,14 @@
   "id": 152337271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.601636,32.604917,-85.601636,32.604917",
     "geom:latitude":32.604917,
     "geom:longitude":-85.601636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"450 Waverly Rd",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085751,
-        85633793,
         85688675,
-        85828853
+        85633793,
+        85828853,
+        102085751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152337271,
-    "wof:lastmodified":1449046470,
+    "wof:lastmodified":1466317519,
     "wof:name":"CU Solutions",
     "wof:parent_id":85828853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.601636,32.604917,-85.601636,32.604917],
+  "bbox": [
+    -85.601636,
+    32.604917,
+    -85.601636,
+    32.604917
+],
   "geometry": {"coordinates":[-85.601636,32.604917],"type":"Point"}
 }

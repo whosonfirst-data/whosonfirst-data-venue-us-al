@@ -2,13 +2,14 @@
   "id": 152764483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.75271,33.573881,-86.75271,33.573881",
     "geom:latitude":33.573881,
     "geom:longitude":-86.75271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5268 57th St N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152764483,
-    "wof:lastmodified":1449048703,
+    "wof:lastmodified":1466319637,
     "wof:name":"US National Guard Armory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.75271,33.573881,-86.75271,33.573881],
-  "geometry": {"coordinates":[-86.75271,33.573881],"type":"Point"}
+  "bbox": [
+    -86.75271,
+    33.573881,
+    -86.75271,
+    33.573881
+],
+  "geometry": {"coordinates":[-86.75270999999999,33.573881],"type":"Point"}
 }

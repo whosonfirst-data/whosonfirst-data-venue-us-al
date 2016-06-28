@@ -2,13 +2,14 @@
   "id": 152736343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.816645,33.511663,-86.816645,33.511663",
     "geom:latitude":33.511663,
     "geom:longitude":-86.816645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 3rd Ave N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.bizfurn.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820315,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85820315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152736343,
-    "wof:lastmodified":1449048860,
+    "wof:lastmodified":1466319585,
     "wof:name":"Alabama Business Furnishings",
     "wof:parent_id":85820315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.816645,33.511663,-86.816645,33.511663],
-  "geometry": {"coordinates":[-86.816645,33.511663],"type":"Point"}
+  "bbox": [
+    -86.816645,
+    33.511663,
+    -86.816645,
+    33.511663
+],
+  "geometry": {"coordinates":[-86.81664499999999,33.511663],"type":"Point"}
 }

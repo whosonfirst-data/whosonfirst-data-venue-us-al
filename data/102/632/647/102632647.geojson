@@ -2,13 +2,14 @@
   "id": 102632647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.247578,30.776784,-88.247578,30.776784",
     "geom:latitude":30.776784,
     "geom:longitude":-88.247578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8901 Moffett Rd",
     "sg:city":"Semmes",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085585,
-        85633793,
         85688675,
-        85878987
+        85633793,
+        85878987,
+        102085585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102632647,
-    "wof:lastmodified":1449069305,
+    "wof:lastmodified":1466317538,
     "wof:name":"Vinyl Designs Inc",
     "wof:parent_id":85878987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.247578,30.776784,-88.247578,30.776784],
+  "bbox": [
+    -88.247578,
+    30.776784,
+    -88.247578,
+    30.776784
+],
   "geometry": {"coordinates":[-88.247578,30.776784],"type":"Point"}
 }

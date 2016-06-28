@@ -2,13 +2,14 @@
   "id": 152743027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.094855,30.732875,-88.094855,30.732875",
     "geom:latitude":30.732875,
     "geom:longitude":-88.094855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"902 Murphy Ave",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837835,
+        85688675,
         85633793,
         85913741,
         102085585,
-        85688675
+        85837835
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152743027,
-    "wof:lastmodified":1449048878,
+    "wof:lastmodified":1466319544,
     "wof:name":"Toddlers Acad Beginning Sch 2",
     "wof:parent_id":85837835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.094855,30.732875,-88.094855,30.732875],
+  "bbox": [
+    -88.094855,
+    30.732875,
+    -88.094855,
+    30.732875
+],
   "geometry": {"coordinates":[-88.094855,30.732875],"type":"Point"}
 }

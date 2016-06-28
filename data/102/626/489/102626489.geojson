@@ -2,13 +2,14 @@
   "id": 102626489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.77178,30.814803,-87.77178,30.814803",
     "geom:latitude":30.814803,
     "geom:longitude":-87.77178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40680 State Rte 59",
     "sg:city":"Bay Minette",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102626489,
-    "wof:lastmodified":1449070213,
+    "wof:lastmodified":1466317460,
     "wof:name":"Stewart's Electrical Contrs",
     "wof:parent_id":85688675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.77178,30.814803,-87.77178,30.814803],
-  "geometry": {"coordinates":[-87.77178,30.814803],"type":"Point"}
+  "bbox": [
+    -87.77178,
+    30.814803,
+    -87.77178,
+    30.814803
+],
+  "geometry": {"coordinates":[-87.77178000000001,30.814803],"type":"Point"}
 }

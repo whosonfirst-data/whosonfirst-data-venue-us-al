@@ -2,13 +2,14 @@
   "id": 152814635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.084491,30.663104,-88.084491,30.663104",
     "geom:latitude":30.663104,
     "geom:longitude":-88.084491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1906 Duval St",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878975,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878975
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152814635,
-    "wof:lastmodified":1449045153,
+    "wof:lastmodified":1466319922,
     "wof:name":"H B Auto Repair",
     "wof:parent_id":85878975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.084491,30.663104,-88.084491,30.663104],
+  "bbox": [
+    -88.084491,
+    30.663104,
+    -88.084491,
+    30.663104
+],
   "geometry": {"coordinates":[-88.084491,30.663104],"type":"Point"}
 }

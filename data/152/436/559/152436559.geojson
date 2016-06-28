@@ -2,13 +2,14 @@
   "id": 152436559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.683632,34.428257,-85.683632,34.428257",
     "geom:latitude":34.428257,
     "geom:longitude":-85.683632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1508 McCurdy Dr E",
     "sg:city":"Fort Payne",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834595,
+        85688675,
         85633793,
         85897515,
         102085615,
-        85688675
+        85834595
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":152436559,
-    "wof:lastmodified":1449048478,
+    "wof:lastmodified":1466318005,
     "wof:name":"Little River Log Homes & Bldrs",
     "wof:parent_id":85834595,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.683632,34.428257,-85.683632,34.428257],
+  "bbox": [
+    -85.683632,
+    34.428257,
+    -85.683632,
+    34.428257
+],
   "geometry": {"coordinates":[-85.683632,34.428257],"type":"Point"}
 }

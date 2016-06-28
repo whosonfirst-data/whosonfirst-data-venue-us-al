@@ -2,13 +2,14 @@
   "id": 152769637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.896431,30.539061,-87.896431,30.539061",
     "geom:latitude":30.539061,
     "geom:longitude":-87.896431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"812 Bon Secour Ave",
     "sg:city":"Fairhope",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847563,
+        85688675,
         85633793,
         85914707,
         102085469,
-        85688675
+        85847563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152769637,
-    "wof:lastmodified":1449045836,
+    "wof:lastmodified":1466319773,
     "wof:name":"Mobil Appearance Doctor",
     "wof:parent_id":85847563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.896431,30.539061,-87.896431,30.539061],
-  "geometry": {"coordinates":[-87.896431,30.539061],"type":"Point"}
+  "bbox": [
+    -87.896431,
+    30.539061,
+    -87.896431,
+    30.539061
+],
+  "geometry": {"coordinates":[-87.89643100000001,30.539061],"type":"Point"}
 }

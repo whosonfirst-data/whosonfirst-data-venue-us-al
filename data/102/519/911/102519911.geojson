@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102519911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.088064,34.023649,-86.088064,34.023649",
     "geom:latitude":34.023649,
     "geom:longitude":-86.088064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 6th Ave NW",
     "sg:city":"Attalla",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085545,
-        85633793,
         85688675,
-        85851221
+        85633793,
+        85851221,
+        102085545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102519911,
-    "wof:lastmodified":1449070028,
+    "wof:lastmodified":1466317198,
     "wof:name":"Police Department",
     "wof:parent_id":85851221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.088064,34.023649,-86.088064,34.023649],
+  "bbox": [
+    -86.088064,
+    34.023649,
+    -86.088064,
+    34.023649
+],
   "geometry": {"coordinates":[-86.088064,34.023649],"type":"Point"}
 }

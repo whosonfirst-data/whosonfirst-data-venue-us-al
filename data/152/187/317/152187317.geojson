@@ -2,13 +2,14 @@
   "id": 152187317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.372727,34.165826,-86.372727,34.165826",
     "geom:latitude":34.165826,
     "geom:longitude":-86.372727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1149 Holland Rd",
     "sg:city":"Horton",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085667,
-        85633793,
         85688675,
-        85819523
+        85633793,
+        85819523,
+        102085667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152187317,
-    "wof:lastmodified":1449044992,
+    "wof:lastmodified":1466315747,
     "wof:name":"High Mound Baptist Church",
     "wof:parent_id":85819523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.372727,34.165826,-86.372727,34.165826],
+  "bbox": [
+    -86.372727,
+    34.165826,
+    -86.372727,
+    34.165826
+],
   "geometry": {"coordinates":[-86.372727,34.165826],"type":"Point"}
 }

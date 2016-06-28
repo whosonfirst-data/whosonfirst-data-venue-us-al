@@ -2,13 +2,14 @@
   "id": 152527555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.286387,32.361773,-86.286387,32.361773",
     "geom:latitude":32.361773,
     "geom:longitude":-86.286387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1722 Forest Ave",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811493,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85811493
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152527555,
-    "wof:lastmodified":1449047965,
+    "wof:lastmodified":1466318545,
     "wof:name":"Eastside Day Care Ctr",
     "wof:parent_id":85811493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.286387,32.361773,-86.286387,32.361773],
+  "bbox": [
+    -86.286387,
+    32.361773,
+    -86.286387,
+    32.361773
+],
   "geometry": {"coordinates":[-86.286387,32.361773],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152488641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.825153,33.403801,-86.825153,33.403801",
     "geom:latitude":33.403801,
     "geom:longitude":-86.825153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2598 Foothills Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":152488641,
-    "wof:lastmodified":1449048797,
+    "wof:lastmodified":1466318271,
     "wof:name":"Mad Science Greater Birmingham",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.825153,33.403801,-86.825153,33.403801],
+  "bbox": [
+    -86.825153,
+    33.403801,
+    -86.825153,
+    33.403801
+],
   "geometry": {"coordinates":[-86.825153,33.403801],"type":"Point"}
 }

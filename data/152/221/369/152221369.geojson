@@ -2,13 +2,14 @@
   "id": 152221369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.188279,32.376601,-86.188279,32.376601",
     "geom:latitude":32.376601,
     "geom:longitude":-86.188279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6200 Bell Rd Ct",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834671,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85834671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152221369,
-    "wof:lastmodified":1449046347,
+    "wof:lastmodified":1466316272,
     "wof:name":"Gnac Services",
     "wof:parent_id":85834671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.188279,32.376601,-86.188279,32.376601],
-  "geometry": {"coordinates":[-86.188279,32.376601],"type":"Point"}
+  "bbox": [
+    -86.188279,
+    32.376601,
+    -86.188279,
+    32.376601
+],
+  "geometry": {"coordinates":[-86.18827899999999,32.376601],"type":"Point"}
 }

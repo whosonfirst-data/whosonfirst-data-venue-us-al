@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102512135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.12595,32.440266,-86.12595,32.440266",
     "geom:latitude":32.440266,
     "geom:longitude":-86.12595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2934 Rifle Range Rd",
     "sg:city":"Wetumpka",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085733,
-        85633793,
         85688675,
-        85879041
+        85633793,
+        85879041,
+        102085733
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102512135,
-    "wof:lastmodified":1449069551,
+    "wof:lastmodified":1466316883,
     "wof:name":"Blue Ridge Kennel",
     "wof:parent_id":85879041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.12595,32.440266,-86.12595,32.440266],
+  "bbox": [
+    -86.12595,
+    32.440266,
+    -86.12595,
+    32.440266
+],
   "geometry": {"coordinates":[-86.12595,32.440266],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102620671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.696919,33.524966,-86.696919,33.524966",
     "geom:latitude":33.524966,
     "geom:longitude":-86.696919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5273 Dresden Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851139,
+        85688675,
         85633793,
         85914835,
         102085481,
-        85688675
+        85851139
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102620671,
-    "wof:lastmodified":1449069984,
+    "wof:lastmodified":1466317376,
     "wof:name":"Lois Hills Custom Creations",
     "wof:parent_id":85851139,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.696919,33.524966,-86.696919,33.524966],
-  "geometry": {"coordinates":[-86.696919,33.524966],"type":"Point"}
+  "bbox": [
+    -86.696919,
+    33.524966,
+    -86.696919,
+    33.524966
+],
+  "geometry": {"coordinates":[-86.69691899999999,33.524966],"type":"Point"}
 }

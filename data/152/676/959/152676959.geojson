@@ -2,13 +2,14 @@
   "id": 152676959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.170001,32.646673,-86.170001,32.646673",
     "geom:latitude":32.646673,
     "geom:longitude":-86.170001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3790 Grier Rd",
     "sg:city":"Wetumpka",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851843,
+        85688675,
         85633793,
         85913951,
         102085631,
-        85688675
+        85851843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152676959,
-    "wof:lastmodified":1449047262,
+    "wof:lastmodified":1466319334,
     "wof:name":"L&J Materials LLC",
     "wof:parent_id":85851843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.170001,32.646673,-86.170001,32.646673],
+  "bbox": [
+    -86.170001,
+    32.646673,
+    -86.170001,
+    32.646673
+],
   "geometry": {"coordinates":[-86.170001,32.646673],"type":"Point"}
 }

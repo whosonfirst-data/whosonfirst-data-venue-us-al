@@ -2,13 +2,14 @@
   "id": 152817065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.768411,33.380443,-86.768411,33.380443",
     "geom:latitude":33.380443,
     "geom:longitude":-86.768411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1088 Highland Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85858213
+        85633793,
+        85858213,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152817065,
-    "wof:lastmodified":1449048018,
+    "wof:lastmodified":1466319920,
     "wof:name":"Way Cool Software Inc",
     "wof:parent_id":85858213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.768411,33.380443,-86.768411,33.380443],
+  "bbox": [
+    -86.768411,
+    33.380443,
+    -86.768411,
+    33.380443
+],
   "geometry": {"coordinates":[-86.768411,33.380443],"type":"Point"}
 }

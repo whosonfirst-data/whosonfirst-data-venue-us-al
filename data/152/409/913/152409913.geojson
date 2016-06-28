@@ -2,13 +2,14 @@
   "id": 152409913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.539301,33.242221,-87.539301,33.242221",
     "geom:latitude":33.242221,
     "geom:longitude":-87.539301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 Rice Valley Rd N",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152409913,
-    "wof:lastmodified":1449046206,
+    "wof:lastmodified":1466317922,
     "wof:name":"Pine Valley Retirement Comm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.539301,33.242221,-87.539301,33.242221],
-  "geometry": {"coordinates":[-87.539301,33.242221],"type":"Point"}
+  "bbox": [
+    -87.539301,
+    33.242221,
+    -87.539301,
+    33.242221
+],
+  "geometry": {"coordinates":[-87.53930099999999,33.242221],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152748751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.431643,33.236168,-87.431643,33.236168",
     "geom:latitude":33.236168,
     "geom:longitude":-87.431643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12803 Holt Peterson Rd",
     "sg:city":"Cottondale",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152748751,
-    "wof:lastmodified":1449047764,
+    "wof:lastmodified":1466319708,
     "wof:name":"Peterson Water Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.431643,33.236168,-87.431643,33.236168],
-  "geometry": {"coordinates":[-87.431643,33.236168],"type":"Point"}
+  "bbox": [
+    -87.431643,
+    33.236168,
+    -87.431643,
+    33.236168
+],
+  "geometry": {"coordinates":[-87.43164299999999,33.236168],"type":"Point"}
 }

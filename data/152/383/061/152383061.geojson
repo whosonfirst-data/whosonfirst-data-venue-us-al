@@ -2,13 +2,14 @@
   "id": 152383061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.699845,34.724978,-87.699845,34.724978",
     "geom:latitude":34.724978,
     "geom:longitude":-87.699845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"806 Woodmont Dr",
     "sg:city":"Tuscumbia",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852605,
+        85688675,
         85633793,
         85897447,
         102085625,
-        85688675
+        85852605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152383061,
-    "wof:lastmodified":1449046266,
+    "wof:lastmodified":1466317726,
     "wof:name":"Valdosta Auto Svc",
     "wof:parent_id":85852605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.699845,34.724978,-87.699845,34.724978],
+  "bbox": [
+    -87.699845,
+    34.724978,
+    -87.699845,
+    34.724978
+],
   "geometry": {"coordinates":[-87.699845,34.724978],"type":"Point"}
 }

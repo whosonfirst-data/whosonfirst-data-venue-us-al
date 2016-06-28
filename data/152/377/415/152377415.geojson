@@ -2,13 +2,14 @@
   "id": 152377415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.114413,30.672205,-88.114413,30.672205",
     "geom:latitude":30.672205,
     "geom:longitude":-88.114413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"323 S Sage Ave",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808003,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85808003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152377415,
-    "wof:lastmodified":1449046043,
+    "wof:lastmodified":1466317711,
     "wof:name":"Pamper Room",
     "wof:parent_id":85808003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.114413,30.672205,-88.114413,30.672205],
+  "bbox": [
+    -88.114413,
+    30.672205,
+    -88.114413,
+    30.672205
+],
   "geometry": {"coordinates":[-88.114413,30.672205],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152419379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.581593,34.730329,-86.581593,34.730329",
     "geom:latitude":34.730329,
     "geom:longitude":-86.581593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Lincoln St SE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878247,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152419379,
-    "wof:lastmodified":1449048824,
+    "wof:lastmodified":1466317931,
     "wof:name":"Fudgey Nut Inc",
     "wof:parent_id":85878247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.581593,34.730329,-86.581593,34.730329],
+  "bbox": [
+    -86.581593,
+    34.730329,
+    -86.581593,
+    34.730329
+],
   "geometry": {"coordinates":[-86.581593,34.730329],"type":"Point"}
 }

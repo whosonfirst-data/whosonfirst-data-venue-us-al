@@ -2,13 +2,14 @@
   "id": 152775881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.072017,34.166158,-86.072017,34.166158",
     "geom:latitude":34.166158,
     "geom:longitude":-86.072017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5080 Leeth Gap Rd",
     "sg:city":"Boaz",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802495,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85802495
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152775881,
-    "wof:lastmodified":1449047720,
+    "wof:lastmodified":1466319717,
     "wof:name":"Whitesboro School",
     "wof:parent_id":85802495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.072017,34.166158,-86.072017,34.166158],
+  "bbox": [
+    -86.072017,
+    34.166158,
+    -86.072017,
+    34.166158
+],
   "geometry": {"coordinates":[-86.072017,34.166158],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102630869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.807795,33.404421,-86.807795,33.404421",
     "geom:latitude":33.404421,
     "geom:longitude":-86.807795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3144 Old Columbiana Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842589,
+        85688675,
         85633793,
         85914475,
         102085481,
-        85688675
+        85842589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102630869,
-    "wof:lastmodified":1449068647,
+    "wof:lastmodified":1466317485,
     "wof:name":"Brinton A Owen CPA",
     "wof:parent_id":85842589,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.807795,33.404421,-86.807795,33.404421],
+  "bbox": [
+    -86.807795,
+    33.404421,
+    -86.807795,
+    33.404421
+],
   "geometry": {"coordinates":[-86.807795,33.404421],"type":"Point"}
 }

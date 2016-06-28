@@ -2,13 +2,14 @@
   "id": 152720639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.94996,32.943598,-85.94996,32.943598",
     "geom:latitude":32.943598,
     "geom:longitude":-85.94996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Franklin St",
     "sg:city":"Alexander City",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840481,
+        85688675,
         85633793,
         85913363,
         102085567,
-        85688675
+        85840481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152720639,
-    "wof:lastmodified":1449045398,
+    "wof:lastmodified":1466319443,
     "wof:name":"Alabama Food Group Inc",
     "wof:parent_id":85840481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.94996,32.943598,-85.94996,32.943598],
+  "bbox": [
+    -85.94996,
+    32.943598,
+    -85.94996,
+    32.943598
+],
   "geometry": {"coordinates":[-85.94996,32.943598],"type":"Point"}
 }

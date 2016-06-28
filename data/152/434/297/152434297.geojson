@@ -2,13 +2,14 @@
   "id": 152434297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.754572,33.422653,-86.754572,33.422653",
     "geom:latitude":33.422653,
     "geom:longitude":-86.754572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2125 Hickory Ridge Cir",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085481,
-        85633793,
         85688675,
-        85831323
+        85633793,
+        85831323,
+        102085481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152434297,
-    "wof:lastmodified":1449045303,
+    "wof:lastmodified":1466317993,
     "wof:name":"Morris W Cochran MD",
     "wof:parent_id":85831323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.754572,33.422653,-86.754572,33.422653],
+  "bbox": [
+    -86.754572,
+    33.422653,
+    -86.754572,
+    33.422653
+],
   "geometry": {"coordinates":[-86.754572,33.422653],"type":"Point"}
 }

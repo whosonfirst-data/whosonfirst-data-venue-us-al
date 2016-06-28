@@ -2,13 +2,14 @@
   "id": 152130761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.790667,33.354806,-86.790667,33.354806",
     "geom:latitude":33.354806,
     "geom:longitude":-86.790667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"223 Riverchase Trl",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802401,
+        85688675,
         85633793,
         85914475,
         102085499,
-        85688675
+        85802401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152130761,
-    "wof:lastmodified":1449045897,
+    "wof:lastmodified":1466315041,
     "wof:name":"Vines Professional Cleaning",
     "wof:parent_id":85802401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.790667,33.354806,-86.790667,33.354806],
+  "bbox": [
+    -86.790667,
+    33.354806,
+    -86.790667,
+    33.354806
+],
   "geometry": {"coordinates":[-86.790667,33.354806],"type":"Point"}
 }

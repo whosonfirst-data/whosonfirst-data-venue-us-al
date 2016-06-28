@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102519343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.3153,32.375496,-86.3153,32.375496",
     "geom:latitude":32.375496,
     "geom:longitude":-86.3153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 N Goldthwaite St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -33,11 +34,11 @@
     "sg:website":"www.nicolemaleinefrenchantiques.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879037,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":102519343,
-    "wof:lastmodified":1449070029,
+    "wof:lastmodified":1466317230,
     "wof:name":"Nicole Maleine Antiques Inc",
     "wof:parent_id":85879037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.3153,32.375496,-86.3153,32.375496],
-  "geometry": {"coordinates":[-86.3153,32.375496],"type":"Point"}
+  "bbox": [
+    -86.3153,
+    32.375496,
+    -86.3153,
+    32.375496
+],
+  "geometry": {"coordinates":[-86.31529999999999,32.375496],"type":"Point"}
 }

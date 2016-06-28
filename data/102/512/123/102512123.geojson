@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102512123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.053019,30.690666,-88.053019,30.690666",
     "geom:latitude":30.690666,
     "geom:longitude":-88.053019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 N Scott St",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895797,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85895797
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102512123,
-    "wof:lastmodified":1449069551,
+    "wof:lastmodified":1466316882,
     "wof:name":"ACS Government Services Inc",
     "wof:parent_id":85895797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.053019,30.690666,-88.053019,30.690666],
-  "geometry": {"coordinates":[-88.053019,30.690666],"type":"Point"}
+  "bbox": [
+    -88.053019,
+    30.690666,
+    -88.053019,
+    30.690666
+],
+  "geometry": {"coordinates":[-88.05301900000001,30.690666],"type":"Point"}
 }

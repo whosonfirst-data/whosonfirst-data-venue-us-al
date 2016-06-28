@@ -2,13 +2,14 @@
   "id": 152491415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.617561,32.84285,-86.617561,32.84285",
     "geom:latitude":32.84285,
     "geom:longitude":-86.617561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"880 Lake Mitchell Rd",
     "sg:city":"Clanton",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152491415,
-    "wof:lastmodified":1449044212,
+    "wof:lastmodified":1466318192,
     "wof:name":"Mc Guire's Garage & Wrecker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.617561,32.84285,-86.617561,32.84285],
-  "geometry": {"coordinates":[-86.617561,32.84285],"type":"Point"}
+  "bbox": [
+    -86.617561,
+    32.84285,
+    -86.617561,
+    32.84285
+],
+  "geometry": {"coordinates":[-86.61756099999999,32.84285],"type":"Point"}
 }

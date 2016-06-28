@@ -2,13 +2,14 @@
   "id": 152519595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.943204,31.793415,-85.943204,31.793415",
     "geom:latitude":31.793415,
     "geom:longitude":-85.943204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 E Forest Ave",
     "sg:city":"Troy",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867315,
+        85688675,
         85633793,
         85914551,
         102085619,
-        85688675
+        85867315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152519595,
-    "wof:lastmodified":1449048615,
+    "wof:lastmodified":1466318431,
     "wof:name":"Armstrong Electric Htc & AC",
     "wof:parent_id":85867315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.943204,31.793415,-85.943204,31.793415],
-  "geometry": {"coordinates":[-85.943204,31.793415],"type":"Point"}
+  "bbox": [
+    -85.943204,
+    31.793415,
+    -85.943204,
+    31.793415
+],
+  "geometry": {"coordinates":[-85.94320399999999,31.793415],"type":"Point"}
 }

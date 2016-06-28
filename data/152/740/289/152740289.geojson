@@ -2,13 +2,14 @@
   "id": 152740289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.862947,31.321004,-85.862947,31.321004",
     "geom:latitude":31.321004,
     "geom:longitude":-85.862947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"733 Pittman St",
     "sg:city":"Enterprise",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848823,
+        85688675,
         85633793,
         85899527,
         102085699,
-        85688675
+        85848823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152740289,
-    "wof:lastmodified":1449046409,
+    "wof:lastmodified":1466319671,
     "wof:name":"Safe Sound Electronic Systems",
     "wof:parent_id":85848823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.862947,31.321004,-85.862947,31.321004],
-  "geometry": {"coordinates":[-85.862947,31.321004],"type":"Point"}
+  "bbox": [
+    -85.862947,
+    31.321004,
+    -85.862947,
+    31.321004
+],
+  "geometry": {"coordinates":[-85.86294700000001,31.321004],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152242847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.22489,32.561411,-86.22489,32.561411",
     "geom:latitude":32.561411,
     "geom:longitude":-86.22489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2110 Holtville Rd",
     "sg:city":"Wetumpka",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085631,
-        85633793,
         85688675,
-        85843379
+        85633793,
+        85843379,
+        102085631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152242847,
-    "wof:lastmodified":1449048377,
+    "wof:lastmodified":1466316379,
     "wof:name":"Quail Walk Country Club",
     "wof:parent_id":85843379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.22489,32.561411,-86.22489,32.561411],
+  "bbox": [
+    -86.22489,
+    32.561411,
+    -86.22489,
+    32.561411
+],
   "geometry": {"coordinates":[-86.22489,32.561411],"type":"Point"}
 }

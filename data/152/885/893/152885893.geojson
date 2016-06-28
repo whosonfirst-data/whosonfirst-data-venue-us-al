@@ -2,13 +2,14 @@
   "id": 152885893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.855981,33.498666,-86.855981,33.498666",
     "geom:latitude":33.498666,
     "geom:longitude":-86.855981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 12th St SW",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817999,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85817999
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152885893,
-    "wof:lastmodified":1449046760,
+    "wof:lastmodified":1466320292,
     "wof:name":"Birmingham Packaging Corp",
     "wof:parent_id":85817999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.855981,33.498666,-86.855981,33.498666],
+  "bbox": [
+    -86.855981,
+    33.498666,
+    -86.855981,
+    33.498666
+],
   "geometry": {"coordinates":[-86.855981,33.498666],"type":"Point"}
 }

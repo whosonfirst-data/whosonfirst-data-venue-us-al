@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102503435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.221165,32.342681,-86.221165,32.342681",
     "geom:latitude":32.342681,
     "geom:longitude":-86.221165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2895 Vaughn Plaza Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821317,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85821317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102503435,
-    "wof:lastmodified":1449070221,
+    "wof:lastmodified":1466316603,
     "wof:name":"Uncle Bob's Self-Storage",
     "wof:parent_id":85821317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.221165,32.342681,-86.221165,32.342681],
+  "bbox": [
+    -86.221165,
+    32.342681,
+    -86.221165,
+    32.342681
+],
   "geometry": {"coordinates":[-86.221165,32.342681],"type":"Point"}
 }

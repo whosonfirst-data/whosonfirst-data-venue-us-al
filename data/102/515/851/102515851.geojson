@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102515851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.474675,32.467626,-86.474675,32.467626",
     "geom:latitude":32.467626,
     "geom:longitude":-86.474675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"192 7th St",
     "sg:city":"Prattville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85826521,
+        85688675,
         85633793,
         85913977,
         102085509,
-        85688675
+        85826521
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102515851,
-    "wof:lastmodified":1449068353,
+    "wof:lastmodified":1466316954,
     "wof:name":"First Baptist Church",
     "wof:parent_id":85826521,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.474675,32.467626,-86.474675,32.467626],
+  "bbox": [
+    -86.474675,
+    32.467626,
+    -86.474675,
+    32.467626
+],
   "geometry": {"coordinates":[-86.474675,32.467626],"type":"Point"}
 }

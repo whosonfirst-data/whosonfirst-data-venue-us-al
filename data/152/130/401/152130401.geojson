@@ -2,13 +2,14 @@
   "id": 152130401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.7188,34.876858,-85.7188,34.876858",
     "geom:latitude":34.876858,
     "geom:longitude":-85.7188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1905 Co Rd 414",
     "sg:city":"Flat Rock",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085607,
-        85633793,
         85688675,
-        85804739
+        85633793,
+        85804739,
+        102085607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152130401,
-    "wof:lastmodified":1449045899,
+    "wof:lastmodified":1466314999,
     "wof:name":"Pleasant View Church of God",
     "wof:parent_id":85804739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.7188,34.876858,-85.7188,34.876858],
+  "bbox": [
+    -85.7188,
+    34.876858,
+    -85.7188,
+    34.876858
+],
   "geometry": {"coordinates":[-85.7188,34.876858],"type":"Point"}
 }

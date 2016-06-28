@@ -2,13 +2,14 @@
   "id": 102621655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.495877,31.023866,-87.495877,31.023866",
     "geom:latitude":31.023866,
     "geom:longitude":-87.495877,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 S Carney St",
     "sg:city":"Atmore",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843687,
+        85688675,
         85633793,
         85899775,
         102085735,
-        85688675
+        85843687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102621655,
-    "wof:lastmodified":1449069893,
+    "wof:lastmodified":1466317481,
     "wof:name":"Escambia Publishing",
     "wof:parent_id":85843687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.495877,31.023866,-87.495877,31.023866],
-  "geometry": {"coordinates":[-87.495877,31.023866],"type":"Point"}
+  "bbox": [
+    -87.495877,
+    31.023866,
+    -87.495877,
+    31.023866
+],
+  "geometry": {"coordinates":[-87.49587699999999,31.023866],"type":"Point"}
 }

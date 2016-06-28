@@ -2,13 +2,14 @@
   "id": 152305849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.271193,32.364122,-86.271193,32.364122",
     "geom:latitude":32.364122,
     "geom:longitude":-86.271193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2694 Zelda Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85823265,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85823265
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152305849,
-    "wof:lastmodified":1449045007,
+    "wof:lastmodified":1466317167,
     "wof:name":"U S Haircutters",
     "wof:parent_id":85823265,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.271193,32.364122,-86.271193,32.364122],
+  "bbox": [
+    -86.271193,
+    32.364122,
+    -86.271193,
+    32.364122
+],
   "geometry": {"coordinates":[-86.271193,32.364122],"type":"Point"}
 }

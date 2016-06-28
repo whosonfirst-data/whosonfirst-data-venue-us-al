@@ -2,13 +2,14 @@
   "id": 152687255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.488718,33.205498,-87.488718,33.205498",
     "geom:latitude":33.205498,
     "geom:longitude":-87.488718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"931 Crescent Ridge Rd E",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152687255,
-    "wof:lastmodified":1449045596,
+    "wof:lastmodified":1466319287,
     "wof:name":"Lennox Square Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.488718,33.205498,-87.488718,33.205498],
-  "geometry": {"coordinates":[-87.488718,33.205498],"type":"Point"}
+  "bbox": [
+    -87.488718,
+    33.205498,
+    -87.488718,
+    33.205498
+],
+  "geometry": {"coordinates":[-87.48871800000001,33.205498],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102638815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.786613,33.625551,-85.786613,33.625551",
     "geom:latitude":33.625551,
     "geom:longitude":-85.786613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3008 Red Morris Pkwy",
     "sg:city":"Anniston",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806515,
+        85688675,
         85633793,
         85914159,
         102085603,
-        85688675
+        85806515
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102638815,
-    "wof:lastmodified":1449067916,
+    "wof:lastmodified":1466317447,
     "wof:name":"Braddock Metallurgical Alabama",
     "wof:parent_id":85806515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.786613,33.625551,-85.786613,33.625551],
+  "bbox": [
+    -85.786613,
+    33.625551,
+    -85.786613,
+    33.625551
+],
   "geometry": {"coordinates":[-85.786613,33.625551],"type":"Point"}
 }

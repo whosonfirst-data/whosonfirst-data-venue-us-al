@@ -2,13 +2,14 @@
   "id": 152826539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.759186,32.834753,-85.759186,32.834753",
     "geom:latitude":32.834753,
     "geom:longitude":-85.759186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18327 US Hwy 280",
     "sg:city":"Dadeville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848983,
+        85688675,
         85633793,
         85913327,
         102085567,
-        85688675
+        85848983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152826539,
-    "wof:lastmodified":1449047662,
+    "wof:lastmodified":1466319985,
     "wof:name":"Alcoholic Beverage Ctrl Bd Ala",
     "wof:parent_id":85848983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.759186,32.834753,-85.759186,32.834753],
+  "bbox": [
+    -85.759186,
+    32.834753,
+    -85.759186,
+    32.834753
+],
   "geometry": {"coordinates":[-85.759186,32.834753],"type":"Point"}
 }

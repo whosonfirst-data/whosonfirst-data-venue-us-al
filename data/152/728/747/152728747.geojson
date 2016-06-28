@@ -2,13 +2,14 @@
   "id": 152728747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.096426,30.660842,-88.096426,30.660842",
     "geom:latitude":30.660842,
     "geom:longitude":-88.096426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2300 Halls Mill Rd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808003,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85808003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152728747,
-    "wof:lastmodified":1449045370,
+    "wof:lastmodified":1466319492,
     "wof:name":"United Refrigeration Inc",
     "wof:parent_id":85808003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.096426,30.660842,-88.096426,30.660842],
-  "geometry": {"coordinates":[-88.096426,30.660842],"type":"Point"}
+  "bbox": [
+    -88.096426,
+    30.660842,
+    -88.096426,
+    30.660842
+],
+  "geometry": {"coordinates":[-88.09642599999999,30.660842],"type":"Point"}
 }

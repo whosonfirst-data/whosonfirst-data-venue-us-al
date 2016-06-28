@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102512859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.005643,34.02048,-86.005643,34.02048",
     "geom:latitude":34.02048,
     "geom:longitude":-86.005643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 N 6th Pl",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822279,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85822279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102512859,
-    "wof:lastmodified":1449069551,
+    "wof:lastmodified":1466317029,
     "wof:name":"Procare/Reach Out Cmnty Proj",
     "wof:parent_id":85822279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.005643,34.02048,-86.005643,34.02048],
-  "geometry": {"coordinates":[-86.005643,34.02048],"type":"Point"}
+  "bbox": [
+    -86.005643,
+    34.02048,
+    -86.005643,
+    34.02048
+],
+  "geometry": {"coordinates":[-86.00564300000001,34.02048],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152821213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.474391,33.719351,-86.474391,33.719351",
     "geom:latitude":33.719351,
     "geom:longitude":-86.474391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 Tom L Smith Dr",
     "sg:city":"Odenville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807031,
+        85688675,
         85633793,
         85913421,
         102085647,
-        85688675
+        85807031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152821213,
-    "wof:lastmodified":1449046814,
+    "wof:lastmodified":1466319941,
     "wof:name":"Triking Trikes-Northern Al",
     "wof:parent_id":85807031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.474391,33.719351,-86.474391,33.719351],
+  "bbox": [
+    -86.474391,
+    33.719351,
+    -86.474391,
+    33.719351
+],
   "geometry": {"coordinates":[-86.474391,33.719351],"type":"Point"}
 }

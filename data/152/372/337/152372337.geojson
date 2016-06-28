@@ -2,13 +2,14 @@
   "id": 152372337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.325151,32.65047,-86.325151,32.65047",
     "geom:latitude":32.65047,
     "geom:longitude":-86.325151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1165 Lightwood Rd",
     "sg:city":"Deatsville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152372337,
-    "wof:lastmodified":1449047103,
+    "wof:lastmodified":1466317689,
     "wof:name":"Bait Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.325151,32.65047,-86.325151,32.65047],
-  "geometry": {"coordinates":[-86.325151,32.65047],"type":"Point"}
+  "bbox": [
+    -86.325151,
+    32.65047,
+    -86.325151,
+    32.65047
+],
+  "geometry": {"coordinates":[-86.32515100000001,32.65047],"type":"Point"}
 }

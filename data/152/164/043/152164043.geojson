@@ -2,13 +2,14 @@
   "id": 152164043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.890721,33.484969,-86.890721,33.484969",
     "geom:latitude":33.484969,
     "geom:longitude":-86.890721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1548 Bessemer Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85832747,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85832747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152164043,
-    "wof:lastmodified":1449044854,
+    "wof:lastmodified":1466315337,
     "wof:name":"J & M Daycare",
     "wof:parent_id":85832747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.890721,33.484969,-86.890721,33.484969],
+  "bbox": [
+    -86.890721,
+    33.484969,
+    -86.890721,
+    33.484969
+],
   "geometry": {"coordinates":[-86.890721,33.484969],"type":"Point"}
 }

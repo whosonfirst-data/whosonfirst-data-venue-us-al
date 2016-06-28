@@ -2,13 +2,14 @@
   "id": 152124447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.478736,32.598825,-85.478736,32.598825",
     "geom:latitude":32.598825,
     "geom:longitude":-85.478736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 E Samford Ave",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811511,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85811511
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152124447,
-    "wof:lastmodified":1449048560,
+    "wof:lastmodified":1466314708,
     "wof:name":"Lab Animal Resources",
     "wof:parent_id":85811511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.478736,32.598825,-85.478736,32.598825],
+  "bbox": [
+    -85.478736,
+    32.598825,
+    -85.478736,
+    32.598825
+],
   "geometry": {"coordinates":[-85.478736,32.598825],"type":"Point"}
 }

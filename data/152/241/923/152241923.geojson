@@ -2,13 +2,14 @@
   "id": 152241923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.610312,34.722128,-86.610312,34.722128",
     "geom:latitude":34.722128,
     "geom:longitude":-86.610312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 8th St NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825531,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85825531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152241923,
-    "wof:lastmodified":1449048793,
+    "wof:lastmodified":1466316353,
     "wof:name":"Blevins",
     "wof:parent_id":85825531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.610312,34.722128,-86.610312,34.722128],
-  "geometry": {"coordinates":[-86.610312,34.722128],"type":"Point"}
+  "bbox": [
+    -86.610312,
+    34.722128,
+    -86.610312,
+    34.722128
+],
+  "geometry": {"coordinates":[-86.61031199999999,34.722128],"type":"Point"}
 }

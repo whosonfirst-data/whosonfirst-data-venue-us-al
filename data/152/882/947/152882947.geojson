@@ -2,13 +2,14 @@
   "id": 152882947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.971983,31.811104,-85.971983,31.811104",
     "geom:latitude":31.811104,
     "geom:longitude":-85.971983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 N 3 Notch St",
     "sg:city":"Troy",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867313,
+        85688675,
         85633793,
         85914551,
         102085619,
-        85688675
+        85867313
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152882947,
-    "wof:lastmodified":1449045136,
+    "wof:lastmodified":1466320290,
     "wof:name":"Eight On The Break Cafe",
     "wof:parent_id":85867313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.971983,31.811104,-85.971983,31.811104],
-  "geometry": {"coordinates":[-85.971983,31.811104],"type":"Point"}
+  "bbox": [
+    -85.971983,
+    31.811104,
+    -85.971983,
+    31.811104
+],
+  "geometry": {"coordinates":[-85.97198299999999,31.811104],"type":"Point"}
 }

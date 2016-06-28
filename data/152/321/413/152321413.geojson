@@ -2,13 +2,14 @@
   "id": 152321413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.102171,33.625791,-86.102171,33.625791",
     "geom:latitude":33.625791,
     "geom:longitude":-86.102171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Saint Mary Rd",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     "sg:website":"www.lufkintrailersofalabama.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085517,
-        85633793,
         85688675,
-        85849013
+        85633793,
+        85849013,
+        102085517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152321413,
-    "wof:lastmodified":1449044399,
+    "wof:lastmodified":1466317306,
     "wof:name":"Lufkin Trailers",
     "wof:parent_id":85849013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.102171,33.625791,-86.102171,33.625791],
+  "bbox": [
+    -86.102171,
+    33.625791,
+    -86.102171,
+    33.625791
+],
   "geometry": {"coordinates":[-86.102171,33.625791],"type":"Point"}
 }

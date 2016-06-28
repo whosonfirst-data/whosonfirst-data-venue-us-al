@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102481097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.399369,31.252109,-85.399369,31.252109",
     "geom:latitude":31.252109,
     "geom:longitude":-85.399369,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"382 Twitchell Rd",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848307,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85848307
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102481097,
-    "wof:lastmodified":1449069865,
+    "wof:lastmodified":1466315324,
     "wof:name":"Wiregrass Area Untd Way Fd Bnk",
     "wof:parent_id":85848307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.399369,31.252109,-85.399369,31.252109],
-  "geometry": {"coordinates":[-85.399369,31.252109],"type":"Point"}
+  "bbox": [
+    -85.399369,
+    31.252109,
+    -85.399369,
+    31.252109
+],
+  "geometry": {"coordinates":[-85.39936899999999,31.252109],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152775385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.516377,33.324918,-87.516377,33.324918",
     "geom:latitude":33.324918,
     "geom:longitude":-87.516377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10854 Sexton Bend Rd",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85832453,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85832453
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152775385,
-    "wof:lastmodified":1449047719,
+    "wof:lastmodified":1466319593,
     "wof:name":"Protouch Cleaning Svc",
     "wof:parent_id":85832453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.516377,33.324918,-87.516377,33.324918],
-  "geometry": {"coordinates":[-87.516377,33.324918],"type":"Point"}
+  "bbox": [
+    -87.516377,
+    33.324918,
+    -87.516377,
+    33.324918
+],
+  "geometry": {"coordinates":[-87.51637700000001,33.324918],"type":"Point"}
 }

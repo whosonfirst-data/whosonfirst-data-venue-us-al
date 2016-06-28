@@ -2,13 +2,14 @@
   "id": 152392991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.578794,34.723197,-86.578794,34.723197",
     "geom:latitude":34.723197,
     "geom:longitude":-86.578794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"719 Franklin St SE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878239,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878239
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152392991,
-    "wof:lastmodified":1449047998,
+    "wof:lastmodified":1466317717,
     "wof:name":"Pitts R D Attorney At Law",
     "wof:parent_id":85878239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.578794,34.723197,-86.578794,34.723197],
+  "bbox": [
+    -86.578794,
+    34.723197,
+    -86.578794,
+    34.723197
+],
   "geometry": {"coordinates":[-86.578794,34.723197],"type":"Point"}
 }

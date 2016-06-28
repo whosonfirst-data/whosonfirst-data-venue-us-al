@@ -2,13 +2,14 @@
   "id": 152213599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.249373,31.570792,-85.249373,31.570792",
     "geom:latitude":31.570792,
     "geom:longitude":-85.249373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 E Williams St",
     "sg:city":"Abbeville",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152213599,
-    "wof:lastmodified":1449044349,
+    "wof:lastmodified":1466316144,
     "wof:name":"Henry County Jail",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.249373,31.570792,-85.249373,31.570792],
-  "geometry": {"coordinates":[-85.249373,31.570792],"type":"Point"}
+  "bbox": [
+    -85.249373,
+    31.570792,
+    -85.249373,
+    31.570792
+],
+  "geometry": {"coordinates":[-85.24937300000001,31.570792],"type":"Point"}
 }

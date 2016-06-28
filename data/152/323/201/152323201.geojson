@@ -2,13 +2,14 @@
   "id": 152323201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.2211,32.519164,-86.2211,32.519164",
     "geom:latitude":32.519164,
     "geom:longitude":-86.2211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Charles Ave",
     "sg:city":"Wetumpka",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806527,
+        85688675,
         85633793,
         85913951,
         102085631,
-        85688675
+        85806527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152323201,
-    "wof:lastmodified":1449044702,
+    "wof:lastmodified":1466317398,
     "wof:name":"Proscripts",
     "wof:parent_id":85806527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.2211,32.519164,-86.2211,32.519164],
-  "geometry": {"coordinates":[-86.2211,32.519164],"type":"Point"}
+  "bbox": [
+    -86.2211,
+    32.519164,
+    -86.2211,
+    32.519164
+],
+  "geometry": {"coordinates":[-86.22110000000001,32.519164],"type":"Point"}
 }

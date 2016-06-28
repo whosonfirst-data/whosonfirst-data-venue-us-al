@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102503883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.547304,33.143834,-87.547304,33.143834",
     "geom:latitude":33.143834,
     "geom:longitude":-87.547304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7027 Old Greensboro Rd",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -32,10 +33,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085553,
-        85633793,
         85688675,
-        85851887
+        85633793,
+        85851887,
+        102085553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":102503883,
-    "wof:lastmodified":1449070221,
+    "wof:lastmodified":1466316688,
     "wof:name":"Linda's Electric Beach",
     "wof:parent_id":85851887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.547304,33.143834,-87.547304,33.143834],
+  "bbox": [
+    -87.547304,
+    33.143834,
+    -87.547304,
+    33.143834
+],
   "geometry": {"coordinates":[-87.547304,33.143834],"type":"Point"}
 }

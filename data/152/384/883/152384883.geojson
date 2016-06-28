@@ -2,13 +2,14 @@
   "id": 152384883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.381279,31.230471,-85.381279,31.230471",
     "geom:latitude":31.230471,
     "geom:longitude":-85.381279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Clayton St",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852069,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85852069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152384883,
-    "wof:lastmodified":1449044879,
+    "wof:lastmodified":1466317764,
     "wof:name":"Ruffin Algerita",
     "wof:parent_id":85852069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.381279,31.230471,-85.381279,31.230471],
-  "geometry": {"coordinates":[-85.381279,31.230471],"type":"Point"}
+  "bbox": [
+    -85.381279,
+    31.230471,
+    -85.381279,
+    31.230471
+],
+  "geometry": {"coordinates":[-85.38127900000001,31.230471],"type":"Point"}
 }

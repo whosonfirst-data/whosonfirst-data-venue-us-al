@@ -2,13 +2,14 @@
   "id": 152289805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.492405,32.631843,-85.492405,32.631843",
     "geom:latitude":32.631843,
     "geom:longitude":-85.492405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1212 Jenkins Dr",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822529,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85822529
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152289805,
-    "wof:lastmodified":1449048151,
+    "wof:lastmodified":1466317188,
     "wof:name":"Electronics Repair Shop Inc",
     "wof:parent_id":85822529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.492405,32.631843,-85.492405,32.631843],
-  "geometry": {"coordinates":[-85.492405,32.631843],"type":"Point"}
+  "bbox": [
+    -85.492405,
+    32.631843,
+    -85.492405,
+    32.631843
+],
+  "geometry": {"coordinates":[-85.49240500000001,32.631843],"type":"Point"}
 }

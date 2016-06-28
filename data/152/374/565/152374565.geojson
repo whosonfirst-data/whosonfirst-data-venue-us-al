@@ -2,13 +2,14 @@
   "id": 152374565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.164055,32.326304,-86.164055,32.326304",
     "geom:latitude":32.326304,
     "geom:longitude":-86.164055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8609 Wible Run",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879049,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879049
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152374565,
-    "wof:lastmodified":1449046325,
+    "wof:lastmodified":1466317722,
     "wof:name":"Hickory Partners LLC",
     "wof:parent_id":85879049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.164055,32.326304,-86.164055,32.326304],
+  "bbox": [
+    -86.164055,
+    32.326304,
+    -86.164055,
+    32.326304
+],
   "geometry": {"coordinates":[-86.164055,32.326304],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152449895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.676343,34.797601,-87.676343,34.797601",
     "geom:latitude":34.797601,
     "geom:longitude":-87.676343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 W Alabama St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848857,
+        85688675,
         85633793,
         85914011,
         102085527,
-        85688675
+        85848857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152449895,
-    "wof:lastmodified":1449048582,
+    "wof:lastmodified":1466318133,
     "wof:name":"Sandin Jimmy",
     "wof:parent_id":85848857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.676343,34.797601,-87.676343,34.797601],
+  "bbox": [
+    -87.676343,
+    34.797601,
+    -87.676343,
+    34.797601
+],
   "geometry": {"coordinates":[-87.676343,34.797601],"type":"Point"}
 }

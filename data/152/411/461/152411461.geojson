@@ -2,13 +2,14 @@
   "id": 152411461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.757622,34.674128,-86.757622,34.674128",
     "geom:latitude":34.674128,
     "geom:longitude":-86.757622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9091 Madison Blvd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831899,
+        85688675,
         85633793,
         85913593,
         102085487,
-        85688675
+        85831899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152411461,
-    "wof:lastmodified":1449044512,
+    "wof:lastmodified":1466317883,
     "wof:name":"Madison Boulevard Mini Storage",
     "wof:parent_id":85831899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.757622,34.674128,-86.757622,34.674128],
+  "bbox": [
+    -86.757622,
+    34.674128,
+    -86.757622,
+    34.674128
+],
   "geometry": {"coordinates":[-86.757622,34.674128],"type":"Point"}
 }

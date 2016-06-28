@@ -2,13 +2,14 @@
   "id": 152293217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.686214,31.484821,-85.686214,31.484821",
     "geom:latitude":31.484821,
     "geom:longitude":-85.686214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3934 US Hwy 231",
     "sg:city":"Ozark",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152293217,
-    "wof:lastmodified":1449045210,
+    "wof:lastmodified":1466317052,
     "wof:name":"Ozark Inland Travel Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.686214,31.484821,-85.686214,31.484821],
-  "geometry": {"coordinates":[-85.686214,31.484821],"type":"Point"}
+  "bbox": [
+    -85.686214,
+    31.484821,
+    -85.686214,
+    31.484821
+],
+  "geometry": {"coordinates":[-85.68621400000001,31.484821],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152198783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.462045,31.257971,-85.462045,31.257971",
     "geom:latitude":31.257971,
     "geom:longitude":-85.462045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 Riveredge Pkwy",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840987,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85840987
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152198783,
-    "wof:lastmodified":1449045985,
+    "wof:lastmodified":1466315949,
     "wof:name":"Joseph Saunders",
     "wof:parent_id":85840987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.462045,31.257971,-85.462045,31.257971],
+  "bbox": [
+    -85.462045,
+    31.257971,
+    -85.462045,
+    31.257971
+],
   "geometry": {"coordinates":[-85.462045,31.257971],"type":"Point"}
 }

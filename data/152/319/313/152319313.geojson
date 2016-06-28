@@ -2,13 +2,14 @@
   "id": 152319313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.535496,33.142,-87.535496,33.142",
     "geom:latitude":33.142,
     "geom:longitude":-87.535496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Bear Creek Rd",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -38,10 +39,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085553,
-        85633793,
         85688675,
-        85851887
+        85633793,
+        85851887,
+        102085553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":152319313,
-    "wof:lastmodified":1449046195,
+    "wof:lastmodified":1466317304,
     "wof:name":"Maga Materials Inc",
     "wof:parent_id":85851887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.535496,33.142,-87.535496,33.142],
-  "geometry": {"coordinates":[-87.535496,33.142],"type":"Point"}
+  "bbox": [
+    -87.535496,
+    33.142,
+    -87.535496,
+    33.142
+],
+  "geometry": {"coordinates":[-87.53549599999999,33.142],"type":"Point"}
 }

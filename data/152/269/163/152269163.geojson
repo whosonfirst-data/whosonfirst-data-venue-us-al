@@ -2,13 +2,14 @@
   "id": 152269163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.480824,32.606474,-85.480824,32.606474",
     "geom:latitude":32.606474,
     "geom:longitude":-85.480824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 E Magnolia Ave",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -38,11 +39,11 @@
     "sg:website":"www.auburnembroidery.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809707,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85809707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,14 +62,20 @@
         }
     ],
     "wof:id":152269163,
-    "wof:lastmodified":1449047204,
+    "wof:lastmodified":1466316878,
     "wof:name":"All American",
     "wof:parent_id":85809707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.480824,32.606474,-85.480824,32.606474],
+  "bbox": [
+    -85.480824,
+    32.606474,
+    -85.480824,
+    32.606474
+],
   "geometry": {"coordinates":[-85.480824,32.606474],"type":"Point"}
 }

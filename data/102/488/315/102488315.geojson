@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102488315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.417943,32.460404,-86.417943,32.460404",
     "geom:latitude":32.460404,
     "geom:longitude":-86.417943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1929 Cobbs Ford Rd",
     "sg:city":"Prattville",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     "sg:website":"www.bathandbodyworks.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840001,
+        85688675,
         85633793,
         85913977,
         102085509,
-        85688675
+        85840001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":102488315,
-    "wof:lastmodified":1449070155,
+    "wof:lastmodified":1466315947,
     "wof:name":"Bath & Body Works 731",
     "wof:parent_id":85840001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.417943,32.460404,-86.417943,32.460404],
-  "geometry": {"coordinates":[-86.417943,32.460404],"type":"Point"}
+  "bbox": [
+    -86.417943,
+    32.460404,
+    -86.417943,
+    32.460404
+],
+  "geometry": {"coordinates":[-86.41794299999999,32.460404],"type":"Point"}
 }

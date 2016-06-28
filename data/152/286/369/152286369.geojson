@@ -2,13 +2,14 @@
   "id": 152286369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.134941,32.377399,-86.134941,32.377399",
     "geom:latitude":32.377399,
     "geom:longitude":-86.134941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9215 Towne Lake Ct",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803631,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85803631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152286369,
-    "wof:lastmodified":1449045509,
+    "wof:lastmodified":1466316962,
     "wof:name":"Wayne Roy Trucking Inc",
     "wof:parent_id":85803631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.134941,32.377399,-86.134941,32.377399],
+  "bbox": [
+    -86.134941,
+    32.377399,
+    -86.134941,
+    32.377399
+],
   "geometry": {"coordinates":[-86.134941,32.377399],"type":"Point"}
 }

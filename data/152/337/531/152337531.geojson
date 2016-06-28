@@ -2,13 +2,14 @@
   "id": 152337531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.733633,33.569317,-86.733633,33.569317",
     "geom:latitude":33.569317,
     "geom:longitude":-86.733633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"628 80th St N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816499,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85816499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152337531,
-    "wof:lastmodified":1449046469,
+    "wof:lastmodified":1466317534,
     "wof:name":"B&J Transportation",
     "wof:parent_id":85816499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.733633,33.569317,-86.733633,33.569317],
+  "bbox": [
+    -86.733633,
+    33.569317,
+    -86.733633,
+    33.569317
+],
   "geometry": {"coordinates":[-86.733633,33.569317],"type":"Point"}
 }

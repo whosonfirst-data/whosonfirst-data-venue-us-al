@@ -2,13 +2,14 @@
   "id": 152651723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.822576,33.26471,-86.822576,33.26471",
     "geom:latitude":33.26471,
     "geom:longitude":-86.822576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1112 King Arthur Ct",
     "sg:city":"Alabaster",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828267,
+        85688675,
         85633793,
         85914501,
         102085499,
-        85688675
+        85828267
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152651723,
-    "wof:lastmodified":1449045219,
+    "wof:lastmodified":1466319126,
     "wof:name":"Vista View Landscaping",
     "wof:parent_id":85828267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.822576,33.26471,-86.822576,33.26471],
+  "bbox": [
+    -86.822576,
+    33.26471,
+    -86.822576,
+    33.26471
+],
   "geometry": {"coordinates":[-86.822576,33.26471],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152721235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.798078,33.269292,-86.798078,33.269292",
     "geom:latitude":33.269292,
     "geom:longitude":-86.798078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1840 McCain Pkwy",
     "sg:city":"Pelham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828267,
+        85688675,
         85633793,
         85914501,
         102085499,
-        85688675
+        85828267
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152721235,
-    "wof:lastmodified":1449048890,
+    "wof:lastmodified":1466319526,
     "wof:name":"Superior Pipe & Supply Inc",
     "wof:parent_id":85828267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.798078,33.269292,-86.798078,33.269292],
+  "bbox": [
+    -86.798078,
+    33.269292,
+    -86.798078,
+    33.269292
+],
   "geometry": {"coordinates":[-86.798078,33.269292],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152465205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.287936,32.642682,-86.287936,32.642682",
     "geom:latitude":32.642682,
     "geom:longitude":-86.287936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"789 Lakeland Dr",
     "sg:city":"Titus",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085631,
-        85633793,
         85688675,
-        85843379
+        85633793,
+        85843379,
+        102085631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152465205,
-    "wof:lastmodified":1449047412,
+    "wof:lastmodified":1466318158,
     "wof:name":"Lake Jordan Marina",
     "wof:parent_id":85843379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.287936,32.642682,-86.287936,32.642682],
+  "bbox": [
+    -86.287936,
+    32.642682,
+    -86.287936,
+    32.642682
+],
   "geometry": {"coordinates":[-86.287936,32.642682],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152704695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.750823,30.591778,-87.750823,30.591778",
     "geom:latitude":30.591778,
     "geom:longitude":-87.750823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25393 Co Rd 55",
     "sg:city":"Loxley",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847563,
+        85688675,
         85633793,
         85914707,
         102085469,
-        85688675
+        85847563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152704695,
-    "wof:lastmodified":1449045501,
+    "wof:lastmodified":1466319382,
     "wof:name":"Double D Hauling",
     "wof:parent_id":85847563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.750823,30.591778,-87.750823,30.591778],
+  "bbox": [
+    -87.750823,
+    30.591778,
+    -87.750823,
+    30.591778
+],
   "geometry": {"coordinates":[-87.750823,30.591778],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152723635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.609448,34.709457,-86.609448,34.709457",
     "geom:latitude":34.709457,
     "geom:longitude":-86.609448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2900 Triana Blvd SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840971,
+        85688675,
         85633793,
         85915405,
         102085487,
-        85688675
+        85840971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152723635,
-    "wof:lastmodified":1449047003,
+    "wof:lastmodified":1466319535,
     "wof:name":"Soul Burger",
     "wof:parent_id":85840971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.609448,34.709457,-86.609448,34.709457],
+  "bbox": [
+    -86.609448,
+    34.709457,
+    -86.609448,
+    34.709457
+],
   "geometry": {"coordinates":[-86.609448,34.709457],"type":"Point"}
 }

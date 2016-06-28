@@ -2,13 +2,14 @@
   "id": 152549399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.274804,32.354726,-86.274804,32.354726",
     "geom:latitude":32.354726,
     "geom:longitude":-86.274804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2201 Rosemont Ter",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879045,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152549399,
-    "wof:lastmodified":1449045571,
+    "wof:lastmodified":1466318591,
     "wof:name":"R S Query",
     "wof:parent_id":85879045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.274804,32.354726,-86.274804,32.354726],
+  "bbox": [
+    -86.274804,
+    32.354726,
+    -86.274804,
+    32.354726
+],
   "geometry": {"coordinates":[-86.274804,32.354726],"type":"Point"}
 }

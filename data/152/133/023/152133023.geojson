@@ -2,13 +2,14 @@
   "id": 152133023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.148716,32.448206,-86.148716,32.448206",
     "geom:latitude":32.448206,
     "geom:longitude":-86.148716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 Crossley Dr",
     "sg:city":"Wetumpka",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827347,
+        85688675,
         85633793,
         85915121,
         102085631,
-        85688675
+        85827347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152133023,
-    "wof:lastmodified":1449048124,
+    "wof:lastmodified":1466315160,
     "wof:name":"Affordable Transmission Svc",
     "wof:parent_id":85827347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.148716,32.448206,-86.148716,32.448206],
-  "geometry": {"coordinates":[-86.148716,32.448206],"type":"Point"}
+  "bbox": [
+    -86.148716,
+    32.448206,
+    -86.148716,
+    32.448206
+],
+  "geometry": {"coordinates":[-86.14871599999999,32.448206],"type":"Point"}
 }

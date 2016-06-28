@@ -2,13 +2,14 @@
   "id": 152577635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.481664,32.607531,-85.481664,32.607531",
     "geom:latitude":32.607531,
     "geom:longitude":-85.481664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"132 N College St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809707,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85809707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152577635,
-    "wof:lastmodified":1449049037,
+    "wof:lastmodified":1466318745,
     "wof:name":"Taylors Bakery & Gourmet Cof",
     "wof:parent_id":85809707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.481664,32.607531,-85.481664,32.607531],
-  "geometry": {"coordinates":[-85.481664,32.607531],"type":"Point"}
+  "bbox": [
+    -85.481664,
+    32.607531,
+    -85.481664,
+    32.607531
+],
+  "geometry": {"coordinates":[-85.48166399999999,32.607531],"type":"Point"}
 }

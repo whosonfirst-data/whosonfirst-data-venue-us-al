@@ -2,13 +2,14 @@
   "id": 152644397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.559647,34.345415,-86.559647,34.345415",
     "geom:latitude":34.345415,
     "geom:longitude":-86.559647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4629 Matt Morrow Rd",
     "sg:city":"Arab",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837211,
+        85688675,
         85633793,
         85913243,
         102085513,
-        85688675
+        85837211
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152644397,
-    "wof:lastmodified":1449046953,
+    "wof:lastmodified":1466319051,
     "wof:name":"Sportsmans' Barber Shop",
     "wof:parent_id":85837211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.559647,34.345415,-86.559647,34.345415],
+  "bbox": [
+    -86.559647,
+    34.345415,
+    -86.559647,
+    34.345415
+],
   "geometry": {"coordinates":[-86.559647,34.345415],"type":"Point"}
 }

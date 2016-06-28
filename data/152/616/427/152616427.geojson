@@ -2,13 +2,14 @@
   "id": 152616427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.440453,32.627906,-85.440453,32.627906",
     "geom:latitude":32.627906,
     "geom:longitude":-85.440453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1945 Opelika Rd",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853849,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85853849
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152616427,
-    "wof:lastmodified":1449047697,
+    "wof:lastmodified":1466319028,
     "wof:name":"ABC Beverages",
     "wof:parent_id":85853849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.440453,32.627906,-85.440453,32.627906],
-  "geometry": {"coordinates":[-85.440453,32.627906],"type":"Point"}
+  "bbox": [
+    -85.440453,
+    32.627906,
+    -85.440453,
+    32.627906
+],
+  "geometry": {"coordinates":[-85.44045300000001,32.627906],"type":"Point"}
 }

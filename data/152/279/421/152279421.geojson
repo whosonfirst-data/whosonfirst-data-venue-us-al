@@ -2,13 +2,14 @@
   "id": 152279421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.439244,32.471565,-86.439244,32.471565",
     "geom:latitude":32.471565,
     "geom:longitude":-86.439244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 Radburn Way",
     "sg:city":"Prattville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858707,
+        85688675,
         85633793,
         85913977,
         102085509,
-        85688675
+        85858707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152279421,
-    "wof:lastmodified":1449046434,
+    "wof:lastmodified":1466316761,
     "wof:name":"C&R Lawn Service",
     "wof:parent_id":85858707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.439244,32.471565,-86.439244,32.471565],
+  "bbox": [
+    -86.439244,
+    32.471565,
+    -86.439244,
+    32.471565
+],
   "geometry": {"coordinates":[-86.439244,32.471565],"type":"Point"}
 }

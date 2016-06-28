@@ -2,13 +2,14 @@
   "id": 152685571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.701546,32.523832,-86.701546,32.523832",
     "geom:latitude":32.523832,
     "geom:longitude":-86.701546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1146 Co Rd 19 N",
     "sg:city":"Prattville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":152685571,
-    "wof:lastmodified":1449048803,
+    "wof:lastmodified":1466319261,
     "wof:name":"Highway 14 Church Of Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.701546,32.523832,-86.701546,32.523832],
-  "geometry": {"coordinates":[-86.701546,32.523832],"type":"Point"}
+  "bbox": [
+    -86.701546,
+    32.523832,
+    -86.701546,
+    32.523832
+],
+  "geometry": {"coordinates":[-86.70154599999999,32.523832],"type":"Point"}
 }

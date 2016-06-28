@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102452821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.546546,33.150444,-87.546546,33.150444",
     "geom:latitude":33.150444,
     "geom:longitude":-87.546546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6322 State Rte 69",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -30,10 +31,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085553,
-        85633793,
         85688675,
-        85851887
+        85633793,
+        85851887,
+        102085553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102452821,
-    "wof:lastmodified":1449068367,
+    "wof:lastmodified":1466314805,
     "wof:name":"Comco Wireless Inc",
     "wof:parent_id":85851887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.546546,33.150444,-87.546546,33.150444],
-  "geometry": {"coordinates":[-87.546546,33.150444],"type":"Point"}
+  "bbox": [
+    -87.546546,
+    33.150444,
+    -87.546546,
+    33.150444
+],
+  "geometry": {"coordinates":[-87.54654600000001,33.150444],"type":"Point"}
 }

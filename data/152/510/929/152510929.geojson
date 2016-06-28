@@ -2,13 +2,14 @@
   "id": 152510929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.273316,30.736315,-88.273316,30.736315",
     "geom:latitude":30.736315,
     "geom:longitude":-88.273316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9701 Scenic Hills Dr",
     "sg:city":"Semmes",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":152510929,
-    "wof:lastmodified":1449047078,
+    "wof:lastmodified":1466318364,
     "wof:name":"McElroy Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.273316,30.736315,-88.273316,30.736315],
-  "geometry": {"coordinates":[-88.273316,30.736315],"type":"Point"}
+  "bbox": [
+    -88.273316,
+    30.736315,
+    -88.273316,
+    30.736315
+],
+  "geometry": {"coordinates":[-88.27331599999999,30.736315],"type":"Point"}
 }

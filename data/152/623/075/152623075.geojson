@@ -2,13 +2,14 @@
   "id": 152623075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.933076,32.622125,-85.933076,32.622125",
     "geom:latitude":32.622125,
     "geom:longitude":-85.933076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6940 Upper River Rd",
     "sg:city":"Tallassee",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827623,
+        85688675,
         85633793,
         85913291,
         102085631,
-        85688675
+        85827623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152623075,
-    "wof:lastmodified":1449047540,
+    "wof:lastmodified":1466318934,
     "wof:name":"Peps AC Service",
     "wof:parent_id":85827623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.933076,32.622125,-85.933076,32.622125],
+  "bbox": [
+    -85.933076,
+    32.622125,
+    -85.933076,
+    32.622125
+],
   "geometry": {"coordinates":[-85.933076,32.622125],"type":"Point"}
 }

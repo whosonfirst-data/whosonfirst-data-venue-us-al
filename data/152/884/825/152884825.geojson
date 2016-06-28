@@ -2,13 +2,14 @@
   "id": 152884825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.085867,30.691808,-88.085867,30.691808",
     "geom:latitude":30.691808,
     "geom:longitude":-88.085867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1906 Spring Hill Ave",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.braggmitchellmansion.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878989,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152884825,
-    "wof:lastmodified":1449048022,
+    "wof:lastmodified":1466320283,
     "wof:name":"Bragg-Mitchell Mansion",
     "wof:parent_id":85878989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.085867,30.691808,-88.085867,30.691808],
-  "geometry": {"coordinates":[-88.085867,30.691808],"type":"Point"}
+  "bbox": [
+    -88.085867,
+    30.691808,
+    -88.085867,
+    30.691808
+],
+  "geometry": {"coordinates":[-88.08586699999999,30.691808],"type":"Point"}
 }

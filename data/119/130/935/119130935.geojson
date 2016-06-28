@@ -2,13 +2,14 @@
   "id": 119130935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.819227,33.468658,-86.819227,33.468658",
     "geom:latitude":33.468658,
     "geom:longitude":-86.819227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 Palisades Blvd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821721,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85821721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":119130935,
-    "wof:lastmodified":1449041698,
+    "wof:lastmodified":1466314553,
     "wof:name":"Fine Gifts",
     "wof:parent_id":85821721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.819227,33.468658,-86.819227,33.468658],
+  "bbox": [
+    -86.819227,
+    33.468658,
+    -86.819227,
+    33.468658
+],
   "geometry": {"coordinates":[-86.819227,33.468658],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152520881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.304724,32.356498,-86.304724,32.356498",
     "geom:latitude":32.356498,
     "geom:longitude":-86.304724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1580 Gilmer Ave",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879039,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152520881,
-    "wof:lastmodified":1449045829,
+    "wof:lastmodified":1466318511,
     "wof:name":"Fairlie H Rinehart",
     "wof:parent_id":85879039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.304724,32.356498,-86.304724,32.356498],
-  "geometry": {"coordinates":[-86.304724,32.356498],"type":"Point"}
+  "bbox": [
+    -86.304724,
+    32.356498,
+    -86.304724,
+    32.356498
+],
+  "geometry": {"coordinates":[-86.30472399999999,32.356498],"type":"Point"}
 }

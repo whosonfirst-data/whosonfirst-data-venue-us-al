@@ -2,13 +2,14 @@
   "id": 152398513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.456892,34.671413,-86.456892,34.671413",
     "geom:latitude":34.671413,
     "geom:longitude":-86.456892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2905 Kincade Way",
     "sg:city":"Owens Cross Roads",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878245,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152398513,
-    "wof:lastmodified":1449044674,
+    "wof:lastmodified":1466317845,
     "wof:name":"Hornaco Inc",
     "wof:parent_id":85878245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.456892,34.671413,-86.456892,34.671413],
+  "bbox": [
+    -86.456892,
+    34.671413,
+    -86.456892,
+    34.671413
+],
   "geometry": {"coordinates":[-86.456892,34.671413],"type":"Point"}
 }

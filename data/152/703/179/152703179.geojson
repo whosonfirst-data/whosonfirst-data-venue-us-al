@@ -2,13 +2,14 @@
   "id": 152703179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.806442,33.516515,-86.806442,33.516515",
     "geom:latitude":33.516515,
     "geom:longitude":-86.806442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2020 3rd Ave N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876269,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152703179,
-    "wof:lastmodified":1449045711,
+    "wof:lastmodified":1466319497,
     "wof:name":"Standard Furniture Co 1",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.806442,33.516515,-86.806442,33.516515],
+  "bbox": [
+    -86.806442,
+    33.516515,
+    -86.806442,
+    33.516515
+],
   "geometry": {"coordinates":[-86.806442,33.516515],"type":"Point"}
 }

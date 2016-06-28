@@ -2,13 +2,14 @@
   "id": 152596483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.850689,31.369992,-85.850689,31.369992",
     "geom:latitude":31.369992,
     "geom:longitude":-85.850689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Gateway Dr",
     "sg:city":"Enterprise",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837695,
+        85688675,
         85633793,
         85899527,
         102085699,
-        85688675
+        85837695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152596483,
-    "wof:lastmodified":1449046671,
+    "wof:lastmodified":1466318821,
     "wof:name":"JP Pawnbrokers Inc",
     "wof:parent_id":85837695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.850689,31.369992,-85.850689,31.369992],
+  "bbox": [
+    -85.850689,
+    31.369992,
+    -85.850689,
+    31.369992
+],
   "geometry": {"coordinates":[-85.850689,31.369992],"type":"Point"}
 }

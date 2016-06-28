@@ -2,13 +2,14 @@
   "id": 152162173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.730375,34.744272,-86.730375,34.744272",
     "geom:latitude":34.744272,
     "geom:longitude":-86.730375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Cambridge Trl",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851107,
+        85688675,
         85633793,
         85913593,
         102085487,
-        85688675
+        85851107
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152162173,
-    "wof:lastmodified":1449048243,
+    "wof:lastmodified":1466315232,
     "wof:name":"Pet Haven Cemetery",
     "wof:parent_id":85851107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.730375,34.744272,-86.730375,34.744272],
+  "bbox": [
+    -86.730375,
+    34.744272,
+    -86.730375,
+    34.744272
+],
   "geometry": {"coordinates":[-86.730375,34.744272],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152406671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.2917,31.878639,-88.2917,31.878639",
     "geom:latitude":31.878639,
     "geom:longitude":-88.2917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2974 Mosley Bridge Rd",
     "sg:city":"Gilbertown",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822759,
+        85688675,
         85633793,
         85899781,
         102085727,
-        85688675
+        85822759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152406671,
-    "wof:lastmodified":1449046780,
+    "wof:lastmodified":1466317875,
     "wof:name":"Gilbertown Church Of God",
     "wof:parent_id":85822759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.2917,31.878639,-88.2917,31.878639],
-  "geometry": {"coordinates":[-88.2917,31.878639],"type":"Point"}
+  "bbox": [
+    -88.2917,
+    31.878639,
+    -88.2917,
+    31.878639
+],
+  "geometry": {"coordinates":[-88.29170000000001,31.878639],"type":"Point"}
 }

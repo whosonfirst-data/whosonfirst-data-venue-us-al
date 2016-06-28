@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102481613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.264461,32.325997,-86.264461,32.325997",
     "geom:latitude":32.325997,
     "geom:longitude":-86.264461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3086 Woodley Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842989,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85842989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102481613,
-    "wof:lastmodified":1449069865,
+    "wof:lastmodified":1466315423,
     "wof:name":"Capitol Adjustment Co",
     "wof:parent_id":85842989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.264461,32.325997,-86.264461,32.325997],
+  "bbox": [
+    -86.264461,
+    32.325997,
+    -86.264461,
+    32.325997
+],
   "geometry": {"coordinates":[-86.264461,32.325997],"type":"Point"}
 }

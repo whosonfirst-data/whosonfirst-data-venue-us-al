@@ -2,13 +2,14 @@
   "id": 152331305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.285621,33.588322,-86.285621,33.588322",
     "geom:latitude":33.588322,
     "geom:longitude":-86.285621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 20th St N",
     "sg:city":"Pell City",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840553,
+        85688675,
         85633793,
         85913409,
         102085647,
-        85688675
+        85840553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152331305,
-    "wof:lastmodified":1449047110,
+    "wof:lastmodified":1466317281,
     "wof:name":"Netland Systems",
     "wof:parent_id":85840553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.285621,33.588322,-86.285621,33.588322],
-  "geometry": {"coordinates":[-86.285621,33.588322],"type":"Point"}
+  "bbox": [
+    -86.285621,
+    33.588322,
+    -86.285621,
+    33.588322
+],
+  "geometry": {"coordinates":[-86.28562100000001,33.588322],"type":"Point"}
 }

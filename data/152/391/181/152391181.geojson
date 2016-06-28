@@ -2,13 +2,14 @@
   "id": 152391181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.99442,33.560579,-86.99442,33.560579",
     "geom:latitude":33.560579,
     "geom:longitude":-86.99442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1603 Hickory St",
     "sg:city":"Mulga",
     "sg:classifiers":[
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152391181,
-    "wof:lastmodified":1449047253,
+    "wof:lastmodified":1466317795,
     "wof:name":"Restored Kingdon of God",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.99442,33.560579,-86.99442,33.560579],
-  "geometry": {"coordinates":[-86.99442,33.560579],"type":"Point"}
+  "bbox": [
+    -86.99442,
+    33.560579,
+    -86.99442,
+    33.560579
+],
+  "geometry": {"coordinates":[-86.99442000000001,33.560579],"type":"Point"}
 }

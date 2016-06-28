@@ -2,13 +2,14 @@
   "id": 152378185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.879067,33.484271,-86.879067,33.484271",
     "geom:latitude":33.484271,
     "geom:longitude":-86.879067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2900 S Park Dr SW",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818187,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85818187
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152378185,
-    "wof:lastmodified":1449047416,
+    "wof:lastmodified":1466317697,
     "wof:name":"A G Gaston Boys & Girls Club",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.879067,33.484271,-86.879067,33.484271],
-  "geometry": {"coordinates":[-86.879067,33.484271],"type":"Point"}
+  "bbox": [
+    -86.879067,
+    33.484271,
+    -86.879067,
+    33.484271
+],
+  "geometry": {"coordinates":[-86.87906700000001,33.484271],"type":"Point"}
 }

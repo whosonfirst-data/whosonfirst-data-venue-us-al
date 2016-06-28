@@ -2,13 +2,14 @@
   "id": 152133193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.199231,30.708709,-88.199231,30.708709",
     "geom:latitude":30.708709,
     "geom:longitude":-88.199231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6725 Zeigler Blvd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152133193,
-    "wof:lastmodified":1449048119,
+    "wof:lastmodified":1466315179,
     "wof:name":"Parklane Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.199231,30.708709,-88.199231,30.708709],
+  "bbox": [
+    -88.199231,
+    30.708709,
+    -88.199231,
+    30.708709
+],
   "geometry": {"coordinates":[-88.199231,30.708709],"type":"Point"}
 }

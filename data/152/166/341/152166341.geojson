@@ -2,13 +2,14 @@
   "id": 152166341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.775553,33.466218,-86.775553,33.466218",
     "geom:latitude":33.466218,
     "geom:longitude":-86.775553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"740 Brookwood Blvd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850365,
+        85688675,
         85633793,
         85914847,
         102085481,
-        85688675
+        85850365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152166341,
-    "wof:lastmodified":1449046884,
+    "wof:lastmodified":1466315599,
     "wof:name":"Cracker Grill",
     "wof:parent_id":85850365,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.775553,33.466218,-86.775553,33.466218],
+  "bbox": [
+    -86.775553,
+    33.466218,
+    -86.775553,
+    33.466218
+],
   "geometry": {"coordinates":[-86.775553,33.466218],"type":"Point"}
 }

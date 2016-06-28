@@ -2,13 +2,14 @@
   "id": 152603939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.48991,32.634291,-85.48991,32.634291",
     "geom:latitude":32.634291,
     "geom:longitude":-85.48991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1329 Hickory Ln",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822529,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85822529
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152603939,
-    "wof:lastmodified":1449048205,
+    "wof:lastmodified":1466318901,
     "wof:name":"Highway 61 Records Video",
     "wof:parent_id":85822529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.48991,32.634291,-85.48991,32.634291],
-  "geometry": {"coordinates":[-85.48991,32.634291],"type":"Point"}
+  "bbox": [
+    -85.48991,
+    32.634291,
+    -85.48991,
+    32.634291
+],
+  "geometry": {"coordinates":[-85.48990999999999,32.634291],"type":"Point"}
 }

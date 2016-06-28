@@ -2,13 +2,14 @@
   "id": 152595179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.129545,34.148811,-86.129545,34.148811",
     "geom:latitude":34.148811,
     "geom:longitude":-86.129545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10480 US Hwy 431",
     "sg:city":"Boaz",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085545,
-        85633793,
         85688675,
-        85851221
+        85633793,
+        85851221,
+        102085545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152595179,
-    "wof:lastmodified":1449048472,
+    "wof:lastmodified":1466318800,
     "wof:name":"Sand Mountain Twin Drive In Th",
     "wof:parent_id":85851221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.129545,34.148811,-86.129545,34.148811],
-  "geometry": {"coordinates":[-86.129545,34.148811],"type":"Point"}
+  "bbox": [
+    -86.129545,
+    34.148811,
+    -86.129545,
+    34.148811
+],
+  "geometry": {"coordinates":[-86.12954499999999,34.148811],"type":"Point"}
 }

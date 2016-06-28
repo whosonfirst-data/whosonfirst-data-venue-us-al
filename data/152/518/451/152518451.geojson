@@ -2,13 +2,14 @@
   "id": 152518451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.306477,32.379922,-86.306477,32.379922",
     "geom:latitude":32.379922,
     "geom:longitude":-86.306477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Madison Ave",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.stjohnsmontgomery.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879037,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152518451,
-    "wof:lastmodified":1449046912,
+    "wof:lastmodified":1466318428,
     "wof:name":"St John's Episcopal Church",
     "wof:parent_id":85879037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.306477,32.379922,-86.306477,32.379922],
+  "bbox": [
+    -86.306477,
+    32.379922,
+    -86.306477,
+    32.379922
+],
   "geometry": {"coordinates":[-86.306477,32.379922],"type":"Point"}
 }

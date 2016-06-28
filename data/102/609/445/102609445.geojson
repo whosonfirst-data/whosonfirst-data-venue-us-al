@@ -2,13 +2,14 @@
   "id": 102609445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.627774,34.719422,-86.627774,34.719422",
     "geom:latitude":34.719422,
     "geom:longitude":-86.627774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Jordan Ln NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822763,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85822763
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102609445,
-    "wof:lastmodified":1449068667,
+    "wof:lastmodified":1466317278,
     "wof:name":"Orkin Exterminating Co",
     "wof:parent_id":85822763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.627774,34.719422,-86.627774,34.719422],
+  "bbox": [
+    -86.627774,
+    34.719422,
+    -86.627774,
+    34.719422
+],
   "geometry": {"coordinates":[-86.627774,34.719422],"type":"Point"}
 }

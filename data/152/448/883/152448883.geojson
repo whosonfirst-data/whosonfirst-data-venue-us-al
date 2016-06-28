@@ -2,13 +2,14 @@
   "id": 152448883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.928227,32.675298,-85.928227,32.675298",
     "geom:latitude":32.675298,
     "geom:longitude":-85.928227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1113 Martin Dam Rd",
     "sg:city":"Tallassee",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827623,
+        85688675,
         85633793,
         85913291,
         102085631,
-        85688675
+        85827623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152448883,
-    "wof:lastmodified":1449048697,
+    "wof:lastmodified":1466318073,
     "wof:name":"Alabama Elk's Youth Camp",
     "wof:parent_id":85827623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.928227,32.675298,-85.928227,32.675298],
-  "geometry": {"coordinates":[-85.928227,32.675298],"type":"Point"}
+  "bbox": [
+    -85.928227,
+    32.675298,
+    -85.928227,
+    32.675298
+],
+  "geometry": {"coordinates":[-85.92822700000001,32.675298],"type":"Point"}
 }

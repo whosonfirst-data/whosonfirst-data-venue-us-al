@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102514155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.986587,34.601884,-86.986587,34.601884",
     "geom:latitude":34.601884,
     "geom:longitude":-86.986587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 1st Ave SE",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     "sg:website":"www.decaturdaily.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085531,
-        85633793,
         85688675,
-        85802585
+        85633793,
+        85802585,
+        102085531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102514155,
-    "wof:lastmodified":1449068959,
+    "wof:lastmodified":1466316970,
     "wof:name":"Decatur Daily",
     "wof:parent_id":85802585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.986587,34.601884,-86.986587,34.601884],
+  "bbox": [
+    -86.986587,
+    34.601884,
+    -86.986587,
+    34.601884
+],
   "geometry": {"coordinates":[-86.986587,34.601884],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152162401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.984833,33.057826,-85.984833,33.057826",
     "geom:latitude":33.057826,
     "geom:longitude":-85.984833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4174 Goodwater Rd",
     "sg:city":"Goodwater",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085567,
-        85633793,
         85688675,
-        85853455
+        85633793,
+        85853455,
+        102085567
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152162401,
-    "wof:lastmodified":1449048245,
+    "wof:lastmodified":1466315245,
     "wof:name":"Daniel Landscape",
     "wof:parent_id":85853455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.984833,33.057826,-85.984833,33.057826],
-  "geometry": {"coordinates":[-85.984833,33.057826],"type":"Point"}
+  "bbox": [
+    -85.984833,
+    33.057826,
+    -85.984833,
+    33.057826
+],
+  "geometry": {"coordinates":[-85.98483299999999,33.057826],"type":"Point"}
 }

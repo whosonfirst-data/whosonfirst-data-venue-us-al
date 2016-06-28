@@ -2,13 +2,14 @@
   "id": 152536619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.475002,32.607578,-85.475002,32.607578",
     "geom:latitude":32.607578,
     "geom:longitude":-85.475002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"158 N Ross St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848213,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85848213
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":152536619,
-    "wof:lastmodified":1449047051,
+    "wof:lastmodified":1466318544,
     "wof:name":"Mad Cat Tattoo Co",
     "wof:parent_id":85848213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.475002,32.607578,-85.475002,32.607578],
+  "bbox": [
+    -85.475002,
+    32.607578,
+    -85.475002,
+    32.607578
+],
   "geometry": {"coordinates":[-85.475002,32.607578],"type":"Point"}
 }

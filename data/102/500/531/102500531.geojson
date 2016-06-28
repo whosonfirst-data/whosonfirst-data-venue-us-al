@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102500531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.761316,33.804038,-85.761316,33.804038",
     "geom:latitude":33.804038,
     "geom:longitude":-85.761316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Pelham Rd S",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805945,
+        85688675,
         85633793,
         85914293,
         102085603,
-        85688675
+        85805945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102500531,
-    "wof:lastmodified":1449068386,
+    "wof:lastmodified":1466316442,
     "wof:name":"Hammett Service Ctr",
     "wof:parent_id":85805945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.761316,33.804038,-85.761316,33.804038],
-  "geometry": {"coordinates":[-85.761316,33.804038],"type":"Point"}
+  "bbox": [
+    -85.761316,
+    33.804038,
+    -85.761316,
+    33.804038
+],
+  "geometry": {"coordinates":[-85.76131599999999,33.804038],"type":"Point"}
 }

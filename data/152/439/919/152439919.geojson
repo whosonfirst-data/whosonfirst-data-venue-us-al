@@ -2,13 +2,14 @@
   "id": 152439919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.797666,33.271896,-86.797666,33.271896",
     "geom:latitude":33.271896,
     "geom:longitude":-86.797666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1679 McCain Pkwy",
     "sg:city":"Pelham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828267,
+        85688675,
         85633793,
         85914501,
         102085499,
-        85688675
+        85828267
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152439919,
-    "wof:lastmodified":1449045576,
+    "wof:lastmodified":1466318027,
     "wof:name":"Alabama Mobile Storage Inc",
     "wof:parent_id":85828267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.797666,33.271896,-86.797666,33.271896],
-  "geometry": {"coordinates":[-86.797666,33.271896],"type":"Point"}
+  "bbox": [
+    -86.797666,
+    33.271896,
+    -86.797666,
+    33.271896
+],
+  "geometry": {"coordinates":[-86.79766600000001,33.271896],"type":"Point"}
 }

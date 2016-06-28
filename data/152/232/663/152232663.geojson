@@ -2,13 +2,14 @@
   "id": 152232663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.446542,31.246045,-85.446542,31.246045",
     "geom:latitude":31.246045,
     "geom:longitude":-85.446542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Gabriel Ct",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805317,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85805317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152232663,
-    "wof:lastmodified":1449045795,
+    "wof:lastmodified":1466316431,
     "wof:name":"Donald J Branton DVM",
     "wof:parent_id":85805317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.446542,31.246045,-85.446542,31.246045],
-  "geometry": {"coordinates":[-85.446542,31.246045],"type":"Point"}
+  "bbox": [
+    -85.446542,
+    31.246045,
+    -85.446542,
+    31.246045
+],
+  "geometry": {"coordinates":[-85.44654199999999,31.246045],"type":"Point"}
 }

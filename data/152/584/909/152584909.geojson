@@ -2,13 +2,14 @@
   "id": 152584909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.640629,33.31717,-86.640629,33.31717",
     "geom:latitude":33.31717,
     "geom:longitude":-86.640629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Sentinel Dr",
     "sg:city":"Chelsea",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85833411
+        85633793,
+        85833411,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152584909,
-    "wof:lastmodified":1449044818,
+    "wof:lastmodified":1466318797,
     "wof:name":"Ben M Handley",
     "wof:parent_id":85833411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.640629,33.31717,-86.640629,33.31717],
+  "bbox": [
+    -86.640629,
+    33.31717,
+    -86.640629,
+    33.31717
+],
   "geometry": {"coordinates":[-86.640629,33.31717],"type":"Point"}
 }

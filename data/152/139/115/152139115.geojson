@@ -2,13 +2,14 @@
   "id": 152139115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.204688,32.535912,-86.204688,32.535912",
     "geom:latitude":32.535912,
     "geom:longitude":-86.204688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"170 Hill St",
     "sg:city":"Wetumpka",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806527,
+        85688675,
         85633793,
         85913951,
         102085631,
-        85688675
+        85806527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152139115,
-    "wof:lastmodified":1449044740,
+    "wof:lastmodified":1466315348,
     "wof:name":"Tillman's General Home Mntnc",
     "wof:parent_id":85806527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.204688,32.535912,-86.204688,32.535912],
+  "bbox": [
+    -86.204688,
+    32.535912,
+    -86.204688,
+    32.535912
+],
   "geometry": {"coordinates":[-86.204688,32.535912],"type":"Point"}
 }

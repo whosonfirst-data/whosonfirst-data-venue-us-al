@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102508149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.811375,33.516627,-86.811375,33.516627",
     "geom:latitude":33.516627,
     "geom:longitude":-86.811375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1728 5th Ave N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820315,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85820315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102508149,
-    "wof:lastmodified":1449069089,
+    "wof:lastmodified":1466316554,
     "wof:name":"Wiggins & Davis LLC",
     "wof:parent_id":85820315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.811375,33.516627,-86.811375,33.516627],
+  "bbox": [
+    -86.811375,
+    33.516627,
+    -86.811375,
+    33.516627
+],
   "geometry": {"coordinates":[-86.811375,33.516627],"type":"Point"}
 }

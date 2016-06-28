@@ -2,13 +2,14 @@
   "id": 152883685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.955323,33.400368,-86.955323,33.400368",
     "geom:latitude":33.400368,
     "geom:longitude":-86.955323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 3rd Ave N",
     "sg:city":"Bessemer",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152883685,
-    "wof:lastmodified":1449047830,
+    "wof:lastmodified":1466320279,
     "wof:name":"Stephen Jones Hasty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.955323,33.400368,-86.955323,33.400368],
-  "geometry": {"coordinates":[-86.955323,33.400368],"type":"Point"}
+  "bbox": [
+    -86.955323,
+    33.400368,
+    -86.955323,
+    33.400368
+],
+  "geometry": {"coordinates":[-86.95532300000001,33.400368],"type":"Point"}
 }

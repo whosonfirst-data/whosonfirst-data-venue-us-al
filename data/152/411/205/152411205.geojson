@@ -2,13 +2,14 @@
   "id": 152411205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.95529,33.395268,-86.95529,33.395268",
     "geom:latitude":33.395268,
     "geom:longitude":-86.95529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1320 Alabama Ave",
     "sg:city":"Bessemer",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811055,
+        85688675,
         85633793,
         85914885,
         102085481,
-        85688675
+        85811055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152411205,
-    "wof:lastmodified":1449044515,
+    "wof:lastmodified":1466317880,
     "wof:name":"Clean Car Svc",
     "wof:parent_id":85811055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.95529,33.395268,-86.95529,33.395268],
-  "geometry": {"coordinates":[-86.95529,33.395268],"type":"Point"}
+  "bbox": [
+    -86.95529,
+    33.395268,
+    -86.95529,
+    33.395268
+],
+  "geometry": {"coordinates":[-86.95529000000001,33.395268],"type":"Point"}
 }

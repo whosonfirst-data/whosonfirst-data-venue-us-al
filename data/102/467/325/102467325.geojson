@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102467325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.020222,34.015196,-86.020222,34.015196",
     "geom:latitude":34.015196,
     "geom:longitude":-86.020222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1113 4th Ave",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805515,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85805515
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102467325,
-    "wof:lastmodified":1449069662,
+    "wof:lastmodified":1466315150,
     "wof:name":"Jordan Office Supply",
     "wof:parent_id":85805515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.020222,34.015196,-86.020222,34.015196],
+  "bbox": [
+    -86.020222,
+    34.015196,
+    -86.020222,
+    34.015196
+],
   "geometry": {"coordinates":[-86.020222,34.015196],"type":"Point"}
 }

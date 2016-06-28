@@ -2,13 +2,14 @@
   "id": 152126677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.006197,34.370335,-87.006197,34.370335",
     "geom:latitude":34.370335,
     "geom:longitude":-87.006197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2337 Co Rd 55",
     "sg:city":"Hartselle",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851807,
+        85688675,
         85633793,
         85914103,
         102085531,
-        85688675
+        85851807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152126677,
-    "wof:lastmodified":1449046011,
+    "wof:lastmodified":1466314812,
     "wof:name":"Hershberger Builders",
     "wof:parent_id":85851807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.006197,34.370335,-87.006197,34.370335],
+  "bbox": [
+    -87.006197,
+    34.370335,
+    -87.006197,
+    34.370335
+],
   "geometry": {"coordinates":[-87.006197,34.370335],"type":"Point"}
 }

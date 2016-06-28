@@ -2,13 +2,14 @@
   "id": 152838561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.584276,34.673336,-86.584276,34.673336",
     "geom:latitude":34.673336,
     "geom:longitude":-86.584276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2030 Vermont Rd SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819601,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85819601
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152838561,
-    "wof:lastmodified":1449044866,
+    "wof:lastmodified":1466320040,
     "wof:name":"APAC Al Inc",
     "wof:parent_id":85819601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.584276,34.673336,-86.584276,34.673336],
+  "bbox": [
+    -86.584276,
+    34.673336,
+    -86.584276,
+    34.673336
+],
   "geometry": {"coordinates":[-86.584276,34.673336],"type":"Point"}
 }

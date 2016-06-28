@@ -2,13 +2,14 @@
   "id": 102631755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.760723,33.506656,-86.760723,33.506656",
     "geom:latitude":33.506656,
     "geom:longitude":-86.760723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3918 Montclair Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876275,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102631755,
-    "wof:lastmodified":1449068521,
+    "wof:lastmodified":1466317530,
     "wof:name":"Pilates Place",
     "wof:parent_id":85876275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.760723,33.506656,-86.760723,33.506656],
+  "bbox": [
+    -86.760723,
+    33.506656,
+    -86.760723,
+    33.506656
+],
   "geometry": {"coordinates":[-86.760723,33.506656],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152430499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.683797,33.639336,-86.683797,33.639336",
     "geom:latitude":33.639336,
     "geom:longitude":-86.683797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 20th Ct NW",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -25,10 +26,10 @@
     "sg:website":"www.hearboy.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085481,
-        85633793,
         85688675,
-        85816403
+        85633793,
+        85816403,
+        102085481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":152430499,
-    "wof:lastmodified":1449047242,
+    "wof:lastmodified":1466318000,
     "wof:name":"Apex Sales Corp",
     "wof:parent_id":85816403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.683797,33.639336,-86.683797,33.639336],
+  "bbox": [
+    -86.683797,
+    33.639336,
+    -86.683797,
+    33.639336
+],
   "geometry": {"coordinates":[-86.683797,33.639336],"type":"Point"}
 }

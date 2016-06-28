@@ -2,13 +2,14 @@
   "id": 152414481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.365542,31.205845,-85.365542,31.205845",
     "geom:latitude":31.205845,
     "geom:longitude":-85.365542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1346 Ross Clark Cir",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847911,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85847911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152414481,
-    "wof:lastmodified":1449046467,
+    "wof:lastmodified":1466317917,
     "wof:name":"Air Conditioning Assoc Inc",
     "wof:parent_id":85847911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.365542,31.205845,-85.365542,31.205845],
+  "bbox": [
+    -85.365542,
+    31.205845,
+    -85.365542,
+    31.205845
+],
   "geometry": {"coordinates":[-85.365542,31.205845],"type":"Point"}
 }

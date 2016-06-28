@@ -2,13 +2,14 @@
   "id": 152869605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.697795,30.563961,-87.697795,30.563961",
     "geom:latitude":30.563961,
     "geom:longitude":-87.697795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19119 US Hwy 90",
     "sg:city":"Robertsdale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847563,
+        85688675,
         85633793,
         85914707,
         102085469,
-        85688675
+        85847563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152869605,
-    "wof:lastmodified":1449048550,
+    "wof:lastmodified":1466320186,
     "wof:name":"Robertsdale Garden Townhouses",
     "wof:parent_id":85847563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.697795,30.563961,-87.697795,30.563961],
+  "bbox": [
+    -87.697795,
+    30.563961,
+    -87.697795,
+    30.563961
+],
   "geometry": {"coordinates":[-87.697795,30.563961],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152573641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.018493,34.013341,-86.018493,34.013341",
     "geom:latitude":34.013341,
     "geom:longitude":-86.018493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1003 6th Ave",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805515,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675,
+        85805515,
         85822279
     ],
     "wof:breaches":[],
@@ -60,14 +61,20 @@
         }
     ],
     "wof:id":152573641,
-    "wof:lastmodified":1449047713,
+    "wof:lastmodified":1466318564,
     "wof:name":"Renassiance House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.018493,34.013341,-86.018493,34.013341],
-  "geometry": {"coordinates":[-86.018493,34.013341],"type":"Point"}
+  "bbox": [
+    -86.018493,
+    34.013341,
+    -86.018493,
+    34.013341
+],
+  "geometry": {"coordinates":[-86.01849300000001,34.013341],"type":"Point"}
 }

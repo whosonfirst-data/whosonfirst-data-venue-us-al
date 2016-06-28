@@ -2,13 +2,14 @@
   "id": 152836401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.914419,31.82791,-85.914419,31.82791",
     "geom:latitude":31.82791,
     "geom:longitude":-85.914419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"517 Grace Rd",
     "sg:city":"Troy",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867315,
+        85688675,
         85633793,
         85914551,
         102085619,
-        85688675
+        85867315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152836401,
-    "wof:lastmodified":1449047355,
+    "wof:lastmodified":1466320135,
     "wof:name":"Barron Farms",
     "wof:parent_id":85867315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.914419,31.82791,-85.914419,31.82791],
+  "bbox": [
+    -85.914419,
+    31.82791,
+    -85.914419,
+    31.82791
+],
   "geometry": {"coordinates":[-85.914419,31.82791],"type":"Point"}
 }

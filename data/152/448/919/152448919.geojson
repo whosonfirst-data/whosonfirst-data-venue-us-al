@@ -2,13 +2,14 @@
   "id": 152448919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.632557,34.533419,-86.632557,34.533419",
     "geom:latitude":34.533419,
     "geom:longitude":-86.632557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Gray Dr",
     "sg:city":"Laceys Spring",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822793,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85822793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152448919,
-    "wof:lastmodified":1449048697,
+    "wof:lastmodified":1466318074,
     "wof:name":"RCM Co",
     "wof:parent_id":85822793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.632557,34.533419,-86.632557,34.533419],
-  "geometry": {"coordinates":[-86.632557,34.533419],"type":"Point"}
+  "bbox": [
+    -86.632557,
+    34.533419,
+    -86.632557,
+    34.533419
+],
+  "geometry": {"coordinates":[-86.63255700000001,34.533419],"type":"Point"}
 }

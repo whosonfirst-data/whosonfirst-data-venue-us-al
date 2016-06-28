@@ -2,13 +2,14 @@
   "id": 152173633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.843671,33.294991,-86.843671,33.294991",
     "geom:latitude":33.294991,
     "geom:longitude":-86.843671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4035 Helena Rd",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851743,
+        85688675,
         85633793,
         85914471,
         102085499,
-        85688675
+        85851743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152173633,
-    "wof:lastmodified":1449045199,
+    "wof:lastmodified":1466315719,
     "wof:name":"Waterhouse Media",
     "wof:parent_id":85851743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.843671,33.294991,-86.843671,33.294991],
+  "bbox": [
+    -86.843671,
+    33.294991,
+    -86.843671,
+    33.294991
+],
   "geometry": {"coordinates":[-86.843671,33.294991],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152358883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.912525,30.641658,-87.912525,30.641658",
     "geom:latitude":30.641658,
     "geom:longitude":-87.912525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28720 US Hwy 98",
     "sg:city":"Daphne",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840537,
+        85688675,
         85633793,
         85914695,
         102085469,
-        85688675
+        85840537
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152358883,
-    "wof:lastmodified":1449046256,
+    "wof:lastmodified":1466317649,
     "wof:name":"Wolfe Chapel",
     "wof:parent_id":85840537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.912525,30.641658,-87.912525,30.641658],
+  "bbox": [
+    -87.912525,
+    30.641658,
+    -87.912525,
+    30.641658
+],
   "geometry": {"coordinates":[-87.912525,30.641658],"type":"Point"}
 }

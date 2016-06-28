@@ -2,13 +2,14 @@
   "id": 152732911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.190776,30.668211,-88.190776,30.668211",
     "geom:latitude":30.668211,
     "geom:longitude":-88.190776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Hillcrest Rd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851319,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85851319
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152732911,
-    "wof:lastmodified":1449049042,
+    "wof:lastmodified":1466319562,
     "wof:name":"Lyle Stover Engineering Inc",
     "wof:parent_id":85851319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.190776,30.668211,-88.190776,30.668211],
+  "bbox": [
+    -88.190776,
+    30.668211,
+    -88.190776,
+    30.668211
+],
   "geometry": {"coordinates":[-88.190776,30.668211],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152597653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.265372,32.341745,-86.265372,32.341745",
     "geom:latitude":32.341745,
     "geom:longitude":-86.265372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2801 Crawford St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879045,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152597653,
-    "wof:lastmodified":1449048846,
+    "wof:lastmodified":1466318836,
     "wof:name":"Marcus Marks & Associates",
     "wof:parent_id":85879045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.265372,32.341745,-86.265372,32.341745],
+  "bbox": [
+    -86.265372,
+    32.341745,
+    -86.265372,
+    32.341745
+],
   "geometry": {"coordinates":[-86.265372,32.341745],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152161373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.044759,34.345281,-86.044759,34.345281",
     "geom:latitude":34.345281,
     "geom:longitude":-86.044759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4593 Co Rd 9",
     "sg:city":"Geraldine",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815015,
+        85688675,
         85633793,
         85897515,
         102085615,
-        85688675
+        85815015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152161373,
-    "wof:lastmodified":1449046138,
+    "wof:lastmodified":1466315185,
     "wof:name":"W&E Stogsdill Farm",
     "wof:parent_id":85815015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.044759,34.345281,-86.044759,34.345281],
+  "bbox": [
+    -86.044759,
+    34.345281,
+    -86.044759,
+    34.345281
+],
   "geometry": {"coordinates":[-86.044759,34.345281],"type":"Point"}
 }

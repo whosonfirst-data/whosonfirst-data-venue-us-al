@@ -2,13 +2,14 @@
   "id": 152511149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.038159,32.640565,-86.038159,32.640565",
     "geom:latitude":32.640565,
     "geom:longitude":-86.038159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"473 Kowaliga Rd",
     "sg:city":"Eclectic",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827623,
+        85688675,
         85633793,
         85913291,
         102085631,
-        85688675
+        85827623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152511149,
-    "wof:lastmodified":1449046442,
+    "wof:lastmodified":1466318374,
     "wof:name":"US Post Office",
     "wof:parent_id":85827623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.038159,32.640565,-86.038159,32.640565],
-  "geometry": {"coordinates":[-86.038159,32.640565],"type":"Point"}
+  "bbox": [
+    -86.038159,
+    32.640565,
+    -86.038159,
+    32.640565
+],
+  "geometry": {"coordinates":[-86.03815899999999,32.640565],"type":"Point"}
 }

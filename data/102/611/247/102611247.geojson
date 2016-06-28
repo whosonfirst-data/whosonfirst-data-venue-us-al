@@ -2,13 +2,14 @@
   "id": 102611247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.749582,34.758367,-86.749582,34.758367",
     "geom:latitude":34.758367,
     "geom:longitude":-86.749582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6143 Wall Triana Hwy",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851107,
+        85688675,
         85633793,
         85913593,
         102085487,
-        85688675
+        85851107
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102611247,
-    "wof:lastmodified":1449069675,
+    "wof:lastmodified":1466317272,
     "wof:name":"Vector 1 Graphics",
     "wof:parent_id":85851107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.749582,34.758367,-86.749582,34.758367],
+  "bbox": [
+    -86.749582,
+    34.758367,
+    -86.749582,
+    34.758367
+],
   "geometry": {"coordinates":[-86.749582,34.758367],"type":"Point"}
 }

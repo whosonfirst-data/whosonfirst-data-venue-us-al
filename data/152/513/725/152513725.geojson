@@ -2,13 +2,14 @@
   "id": 152513725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.893337,34.525844,-85.893337,34.525844",
     "geom:latitude":34.525844,
     "geom:longitude":-85.893337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3666 Main St Powell",
     "sg:city":"Fyffe",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152513725,
-    "wof:lastmodified":1449047355,
+    "wof:lastmodified":1466318401,
     "wof:name":"Powell Citgo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.893337,34.525844,-85.893337,34.525844],
+  "bbox": [
+    -85.893337,
+    34.525844,
+    -85.893337,
+    34.525844
+],
   "geometry": {"coordinates":[-85.893337,34.525844],"type":"Point"}
 }

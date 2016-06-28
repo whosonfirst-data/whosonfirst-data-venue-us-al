@@ -2,13 +2,14 @@
   "id": 152231759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.177688,32.382368,-86.177688,32.382368",
     "geom:latitude":32.382368,
     "geom:longitude":-86.177688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6802 Atlanta Hwy",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834671,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85834671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152231759,
-    "wof:lastmodified":1449046668,
+    "wof:lastmodified":1466316330,
     "wof:name":"Car Audio Plus",
     "wof:parent_id":85834671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.177688,32.382368,-86.177688,32.382368],
+  "bbox": [
+    -86.177688,
+    32.382368,
+    -86.177688,
+    32.382368
+],
   "geometry": {"coordinates":[-86.177688,32.382368],"type":"Point"}
 }

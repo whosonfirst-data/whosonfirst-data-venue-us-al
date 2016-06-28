@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102490023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.574312,33.247388,-87.574312,33.247388",
     "geom:latitude":33.247388,
     "geom:longitude":-87.574312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4200 State Rte 69",
     "sg:city":"Northport",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806217,
+        85688675,
         85633793,
         85914425,
         102085553,
-        85688675
+        85806217
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102490023,
-    "wof:lastmodified":1449069950,
+    "wof:lastmodified":1466316053,
     "wof:name":"Christian Life Church",
     "wof:parent_id":85806217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.574312,33.247388,-87.574312,33.247388],
-  "geometry": {"coordinates":[-87.574312,33.247388],"type":"Point"}
+  "bbox": [
+    -87.574312,
+    33.247388,
+    -87.574312,
+    33.247388
+],
+  "geometry": {"coordinates":[-87.57431200000001,33.247388],"type":"Point"}
 }

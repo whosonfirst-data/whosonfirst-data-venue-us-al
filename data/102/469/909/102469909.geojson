@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102469909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.543849,34.666964,-86.543849,34.666964",
     "geom:latitude":34.666964,
     "geom:longitude":-86.543849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7501 Ramada St SE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85826603,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85826603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102469909,
-    "wof:lastmodified":1449070270,
+    "wof:lastmodified":1466315527,
     "wof:name":"P & T Welding & Trailer Sales",
     "wof:parent_id":85826603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.543849,34.666964,-86.543849,34.666964],
-  "geometry": {"coordinates":[-86.543849,34.666964],"type":"Point"}
+  "bbox": [
+    -86.543849,
+    34.666964,
+    -86.543849,
+    34.666964
+],
+  "geometry": {"coordinates":[-86.54384899999999,34.666964],"type":"Point"}
 }

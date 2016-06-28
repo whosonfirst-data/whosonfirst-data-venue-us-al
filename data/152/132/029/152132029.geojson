@@ -2,13 +2,14 @@
   "id": 152132029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.266382,32.372404,-86.266382,32.372404",
     "geom:latitude":32.372404,
     "geom:longitude":-86.266382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3154 Highland Ave",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85823265,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85823265
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152132029,
-    "wof:lastmodified":1449046569,
+    "wof:lastmodified":1466315516,
     "wof:name":"Southern Memorial Funeral Home",
     "wof:parent_id":85823265,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.266382,32.372404,-86.266382,32.372404],
-  "geometry": {"coordinates":[-86.266382,32.372404],"type":"Point"}
+  "bbox": [
+    -86.266382,
+    32.372404,
+    -86.266382,
+    32.372404
+],
+  "geometry": {"coordinates":[-86.26638199999999,32.372404],"type":"Point"}
 }

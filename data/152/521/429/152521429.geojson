@@ -2,13 +2,14 @@
   "id": 152521429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.217841,32.355077,-86.217841,32.355077",
     "geom:latitude":32.355077,
     "geom:longitude":-86.217841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1721 Eastern Blvd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879059,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879059
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152521429,
-    "wof:lastmodified":1449048694,
+    "wof:lastmodified":1466318305,
     "wof:name":"My Kids Attic",
     "wof:parent_id":85879059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.217841,32.355077,-86.217841,32.355077],
-  "geometry": {"coordinates":[-86.217841,32.355077],"type":"Point"}
+  "bbox": [
+    -86.217841,
+    32.355077,
+    -86.217841,
+    32.355077
+],
+  "geometry": {"coordinates":[-86.21784100000001,32.355077],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152452347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.291485,32.332583,-86.291485,32.332583",
     "geom:latitude":32.332583,
     "geom:longitude":-86.291485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3755 Berkley Dr",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811507,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85811507
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152452347,
-    "wof:lastmodified":1449045381,
+    "wof:lastmodified":1466317986,
     "wof:name":"Moores B B Q & Sandwich Shop",
     "wof:parent_id":85811507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.291485,32.332583,-86.291485,32.332583],
-  "geometry": {"coordinates":[-86.291485,32.332583],"type":"Point"}
+  "bbox": [
+    -86.291485,
+    32.332583,
+    -86.291485,
+    32.332583
+],
+  "geometry": {"coordinates":[-86.29148499999999,32.332583],"type":"Point"}
 }

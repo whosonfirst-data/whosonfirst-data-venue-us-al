@@ -2,13 +2,14 @@
   "id": 152693599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.623944,34.696554,-86.623944,34.696554",
     "geom:latitude":34.696554,
     "geom:longitude":-86.623944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3917 Troy Swasey Blvd SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840971,
+        85688675,
         85633793,
         85915405,
         102085487,
-        85688675
+        85840971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152693599,
-    "wof:lastmodified":1449044563,
+    "wof:lastmodified":1466319319,
     "wof:name":"Sofa Doctor",
     "wof:parent_id":85840971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.623944,34.696554,-86.623944,34.696554],
-  "geometry": {"coordinates":[-86.623944,34.696554],"type":"Point"}
+  "bbox": [
+    -86.623944,
+    34.696554,
+    -86.623944,
+    34.696554
+],
+  "geometry": {"coordinates":[-86.62394399999999,34.696554],"type":"Point"}
 }

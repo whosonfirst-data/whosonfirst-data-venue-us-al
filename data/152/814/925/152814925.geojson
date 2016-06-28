@@ -2,13 +2,14 @@
   "id": 152814925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.393198,31.255337,-85.393198,31.255337",
     "geom:latitude":31.255337,
     "geom:longitude":-85.393198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1728 Headland Ave",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.alaelectric.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859419,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85859419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152814925,
-    "wof:lastmodified":1449045152,
+    "wof:lastmodified":1466319943,
     "wof:name":"Alabama Electric Co Inc",
     "wof:parent_id":85859419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.393198,31.255337,-85.393198,31.255337],
+  "bbox": [
+    -85.393198,
+    31.255337,
+    -85.393198,
+    31.255337
+],
   "geometry": {"coordinates":[-85.393198,31.255337],"type":"Point"}
 }

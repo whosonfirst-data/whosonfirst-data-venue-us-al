@@ -2,13 +2,14 @@
   "id": 152630583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.818547,33.461991,-86.818547,33.461991",
     "geom:latitude":33.461991,
     "geom:longitude":-86.818547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"817 Green Springs Hwy",
     "sg:city":"Homewood",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817409,
+        85688675,
         85633793,
         85914847,
         102085481,
-        85688675
+        85817409
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152630583,
-    "wof:lastmodified":1449045965,
+    "wof:lastmodified":1466318997,
     "wof:name":"Appearance Car Audio",
     "wof:parent_id":85817409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.818547,33.461991,-86.818547,33.461991],
+  "bbox": [
+    -86.818547,
+    33.461991,
+    -86.818547,
+    33.461991
+],
   "geometry": {"coordinates":[-86.818547,33.461991],"type":"Point"}
 }

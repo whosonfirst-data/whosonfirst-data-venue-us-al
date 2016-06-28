@@ -2,13 +2,14 @@
   "id": 152303047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.836518,33.44493,-86.836518,33.44493",
     "geom:latitude":33.44493,
     "geom:longitude":-86.836518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"280 Snow Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829599,
+        85688675,
         85633793,
         85914847,
         102085481,
-        85688675
+        85829599
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":152303047,
-    "wof:lastmodified":1449044339,
+    "wof:lastmodified":1466317122,
     "wof:name":"Alabama Ladder Co Inc",
     "wof:parent_id":85829599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.836518,33.44493,-86.836518,33.44493],
+  "bbox": [
+    -86.836518,
+    33.44493,
+    -86.836518,
+    33.44493
+],
   "geometry": {"coordinates":[-86.836518,33.44493],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152228891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.292567,32.346455,-86.292567,32.346455",
     "geom:latitude":32.346455,
     "geom:longitude":-86.292567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3385 Cloverdale Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811493,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85811493
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152228891,
-    "wof:lastmodified":1449045748,
+    "wof:lastmodified":1466316382,
     "wof:name":"Affordable Aerials",
     "wof:parent_id":85811493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.292567,32.346455,-86.292567,32.346455],
-  "geometry": {"coordinates":[-86.292567,32.346455],"type":"Point"}
+  "bbox": [
+    -86.292567,
+    32.346455,
+    -86.292567,
+    32.346455
+],
+  "geometry": {"coordinates":[-86.29256700000001,32.346455],"type":"Point"}
 }

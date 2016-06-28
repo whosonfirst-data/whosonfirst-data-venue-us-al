@@ -2,13 +2,14 @@
   "id": 152188721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.714291,34.75374,-86.714291,34.75374",
     "geom:latitude":34.75374,
     "geom:longitude":-86.714291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1929 Slaughter Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851107,
+        85688675,
         85633793,
         85913593,
         102085487,
-        85688675
+        85851107
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152188721,
-    "wof:lastmodified":1449046599,
+    "wof:lastmodified":1466315770,
     "wof:name":"Neeley Center For Health",
     "wof:parent_id":85851107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.714291,34.75374,-86.714291,34.75374],
+  "bbox": [
+    -86.714291,
+    34.75374,
+    -86.714291,
+    34.75374
+],
   "geometry": {"coordinates":[-86.714291,34.75374],"type":"Point"}
 }

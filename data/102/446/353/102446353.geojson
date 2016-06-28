@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102446353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.819745,33.512623,-86.819745,33.512623",
     "geom:latitude":33.512623,
     "geom:longitude":-86.819745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1140 5th Ave N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820315,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675,
+        85820315,
         85849097
     ],
     "wof:breaches":[],
@@ -64,14 +65,20 @@
         }
     ],
     "wof:id":102446353,
-    "wof:lastmodified":1449069990,
+    "wof:lastmodified":1466314410,
     "wof:name":"Alabama Jack Company Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.819745,33.512623,-86.819745,33.512623],
+  "bbox": [
+    -86.819745,
+    33.512623,
+    -86.819745,
+    33.512623
+],
   "geometry": {"coordinates":[-86.819745,33.512623],"type":"Point"}
 }

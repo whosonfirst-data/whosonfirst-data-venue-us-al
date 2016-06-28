@@ -2,13 +2,14 @@
   "id": 119134213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.989331,34.010164,-85.989331,34.010164",
     "geom:latitude":34.010164,
     "geom:longitude":-85.989331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 E Meighan Blvd",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822279,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85822279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":119134213,
-    "wof:lastmodified":1449043403,
+    "wof:lastmodified":1466314626,
     "wof:name":"Shoneys 1192",
     "wof:parent_id":85822279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.989331,34.010164,-85.989331,34.010164],
-  "geometry": {"coordinates":[-85.989331,34.010164],"type":"Point"}
+  "bbox": [
+    -85.989331,
+    34.010164,
+    -85.989331,
+    34.010164
+],
+  "geometry": {"coordinates":[-85.98933100000001,34.010164],"type":"Point"}
 }

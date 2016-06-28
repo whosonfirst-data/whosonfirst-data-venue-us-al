@@ -2,13 +2,14 @@
   "id": 152501473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.146776,30.697187,-88.146776,30.697187",
     "geom:latitude":30.697187,
     "geom:longitude":-88.146776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3847 Austill Ln",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878991,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878991
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152501473,
-    "wof:lastmodified":1449048932,
+    "wof:lastmodified":1466318356,
     "wof:name":"Ollinger Barge Inc",
     "wof:parent_id":85878991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.146776,30.697187,-88.146776,30.697187],
+  "bbox": [
+    -88.146776,
+    30.697187,
+    -88.146776,
+    30.697187
+],
   "geometry": {"coordinates":[-88.146776,30.697187],"type":"Point"}
 }

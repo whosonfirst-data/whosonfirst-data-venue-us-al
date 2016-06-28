@@ -2,13 +2,14 @@
   "id": 102621623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.890713,30.644901,-87.890713,30.644901",
     "geom:latitude":30.644901,
     "geom:longitude":-87.890713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Bel Air Cir",
     "sg:city":"Daphne",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840537,
+        85688675,
         85633793,
         85914695,
         102085469,
-        85688675
+        85840537
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102621623,
-    "wof:lastmodified":1449069894,
+    "wof:lastmodified":1466317477,
     "wof:name":"Diaper Land Inc",
     "wof:parent_id":85840537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.890713,30.644901,-87.890713,30.644901],
-  "geometry": {"coordinates":[-87.890713,30.644901],"type":"Point"}
+  "bbox": [
+    -87.890713,
+    30.644901,
+    -87.890713,
+    30.644901
+],
+  "geometry": {"coordinates":[-87.89071300000001,30.644901],"type":"Point"}
 }

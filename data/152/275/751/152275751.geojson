@@ -2,13 +2,14 @@
   "id": 152275751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.871561,34.050226,-86.871561,34.050226",
     "geom:latitude":34.050226,
     "geom:longitude":-86.871561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"445 State Rte 69",
     "sg:city":"Hanceville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867305,
+        85688675,
         85633793,
         85914167,
         102085729,
-        85688675
+        85867305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152275751,
-    "wof:lastmodified":1449045789,
+    "wof:lastmodified":1466316848,
     "wof:name":"Mommy's Little Angels",
     "wof:parent_id":85867305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.871561,34.050226,-86.871561,34.050226],
+  "bbox": [
+    -86.871561,
+    34.050226,
+    -86.871561,
+    34.050226
+],
   "geometry": {"coordinates":[-86.871561,34.050226],"type":"Point"}
 }

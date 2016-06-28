@@ -2,13 +2,14 @@
   "id": 152649345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.856503,33.395396,-86.856503,33.395396",
     "geom:latitude":33.395396,
     "geom:longitude":-86.856503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"364 Park Ave",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828169,
+        85688675,
         85633793,
         85914475,
         102085481,
-        85688675
+        85828169
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152649345,
-    "wof:lastmodified":1449047451,
+    "wof:lastmodified":1466319103,
     "wof:name":"Frank L Nelson Law Offices",
     "wof:parent_id":85828169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.856503,33.395396,-86.856503,33.395396],
+  "bbox": [
+    -86.856503,
+    33.395396,
+    -86.856503,
+    33.395396
+],
   "geometry": {"coordinates":[-86.856503,33.395396],"type":"Point"}
 }

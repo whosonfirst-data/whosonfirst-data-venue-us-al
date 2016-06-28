@@ -2,13 +2,14 @@
   "id": 152718171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.822158,33.202501,-86.822158,33.202501",
     "geom:latitude":33.202501,
     "geom:longitude":-86.822158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"97 Carter Ln",
     "sg:city":"Alabaster",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85853623
+        85633793,
+        85853623,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152718171,
-    "wof:lastmodified":1449045300,
+    "wof:lastmodified":1466319405,
     "wof:name":"Ken Car Development Inc",
     "wof:parent_id":85853623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.822158,33.202501,-86.822158,33.202501],
+  "bbox": [
+    -86.822158,
+    33.202501,
+    -86.822158,
+    33.202501
+],
   "geometry": {"coordinates":[-86.822158,33.202501],"type":"Point"}
 }

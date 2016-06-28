@@ -2,13 +2,14 @@
   "id": 152438965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.49855,34.316243,-86.49855,34.316243",
     "geom:latitude":34.316243,
     "geom:longitude":-86.49855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 Cullman Rd",
     "sg:city":"Arab",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851541,
+        85688675,
         85633793,
         85913243,
         102085513,
-        85688675
+        85851541
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152438965,
-    "wof:lastmodified":1449045872,
+    "wof:lastmodified":1466318113,
     "wof:name":"Pesnell Tire & Auto Care LLC",
     "wof:parent_id":85851541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.49855,34.316243,-86.49855,34.316243],
-  "geometry": {"coordinates":[-86.49855,34.316243],"type":"Point"}
+  "bbox": [
+    -86.49855,
+    34.316243,
+    -86.49855,
+    34.316243
+],
+  "geometry": {"coordinates":[-86.49854999999999,34.316243],"type":"Point"}
 }

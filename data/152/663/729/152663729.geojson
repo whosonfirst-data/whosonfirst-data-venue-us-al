@@ -2,13 +2,14 @@
   "id": 152663729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.938839,34.21883,-86.938839,34.21883",
     "geom:latitude":34.21883,
     "geom:longitude":-86.938839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"475 Co Rd 1152",
     "sg:city":"Cullman",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085729,
-        85633793,
         85688675,
-        85867309
+        85633793,
+        85867309,
+        102085729
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152663729,
-    "wof:lastmodified":1449047703,
+    "wof:lastmodified":1466319183,
     "wof:name":"Terry's Pest Control Svc",
     "wof:parent_id":85867309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.938839,34.21883,-86.938839,34.21883],
+  "bbox": [
+    -86.938839,
+    34.21883,
+    -86.938839,
+    34.21883
+],
   "geometry": {"coordinates":[-86.938839,34.21883],"type":"Point"}
 }

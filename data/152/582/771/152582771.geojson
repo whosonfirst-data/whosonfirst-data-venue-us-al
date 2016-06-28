@@ -2,13 +2,14 @@
   "id": 152582771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.010257,34.866416,-87.010257,34.866416",
     "geom:latitude":34.866416,
     "geom:longitude":-87.010257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17510 Cross Key Rd",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829531,
+        85688675,
         85633793,
         85913543,
         102085489,
-        85688675
+        85829531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152582771,
-    "wof:lastmodified":1449046791,
+    "wof:lastmodified":1466318783,
     "wof:name":"Tony Goodin",
     "wof:parent_id":85829531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.010257,34.866416,-87.010257,34.866416],
+  "bbox": [
+    -87.010257,
+    34.866416,
+    -87.010257,
+    34.866416
+],
   "geometry": {"coordinates":[-87.010257,34.866416],"type":"Point"}
 }

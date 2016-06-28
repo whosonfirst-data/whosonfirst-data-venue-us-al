@@ -2,13 +2,14 @@
   "id": 152757389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.19042,30.662724,-88.19042,30.662724",
     "geom:latitude":30.662724,
     "geom:longitude":-88.19042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6164 Omni Park Dr",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851319,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85851319
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152757389,
-    "wof:lastmodified":1449046910,
+    "wof:lastmodified":1466319632,
     "wof:name":"Family & Cosmetic Dentisry",
     "wof:parent_id":85851319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.19042,30.662724,-88.19042,30.662724],
+  "bbox": [
+    -88.19042,
+    30.662724,
+    -88.19042,
+    30.662724
+],
   "geometry": {"coordinates":[-88.19042,30.662724],"type":"Point"}
 }

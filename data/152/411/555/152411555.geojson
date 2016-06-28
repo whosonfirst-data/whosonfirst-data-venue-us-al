@@ -2,13 +2,14 @@
   "id": 152411555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.922949,33.501144,-86.922949,33.501144",
     "geom:latitude":33.501144,
     "geom:longitude":-86.922949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4506 12th Ave",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818869,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85818869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152411555,
-    "wof:lastmodified":1449044514,
+    "wof:lastmodified":1466317885,
     "wof:name":"A & W Commercial Home Repair",
     "wof:parent_id":85818869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.922949,33.501144,-86.922949,33.501144],
+  "bbox": [
+    -86.922949,
+    33.501144,
+    -86.922949,
+    33.501144
+],
   "geometry": {"coordinates":[-86.922949,33.501144],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152705521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.3435,30.465254,-88.3435,30.465254",
     "geom:latitude":30.465254,
     "geom:longitude":-88.3435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10910 Potter Tract Rd",
     "sg:city":"Grand Bay",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085585,
-        85633793,
         85688675,
-        85895801
+        85633793,
+        85895801,
+        102085585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152705521,
-    "wof:lastmodified":1449048925,
+    "wof:lastmodified":1466319374,
     "wof:name":"Strip Tech",
     "wof:parent_id":85895801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.3435,30.465254,-88.3435,30.465254],
-  "geometry": {"coordinates":[-88.3435,30.465254],"type":"Point"}
+  "bbox": [
+    -88.3435,
+    30.465254,
+    -88.3435,
+    30.465254
+],
+  "geometry": {"coordinates":[-88.34350000000001,30.465254],"type":"Point"}
 }

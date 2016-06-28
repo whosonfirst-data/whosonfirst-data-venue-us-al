@@ -2,13 +2,14 @@
   "id": 102634307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.240795,31.895921,-88.240795,31.895921",
     "geom:latitude":31.895921,
     "geom:longitude":-88.240795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3116 Wimberly Rd",
     "sg:city":"Toxey",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102634307,
-    "wof:lastmodified":1449068915,
+    "wof:lastmodified":1466317564,
     "wof:name":"Lusk Volunteer Fire Department",
     "wof:parent_id":85688675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.240795,31.895921,-88.240795,31.895921],
-  "geometry": {"coordinates":[-88.240795,31.895921],"type":"Point"}
+  "bbox": [
+    -88.240795,
+    31.895921,
+    -88.240795,
+    31.895921
+],
+  "geometry": {"coordinates":[-88.24079500000001,31.895921],"type":"Point"}
 }

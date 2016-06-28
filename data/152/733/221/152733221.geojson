@@ -2,13 +2,14 @@
   "id": 152733221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.16775,32.350152,-86.16775,32.350152",
     "geom:latitude":32.350152,
     "geom:longitude":-86.16775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1775 Taliaferro Trl",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85823517,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85823517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152733221,
-    "wof:lastmodified":1449044947,
+    "wof:lastmodified":1466319550,
     "wof:name":"Boundless Construction",
     "wof:parent_id":85823517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.16775,32.350152,-86.16775,32.350152],
+  "bbox": [
+    -86.16775,
+    32.350152,
+    -86.16775,
+    32.350152
+],
   "geometry": {"coordinates":[-86.16775,32.350152],"type":"Point"}
 }

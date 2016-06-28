@@ -2,13 +2,14 @@
   "id": 152693227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.052777,30.697387,-88.052777,30.697387",
     "geom:latitude":30.697387,
     "geom:longitude":-88.052777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"552 Beauregard St",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895795,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85895795
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":152693227,
-    "wof:lastmodified":1449044562,
+    "wof:lastmodified":1466319308,
     "wof:name":"Marine Rigging Inc",
     "wof:parent_id":85895795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.052777,30.697387,-88.052777,30.697387],
-  "geometry": {"coordinates":[-88.052777,30.697387],"type":"Point"}
+  "bbox": [
+    -88.052777,
+    30.697387,
+    -88.052777,
+    30.697387
+],
+  "geometry": {"coordinates":[-88.05277700000001,30.697387],"type":"Point"}
 }

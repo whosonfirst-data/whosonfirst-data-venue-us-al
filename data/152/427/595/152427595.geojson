@@ -2,13 +2,14 @@
   "id": 152427595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.855343,34.274387,-85.855343,34.274387",
     "geom:latitude":34.274387,
     "geom:longitude":-85.855343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 N Valley Ave",
     "sg:city":"Collinsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815015,
+        85688675,
         85633793,
         85897515,
         102085615,
-        85688675
+        85815015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152427595,
-    "wof:lastmodified":1449045696,
+    "wof:lastmodified":1466318077,
     "wof:name":"Coco Inc",
     "wof:parent_id":85815015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.855343,34.274387,-85.855343,34.274387],
+  "bbox": [
+    -85.855343,
+    34.274387,
+    -85.855343,
+    34.274387
+],
   "geometry": {"coordinates":[-85.855343,34.274387],"type":"Point"}
 }

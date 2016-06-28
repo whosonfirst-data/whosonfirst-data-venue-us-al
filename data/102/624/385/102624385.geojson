@@ -2,13 +2,14 @@
   "id": 102624385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.32313,32.609134,-85.32313,32.609134",
     "geom:latitude":32.609134,
     "geom:longitude":-85.32313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2740 Doe Ave",
     "sg:city":"Opelika",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102624385,
-    "wof:lastmodified":1449069452,
+    "wof:lastmodified":1466317459,
     "wof:name":"Broughton Management Inc",
     "wof:parent_id":85913815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.32313,32.609134,-85.32313,32.609134],
-  "geometry": {"coordinates":[-85.32313,32.609134],"type":"Point"}
+  "bbox": [
+    -85.32313,
+    32.609134,
+    -85.32313,
+    32.609134
+],
+  "geometry": {"coordinates":[-85.32313000000001,32.609134],"type":"Point"}
 }

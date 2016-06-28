@@ -2,13 +2,14 @@
   "id": 152219571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.176798,34.559309,-86.176798,34.559309",
     "geom:latitude":34.559309,
     "geom:longitude":-86.176798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"362 Wilborn Rd",
     "sg:city":"Scottsboro",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85830981,
+        85688675,
         85633793,
         85899833,
         102085513,
-        85688675
+        85830981
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152219571,
-    "wof:lastmodified":1449048726,
+    "wof:lastmodified":1466316171,
     "wof:name":"Larkinsville Baptist Church",
     "wof:parent_id":85830981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.176798,34.559309,-86.176798,34.559309],
-  "geometry": {"coordinates":[-86.176798,34.559309],"type":"Point"}
+  "bbox": [
+    -86.176798,
+    34.559309,
+    -86.176798,
+    34.559309
+],
+  "geometry": {"coordinates":[-86.17679800000001,34.559309],"type":"Point"}
 }

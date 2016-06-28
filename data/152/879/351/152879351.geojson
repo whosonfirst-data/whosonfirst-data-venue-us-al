@@ -2,13 +2,14 @@
   "id": 152879351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.817059,33.545612,-86.817059,33.545612",
     "geom:latitude":33.545612,
     "geom:longitude":-86.817059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2510 25th St N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837367,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85837367
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152879351,
-    "wof:lastmodified":1449044336,
+    "wof:lastmodified":1466320230,
     "wof:name":"Joe's Sports",
     "wof:parent_id":85837367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.817059,33.545612,-86.817059,33.545612],
+  "bbox": [
+    -86.817059,
+    33.545612,
+    -86.817059,
+    33.545612
+],
   "geometry": {"coordinates":[-86.817059,33.545612],"type":"Point"}
 }

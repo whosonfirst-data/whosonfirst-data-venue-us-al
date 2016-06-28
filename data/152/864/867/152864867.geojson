@@ -2,13 +2,14 @@
   "id": 152864867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.481198,33.241851,-87.481198,33.241851",
     "geom:latitude":33.241851,
     "geom:longitude":-87.481198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2205 43rd Ave NE",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152864867,
-    "wof:lastmodified":1449048946,
+    "wof:lastmodified":1466320208,
     "wof:name":"West Ala Asphalt Plant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.481198,33.241851,-87.481198,33.241851],
-  "geometry": {"coordinates":[-87.481198,33.241851],"type":"Point"}
+  "bbox": [
+    -87.481198,
+    33.241851,
+    -87.481198,
+    33.241851
+],
+  "geometry": {"coordinates":[-87.48119800000001,33.241851],"type":"Point"}
 }

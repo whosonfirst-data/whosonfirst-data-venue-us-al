@@ -2,13 +2,14 @@
   "id": 152222749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.282011,32.32462,-86.282011,32.32462",
     "geom:latitude":32.32462,
     "geom:longitude":-86.282011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4421 Narrow Lane Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842989,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85842989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152222749,
-    "wof:lastmodified":1449047386,
+    "wof:lastmodified":1466316132,
     "wof:name":"Our Lady Queen of Mercy Parish",
     "wof:parent_id":85842989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.282011,32.32462,-86.282011,32.32462],
+  "bbox": [
+    -86.282011,
+    32.32462,
+    -86.282011,
+    32.32462
+],
   "geometry": {"coordinates":[-86.282011,32.32462],"type":"Point"}
 }

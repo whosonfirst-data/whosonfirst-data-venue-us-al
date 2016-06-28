@@ -2,13 +2,14 @@
   "id": 152390083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.83416,31.322725,-85.83416,31.322725",
     "geom:latitude":31.322725,
     "geom:longitude":-85.83416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1225 James Dr",
     "sg:city":"Enterprise",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827323,
+        85688675,
         85633793,
         85899527,
         102085699,
-        85688675
+        85827323
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152390083,
-    "wof:lastmodified":1449048940,
+    "wof:lastmodified":1466317795,
     "wof:name":"Pt Mayaca Terrace Apartments",
     "wof:parent_id":85827323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.83416,31.322725,-85.83416,31.322725],
+  "bbox": [
+    -85.83416,
+    31.322725,
+    -85.83416,
+    31.322725
+],
   "geometry": {"coordinates":[-85.83416,31.322725],"type":"Point"}
 }

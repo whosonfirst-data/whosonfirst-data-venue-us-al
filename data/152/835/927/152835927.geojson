@@ -2,13 +2,14 @@
   "id": 152835927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.618583,30.290197,-87.618583,30.290197",
     "geom:latitude":30.290197,
     "geom:longitude":-87.618583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22728 Canal Rd",
     "sg:city":"Orange Beach",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868551,
+        85688675,
         85633793,
         85914719,
         102085469,
-        85688675
+        85868551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152835927,
-    "wof:lastmodified":1449044962,
+    "wof:lastmodified":1466320061,
     "wof:name":"Henry's Furniture & Accessorie",
     "wof:parent_id":85868551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.618583,30.290197,-87.618583,30.290197],
+  "bbox": [
+    -87.618583,
+    30.290197,
+    -87.618583,
+    30.290197
+],
   "geometry": {"coordinates":[-87.618583,30.290197],"type":"Point"}
 }

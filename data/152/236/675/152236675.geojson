@@ -2,13 +2,14 @@
   "id": 152236675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.718334,34.293925,-86.718334,34.293925",
     "geom:latitude":34.293925,
     "geom:longitude":-86.718334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8417 Co Rd 1545",
     "sg:city":"Cullman",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.ethabaptist.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867305,
+        85688675,
         85633793,
         85914167,
         102085729,
-        85688675
+        85867305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152236675,
-    "wof:lastmodified":1449044798,
+    "wof:lastmodified":1466316378,
     "wof:name":"Etha Baptist Church Inc",
     "wof:parent_id":85867305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.718334,34.293925,-86.718334,34.293925],
+  "bbox": [
+    -86.718334,
+    34.293925,
+    -86.718334,
+    34.293925
+],
   "geometry": {"coordinates":[-86.718334,34.293925],"type":"Point"}
 }

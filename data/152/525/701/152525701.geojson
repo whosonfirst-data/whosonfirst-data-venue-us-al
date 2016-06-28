@@ -2,13 +2,14 @@
   "id": 152525701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.598171,33.201481,-87.598171,33.201481",
     "geom:latitude":33.201481,
     "geom:longitude":-87.598171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4601 Stillman Blvd",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     "sg:website":"www.mid-statesasphalt.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085553,
-        85633793,
         85688675,
-        85812491
+        85633793,
+        85812491,
+        102085553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152525701,
-    "wof:lastmodified":1449047956,
+    "wof:lastmodified":1466318451,
     "wof:name":"Mid-State Asphalt",
     "wof:parent_id":85812491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.598171,33.201481,-87.598171,33.201481],
-  "geometry": {"coordinates":[-87.598171,33.201481],"type":"Point"}
+  "bbox": [
+    -87.598171,
+    33.201481,
+    -87.598171,
+    33.201481
+],
+  "geometry": {"coordinates":[-87.59817099999999,33.201481],"type":"Point"}
 }

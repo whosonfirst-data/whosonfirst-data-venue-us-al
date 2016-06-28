@@ -2,13 +2,14 @@
   "id": 152167069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.105534,33.887335,-86.105534,33.887335",
     "geom:latitude":33.887335,
     "geom:longitude":-86.105534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"770 Creek Haven Rd",
     "sg:city":"Rainbow City",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085545,
-        85633793,
         85688675,
-        85839341
+        85633793,
+        85839341,
+        102085545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152167069,
-    "wof:lastmodified":1449046705,
+    "wof:lastmodified":1466315541,
     "wof:name":"Ragland Freewill Baptst Church",
     "wof:parent_id":85839341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.105534,33.887335,-86.105534,33.887335],
-  "geometry": {"coordinates":[-86.105534,33.887335],"type":"Point"}
+  "bbox": [
+    -86.105534,
+    33.887335,
+    -86.105534,
+    33.887335
+],
+  "geometry": {"coordinates":[-86.10553400000001,33.887335],"type":"Point"}
 }

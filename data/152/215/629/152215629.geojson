@@ -2,13 +2,14 @@
   "id": 152215629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.851134,31.311083,-85.851134,31.311083",
     "geom:latitude":31.311083,
     "geom:longitude":-85.851134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 S Main St",
     "sg:city":"Enterprise",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848823,
+        85688675,
         85633793,
         85899527,
         102085699,
-        85688675
+        85848823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152215629,
-    "wof:lastmodified":1449048116,
+    "wof:lastmodified":1466316074,
     "wof:name":"Cassady & Cassady",
     "wof:parent_id":85848823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.851134,31.311083,-85.851134,31.311083],
+  "bbox": [
+    -85.851134,
+    31.311083,
+    -85.851134,
+    31.311083
+],
   "geometry": {"coordinates":[-85.851134,31.311083],"type":"Point"}
 }

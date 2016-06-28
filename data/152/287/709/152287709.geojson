@@ -2,13 +2,14 @@
   "id": 152287709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.937593,32.712015,-85.937593,32.712015",
     "geom:latitude":32.712015,
     "geom:longitude":-85.937593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2001 Castaway Island Rd",
     "sg:city":"Eclectic",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827623,
+        85688675,
         85633793,
         85913291,
         102085631,
-        85688675
+        85827623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":152287709,
-    "wof:lastmodified":1449044575,
+    "wof:lastmodified":1466317158,
     "wof:name":"Anchor Bay Marina Inc",
     "wof:parent_id":85827623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.937593,32.712015,-85.937593,32.712015],
-  "geometry": {"coordinates":[-85.937593,32.712015],"type":"Point"}
+  "bbox": [
+    -85.937593,
+    32.712015,
+    -85.937593,
+    32.712015
+],
+  "geometry": {"coordinates":[-85.93759300000001,32.712015],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152458973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.908028,30.683265,-87.908028,30.683265",
     "geom:latitude":30.683265,
     "geom:longitude":-87.908028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"643 Spanish Main St",
     "sg:city":"Spanish Fort",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820145,
+        85688675,
         85633793,
         85914741,
         102085469,
-        85688675
+        85820145
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152458973,
-    "wof:lastmodified":1449047587,
+    "wof:lastmodified":1466318243,
     "wof:name":"Traveler's Aetna-Kurt Close",
     "wof:parent_id":85820145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.908028,30.683265,-87.908028,30.683265],
+  "bbox": [
+    -87.908028,
+    30.683265,
+    -87.908028,
+    30.683265
+],
   "geometry": {"coordinates":[-87.908028,30.683265],"type":"Point"}
 }

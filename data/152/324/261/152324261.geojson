@@ -2,13 +2,14 @@
   "id": 152324261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.483917,33.180004,-87.483917,33.180004",
     "geom:latitude":33.180004,
     "geom:longitude":-87.483917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3714 Woodland Hills Dr",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152324261,
-    "wof:lastmodified":1449046999,
+    "wof:lastmodified":1466317322,
     "wof:name":"Woodland Hills Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.483917,33.180004,-87.483917,33.180004],
-  "geometry": {"coordinates":[-87.483917,33.180004],"type":"Point"}
+  "bbox": [
+    -87.483917,
+    33.180004,
+    -87.483917,
+    33.180004
+],
+  "geometry": {"coordinates":[-87.48391700000001,33.180004],"type":"Point"}
 }

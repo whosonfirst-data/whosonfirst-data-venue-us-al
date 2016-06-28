@@ -2,13 +2,14 @@
   "id": 102607267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.970658,31.807226,-85.970658,31.807226",
     "geom:latitude":31.807226,
     "geom:longitude":-85.970658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Market St",
     "sg:city":"Troy",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867313,
+        85688675,
         85633793,
         85914551,
         102085619,
-        85688675
+        85867313
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102607267,
-    "wof:lastmodified":1449068126,
+    "wof:lastmodified":1466317185,
     "wof:name":"Floral Boutique",
     "wof:parent_id":85867313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.970658,31.807226,-85.970658,31.807226],
+  "bbox": [
+    -85.970658,
+    31.807226,
+    -85.970658,
+    31.807226
+],
   "geometry": {"coordinates":[-85.970658,31.807226],"type":"Point"}
 }

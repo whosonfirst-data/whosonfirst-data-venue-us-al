@@ -2,13 +2,14 @@
   "id": 152399409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.348995,32.369318,-86.348995,32.369318",
     "geom:latitude":32.369318,
     "geom:longitude":-86.348995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 Air Base Blvd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856867,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675,
+        85856867,
         85832931
     ],
     "wof:breaches":[],
@@ -61,14 +62,20 @@
         }
     ],
     "wof:id":152399409,
-    "wof:lastmodified":1449045124,
+    "wof:lastmodified":1466317840,
     "wof:name":"Campbell's Foreign Car Svc Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.348995,32.369318,-86.348995,32.369318],
+  "bbox": [
+    -86.348995,
+    32.369318,
+    -86.348995,
+    32.369318
+],
   "geometry": {"coordinates":[-86.348995,32.369318],"type":"Point"}
 }

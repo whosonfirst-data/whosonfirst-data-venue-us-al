@@ -2,13 +2,14 @@
   "id": 152621697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.338557,30.478371,-88.338557,30.478371",
     "geom:latitude":30.478371,
     "geom:longitude":-88.338557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12420 US Hwy 90",
     "sg:city":"Grand Bay",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085585,
-        85633793,
         85688675,
-        85895801
+        85633793,
+        85895801,
+        102085585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152621697,
-    "wof:lastmodified":1449048371,
+    "wof:lastmodified":1466318965,
     "wof:name":"Grand Bay Feed & Seed",
     "wof:parent_id":85895801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.338557,30.478371,-88.338557,30.478371],
-  "geometry": {"coordinates":[-88.338557,30.478371],"type":"Point"}
+  "bbox": [
+    -88.338557,
+    30.478371,
+    -88.338557,
+    30.478371
+],
+  "geometry": {"coordinates":[-88.33855699999999,30.478371],"type":"Point"}
 }

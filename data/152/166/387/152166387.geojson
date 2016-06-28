@@ -2,13 +2,14 @@
   "id": 152166387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.838822,32.519472,-87.838822,32.519472",
     "geom:latitude":32.519472,
     "geom:longitude":-87.838822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 N Main Ave",
     "sg:city":"Demopolis",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845427,
+        85688675,
         85633793,
         85899613,
         102085423,
-        85688675
+        85845427
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152166387,
-    "wof:lastmodified":1449046885,
+    "wof:lastmodified":1466315600,
     "wof:name":"Mason & Gardner",
     "wof:parent_id":85845427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.838822,32.519472,-87.838822,32.519472],
-  "geometry": {"coordinates":[-87.838822,32.519472],"type":"Point"}
+  "bbox": [
+    -87.838822,
+    32.519472,
+    -87.838822,
+    32.519472
+],
+  "geometry": {"coordinates":[-87.83882199999999,32.519472],"type":"Point"}
 }

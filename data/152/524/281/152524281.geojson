@@ -2,13 +2,14 @@
   "id": 152524281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.699105,34.75988,-87.699105,34.75988",
     "geom:latitude":34.75988,
     "geom:longitude":-87.699105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 W 2nd St",
     "sg:city":"Muscle Shoals",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.apac.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858837,
+        85688675,
         85633793,
         85897473,
         102085625,
-        85688675
+        85858837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152524281,
-    "wof:lastmodified":1449044242,
+    "wof:lastmodified":1466318436,
     "wof:name":"APAC Southeast Inc",
     "wof:parent_id":85858837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.699105,34.75988,-87.699105,34.75988],
+  "bbox": [
+    -87.699105,
+    34.75988,
+    -87.699105,
+    34.75988
+],
   "geometry": {"coordinates":[-87.699105,34.75988],"type":"Point"}
 }

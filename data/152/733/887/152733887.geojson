@@ -2,13 +2,14 @@
   "id": 152733887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.009004,34.015,-86.009004,34.015",
     "geom:latitude":34.015,
     "geom:longitude":-86.009004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"741 Forrest Ave",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822279,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85822279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152733887,
-    "wof:lastmodified":1449044948,
+    "wof:lastmodified":1466319507,
     "wof:name":"Etowah County Human Resources",
     "wof:parent_id":85822279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.009004,34.015,-86.009004,34.015],
+  "bbox": [
+    -86.009004,
+    34.015,
+    -86.009004,
+    34.015
+],
   "geometry": {"coordinates":[-86.009004,34.015],"type":"Point"}
 }

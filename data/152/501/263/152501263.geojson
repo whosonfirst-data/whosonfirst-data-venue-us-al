@@ -2,13 +2,14 @@
   "id": 152501263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.307258,32.37527,-86.307258,32.37527",
     "geom:latitude":32.37527,
     "geom:longitude":-86.307258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 S Perry St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879037,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152501263,
-    "wof:lastmodified":1449048933,
+    "wof:lastmodified":1466318346,
     "wof:name":"Montgomery County Appraisal",
     "wof:parent_id":85879037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.307258,32.37527,-86.307258,32.37527],
+  "bbox": [
+    -86.307258,
+    32.37527,
+    -86.307258,
+    32.37527
+],
   "geometry": {"coordinates":[-86.307258,32.37527],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152165685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.303947,32.382115,-86.303947,32.382115",
     "geom:latitude":32.382115,
     "geom:longitude":-86.303947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Columbus St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879043,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152165685,
-    "wof:lastmodified":1449048907,
+    "wof:lastmodified":1466315430,
     "wof:name":"Rite Way Service Inc",
     "wof:parent_id":85879043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.303947,32.382115,-86.303947,32.382115],
-  "geometry": {"coordinates":[-86.303947,32.382115],"type":"Point"}
+  "bbox": [
+    -86.303947,
+    32.382115,
+    -86.303947,
+    32.382115
+],
+  "geometry": {"coordinates":[-86.30394699999999,32.382115],"type":"Point"}
 }

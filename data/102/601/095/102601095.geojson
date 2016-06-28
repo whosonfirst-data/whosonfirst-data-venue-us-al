@@ -2,13 +2,14 @@
   "id": 102601095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.824328,33.615442,-85.824328,33.615442",
     "geom:latitude":33.615442,
     "geom:longitude":-85.824328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"663 Snow St",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827499,
+        85688675,
         85633793,
         85914159,
         102085603,
-        85688675
+        85827499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102601095,
-    "wof:lastmodified":1449068848,
+    "wof:lastmodified":1466317222,
     "wof:name":"Burkes Vinyl Works",
     "wof:parent_id":85827499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.824328,33.615442,-85.824328,33.615442],
-  "geometry": {"coordinates":[-85.824328,33.615442],"type":"Point"}
+  "bbox": [
+    -85.824328,
+    33.615442,
+    -85.824328,
+    33.615442
+],
+  "geometry": {"coordinates":[-85.82432799999999,33.615442],"type":"Point"}
 }

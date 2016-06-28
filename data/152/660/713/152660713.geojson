@@ -2,13 +2,14 @@
   "id": 152660713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.721234,34.445263,-85.721234,34.445263",
     "geom:latitude":34.445263,
     "geom:longitude":-85.721234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 Alabama Ave N",
     "sg:city":"Fort Payne",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834595,
+        85688675,
         85633793,
         85897515,
         102085615,
-        85688675
+        85834595
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152660713,
-    "wof:lastmodified":1449048448,
+    "wof:lastmodified":1466319319,
     "wof:name":"Restorative Crown & Bridge Lab",
     "wof:parent_id":85834595,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.721234,34.445263,-85.721234,34.445263],
+  "bbox": [
+    -85.721234,
+    34.445263,
+    -85.721234,
+    34.445263
+],
   "geometry": {"coordinates":[-85.721234,34.445263],"type":"Point"}
 }

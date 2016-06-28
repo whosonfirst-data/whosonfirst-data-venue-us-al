@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102503531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.175793,32.830871,-85.175793,32.830871",
     "geom:latitude":32.830871,
     "geom:longitude":-85.175793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4202 20th Ave",
     "sg:city":"Valley",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848065,
+        85688675,
         85633793,
         85914191,
         102085637,
-        85688675
+        85848065
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102503531,
-    "wof:lastmodified":1449070220,
+    "wof:lastmodified":1466316754,
     "wof:name":"Grills & Frills",
     "wof:parent_id":85848065,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.175793,32.830871,-85.175793,32.830871],
+  "bbox": [
+    -85.175793,
+    32.830871,
+    -85.175793,
+    32.830871
+],
   "geometry": {"coordinates":[-85.175793,32.830871],"type":"Point"}
 }

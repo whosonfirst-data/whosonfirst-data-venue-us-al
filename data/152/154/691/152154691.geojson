@@ -2,13 +2,14 @@
   "id": 152154691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.296562,34.35738,-86.296562,34.35738",
     "geom:latitude":34.35738,
     "geom:longitude":-86.296562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2222 Ringold St",
     "sg:city":"Guntersville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850331,
+        85688675,
         85633793,
         85899833,
         102085513,
-        85688675
+        85850331
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152154691,
-    "wof:lastmodified":1449048955,
+    "wof:lastmodified":1466314800,
     "wof:name":"Christmas Coalition",
     "wof:parent_id":85850331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.296562,34.35738,-86.296562,34.35738],
-  "geometry": {"coordinates":[-86.296562,34.35738],"type":"Point"}
+  "bbox": [
+    -86.296562,
+    34.35738,
+    -86.296562,
+    34.35738
+],
+  "geometry": {"coordinates":[-86.29656199999999,34.35738],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152776211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.287311,32.380491,-86.287311,32.380491",
     "geom:latitude":32.380491,
     "geom:longitude":-86.287311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1545 Madison Ave",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825469,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85825469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152776211,
-    "wof:lastmodified":1449045310,
+    "wof:lastmodified":1466319727,
     "wof:name":"Pampered Image Services",
     "wof:parent_id":85825469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.287311,32.380491,-86.287311,32.380491],
+  "bbox": [
+    -86.287311,
+    32.380491,
+    -86.287311,
+    32.380491
+],
   "geometry": {"coordinates":[-86.287311,32.380491],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152790733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.291476,32.377497,-86.291476,32.377497",
     "geom:latitude":32.377497,
     "geom:longitude":-86.291476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Hall St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825469,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85825469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152790733,
-    "wof:lastmodified":1449047838,
+    "wof:lastmodified":1466319850,
     "wof:name":"Alabama State University",
     "wof:parent_id":85825469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.291476,32.377497,-86.291476,32.377497],
+  "bbox": [
+    -86.291476,
+    32.377497,
+    -86.291476,
+    32.377497
+],
   "geometry": {"coordinates":[-86.291476,32.377497],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152893371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.572795,34.668009,-86.572795,34.668009",
     "geom:latitude":34.668009,
     "geom:longitude":-86.572795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7529 Memorial Pkwy SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819601,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85819601
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152893371,
-    "wof:lastmodified":1449048047,
+    "wof:lastmodified":1466320293,
     "wof:name":"Southern Building LLC",
     "wof:parent_id":85819601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.572795,34.668009,-86.572795,34.668009],
+  "bbox": [
+    -86.572795,
+    34.668009,
+    -86.572795,
+    34.668009
+],
   "geometry": {"coordinates":[-86.572795,34.668009],"type":"Point"}
 }

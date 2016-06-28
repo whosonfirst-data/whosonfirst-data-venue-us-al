@@ -2,13 +2,14 @@
   "id": 152894561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.344952,34.039148,-86.344952,34.039148",
     "geom:latitude":34.039148,
     "geom:longitude":-86.344952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7287 Co Rd 39",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085667,
-        85633793,
         85688675,
-        85819523
+        85633793,
+        85819523,
+        102085667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152894561,
-    "wof:lastmodified":1449046219,
+    "wof:lastmodified":1466320394,
     "wof:name":"J & J Roofing",
     "wof:parent_id":85819523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.344952,34.039148,-86.344952,34.039148],
-  "geometry": {"coordinates":[-86.344952,34.039148],"type":"Point"}
+  "bbox": [
+    -86.344952,
+    34.039148,
+    -86.344952,
+    34.039148
+],
+  "geometry": {"coordinates":[-86.34495200000001,34.039148],"type":"Point"}
 }

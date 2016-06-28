@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102478691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.077134,34.017987,-86.077134,34.017987",
     "geom:latitude":34.017987,
     "geom:longitude":-86.077134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 Cleveland Ave",
     "sg:city":"Attalla",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085545,
-        85633793,
         85688675,
-        85851221
+        85633793,
+        85851221,
+        102085545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102478691,
-    "wof:lastmodified":1449067848,
+    "wof:lastmodified":1466314846,
     "wof:name":"Lee Gourmet Super Buffet",
     "wof:parent_id":85851221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.077134,34.017987,-86.077134,34.017987],
+  "bbox": [
+    -86.077134,
+    34.017987,
+    -86.077134,
+    34.017987
+],
   "geometry": {"coordinates":[-86.077134,34.017987],"type":"Point"}
 }

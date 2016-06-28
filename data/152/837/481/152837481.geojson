@@ -2,13 +2,14 @@
   "id": 152837481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.102716,30.756238,-88.102716,30.756238",
     "geom:latitude":30.756238,
     "geom:longitude":-88.102716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3016 N Whistler St",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837835,
+        85688675,
         85633793,
         85913741,
         102085585,
-        85688675
+        85837835
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152837481,
-    "wof:lastmodified":1449045030,
+    "wof:lastmodified":1466320037,
     "wof:name":"James Brown Heating & AC",
     "wof:parent_id":85837835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.102716,30.756238,-88.102716,30.756238],
+  "bbox": [
+    -88.102716,
+    30.756238,
+    -88.102716,
+    30.756238
+],
   "geometry": {"coordinates":[-88.102716,30.756238],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152739817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.539205,34.724914,-86.539205,34.724914",
     "geom:latitude":34.724914,
     "geom:longitude":-86.539205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 W Pointe Dr SE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85835813,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85835813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152739817,
-    "wof:lastmodified":1449046263,
+    "wof:lastmodified":1466319487,
     "wof:name":"L P Electronics Incorporated",
     "wof:parent_id":85835813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.539205,34.724914,-86.539205,34.724914],
+  "bbox": [
+    -86.539205,
+    34.724914,
+    -86.539205,
+    34.724914
+],
   "geometry": {"coordinates":[-86.539205,34.724914],"type":"Point"}
 }

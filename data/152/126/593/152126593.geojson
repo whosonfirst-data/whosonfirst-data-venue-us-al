@@ -2,13 +2,14 @@
   "id": 152126593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.609207,34.713753,-86.609207,34.713753",
     "geom:latitude":34.713753,
     "geom:longitude":-86.609207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2512 Triana Blvd SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825531,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85825531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152126593,
-    "wof:lastmodified":1449046013,
+    "wof:lastmodified":1466314801,
     "wof:name":"Huntsville Police Dept",
     "wof:parent_id":85825531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.609207,34.713753,-86.609207,34.713753],
+  "bbox": [
+    -86.609207,
+    34.713753,
+    -86.609207,
+    34.713753
+],
   "geometry": {"coordinates":[-86.609207,34.713753],"type":"Point"}
 }

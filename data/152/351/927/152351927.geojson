@@ -2,13 +2,14 @@
   "id": 152351927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.044337,32.483413,-85.044337,32.483413",
     "geom:latitude":32.483413,
     "geom:longitude":-85.044337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2309 Dobbs Dr",
     "sg:city":"Phenix City",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822949,
+        85688675,
         85633793,
         85913715,
         102085697,
-        85688675
+        85822949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152351927,
-    "wof:lastmodified":1449048228,
+    "wof:lastmodified":1466317588,
     "wof:name":"Virgil Barber Shop",
     "wof:parent_id":85822949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.044337,32.483413,-85.044337,32.483413],
+  "bbox": [
+    -85.044337,
+    32.483413,
+    -85.044337,
+    32.483413
+],
   "geometry": {"coordinates":[-85.044337,32.483413],"type":"Point"}
 }

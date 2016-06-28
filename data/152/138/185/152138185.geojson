@@ -2,13 +2,14 @@
   "id": 152138185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.403143,32.474645,-86.403143,32.474645",
     "geom:latitude":32.474645,
     "geom:longitude":-86.403143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 Old Farm Ln N",
     "sg:city":"Prattville",
     "sg:classifiers":[
@@ -32,10 +33,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085631,
-        85633793,
         85688675,
-        85819047
+        85633793,
+        85819047,
+        102085631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152138185,
-    "wof:lastmodified":1449045635,
+    "wof:lastmodified":1466315337,
     "wof:name":"Schwan's Fine Foods",
     "wof:parent_id":85819047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.403143,32.474645,-86.403143,32.474645],
+  "bbox": [
+    -86.403143,
+    32.474645,
+    -86.403143,
+    32.474645
+],
   "geometry": {"coordinates":[-86.403143,32.474645],"type":"Point"}
 }

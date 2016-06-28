@@ -2,13 +2,14 @@
   "id": 152822317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.193463,30.650354,-88.193463,30.650354",
     "geom:latitude":30.650354,
     "geom:longitude":-88.193463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6562 Lubarrett Way",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809629,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85809629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152822317,
-    "wof:lastmodified":1449048775,
+    "wof:lastmodified":1466319956,
     "wof:name":"Wizard Graphics Inc",
     "wof:parent_id":85809629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.193463,30.650354,-88.193463,30.650354],
-  "geometry": {"coordinates":[-88.193463,30.650354],"type":"Point"}
+  "bbox": [
+    -88.193463,
+    30.650354,
+    -88.193463,
+    30.650354
+],
+  "geometry": {"coordinates":[-88.19346299999999,30.650354],"type":"Point"}
 }

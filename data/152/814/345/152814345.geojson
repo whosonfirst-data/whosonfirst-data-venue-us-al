@@ -2,13 +2,14 @@
   "id": 152814345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.821734,33.236144,-86.821734,33.236144",
     "geom:latitude":33.236144,
     "geom:longitude":-86.821734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"755 Montevallo Rd",
     "sg:city":"Alabaster",
     "sg:classifiers":[
@@ -24,12 +25,12 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
+        85633793,
         85853623,
-        85847439,
-        85914487
+        102085499,
+        85914487,
+        85847439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":152814345,
-    "wof:lastmodified":1449045158,
+    "wof:lastmodified":1466319902,
     "wof:name":"LA Loma Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.821734,33.236144,-86.821734,33.236144],
-  "geometry": {"coordinates":[-86.821734,33.236144],"type":"Point"}
+  "bbox": [
+    -86.821734,
+    33.236144,
+    -86.821734,
+    33.236144
+],
+  "geometry": {"coordinates":[-86.82173400000001,33.236144],"type":"Point"}
 }

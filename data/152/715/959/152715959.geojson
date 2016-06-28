@@ -2,13 +2,14 @@
   "id": 152715959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.286595,32.352228,-86.286595,32.352228",
     "geom:latitude":32.352228,
     "geom:longitude":-86.286595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2511 Agnew St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825725,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85825725
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152715959,
-    "wof:lastmodified":1449047995,
+    "wof:lastmodified":1466319437,
     "wof:name":"Piranha Lawn & Landscape LLC",
     "wof:parent_id":85825725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.286595,32.352228,-86.286595,32.352228],
-  "geometry": {"coordinates":[-86.286595,32.352228],"type":"Point"}
+  "bbox": [
+    -86.286595,
+    32.352228,
+    -86.286595,
+    32.352228
+],
+  "geometry": {"coordinates":[-86.28659500000001,32.352228],"type":"Point"}
 }

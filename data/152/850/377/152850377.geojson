@@ -2,13 +2,14 @@
   "id": 152850377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.410251,31.244334,-85.410251,31.244334",
     "geom:latitude":31.244334,
     "geom:longitude":-85.410251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Alamo Ct",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851339,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85851339
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152850377,
-    "wof:lastmodified":1449046979,
+    "wof:lastmodified":1466319914,
     "wof:name":"Carmichael Appraisal Svc",
     "wof:parent_id":85851339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.410251,31.244334,-85.410251,31.244334],
+  "bbox": [
+    -85.410251,
+    31.244334,
+    -85.410251,
+    31.244334
+],
   "geometry": {"coordinates":[-85.410251,31.244334],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119135599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.836608,33.259503,-86.836608,33.259503",
     "geom:latitude":33.259503,
     "geom:longitude":-86.836608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Colonial Cir",
     "sg:city":"Alabaster",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847439,
+        85688675,
         85633793,
         85914487,
         102085499,
-        85688675
+        85847439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":119135599,
-    "wof:lastmodified":1449041790,
+    "wof:lastmodified":1466314716,
     "wof:name":"Home Inspections Plus",
     "wof:parent_id":85847439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.836608,33.259503,-86.836608,33.259503],
+  "bbox": [
+    -86.836608,
+    33.259503,
+    -86.836608,
+    33.259503
+],
   "geometry": {"coordinates":[-86.836608,33.259503],"type":"Point"}
 }

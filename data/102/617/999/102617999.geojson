@@ -2,13 +2,14 @@
   "id": 102617999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.13067,32.668166,-86.13067,32.668166",
     "geom:latitude":32.668166,
     "geom:longitude":-86.13067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1329 Mount Zion Rd",
     "sg:city":"Wetumpka",
     "sg:classifiers":[
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":102617999,
-    "wof:lastmodified":1449067857,
+    "wof:lastmodified":1466317255,
     "wof:name":"McG Apointment",
     "wof:parent_id":85688675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.13067,32.668166,-86.13067,32.668166],
-  "geometry": {"coordinates":[-86.13067,32.668166],"type":"Point"}
+  "bbox": [
+    -86.13067,
+    32.668166,
+    -86.13067,
+    32.668166
+],
+  "geometry": {"coordinates":[-86.13066999999999,32.668166],"type":"Point"}
 }

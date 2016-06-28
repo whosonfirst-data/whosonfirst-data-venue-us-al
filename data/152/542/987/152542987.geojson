@@ -2,13 +2,14 @@
   "id": 152542987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.584499,34.749267,-86.584499,34.749267",
     "geom:latitude":34.749267,
     "geom:longitude":-86.584499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Oakwood Ave NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878235,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878235
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152542987,
-    "wof:lastmodified":1449047885,
+    "wof:lastmodified":1466318486,
     "wof:name":"Lumpkin Stained Glass",
     "wof:parent_id":85878235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.584499,34.749267,-86.584499,34.749267],
-  "geometry": {"coordinates":[-86.584499,34.749267],"type":"Point"}
+  "bbox": [
+    -86.584499,
+    34.749267,
+    -86.584499,
+    34.749267
+],
+  "geometry": {"coordinates":[-86.58449899999999,34.749267],"type":"Point"}
 }

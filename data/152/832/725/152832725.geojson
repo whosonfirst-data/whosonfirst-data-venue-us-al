@@ -2,13 +2,14 @@
   "id": 152832725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.777662,30.53818,-87.777662,30.53818",
     "geom:latitude":30.53818,
     "geom:longitude":-87.777662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14450 South Blvd",
     "sg:city":"Silverhill",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854025,
+        85688675,
         85633793,
         85914707,
         102085469,
-        85688675
+        85854025
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152832725,
-    "wof:lastmodified":1449044313,
+    "wof:lastmodified":1466320049,
     "wof:name":"Flowers Repair & Welding Svc",
     "wof:parent_id":85854025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.777662,30.53818,-87.777662,30.53818],
-  "geometry": {"coordinates":[-87.777662,30.53818],"type":"Point"}
+  "bbox": [
+    -87.777662,
+    30.53818,
+    -87.777662,
+    30.53818
+],
+  "geometry": {"coordinates":[-87.77766200000001,30.53818],"type":"Point"}
 }

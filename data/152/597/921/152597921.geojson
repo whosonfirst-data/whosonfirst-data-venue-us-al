@@ -2,13 +2,14 @@
   "id": 152597921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.237041,31.184912,-85.237041,31.184912",
     "geom:latitude":31.184912,
     "geom:longitude":-85.237041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 Church St",
     "sg:city":"Ashford",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847911,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85847911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152597921,
-    "wof:lastmodified":1449048848,
+    "wof:lastmodified":1466318852,
     "wof:name":"New Life Piano Studio",
     "wof:parent_id":85847911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.237041,31.184912,-85.237041,31.184912],
+  "bbox": [
+    -85.237041,
+    31.184912,
+    -85.237041,
+    31.184912
+],
   "geometry": {"coordinates":[-85.237041,31.184912],"type":"Point"}
 }

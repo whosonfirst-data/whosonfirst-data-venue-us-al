@@ -2,13 +2,14 @@
   "id": 152448681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.453111,34.67148,-86.453111,34.67148",
     "geom:latitude":34.67148,
     "geom:longitude":-86.453111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3210 Cove Lake Rd SE",
     "sg:city":"Owens Cross Roads",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878245,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152448681,
-    "wof:lastmodified":1449048697,
+    "wof:lastmodified":1466318063,
     "wof:name":"Alternative Framing",
     "wof:parent_id":85878245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.453111,34.67148,-86.453111,34.67148],
-  "geometry": {"coordinates":[-86.453111,34.67148],"type":"Point"}
+  "bbox": [
+    -86.453111,
+    34.67148,
+    -86.453111,
+    34.67148
+],
+  "geometry": {"coordinates":[-86.45311100000001,34.67148],"type":"Point"}
 }

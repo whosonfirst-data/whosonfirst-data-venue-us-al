@@ -2,13 +2,14 @@
   "id": 152864229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.559187,34.582182,-87.559187,34.582182",
     "geom:latitude":34.582182,
     "geom:longitude":-87.559187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 Clement Rd",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816399,
+        85688675,
         85633793,
         85897481,
         102085625,
-        85688675
+        85816399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152864229,
-    "wof:lastmodified":1449048953,
+    "wof:lastmodified":1466320169,
     "wof:name":"Tommy Howard",
     "wof:parent_id":85816399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.559187,34.582182,-87.559187,34.582182],
-  "geometry": {"coordinates":[-87.559187,34.582182],"type":"Point"}
+  "bbox": [
+    -87.559187,
+    34.582182,
+    -87.559187,
+    34.582182
+],
+  "geometry": {"coordinates":[-87.55918699999999,34.582182],"type":"Point"}
 }

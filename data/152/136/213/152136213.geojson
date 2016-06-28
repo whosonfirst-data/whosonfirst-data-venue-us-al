@@ -2,13 +2,14 @@
   "id": 152136213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.560521,33.212044,-87.560521,33.212044",
     "geom:latitude":33.212044,
     "geom:longitude":-87.560521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"615 Queen City Ave",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152136213,
-    "wof:lastmodified":1449048837,
+    "wof:lastmodified":1466315292,
     "wof:name":"Tuscaloosa Computers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.560521,33.212044,-87.560521,33.212044],
-  "geometry": {"coordinates":[-87.560521,33.212044],"type":"Point"}
+  "bbox": [
+    -87.560521,
+    33.212044,
+    -87.560521,
+    33.212044
+],
+  "geometry": {"coordinates":[-87.56052099999999,33.212044],"type":"Point"}
 }

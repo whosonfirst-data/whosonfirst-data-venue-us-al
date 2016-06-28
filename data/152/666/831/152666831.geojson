@@ -2,13 +2,14 @@
   "id": 152666831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.116447,30.708387,-88.116447,30.708387",
     "geom:latitude":30.708387,
     "geom:longitude":-88.116447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3212 Crichton St",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879003,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85879003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152666831,
-    "wof:lastmodified":1449046001,
+    "wof:lastmodified":1466319214,
     "wof:name":"Industrial Chemicals Inc",
     "wof:parent_id":85879003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.116447,30.708387,-88.116447,30.708387],
-  "geometry": {"coordinates":[-88.116447,30.708387],"type":"Point"}
+  "bbox": [
+    -88.116447,
+    30.708387,
+    -88.116447,
+    30.708387
+],
+  "geometry": {"coordinates":[-88.11644699999999,30.708387],"type":"Point"}
 }

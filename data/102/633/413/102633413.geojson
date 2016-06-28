@@ -2,13 +2,14 @@
   "id": 102633413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.897099,33.492458,-86.897099,33.492458",
     "geom:latitude":33.492458,
     "geom:longitude":-86.897099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 41st Street Ensley",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85832747,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85832747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102633413,
-    "wof:lastmodified":1449070190,
+    "wof:lastmodified":1466317518,
     "wof:name":"James C Watson Rev",
     "wof:parent_id":85832747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.897099,33.492458,-86.897099,33.492458],
+  "bbox": [
+    -86.897099,
+    33.492458,
+    -86.897099,
+    33.492458
+],
   "geometry": {"coordinates":[-86.897099,33.492458],"type":"Point"}
 }

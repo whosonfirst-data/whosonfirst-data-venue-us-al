@@ -2,13 +2,14 @@
   "id": 152354625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.823109,33.716773,-85.823109,33.716773",
     "geom:latitude":33.716773,
     "geom:longitude":-85.823109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"418 E 54th St",
     "sg:city":"Anniston",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825451,
+        85688675,
         85633793,
         85915207,
         102085603,
-        85688675
+        85825451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152354625,
-    "wof:lastmodified":1449048402,
+    "wof:lastmodified":1466317639,
     "wof:name":"Blue Water Consultants",
     "wof:parent_id":85825451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.823109,33.716773,-85.823109,33.716773],
+  "bbox": [
+    -85.823109,
+    33.716773,
+    -85.823109,
+    33.716773
+],
   "geometry": {"coordinates":[-85.823109,33.716773],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152198365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.677168,34.71825,-86.677168,34.71825",
     "geom:latitude":34.71825,
     "geom:longitude":-86.677168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Voyager Way NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152198365,
-    "wof:lastmodified":1449045985,
+    "wof:lastmodified":1466315931,
     "wof:name":"SAIC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.677168,34.71825,-86.677168,34.71825],
-  "geometry": {"coordinates":[-86.677168,34.71825],"type":"Point"}
+  "bbox": [
+    -86.677168,
+    34.71825,
+    -86.677168,
+    34.71825
+],
+  "geometry": {"coordinates":[-86.67716799999999,34.71825],"type":"Point"}
 }

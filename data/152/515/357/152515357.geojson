@@ -2,13 +2,14 @@
   "id": 152515357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.850259,33.495222,-86.850259,33.495222",
     "geom:latitude":33.495222,
     "geom:longitude":-86.850259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 Tuscaloosa Ave SW",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152515357,
-    "wof:lastmodified":1449045368,
+    "wof:lastmodified":1466318391,
     "wof:name":"First Call Heating and AC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.850259,33.495222,-86.850259,33.495222],
-  "geometry": {"coordinates":[-86.850259,33.495222],"type":"Point"}
+  "bbox": [
+    -86.850259,
+    33.495222,
+    -86.850259,
+    33.495222
+],
+  "geometry": {"coordinates":[-86.85025899999999,33.495222],"type":"Point"}
 }

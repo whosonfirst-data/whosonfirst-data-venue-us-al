@@ -2,13 +2,14 @@
   "id": 152188673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.126241,30.703899,-88.126241,30.703899",
     "geom:latitude":30.703899,
     "geom:longitude":-88.126241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3480 Springhill Ave",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879003,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85879003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152188673,
-    "wof:lastmodified":1449046595,
+    "wof:lastmodified":1466315766,
     "wof:name":"Personal Edge Fitness",
     "wof:parent_id":85879003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.126241,30.703899,-88.126241,30.703899],
-  "geometry": {"coordinates":[-88.126241,30.703899],"type":"Point"}
+  "bbox": [
+    -88.126241,
+    30.703899,
+    -88.126241,
+    30.703899
+],
+  "geometry": {"coordinates":[-88.12624099999999,30.703899],"type":"Point"}
 }

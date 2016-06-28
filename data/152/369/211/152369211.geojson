@@ -2,13 +2,14 @@
   "id": 152369211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.569645,34.983558,-86.569645,34.983558",
     "geom:latitude":34.983558,
     "geom:longitude":-86.569645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15858 US Hwy 431",
     "sg:city":"Hazel Green",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":152369211,
-    "wof:lastmodified":1449048682,
+    "wof:lastmodified":1466317795,
     "wof:name":"Main Office Bar & Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.569645,34.983558,-86.569645,34.983558],
-  "geometry": {"coordinates":[-86.569645,34.983558],"type":"Point"}
+  "bbox": [
+    -86.569645,
+    34.983558,
+    -86.569645,
+    34.983558
+],
+  "geometry": {"coordinates":[-86.56964499999999,34.983558],"type":"Point"}
 }

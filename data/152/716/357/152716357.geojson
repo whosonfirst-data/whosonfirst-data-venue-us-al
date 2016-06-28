@@ -2,13 +2,14 @@
   "id": 152716357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.911571,33.576164,-86.911571,33.576164",
     "geom:latitude":33.576164,
     "geom:longitude":-86.911571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2119 Veterans Memorial Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820003,
+        85688675,
         85633793,
         85914875,
         102085481,
-        85688675
+        85820003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152716357,
-    "wof:lastmodified":1449044959,
+    "wof:lastmodified":1466319404,
     "wof:name":"Westwood Auto Parts",
     "wof:parent_id":85820003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.911571,33.576164,-86.911571,33.576164],
+  "bbox": [
+    -86.911571,
+    33.576164,
+    -86.911571,
+    33.576164
+],
   "geometry": {"coordinates":[-86.911571,33.576164],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152446965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.471954,34.642063,-86.471954,34.642063",
     "geom:latitude":34.642063,
     "geom:longitude":-86.471954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7255 US Hwy 431",
     "sg:city":"Owens Cross Roads",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878245,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152446965,
-    "wof:lastmodified":1449048529,
+    "wof:lastmodified":1466318075,
     "wof:name":"Jumping Jcks Preschool Daycare",
     "wof:parent_id":85878245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.471954,34.642063,-86.471954,34.642063],
+  "bbox": [
+    -86.471954,
+    34.642063,
+    -86.471954,
+    34.642063
+],
   "geometry": {"coordinates":[-86.471954,34.642063],"type":"Point"}
 }

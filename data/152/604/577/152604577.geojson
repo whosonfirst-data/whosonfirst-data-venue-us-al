@@ -2,13 +2,14 @@
   "id": 152604577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.479736,32.541583,-86.479736,32.541583",
     "geom:latitude":32.541583,
     "geom:longitude":-86.479736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"348 Co Rd 82",
     "sg:city":"Prattville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831059,
+        85688675,
         85633793,
         85913977,
         102085509,
-        85688675
+        85831059
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152604577,
-    "wof:lastmodified":1449048389,
+    "wof:lastmodified":1466318877,
     "wof:name":"Va Ra JS Cleaning Service",
     "wof:parent_id":85831059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.479736,32.541583,-86.479736,32.541583],
+  "bbox": [
+    -86.479736,
+    32.541583,
+    -86.479736,
+    32.541583
+],
   "geometry": {"coordinates":[-86.479736,32.541583],"type":"Point"}
 }

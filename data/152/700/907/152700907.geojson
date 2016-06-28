@@ -2,13 +2,14 @@
   "id": 152700907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.720458,34.791938,-86.720458,34.791938",
     "geom:latitude":34.791938,
     "geom:longitude":-86.720458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Summer Brook Ct",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851107,
+        85688675,
         85633793,
         85913593,
         102085487,
-        85688675
+        85851107
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152700907,
-    "wof:lastmodified":1449048518,
+    "wof:lastmodified":1466319496,
     "wof:name":"Signal Mountain Services LLC",
     "wof:parent_id":85851107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.720458,34.791938,-86.720458,34.791938],
-  "geometry": {"coordinates":[-86.720458,34.791938],"type":"Point"}
+  "bbox": [
+    -86.720458,
+    34.791938,
+    -86.720458,
+    34.791938
+],
+  "geometry": {"coordinates":[-86.72045799999999,34.791938],"type":"Point"}
 }

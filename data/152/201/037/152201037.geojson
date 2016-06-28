@@ -2,13 +2,14 @@
   "id": 152201037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.872776,33.34054,-86.872776,33.34054",
     "geom:latitude":33.34054,
     "geom:longitude":-86.872776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3421 S Shades Crest Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829763,
+        85688675,
         85633793,
         85914475,
         102085481,
-        85688675
+        85829763
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152201037,
-    "wof:lastmodified":1449048300,
+    "wof:lastmodified":1466315911,
     "wof:name":"Curves For Women",
     "wof:parent_id":85829763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.872776,33.34054,-86.872776,33.34054],
+  "bbox": [
+    -86.872776,
+    33.34054,
+    -86.872776,
+    33.34054
+],
   "geometry": {"coordinates":[-86.872776,33.34054],"type":"Point"}
 }

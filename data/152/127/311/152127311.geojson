@@ -2,13 +2,14 @@
   "id": 152127311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.602157,34.711301,-86.602157,34.711301",
     "geom:latitude":34.711301,
     "geom:longitude":-86.602157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2743 Bob Wallace Ave SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85855713,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85855713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152127311,
-    "wof:lastmodified":1449048547,
+    "wof:lastmodified":1466314816,
     "wof:name":"Fourroux Orthotics Prosthetics",
     "wof:parent_id":85855713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.602157,34.711301,-86.602157,34.711301],
-  "geometry": {"coordinates":[-86.602157,34.711301],"type":"Point"}
+  "bbox": [
+    -86.602157,
+    34.711301,
+    -86.602157,
+    34.711301
+],
+  "geometry": {"coordinates":[-86.60215700000001,34.711301],"type":"Point"}
 }

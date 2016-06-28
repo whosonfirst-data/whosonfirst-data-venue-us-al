@@ -2,13 +2,14 @@
   "id": 152339851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.29452,32.369607,-86.29452,32.369607",
     "geom:latitude":32.369607,
     "geom:longitude":-86.29452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1003 Grove St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879037,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152339851,
-    "wof:lastmodified":1449046377,
+    "wof:lastmodified":1466317551,
     "wof:name":"Moore's Tutorial Ministry",
     "wof:parent_id":85879037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.29452,32.369607,-86.29452,32.369607],
-  "geometry": {"coordinates":[-86.29452,32.369607],"type":"Point"}
+  "bbox": [
+    -86.29452,
+    32.369607,
+    -86.29452,
+    32.369607
+],
+  "geometry": {"coordinates":[-86.29452000000001,32.369607],"type":"Point"}
 }

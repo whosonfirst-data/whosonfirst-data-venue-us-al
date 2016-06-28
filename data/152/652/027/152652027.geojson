@@ -2,13 +2,14 @@
   "id": 152652027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.620662,34.743704,-87.620662,34.743704",
     "geom:latitude":34.743704,
     "geom:longitude":-87.620662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1730 Webster St",
     "sg:city":"Muscle Shoals",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816399,
+        85688675,
         85633793,
         85897481,
         102085625,
-        85688675
+        85816399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152652027,
-    "wof:lastmodified":1449047273,
+    "wof:lastmodified":1466319089,
     "wof:name":"Russell Building",
     "wof:parent_id":85816399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.620662,34.743704,-87.620662,34.743704],
+  "bbox": [
+    -87.620662,
+    34.743704,
+    -87.620662,
+    34.743704
+],
   "geometry": {"coordinates":[-87.620662,34.743704],"type":"Point"}
 }

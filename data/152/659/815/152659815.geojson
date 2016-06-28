@@ -2,13 +2,14 @@
   "id": 152659815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.772208,33.508497,-86.772208,33.508497",
     "geom:latitude":33.508497,
     "geom:longitude":-86.772208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3833 12th Ct S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876275,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152659815,
-    "wof:lastmodified":1449044805,
+    "wof:lastmodified":1466319158,
     "wof:name":"Crts Professional Locksmith",
     "wof:parent_id":85876275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.772208,33.508497,-86.772208,33.508497],
-  "geometry": {"coordinates":[-86.772208,33.508497],"type":"Point"}
+  "bbox": [
+    -86.772208,
+    33.508497,
+    -86.772208,
+    33.508497
+],
+  "geometry": {"coordinates":[-86.77220800000001,33.508497],"type":"Point"}
 }

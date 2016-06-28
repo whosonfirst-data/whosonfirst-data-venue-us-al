@@ -2,13 +2,14 @@
   "id": 152466909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.65782,33.417912,-86.65782,33.417912",
     "geom:latitude":33.417912,
     "geom:longitude":-86.65782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Greystone Glen Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85833411
+        85633793,
+        85833411,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152466909,
-    "wof:lastmodified":1449045685,
+    "wof:lastmodified":1466318195,
     "wof:name":"Naughty Donkey Enterprises LLC",
     "wof:parent_id":85833411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.65782,33.417912,-86.65782,33.417912],
+  "bbox": [
+    -86.65782,
+    33.417912,
+    -86.65782,
+    33.417912
+],
   "geometry": {"coordinates":[-86.65782,33.417912],"type":"Point"}
 }

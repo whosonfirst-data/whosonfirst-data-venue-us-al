@@ -2,13 +2,14 @@
   "id": 152455327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.814488,33.253807,-86.814488,33.253807",
     "geom:latitude":33.253807,
     "geom:longitude":-86.814488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"949 US Hwy 31",
     "sg:city":"Alabaster",
     "sg:classifiers":[
@@ -27,13 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828267,
+        85688675,
         85633793,
         85914501,
         102085499,
-        85688675,
-        85847439,
-        85914487
+        85828267,
+        85914487,
+        85847439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,14 +61,20 @@
         }
     ],
     "wof:id":152455327,
-    "wof:lastmodified":1449048174,
+    "wof:lastmodified":1466318210,
     "wof:name":"Amazing Grace Worship Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.814488,33.253807,-86.814488,33.253807],
+  "bbox": [
+    -86.814488,
+    33.253807,
+    -86.814488,
+    33.253807
+],
   "geometry": {"coordinates":[-86.814488,33.253807],"type":"Point"}
 }

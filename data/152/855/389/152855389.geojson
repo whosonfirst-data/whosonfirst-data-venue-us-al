@@ -2,13 +2,14 @@
   "id": 152855389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.518208,33.275457,-87.518208,33.275457",
     "geom:latitude":33.275457,
     "geom:longitude":-87.518208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1620 Greystone Dr",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829313,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85829313
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152855389,
-    "wof:lastmodified":1449047708,
+    "wof:lastmodified":1466320072,
     "wof:name":"Mark Rugen Visual Communictons",
     "wof:parent_id":85829313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.518208,33.275457,-87.518208,33.275457],
+  "bbox": [
+    -87.518208,
+    33.275457,
+    -87.518208,
+    33.275457
+],
   "geometry": {"coordinates":[-87.518208,33.275457],"type":"Point"}
 }

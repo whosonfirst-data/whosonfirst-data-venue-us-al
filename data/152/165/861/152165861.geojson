@@ -2,13 +2,14 @@
   "id": 152165861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.078189,34.198914,-87.078189,34.198914",
     "geom:latitude":34.198914,
     "geom:longitude":-87.078189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13164 US Hwy 278",
     "sg:city":"Cullman",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085729,
-        85633793,
         85688675,
-        85867309
+        85633793,
+        85867309,
+        102085729
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152165861,
-    "wof:lastmodified":1449048908,
+    "wof:lastmodified":1466315441,
     "wof:name":"R E Garrison",
     "wof:parent_id":85867309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.078189,34.198914,-87.078189,34.198914],
-  "geometry": {"coordinates":[-87.078189,34.198914],"type":"Point"}
+  "bbox": [
+    -87.078189,
+    34.198914,
+    -87.078189,
+    34.198914
+],
+  "geometry": {"coordinates":[-87.07818899999999,34.198914],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152865595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.049202,30.694394,-88.049202,30.694394",
     "geom:latitude":30.694394,
     "geom:longitude":-88.049202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"251 N Hamilton St",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878959,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152865595,
-    "wof:lastmodified":1449047789,
+    "wof:lastmodified":1466320187,
     "wof:name":"K & J Paint & Body Shop",
     "wof:parent_id":85878959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.049202,30.694394,-88.049202,30.694394],
-  "geometry": {"coordinates":[-88.049202,30.694394],"type":"Point"}
+  "bbox": [
+    -88.049202,
+    30.694394,
+    -88.049202,
+    30.694394
+],
+  "geometry": {"coordinates":[-88.04920199999999,30.694394],"type":"Point"}
 }

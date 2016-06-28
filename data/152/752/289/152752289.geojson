@@ -2,13 +2,14 @@
   "id": 152752289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.605938,33.638059,-86.605938,33.638059",
     "geom:latitude":33.638059,
     "geom:longitude":-86.605938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Worthington Way",
     "sg:city":"Trussville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85835401,
+        85688675,
         85633793,
         85913473,
         102085481,
-        85688675
+        85835401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152752289,
-    "wof:lastmodified":1449045081,
+    "wof:lastmodified":1466319596,
     "wof:name":"Open Door Home Inspection Inc",
     "wof:parent_id":85835401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.605938,33.638059,-86.605938,33.638059],
-  "geometry": {"coordinates":[-86.605938,33.638059],"type":"Point"}
+  "bbox": [
+    -86.605938,
+    33.638059,
+    -86.605938,
+    33.638059
+],
+  "geometry": {"coordinates":[-86.60593799999999,33.638059],"type":"Point"}
 }

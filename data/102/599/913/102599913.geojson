@@ -2,13 +2,14 @@
   "id": 102599913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.480927,32.606621,-85.480927,32.606621",
     "geom:latitude":32.606621,
     "geom:longitude":-85.480927,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"157 E Magnolia Ave",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819999,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85819999
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102599913,
-    "wof:lastmodified":1449068883,
+    "wof:lastmodified":1466317225,
     "wof:name":"Southern Trails Inc",
     "wof:parent_id":85819999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.480927,32.606621,-85.480927,32.606621],
-  "geometry": {"coordinates":[-85.480927,32.606621],"type":"Point"}
+  "bbox": [
+    -85.480927,
+    32.606621,
+    -85.480927,
+    32.606621
+],
+  "geometry": {"coordinates":[-85.48092699999999,32.606621],"type":"Point"}
 }

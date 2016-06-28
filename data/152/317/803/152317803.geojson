@@ -2,13 +2,14 @@
   "id": 152317803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.759295,30.542626,-87.759295,30.542626",
     "geom:latitude":30.542626,
     "geom:longitude":-87.759295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21701 West Blvd",
     "sg:city":"Silverhill",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854025,
+        85688675,
         85633793,
         85914707,
         102085469,
-        85688675
+        85854025
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152317803,
-    "wof:lastmodified":1449046426,
+    "wof:lastmodified":1466317290,
     "wof:name":"Carlson's Business Machines",
     "wof:parent_id":85854025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.759295,30.542626,-87.759295,30.542626],
-  "geometry": {"coordinates":[-87.759295,30.542626],"type":"Point"}
+  "bbox": [
+    -87.759295,
+    30.542626,
+    -87.759295,
+    30.542626
+],
+  "geometry": {"coordinates":[-87.75929499999999,30.542626],"type":"Point"}
 }

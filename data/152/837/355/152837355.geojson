@@ -2,13 +2,14 @@
   "id": 152837355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.489241,32.585073,-85.489241,32.585073",
     "geom:latitude":32.585073,
     "geom:longitude":-85.489241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1199 S Donahue Dr",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152837355,
-    "wof:lastmodified":1449045028,
+    "wof:lastmodified":1466320028,
     "wof:name":"Human Performance & Rehab Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.489241,32.585073,-85.489241,32.585073],
-  "geometry": {"coordinates":[-85.489241,32.585073],"type":"Point"}
+  "bbox": [
+    -85.489241,
+    32.585073,
+    -85.489241,
+    32.585073
+],
+  "geometry": {"coordinates":[-85.48924100000001,32.585073],"type":"Point"}
 }

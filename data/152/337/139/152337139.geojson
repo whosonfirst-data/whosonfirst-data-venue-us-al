@@ -2,13 +2,14 @@
   "id": 152337139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.688835,33.608468,-86.688835,33.608468",
     "geom:latitude":33.608468,
     "geom:longitude":-86.688835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"608 Springville Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854035,
+        85688675,
         85633793,
         85914903,
         102085481,
-        85688675
+        85854035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152337139,
-    "wof:lastmodified":1449046467,
+    "wof:lastmodified":1466317511,
     "wof:name":"Gold Dollar Inc",
     "wof:parent_id":85854035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.688835,33.608468,-86.688835,33.608468],
+  "bbox": [
+    -86.688835,
+    33.608468,
+    -86.688835,
+    33.608468
+],
   "geometry": {"coordinates":[-86.688835,33.608468],"type":"Point"}
 }

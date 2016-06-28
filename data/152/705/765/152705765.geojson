@@ -2,13 +2,14 @@
   "id": 152705765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.83261,33.730139,-85.83261,33.730139",
     "geom:latitude":33.730139,
     "geom:longitude":-85.83261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 W 64th St",
     "sg:city":"Anniston",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85830275,
+        85688675,
         85633793,
         85914281,
         102085603,
-        85688675
+        85830275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152705765,
-    "wof:lastmodified":1449048925,
+    "wof:lastmodified":1466319507,
     "wof:name":"Woodland Park Self Storage",
     "wof:parent_id":85830275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.83261,33.730139,-85.83261,33.730139],
+  "bbox": [
+    -85.83261,
+    33.730139,
+    -85.83261,
+    33.730139
+],
   "geometry": {"coordinates":[-85.83261,33.730139],"type":"Point"}
 }

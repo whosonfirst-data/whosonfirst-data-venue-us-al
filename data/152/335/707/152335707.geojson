@@ -2,13 +2,14 @@
   "id": 152335707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.390695,33.192391,-87.390695,33.192391",
     "geom:latitude":33.192391,
     "geom:longitude":-87.390695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13633 Keenes Mill Rd",
     "sg:city":"Cottondale",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851363,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85851363
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152335707,
-    "wof:lastmodified":1449047346,
+    "wof:lastmodified":1466317412,
     "wof:name":"Camp Horne",
     "wof:parent_id":85851363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.390695,33.192391,-87.390695,33.192391],
-  "geometry": {"coordinates":[-87.390695,33.192391],"type":"Point"}
+  "bbox": [
+    -87.390695,
+    33.192391,
+    -87.390695,
+    33.192391
+],
+  "geometry": {"coordinates":[-87.39069499999999,33.192391],"type":"Point"}
 }

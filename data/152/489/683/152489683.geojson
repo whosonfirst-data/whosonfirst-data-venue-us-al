@@ -2,13 +2,14 @@
   "id": 152489683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.38013,32.458654,-86.38013,32.458654",
     "geom:latitude":32.458654,
     "geom:longitude":-86.38013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2060 Downing St",
     "sg:city":"Millbrook",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085631,
-        85633793,
         85688675,
-        85822701
+        85633793,
+        85822701,
+        102085631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152489683,
-    "wof:lastmodified":1449046826,
+    "wof:lastmodified":1466318271,
     "wof:name":"Fantail Restaurant",
     "wof:parent_id":85822701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.38013,32.458654,-86.38013,32.458654],
-  "geometry": {"coordinates":[-86.38013,32.458654],"type":"Point"}
+  "bbox": [
+    -86.38013,
+    32.458654,
+    -86.38013,
+    32.458654
+],
+  "geometry": {"coordinates":[-86.38012999999999,32.458654],"type":"Point"}
 }

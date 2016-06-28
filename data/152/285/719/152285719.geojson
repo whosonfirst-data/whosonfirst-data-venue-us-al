@@ -2,13 +2,14 @@
   "id": 152285719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.674949,33.413056,-86.674949,33.413056",
     "geom:latitude":33.413056,
     "geom:longitude":-86.674949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6801 Cahaba Valley Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -30,10 +31,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85833411
+        85633793,
+        85833411,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152285719,
-    "wof:lastmodified":1449044426,
+    "wof:lastmodified":1466316973,
     "wof:name":"Oakstone Medical Publishing",
     "wof:parent_id":85833411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.674949,33.413056,-86.674949,33.413056],
+  "bbox": [
+    -86.674949,
+    33.413056,
+    -86.674949,
+    33.413056
+],
   "geometry": {"coordinates":[-86.674949,33.413056],"type":"Point"}
 }

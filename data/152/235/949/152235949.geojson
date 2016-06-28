@@ -2,13 +2,14 @@
   "id": 152235949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.802153,33.512111,-86.802153,33.512111",
     "geom:latitude":33.512111,
     "geom:longitude":-86.802153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Richard Arrington Jr Blvd S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876269,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152235949,
-    "wof:lastmodified":1449045108,
+    "wof:lastmodified":1466316446,
     "wof:name":"Bare Hands Gallery",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.802153,33.512111,-86.802153,33.512111],
+  "bbox": [
+    -86.802153,
+    33.512111,
+    -86.802153,
+    33.512111
+],
   "geometry": {"coordinates":[-86.802153,33.512111],"type":"Point"}
 }

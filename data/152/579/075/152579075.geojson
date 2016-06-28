@@ -2,13 +2,14 @@
   "id": 152579075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.053097,32.479095,-85.053097,32.479095",
     "geom:latitude":32.479095,
     "geom:longitude":-85.053097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 Wynn Rd",
     "sg:city":"Phenix City",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822949,
+        85688675,
         85633793,
         85913715,
         102085697,
-        85688675
+        85822949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152579075,
-    "wof:lastmodified":1449045777,
+    "wof:lastmodified":1466318987,
     "wof:name":"Shelley Equipment Co Inc",
     "wof:parent_id":85822949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.053097,32.479095,-85.053097,32.479095],
-  "geometry": {"coordinates":[-85.053097,32.479095],"type":"Point"}
+  "bbox": [
+    -85.053097,
+    32.479095,
+    -85.053097,
+    32.479095
+],
+  "geometry": {"coordinates":[-85.05309699999999,32.479095],"type":"Point"}
 }

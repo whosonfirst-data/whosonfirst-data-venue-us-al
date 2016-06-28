@@ -2,13 +2,14 @@
   "id": 152223771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.683248,30.304956,-87.683248,30.304956",
     "geom:latitude":30.304956,
     "geom:longitude":-87.683248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3735 Gulf Shores Pkwy",
     "sg:city":"Gulf Shores",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868551,
+        85688675,
         85633793,
         85914719,
         102085469,
-        85688675
+        85868551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152223771,
-    "wof:lastmodified":1449044622,
+    "wof:lastmodified":1466316302,
     "wof:name":"Sea Clipper Hair Styles",
     "wof:parent_id":85868551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.683248,30.304956,-87.683248,30.304956],
-  "geometry": {"coordinates":[-87.683248,30.304956],"type":"Point"}
+  "bbox": [
+    -87.683248,
+    30.304956,
+    -87.683248,
+    30.304956
+],
+  "geometry": {"coordinates":[-87.68324800000001,30.304956],"type":"Point"}
 }

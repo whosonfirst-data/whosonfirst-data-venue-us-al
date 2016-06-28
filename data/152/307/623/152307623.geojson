@@ -2,13 +2,14 @@
   "id": 152307623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.081545,30.586446,-88.081545,30.586446",
     "geom:latitude":30.586446,
     "geom:longitude":-88.081545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4024 Dauphin Island Pkwy",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878969,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878969
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152307623,
-    "wof:lastmodified":1449045490,
+    "wof:lastmodified":1466317011,
     "wof:name":"Moore Marine Svc",
     "wof:parent_id":85878969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.081545,30.586446,-88.081545,30.586446],
-  "geometry": {"coordinates":[-88.081545,30.586446],"type":"Point"}
+  "bbox": [
+    -88.081545,
+    30.586446,
+    -88.081545,
+    30.586446
+],
+  "geometry": {"coordinates":[-88.08154500000001,30.586446],"type":"Point"}
 }

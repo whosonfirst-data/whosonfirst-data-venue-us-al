@@ -2,13 +2,14 @@
   "id": 152821041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.57624,34.712735,-86.57624,34.712735",
     "geom:latitude":34.712735,
     "geom:longitude":-86.57624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Bob Wallace Ave SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818149,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85818149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152821041,
-    "wof:lastmodified":1449046815,
+    "wof:lastmodified":1466319930,
     "wof:name":"Play It Again",
     "wof:parent_id":85818149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.57624,34.712735,-86.57624,34.712735],
+  "bbox": [
+    -86.57624,
+    34.712735,
+    -86.57624,
+    34.712735
+],
   "geometry": {"coordinates":[-86.57624,34.712735],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152557819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.959146,34.000986,-85.959146,34.000986",
     "geom:latitude":34.000986,
     "geom:longitude":-85.959146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1220 Raley St",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822279,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85822279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152557819,
-    "wof:lastmodified":1449047594,
+    "wof:lastmodified":1466318650,
     "wof:name":"Hopewell Baptist Church",
     "wof:parent_id":85822279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.959146,34.000986,-85.959146,34.000986],
+  "bbox": [
+    -85.959146,
+    34.000986,
+    -85.959146,
+    34.000986
+],
   "geometry": {"coordinates":[-85.959146,34.000986],"type":"Point"}
 }

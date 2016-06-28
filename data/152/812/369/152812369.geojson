@@ -2,13 +2,14 @@
   "id": 152812369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.202321,32.380563,-86.202321,32.380563",
     "geom:latitude":32.380563,
     "geom:longitude":-86.202321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Mendel Pkwy",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809571,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85809571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152812369,
-    "wof:lastmodified":1449044421,
+    "wof:lastmodified":1466319903,
     "wof:name":"Vayca Home Renovations",
     "wof:parent_id":85809571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.202321,32.380563,-86.202321,32.380563],
+  "bbox": [
+    -86.202321,
+    32.380563,
+    -86.202321,
+    32.380563
+],
   "geometry": {"coordinates":[-86.202321,32.380563],"type":"Point"}
 }

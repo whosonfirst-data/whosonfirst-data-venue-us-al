@@ -2,13 +2,14 @@
   "id": 152206237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.777987,34.653189,-85.777987,34.653189",
     "geom:latitude":34.653189,
     "geom:longitude":-85.777987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Co Rd 87",
     "sg:city":"Henagar",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809451,
+        85688675,
         85633793,
         85914033,
         102085607,
-        85688675
+        85809451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152206237,
-    "wof:lastmodified":1449047436,
+    "wof:lastmodified":1466316005,
     "wof:name":"Mm Plastering",
     "wof:parent_id":85809451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.777987,34.653189,-85.777987,34.653189],
+  "bbox": [
+    -85.777987,
+    34.653189,
+    -85.777987,
+    34.653189
+],
   "geometry": {"coordinates":[-85.777987,34.653189],"type":"Point"}
 }

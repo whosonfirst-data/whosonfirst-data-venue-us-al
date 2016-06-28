@@ -2,13 +2,14 @@
   "id": 152693165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.810908,33.513266,-86.810908,33.513266",
     "geom:latitude":33.513266,
     "geom:longitude":-86.810908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1608 2nd Ave N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820315,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85820315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152693165,
-    "wof:lastmodified":1449044566,
+    "wof:lastmodified":1466319306,
     "wof:name":"1608 Partners LTD",
     "wof:parent_id":85820315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.810908,33.513266,-86.810908,33.513266],
+  "bbox": [
+    -86.810908,
+    33.513266,
+    -86.810908,
+    33.513266
+],
   "geometry": {"coordinates":[-86.810908,33.513266],"type":"Point"}
 }

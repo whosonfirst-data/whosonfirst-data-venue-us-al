@@ -2,13 +2,14 @@
   "id": 152151719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.508227,34.69557,-86.508227,34.69557",
     "geom:latitude":34.69557,
     "geom:longitude":-86.508227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4904 Preakness Cir",
     "sg:city":"Brownsboro",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152151719,
-    "wof:lastmodified":1449044341,
+    "wof:lastmodified":1466314629,
     "wof:name":"Leslie Lockhart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.508227,34.69557,-86.508227,34.69557],
-  "geometry": {"coordinates":[-86.508227,34.69557],"type":"Point"}
+  "bbox": [
+    -86.508227,
+    34.69557,
+    -86.508227,
+    34.69557
+],
+  "geometry": {"coordinates":[-86.50822700000001,34.69557],"type":"Point"}
 }

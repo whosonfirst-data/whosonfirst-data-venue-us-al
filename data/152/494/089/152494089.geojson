@@ -2,13 +2,14 @@
   "id": 152494089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.592792,34.841837,-87.592792,34.841837",
     "geom:latitude":34.841837,
     "geom:longitude":-87.592792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3723 Florence Blvd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -30,10 +31,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085527,
-        85633793,
         85688675,
-        85829459
+        85633793,
+        85829459,
+        102085527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152494089,
-    "wof:lastmodified":1449048412,
+    "wof:lastmodified":1466318428,
     "wof:name":"Advanced Cabinet Designs",
     "wof:parent_id":85829459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.592792,34.841837,-87.592792,34.841837],
+  "bbox": [
+    -87.592792,
+    34.841837,
+    -87.592792,
+    34.841837
+],
   "geometry": {"coordinates":[-87.592792,34.841837],"type":"Point"}
 }

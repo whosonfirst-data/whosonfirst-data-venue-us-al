@@ -2,13 +2,14 @@
   "id": 152323743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.246453,32.382197,-86.246453,32.382197",
     "geom:latitude":32.382197,
     "geom:longitude":-86.246453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Perry Hill Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152323743,
-    "wof:lastmodified":1449044702,
+    "wof:lastmodified":1466317408,
     "wof:name":"Hillview Terrace",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.246453,32.382197,-86.246453,32.382197],
+  "bbox": [
+    -86.246453,
+    32.382197,
+    -86.246453,
+    32.382197
+],
   "geometry": {"coordinates":[-86.246453,32.382197],"type":"Point"}
 }

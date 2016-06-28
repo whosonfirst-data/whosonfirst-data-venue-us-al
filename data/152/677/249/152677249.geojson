@@ -2,13 +2,14 @@
   "id": 152677249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.571463,34.85278,-86.571463,34.85278",
     "geom:latitude":34.85278,
     "geom:longitude":-86.571463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11715 US Hwy 431",
     "sg:city":"Meridianville",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85810031,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85810031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152677249,
-    "wof:lastmodified":1449045972,
+    "wof:lastmodified":1466319241,
     "wof:name":"Mimis Custom Interiors",
     "wof:parent_id":85810031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.571463,34.85278,-86.571463,34.85278],
-  "geometry": {"coordinates":[-86.571463,34.85278],"type":"Point"}
+  "bbox": [
+    -86.571463,
+    34.85278,
+    -86.571463,
+    34.85278
+],
+  "geometry": {"coordinates":[-86.57146299999999,34.85278],"type":"Point"}
 }

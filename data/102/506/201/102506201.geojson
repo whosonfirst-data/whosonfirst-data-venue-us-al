@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102506201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.596779,34.746362,-86.596779,34.746362",
     "geom:latitude":34.746362,
     "geom:longitude":-86.596779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"816 Demasters Ave NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809309,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85809309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102506201,
-    "wof:lastmodified":1449067818,
+    "wof:lastmodified":1466316564,
     "wof:name":"Williams Automotive",
     "wof:parent_id":85809309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.596779,34.746362,-86.596779,34.746362],
+  "bbox": [
+    -86.596779,
+    34.746362,
+    -86.596779,
+    34.746362
+],
   "geometry": {"coordinates":[-86.596779,34.746362],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152205623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.471866,33.150927,-87.471866,33.150927",
     "geom:latitude":33.150927,
     "geom:longitude":-87.471866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6047 Birchwood Ave",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152205623,
-    "wof:lastmodified":1449047090,
+    "wof:lastmodified":1466316025,
     "wof:name":"Barneez Amusements",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.471866,33.150927,-87.471866,33.150927],
-  "geometry": {"coordinates":[-87.471866,33.150927],"type":"Point"}
+  "bbox": [
+    -87.471866,
+    33.150927,
+    -87.471866,
+    33.150927
+],
+  "geometry": {"coordinates":[-87.47186600000001,33.150927],"type":"Point"}
 }

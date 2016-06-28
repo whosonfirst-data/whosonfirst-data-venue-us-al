@@ -2,13 +2,14 @@
   "id": 152692591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.644065,34.733238,-86.644065,34.733238",
     "geom:latitude":34.733238,
     "geom:longitude":-86.644065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 Sparkman Dr NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.kottman.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851401,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85851401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152692591,
-    "wof:lastmodified":1449045522,
+    "wof:lastmodified":1466319360,
     "wof:name":"Kottmann Inc",
     "wof:parent_id":85851401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.644065,34.733238,-86.644065,34.733238],
+  "bbox": [
+    -86.644065,
+    34.733238,
+    -86.644065,
+    34.733238
+],
   "geometry": {"coordinates":[-86.644065,34.733238],"type":"Point"}
 }

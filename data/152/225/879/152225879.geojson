@@ -2,13 +2,14 @@
   "id": 152225879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.630171,34.718134,-86.630171,34.718134",
     "geom:latitude":34.718134,
     "geom:longitude":-86.630171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4611 Governors House Dr SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856995,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85856995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152225879,
-    "wof:lastmodified":1449045744,
+    "wof:lastmodified":1466316319,
     "wof:name":"Jsd Enterprises Inc",
     "wof:parent_id":85856995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.630171,34.718134,-86.630171,34.718134],
+  "bbox": [
+    -86.630171,
+    34.718134,
+    -86.630171,
+    34.718134
+],
   "geometry": {"coordinates":[-86.630171,34.718134],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152566351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.877776,33.726995,-85.877776,33.726995",
     "geom:latitude":33.726995,
     "geom:longitude":-85.877776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3801 US Hwy 431",
     "sg:city":"Anniston",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825451,
+        85688675,
         85633793,
         85915207,
         102085603,
-        85688675
+        85825451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152566351,
-    "wof:lastmodified":1449044392,
+    "wof:lastmodified":1466318657,
     "wof:name":"Fuller Gasoline Co",
     "wof:parent_id":85825451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.877776,33.726995,-85.877776,33.726995],
+  "bbox": [
+    -85.877776,
+    33.726995,
+    -85.877776,
+    33.726995
+],
   "geometry": {"coordinates":[-85.877776,33.726995],"type":"Point"}
 }

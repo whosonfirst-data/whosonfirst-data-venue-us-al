@@ -2,13 +2,14 @@
   "id": 152785523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.764454,34.701685,-85.764454,34.701685",
     "geom:latitude":34.701685,
     "geom:longitude":-85.764454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15345 State Rte 71",
     "sg:city":"Pisgah",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809451,
+        85688675,
         85633793,
         85914033,
         102085607,
-        85688675
+        85809451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152785523,
-    "wof:lastmodified":1449048125,
+    "wof:lastmodified":1466319819,
     "wof:name":"Releford's Cafe & Grocery",
     "wof:parent_id":85809451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.764454,34.701685,-85.764454,34.701685],
+  "bbox": [
+    -85.764454,
+    34.701685,
+    -85.764454,
+    34.701685
+],
   "geometry": {"coordinates":[-85.764454,34.701685],"type":"Point"}
 }

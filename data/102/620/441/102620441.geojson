@@ -2,13 +2,14 @@
   "id": 102620441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.539858,33.546862,-86.539858,33.546862",
     "geom:latitude":33.546862,
     "geom:longitude":-86.539858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"792 Lawley Ave NE",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102620441,
-    "wof:lastmodified":1449069983,
+    "wof:lastmodified":1466317371,
     "wof:name":"Air One Svc",
     "wof:parent_id":85913477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.539858,33.546862,-86.539858,33.546862],
+  "bbox": [
+    -86.539858,
+    33.546862,
+    -86.539858,
+    33.546862
+],
   "geometry": {"coordinates":[-86.539858,33.546862],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152737031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.483366,32.617088,-85.483366,32.617088",
     "geom:latitude":32.617088,
     "geom:longitude":-85.483366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"134 Cary Dr",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809707,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85809707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152737031,
-    "wof:lastmodified":1449045335,
+    "wof:lastmodified":1466319577,
     "wof:name":"Beth Shalom Synagogue",
     "wof:parent_id":85809707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.483366,32.617088,-85.483366,32.617088],
+  "bbox": [
+    -85.483366,
+    32.617088,
+    -85.483366,
+    32.617088
+],
   "geometry": {"coordinates":[-85.483366,32.617088],"type":"Point"}
 }

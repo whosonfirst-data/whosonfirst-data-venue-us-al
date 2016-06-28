@@ -2,13 +2,14 @@
   "id": 119136715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.191262,30.690285,-88.191262,30.690285",
     "geom:latitude":30.690285,
     "geom:longitude":-88.191262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6451 Old Shell Rd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885417,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85885417
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":119136715,
-    "wof:lastmodified":1449043524,
+    "wof:lastmodified":1466314752,
     "wof:name":"Geiger Bros",
     "wof:parent_id":85885417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.191262,30.690285,-88.191262,30.690285],
-  "geometry": {"coordinates":[-88.191262,30.690285],"type":"Point"}
+  "bbox": [
+    -88.191262,
+    30.690285,
+    -88.191262,
+    30.690285
+],
+  "geometry": {"coordinates":[-88.19126199999999,30.690285],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152714229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.626949,31.009432,-87.626949,31.009432",
     "geom:latitude":31.009432,
     "geom:longitude":-87.626949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23295 Co Rd 47",
     "sg:city":"Perdido",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813343,
+        85688675,
         85633793,
         85914703,
         102085469,
-        85688675
+        85813343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152714229,
-    "wof:lastmodified":1449046580,
+    "wof:lastmodified":1466319397,
     "wof:name":"Perdido Church Of God",
     "wof:parent_id":85813343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.626949,31.009432,-87.626949,31.009432],
+  "bbox": [
+    -87.626949,
+    31.009432,
+    -87.626949,
+    31.009432
+],
   "geometry": {"coordinates":[-87.626949,31.009432],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152523539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.253788,33.169206,-86.253788,33.169206",
     "geom:latitude":33.169206,
     "geom:longitude":-86.253788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 N Industrial Ave",
     "sg:city":"Sylacauga",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834171,
+        85688675,
         85633793,
         85914133,
         102085517,
-        85688675
+        85834171
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152523539,
-    "wof:lastmodified":1449046968,
+    "wof:lastmodified":1466318452,
     "wof:name":"Haynes Laundromat",
     "wof:parent_id":85834171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.253788,33.169206,-86.253788,33.169206],
+  "bbox": [
+    -86.253788,
+    33.169206,
+    -86.253788,
+    33.169206
+],
   "geometry": {"coordinates":[-86.253788,33.169206],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102602107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.190189,32.87078,-85.190189,32.87078",
     "geom:latitude":32.87078,
     "geom:longitude":-85.190189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 N 4th St",
     "sg:city":"Lanett",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848065,
+        85688675,
         85633793,
         85914191,
         102085637,
-        85688675
+        85848065
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102602107,
-    "wof:lastmodified":1449068905,
+    "wof:lastmodified":1466317061,
     "wof:name":"Smith Realty & Appraisals",
     "wof:parent_id":85848065,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.190189,32.87078,-85.190189,32.87078],
+  "bbox": [
+    -85.190189,
+    32.87078,
+    -85.190189,
+    32.87078
+],
   "geometry": {"coordinates":[-85.190189,32.87078],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152279047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.23981,32.72369,-85.23981,32.72369",
     "geom:latitude":32.72369,
     "geom:longitude":-85.23981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1122 Co Rd 270",
     "sg:city":"Cusseta",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":152279047,
-    "wof:lastmodified":1449046432,
+    "wof:lastmodified":1466316830,
     "wof:name":"Circle B Mobile Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.23981,32.72369,-85.23981,32.72369],
-  "geometry": {"coordinates":[-85.23981,32.72369],"type":"Point"}
+  "bbox": [
+    -85.23981,
+    32.72369,
+    -85.23981,
+    32.72369
+],
+  "geometry": {"coordinates":[-85.23981000000001,32.72369],"type":"Point"}
 }

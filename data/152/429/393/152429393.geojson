@@ -2,13 +2,14 @@
   "id": 152429393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.703527,34.733306,-87.703527,34.733306",
     "geom:latitude":34.733306,
     "geom:longitude":-87.703527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 E 4th St",
     "sg:city":"Tuscumbia",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.churchofchristintuscumbia.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85832153,
+        85688675,
         85633793,
         85897447,
         102085625,
-        85688675
+        85832153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152429393,
-    "wof:lastmodified":1449048674,
+    "wof:lastmodified":1466317998,
     "wof:name":"Tuscumbia Church Of Christ",
     "wof:parent_id":85832153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.703527,34.733306,-87.703527,34.733306],
-  "geometry": {"coordinates":[-87.703527,34.733306],"type":"Point"}
+  "bbox": [
+    -87.703527,
+    34.733306,
+    -87.703527,
+    34.733306
+],
+  "geometry": {"coordinates":[-87.70352699999999,34.733306],"type":"Point"}
 }

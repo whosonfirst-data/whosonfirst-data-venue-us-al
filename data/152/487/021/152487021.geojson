@@ -2,13 +2,14 @@
   "id": 152487021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.844851,33.433033,-86.844851,33.433033",
     "geom:latitude":33.433033,
     "geom:longitude":-86.844851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3101 Shannon Oxmoor Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808947,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85808947
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152487021,
-    "wof:lastmodified":1449045815,
+    "wof:lastmodified":1466318234,
     "wof:name":"Flamingo Dry Cleaners",
     "wof:parent_id":85808947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.844851,33.433033,-86.844851,33.433033],
-  "geometry": {"coordinates":[-86.844851,33.433033],"type":"Point"}
+  "bbox": [
+    -86.844851,
+    33.433033,
+    -86.844851,
+    33.433033
+],
+  "geometry": {"coordinates":[-86.84485100000001,33.433033],"type":"Point"}
 }

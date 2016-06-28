@@ -2,13 +2,14 @@
   "id": 152543387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.550954,34.215548,-86.550954,34.215548",
     "geom:latitude":34.215548,
     "geom:longitude":-86.550954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"827 Co Rd 1749",
     "sg:city":"Holly Pond",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867305,
+        85688675,
         85633793,
         85914167,
         102085729,
-        85688675
+        85867305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152543387,
-    "wof:lastmodified":1449045208,
+    "wof:lastmodified":1466318562,
     "wof:name":"Summit Custom Truck Co",
     "wof:parent_id":85867305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.550954,34.215548,-86.550954,34.215548],
+  "bbox": [
+    -86.550954,
+    34.215548,
+    -86.550954,
+    34.215548
+],
   "geometry": {"coordinates":[-86.550954,34.215548],"type":"Point"}
 }

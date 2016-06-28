@@ -2,13 +2,14 @@
   "id": 152610305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.847851,33.40439,-86.847851,33.40439",
     "geom:latitude":33.40439,
     "geom:longitude":-86.847851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 Cloudland Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828169,
+        85688675,
         85633793,
         85914475,
         102085481,
-        85688675
+        85828169
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152610305,
-    "wof:lastmodified":1449048831,
+    "wof:lastmodified":1466318875,
     "wof:name":"Home Pet Care Inc",
     "wof:parent_id":85828169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.847851,33.40439,-86.847851,33.40439],
-  "geometry": {"coordinates":[-86.847851,33.40439],"type":"Point"}
+  "bbox": [
+    -86.847851,
+    33.40439,
+    -86.847851,
+    33.40439
+],
+  "geometry": {"coordinates":[-86.84785100000001,33.40439],"type":"Point"}
 }

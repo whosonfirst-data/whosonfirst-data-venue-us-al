@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102478657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.567602,34.74995,-86.567602,34.74995",
     "geom:latitude":34.74995,
     "geom:longitude":-86.567602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 Philpot Ave NE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813599,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85813599
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102478657,
-    "wof:lastmodified":1449067849,
+    "wof:lastmodified":1466314839,
     "wof:name":"Vegetarian Society of Ala",
     "wof:parent_id":85813599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.567602,34.74995,-86.567602,34.74995],
-  "geometry": {"coordinates":[-86.567602,34.74995],"type":"Point"}
+  "bbox": [
+    -86.567602,
+    34.74995,
+    -86.567602,
+    34.74995
+],
+  "geometry": {"coordinates":[-86.56760199999999,34.74995],"type":"Point"}
 }

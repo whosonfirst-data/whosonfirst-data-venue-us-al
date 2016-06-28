@@ -2,13 +2,14 @@
   "id": 102636847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.881178,33.493635,-86.881178,33.493635",
     "geom:latitude":33.493635,
     "geom:longitude":-86.881178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2030 Bessemer Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818187,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85818187
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102636847,
-    "wof:lastmodified":1449068715,
+    "wof:lastmodified":1466317589,
     "wof:name":"Money Store",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.881178,33.493635,-86.881178,33.493635],
-  "geometry": {"coordinates":[-86.881178,33.493635],"type":"Point"}
+  "bbox": [
+    -86.881178,
+    33.493635,
+    -86.881178,
+    33.493635
+],
+  "geometry": {"coordinates":[-86.88117800000001,33.493635],"type":"Point"}
 }

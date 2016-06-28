@@ -2,13 +2,14 @@
   "id": 152475865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.566415,33.205327,-87.566415,33.205327",
     "geom:latitude":33.205327,
     "geom:longitude":-87.566415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"925 Greensboro Ave",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152475865,
-    "wof:lastmodified":1449046231,
+    "wof:lastmodified":1466318103,
     "wof:name":"Mike & Ed's Bbq-TUSCALOOSA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.566415,33.205327,-87.566415,33.205327],
-  "geometry": {"coordinates":[-87.566415,33.205327],"type":"Point"}
+  "bbox": [
+    -87.566415,
+    33.205327,
+    -87.566415,
+    33.205327
+],
+  "geometry": {"coordinates":[-87.56641500000001,33.205327],"type":"Point"}
 }

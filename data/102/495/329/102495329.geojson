@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102495329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.792062,33.327802,-86.792062,33.327802",
     "geom:latitude":33.327802,
     "geom:longitude":-86.792062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Amphitheater Rd",
     "sg:city":"Pelham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.southernlinc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85826867,
+        85688675,
         85633793,
         85914501,
         102085499,
-        85688675
+        85826867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102495329,
-    "wof:lastmodified":1449068829,
+    "wof:lastmodified":1466316164,
     "wof:name":"Southern Linc",
     "wof:parent_id":85826867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.792062,33.327802,-86.792062,33.327802],
+  "bbox": [
+    -86.792062,
+    33.327802,
+    -86.792062,
+    33.327802
+],
   "geometry": {"coordinates":[-86.792062,33.327802],"type":"Point"}
 }

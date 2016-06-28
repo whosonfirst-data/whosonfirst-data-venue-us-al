@@ -2,13 +2,14 @@
   "id": 152362875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.673023,34.772629,-87.673023,34.772629",
     "geom:latitude":34.772629,
     "geom:longitude":-87.673023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3810 Hatch Blvd",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848135,
+        85688675,
         85633793,
         85897473,
         102085625,
-        85688675
+        85848135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152362875,
-    "wof:lastmodified":1449047286,
+    "wof:lastmodified":1466317514,
     "wof:name":"Coldwater Cafe",
     "wof:parent_id":85848135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.673023,34.772629,-87.673023,34.772629],
+  "bbox": [
+    -87.673023,
+    34.772629,
+    -87.673023,
+    34.772629
+],
   "geometry": {"coordinates":[-87.673023,34.772629],"type":"Point"}
 }

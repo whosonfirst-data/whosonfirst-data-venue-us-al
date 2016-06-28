@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102468353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.902813,30.603121,-87.902813,30.603121",
     "geom:latitude":30.603121,
     "geom:longitude":-87.902813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1715 Main St",
     "sg:city":"Daphne",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827259,
+        85688675,
         85633793,
         85914695,
         102085469,
-        85688675
+        85827259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102468353,
-    "wof:lastmodified":1449069528,
+    "wof:lastmodified":1466315165,
     "wof:name":"Manci Antique Club Restaurant",
     "wof:parent_id":85827259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.902813,30.603121,-87.902813,30.603121],
-  "geometry": {"coordinates":[-87.902813,30.603121],"type":"Point"}
+  "bbox": [
+    -87.902813,
+    30.603121,
+    -87.902813,
+    30.603121
+],
+  "geometry": {"coordinates":[-87.90281299999999,30.603121],"type":"Point"}
 }

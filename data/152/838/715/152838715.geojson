@@ -2,13 +2,14 @@
   "id": 152838715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.35487,32.645833,-85.35487,32.645833",
     "geom:latitude":32.645833,
     "geom:longitude":-85.35487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 Fox Run Ave",
     "sg:city":"Opelika",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152838715,
-    "wof:lastmodified":1449044867,
+    "wof:lastmodified":1466320049,
     "wof:name":"Thompson Lift Truck",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.35487,32.645833,-85.35487,32.645833],
-  "geometry": {"coordinates":[-85.35487,32.645833],"type":"Point"}
+  "bbox": [
+    -85.35487,
+    32.645833,
+    -85.35487,
+    32.645833
+],
+  "geometry": {"coordinates":[-85.35487000000001,32.645833],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152569249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.633046,34.160164,-86.633046,34.160164",
     "geom:latitude":34.160164,
     "geom:longitude":-86.633046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"281 Co Rd 794",
     "sg:city":"Cullman",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867305,
+        85688675,
         85633793,
         85914167,
         102085729,
-        85688675
+        85867305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152569249,
-    "wof:lastmodified":1449048729,
+    "wof:lastmodified":1466318664,
     "wof:name":"Neils Drywall",
     "wof:parent_id":85867305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.633046,34.160164,-86.633046,34.160164],
-  "geometry": {"coordinates":[-86.633046,34.160164],"type":"Point"}
+  "bbox": [
+    -86.633046,
+    34.160164,
+    -86.633046,
+    34.160164
+],
+  "geometry": {"coordinates":[-86.63304599999999,34.160164],"type":"Point"}
 }

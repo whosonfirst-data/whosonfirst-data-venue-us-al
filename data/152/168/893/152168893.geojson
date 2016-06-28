@@ -2,13 +2,14 @@
   "id": 152168893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.126423,33.996778,-86.126423,33.996778",
     "geom:latitude":33.996778,
     "geom:longitude":-86.126423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2326 3rd St SW",
     "sg:city":"Attalla",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085545,
-        85633793,
         85688675,
-        85851221
+        85633793,
+        85851221,
+        102085545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152168893,
-    "wof:lastmodified":1449046713,
+    "wof:lastmodified":1466315575,
     "wof:name":"Powell's Custom Curving",
     "wof:parent_id":85851221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.126423,33.996778,-86.126423,33.996778],
+  "bbox": [
+    -86.126423,
+    33.996778,
+    -86.126423,
+    33.996778
+],
   "geometry": {"coordinates":[-86.126423,33.996778],"type":"Point"}
 }

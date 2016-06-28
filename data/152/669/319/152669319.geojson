@@ -2,13 +2,14 @@
   "id": 152669319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.837405,33.51944,-86.837405,33.51944",
     "geom:latitude":33.51944,
     "geom:longitude":-86.837405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 10th Ct W",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85849097,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85849097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152669319,
-    "wof:lastmodified":1449044834,
+    "wof:lastmodified":1466319184,
     "wof:name":"Sheehy International LLC",
     "wof:parent_id":85849097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.837405,33.51944,-86.837405,33.51944],
+  "bbox": [
+    -86.837405,
+    33.51944,
+    -86.837405,
+    33.51944
+],
   "geometry": {"coordinates":[-86.837405,33.51944],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152415109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.520425,32.581528,-85.520425,32.581528",
     "geom:latitude":32.581528,
     "geom:longitude":-85.520425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2038 Co Rd 137",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851115,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85851115
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152415109,
-    "wof:lastmodified":1449047629,
+    "wof:lastmodified":1466317896,
     "wof:name":"Avess",
     "wof:parent_id":85851115,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.520425,32.581528,-85.520425,32.581528],
+  "bbox": [
+    -85.520425,
+    32.581528,
+    -85.520425,
+    32.581528
+],
   "geometry": {"coordinates":[-85.520425,32.581528],"type":"Point"}
 }

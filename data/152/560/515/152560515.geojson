@@ -2,13 +2,14 @@
   "id": 152560515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.698832,34.754405,-87.698832,34.754405",
     "geom:latitude":34.754405,
     "geom:longitude":-87.698832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 S Montgomery Ave",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858837,
+        85688675,
         85633793,
         85897473,
         102085625,
-        85688675
+        85858837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152560515,
-    "wof:lastmodified":1449047823,
+    "wof:lastmodified":1466318623,
     "wof:name":"North Alabama Skills Center",
     "wof:parent_id":85858837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.698832,34.754405,-87.698832,34.754405],
+  "bbox": [
+    -87.698832,
+    34.754405,
+    -87.698832,
+    34.754405
+],
   "geometry": {"coordinates":[-87.698832,34.754405],"type":"Point"}
 }

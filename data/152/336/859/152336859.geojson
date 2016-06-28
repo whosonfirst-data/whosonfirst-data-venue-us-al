@@ -2,13 +2,14 @@
   "id": 152336859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.974769,31.774036,-85.974769,31.774036",
     "geom:latitude":31.774036,
     "geom:longitude":-85.974769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"707 Wilson Dr",
     "sg:city":"Troy",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867315,
+        85688675,
         85633793,
         85914551,
         102085619,
-        85688675
+        85867315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152336859,
-    "wof:lastmodified":1449044192,
+    "wof:lastmodified":1466317381,
     "wof:name":"Jerry Lott",
     "wof:parent_id":85867315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.974769,31.774036,-85.974769,31.774036],
-  "geometry": {"coordinates":[-85.974769,31.774036],"type":"Point"}
+  "bbox": [
+    -85.974769,
+    31.774036,
+    -85.974769,
+    31.774036
+],
+  "geometry": {"coordinates":[-85.97476899999999,31.774036],"type":"Point"}
 }

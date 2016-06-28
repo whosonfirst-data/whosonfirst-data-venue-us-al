@@ -2,13 +2,14 @@
   "id": 152843615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.825039,33.512137,-86.825039,33.512137",
     "geom:latitude":33.512137,
     "geom:longitude":-86.825039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"717 6th Ave N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85849097,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85849097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152843615,
-    "wof:lastmodified":1449044713,
+    "wof:lastmodified":1466320071,
     "wof:name":"Milimar Marketing Inc",
     "wof:parent_id":85849097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.825039,33.512137,-86.825039,33.512137],
+  "bbox": [
+    -86.825039,
+    33.512137,
+    -86.825039,
+    33.512137
+],
   "geometry": {"coordinates":[-86.825039,33.512137],"type":"Point"}
 }

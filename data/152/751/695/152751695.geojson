@@ -2,13 +2,14 @@
   "id": 152751695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.931724,34.345623,-85.931724,34.345623",
     "geom:latitude":34.345623,
     "geom:longitude":-85.931724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"188 Co Rd 182",
     "sg:city":"Dawson",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815015,
+        85688675,
         85633793,
         85897515,
         102085615,
-        85688675
+        85815015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152751695,
-    "wof:lastmodified":1449044558,
+    "wof:lastmodified":1466319580,
     "wof:name":"L & B Construction Inc",
     "wof:parent_id":85815015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.931724,34.345623,-85.931724,34.345623],
+  "bbox": [
+    -85.931724,
+    34.345623,
+    -85.931724,
+    34.345623
+],
   "geometry": {"coordinates":[-85.931724,34.345623],"type":"Point"}
 }

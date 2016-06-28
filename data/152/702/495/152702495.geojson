@@ -2,13 +2,14 @@
   "id": 152702495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.328037,33.78169,-86.328037,33.78169",
     "geom:latitude":33.78169,
     "geom:longitude":-86.328037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10496 Co Hwy 31",
     "sg:city":"Ashville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":152702495,
-    "wof:lastmodified":1449046614,
+    "wof:lastmodified":1466319304,
     "wof:name":"Cool Springs Volunteer Fire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.328037,33.78169,-86.328037,33.78169],
-  "geometry": {"coordinates":[-86.328037,33.78169],"type":"Point"}
+  "bbox": [
+    -86.328037,
+    33.78169,
+    -86.328037,
+    33.78169
+],
+  "geometry": {"coordinates":[-86.32803699999999,33.78169],"type":"Point"}
 }

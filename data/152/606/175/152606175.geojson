@@ -2,13 +2,14 @@
   "id": 152606175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.878476,33.730215,-85.878476,33.730215",
     "geom:latitude":33.730215,
     "geom:longitude":-85.878476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4004 US Hwy 431",
     "sg:city":"Anniston",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825451,
+        85688675,
         85633793,
         85915207,
         102085603,
-        85688675
+        85825451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152606175,
-    "wof:lastmodified":1449045020,
+    "wof:lastmodified":1466318850,
     "wof:name":"Luv Homes",
     "wof:parent_id":85825451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.878476,33.730215,-85.878476,33.730215],
-  "geometry": {"coordinates":[-85.878476,33.730215],"type":"Point"}
+  "bbox": [
+    -85.878476,
+    33.730215,
+    -85.878476,
+    33.730215
+],
+  "geometry": {"coordinates":[-85.87847600000001,33.730215],"type":"Point"}
 }

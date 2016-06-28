@@ -2,13 +2,14 @@
   "id": 152455641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.300249,31.200236,-85.300249,31.200236",
     "geom:latitude":31.200236,
     "geom:longitude":-85.300249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3210 Jordan Ave",
     "sg:city":"Cowarts",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847911,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85847911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152455641,
-    "wof:lastmodified":1449048177,
+    "wof:lastmodified":1466318215,
     "wof:name":"Covenant Builders",
     "wof:parent_id":85847911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.300249,31.200236,-85.300249,31.200236],
-  "geometry": {"coordinates":[-85.300249,31.200236],"type":"Point"}
+  "bbox": [
+    -85.300249,
+    31.200236,
+    -85.300249,
+    31.200236
+],
+  "geometry": {"coordinates":[-85.30024899999999,31.200236],"type":"Point"}
 }

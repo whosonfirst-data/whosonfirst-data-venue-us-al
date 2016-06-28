@@ -2,13 +2,14 @@
   "id": 152574877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.992127,32.550365,-85.992127,32.550365",
     "geom:latitude":32.550365,
     "geom:longitude":-85.992127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1024 Flat Rock Rd",
     "sg:city":"Tallassee",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827623,
+        85688675,
         85633793,
         85913291,
         102085631,
-        85688675
+        85827623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152574877,
-    "wof:lastmodified":1449044262,
+    "wof:lastmodified":1466318619,
     "wof:name":"Flatrock Mssnary Baptst Church",
     "wof:parent_id":85827623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.992127,32.550365,-85.992127,32.550365],
+  "bbox": [
+    -85.992127,
+    32.550365,
+    -85.992127,
+    32.550365
+],
   "geometry": {"coordinates":[-85.992127,32.550365],"type":"Point"}
 }

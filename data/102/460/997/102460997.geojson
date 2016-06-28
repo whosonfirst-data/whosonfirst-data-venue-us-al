@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102460997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.554701,34.745675,-86.554701,34.745675",
     "geom:latitude":34.745675,
     "geom:longitude":-86.554701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"712 Giles Dr NE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813599,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85813599
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102460997,
-    "wof:lastmodified":1449070060,
+    "wof:lastmodified":1466315082,
     "wof:name":"Harold E Tuck Jr",
     "wof:parent_id":85813599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.554701,34.745675,-86.554701,34.745675],
-  "geometry": {"coordinates":[-86.554701,34.745675],"type":"Point"}
+  "bbox": [
+    -86.554701,
+    34.745675,
+    -86.554701,
+    34.745675
+],
+  "geometry": {"coordinates":[-86.55470099999999,34.745675],"type":"Point"}
 }

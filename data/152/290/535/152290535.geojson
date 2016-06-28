@@ -2,13 +2,14 @@
   "id": 152290535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.976458,34.545486,-86.976458,34.545486",
     "geom:latitude":34.545486,
     "geom:longitude":-86.976458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3116 Sexton Rd SE",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.graves-phillips.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85804905,
+        85688675,
         85633793,
         85913589,
         102085531,
-        85688675
+        85804905
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152290535,
-    "wof:lastmodified":1449046298,
+    "wof:lastmodified":1466317012,
     "wof:name":"Graves & Phillips Engineering",
     "wof:parent_id":85804905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.976458,34.545486,-86.976458,34.545486],
-  "geometry": {"coordinates":[-86.976458,34.545486],"type":"Point"}
+  "bbox": [
+    -86.976458,
+    34.545486,
+    -86.976458,
+    34.545486
+],
+  "geometry": {"coordinates":[-86.97645799999999,34.545486],"type":"Point"}
 }

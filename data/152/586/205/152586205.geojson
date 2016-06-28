@@ -2,13 +2,14 @@
   "id": 152586205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.544813,33.694623,-86.544813,33.694623",
     "geom:latitude":33.694623,
     "geom:longitude":-86.544813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6728 Advent Cir",
     "sg:city":"Trussville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85804121,
+        85688675,
         85633793,
         85914899,
         102085481,
-        85688675
+        85804121
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152586205,
-    "wof:lastmodified":1449048393,
+    "wof:lastmodified":1466318767,
     "wof:name":"Tb Towing",
     "wof:parent_id":85804121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.544813,33.694623,-86.544813,33.694623],
+  "bbox": [
+    -86.544813,
+    33.694623,
+    -86.544813,
+    33.694623
+],
   "geometry": {"coordinates":[-86.544813,33.694623],"type":"Point"}
 }

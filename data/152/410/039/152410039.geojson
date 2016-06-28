@@ -2,13 +2,14 @@
   "id": 152410039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.184287,30.674749,-88.184287,30.674749",
     "geom:latitude":30.674749,
     "geom:longitude":-88.184287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 McNeil Ave",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858377,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85858377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152410039,
-    "wof:lastmodified":1449044361,
+    "wof:lastmodified":1466317877,
     "wof:name":"Rainbow Nail",
     "wof:parent_id":85858377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.184287,30.674749,-88.184287,30.674749],
+  "bbox": [
+    -88.184287,
+    30.674749,
+    -88.184287,
+    30.674749
+],
   "geometry": {"coordinates":[-88.184287,30.674749],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152772895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.536564,34.783065,-86.536564,34.783065",
     "geom:latitude":34.783065,
     "geom:longitude":-86.536564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4914 Moores Mill Rd",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     "sg:website":"www.plasmapros.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833793,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85833793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":152772895,
-    "wof:lastmodified":1449046385,
+    "wof:lastmodified":1466319801,
     "wof:name":"Plasma Processing Inc",
     "wof:parent_id":85833793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.536564,34.783065,-86.536564,34.783065],
+  "bbox": [
+    -86.536564,
+    34.783065,
+    -86.536564,
+    34.783065
+],
   "geometry": {"coordinates":[-86.536564,34.783065],"type":"Point"}
 }

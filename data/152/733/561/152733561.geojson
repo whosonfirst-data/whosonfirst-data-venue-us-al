@@ -2,13 +2,14 @@
   "id": 152733561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.50076,32.568782,-85.50076,32.568782",
     "geom:latitude":32.568782,
     "geom:longitude":-85.50076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1978 S College St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851115,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85851115
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152733561,
-    "wof:lastmodified":1449044948,
+    "wof:lastmodified":1466319555,
     "wof:name":"Air Analysis of Atlanta",
     "wof:parent_id":85851115,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.50076,32.568782,-85.50076,32.568782],
+  "bbox": [
+    -85.50076,
+    32.568782,
+    -85.50076,
+    32.568782
+],
   "geometry": {"coordinates":[-85.50076,32.568782],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152784313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.544222,33.798264,-86.544222,33.798264",
     "geom:latitude":33.798264,
     "geom:longitude":-86.544222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 Rocking H Rd",
     "sg:city":"Remlap",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807031,
+        85688675,
         85633793,
         85913421,
         102085647,
-        85688675
+        85807031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152784313,
-    "wof:lastmodified":1449047380,
+    "wof:lastmodified":1466319817,
     "wof:name":"Tom Hallman",
     "wof:parent_id":85807031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.544222,33.798264,-86.544222,33.798264],
+  "bbox": [
+    -86.544222,
+    33.798264,
+    -86.544222,
+    33.798264
+],
   "geometry": {"coordinates":[-86.544222,33.798264],"type":"Point"}
 }

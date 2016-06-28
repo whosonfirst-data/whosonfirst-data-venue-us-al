@@ -2,13 +2,14 @@
   "id": 152368247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.63552,34.527905,-86.63552,34.527905",
     "geom:latitude":34.527905,
     "geom:longitude":-86.63552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"185 Deaton Rd",
     "sg:city":"Laceys Spring",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822793,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85822793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152368247,
-    "wof:lastmodified":1449045356,
+    "wof:lastmodified":1466317576,
     "wof:name":"Current Electric Services",
     "wof:parent_id":85822793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.63552,34.527905,-86.63552,34.527905],
+  "bbox": [
+    -86.63552,
+    34.527905,
+    -86.63552,
+    34.527905
+],
   "geometry": {"coordinates":[-86.63552,34.527905],"type":"Point"}
 }

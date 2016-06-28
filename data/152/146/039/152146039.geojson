@@ -2,13 +2,14 @@
   "id": 152146039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.981687,34.58339,-86.981687,34.58339",
     "geom:latitude":34.58339,
     "geom:longitude":-86.981687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1502 5th Ave SE",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818653,
+        85688675,
         85633793,
         85913589,
         102085531,
-        85688675
+        85818653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152146039,
-    "wof:lastmodified":1449046230,
+    "wof:lastmodified":1466315410,
     "wof:name":"Southern States Express Inc",
     "wof:parent_id":85818653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.981687,34.58339,-86.981687,34.58339],
-  "geometry": {"coordinates":[-86.981687,34.58339],"type":"Point"}
+  "bbox": [
+    -86.981687,
+    34.58339,
+    -86.981687,
+    34.58339
+],
+  "geometry": {"coordinates":[-86.98168699999999,34.58339],"type":"Point"}
 }

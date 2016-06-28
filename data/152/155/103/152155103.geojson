@@ -2,13 +2,14 @@
   "id": 152155103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.378587,31.26376,-85.378587,31.26376",
     "geom:latitude":31.26376,
     "geom:longitude":-85.378587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3004 Bankhead St",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859419,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85859419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152155103,
-    "wof:lastmodified":1449048111,
+    "wof:lastmodified":1466314824,
     "wof:name":"Sidney Inc",
     "wof:parent_id":85859419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.378587,31.26376,-85.378587,31.26376],
+  "bbox": [
+    -85.378587,
+    31.26376,
+    -85.378587,
+    31.26376
+],
   "geometry": {"coordinates":[-85.378587,31.26376],"type":"Point"}
 }

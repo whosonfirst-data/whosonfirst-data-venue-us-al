@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102486353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.814315,33.287209,-86.814315,33.287209",
     "geom:latitude":33.287209,
     "geom:longitude":-86.814315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3183 Lee St",
     "sg:city":"Pelham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828267,
+        85688675,
         85633793,
         85914501,
         102085499,
-        85688675
+        85828267
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102486353,
-    "wof:lastmodified":1449069081,
+    "wof:lastmodified":1466315660,
     "wof:name":"Kellys Trmite & Pest Control",
     "wof:parent_id":85828267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.814315,33.287209,-86.814315,33.287209],
-  "geometry": {"coordinates":[-86.814315,33.287209],"type":"Point"}
+  "bbox": [
+    -86.814315,
+    33.287209,
+    -86.814315,
+    33.287209
+],
+  "geometry": {"coordinates":[-86.81431499999999,33.287209],"type":"Point"}
 }

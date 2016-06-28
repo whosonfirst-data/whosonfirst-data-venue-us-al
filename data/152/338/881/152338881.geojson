@@ -2,13 +2,14 @@
   "id": 152338881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.114598,30.682385,-88.114598,30.682385",
     "geom:latitude":30.682385,
     "geom:longitude":-88.114598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 S Sage Ave",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     "sg:website":"www.sageavenuebaptist.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878965,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152338881,
-    "wof:lastmodified":1449045906,
+    "wof:lastmodified":1466317555,
     "wof:name":"Sage Avenue Baptist Church",
     "wof:parent_id":85878965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.114598,30.682385,-88.114598,30.682385],
+  "bbox": [
+    -88.114598,
+    30.682385,
+    -88.114598,
+    30.682385
+],
   "geometry": {"coordinates":[-88.114598,30.682385],"type":"Point"}
 }

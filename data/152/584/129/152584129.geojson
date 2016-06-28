@@ -2,13 +2,14 @@
   "id": 152584129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.00276,34.604273,-87.00276,34.604273",
     "geom:latitude":34.604273,
     "geom:longitude":-87.00276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1102 Moulton St W",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152584129,
-    "wof:lastmodified":1449044816,
+    "wof:lastmodified":1466319000,
     "wof:name":"Jack's Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.00276,34.604273,-87.00276,34.604273],
-  "geometry": {"coordinates":[-87.00276,34.604273],"type":"Point"}
+  "bbox": [
+    -87.00276,
+    34.604273,
+    -87.00276,
+    34.604273
+],
+  "geometry": {"coordinates":[-87.00275999999999,34.604273],"type":"Point"}
 }

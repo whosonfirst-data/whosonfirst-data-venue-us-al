@@ -2,13 +2,14 @@
   "id": 152776775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.997165,31.854111,-85.997165,31.854111",
     "geom:latitude":31.854111,
     "geom:longitude":-85.997165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Old Hwy 231 N",
     "sg:city":"Troy",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085619,
-        85633793,
         85688675,
-        85867311
+        85633793,
+        85867311,
+        102085619
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152776775,
-    "wof:lastmodified":1449045310,
+    "wof:lastmodified":1466319810,
     "wof:name":"Poole Action Company Roy",
     "wof:parent_id":85867311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.997165,31.854111,-85.997165,31.854111],
+  "bbox": [
+    -85.997165,
+    31.854111,
+    -85.997165,
+    31.854111
+],
   "geometry": {"coordinates":[-85.997165,31.854111],"type":"Point"}
 }

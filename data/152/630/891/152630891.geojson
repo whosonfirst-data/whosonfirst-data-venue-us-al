@@ -2,13 +2,14 @@
   "id": 152630891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.852443,30.536354,-87.852443,30.536354",
     "geom:latitude":30.536354,
     "geom:longitude":-87.852443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21309 Co Rd 27",
     "sg:city":"Fairhope",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854025,
+        85688675,
         85633793,
         85914707,
         102085469,
-        85688675
+        85854025
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152630891,
-    "wof:lastmodified":1449045963,
+    "wof:lastmodified":1466318767,
     "wof:name":"Rosemary Hill Farmstead",
     "wof:parent_id":85854025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.852443,30.536354,-87.852443,30.536354],
-  "geometry": {"coordinates":[-87.852443,30.536354],"type":"Point"}
+  "bbox": [
+    -87.852443,
+    30.536354,
+    -87.852443,
+    30.536354
+],
+  "geometry": {"coordinates":[-87.85244299999999,30.536354],"type":"Point"}
 }

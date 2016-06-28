@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102484589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.475531,32.598739,-85.475531,32.598739",
     "geom:latitude":32.598739,
     "geom:longitude":-85.475531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"328 E Samford Ave",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819999,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85819999
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102484589,
-    "wof:lastmodified":1449070056,
+    "wof:lastmodified":1466315791,
     "wof:name":"Auburn City Pool",
     "wof:parent_id":85819999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.475531,32.598739,-85.475531,32.598739],
+  "bbox": [
+    -85.475531,
+    32.598739,
+    -85.475531,
+    32.598739
+],
   "geometry": {"coordinates":[-85.475531,32.598739],"type":"Point"}
 }

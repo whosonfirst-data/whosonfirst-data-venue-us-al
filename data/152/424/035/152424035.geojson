@@ -2,13 +2,14 @@
   "id": 152424035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.23943,32.392468,-86.23943,32.392468",
     "geom:latitude":32.392468,
     "geom:longitude":-86.23943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"540 Chatsworth Dr",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813403,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85813403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152424035,
-    "wof:lastmodified":1449048633,
+    "wof:lastmodified":1466317949,
     "wof:name":"Gil Barrow Ministries",
     "wof:parent_id":85813403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.23943,32.392468,-86.23943,32.392468],
+  "bbox": [
+    -86.23943,
+    32.392468,
+    -86.23943,
+    32.392468
+],
   "geometry": {"coordinates":[-86.23943,32.392468],"type":"Point"}
 }

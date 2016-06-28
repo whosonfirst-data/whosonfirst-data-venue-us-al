@@ -2,13 +2,14 @@
   "id": 152777179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.272601,32.378159,-86.272601,32.378159",
     "geom:latitude":32.378159,
     "geom:longitude":-86.272601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2506 Brewton St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809389,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85809389
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152777179,
-    "wof:lastmodified":1449046745,
+    "wof:lastmodified":1466319726,
     "wof:name":"Jordan-Morgan Agency",
     "wof:parent_id":85809389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.272601,32.378159,-86.272601,32.378159],
-  "geometry": {"coordinates":[-86.272601,32.378159],"type":"Point"}
+  "bbox": [
+    -86.272601,
+    32.378159,
+    -86.272601,
+    32.378159
+],
+  "geometry": {"coordinates":[-86.27260099999999,32.378159],"type":"Point"}
 }

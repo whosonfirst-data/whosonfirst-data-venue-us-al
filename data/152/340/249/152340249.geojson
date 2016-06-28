@@ -2,13 +2,14 @@
   "id": 152340249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.695557,33.621552,-86.695557,33.621552",
     "geom:latitude":33.621552,
     "geom:longitude":-86.695557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 13th Ter NW",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854035,
+        85688675,
         85633793,
         85914903,
         102085481,
-        85688675
+        85854035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152340249,
-    "wof:lastmodified":1449047862,
+    "wof:lastmodified":1466317517,
     "wof:name":"AAA Auto Headliners",
     "wof:parent_id":85854035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.695557,33.621552,-86.695557,33.621552],
-  "geometry": {"coordinates":[-86.695557,33.621552],"type":"Point"}
+  "bbox": [
+    -86.695557,
+    33.621552,
+    -86.695557,
+    33.621552
+],
+  "geometry": {"coordinates":[-86.69555699999999,33.621552],"type":"Point"}
 }

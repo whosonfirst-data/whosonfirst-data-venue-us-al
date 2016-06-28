@@ -2,13 +2,14 @@
   "id": 152833247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.252676,32.406225,-86.252676,32.406225",
     "geom:latitude":32.406225,
     "geom:longitude":-86.252676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"540 S Morris Ave",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827567,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85827567
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152833247,
-    "wof:lastmodified":1449044899,
+    "wof:lastmodified":1466320021,
     "wof:name":"Us Envrnmntal Protection Agcy",
     "wof:parent_id":85827567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.252676,32.406225,-86.252676,32.406225],
-  "geometry": {"coordinates":[-86.252676,32.406225],"type":"Point"}
+  "bbox": [
+    -86.252676,
+    32.406225,
+    -86.252676,
+    32.406225
+],
+  "geometry": {"coordinates":[-86.25267599999999,32.406225],"type":"Point"}
 }

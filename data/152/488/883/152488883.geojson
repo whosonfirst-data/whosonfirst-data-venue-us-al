@@ -2,13 +2,14 @@
   "id": 152488883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.807816,33.524708,-86.807816,33.524708",
     "geom:latitude":33.524708,
     "geom:longitude":-86.807816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2242 9th Ave N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876273,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152488883,
-    "wof:lastmodified":1449048797,
+    "wof:lastmodified":1466318337,
     "wof:name":"Salvagio Chrles Attrney At Law",
     "wof:parent_id":85876273,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.807816,33.524708,-86.807816,33.524708],
+  "bbox": [
+    -86.807816,
+    33.524708,
+    -86.807816,
+    33.524708
+],
   "geometry": {"coordinates":[-86.807816,33.524708],"type":"Point"}
 }

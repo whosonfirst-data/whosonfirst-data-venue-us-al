@@ -2,13 +2,14 @@
   "id": 152872423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.687197,33.611825,-86.687197,33.611825",
     "geom:latitude":33.611825,
     "geom:longitude":-86.687197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9921 Parkway E",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854035,
+        85688675,
         85633793,
         85914903,
         102085481,
-        85688675
+        85854035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152872423,
-    "wof:lastmodified":1449044715,
+    "wof:lastmodified":1466320202,
     "wof:name":"Great American Loans",
     "wof:parent_id":85854035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.687197,33.611825,-86.687197,33.611825],
+  "bbox": [
+    -86.687197,
+    33.611825,
+    -86.687197,
+    33.611825
+],
   "geometry": {"coordinates":[-86.687197,33.611825],"type":"Point"}
 }

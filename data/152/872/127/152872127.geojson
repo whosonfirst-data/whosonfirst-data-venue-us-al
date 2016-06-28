@@ -2,13 +2,14 @@
   "id": 152872127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.828473,33.670317,-85.828473,33.670317",
     "geom:latitude":33.670317,
     "geom:longitude":-85.828473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1905 Wilmer Ave",
     "sg:city":"Anniston",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840061,
+        85688675,
         85633793,
         85914281,
         102085603,
-        85688675
+        85840061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152872127,
-    "wof:lastmodified":1449044715,
+    "wof:lastmodified":1466320185,
     "wof:name":"Noma's School-Gymnastics",
     "wof:parent_id":85840061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.828473,33.670317,-85.828473,33.670317],
+  "bbox": [
+    -85.828473,
+    33.670317,
+    -85.828473,
+    33.670317
+],
   "geometry": {"coordinates":[-85.828473,33.670317],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152552573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.046247,30.696445,-88.046247,30.696445",
     "geom:latitude":30.696445,
     "geom:longitude":-88.046247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Congress St",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.jmbrining.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895795,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85895795
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152552573,
-    "wof:lastmodified":1449046245,
+    "wof:lastmodified":1466318593,
     "wof:name":"John M Brining Co",
     "wof:parent_id":85895795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.046247,30.696445,-88.046247,30.696445],
-  "geometry": {"coordinates":[-88.046247,30.696445],"type":"Point"}
+  "bbox": [
+    -88.046247,
+    30.696445,
+    -88.046247,
+    30.696445
+],
+  "geometry": {"coordinates":[-88.04624699999999,30.696445],"type":"Point"}
 }

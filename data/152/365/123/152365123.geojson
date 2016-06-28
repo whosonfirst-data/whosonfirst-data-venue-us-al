@@ -2,13 +2,14 @@
   "id": 152365123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.066199,34.030365,-87.066199,34.030365",
     "geom:latitude":34.030365,
     "geom:longitude":-87.066199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"93 Co Rd 217",
     "sg:city":"Crane Hill",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085729,
-        85633793,
         85688675,
-        85867309
+        85633793,
+        85867309,
+        102085729
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152365123,
-    "wof:lastmodified":1449045046,
+    "wof:lastmodified":1466317777,
     "wof:name":"Pride & Joy Construction",
     "wof:parent_id":85867309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.066199,34.030365,-87.066199,34.030365],
+  "bbox": [
+    -87.066199,
+    34.030365,
+    -87.066199,
+    34.030365
+],
   "geometry": {"coordinates":[-87.066199,34.030365],"type":"Point"}
 }

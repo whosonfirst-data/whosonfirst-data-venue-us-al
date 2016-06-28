@@ -2,13 +2,14 @@
   "id": 152405863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.481818,33.604954,-86.481818,33.604954",
     "geom:latitude":33.604954,
     "geom:longitude":-86.481818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"829 Robbie Dr",
     "sg:city":"Moody",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807031,
+        85688675,
         85633793,
         85913421,
         102085647,
-        85688675
+        85807031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152405863,
-    "wof:lastmodified":1449048538,
+    "wof:lastmodified":1466317887,
     "wof:name":"Whbooth Enterprises Inc",
     "wof:parent_id":85807031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.481818,33.604954,-86.481818,33.604954],
+  "bbox": [
+    -86.481818,
+    33.604954,
+    -86.481818,
+    33.604954
+],
   "geometry": {"coordinates":[-86.481818,33.604954],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152217609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.571448,34.708188,-86.571448,34.708188",
     "geom:latitude":34.708188,
     "geom:longitude":-86.571448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2711 Whitesburg Dr S",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818149,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85818149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":152217609,
-    "wof:lastmodified":1449048642,
+    "wof:lastmodified":1466316040,
     "wof:name":"Leviathan Media Inc",
     "wof:parent_id":85818149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.571448,34.708188,-86.571448,34.708188],
+  "bbox": [
+    -86.571448,
+    34.708188,
+    -86.571448,
+    34.708188
+],
   "geometry": {"coordinates":[-86.571448,34.708188],"type":"Point"}
 }

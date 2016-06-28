@@ -2,13 +2,14 @@
   "id": 152441197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.227924,32.376557,-86.227924,32.376557",
     "geom:latitude":32.376557,
     "geom:longitude":-86.227924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"453 Holly Brook Dr",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811755,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85811755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152441197,
-    "wof:lastmodified":1449044658,
+    "wof:lastmodified":1466318030,
     "wof:name":"K C Nummy Concrete",
     "wof:parent_id":85811755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.227924,32.376557,-86.227924,32.376557],
+  "bbox": [
+    -86.227924,
+    32.376557,
+    -86.227924,
+    32.376557
+],
   "geometry": {"coordinates":[-86.227924,32.376557],"type":"Point"}
 }

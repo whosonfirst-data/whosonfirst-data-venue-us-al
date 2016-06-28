@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102482005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.773664,33.483705,-86.773664,33.483705",
     "geom:latitude":33.483705,
     "geom:longitude":-86.773664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2736 Cahaba Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876275,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102482005,
-    "wof:lastmodified":1449068645,
+    "wof:lastmodified":1466315480,
     "wof:name":"Kay Cleaners",
     "wof:parent_id":85876275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.773664,33.483705,-86.773664,33.483705],
+  "bbox": [
+    -86.773664,
+    33.483705,
+    -86.773664,
+    33.483705
+],
   "geometry": {"coordinates":[-86.773664,33.483705],"type":"Point"}
 }

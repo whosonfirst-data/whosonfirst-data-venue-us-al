@@ -2,13 +2,14 @@
   "id": 152596765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.622961,33.581272,-86.622961,33.581272",
     "geom:latitude":33.581272,
     "geom:longitude":-86.622961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6401 Ransom Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.adpix.biz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852733,
+        85688675,
         85633793,
         85913473,
         102085481,
-        85688675
+        85852733
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152596765,
-    "wof:lastmodified":1449046671,
+    "wof:lastmodified":1466318834,
     "wof:name":"Adpix Biz",
     "wof:parent_id":85852733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.622961,33.581272,-86.622961,33.581272],
+  "bbox": [
+    -86.622961,
+    33.581272,
+    -86.622961,
+    33.581272
+],
   "geometry": {"coordinates":[-86.622961,33.581272],"type":"Point"}
 }

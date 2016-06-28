@@ -2,13 +2,14 @@
   "id": 152500357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.340088,31.18787,-85.340088,31.18787",
     "geom:latitude":31.18787,
     "geom:longitude":-85.340088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1562 Forrester Rd",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847911,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85847911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152500357,
-    "wof:lastmodified":1449045451,
+    "wof:lastmodified":1466318334,
     "wof:name":"Lord Concrete & Paving Co",
     "wof:parent_id":85847911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.340088,31.18787,-85.340088,31.18787],
-  "geometry": {"coordinates":[-85.340088,31.18787],"type":"Point"}
+  "bbox": [
+    -85.340088,
+    31.18787,
+    -85.340088,
+    31.18787
+],
+  "geometry": {"coordinates":[-85.34008799999999,31.18787],"type":"Point"}
 }

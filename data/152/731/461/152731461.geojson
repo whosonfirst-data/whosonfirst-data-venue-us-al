@@ -2,13 +2,14 @@
   "id": 152731461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.866122,34.228109,-86.866122,34.228109",
     "geom:latitude":34.228109,
     "geom:longitude":-86.866122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Goodwin Rd",
     "sg:city":"Vinemont",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     "sg:website":"www.perfectionchain.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085729,
-        85633793,
         85688675,
-        85867309
+        85633793,
+        85867309,
+        102085729
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152731461,
-    "wof:lastmodified":1449048404,
+    "wof:lastmodified":1466319485,
     "wof:name":"Perfection Chain Products Inc",
     "wof:parent_id":85867309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.866122,34.228109,-86.866122,34.228109],
+  "bbox": [
+    -86.866122,
+    34.228109,
+    -86.866122,
+    34.228109
+],
   "geometry": {"coordinates":[-86.866122,34.228109],"type":"Point"}
 }

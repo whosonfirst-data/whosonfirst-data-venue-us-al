@@ -2,13 +2,14 @@
   "id": 152682191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.999248,33.149573,-85.999248,33.149573",
     "geom:latitude":33.149573,
     "geom:longitude":-85.999248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"771 Oaks Chapel Rd",
     "sg:city":"Goodwater",
     "sg:classifiers":[
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152682191,
-    "wof:lastmodified":1449045115,
+    "wof:lastmodified":1466319236,
     "wof:name":"Oaks Chapel Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.999248,33.149573,-85.999248,33.149573],
-  "geometry": {"coordinates":[-85.999248,33.149573],"type":"Point"}
+  "bbox": [
+    -85.999248,
+    33.149573,
+    -85.999248,
+    33.149573
+],
+  "geometry": {"coordinates":[-85.99924799999999,33.149573],"type":"Point"}
 }

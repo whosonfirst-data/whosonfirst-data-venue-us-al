@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102504317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.892026,30.521925,-87.892026,30.521925",
     "geom:latitude":30.521925,
     "geom:longitude":-87.892026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"690 Johnson Ave",
     "sg:city":"Fairhope",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854025,
+        85688675,
         85633793,
         85914707,
         102085469,
-        85688675
+        85854025
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102504317,
-    "wof:lastmodified":1449068232,
+    "wof:lastmodified":1466316748,
     "wof:name":"LA Subs",
     "wof:parent_id":85854025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.892026,30.521925,-87.892026,30.521925],
+  "bbox": [
+    -87.892026,
+    30.521925,
+    -87.892026,
+    30.521925
+],
   "geometry": {"coordinates":[-87.892026,30.521925],"type":"Point"}
 }

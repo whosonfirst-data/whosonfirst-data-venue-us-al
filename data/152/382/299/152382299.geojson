@@ -2,13 +2,14 @@
   "id": 152382299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.754451,33.538728,-86.754451,33.538728",
     "geom:latitude":33.538728,
     "geom:longitude":-86.754451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5305 1st Ave N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858829,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85858829
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152382299,
-    "wof:lastmodified":1449045524,
+    "wof:lastmodified":1466317740,
     "wof:name":"Nationwide Communications",
     "wof:parent_id":85858829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.754451,33.538728,-86.754451,33.538728],
+  "bbox": [
+    -86.754451,
+    33.538728,
+    -86.754451,
+    33.538728
+],
   "geometry": {"coordinates":[-86.754451,33.538728],"type":"Point"}
 }

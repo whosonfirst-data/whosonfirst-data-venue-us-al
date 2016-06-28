@@ -2,13 +2,14 @@
   "id": 152313449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.263342,33.417197,-87.263342,33.417197",
     "geom:latitude":33.417197,
     "geom:longitude":-87.263342,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16679 Groundhog Rd",
     "sg:city":"Adger",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859275,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85859275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152313449,
-    "wof:lastmodified":1449044434,
+    "wof:lastmodified":1466317187,
     "wof:name":"Dan M Grantham",
     "wof:parent_id":85859275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.263342,33.417197,-87.263342,33.417197],
-  "geometry": {"coordinates":[-87.263342,33.417197],"type":"Point"}
+  "bbox": [
+    -87.263342,
+    33.417197,
+    -87.263342,
+    33.417197
+],
+  "geometry": {"coordinates":[-87.26334199999999,33.417197],"type":"Point"}
 }

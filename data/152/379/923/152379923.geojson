@@ -2,13 +2,14 @@
   "id": 152379923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.115456,30.749225,-88.115456,30.749225",
     "geom:latitude":30.749225,
     "geom:longitude":-88.115456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1839 Wolf Ridge Rd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85857413,
+        85688675,
         85633793,
         85913741,
         102085585,
-        85688675
+        85857413
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152379923,
-    "wof:lastmodified":1449046992,
+    "wof:lastmodified":1466317740,
     "wof:name":"Martin Gas Transport Inc",
     "wof:parent_id":85857413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.115456,30.749225,-88.115456,30.749225],
-  "geometry": {"coordinates":[-88.115456,30.749225],"type":"Point"}
+  "bbox": [
+    -88.115456,
+    30.749225,
+    -88.115456,
+    30.749225
+],
+  "geometry": {"coordinates":[-88.11545599999999,30.749225],"type":"Point"}
 }

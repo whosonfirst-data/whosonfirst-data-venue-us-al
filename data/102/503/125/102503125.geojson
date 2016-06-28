@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102503125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.081053,30.588351,-88.081053,30.588351",
     "geom:latitude":30.588351,
     "geom:longitude":-88.081053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4124 Dauphin Island Pkwy",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878969,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878969
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102503125,
-    "wof:lastmodified":1449070222,
+    "wof:lastmodified":1466316548,
     "wof:name":"Parkway Church Of God",
     "wof:parent_id":85878969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.081053,30.588351,-88.081053,30.588351],
+  "bbox": [
+    -88.081053,
+    30.588351,
+    -88.081053,
+    30.588351
+],
   "geometry": {"coordinates":[-88.081053,30.588351],"type":"Point"}
 }

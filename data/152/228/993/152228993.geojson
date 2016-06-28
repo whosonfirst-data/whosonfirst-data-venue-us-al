@@ -2,13 +2,14 @@
   "id": 152228993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.205627,32.535653,-86.205627,32.535653",
     "geom:latitude":32.535653,
     "geom:longitude":-86.205627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Ready St",
     "sg:city":"Wetumpka",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806527,
+        85688675,
         85633793,
         85913951,
         102085631,
-        85688675
+        85806527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152228993,
-    "wof:lastmodified":1449045748,
+    "wof:lastmodified":1466316313,
     "wof:name":"Pampered Paws Pet Grooming",
     "wof:parent_id":85806527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.205627,32.535653,-86.205627,32.535653],
-  "geometry": {"coordinates":[-86.205627,32.535653],"type":"Point"}
+  "bbox": [
+    -86.205627,
+    32.535653,
+    -86.205627,
+    32.535653
+],
+  "geometry": {"coordinates":[-86.20562700000001,32.535653],"type":"Point"}
 }

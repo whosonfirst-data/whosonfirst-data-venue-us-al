@@ -2,13 +2,14 @@
   "id": 152238935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.056816,32.503317,-85.056816,32.503317",
     "geom:latitude":32.503317,
     "geom:longitude":-85.056816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Neil Dr",
     "sg:city":"Phenix City",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829585,
+        85688675,
         85633793,
         85913715,
         102085697,
-        85688675
+        85829585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152238935,
-    "wof:lastmodified":1449046037,
+    "wof:lastmodified":1466316330,
     "wof:name":"B & B Auto Svc",
     "wof:parent_id":85829585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.056816,32.503317,-85.056816,32.503317],
+  "bbox": [
+    -85.056816,
+    32.503317,
+    -85.056816,
+    32.503317
+],
   "geometry": {"coordinates":[-85.056816,32.503317],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102495731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.677679,33.525405,-86.677679,33.525405",
     "geom:latitude":33.525405,
     "geom:longitude":-86.677679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3721 Belmont Rd",
     "sg:city":"Irondale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85823773,
+        85688675,
         85633793,
         85914835,
         102085481,
-        85688675
+        85823773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102495731,
-    "wof:lastmodified":1449068831,
+    "wof:lastmodified":1466316275,
     "wof:name":"Casa Maria",
     "wof:parent_id":85823773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.677679,33.525405,-86.677679,33.525405],
+  "bbox": [
+    -86.677679,
+    33.525405,
+    -86.677679,
+    33.525405
+],
   "geometry": {"coordinates":[-86.677679,33.525405],"type":"Point"}
 }

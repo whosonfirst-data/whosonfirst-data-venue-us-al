@@ -2,13 +2,14 @@
   "id": 152183213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.505265,34.981275,-87.505265,34.981275",
     "geom:latitude":34.981275,
     "geom:longitude":-87.505265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17654 Co Rd 33",
     "sg:city":"Killen",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":152183213,
-    "wof:lastmodified":1449046783,
+    "wof:lastmodified":1466315739,
     "wof:name":"B & W Carriage Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.505265,34.981275,-87.505265,34.981275],
-  "geometry": {"coordinates":[-87.505265,34.981275],"type":"Point"}
+  "bbox": [
+    -87.505265,
+    34.981275,
+    -87.505265,
+    34.981275
+],
+  "geometry": {"coordinates":[-87.50526499999999,34.981275],"type":"Point"}
 }

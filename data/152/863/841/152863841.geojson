@@ -2,13 +2,14 @@
   "id": 152863841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.979441,34.002458,-85.979441,34.002458",
     "geom:latitude":34.002458,
     "geom:longitude":-85.979441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"326 Hoke St",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822279,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85822279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152863841,
-    "wof:lastmodified":1449047492,
+    "wof:lastmodified":1466320201,
     "wof:name":"Ridgeway Printing",
     "wof:parent_id":85822279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.979441,34.002458,-85.979441,34.002458],
-  "geometry": {"coordinates":[-85.979441,34.002458],"type":"Point"}
+  "bbox": [
+    -85.979441,
+    34.002458,
+    -85.979441,
+    34.002458
+],
+  "geometry": {"coordinates":[-85.97944099999999,34.002458],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152823067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.971359,34.591197,-86.971359,34.591197",
     "geom:latitude":34.591197,
     "geom:longitude":-86.971359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 7th St SE",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152823067,
-    "wof:lastmodified":1449048863,
+    "wof:lastmodified":1466319944,
     "wof:name":"Healthmatch-Physician Referral",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.971359,34.591197,-86.971359,34.591197],
-  "geometry": {"coordinates":[-86.971359,34.591197],"type":"Point"}
+  "bbox": [
+    -86.971359,
+    34.591197,
+    -86.971359,
+    34.591197
+],
+  "geometry": {"coordinates":[-86.97135900000001,34.591197],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152200129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.71052,34.693354,-86.71052,34.693354",
     "geom:latitude":34.693354,
     "geom:longitude":-86.71052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7738 Madison Blvd",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831889,
+        85688675,
         85633793,
         85913593,
         102085487,
-        85688675
+        85831889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152200129,
-    "wof:lastmodified":1449046159,
+    "wof:lastmodified":1466315917,
     "wof:name":"Center For Digestive Health",
     "wof:parent_id":85831889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.71052,34.693354,-86.71052,34.693354],
+  "bbox": [
+    -86.71052,
+    34.693354,
+    -86.71052,
+    34.693354
+],
   "geometry": {"coordinates":[-86.71052,34.693354],"type":"Point"}
 }

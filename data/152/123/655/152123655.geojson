@@ -2,13 +2,14 @@
   "id": 152123655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.590969,30.414257,-87.590969,30.414257",
     "geom:latitude":30.414257,
     "geom:longitude":-87.590969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25490 US Hwy 98",
     "sg:city":"Elberta",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868551,
+        85688675,
         85633793,
         85914719,
         102085469,
-        85688675
+        85868551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152123655,
-    "wof:lastmodified":1449045688,
+    "wof:lastmodified":1466314680,
     "wof:name":"This & That",
     "wof:parent_id":85868551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.590969,30.414257,-87.590969,30.414257],
+  "bbox": [
+    -87.590969,
+    30.414257,
+    -87.590969,
+    30.414257
+],
   "geometry": {"coordinates":[-87.590969,30.414257],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152873499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.046156,30.696321,-88.046156,30.696321",
     "geom:latitude":30.696321,
     "geom:longitude":-88.046156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Congress St",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895795,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85895795
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152873499,
-    "wof:lastmodified":1449045267,
+    "wof:lastmodified":1466320207,
     "wof:name":"Gordon G Armstrong III",
     "wof:parent_id":85895795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.046156,30.696321,-88.046156,30.696321],
+  "bbox": [
+    -88.046156,
+    30.696321,
+    -88.046156,
+    30.696321
+],
   "geometry": {"coordinates":[-88.046156,30.696321],"type":"Point"}
 }

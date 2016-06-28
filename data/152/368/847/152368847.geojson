@@ -2,13 +2,14 @@
   "id": 152368847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.983115,34.805,-86.983115,34.805",
     "geom:latitude":34.805,
     "geom:longitude":-86.983115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Hine St S",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829531,
+        85688675,
         85633793,
         85913543,
         102085489,
-        85688675
+        85829531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152368847,
-    "wof:lastmodified":1449045356,
+    "wof:lastmodified":1466317676,
     "wof:name":"William A Davis Dr",
     "wof:parent_id":85829531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.983115,34.805,-86.983115,34.805],
+  "bbox": [
+    -86.983115,
+    34.805,
+    -86.983115,
+    34.805
+],
   "geometry": {"coordinates":[-86.983115,34.805],"type":"Point"}
 }

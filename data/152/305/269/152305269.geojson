@@ -2,13 +2,14 @@
   "id": 152305269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.661852,33.436848,-86.661852,33.436848",
     "geom:latitude":33.436848,
     "geom:longitude":-86.661852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7341 Cahaba Valley Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85833411
+        85633793,
+        85833411,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152305269,
-    "wof:lastmodified":1449045009,
+    "wof:lastmodified":1466317134,
     "wof:name":"Gradco Inc",
     "wof:parent_id":85833411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.661852,33.436848,-86.661852,33.436848],
+  "bbox": [
+    -86.661852,
+    33.436848,
+    -86.661852,
+    33.436848
+],
   "geometry": {"coordinates":[-86.661852,33.436848],"type":"Point"}
 }

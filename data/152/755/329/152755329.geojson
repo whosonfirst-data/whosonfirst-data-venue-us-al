@@ -2,13 +2,14 @@
   "id": 152755329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.112307,30.694821,-88.112307,30.694821",
     "geom:latitude":30.694821,
     "geom:longitude":-88.112307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2857 Mathers St",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879003,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85879003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152755329,
-    "wof:lastmodified":1449045606,
+    "wof:lastmodified":1466319609,
     "wof:name":"Mitchell Air Conditioning Co",
     "wof:parent_id":85879003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.112307,30.694821,-88.112307,30.694821],
+  "bbox": [
+    -88.112307,
+    30.694821,
+    -88.112307,
+    30.694821
+],
   "geometry": {"coordinates":[-88.112307,30.694821],"type":"Point"}
 }

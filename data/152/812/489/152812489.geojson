@@ -2,13 +2,14 @@
   "id": 152812489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.191556,32.857266,-85.191556,32.857266",
     "geom:latitude":32.857266,
     "geom:longitude":-85.191556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1314 S Gilmer Ave",
     "sg:city":"Lanett",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152812489,
-    "wof:lastmodified":1449044420,
+    "wof:lastmodified":1466319910,
     "wof:name":"Factory Connection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.191556,32.857266,-85.191556,32.857266],
-  "geometry": {"coordinates":[-85.191556,32.857266],"type":"Point"}
+  "bbox": [
+    -85.191556,
+    32.857266,
+    -85.191556,
+    32.857266
+],
+  "geometry": {"coordinates":[-85.19155600000001,32.857266],"type":"Point"}
 }

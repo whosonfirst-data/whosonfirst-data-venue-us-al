@@ -2,13 +2,14 @@
   "id": 152426911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.849931,33.273652,-86.849931,33.273652",
     "geom:latitude":33.273652,
     "geom:longitude":-86.849931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1917 Co Rd 58",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845631,
+        85688675,
         85633793,
         85914471,
         102085499,
-        85688675
+        85845631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152426911,
-    "wof:lastmodified":1449045289,
+    "wof:lastmodified":1466317978,
     "wof:name":"Naxcare",
     "wof:parent_id":85845631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.849931,33.273652,-86.849931,33.273652],
+  "bbox": [
+    -86.849931,
+    33.273652,
+    -86.849931,
+    33.273652
+],
   "geometry": {"coordinates":[-86.849931,33.273652],"type":"Point"}
 }

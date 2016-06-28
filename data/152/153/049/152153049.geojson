@@ -2,13 +2,14 @@
   "id": 152153049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.610309,34.698242,-86.610309,34.698242",
     "geom:latitude":34.698242,
     "geom:longitude":-86.610309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3707 Alpine St SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840971,
+        85688675,
         85633793,
         85915405,
         102085487,
-        85688675
+        85840971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152153049,
-    "wof:lastmodified":1449047479,
+    "wof:lastmodified":1466314705,
     "wof:name":"Stan & Co Janitorial",
     "wof:parent_id":85840971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.610309,34.698242,-86.610309,34.698242],
+  "bbox": [
+    -86.610309,
+    34.698242,
+    -86.610309,
+    34.698242
+],
   "geometry": {"coordinates":[-86.610309,34.698242],"type":"Point"}
 }

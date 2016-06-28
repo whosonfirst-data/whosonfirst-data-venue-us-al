@@ -2,13 +2,14 @@
   "id": 152599377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.644528,30.291835,-87.644528,30.291835",
     "geom:latitude":30.291835,
     "geom:longitude":-87.644528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4550 Coral Cir",
     "sg:city":"Gulf Shores",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868551,
+        85688675,
         85633793,
         85914719,
         102085469,
-        85688675
+        85868551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152599377,
-    "wof:lastmodified":1449046455,
+    "wof:lastmodified":1466319020,
     "wof:name":"G & J Construction Inc",
     "wof:parent_id":85868551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.644528,30.291835,-87.644528,30.291835],
-  "geometry": {"coordinates":[-87.644528,30.291835],"type":"Point"}
+  "bbox": [
+    -87.644528,
+    30.291835,
+    -87.644528,
+    30.291835
+],
+  "geometry": {"coordinates":[-87.64452799999999,30.291835],"type":"Point"}
 }

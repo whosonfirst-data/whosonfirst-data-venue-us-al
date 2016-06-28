@@ -2,13 +2,14 @@
   "id": 152581107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.482453,34.806101,-86.482453,34.806101",
     "geom:latitude":34.806101,
     "geom:longitude":-86.482453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Spring River Ct",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":152581107,
-    "wof:lastmodified":1449045278,
+    "wof:lastmodified":1466318749,
     "wof:name":"Source Connection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.482453,34.806101,-86.482453,34.806101],
-  "geometry": {"coordinates":[-86.482453,34.806101],"type":"Point"}
+  "bbox": [
+    -86.482453,
+    34.806101,
+    -86.482453,
+    34.806101
+],
+  "geometry": {"coordinates":[-86.48245300000001,34.806101],"type":"Point"}
 }

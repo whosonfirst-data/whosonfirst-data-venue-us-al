@@ -2,13 +2,14 @@
   "id": 102620791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.242764,30.516154,-88.242764,30.516154",
     "geom:latitude":30.516154,
     "geom:longitude":-88.242764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8561 Roush Rd",
     "sg:city":"Irvington",
     "sg:classifiers":[
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":102620791,
-    "wof:lastmodified":1449069986,
+    "wof:lastmodified":1466317426,
     "wof:name":"Farm Fresh Produce",
     "wof:parent_id":85688675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.242764,30.516154,-88.242764,30.516154],
-  "geometry": {"coordinates":[-88.242764,30.516154],"type":"Point"}
+  "bbox": [
+    -88.242764,
+    30.516154,
+    -88.242764,
+    30.516154
+],
+  "geometry": {"coordinates":[-88.24276399999999,30.516154],"type":"Point"}
 }

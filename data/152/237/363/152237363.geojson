@@ -2,13 +2,14 @@
   "id": 152237363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.299742,32.355868,-86.299742,32.355868",
     "geom:latitude":32.355868,
     "geom:longitude":-86.299742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1821 Norman Bridge Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811493,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85811493
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152237363,
-    "wof:lastmodified":1449044408,
+    "wof:lastmodified":1466316394,
     "wof:name":"Residence Group Apartments",
     "wof:parent_id":85811493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.299742,32.355868,-86.299742,32.355868],
-  "geometry": {"coordinates":[-86.299742,32.355868],"type":"Point"}
+  "bbox": [
+    -86.299742,
+    32.355868,
+    -86.299742,
+    32.355868
+],
+  "geometry": {"coordinates":[-86.29974199999999,32.355868],"type":"Point"}
 }

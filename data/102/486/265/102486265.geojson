@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102486265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.667774,34.736549,-87.667774,34.736549",
     "geom:latitude":34.736549,
     "geom:longitude":-87.667774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 Woodward Ave",
     "sg:city":"Muscle Shoals",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816399,
+        85688675,
         85633793,
         85897481,
         102085625,
-        85688675
+        85816399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102486265,
-    "wof:lastmodified":1449069082,
+    "wof:lastmodified":1466315651,
     "wof:name":"Raceway Convenience Stores",
     "wof:parent_id":85816399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.667774,34.736549,-87.667774,34.736549],
-  "geometry": {"coordinates":[-87.667774,34.736549],"type":"Point"}
+  "bbox": [
+    -87.667774,
+    34.736549,
+    -87.667774,
+    34.736549
+],
+  "geometry": {"coordinates":[-87.66777399999999,34.736549],"type":"Point"}
 }

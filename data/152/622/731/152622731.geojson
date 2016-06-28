@@ -2,13 +2,14 @@
   "id": 152622731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.272197,32.36222,-86.272197,32.36222",
     "geom:latitude":32.36222,
     "geom:longitude":-86.272197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1551 Rex St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85823265,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85823265
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152622731,
-    "wof:lastmodified":1449048080,
+    "wof:lastmodified":1466318966,
     "wof:name":"Professional Tool Repair",
     "wof:parent_id":85823265,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.272197,32.36222,-86.272197,32.36222],
-  "geometry": {"coordinates":[-86.272197,32.36222],"type":"Point"}
+  "bbox": [
+    -86.272197,
+    32.36222,
+    -86.272197,
+    32.36222
+],
+  "geometry": {"coordinates":[-86.27219700000001,32.36222],"type":"Point"}
 }

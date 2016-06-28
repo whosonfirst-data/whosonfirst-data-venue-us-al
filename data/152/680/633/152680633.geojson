@@ -2,13 +2,14 @@
   "id": 152680633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.842209,31.322794,-85.842209,31.322794",
     "geom:latitude":31.322794,
     "geom:longitude":-85.842209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Colony Dr",
     "sg:city":"Enterprise",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827323,
+        85688675,
         85633793,
         85899527,
         102085699,
-        85688675
+        85827323
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152680633,
-    "wof:lastmodified":1449047538,
+    "wof:lastmodified":1466319262,
     "wof:name":"Cassandra Ware",
     "wof:parent_id":85827323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.842209,31.322794,-85.842209,31.322794],
+  "bbox": [
+    -85.842209,
+    31.322794,
+    -85.842209,
+    31.322794
+],
   "geometry": {"coordinates":[-85.842209,31.322794],"type":"Point"}
 }

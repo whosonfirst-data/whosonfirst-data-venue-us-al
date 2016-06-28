@@ -2,13 +2,14 @@
   "id": 152887337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.708745,33.538835,-86.708745,33.538835",
     "geom:latitude":33.538835,
     "geom:longitude":-86.708745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 19th St N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819529,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85819529
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152887337,
-    "wof:lastmodified":1449048005,
+    "wof:lastmodified":1466320262,
     "wof:name":"Scientific Refrigeration Svcs",
     "wof:parent_id":85819529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.708745,33.538835,-86.708745,33.538835],
-  "geometry": {"coordinates":[-86.708745,33.538835],"type":"Point"}
+  "bbox": [
+    -86.708745,
+    33.538835,
+    -86.708745,
+    33.538835
+],
+  "geometry": {"coordinates":[-86.70874499999999,33.538835],"type":"Point"}
 }

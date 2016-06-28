@@ -2,13 +2,14 @@
   "id": 152472475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.258829,32.337797,-86.258829,32.337797",
     "geom:latitude":32.337797,
     "geom:longitude":-86.258829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3009 Mc Gehee Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879045,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152472475,
-    "wof:lastmodified":1449044664,
+    "wof:lastmodified":1466318284,
     "wof:name":"Prudence Mortgage Funding LLC",
     "wof:parent_id":85879045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.258829,32.337797,-86.258829,32.337797],
-  "geometry": {"coordinates":[-86.258829,32.337797],"type":"Point"}
+  "bbox": [
+    -86.258829,
+    32.337797,
+    -86.258829,
+    32.337797
+],
+  "geometry": {"coordinates":[-86.25882900000001,32.337797],"type":"Point"}
 }

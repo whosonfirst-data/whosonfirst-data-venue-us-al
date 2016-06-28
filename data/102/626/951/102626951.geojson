@@ -2,13 +2,14 @@
   "id": 102626951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.577192,34.712657,-86.577192,34.712657",
     "geom:latitude":34.712657,
     "geom:longitude":-86.577192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Bob Wallace Ave SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818149,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85818149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102626951,
-    "wof:lastmodified":1449070210,
+    "wof:lastmodified":1466317489,
     "wof:name":"Young Life",
     "wof:parent_id":85818149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.577192,34.712657,-86.577192,34.712657],
+  "bbox": [
+    -86.577192,
+    34.712657,
+    -86.577192,
+    34.712657
+],
   "geometry": {"coordinates":[-86.577192,34.712657],"type":"Point"}
 }

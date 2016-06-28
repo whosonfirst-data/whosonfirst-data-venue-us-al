@@ -2,13 +2,14 @@
   "id": 152185871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.646988,33.406691,-86.646988,33.406691",
     "geom:latitude":33.406691,
     "geom:longitude":-86.646988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1533 Highland Lakes Trl",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85833411
+        85633793,
+        85833411,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152185871,
-    "wof:lastmodified":1449045064,
+    "wof:lastmodified":1466315777,
     "wof:name":"Interiors By Laura",
     "wof:parent_id":85833411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.646988,33.406691,-86.646988,33.406691],
-  "geometry": {"coordinates":[-86.646988,33.406691],"type":"Point"}
+  "bbox": [
+    -86.646988,
+    33.406691,
+    -86.646988,
+    33.406691
+],
+  "geometry": {"coordinates":[-86.64698799999999,33.406691],"type":"Point"}
 }

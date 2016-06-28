@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102510033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.044208,30.682573,-88.044208,30.682573",
     "geom:latitude":30.682573,
     "geom:longitude":-88.044208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"355 S Hamilton St",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895797,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85895797
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102510033,
-    "wof:lastmodified":1449069184,
+    "wof:lastmodified":1466316581,
     "wof:name":"Home of Grace Gifts",
     "wof:parent_id":85895797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.044208,30.682573,-88.044208,30.682573],
+  "bbox": [
+    -88.044208,
+    30.682573,
+    -88.044208,
+    30.682573
+],
   "geometry": {"coordinates":[-88.044208,30.682573],"type":"Point"}
 }

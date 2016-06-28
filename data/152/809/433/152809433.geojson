@@ -2,13 +2,14 @@
   "id": 152809433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.23166,31.037146,-88.23166,31.037146",
     "geom:latitude":31.037146,
     "geom:longitude":-88.23166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16545 US Hwy 45",
     "sg:city":"Citronelle",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152809433,
-    "wof:lastmodified":1449048081,
+    "wof:lastmodified":1466319880,
     "wof:name":"Mobile County Housing Auth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.23166,31.037146,-88.23166,31.037146],
-  "geometry": {"coordinates":[-88.23166,31.037146],"type":"Point"}
+  "bbox": [
+    -88.23166,
+    31.037146,
+    -88.23166,
+    31.037146
+],
+  "geometry": {"coordinates":[-88.23166000000001,31.037146],"type":"Point"}
 }

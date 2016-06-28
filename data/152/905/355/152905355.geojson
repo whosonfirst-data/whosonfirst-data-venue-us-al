@@ -2,13 +2,14 @@
   "id": 152905355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.124503,34.206458,-86.124503,34.206458",
     "geom:latitude":34.206458,
     "geom:longitude":-86.124503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2580 Bruce Rd",
     "sg:city":"Boaz",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85830981,
+        85688675,
         85633793,
         85899833,
         102085513,
-        85688675
+        85830981
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152905355,
-    "wof:lastmodified":1449046113,
+    "wof:lastmodified":1466320344,
     "wof:name":"Wilborn Construction",
     "wof:parent_id":85830981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.124503,34.206458,-86.124503,34.206458],
+  "bbox": [
+    -86.124503,
+    34.206458,
+    -86.124503,
+    34.206458
+],
   "geometry": {"coordinates":[-86.124503,34.206458],"type":"Point"}
 }

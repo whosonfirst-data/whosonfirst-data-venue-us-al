@@ -2,13 +2,14 @@
   "id": 152873313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.483201,34.660025,-86.483201,34.660025",
     "geom:latitude":34.660025,
     "geom:longitude":-86.483201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 Old Hwy 431",
     "sg:city":"Owens Cross Rds",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878245,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152873313,
-    "wof:lastmodified":1449045267,
+    "wof:lastmodified":1466320195,
     "wof:name":"State Farm Insurance",
     "wof:parent_id":85878245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.483201,34.660025,-86.483201,34.660025],
-  "geometry": {"coordinates":[-86.483201,34.660025],"type":"Point"}
+  "bbox": [
+    -86.483201,
+    34.660025,
+    -86.483201,
+    34.660025
+],
+  "geometry": {"coordinates":[-86.48320099999999,34.660025],"type":"Point"}
 }

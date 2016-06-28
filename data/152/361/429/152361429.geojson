@@ -2,13 +2,14 @@
   "id": 152361429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.567656,33.230885,-87.567656,33.230885",
     "geom:latitude":33.230885,
     "geom:longitude":-87.567656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1061 Martin Luther King Jr Blvd",
     "sg:city":"Northport",
     "sg:classifiers":[
@@ -38,11 +39,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805585,
+        85688675,
         85633793,
         85914425,
         102085553,
-        85688675
+        85805585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,14 +62,20 @@
         }
     ],
     "wof:id":152361429,
-    "wof:lastmodified":1449047666,
+    "wof:lastmodified":1466317622,
     "wof:name":"General Cybernetics Corp",
     "wof:parent_id":85805585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.567656,33.230885,-87.567656,33.230885],
+  "bbox": [
+    -87.567656,
+    33.230885,
+    -87.567656,
+    33.230885
+],
   "geometry": {"coordinates":[-87.567656,33.230885],"type":"Point"}
 }

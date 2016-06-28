@@ -2,13 +2,14 @@
   "id": 152121319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.174618,32.552126,-86.174618,32.552126",
     "geom:latitude":32.552126,
     "geom:longitude":-86.174618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"74531 Tallassee Hwy",
     "sg:city":"Wetumpka",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851843,
+        85688675,
         85633793,
         85913951,
         102085631,
-        85688675
+        85851843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152121319,
-    "wof:lastmodified":1449047907,
+    "wof:lastmodified":1466314558,
     "wof:name":"Ja Smith LLC",
     "wof:parent_id":85851843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.174618,32.552126,-86.174618,32.552126],
+  "bbox": [
+    -86.174618,
+    32.552126,
+    -86.174618,
+    32.552126
+],
   "geometry": {"coordinates":[-86.174618,32.552126],"type":"Point"}
 }

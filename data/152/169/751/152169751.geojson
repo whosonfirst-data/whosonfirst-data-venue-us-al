@@ -2,13 +2,14 @@
   "id": 152169751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.759899,33.807221,-85.759899,33.807221",
     "geom:latitude":33.807221,
     "geom:longitude":-85.759899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 James St SE",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817157,
+        85688675,
         85633793,
         85914293,
         102085603,
-        85688675
+        85817157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152169751,
-    "wof:lastmodified":1449047148,
+    "wof:lastmodified":1466315591,
     "wof:name":"Grant A Paris",
     "wof:parent_id":85817157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.759899,33.807221,-85.759899,33.807221],
+  "bbox": [
+    -85.759899,
+    33.807221,
+    -85.759899,
+    33.807221
+],
   "geometry": {"coordinates":[-85.759899,33.807221],"type":"Point"}
 }

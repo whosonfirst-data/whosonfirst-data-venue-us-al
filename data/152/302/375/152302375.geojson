@@ -2,13 +2,14 @@
   "id": 152302375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.824188,33.470597,-86.824188,33.470597",
     "geom:latitude":33.470597,
     "geom:longitude":-86.824188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 Green Springs Hwy",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817409,
+        85688675,
         85633793,
         85914847,
         102085481,
-        85688675
+        85817409
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152302375,
-    "wof:lastmodified":1449045864,
+    "wof:lastmodified":1466317139,
     "wof:name":"Babies r US",
     "wof:parent_id":85817409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.824188,33.470597,-86.824188,33.470597],
-  "geometry": {"coordinates":[-86.824188,33.470597],"type":"Point"}
+  "bbox": [
+    -86.824188,
+    33.470597,
+    -86.824188,
+    33.470597
+],
+  "geometry": {"coordinates":[-86.82418800000001,33.470597],"type":"Point"}
 }

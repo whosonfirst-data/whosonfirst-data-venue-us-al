@@ -2,13 +2,14 @@
   "id": 152223209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.675312,34.801588,-87.675312,34.801588",
     "geom:latitude":34.801588,
     "geom:longitude":-87.675312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 E Mobile St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848857,
+        85688675,
         85633793,
         85914011,
         102085527,
-        85688675
+        85848857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152223209,
-    "wof:lastmodified":1449044623,
+    "wof:lastmodified":1466316216,
     "wof:name":"Colbert Luderdale Attention HM",
     "wof:parent_id":85848857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.675312,34.801588,-87.675312,34.801588],
-  "geometry": {"coordinates":[-87.675312,34.801588],"type":"Point"}
+  "bbox": [
+    -87.675312,
+    34.801588,
+    -87.675312,
+    34.801588
+],
+  "geometry": {"coordinates":[-87.67531200000001,34.801588],"type":"Point"}
 }

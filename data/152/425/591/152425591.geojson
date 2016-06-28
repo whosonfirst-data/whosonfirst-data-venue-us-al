@@ -2,13 +2,14 @@
   "id": 152425591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.779329,33.311544,-86.779329,33.311544",
     "geom:latitude":33.311544,
     "geom:longitude":-86.779329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 Emerald Lake Dr",
     "sg:city":"Pelham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85826867,
+        85688675,
         85633793,
         85914501,
         102085499,
-        85688675
+        85826867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152425591,
-    "wof:lastmodified":1449045942,
+    "wof:lastmodified":1466317974,
     "wof:name":"J A Word Inc",
     "wof:parent_id":85826867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.779329,33.311544,-86.779329,33.311544],
+  "bbox": [
+    -86.779329,
+    33.311544,
+    -86.779329,
+    33.311544
+],
   "geometry": {"coordinates":[-86.779329,33.311544],"type":"Point"}
 }

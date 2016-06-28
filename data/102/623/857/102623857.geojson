@@ -2,13 +2,14 @@
   "id": 102623857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.622709,34.712923,-86.622709,34.712923",
     "geom:latitude":34.712923,
     "geom:longitude":-86.622709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3912 Bob Wallace Ave SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856995,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85856995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102623857,
-    "wof:lastmodified":1449069489,
+    "wof:lastmodified":1466317491,
     "wof:name":"Moorehead Tax Service",
     "wof:parent_id":85856995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.622709,34.712923,-86.622709,34.712923],
+  "bbox": [
+    -86.622709,
+    34.712923,
+    -86.622709,
+    34.712923
+],
   "geometry": {"coordinates":[-86.622709,34.712923],"type":"Point"}
 }

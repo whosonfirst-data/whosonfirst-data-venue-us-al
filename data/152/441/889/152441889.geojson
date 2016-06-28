@@ -2,13 +2,14 @@
   "id": 152441889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.976233,34.674474,-86.976233,34.674474",
     "geom:latitude":34.674474,
     "geom:longitude":-86.976233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19991 Harris Station Rd",
     "sg:city":"Tanner",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085531,
-        85633793,
         85688675,
-        85802585
+        85633793,
+        85802585,
+        102085531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152441889,
-    "wof:lastmodified":1449044654,
+    "wof:lastmodified":1466318034,
     "wof:name":"Swan Creek Taxidermy",
     "wof:parent_id":85802585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.976233,34.674474,-86.976233,34.674474],
-  "geometry": {"coordinates":[-86.976233,34.674474],"type":"Point"}
+  "bbox": [
+    -86.976233,
+    34.674474,
+    -86.976233,
+    34.674474
+],
+  "geometry": {"coordinates":[-86.97623299999999,34.674474],"type":"Point"}
 }

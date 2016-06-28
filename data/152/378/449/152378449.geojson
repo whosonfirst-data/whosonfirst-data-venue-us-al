@@ -2,13 +2,14 @@
   "id": 152378449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.196536,30.751881,-88.196536,30.751881",
     "geom:latitude":30.751881,
     "geom:longitude":-88.196536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6641 Moffett Rd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":152378449,
-    "wof:lastmodified":1449047423,
+    "wof:lastmodified":1466317714,
     "wof:name":"Snapps's Barber Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.196536,30.751881,-88.196536,30.751881],
-  "geometry": {"coordinates":[-88.196536,30.751881],"type":"Point"}
+  "bbox": [
+    -88.196536,
+    30.751881,
+    -88.196536,
+    30.751881
+],
+  "geometry": {"coordinates":[-88.19653599999999,30.751881],"type":"Point"}
 }

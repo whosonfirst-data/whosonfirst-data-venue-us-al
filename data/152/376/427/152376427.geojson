@@ -2,13 +2,14 @@
   "id": 152376427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.198762,33.943905,-86.198762,33.943905",
     "geom:latitude":33.943905,
     "geom:longitude":-86.198762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Hillview St",
     "sg:city":"Steele",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152376427,
-    "wof:lastmodified":1449045884,
+    "wof:lastmodified":1466317712,
     "wof:name":"Telemetry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.198762,33.943905,-86.198762,33.943905],
+  "bbox": [
+    -86.198762,
+    33.943905,
+    -86.198762,
+    33.943905
+],
   "geometry": {"coordinates":[-86.198762,33.943905],"type":"Point"}
 }

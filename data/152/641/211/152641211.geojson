@@ -2,13 +2,14 @@
   "id": 152641211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.207971,32.394551,-86.207971,32.394551",
     "geom:latitude":32.394551,
     "geom:longitude":-86.207971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"566 Oliver Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834995,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85834995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152641211,
-    "wof:lastmodified":1449047807,
+    "wof:lastmodified":1466319051,
     "wof:name":"New Hope Metro Cmnty Church",
     "wof:parent_id":85834995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.207971,32.394551,-86.207971,32.394551],
+  "bbox": [
+    -86.207971,
+    32.394551,
+    -86.207971,
+    32.394551
+],
   "geometry": {"coordinates":[-86.207971,32.394551],"type":"Point"}
 }

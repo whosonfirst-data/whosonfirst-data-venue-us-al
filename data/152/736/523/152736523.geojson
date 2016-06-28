@@ -2,13 +2,14 @@
   "id": 152736523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.725861,34.741281,-86.725861,34.741281",
     "geom:latitude":34.741281,
     "geom:longitude":-86.725861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"147 Stoneway Trl",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851107,
+        85688675,
         85633793,
         85913593,
         102085487,
-        85688675
+        85851107
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152736523,
-    "wof:lastmodified":1449048859,
+    "wof:lastmodified":1466319588,
     "wof:name":"Daves Locksmith Madison",
     "wof:parent_id":85851107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.725861,34.741281,-86.725861,34.741281],
-  "geometry": {"coordinates":[-86.725861,34.741281],"type":"Point"}
+  "bbox": [
+    -86.725861,
+    34.741281,
+    -86.725861,
+    34.741281
+],
+  "geometry": {"coordinates":[-86.72586099999999,34.741281],"type":"Point"}
 }

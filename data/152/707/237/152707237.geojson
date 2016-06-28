@@ -2,13 +2,14 @@
   "id": 152707237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.27644,33.550809,-86.27644,33.550809",
     "geom:latitude":33.550809,
     "geom:longitude":-86.27644,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Green Acres St",
     "sg:city":"Cropwell",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85826525,
+        85688675,
         85633793,
         85913409,
         102085647,
-        85688675
+        85826525
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152707237,
-    "wof:lastmodified":1449048185,
+    "wof:lastmodified":1466319512,
     "wof:name":"Wesco 2 Inc",
     "wof:parent_id":85826525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.27644,33.550809,-86.27644,33.550809],
-  "geometry": {"coordinates":[-86.27644,33.550809],"type":"Point"}
+  "bbox": [
+    -86.27644,
+    33.550809,
+    -86.27644,
+    33.550809
+],
+  "geometry": {"coordinates":[-86.27643999999999,33.550809],"type":"Point"}
 }

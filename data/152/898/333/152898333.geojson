@@ -2,13 +2,14 @@
   "id": 152898333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.759558,33.811136,-85.759558,33.811136",
     "geom:latitude":33.811136,
     "geom:longitude":-85.759558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 Vann St SE",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817157,
+        85688675,
         85633793,
         85914293,
         102085603,
-        85688675
+        85817157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152898333,
-    "wof:lastmodified":1449044189,
+    "wof:lastmodified":1466320330,
     "wof:name":"First Baptist Church Eastwood",
     "wof:parent_id":85817157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.759558,33.811136,-85.759558,33.811136],
+  "bbox": [
+    -85.759558,
+    33.811136,
+    -85.759558,
+    33.811136
+],
   "geometry": {"coordinates":[-85.759558,33.811136],"type":"Point"}
 }

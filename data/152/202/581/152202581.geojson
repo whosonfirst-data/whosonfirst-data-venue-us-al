@@ -2,13 +2,14 @@
   "id": 152202581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.207576,32.394634,-86.207576,32.394634",
     "geom:latitude":32.394634,
     "geom:longitude":-86.207576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"558 Oliver Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834995,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85834995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152202581,
-    "wof:lastmodified":1449048318,
+    "wof:lastmodified":1466315943,
     "wof:name":"Bobcat Cleaning Co",
     "wof:parent_id":85834995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.207576,32.394634,-86.207576,32.394634],
+  "bbox": [
+    -86.207576,
+    32.394634,
+    -86.207576,
+    32.394634
+],
   "geometry": {"coordinates":[-86.207576,32.394634],"type":"Point"}
 }

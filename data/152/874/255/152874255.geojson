@@ -2,13 +2,14 @@
   "id": 152874255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.674849,33.413632,-86.674849,33.413632",
     "geom:latitude":33.413632,
     "geom:longitude":-86.674849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 Corporate Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85833411
+        85633793,
+        85833411,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152874255,
-    "wof:lastmodified":1449048620,
+    "wof:lastmodified":1466320215,
     "wof:name":"W H Shepherd Companies Inc",
     "wof:parent_id":85833411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.674849,33.413632,-86.674849,33.413632],
-  "geometry": {"coordinates":[-86.674849,33.413632],"type":"Point"}
+  "bbox": [
+    -86.674849,
+    33.413632,
+    -86.674849,
+    33.413632
+],
+  "geometry": {"coordinates":[-86.67484899999999,33.413632],"type":"Point"}
 }

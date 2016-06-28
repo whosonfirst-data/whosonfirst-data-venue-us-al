@@ -2,13 +2,14 @@
   "id": 152434969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.924895,33.287848,-86.924895,33.287848",
     "geom:latitude":33.287848,
     "geom:longitude":-86.924895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Chestnut Forest Cir",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845631,
+        85688675,
         85633793,
         85914471,
         102085499,
-        85688675
+        85845631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152434969,
-    "wof:lastmodified":1449045303,
+    "wof:lastmodified":1466317999,
     "wof:name":"Transcom Payment Svc",
     "wof:parent_id":85845631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.924895,33.287848,-86.924895,33.287848],
-  "geometry": {"coordinates":[-86.924895,33.287848],"type":"Point"}
+  "bbox": [
+    -86.924895,
+    33.287848,
+    -86.924895,
+    33.287848
+],
+  "geometry": {"coordinates":[-86.92489500000001,33.287848],"type":"Point"}
 }

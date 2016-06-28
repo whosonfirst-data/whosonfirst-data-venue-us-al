@@ -2,13 +2,14 @@
   "id": 152585327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.584185,34.624187,-86.584185,34.624187",
     "geom:latitude":34.624187,
     "geom:longitude":-86.584185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11024 Wellingham Dr SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85844231,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85844231
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152585327,
-    "wof:lastmodified":1449047369,
+    "wof:lastmodified":1466318773,
     "wof:name":"Gis Technology",
     "wof:parent_id":85844231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.584185,34.624187,-86.584185,34.624187],
-  "geometry": {"coordinates":[-86.584185,34.624187],"type":"Point"}
+  "bbox": [
+    -86.584185,
+    34.624187,
+    -86.584185,
+    34.624187
+],
+  "geometry": {"coordinates":[-86.58418500000001,34.624187],"type":"Point"}
 }

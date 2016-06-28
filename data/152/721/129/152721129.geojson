@@ -2,13 +2,14 @@
   "id": 152721129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.391067,31.250612,-85.391067,31.250612",
     "geom:latitude":31.250612,
     "geom:longitude":-85.391067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1514 Headland Ave",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859419,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85859419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152721129,
-    "wof:lastmodified":1449048891,
+    "wof:lastmodified":1466319525,
     "wof:name":"Hair Plus",
     "wof:parent_id":85859419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.391067,31.250612,-85.391067,31.250612],
-  "geometry": {"coordinates":[-85.391067,31.250612],"type":"Point"}
+  "bbox": [
+    -85.391067,
+    31.250612,
+    -85.391067,
+    31.250612
+],
+  "geometry": {"coordinates":[-85.39106700000001,31.250612],"type":"Point"}
 }

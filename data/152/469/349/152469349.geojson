@@ -2,13 +2,14 @@
   "id": 152469349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.005633,34.014098,-86.005633,34.014098",
     "geom:latitude":34.014098,
     "geom:longitude":-86.005633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"545 Broad St",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822279,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85822279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152469349,
-    "wof:lastmodified":1449049013,
+    "wof:lastmodified":1466318167,
     "wof:name":"Wig World",
     "wof:parent_id":85822279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.005633,34.014098,-86.005633,34.014098],
+  "bbox": [
+    -86.005633,
+    34.014098,
+    -86.005633,
+    34.014098
+],
   "geometry": {"coordinates":[-86.005633,34.014098],"type":"Point"}
 }

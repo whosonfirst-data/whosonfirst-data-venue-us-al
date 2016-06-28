@@ -2,13 +2,14 @@
   "id": 152302647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.441964,33.984264,-86.441964,33.984264",
     "geom:latitude":33.984264,
     "geom:longitude":-86.441964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31720 State Hwy 75",
     "sg:city":"Oneonta",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085667,
-        85633793,
         85688675,
-        85819523
+        85633793,
+        85819523,
+        102085667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152302647,
-    "wof:lastmodified":1449045868,
+    "wof:lastmodified":1466317237,
     "wof:name":"Blount County Tractor Inc",
     "wof:parent_id":85819523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.441964,33.984264,-86.441964,33.984264],
+  "bbox": [
+    -86.441964,
+    33.984264,
+    -86.441964,
+    33.984264
+],
   "geometry": {"coordinates":[-86.441964,33.984264],"type":"Point"}
 }

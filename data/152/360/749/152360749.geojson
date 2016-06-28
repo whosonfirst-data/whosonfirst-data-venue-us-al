@@ -2,13 +2,14 @@
   "id": 152360749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.840047,33.605177,-85.840047,33.605177",
     "geom:latitude":33.605177,
     "geom:longitude":-85.840047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1204 Olympic St",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827499,
+        85688675,
         85633793,
         85914159,
         102085603,
-        85688675
+        85827499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152360749,
-    "wof:lastmodified":1449047857,
+    "wof:lastmodified":1466317771,
     "wof:name":"Thompson Electrical Contractor",
     "wof:parent_id":85827499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.840047,33.605177,-85.840047,33.605177],
+  "bbox": [
+    -85.840047,
+    33.605177,
+    -85.840047,
+    33.605177
+],
   "geometry": {"coordinates":[-85.840047,33.605177],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152417257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.518491,32.516093,-85.518491,32.516093",
     "geom:latitude":32.516093,
     "geom:longitude":-85.518491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1012 Co Rd 20",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85846969,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85846969
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152417257,
-    "wof:lastmodified":1449046198,
+    "wof:lastmodified":1466317906,
     "wof:name":"Roland Construction Co LLC",
     "wof:parent_id":85846969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.518491,32.516093,-85.518491,32.516093],
+  "bbox": [
+    -85.518491,
+    32.516093,
+    -85.518491,
+    32.516093
+],
   "geometry": {"coordinates":[-85.518491,32.516093],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152341305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.850412,33.590031,-85.850412,33.590031",
     "geom:latitude":33.590031,
     "geom:longitude":-85.850412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2506 Anniston Airport Blvd",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152341305,
-    "wof:lastmodified":1449048714,
+    "wof:lastmodified":1466317522,
     "wof:name":"Superior Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.850412,33.590031,-85.850412,33.590031],
-  "geometry": {"coordinates":[-85.850412,33.590031],"type":"Point"}
+  "bbox": [
+    -85.850412,
+    33.590031,
+    -85.850412,
+    33.590031
+],
+  "geometry": {"coordinates":[-85.85041200000001,33.590031],"type":"Point"}
 }

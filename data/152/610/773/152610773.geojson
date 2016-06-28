@@ -2,13 +2,14 @@
   "id": 152610773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.292624,32.626531,-86.292624,32.626531",
     "geom:latitude":32.626531,
     "geom:longitude":-86.292624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8530 Holtville Rd",
     "sg:city":"Wetumpka",
     "sg:classifiers":[
@@ -34,10 +35,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085631,
-        85633793,
         85688675,
-        85843379
+        85633793,
+        85843379,
+        102085631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":152610773,
-    "wof:lastmodified":1449048831,
+    "wof:lastmodified":1466318904,
     "wof:name":"Starter Thomas & Alternator",
     "wof:parent_id":85843379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.292624,32.626531,-86.292624,32.626531],
+  "bbox": [
+    -86.292624,
+    32.626531,
+    -86.292624,
+    32.626531
+],
   "geometry": {"coordinates":[-86.292624,32.626531],"type":"Point"}
 }

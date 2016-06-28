@@ -2,13 +2,14 @@
   "id": 152652115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.701763,34.746987,-87.701763,34.746987",
     "geom:latitude":34.746987,
     "geom:longitude":-87.701763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 S Jackson Hwy",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85832153,
+        85688675,
         85633793,
         85897447,
         102085625,
-        85688675
+        85832153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152652115,
-    "wof:lastmodified":1449047272,
+    "wof:lastmodified":1466319094,
     "wof:name":"Christopher Gay Family Practce",
     "wof:parent_id":85832153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.701763,34.746987,-87.701763,34.746987],
+  "bbox": [
+    -87.701763,
+    34.746987,
+    -87.701763,
+    34.746987
+],
   "geometry": {"coordinates":[-87.701763,34.746987],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152491793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.561721,33.211715,-87.561721,33.211715",
     "geom:latitude":33.211715,
     "geom:longitude":-87.561721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1915 University Blvd",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152491793,
-    "wof:lastmodified":1449044206,
+    "wof:lastmodified":1466318289,
     "wof:name":"Hooligan's American",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.561721,33.211715,-87.561721,33.211715],
-  "geometry": {"coordinates":[-87.561721,33.211715],"type":"Point"}
+  "bbox": [
+    -87.561721,
+    33.211715,
+    -87.561721,
+    33.211715
+],
+  "geometry": {"coordinates":[-87.56172100000001,33.211715],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152433867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.347946,31.204229,-85.347946,31.204229",
     "geom:latitude":31.204229,
     "geom:longitude":-85.347946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3160 E Main St",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847911,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85847911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152433867,
-    "wof:lastmodified":1449044841,
+    "wof:lastmodified":1466318011,
     "wof:name":"A T & T",
     "wof:parent_id":85847911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.347946,31.204229,-85.347946,31.204229],
-  "geometry": {"coordinates":[-85.347946,31.204229],"type":"Point"}
+  "bbox": [
+    -85.347946,
+    31.204229,
+    -85.347946,
+    31.204229
+],
+  "geometry": {"coordinates":[-85.34794599999999,31.204229],"type":"Point"}
 }

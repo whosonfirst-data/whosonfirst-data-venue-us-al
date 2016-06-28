@@ -2,13 +2,14 @@
   "id": 152466947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.263973,32.39223,-86.263973,32.39223",
     "geom:latitude":32.39223,
     "geom:longitude":-86.263973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2920 Biltmore Ave",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152466947,
-    "wof:lastmodified":1449045685,
+    "wof:lastmodified":1466318197,
     "wof:name":"Collier's Lawn Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.263973,32.39223,-86.263973,32.39223],
-  "geometry": {"coordinates":[-86.263973,32.39223],"type":"Point"}
+  "bbox": [
+    -86.263973,
+    32.39223,
+    -86.263973,
+    32.39223
+],
+  "geometry": {"coordinates":[-86.26397299999999,32.39223],"type":"Point"}
 }

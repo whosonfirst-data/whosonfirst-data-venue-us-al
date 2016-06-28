@@ -2,13 +2,14 @@
   "id": 152429385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.684769,34.819931,-87.684769,34.819931",
     "geom:latitude":34.819931,
     "geom:longitude":-87.684769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1502 Houston St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848857,
+        85688675,
         85633793,
         85914011,
         102085527,
-        85688675
+        85848857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152429385,
-    "wof:lastmodified":1449048675,
+    "wof:lastmodified":1466318087,
     "wof:name":"Dean's Florist",
     "wof:parent_id":85848857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.684769,34.819931,-87.684769,34.819931],
+  "bbox": [
+    -87.684769,
+    34.819931,
+    -87.684769,
+    34.819931
+],
   "geometry": {"coordinates":[-87.684769,34.819931],"type":"Point"}
 }

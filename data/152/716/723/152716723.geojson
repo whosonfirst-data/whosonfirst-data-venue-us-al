@@ -2,13 +2,14 @@
   "id": 152716723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.12081,30.68848,-88.12081,30.68848",
     "geom:latitude":30.68848,
     "geom:longitude":-88.12081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Midtown Park E",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878965,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152716723,
-    "wof:lastmodified":1449044958,
+    "wof:lastmodified":1466319425,
     "wof:name":"Forbes Electronic Distr Inc",
     "wof:parent_id":85878965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.12081,30.68848,-88.12081,30.68848],
-  "geometry": {"coordinates":[-88.12081,30.68848],"type":"Point"}
+  "bbox": [
+    -88.12081,
+    30.68848,
+    -88.12081,
+    30.68848
+],
+  "geometry": {"coordinates":[-88.12081000000001,30.68848],"type":"Point"}
 }

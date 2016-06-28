@@ -2,13 +2,14 @@
   "id": 152332571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.573831,33.216622,-87.573831,33.216622",
     "geom:latitude":33.216622,
     "geom:longitude":-87.573831,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 Bridge Ave",
     "sg:city":"Northport",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816127,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85816127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152332571,
-    "wof:lastmodified":1449046873,
+    "wof:lastmodified":1466317319,
     "wof:name":"Coker's Body Shop",
     "wof:parent_id":85816127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.573831,33.216622,-87.573831,33.216622],
+  "bbox": [
+    -87.573831,
+    33.216622,
+    -87.573831,
+    33.216622
+],
   "geometry": {"coordinates":[-87.573831,33.216622],"type":"Point"}
 }

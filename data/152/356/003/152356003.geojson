@@ -2,13 +2,14 @@
   "id": 152356003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.849051,30.443071,-87.849051,30.443071",
     "geom:latitude":30.443071,
     "geom:longitude":-87.849051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10220 Co Rd 24",
     "sg:city":"Fairhope",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854025,
+        85688675,
         85633793,
         85914707,
         102085469,
-        85688675
+        85854025
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152356003,
-    "wof:lastmodified":1449048101,
+    "wof:lastmodified":1466317755,
     "wof:name":"Avs Inc",
     "wof:parent_id":85854025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.849051,30.443071,-87.849051,30.443071],
+  "bbox": [
+    -87.849051,
+    30.443071,
+    -87.849051,
+    30.443071
+],
   "geometry": {"coordinates":[-87.849051,30.443071],"type":"Point"}
 }

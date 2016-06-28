@@ -2,13 +2,14 @@
   "id": 152752699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.017086,32.56841,-86.017086,32.56841",
     "geom:latitude":32.56841,
     "geom:longitude":-86.017086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"697 Ellis Lazenby Rd",
     "sg:city":"Eclectic",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827623,
+        85688675,
         85633793,
         85913291,
         102085631,
-        85688675
+        85827623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152752699,
-    "wof:lastmodified":1449045080,
+    "wof:lastmodified":1466319600,
     "wof:name":"Fuller Farm Equipment Repair",
     "wof:parent_id":85827623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.017086,32.56841,-86.017086,32.56841],
-  "geometry": {"coordinates":[-86.017086,32.56841],"type":"Point"}
+  "bbox": [
+    -86.017086,
+    32.56841,
+    -86.017086,
+    32.56841
+],
+  "geometry": {"coordinates":[-86.01708600000001,32.56841],"type":"Point"}
 }

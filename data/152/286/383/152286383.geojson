@@ -2,13 +2,14 @@
   "id": 152286383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.015707,32.410913,-87.015707,32.410913",
     "geom:latitude":32.410913,
     "geom:longitude":-87.015707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1516 Selma Ave",
     "sg:city":"Selma",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152286383,
-    "wof:lastmodified":1449045505,
+    "wof:lastmodified":1466316875,
     "wof:name":"LA Porte TV Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.015707,32.410913,-87.015707,32.410913],
-  "geometry": {"coordinates":[-87.015707,32.410913],"type":"Point"}
+  "bbox": [
+    -87.015707,
+    32.410913,
+    -87.015707,
+    32.410913
+],
+  "geometry": {"coordinates":[-87.01570700000001,32.410913],"type":"Point"}
 }

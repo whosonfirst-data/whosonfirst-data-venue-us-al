@@ -2,13 +2,14 @@
   "id": 152661041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.640619,34.840216,-87.640619,34.840216",
     "geom:latitude":34.840216,
     "geom:longitude":-87.640619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2801 W Mall Dr",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858143,
+        85688675,
         85633793,
         85914011,
         102085527,
-        85688675
+        85858143
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152661041,
-    "wof:lastmodified":1449048424,
+    "wof:lastmodified":1466319145,
     "wof:name":"Sound Shoppe",
     "wof:parent_id":85858143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.640619,34.840216,-87.640619,34.840216],
+  "bbox": [
+    -87.640619,
+    34.840216,
+    -87.640619,
+    34.840216
+],
   "geometry": {"coordinates":[-87.640619,34.840216],"type":"Point"}
 }

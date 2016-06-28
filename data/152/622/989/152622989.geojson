@@ -2,13 +2,14 @@
   "id": 152622989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.226731,32.39499,-86.226731,32.39499",
     "geom:latitude":32.39499,
     "geom:longitude":-86.226731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"776 Williamson Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813403,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85813403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152622989,
-    "wof:lastmodified":1449048079,
+    "wof:lastmodified":1466318979,
     "wof:name":"Moonwalk Of Montgomery",
     "wof:parent_id":85813403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.226731,32.39499,-86.226731,32.39499],
+  "bbox": [
+    -86.226731,
+    32.39499,
+    -86.226731,
+    32.39499
+],
   "geometry": {"coordinates":[-86.226731,32.39499],"type":"Point"}
 }

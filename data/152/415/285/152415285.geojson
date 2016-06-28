@@ -2,13 +2,14 @@
   "id": 152415285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.246939,30.761749,-88.246939,30.761749",
     "geom:latitude":30.761749,
     "geom:longitude":-88.246939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3350 Firetower Rd",
     "sg:city":"Semmes",
     "sg:classifiers":[
@@ -30,10 +31,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085585,
-        85633793,
         85688675,
-        85878987
+        85633793,
+        85878987,
+        102085585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152415285,
-    "wof:lastmodified":1449047629,
+    "wof:lastmodified":1466317906,
     "wof:name":"Booth Heating & Air Condition",
     "wof:parent_id":85878987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.246939,30.761749,-88.246939,30.761749],
+  "bbox": [
+    -88.246939,
+    30.761749,
+    -88.246939,
+    30.761749
+],
   "geometry": {"coordinates":[-88.246939,30.761749],"type":"Point"}
 }

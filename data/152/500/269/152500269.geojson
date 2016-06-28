@@ -2,13 +2,14 @@
   "id": 152500269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.169321,31.989513,-86.169321,31.989513",
     "geom:latitude":31.989513,
     "geom:longitude":-86.169321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"134 Bartley Ln",
     "sg:city":"Grady",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152500269,
-    "wof:lastmodified":1449045449,
+    "wof:lastmodified":1466318269,
     "wof:name":"BII",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.169321,31.989513,-86.169321,31.989513],
+  "bbox": [
+    -86.169321,
+    31.989513,
+    -86.169321,
+    31.989513
+],
   "geometry": {"coordinates":[-86.169321,31.989513],"type":"Point"}
 }

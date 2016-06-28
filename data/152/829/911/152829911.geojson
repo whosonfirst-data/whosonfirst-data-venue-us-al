@@ -2,13 +2,14 @@
   "id": 152829911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.02973,30.872595,-88.02973,30.872595",
     "geom:latitude":30.872595,
     "geom:longitude":-88.02973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6254 Dolphin Dr",
     "sg:city":"Satsuma",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085469,
-        85633793,
         85688675,
-        85878983
+        85633793,
+        85878983,
+        102085469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152829911,
-    "wof:lastmodified":1449048619,
+    "wof:lastmodified":1466320013,
     "wof:name":"Industrial Recycle & Recovery",
     "wof:parent_id":85878983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.02973,30.872595,-88.02973,30.872595],
+  "bbox": [
+    -88.02973,
+    30.872595,
+    -88.02973,
+    30.872595
+],
   "geometry": {"coordinates":[-88.02973,30.872595],"type":"Point"}
 }

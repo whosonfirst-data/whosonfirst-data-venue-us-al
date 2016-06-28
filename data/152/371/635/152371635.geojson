@@ -2,13 +2,14 @@
   "id": 152371635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.414598,31.240792,-85.414598,31.240792",
     "geom:latitude":31.240792,
     "geom:longitude":-85.414598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2321 Montgomery Hwy",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85849273,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85849273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152371635,
-    "wof:lastmodified":1449047887,
+    "wof:lastmodified":1466317701,
     "wof:name":"Titlemax Title Lending Co Inc",
     "wof:parent_id":85849273,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.414598,31.240792,-85.414598,31.240792],
+  "bbox": [
+    -85.414598,
+    31.240792,
+    -85.414598,
+    31.240792
+],
   "geometry": {"coordinates":[-85.414598,31.240792],"type":"Point"}
 }

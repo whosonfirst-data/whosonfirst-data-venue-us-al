@@ -2,13 +2,14 @@
   "id": 152225103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.893553,33.447029,-86.893553,33.447029",
     "geom:latitude":33.447029,
     "geom:longitude":-86.893553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3724 Howard Ave SW",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851831,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85851831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152225103,
-    "wof:lastmodified":1449045744,
+    "wof:lastmodified":1466316307,
     "wof:name":"Avery Lawn & Landscaping",
     "wof:parent_id":85851831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.893553,33.447029,-86.893553,33.447029],
+  "bbox": [
+    -86.893553,
+    33.447029,
+    -86.893553,
+    33.447029
+],
   "geometry": {"coordinates":[-86.893553,33.447029],"type":"Point"}
 }

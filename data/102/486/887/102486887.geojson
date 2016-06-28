@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102486887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.985155,34.603009,-86.985155,34.603009",
     "geom:latitude":34.603009,
     "geom:longitude":-86.985155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 2nd Ave SE",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     "sg:website":"www.encorerehab.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085531,
-        85633793,
         85688675,
-        85802585
+        85633793,
+        85802585,
+        102085531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102486887,
-    "wof:lastmodified":1449069082,
+    "wof:lastmodified":1466315719,
     "wof:name":"Encore Rehab",
     "wof:parent_id":85802585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.985155,34.603009,-86.985155,34.603009],
-  "geometry": {"coordinates":[-86.985155,34.603009],"type":"Point"}
+  "bbox": [
+    -86.985155,
+    34.603009,
+    -86.985155,
+    34.603009
+],
+  "geometry": {"coordinates":[-86.98515500000001,34.603009],"type":"Point"}
 }

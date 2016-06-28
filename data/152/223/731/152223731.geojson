@@ -2,13 +2,14 @@
   "id": 152223731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.702472,34.737821,-87.702472,34.737821",
     "geom:latitude":34.737821,
     "geom:longitude":-87.702472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 N Commons St E",
     "sg:city":"Tuscumbia",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85832153,
+        85688675,
         85633793,
         85897447,
         102085625,
-        85688675
+        85832153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152223731,
-    "wof:lastmodified":1449044623,
+    "wof:lastmodified":1466316231,
     "wof:name":"Sharlottes Hse Bed & Breakfast",
     "wof:parent_id":85832153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.702472,34.737821,-87.702472,34.737821],
+  "bbox": [
+    -87.702472,
+    34.737821,
+    -87.702472,
+    34.737821
+],
   "geometry": {"coordinates":[-87.702472,34.737821],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102632405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.496153,34.321953,-86.496153,34.321953",
     "geom:latitude":34.321953,
     "geom:longitude":-86.496153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"423 N Main St",
     "sg:city":"Arab",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851541,
+        85688675,
         85633793,
         85913243,
         102085513,
-        85688675
+        85851541
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102632405,
-    "wof:lastmodified":1449069307,
+    "wof:lastmodified":1466317517,
     "wof:name":"Magnolia Apartments",
     "wof:parent_id":85851541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.496153,34.321953,-86.496153,34.321953],
-  "geometry": {"coordinates":[-86.496153,34.321953],"type":"Point"}
+  "bbox": [
+    -86.496153,
+    34.321953,
+    -86.496153,
+    34.321953
+],
+  "geometry": {"coordinates":[-86.49615300000001,34.321953],"type":"Point"}
 }

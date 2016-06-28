@@ -2,13 +2,14 @@
   "id": 152196739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.988993,34.805268,-86.988993,34.805268",
     "geom:latitude":34.805268,
     "geom:longitude":-86.988993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1532 W Hobbs St",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829531,
+        85688675,
         85633793,
         85913543,
         102085489,
-        85688675
+        85829531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152196739,
-    "wof:lastmodified":1449045345,
+    "wof:lastmodified":1466315846,
     "wof:name":"Limestone Lodge",
     "wof:parent_id":85829531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.988993,34.805268,-86.988993,34.805268],
-  "geometry": {"coordinates":[-86.988993,34.805268],"type":"Point"}
+  "bbox": [
+    -86.988993,
+    34.805268,
+    -86.988993,
+    34.805268
+],
+  "geometry": {"coordinates":[-86.98899299999999,34.805268],"type":"Point"}
 }

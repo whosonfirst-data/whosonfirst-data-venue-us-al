@@ -2,13 +2,14 @@
   "id": 152781683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.595906,34.71135,-86.595906,34.71135",
     "geom:latitude":34.71135,
     "geom:longitude":-86.595906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2310 Bob Wallace Ave SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85855713,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85855713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152781683,
-    "wof:lastmodified":1449045171,
+    "wof:lastmodified":1466319822,
     "wof:name":"Glidden Paint",
     "wof:parent_id":85855713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.595906,34.71135,-86.595906,34.71135],
+  "bbox": [
+    -86.595906,
+    34.71135,
+    -86.595906,
+    34.71135
+],
   "geometry": {"coordinates":[-86.595906,34.71135],"type":"Point"}
 }

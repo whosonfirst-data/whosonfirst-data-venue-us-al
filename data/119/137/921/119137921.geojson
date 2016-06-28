@@ -2,13 +2,14 @@
   "id": 119137921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.156984,33.129601,-88.156984,33.129601",
     "geom:latitude":33.129601,
     "geom:longitude":-88.156984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"528 3rd Ave NW",
     "sg:city":"Aliceville",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":119137921,
-    "wof:lastmodified":1449043163,
+    "wof:lastmodified":1466314799,
     "wof:name":"Tilley's Used Cars",
     "wof:parent_id":85899621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.156984,33.129601,-88.156984,33.129601],
-  "geometry": {"coordinates":[-88.156984,33.129601],"type":"Point"}
+  "bbox": [
+    -88.156984,
+    33.129601,
+    -88.156984,
+    33.129601
+],
+  "geometry": {"coordinates":[-88.15698399999999,33.129601],"type":"Point"}
 }

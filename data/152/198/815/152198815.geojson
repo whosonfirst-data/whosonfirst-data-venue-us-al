@@ -2,13 +2,14 @@
   "id": 152198815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.087378,30.676012,-88.087378,30.676012",
     "geom:latitude":30.676012,
     "geom:longitude":-88.087378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"365 Williams St",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878957,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878957
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152198815,
-    "wof:lastmodified":1449045984,
+    "wof:lastmodified":1466315951,
     "wof:name":"Xponential Inc",
     "wof:parent_id":85878957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.087378,30.676012,-88.087378,30.676012],
+  "bbox": [
+    -88.087378,
+    30.676012,
+    -88.087378,
+    30.676012
+],
   "geometry": {"coordinates":[-88.087378,30.676012],"type":"Point"}
 }

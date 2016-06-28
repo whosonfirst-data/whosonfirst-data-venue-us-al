@@ -2,13 +2,14 @@
   "id": 152406353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.570435,34.652039,-86.570435,34.652039",
     "geom:latitude":34.652039,
     "geom:longitude":-86.570435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9036 Craigmont Rd SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85830495,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85830495
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152406353,
-    "wof:lastmodified":1449046779,
+    "wof:lastmodified":1466317858,
     "wof:name":"Minis By Design",
     "wof:parent_id":85830495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.570435,34.652039,-86.570435,34.652039],
+  "bbox": [
+    -86.570435,
+    34.652039,
+    -86.570435,
+    34.652039
+],
   "geometry": {"coordinates":[-86.570435,34.652039],"type":"Point"}
 }

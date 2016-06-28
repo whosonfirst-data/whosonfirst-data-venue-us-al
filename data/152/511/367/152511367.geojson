@@ -2,13 +2,14 @@
   "id": 152511367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.796197,33.308079,-87.796197,33.308079",
     "geom:latitude":33.308079,
     "geom:longitude":-87.796197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17961 Barrett Town Rd",
     "sg:city":"Gordo",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":152511367,
-    "wof:lastmodified":1449046441,
+    "wof:lastmodified":1466318387,
     "wof:name":"Barrett Logging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.796197,33.308079,-87.796197,33.308079],
-  "geometry": {"coordinates":[-87.796197,33.308079],"type":"Point"}
+  "bbox": [
+    -87.796197,
+    33.308079,
+    -87.796197,
+    33.308079
+],
+  "geometry": {"coordinates":[-87.79619700000001,33.308079],"type":"Point"}
 }

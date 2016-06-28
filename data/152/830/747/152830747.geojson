@@ -2,13 +2,14 @@
   "id": 152830747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.606665,33.185223,-87.606665,33.185223",
     "geom:latitude":33.185223,
     "geom:longitude":-87.606665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3131 Culver Rd",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085553,
-        85633793,
         85688675,
-        85812491
+        85633793,
+        85812491,
+        102085553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152830747,
-    "wof:lastmodified":1449045282,
+    "wof:lastmodified":1466320131,
     "wof:name":"Deliverance Church-Jesus Chrst",
     "wof:parent_id":85812491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.606665,33.185223,-87.606665,33.185223],
-  "geometry": {"coordinates":[-87.606665,33.185223],"type":"Point"}
+  "bbox": [
+    -87.606665,
+    33.185223,
+    -87.606665,
+    33.185223
+],
+  "geometry": {"coordinates":[-87.60666500000001,33.185223],"type":"Point"}
 }

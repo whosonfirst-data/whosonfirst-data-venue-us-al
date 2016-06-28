@@ -2,13 +2,14 @@
   "id": 152351283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.685536,34.746524,-86.685536,34.746524",
     "geom:latitude":34.746524,
     "geom:longitude":-86.685536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6396 University Dr NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85826841,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85826841
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152351283,
-    "wof:lastmodified":1449048221,
+    "wof:lastmodified":1466317580,
     "wof:name":"Freedom Fireworks",
     "wof:parent_id":85826841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.685536,34.746524,-86.685536,34.746524],
+  "bbox": [
+    -86.685536,
+    34.746524,
+    -86.685536,
+    34.746524
+],
   "geometry": {"coordinates":[-86.685536,34.746524],"type":"Point"}
 }

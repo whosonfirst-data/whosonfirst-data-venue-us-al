@@ -2,13 +2,14 @@
   "id": 152134853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.609786,33.925556,-85.609786,33.925556",
     "geom:latitude":33.925556,
     "geom:longitude":-85.609786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 N Church St",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817157,
+        85688675,
         85633793,
         85914293,
         102085603,
-        85688675
+        85817157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152134853,
-    "wof:lastmodified":1449048661,
+    "wof:lastmodified":1466315254,
     "wof:name":"Piedmont Law Office",
     "wof:parent_id":85817157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.609786,33.925556,-85.609786,33.925556],
+  "bbox": [
+    -85.609786,
+    33.925556,
+    -85.609786,
+    33.925556
+],
   "geometry": {"coordinates":[-85.609786,33.925556],"type":"Point"}
 }

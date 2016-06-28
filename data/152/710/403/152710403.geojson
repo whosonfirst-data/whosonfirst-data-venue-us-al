@@ -2,13 +2,14 @@
   "id": 152710403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.861578,31.334032,-85.861578,31.334032",
     "geom:latitude":31.334032,
     "geom:longitude":-85.861578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"654 Boll Weevil Cir",
     "sg:city":"Enterprise",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837695,
+        85688675,
         85633793,
         85899527,
         102085699,
-        85688675
+        85837695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152710403,
-    "wof:lastmodified":1449044587,
+    "wof:lastmodified":1466319406,
     "wof:name":"China Gate Restaurant",
     "wof:parent_id":85837695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.861578,31.334032,-85.861578,31.334032],
-  "geometry": {"coordinates":[-85.861578,31.334032],"type":"Point"}
+  "bbox": [
+    -85.861578,
+    31.334032,
+    -85.861578,
+    31.334032
+],
+  "geometry": {"coordinates":[-85.86157799999999,31.334032],"type":"Point"}
 }

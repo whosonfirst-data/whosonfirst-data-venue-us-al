@@ -2,13 +2,14 @@
   "id": 152156381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.697432,33.535389,-86.697432,33.535389",
     "geom:latitude":33.535389,
     "geom:longitude":-86.697432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2615 Crestwood Blvd",
     "sg:city":"Irondale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851139,
+        85688675,
         85633793,
         85914835,
         102085481,
-        85688675
+        85851139
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152156381,
-    "wof:lastmodified":1449045211,
+    "wof:lastmodified":1466314897,
     "wof:name":"Horst Flowers Inc",
     "wof:parent_id":85851139,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.697432,33.535389,-86.697432,33.535389],
-  "geometry": {"coordinates":[-86.697432,33.535389],"type":"Point"}
+  "bbox": [
+    -86.697432,
+    33.535389,
+    -86.697432,
+    33.535389
+],
+  "geometry": {"coordinates":[-86.69743200000001,33.535389],"type":"Point"}
 }

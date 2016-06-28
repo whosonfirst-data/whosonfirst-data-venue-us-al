@@ -2,13 +2,14 @@
   "id": 152653031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.41185,31.253178,-85.41185,31.253178",
     "geom:latitude":31.253178,
     "geom:longitude":-85.41185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3801 Ross Clark Cir",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851339,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85851339
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152653031,
-    "wof:lastmodified":1449044636,
+    "wof:lastmodified":1466319088,
     "wof:name":"Goodyear Tires",
     "wof:parent_id":85851339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.41185,31.253178,-85.41185,31.253178],
+  "bbox": [
+    -85.41185,
+    31.253178,
+    -85.41185,
+    31.253178
+],
   "geometry": {"coordinates":[-85.41185,31.253178],"type":"Point"}
 }

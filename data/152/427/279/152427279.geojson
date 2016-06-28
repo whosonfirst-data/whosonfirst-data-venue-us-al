@@ -2,13 +2,14 @@
   "id": 152427279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.20579,32.534661,-86.20579,32.534661",
     "geom:latitude":32.534661,
     "geom:longitude":-86.20579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 S Main St",
     "sg:city":"Wetumpka",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.a-touchofclass.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806527,
+        85688675,
         85633793,
         85913951,
         102085631,
-        85688675
+        85806527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152427279,
-    "wof:lastmodified":1449045690,
+    "wof:lastmodified":1466317959,
     "wof:name":"A Touch Of Class",
     "wof:parent_id":85806527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.20579,32.534661,-86.20579,32.534661],
-  "geometry": {"coordinates":[-86.20579,32.534661],"type":"Point"}
+  "bbox": [
+    -86.20579,
+    32.534661,
+    -86.20579,
+    32.534661
+],
+  "geometry": {"coordinates":[-86.20578999999999,32.534661],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152829735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.812693,33.43715,-86.812693,33.43715",
     "geom:latitude":33.43715,
     "geom:longitude":-86.812693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"704 Savannah Pl",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803351,
+        85688675,
         85633793,
         85914483,
         102085481,
-        85688675
+        85803351
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152829735,
-    "wof:lastmodified":1449048619,
+    "wof:lastmodified":1466320130,
     "wof:name":"Specialty Fitness Inc",
     "wof:parent_id":85803351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.812693,33.43715,-86.812693,33.43715],
+  "bbox": [
+    -86.812693,
+    33.43715,
+    -86.812693,
+    33.43715
+],
   "geometry": {"coordinates":[-86.812693,33.43715],"type":"Point"}
 }

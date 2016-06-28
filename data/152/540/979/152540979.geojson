@@ -2,13 +2,14 @@
   "id": 152540979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.374845,31.253181,-85.374845,31.253181",
     "geom:latitude":31.253181,
     "geom:longitude":-85.374845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Justice Ct",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859419,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85859419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152540979,
-    "wof:lastmodified":1449046128,
+    "wof:lastmodified":1466318701,
     "wof:name":"Martha Faulk",
     "wof:parent_id":85859419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.374845,31.253181,-85.374845,31.253181],
-  "geometry": {"coordinates":[-85.374845,31.253181],"type":"Point"}
+  "bbox": [
+    -85.374845,
+    31.253181,
+    -85.374845,
+    31.253181
+],
+  "geometry": {"coordinates":[-85.37484499999999,31.253181],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102440983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.584863,34.730926,-86.584863,34.730926",
     "geom:latitude":34.730926,
     "geom:longitude":-86.584863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Northside Sq",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878237,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102440983,
-    "wof:lastmodified":1449068639,
+    "wof:lastmodified":1466314408,
     "wof:name":"Madison County Transportation",
     "wof:parent_id":85878237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.584863,34.730926,-86.584863,34.730926],
+  "bbox": [
+    -86.584863,
+    34.730926,
+    -86.584863,
+    34.730926
+],
   "geometry": {"coordinates":[-86.584863,34.730926],"type":"Point"}
 }

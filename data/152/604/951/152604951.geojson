@@ -2,13 +2,14 @@
   "id": 152604951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.148203,30.656985,-88.148203,30.656985",
     "geom:latitude":30.656985,
     "geom:longitude":-88.148203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Azalea Rd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878955,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152604951,
-    "wof:lastmodified":1449048384,
+    "wof:lastmodified":1466318902,
     "wof:name":"Special Beginnings",
     "wof:parent_id":85878955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.148203,30.656985,-88.148203,30.656985],
+  "bbox": [
+    -88.148203,
+    30.656985,
+    -88.148203,
+    30.656985
+],
   "geometry": {"coordinates":[-88.148203,30.656985],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152499993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.226148,34.33719,-86.226148,34.33719",
     "geom:latitude":34.33719,
     "geom:longitude":-86.226148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"161 Mary St",
     "sg:city":"Albertville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85830981,
+        85688675,
         85633793,
         85899833,
         102085513,
-        85688675
+        85830981
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152499993,
-    "wof:lastmodified":1449045183,
+    "wof:lastmodified":1466318257,
     "wof:name":"Town & Country Cab Svc",
     "wof:parent_id":85830981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.226148,34.33719,-86.226148,34.33719],
-  "geometry": {"coordinates":[-86.226148,34.33719],"type":"Point"}
+  "bbox": [
+    -86.226148,
+    34.33719,
+    -86.226148,
+    34.33719
+],
+  "geometry": {"coordinates":[-86.22614799999999,34.33719],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152303573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.328386,34.02393,-86.328386,34.02393",
     "geom:latitude":34.02393,
     "geom:longitude":-86.328386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7501 Robbins Rd",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085545,
-        85633793,
         85688675,
-        85851221
+        85633793,
+        85851221,
+        102085545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152303573,
-    "wof:lastmodified":1449044337,
+    "wof:lastmodified":1466317153,
     "wof:name":"Olympia LMC",
     "wof:parent_id":85851221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.328386,34.02393,-86.328386,34.02393],
-  "geometry": {"coordinates":[-86.328386,34.02393],"type":"Point"}
+  "bbox": [
+    -86.328386,
+    34.02393,
+    -86.328386,
+    34.02393
+],
+  "geometry": {"coordinates":[-86.32838599999999,34.02393],"type":"Point"}
 }

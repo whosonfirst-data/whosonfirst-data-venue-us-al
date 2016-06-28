@@ -2,13 +2,14 @@
   "id": 152414425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.761018,34.787675,-86.761018,34.787675",
     "geom:latitude":34.787675,
     "geom:longitude":-86.761018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Water Oak Ct",
     "sg:city":"Harvest",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085487,
-        85633793,
         85688675,
-        85838413
+        85633793,
+        85838413,
+        102085487
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152414425,
-    "wof:lastmodified":1449046465,
+    "wof:lastmodified":1466317914,
     "wof:name":"Supply & Demand",
     "wof:parent_id":85838413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.761018,34.787675,-86.761018,34.787675],
-  "geometry": {"coordinates":[-86.761018,34.787675],"type":"Point"}
+  "bbox": [
+    -86.761018,
+    34.787675,
+    -86.761018,
+    34.787675
+],
+  "geometry": {"coordinates":[-86.76101800000001,34.787675],"type":"Point"}
 }

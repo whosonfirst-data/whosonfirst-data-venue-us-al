@@ -2,13 +2,14 @@
   "id": 152489271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.101117,30.563745,-88.101117,30.563745",
     "geom:latitude":30.563745,
     "geom:longitude":-88.101117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2717 Gator Rd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085585,
-        85633793,
         85688675,
-        85878941
+        85633793,
+        85878941,
+        102085585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152489271,
-    "wof:lastmodified":1449046827,
+    "wof:lastmodified":1466318249,
     "wof:name":"Coastal Boat Services",
     "wof:parent_id":85878941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.101117,30.563745,-88.101117,30.563745],
+  "bbox": [
+    -88.101117,
+    30.563745,
+    -88.101117,
+    30.563745
+],
   "geometry": {"coordinates":[-88.101117,30.563745],"type":"Point"}
 }

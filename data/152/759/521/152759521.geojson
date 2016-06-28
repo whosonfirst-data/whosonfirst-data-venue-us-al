@@ -2,13 +2,14 @@
   "id": 152759521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.83752,33.231072,-86.83752,33.231072",
     "geom:latitude":33.231072,
     "geom:longitude":-86.83752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"148 Palm Dr",
     "sg:city":"Alabaster",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847439,
+        85688675,
         85633793,
         85914487,
         102085499,
-        85688675
+        85847439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152759521,
-    "wof:lastmodified":1449048965,
+    "wof:lastmodified":1466319639,
     "wof:name":"All Secure Inc",
     "wof:parent_id":85847439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.83752,33.231072,-86.83752,33.231072],
+  "bbox": [
+    -86.83752,
+    33.231072,
+    -86.83752,
+    33.231072
+],
   "geometry": {"coordinates":[-86.83752,33.231072],"type":"Point"}
 }

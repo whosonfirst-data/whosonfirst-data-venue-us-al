@@ -2,13 +2,14 @@
   "id": 152563667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.292179,34.479754,-87.292179,34.479754",
     "geom:latitude":34.479754,
     "geom:longitude":-87.292179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"531 Walnut St",
     "sg:city":"Moulton",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085601,
-        85633793,
         85688675,
-        85851971
+        85633793,
+        85851971,
+        102085601
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152563667,
-    "wof:lastmodified":1449044365,
+    "wof:lastmodified":1466318671,
     "wof:name":"W A L W FM",
     "wof:parent_id":85851971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.292179,34.479754,-87.292179,34.479754],
+  "bbox": [
+    -87.292179,
+    34.479754,
+    -87.292179,
+    34.479754
+],
   "geometry": {"coordinates":[-87.292179,34.479754],"type":"Point"}
 }

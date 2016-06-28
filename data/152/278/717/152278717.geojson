@@ -2,13 +2,14 @@
   "id": 152278717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.419428,32.625015,-85.419428,32.625015",
     "geom:latitude":32.625015,
     "geom:longitude":-85.419428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 Cunningham Dr",
     "sg:city":"Opelika",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850579,
+        85688675,
         85633793,
         85913815,
         102085751,
-        85688675
+        85850579
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152278717,
-    "wof:lastmodified":1449046850,
+    "wof:lastmodified":1466316854,
     "wof:name":"Grifftex Chemicals",
     "wof:parent_id":85850579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.419428,32.625015,-85.419428,32.625015],
+  "bbox": [
+    -85.419428,
+    32.625015,
+    -85.419428,
+    32.625015
+],
   "geometry": {"coordinates":[-85.419428,32.625015],"type":"Point"}
 }

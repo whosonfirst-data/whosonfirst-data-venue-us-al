@@ -2,13 +2,14 @@
   "id": 102637049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.188912,32.851121,-85.188912,32.851121",
     "geom:latitude":32.851121,
     "geom:longitude":-85.188912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2106 Broad Ave",
     "sg:city":"Lanett",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848065,
+        85688675,
         85633793,
         85914191,
         102085637,
-        85688675
+        85848065
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102637049,
-    "wof:lastmodified":1449067763,
+    "wof:lastmodified":1466317592,
     "wof:name":"Titlemax Of Lanett Inc",
     "wof:parent_id":85848065,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.188912,32.851121,-85.188912,32.851121],
+  "bbox": [
+    -85.188912,
+    32.851121,
+    -85.188912,
+    32.851121
+],
   "geometry": {"coordinates":[-85.188912,32.851121],"type":"Point"}
 }

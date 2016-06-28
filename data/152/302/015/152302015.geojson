@@ -2,13 +2,14 @@
   "id": 152302015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.663225,34.742152,-86.663225,34.742152",
     "geom:latitude":34.742152,
     "geom:longitude":-86.663225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1025 Old Monrovia Rd NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851401,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85851401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152302015,
-    "wof:lastmodified":1449045864,
+    "wof:lastmodified":1466317119,
     "wof:name":"Bountiful Health",
     "wof:parent_id":85851401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.663225,34.742152,-86.663225,34.742152],
+  "bbox": [
+    -86.663225,
+    34.742152,
+    -86.663225,
+    34.742152
+],
   "geometry": {"coordinates":[-86.663225,34.742152],"type":"Point"}
 }

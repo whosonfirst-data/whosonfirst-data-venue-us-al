@@ -2,13 +2,14 @@
   "id": 152888415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.752829,33.576049,-86.752829,33.576049",
     "geom:latitude":33.576049,
     "geom:longitude":-86.752829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5300 57th St N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152888415,
-    "wof:lastmodified":1449047181,
+    "wof:lastmodified":1466320293,
     "wof:name":"Medical & Dental Unit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.752829,33.576049,-86.752829,33.576049],
-  "geometry": {"coordinates":[-86.752829,33.576049],"type":"Point"}
+  "bbox": [
+    -86.752829,
+    33.576049,
+    -86.752829,
+    33.576049
+],
+  "geometry": {"coordinates":[-86.75282900000001,33.576049],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102519105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.830933,33.488225,-86.830933,33.488225",
     "geom:latitude":33.488225,
     "geom:longitude":-86.830933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1808 Center St S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876279,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102519105,
-    "wof:lastmodified":1449070025,
+    "wof:lastmodified":1466317064,
     "wof:name":"Hildreth Construction",
     "wof:parent_id":85876279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.830933,33.488225,-86.830933,33.488225],
+  "bbox": [
+    -86.830933,
+    33.488225,
+    -86.830933,
+    33.488225
+],
   "geometry": {"coordinates":[-86.830933,33.488225],"type":"Point"}
 }

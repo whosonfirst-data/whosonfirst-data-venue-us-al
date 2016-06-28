@@ -2,13 +2,14 @@
   "id": 152880283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.609343,33.625795,-86.609343,33.625795",
     "geom:latitude":33.625795,
     "geom:longitude":-86.609343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 Magnolia St",
     "sg:city":"Trussville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808783,
+        85688675,
         85633793,
         85913473,
         102085481,
-        85688675
+        85808783
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152880283,
-    "wof:lastmodified":1449048933,
+    "wof:lastmodified":1466320384,
     "wof:name":"Robins Nest",
     "wof:parent_id":85808783,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.609343,33.625795,-86.609343,33.625795],
+  "bbox": [
+    -86.609343,
+    33.625795,
+    -86.609343,
+    33.625795
+],
   "geometry": {"coordinates":[-86.609343,33.625795],"type":"Point"}
 }

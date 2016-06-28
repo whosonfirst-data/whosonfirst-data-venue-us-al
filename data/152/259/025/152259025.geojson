@@ -2,13 +2,14 @@
   "id": 152259025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.414717,32.509752,-85.414717,32.509752",
     "geom:latitude":32.509752,
     "geom:longitude":-85.414717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4560 Co Rd 27",
     "sg:city":"Opelika",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85838773,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85838773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152259025,
-    "wof:lastmodified":1449045351,
+    "wof:lastmodified":1466316733,
     "wof:name":"Pine Breeze Trailer Ranch",
     "wof:parent_id":85838773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.414717,32.509752,-85.414717,32.509752],
+  "bbox": [
+    -85.414717,
+    32.509752,
+    -85.414717,
+    32.509752
+],
   "geometry": {"coordinates":[-85.414717,32.509752],"type":"Point"}
 }

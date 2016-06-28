@@ -2,13 +2,14 @@
   "id": 152147631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.904619,33.433096,-86.904619,33.433096",
     "geom:latitude":33.433096,
     "geom:longitude":-86.904619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 Wenonah Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851831,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85851831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152147631,
-    "wof:lastmodified":1449048421,
+    "wof:lastmodified":1466315549,
     "wof:name":"Lafarge Ready Mix",
     "wof:parent_id":85851831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.904619,33.433096,-86.904619,33.433096],
+  "bbox": [
+    -86.904619,
+    33.433096,
+    -86.904619,
+    33.433096
+],
   "geometry": {"coordinates":[-86.904619,33.433096],"type":"Point"}
 }

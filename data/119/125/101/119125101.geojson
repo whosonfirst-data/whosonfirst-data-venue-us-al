@@ -2,13 +2,14 @@
   "id": 119125101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.481606,34.655744,-86.481606,34.655744",
     "geom:latitude":34.655744,
     "geom:longitude":-86.481606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6742 US Hwy 431",
     "sg:city":"Owens Cross Rds",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878245,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":119125101,
-    "wof:lastmodified":1449043469,
+    "wof:lastmodified":1466314356,
     "wof:name":"Penny Pantry",
     "wof:parent_id":85878245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.481606,34.655744,-86.481606,34.655744],
+  "bbox": [
+    -86.481606,
+    34.655744,
+    -86.481606,
+    34.655744
+],
   "geometry": {"coordinates":[-86.481606,34.655744],"type":"Point"}
 }

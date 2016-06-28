@@ -2,13 +2,14 @@
   "id": 152679371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.862364,31.342796,-85.862364,31.342796",
     "geom:latitude":31.342796,
     "geom:longitude":-85.862364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 Neal Metcalf Rd",
     "sg:city":"Enterprise",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848185,
+        85688675,
         85633793,
         85899527,
         102085699,
-        85688675,
+        85848185,
         85837695
     ],
     "wof:breaches":[],
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":152679371,
-    "wof:lastmodified":1449047271,
+    "wof:lastmodified":1466319245,
     "wof:name":"Patterson-Sorrells Funeral Hm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.862364,31.342796,-85.862364,31.342796],
+  "bbox": [
+    -85.862364,
+    31.342796,
+    -85.862364,
+    31.342796
+],
   "geometry": {"coordinates":[-85.862364,31.342796],"type":"Point"}
 }

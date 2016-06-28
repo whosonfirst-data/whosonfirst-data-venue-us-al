@@ -2,13 +2,14 @@
   "id": 152136039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.95473,33.401696,-86.95473,33.401696",
     "geom:latitude":33.401696,
     "geom:longitude":-86.95473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 18th St N",
     "sg:city":"Bessemer",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.bessemerchamber.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807371,
+        85688675,
         85633793,
         85914885,
         102085481,
-        85688675
+        85807371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152136039,
-    "wof:lastmodified":1449048840,
+    "wof:lastmodified":1466315282,
     "wof:name":"Bessemer Area Chamber-Commerce",
     "wof:parent_id":85807371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.95473,33.401696,-86.95473,33.401696],
+  "bbox": [
+    -86.95473,
+    33.401696,
+    -86.95473,
+    33.401696
+],
   "geometry": {"coordinates":[-86.95473,33.401696],"type":"Point"}
 }

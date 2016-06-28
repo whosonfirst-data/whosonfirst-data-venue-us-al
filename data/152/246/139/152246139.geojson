@@ -2,13 +2,14 @@
   "id": 152246139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.517737,34.832499,-86.517737,34.832499",
     "geom:latitude":34.832499,
     "geom:longitude":-86.517737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 Little Lones Rd",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842195,
+        85688675,
         85633793,
         85915397,
         102085487,
-        85688675
+        85842195
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152246139,
-    "wof:lastmodified":1449044612,
+    "wof:lastmodified":1466316495,
     "wof:name":"Ace Mechanical",
     "wof:parent_id":85842195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.517737,34.832499,-86.517737,34.832499],
+  "bbox": [
+    -86.517737,
+    34.832499,
+    -86.517737,
+    34.832499
+],
   "geometry": {"coordinates":[-86.517737,34.832499],"type":"Point"}
 }

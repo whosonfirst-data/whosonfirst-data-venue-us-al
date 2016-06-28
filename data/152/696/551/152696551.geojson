@@ -2,13 +2,14 @@
   "id": 152696551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.525895,33.193455,-87.525895,33.193455",
     "geom:latitude":33.193455,
     "geom:longitude":-87.525895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 McFarland Blvd E",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802929,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85802929
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152696551,
-    "wof:lastmodified":1449044644,
+    "wof:lastmodified":1466319243,
     "wof:name":"Applebees",
     "wof:parent_id":85802929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.525895,33.193455,-87.525895,33.193455],
-  "geometry": {"coordinates":[-87.525895,33.193455],"type":"Point"}
+  "bbox": [
+    -87.525895,
+    33.193455,
+    -87.525895,
+    33.193455
+],
+  "geometry": {"coordinates":[-87.52589500000001,33.193455],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102490313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.309389,34.349876,-86.309389,34.349876",
     "geom:latitude":34.349876,
     "geom:longitude":-86.309389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1821 Henry St",
     "sg:city":"Guntersville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.markpowers-and-company.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850331,
+        85688675,
         85633793,
         85899833,
         102085513,
-        85688675
+        85850331
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102490313,
-    "wof:lastmodified":1449069944,
+    "wof:lastmodified":1466316078,
     "wof:name":"Mark Powers & Co",
     "wof:parent_id":85850331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.309389,34.349876,-86.309389,34.349876],
+  "bbox": [
+    -86.309389,
+    34.349876,
+    -86.309389,
+    34.349876
+],
   "geometry": {"coordinates":[-86.309389,34.349876],"type":"Point"}
 }

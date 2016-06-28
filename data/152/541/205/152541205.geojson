@@ -2,13 +2,14 @@
   "id": 152541205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.094304,32.470251,-85.094304,32.470251",
     "geom:latitude":32.470251,
     "geom:longitude":-85.094304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3930 US Hwy 80",
     "sg:city":"Phenix City",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822949,
+        85688675,
         85633793,
         85913715,
         102085697,
-        85688675
+        85822949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152541205,
-    "wof:lastmodified":1449044820,
+    "wof:lastmodified":1466318532,
     "wof:name":"Chevron Gas & Convenience Str",
     "wof:parent_id":85822949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.094304,32.470251,-85.094304,32.470251],
-  "geometry": {"coordinates":[-85.094304,32.470251],"type":"Point"}
+  "bbox": [
+    -85.094304,
+    32.470251,
+    -85.094304,
+    32.470251
+],
+  "geometry": {"coordinates":[-85.09430399999999,32.470251],"type":"Point"}
 }

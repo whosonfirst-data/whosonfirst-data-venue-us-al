@@ -2,13 +2,14 @@
   "id": 152812249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.770456,33.344558,-86.770456,33.344558",
     "geom:latitude":33.344558,
     "geom:longitude":-86.770456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1573 Cahaba Valley Rd",
     "sg:city":"Pelham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853353,
+        85688675,
         85633793,
         85914511,
         102085499,
-        85688675
+        85853353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152812249,
-    "wof:lastmodified":1449044420,
+    "wof:lastmodified":1466319895,
     "wof:name":"Neil's Pharmacy",
     "wof:parent_id":85853353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.770456,33.344558,-86.770456,33.344558],
+  "bbox": [
+    -86.770456,
+    33.344558,
+    -86.770456,
+    33.344558
+],
   "geometry": {"coordinates":[-86.770456,33.344558],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102627479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.753087,33.37649,-86.753087,33.37649",
     "geom:latitude":33.37649,
     "geom:longitude":-86.753087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2496 Valleydale Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -31,10 +32,10 @@
     "sg:website":"www.acci.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85826093
+        85633793,
+        85826093,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102627479,
-    "wof:lastmodified":1449070263,
+    "wof:lastmodified":1466317462,
     "wof:name":"ACCI",
     "wof:parent_id":85826093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.753087,33.37649,-86.753087,33.37649],
-  "geometry": {"coordinates":[-86.753087,33.37649],"type":"Point"}
+  "bbox": [
+    -86.753087,
+    33.37649,
+    -86.753087,
+    33.37649
+],
+  "geometry": {"coordinates":[-86.75308699999999,33.37649],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119136605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.493282,34.20141,-86.493282,34.20141",
     "geom:latitude":34.20141,
     "geom:longitude":-86.493282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"79064 US Hwy 231",
     "sg:city":"Blountsville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":119136605,
-    "wof:lastmodified":1449043525,
+    "wof:lastmodified":1466314749,
     "wof:name":"Summit Volunteer Fire Dept",
     "wof:parent_id":85688675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.493282,34.20141,-86.493282,34.20141],
-  "geometry": {"coordinates":[-86.493282,34.20141],"type":"Point"}
+  "bbox": [
+    -86.493282,
+    34.20141,
+    -86.493282,
+    34.20141
+],
+  "geometry": {"coordinates":[-86.49328199999999,34.20141],"type":"Point"}
 }

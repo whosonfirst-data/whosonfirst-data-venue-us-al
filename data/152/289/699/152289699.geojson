@@ -2,13 +2,14 @@
   "id": 152289699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.86149,33.48651,-86.86149,33.48651",
     "geom:latitude":33.48651,
     "geom:longitude":-86.86149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1637 Pearson Ave SW",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818187,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85818187
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152289699,
-    "wof:lastmodified":1449048148,
+    "wof:lastmodified":1466317184,
     "wof:name":"Birmingham Works For Youth",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.86149,33.48651,-86.86149,33.48651],
+  "bbox": [
+    -86.86149,
+    33.48651,
+    -86.86149,
+    33.48651
+],
   "geometry": {"coordinates":[-86.86149,33.48651],"type":"Point"}
 }

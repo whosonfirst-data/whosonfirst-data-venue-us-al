@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102439027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.296365,32.396288,-86.296365,32.396288",
     "geom:latitude":32.396288,
     "geom:longitude":-86.296365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1527 Ferguson St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879043,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102439027,
-    "wof:lastmodified":1449068441,
+    "wof:lastmodified":1466314705,
     "wof:name":"North Montgomery Baptist Chrch",
     "wof:parent_id":85879043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.296365,32.396288,-86.296365,32.396288],
-  "geometry": {"coordinates":[-86.296365,32.396288],"type":"Point"}
+  "bbox": [
+    -86.296365,
+    32.396288,
+    -86.296365,
+    32.396288
+],
+  "geometry": {"coordinates":[-86.29636499999999,32.396288],"type":"Point"}
 }

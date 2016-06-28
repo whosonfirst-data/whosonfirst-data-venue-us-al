@@ -2,13 +2,14 @@
   "id": 152170827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.545344,34.709474,-86.545344,34.709474",
     "geom:latitude":34.709474,
     "geom:longitude":-86.545344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1304 Chandler Dr SE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854251,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85854251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152170827,
-    "wof:lastmodified":1449044738,
+    "wof:lastmodified":1466315608,
     "wof:name":"Florence Hotel Company LLC",
     "wof:parent_id":85854251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.545344,34.709474,-86.545344,34.709474],
+  "bbox": [
+    -86.545344,
+    34.709474,
+    -86.545344,
+    34.709474
+],
   "geometry": {"coordinates":[-86.545344,34.709474],"type":"Point"}
 }

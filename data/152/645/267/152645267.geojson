@@ -2,13 +2,14 @@
   "id": 152645267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.831622,31.586824,-85.831622,31.586824",
     "geom:latitude":31.586824,
     "geom:longitude":-85.831622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6859 Co Rd 105",
     "sg:city":"Brundidge",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837695,
+        85688675,
         85633793,
         85899527,
         102085699,
-        85688675
+        85837695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152645267,
-    "wof:lastmodified":1449044774,
+    "wof:lastmodified":1466319073,
     "wof:name":"Dl Trucking",
     "wof:parent_id":85837695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.831622,31.586824,-85.831622,31.586824],
+  "bbox": [
+    -85.831622,
+    31.586824,
+    -85.831622,
+    31.586824
+],
   "geometry": {"coordinates":[-85.831622,31.586824],"type":"Point"}
 }

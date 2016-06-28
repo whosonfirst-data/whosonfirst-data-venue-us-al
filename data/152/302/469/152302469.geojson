@@ -2,13 +2,14 @@
   "id": 152302469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.049168,32.502774,-85.049168,32.502774",
     "geom:latitude":32.502774,
     "geom:longitude":-85.049168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3734 US Hwy 431",
     "sg:city":"Phenix City",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829585,
+        85688675,
         85633793,
         85913715,
         102085697,
-        85688675
+        85829585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152302469,
-    "wof:lastmodified":1449045870,
+    "wof:lastmodified":1466317144,
     "wof:name":"ERA Jefferson Real Estate",
     "wof:parent_id":85829585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.049168,32.502774,-85.049168,32.502774],
-  "geometry": {"coordinates":[-85.049168,32.502774],"type":"Point"}
+  "bbox": [
+    -85.049168,
+    32.502774,
+    -85.049168,
+    32.502774
+],
+  "geometry": {"coordinates":[-85.04916799999999,32.502774],"type":"Point"}
 }

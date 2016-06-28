@@ -2,13 +2,14 @@
   "id": 152604917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.04913,32.414167,-85.04913,32.414167",
     "geom:latitude":32.414167,
     "geom:longitude":-85.04913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Bob White Ct",
     "sg:city":"Phenix City",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":152604917,
-    "wof:lastmodified":1449048388,
+    "wof:lastmodified":1466318900,
     "wof:name":"Mobile Home Service & Trnspt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.04913,32.414167,-85.04913,32.414167],
-  "geometry": {"coordinates":[-85.04913,32.414167],"type":"Point"}
+  "bbox": [
+    -85.04913,
+    32.414167,
+    -85.04913,
+    32.414167
+],
+  "geometry": {"coordinates":[-85.04913000000001,32.414167],"type":"Point"}
 }

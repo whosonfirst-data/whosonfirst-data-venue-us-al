@@ -2,13 +2,14 @@
   "id": 152820203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.461711,34.133142,-86.461711,34.133142",
     "geom:latitude":34.133142,
     "geom:longitude":-86.461711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"133 Co Rd 38",
     "sg:city":"Horton",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085667,
-        85633793,
         85688675,
-        85819523
+        85633793,
+        85819523,
+        102085667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152820203,
-    "wof:lastmodified":1449046690,
+    "wof:lastmodified":1466319934,
     "wof:name":"Phillips Transmission",
     "wof:parent_id":85819523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.461711,34.133142,-86.461711,34.133142],
-  "geometry": {"coordinates":[-86.461711,34.133142],"type":"Point"}
+  "bbox": [
+    -86.461711,
+    34.133142,
+    -86.461711,
+    34.133142
+],
+  "geometry": {"coordinates":[-86.46171099999999,34.133142],"type":"Point"}
 }

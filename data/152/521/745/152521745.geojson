@@ -2,13 +2,14 @@
   "id": 152521745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.786076,33.637389,-85.786076,33.637389",
     "geom:latitude":33.637389,
     "geom:longitude":-85.786076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"316 Golden Springs Rd",
     "sg:city":"Anniston",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850637,
+        85688675,
         85633793,
         85914281,
         102085603,
-        85688675
+        85850637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152521745,
-    "wof:lastmodified":1449048694,
+    "wof:lastmodified":1466318419,
     "wof:name":"Miller Co",
     "wof:parent_id":85850637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.786076,33.637389,-85.786076,33.637389],
-  "geometry": {"coordinates":[-85.786076,33.637389],"type":"Point"}
+  "bbox": [
+    -85.786076,
+    33.637389,
+    -85.786076,
+    33.637389
+],
+  "geometry": {"coordinates":[-85.78607599999999,33.637389],"type":"Point"}
 }

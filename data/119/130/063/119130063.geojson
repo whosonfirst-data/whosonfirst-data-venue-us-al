@@ -2,13 +2,14 @@
   "id": 119130063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.80966,33.519645,-86.80966,33.519645",
     "geom:latitude":33.519645,
     "geom:longitude":-86.80966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2001 Park Pl",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.cabaniss.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820315,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85820315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":119130063,
-    "wof:lastmodified":1449041697,
+    "wof:lastmodified":1466314513,
     "wof:name":"Cabaniss Johnston Gardner",
     "wof:parent_id":85820315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.80966,33.519645,-86.80966,33.519645],
-  "geometry": {"coordinates":[-86.80966,33.519645],"type":"Point"}
+  "bbox": [
+    -86.80966,
+    33.519645,
+    -86.80966,
+    33.519645
+],
+  "geometry": {"coordinates":[-86.80965999999999,33.519645],"type":"Point"}
 }

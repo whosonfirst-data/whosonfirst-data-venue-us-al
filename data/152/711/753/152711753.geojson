@@ -2,13 +2,14 @@
   "id": 152711753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.811267,33.289624,-86.811267,33.289624",
     "geom:latitude":33.289624,
     "geom:longitude":-86.811267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3024 US Hwy 31",
     "sg:city":"Pelham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828267,
+        85688675,
         85633793,
         85914501,
         102085499,
-        85688675
+        85828267
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152711753,
-    "wof:lastmodified":1449048070,
+    "wof:lastmodified":1466319513,
     "wof:name":"Memories n More",
     "wof:parent_id":85828267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.811267,33.289624,-86.811267,33.289624],
+  "bbox": [
+    -86.811267,
+    33.289624,
+    -86.811267,
+    33.289624
+],
   "geometry": {"coordinates":[-86.811267,33.289624],"type":"Point"}
 }

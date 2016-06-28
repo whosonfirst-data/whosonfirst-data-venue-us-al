@@ -2,13 +2,14 @@
   "id": 152887499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.814974,33.250725,-86.814974,33.250725",
     "geom:latitude":33.250725,
     "geom:longitude":-86.814974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"561 1st St N",
     "sg:city":"Alabaster",
     "sg:classifiers":[
@@ -28,13 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828267,
+        85688675,
         85633793,
         85914501,
         102085499,
-        85688675,
-        85847439,
-        85914487
+        85828267,
+        85914487,
+        85847439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,14 +62,20 @@
         }
     ],
     "wof:id":152887499,
-    "wof:lastmodified":1449048005,
+    "wof:lastmodified":1466320264,
     "wof:name":"New Beacon  Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.814974,33.250725,-86.814974,33.250725],
-  "geometry": {"coordinates":[-86.814974,33.250725],"type":"Point"}
+  "bbox": [
+    -86.814974,
+    33.250725,
+    -86.814974,
+    33.250725
+],
+  "geometry": {"coordinates":[-86.81497400000001,33.250725],"type":"Point"}
 }

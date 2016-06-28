@@ -2,13 +2,14 @@
   "id": 152414417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.932836,32.568009,-85.932836,32.568009",
     "geom:latitude":32.568009,
     "geom:longitude":-85.932836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"164 McNeal St",
     "sg:city":"Tallassee",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827623,
+        85688675,
         85633793,
         85913291,
         102085631,
-        85688675
+        85827623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152414417,
-    "wof:lastmodified":1449046466,
+    "wof:lastmodified":1466317913,
     "wof:name":"OMS",
     "wof:parent_id":85827623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.932836,32.568009,-85.932836,32.568009],
-  "geometry": {"coordinates":[-85.932836,32.568009],"type":"Point"}
+  "bbox": [
+    -85.932836,
+    32.568009,
+    -85.932836,
+    32.568009
+],
+  "geometry": {"coordinates":[-85.93283599999999,32.568009],"type":"Point"}
 }

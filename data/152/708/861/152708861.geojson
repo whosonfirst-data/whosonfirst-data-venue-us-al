@@ -2,13 +2,14 @@
   "id": 152708861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.428096,32.46052,-86.428096,32.46052",
     "geom:latitude":32.46052,
     "geom:longitude":-86.428096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1675 E Main St",
     "sg:city":"Prattville",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858707,
+        85688675,
         85633793,
         85913977,
         102085509,
-        85688675
+        85858707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152708861,
-    "wof:lastmodified":1449045033,
+    "wof:lastmodified":1466319414,
     "wof:name":"Blockbuster Video",
     "wof:parent_id":85858707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.428096,32.46052,-86.428096,32.46052],
+  "bbox": [
+    -86.428096,
+    32.46052,
+    -86.428096,
+    32.46052
+],
   "geometry": {"coordinates":[-86.428096,32.46052],"type":"Point"}
 }

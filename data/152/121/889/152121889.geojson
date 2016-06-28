@@ -2,13 +2,14 @@
   "id": 152121889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.805215,33.515779,-86.805215,33.515779",
     "geom:latitude":33.515779,
     "geom:longitude":-86.805215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2031 2nd Ave N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876269,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152121889,
-    "wof:lastmodified":1449047903,
+    "wof:lastmodified":1466314622,
     "wof:name":"Cochran Firm",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.805215,33.515779,-86.805215,33.515779],
+  "bbox": [
+    -86.805215,
+    33.515779,
+    -86.805215,
+    33.515779
+],
   "geometry": {"coordinates":[-86.805215,33.515779],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152133087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.57072,34.625474,-86.57072,34.625474",
     "geom:latitude":34.625474,
     "geom:longitude":-86.57072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10308 Leicester Dr SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85844231,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85844231
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152133087,
-    "wof:lastmodified":1449048119,
+    "wof:lastmodified":1466315167,
     "wof:name":"Talk Minerals",
     "wof:parent_id":85844231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.57072,34.625474,-86.57072,34.625474],
-  "geometry": {"coordinates":[-86.57072,34.625474],"type":"Point"}
+  "bbox": [
+    -86.57072,
+    34.625474,
+    -86.57072,
+    34.625474
+],
+  "geometry": {"coordinates":[-86.57071999999999,34.625474],"type":"Point"}
 }

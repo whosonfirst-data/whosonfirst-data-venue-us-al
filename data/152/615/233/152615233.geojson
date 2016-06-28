@@ -2,13 +2,14 @@
   "id": 152615233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.362642,31.214302,-85.362642,31.214302",
     "geom:latitude":31.214302,
     "geom:longitude":-85.362642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1920 Fairview Ave",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.samc.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847911,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85847911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152615233,
-    "wof:lastmodified":1449045767,
+    "wof:lastmodified":1466318915,
     "wof:name":"Southeast Industrial Health",
     "wof:parent_id":85847911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.362642,31.214302,-85.362642,31.214302],
-  "geometry": {"coordinates":[-85.362642,31.214302],"type":"Point"}
+  "bbox": [
+    -85.362642,
+    31.214302,
+    -85.362642,
+    31.214302
+],
+  "geometry": {"coordinates":[-85.36264199999999,31.214302],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152148089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.890088,33.446245,-86.890088,33.446245",
     "geom:latitude":33.446245,
     "geom:longitude":-86.890088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3141 Wilson Rd SW",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851831,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85851831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152148089,
-    "wof:lastmodified":1449048193,
+    "wof:lastmodified":1466314425,
     "wof:name":"T & T Meats",
     "wof:parent_id":85851831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.890088,33.446245,-86.890088,33.446245],
-  "geometry": {"coordinates":[-86.890088,33.446245],"type":"Point"}
+  "bbox": [
+    -86.890088,
+    33.446245,
+    -86.890088,
+    33.446245
+],
+  "geometry": {"coordinates":[-86.89008800000001,33.446245],"type":"Point"}
 }

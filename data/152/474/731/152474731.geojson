@@ -2,13 +2,14 @@
   "id": 152474731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.284857,32.368547,-86.284857,32.368547",
     "geom:latitude":32.368547,
     "geom:longitude":-86.284857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1758 Park Pl",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811493,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85811493
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152474731,
-    "wof:lastmodified":1449044489,
+    "wof:lastmodified":1466318292,
     "wof:name":"John A Porter MD",
     "wof:parent_id":85811493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.284857,32.368547,-86.284857,32.368547],
+  "bbox": [
+    -86.284857,
+    32.368547,
+    -86.284857,
+    32.368547
+],
   "geometry": {"coordinates":[-86.284857,32.368547],"type":"Point"}
 }

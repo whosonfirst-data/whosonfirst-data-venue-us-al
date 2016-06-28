@@ -2,13 +2,14 @@
   "id": 152849995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.273512,32.427393,-86.273512,32.427393",
     "geom:latitude":32.427393,
     "geom:longitude":-86.273512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"838 W Canyon Ct",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806939,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85806939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152849995,
-    "wof:lastmodified":1449045160,
+    "wof:lastmodified":1466319889,
     "wof:name":"Hamilton Day Care and Nursery",
     "wof:parent_id":85806939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.273512,32.427393,-86.273512,32.427393],
+  "bbox": [
+    -86.273512,
+    32.427393,
+    -86.273512,
+    32.427393
+],
   "geometry": {"coordinates":[-86.273512,32.427393],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404003577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.62001,34.93068,-86.62001,34.93068",
     "geom:latitude":34.93068,
     "geom:longitude":-86.62001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"195 Simmons Cir",
     "sg:city":"Hazel Green",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404003577,
-    "wof:lastmodified":1449040244,
+    "wof:lastmodified":1466315541,
     "wof:name":"W L Simmons General Contractor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.62001,34.93068,-86.62001,34.93068],
-  "geometry": {"coordinates":[-86.62001,34.93068],"type":"Point"}
+  "bbox": [
+    -86.62001,
+    34.93068,
+    -86.62001,
+    34.93068
+],
+  "geometry": {"coordinates":[-86.62000999999999,34.93068],"type":"Point"}
 }

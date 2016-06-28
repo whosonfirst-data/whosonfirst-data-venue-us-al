@@ -2,13 +2,14 @@
   "id": 152126933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.517084,33.101159,-86.517084,33.101159",
     "geom:latitude":33.101159,
     "geom:longitude":-86.517084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6870 Co Rd 71",
     "sg:city":"Shelby",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825591,
+        85688675,
         85633793,
         85914497,
         102085499,
-        85688675
+        85825591
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152126933,
-    "wof:lastmodified":1449046012,
+    "wof:lastmodified":1466314842,
     "wof:name":"Smith Excavating Shelby LLC",
     "wof:parent_id":85825591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.517084,33.101159,-86.517084,33.101159],
+  "bbox": [
+    -86.517084,
+    33.101159,
+    -86.517084,
+    33.101159
+],
   "geometry": {"coordinates":[-86.517084,33.101159],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152436569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.005182,30.944288,-88.005182,30.944288",
     "geom:latitude":30.944288,
     "geom:longitude":-88.005182,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11740 Glover St",
     "sg:city":"Axis",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085469,
-        85633793,
         85688675,
-        85878983
+        85633793,
+        85878983,
+        102085469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152436569,
-    "wof:lastmodified":1449048480,
+    "wof:lastmodified":1466318006,
     "wof:name":"Whites Tire Shop",
     "wof:parent_id":85878983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.005182,30.944288,-88.005182,30.944288],
+  "bbox": [
+    -88.005182,
+    30.944288,
+    -88.005182,
+    30.944288
+],
   "geometry": {"coordinates":[-88.005182,30.944288],"type":"Point"}
 }

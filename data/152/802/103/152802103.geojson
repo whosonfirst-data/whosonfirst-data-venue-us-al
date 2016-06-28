@@ -2,13 +2,14 @@
   "id": 152802103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.277521,32.378476,-86.277521,32.378476",
     "geom:latitude":32.378476,
     "geom:longitude":-86.277521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2119 Mount Meigs Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809389,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85809389
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152802103,
-    "wof:lastmodified":1449048057,
+    "wof:lastmodified":1466319860,
     "wof:name":"Carburetor Electric Company",
     "wof:parent_id":85809389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.277521,32.378476,-86.277521,32.378476],
-  "geometry": {"coordinates":[-86.277521,32.378476],"type":"Point"}
+  "bbox": [
+    -86.277521,
+    32.378476,
+    -86.277521,
+    32.378476
+],
+  "geometry": {"coordinates":[-86.27752099999999,32.378476],"type":"Point"}
 }

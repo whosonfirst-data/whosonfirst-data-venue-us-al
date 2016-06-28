@@ -2,13 +2,14 @@
   "id": 152450535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.080276,30.662463,-88.080276,30.662463",
     "geom:latitude":30.662463,
     "geom:longitude":-88.080276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1755 Duval St",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878975,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878975
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152450535,
-    "wof:lastmodified":1449048208,
+    "wof:lastmodified":1466317953,
     "wof:name":"Stallworth Garage",
     "wof:parent_id":85878975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.080276,30.662463,-88.080276,30.662463],
+  "bbox": [
+    -88.080276,
+    30.662463,
+    -88.080276,
+    30.662463
+],
   "geometry": {"coordinates":[-88.080276,30.662463],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152875379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.587325,34.74545,-86.587325,34.74545",
     "geom:latitude":34.74545,
     "geom:longitude":-86.587325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 Abingdon Ave NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.bgchsv.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878235,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878235
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152875379,
-    "wof:lastmodified":1449047737,
+    "wof:lastmodified":1466320225,
     "wof:name":"Boys & Girls Club Learning Ctr",
     "wof:parent_id":85878235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.587325,34.74545,-86.587325,34.74545],
-  "geometry": {"coordinates":[-86.587325,34.74545],"type":"Point"}
+  "bbox": [
+    -86.587325,
+    34.74545,
+    -86.587325,
+    34.74545
+],
+  "geometry": {"coordinates":[-86.58732500000001,34.74545],"type":"Point"}
 }

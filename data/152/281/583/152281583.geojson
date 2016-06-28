@@ -2,13 +2,14 @@
   "id": 152281583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.391064,31.25047,-85.391064,31.25047",
     "geom:latitude":31.25047,
     "geom:longitude":-85.391064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1526 Headland Ave",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859419,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85859419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152281583,
-    "wof:lastmodified":1449048216,
+    "wof:lastmodified":1466316877,
     "wof:name":"David's Locksmith Svc",
     "wof:parent_id":85859419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.391064,31.25047,-85.391064,31.25047],
+  "bbox": [
+    -85.391064,
+    31.25047,
+    -85.391064,
+    31.25047
+],
   "geometry": {"coordinates":[-85.391064,31.25047],"type":"Point"}
 }

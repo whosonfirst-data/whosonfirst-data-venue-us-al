@@ -2,13 +2,14 @@
   "id": 152195227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.729319,34.628799,-86.729319,34.628799",
     "geom:latitude":34.628799,
     "geom:longitude":-86.729319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Otter Trl SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85838799,
+        85688675,
         85633793,
         85915405,
         102085487,
-        85688675
+        85838799
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152195227,
-    "wof:lastmodified":1449047333,
+    "wof:lastmodified":1466315872,
     "wof:name":"Adams Lawn Care",
     "wof:parent_id":85838799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.729319,34.628799,-86.729319,34.628799],
+  "bbox": [
+    -86.729319,
+    34.628799,
+    -86.729319,
+    34.628799
+],
   "geometry": {"coordinates":[-86.729319,34.628799],"type":"Point"}
 }

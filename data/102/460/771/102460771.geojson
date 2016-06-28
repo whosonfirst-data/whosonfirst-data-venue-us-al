@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102460771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.804002,33.514318,-86.804002,33.514318",
     "geom:latitude":33.514318,
     "geom:longitude":-86.804002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2017 Morris Ave",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -33,11 +34,11 @@
     "sg:website":"www.kineticcom.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876269,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":102460771,
-    "wof:lastmodified":1449070059,
+    "wof:lastmodified":1466315039,
     "wof:name":"Kinetic Communications LLP",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.804002,33.514318,-86.804002,33.514318],
+  "bbox": [
+    -86.804002,
+    33.514318,
+    -86.804002,
+    33.514318
+],
   "geometry": {"coordinates":[-86.804002,33.514318],"type":"Point"}
 }

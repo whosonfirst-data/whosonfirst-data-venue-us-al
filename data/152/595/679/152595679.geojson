@@ -2,13 +2,14 @@
   "id": 152595679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.467914,32.601211,-85.467914,32.601211",
     "geom:latitude":32.601211,
     "geom:longitude":-85.467914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"328 S Brookwood Dr",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819999,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85819999
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152595679,
-    "wof:lastmodified":1449048470,
+    "wof:lastmodified":1466319014,
     "wof:name":"Ernst Painting Repair",
     "wof:parent_id":85819999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.467914,32.601211,-85.467914,32.601211],
-  "geometry": {"coordinates":[-85.467914,32.601211],"type":"Point"}
+  "bbox": [
+    -85.467914,
+    32.601211,
+    -85.467914,
+    32.601211
+],
+  "geometry": {"coordinates":[-85.46791399999999,32.601211],"type":"Point"}
 }

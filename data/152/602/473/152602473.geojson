@@ -2,13 +2,14 @@
   "id": 152602473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.25163,33.861965,-87.25163,33.861965",
     "geom:latitude":33.861965,
     "geom:longitude":-87.25163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 Charter Rd",
     "sg:city":"Jasper",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152602473,
-    "wof:lastmodified":1449046475,
+    "wof:lastmodified":1466318871,
     "wof:name":"Drummond Rod Heating & Cooling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.25163,33.861965,-87.25163,33.861965],
-  "geometry": {"coordinates":[-87.25163,33.861965],"type":"Point"}
+  "bbox": [
+    -87.25163,
+    33.861965,
+    -87.25163,
+    33.861965
+],
+  "geometry": {"coordinates":[-87.25163000000001,33.861965],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102465595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.566019,34.772431,-86.566019,34.772431",
     "geom:latitude":34.772431,
     "geom:longitude":-86.566019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3210 S Hi Lo Cir NE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.co.madison.al.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833383,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85833383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102465595,
-    "wof:lastmodified":1449069407,
+    "wof:lastmodified":1466315124,
     "wof:name":"County Commissioner",
     "wof:parent_id":85833383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.566019,34.772431,-86.566019,34.772431],
+  "bbox": [
+    -86.566019,
+    34.772431,
+    -86.566019,
+    34.772431
+],
   "geometry": {"coordinates":[-86.566019,34.772431],"type":"Point"}
 }

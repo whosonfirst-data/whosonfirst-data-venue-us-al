@@ -2,13 +2,14 @@
   "id": 152717919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.815955,33.20288,-86.815955,33.20288",
     "geom:latitude":33.20288,
     "geom:longitude":-86.815955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 Mollys Pl",
     "sg:city":"Alabaster",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85853623
+        85633793,
+        85853623,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152717919,
-    "wof:lastmodified":1449044418,
+    "wof:lastmodified":1466319436,
     "wof:name":"S&F Transport Liability Co",
     "wof:parent_id":85853623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.815955,33.20288,-86.815955,33.20288],
+  "bbox": [
+    -86.815955,
+    33.20288,
+    -86.815955,
+    33.20288
+],
   "geometry": {"coordinates":[-86.815955,33.20288],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152486949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.432204,31.229037,-85.432204,31.229037",
     "geom:latitude":31.229037,
     "geom:longitude":-85.432204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3105 Ross Clark Cir",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805317,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85805317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152486949,
-    "wof:lastmodified":1449046879,
+    "wof:lastmodified":1466318278,
     "wof:name":"Canton House Chinese Rest LLC",
     "wof:parent_id":85805317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.432204,31.229037,-85.432204,31.229037],
+  "bbox": [
+    -85.432204,
+    31.229037,
+    -85.432204,
+    31.229037
+],
   "geometry": {"coordinates":[-85.432204,31.229037],"type":"Point"}
 }

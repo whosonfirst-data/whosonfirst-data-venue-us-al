@@ -2,13 +2,14 @@
   "id": 152715619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.316694,32.359481,-86.316694,32.359481",
     "geom:latitude":32.359481,
     "geom:longitude":-86.316694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1273 Rosa L Parks Ave",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879039,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152715619,
-    "wof:lastmodified":1449047985,
+    "wof:lastmodified":1466319421,
     "wof:name":"Al African-American Arts",
     "wof:parent_id":85879039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.316694,32.359481,-86.316694,32.359481],
+  "bbox": [
+    -86.316694,
+    32.359481,
+    -86.316694,
+    32.359481
+],
   "geometry": {"coordinates":[-86.316694,32.359481],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152824787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.471989,33.182882,-87.471989,33.182882",
     "geom:latitude":33.182882,
     "geom:longitude":-87.471989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4820 28th St E",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831771,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85831771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152824787,
-    "wof:lastmodified":1449045956,
+    "wof:lastmodified":1466320115,
     "wof:name":"Clark Enterprises",
     "wof:parent_id":85831771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.471989,33.182882,-87.471989,33.182882],
-  "geometry": {"coordinates":[-87.471989,33.182882],"type":"Point"}
+  "bbox": [
+    -87.471989,
+    33.182882,
+    -87.471989,
+    33.182882
+],
+  "geometry": {"coordinates":[-87.47198899999999,33.182882],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152387773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.026839,30.931991,-88.026839,30.931991",
     "geom:latitude":30.931991,
     "geom:longitude":-88.026839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11775 US Hwy 43",
     "sg:city":"Axis",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085469,
-        85633793,
         85688675,
-        85878983
+        85633793,
+        85878983,
+        102085469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152387773,
-    "wof:lastmodified":1449048290,
+    "wof:lastmodified":1466317774,
     "wof:name":"Richway Transportation",
     "wof:parent_id":85878983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.026839,30.931991,-88.026839,30.931991],
+  "bbox": [
+    -88.026839,
+    30.931991,
+    -88.026839,
+    30.931991
+],
   "geometry": {"coordinates":[-88.026839,30.931991],"type":"Point"}
 }

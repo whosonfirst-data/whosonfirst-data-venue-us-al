@@ -2,13 +2,14 @@
   "id": 152877521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.643122,33.277595,-86.643122,33.277595",
     "geom:latitude":33.277595,
     "geom:longitude":-86.643122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1362 Co Rd 69",
     "sg:city":"Chelsea",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825591,
+        85688675,
         85633793,
         85914497,
         102085499,
-        85688675
+        85825591
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152877521,
-    "wof:lastmodified":1449047547,
+    "wof:lastmodified":1466320242,
     "wof:name":"Shirley Brothers Excavating",
     "wof:parent_id":85825591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.643122,33.277595,-86.643122,33.277595],
-  "geometry": {"coordinates":[-86.643122,33.277595],"type":"Point"}
+  "bbox": [
+    -86.643122,
+    33.277595,
+    -86.643122,
+    33.277595
+],
+  "geometry": {"coordinates":[-86.64312200000001,33.277595],"type":"Point"}
 }

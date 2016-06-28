@@ -2,13 +2,14 @@
   "id": 152894041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.579488,30.546964,-87.579488,30.546964",
     "geom:latitude":30.546964,
     "geom:longitude":-87.579488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26175 US Hwy 90",
     "sg:city":"Robertsdale",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854025,
+        85688675,
         85633793,
         85914707,
         102085469,
-        85688675
+        85854025
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152894041,
-    "wof:lastmodified":1449046216,
+    "wof:lastmodified":1466320272,
     "wof:name":"Kicks On The Styx Canoeing",
     "wof:parent_id":85854025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.579488,30.546964,-87.579488,30.546964],
+  "bbox": [
+    -87.579488,
+    30.546964,
+    -87.579488,
+    30.546964
+],
   "geometry": {"coordinates":[-87.579488,30.546964],"type":"Point"}
 }

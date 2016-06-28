@@ -2,13 +2,14 @@
   "id": 152903365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.737962,33.369056,-86.737962,33.369056",
     "geom:latitude":33.369056,
     "geom:longitude":-86.737962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"923 Copena Dr",
     "sg:city":"Pelham",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85826093
+        85633793,
+        85826093,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152903365,
-    "wof:lastmodified":1449044572,
+    "wof:lastmodified":1466320400,
     "wof:name":"Kelley H English",
     "wof:parent_id":85826093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.737962,33.369056,-86.737962,33.369056],
+  "bbox": [
+    -86.737962,
+    33.369056,
+    -86.737962,
+    33.369056
+],
   "geometry": {"coordinates":[-86.737962,33.369056],"type":"Point"}
 }

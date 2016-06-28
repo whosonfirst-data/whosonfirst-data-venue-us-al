@@ -2,13 +2,14 @@
   "id": 152800391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.167817,32.350051,-86.167817,32.350051",
     "geom:latitude":32.350051,
     "geom:longitude":-86.167817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1779 Taliaferro Trl",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85823517,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85823517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152800391,
-    "wof:lastmodified":1449044668,
+    "wof:lastmodified":1466320000,
     "wof:name":"Lindsay Foods",
     "wof:parent_id":85823517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.167817,32.350051,-86.167817,32.350051],
+  "bbox": [
+    -86.167817,
+    32.350051,
+    -86.167817,
+    32.350051
+],
   "geometry": {"coordinates":[-86.167817,32.350051],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152859667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.403108,32.472818,-86.403108,32.472818",
     "geom:latitude":32.472818,
     "geom:longitude":-86.403108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"330 Old Farm Ln N",
     "sg:city":"Prattville",
     "sg:classifiers":[
@@ -25,10 +26,10 @@
     "sg:website":"www.hunterhills.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085631,
-        85633793,
         85688675,
-        85819047
+        85633793,
+        85819047,
+        102085631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":152859667,
-    "wof:lastmodified":1449047607,
+    "wof:lastmodified":1466320368,
     "wof:name":"Hunter Hills Church Of Christ",
     "wof:parent_id":85819047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.403108,32.472818,-86.403108,32.472818],
+  "bbox": [
+    -86.403108,
+    32.472818,
+    -86.403108,
+    32.472818
+],
   "geometry": {"coordinates":[-86.403108,32.472818],"type":"Point"}
 }

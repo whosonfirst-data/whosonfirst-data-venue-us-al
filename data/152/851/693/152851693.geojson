@@ -2,13 +2,14 @@
   "id": 152851693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.148346,32.494813,-86.148346,32.494813",
     "geom:latitude":32.494813,
     "geom:longitude":-86.148346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"822 Hazel Green Dr",
     "sg:city":"Wetumpka",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827347,
+        85688675,
         85633793,
         85915121,
         102085631,
-        85688675
+        85827347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152851693,
-    "wof:lastmodified":1449047340,
+    "wof:lastmodified":1466320154,
     "wof:name":"Ben Russell Realty Inc",
     "wof:parent_id":85827347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.148346,32.494813,-86.148346,32.494813],
+  "bbox": [
+    -86.148346,
+    32.494813,
+    -86.148346,
+    32.494813
+],
   "geometry": {"coordinates":[-86.148346,32.494813],"type":"Point"}
 }

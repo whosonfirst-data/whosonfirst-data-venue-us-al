@@ -2,13 +2,14 @@
   "id": 152226863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.770159,33.826007,-85.770159,33.826007",
     "geom:latitude":33.826007,
     "geom:longitude":-85.770159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"329 Nisbet St NW",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.jvillecoc.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805945,
+        85688675,
         85633793,
         85914293,
         102085603,
-        85688675
+        85805945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152226863,
-    "wof:lastmodified":1449047653,
+    "wof:lastmodified":1466316264,
     "wof:name":"Church Of Christ",
     "wof:parent_id":85805945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.770159,33.826007,-85.770159,33.826007],
-  "geometry": {"coordinates":[-85.770159,33.826007],"type":"Point"}
+  "bbox": [
+    -85.770159,
+    33.826007,
+    -85.770159,
+    33.826007
+],
+  "geometry": {"coordinates":[-85.77015900000001,33.826007],"type":"Point"}
 }

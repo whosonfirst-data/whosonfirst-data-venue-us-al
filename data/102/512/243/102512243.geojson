@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102512243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.857398,34.244526,-86.857398,34.244526",
     "geom:latitude":34.244526,
     "geom:longitude":-86.857398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"630 Co Rd 1354",
     "sg:city":"Vinemont",
     "sg:classifiers":[
@@ -35,10 +36,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085729,
-        85633793,
         85688675,
-        85867307
+        85633793,
+        85867307,
+        102085729
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":102512243,
-    "wof:lastmodified":1449069551,
+    "wof:lastmodified":1466316895,
     "wof:name":"Gary's Small Engine Repair",
     "wof:parent_id":85867307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.857398,34.244526,-86.857398,34.244526],
+  "bbox": [
+    -86.857398,
+    34.244526,
+    -86.857398,
+    34.244526
+],
   "geometry": {"coordinates":[-86.857398,34.244526],"type":"Point"}
 }

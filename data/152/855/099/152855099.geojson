@@ -2,13 +2,14 @@
   "id": 152855099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.984829,34.809218,-86.984829,34.809218",
     "geom:latitude":34.809218,
     "geom:longitude":-86.984829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 Wilburn St",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829531,
+        85688675,
         85633793,
         85913543,
         102085489,
-        85688675
+        85829531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152855099,
-    "wof:lastmodified":1449047711,
+    "wof:lastmodified":1466320054,
     "wof:name":"Athens Advertising Specialties",
     "wof:parent_id":85829531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.984829,34.809218,-86.984829,34.809218],
+  "bbox": [
+    -86.984829,
+    34.809218,
+    -86.984829,
+    34.809218
+],
   "geometry": {"coordinates":[-86.984829,34.809218],"type":"Point"}
 }

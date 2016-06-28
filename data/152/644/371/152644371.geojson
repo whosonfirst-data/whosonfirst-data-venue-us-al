@@ -2,13 +2,14 @@
   "id": 152644371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.515554,34.67263,-86.515554,34.67263",
     "geom:latitude":34.67263,
     "geom:longitude":-86.515554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Ledge View Dr",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85814971,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85814971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152644371,
-    "wof:lastmodified":1449046951,
+    "wof:lastmodified":1466319051,
     "wof:name":"Reeves Custom Homes Inc",
     "wof:parent_id":85814971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.515554,34.67263,-86.515554,34.67263],
-  "geometry": {"coordinates":[-86.515554,34.67263],"type":"Point"}
+  "bbox": [
+    -86.515554,
+    34.67263,
+    -86.515554,
+    34.67263
+],
+  "geometry": {"coordinates":[-86.51555399999999,34.67263],"type":"Point"}
 }

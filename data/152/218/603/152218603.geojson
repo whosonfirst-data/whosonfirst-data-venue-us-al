@@ -2,13 +2,14 @@
   "id": 152218603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.787975,33.401734,-86.787975,33.401734",
     "geom:latitude":33.401734,
     "geom:longitude":-86.787975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2240 Rocky Ridge Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848881,
+        85688675,
         85633793,
         85914475,
         102085481,
-        85688675
+        85848881
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152218603,
-    "wof:lastmodified":1449047228,
+    "wof:lastmodified":1466316064,
     "wof:name":"Disciples Fellowship",
     "wof:parent_id":85848881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.787975,33.401734,-86.787975,33.401734],
+  "bbox": [
+    -86.787975,
+    33.401734,
+    -86.787975,
+    33.401734
+],
   "geometry": {"coordinates":[-86.787975,33.401734],"type":"Point"}
 }

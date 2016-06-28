@@ -2,13 +2,14 @@
   "id": 152473537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.495965,34.315093,-86.495965,34.315093",
     "geom:latitude":34.315093,
     "geom:longitude":-86.495965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 S Main St",
     "sg:city":"Arab",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851541,
+        85688675,
         85633793,
         85913243,
         102085513,
-        85688675
+        85851541
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152473537,
-    "wof:lastmodified":1449045264,
+    "wof:lastmodified":1466318184,
     "wof:name":"Bara Building",
     "wof:parent_id":85851541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.495965,34.315093,-86.495965,34.315093],
+  "bbox": [
+    -86.495965,
+    34.315093,
+    -86.495965,
+    34.315093
+],
   "geometry": {"coordinates":[-86.495965,34.315093],"type":"Point"}
 }

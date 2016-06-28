@@ -2,13 +2,14 @@
   "id": 152250379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.285613,33.590561,-86.285613,33.590561",
     "geom:latitude":33.590561,
     "geom:longitude":-86.285613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 4th Ave N",
     "sg:city":"Pell City",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840553,
+        85688675,
         85633793,
         85913409,
         102085647,
-        85688675
+        85840553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152250379,
-    "wof:lastmodified":1449046940,
+    "wof:lastmodified":1466316542,
     "wof:name":"Wilcox Grahics",
     "wof:parent_id":85840553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.285613,33.590561,-86.285613,33.590561],
+  "bbox": [
+    -86.285613,
+    33.590561,
+    -86.285613,
+    33.590561
+],
   "geometry": {"coordinates":[-86.285613,33.590561],"type":"Point"}
 }

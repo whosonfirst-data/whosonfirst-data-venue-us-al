@@ -2,13 +2,14 @@
   "id": 152278639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.060284,30.69833,-88.060284,30.69833",
     "geom:latitude":30.69833,
     "geom:longitude":-88.060284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1102 Dr Martin L King Jr Ave",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878971,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152278639,
-    "wof:lastmodified":1449046855,
+    "wof:lastmodified":1466316935,
     "wof:name":"Sam's Snow Biz",
     "wof:parent_id":85878971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.060284,30.69833,-88.060284,30.69833],
+  "bbox": [
+    -88.060284,
+    30.69833,
+    -88.060284,
+    30.69833
+],
   "geometry": {"coordinates":[-88.060284,30.69833],"type":"Point"}
 }

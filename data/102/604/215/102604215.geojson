@@ -2,13 +2,14 @@
   "id": 102604215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.988148,34.295959,-85.988148,34.295959",
     "geom:latitude":34.295959,
     "geom:longitude":-85.988148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8601 State Rte 227",
     "sg:city":"Crossville",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102604215,
-    "wof:lastmodified":1449069905,
+    "wof:lastmodified":1466317124,
     "wof:name":"Alabama Machine Works",
     "wof:parent_id":85899405,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.988148,34.295959,-85.988148,34.295959],
+  "bbox": [
+    -85.988148,
+    34.295959,
+    -85.988148,
+    34.295959
+],
   "geometry": {"coordinates":[-85.988148,34.295959],"type":"Point"}
 }

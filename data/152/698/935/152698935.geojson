@@ -2,13 +2,14 @@
   "id": 152698935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.020185,33.221767,-87.020185,33.221767",
     "geom:latitude":33.221767,
     "geom:longitude":-87.020185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"688 Co Rd 13",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845631,
+        85688675,
         85633793,
         85914471,
         102085499,
-        85688675
+        85845631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152698935,
-    "wof:lastmodified":1449048639,
+    "wof:lastmodified":1466319467,
     "wof:name":"Argo Remodeling Company",
     "wof:parent_id":85845631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.020185,33.221767,-87.020185,33.221767],
+  "bbox": [
+    -87.020185,
+    33.221767,
+    -87.020185,
+    33.221767
+],
   "geometry": {"coordinates":[-87.020185,33.221767],"type":"Point"}
 }

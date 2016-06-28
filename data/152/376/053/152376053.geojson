@@ -2,13 +2,14 @@
   "id": 152376053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.748446,33.5609,-86.748446,33.5609",
     "geom:latitude":33.5609,
     "geom:longitude":-86.748446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5900 Messer Airport Hwy",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":152376053,
-    "wof:lastmodified":1449045884,
+    "wof:lastmodified":1466317690,
     "wof:name":"Airport Traffic Control Tower",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.748446,33.5609,-86.748446,33.5609],
+  "bbox": [
+    -86.748446,
+    33.5609,
+    -86.748446,
+    33.5609
+],
   "geometry": {"coordinates":[-86.748446,33.5609],"type":"Point"}
 }

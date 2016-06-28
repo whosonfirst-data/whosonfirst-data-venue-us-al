@@ -2,13 +2,14 @@
   "id": 152195197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.481041,33.237544,-86.481041,33.237544",
     "geom:latitude":33.237544,
     "geom:longitude":-86.481041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31195 State Rte 25",
     "sg:city":"Wilsonville",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85841999
+        85633793,
+        85841999,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152195197,
-    "wof:lastmodified":1449047336,
+    "wof:lastmodified":1466315872,
     "wof:name":"Jerry's Bait & Tackle",
     "wof:parent_id":85841999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.481041,33.237544,-86.481041,33.237544],
+  "bbox": [
+    -86.481041,
+    33.237544,
+    -86.481041,
+    33.237544
+],
   "geometry": {"coordinates":[-86.481041,33.237544],"type":"Point"}
 }

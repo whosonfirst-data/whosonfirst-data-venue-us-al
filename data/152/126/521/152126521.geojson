@@ -2,13 +2,14 @@
   "id": 152126521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.722021,33.456153,-86.722021,33.456153",
     "geom:latitude":33.456153,
     "geom:longitude":-86.722021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3336 Ridgely Cir",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856691,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85856691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152126521,
-    "wof:lastmodified":1449046012,
+    "wof:lastmodified":1466314793,
     "wof:name":"Acton Contractors Inc",
     "wof:parent_id":85856691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.722021,33.456153,-86.722021,33.456153],
+  "bbox": [
+    -86.722021,
+    33.456153,
+    -86.722021,
+    33.456153
+],
   "geometry": {"coordinates":[-86.722021,33.456153],"type":"Point"}
 }

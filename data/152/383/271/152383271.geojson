@@ -2,13 +2,14 @@
   "id": 152383271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.891312,30.550685,-87.891312,30.550685",
     "geom:latitude":30.550685,
     "geom:longitude":-87.891312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2603 US Hwy 98",
     "sg:city":"Daphne",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847563,
+        85688675,
         85633793,
         85914707,
         102085469,
-        85688675
+        85847563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":152383271,
-    "wof:lastmodified":1449046265,
+    "wof:lastmodified":1466317740,
     "wof:name":"Daphne Civic Ctr",
     "wof:parent_id":85847563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.891312,30.550685,-87.891312,30.550685],
+  "bbox": [
+    -87.891312,
+    30.550685,
+    -87.891312,
+    30.550685
+],
   "geometry": {"coordinates":[-87.891312,30.550685],"type":"Point"}
 }

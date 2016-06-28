@@ -2,13 +2,14 @@
   "id": 152893955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.268396,32.367407,-86.268396,32.367407",
     "geom:latitude":32.367407,
     "geom:longitude":-86.268396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2909 Chestnut St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85823265,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85823265
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152893955,
-    "wof:lastmodified":1449048047,
+    "wof:lastmodified":1466320323,
     "wof:name":"Deramus Hearing Aid Center",
     "wof:parent_id":85823265,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.268396,32.367407,-86.268396,32.367407],
+  "bbox": [
+    -86.268396,
+    32.367407,
+    -86.268396,
+    32.367407
+],
   "geometry": {"coordinates":[-86.268396,32.367407],"type":"Point"}
 }

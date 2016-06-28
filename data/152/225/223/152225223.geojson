@@ -2,13 +2,14 @@
   "id": 152225223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.292861,34.362873,-86.292861,34.362873",
     "geom:latitude":34.362873,
     "geom:longitude":-86.292861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"245 Hill Ave",
     "sg:city":"Guntersville",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850331,
+        85688675,
         85633793,
         85899833,
         102085513,
-        85688675
+        85850331
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152225223,
-    "wof:lastmodified":1449045743,
+    "wof:lastmodified":1466316308,
     "wof:name":"Dale Strange Construction",
     "wof:parent_id":85850331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.292861,34.362873,-86.292861,34.362873],
+  "bbox": [
+    -86.292861,
+    34.362873,
+    -86.292861,
+    34.362873
+],
   "geometry": {"coordinates":[-86.292861,34.362873],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152802233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.770727,30.884389,-87.770727,30.884389",
     "geom:latitude":30.884389,
     "geom:longitude":-87.770727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 US Hwy 31",
     "sg:city":"Bay Minette",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813343,
+        85688675,
         85633793,
         85914703,
         102085469,
-        85688675
+        85813343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152802233,
-    "wof:lastmodified":1449048057,
+    "wof:lastmodified":1466319861,
     "wof:name":"Herndon Oil Corp",
     "wof:parent_id":85813343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.770727,30.884389,-87.770727,30.884389],
-  "geometry": {"coordinates":[-87.770727,30.884389],"type":"Point"}
+  "bbox": [
+    -87.770727,
+    30.884389,
+    -87.770727,
+    30.884389
+],
+  "geometry": {"coordinates":[-87.77072699999999,30.884389],"type":"Point"}
 }

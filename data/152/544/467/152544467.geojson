@@ -2,13 +2,14 @@
   "id": 152544467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.837802,33.373388,-86.837802,33.373388",
     "geom:latitude":33.373388,
     "geom:longitude":-86.837802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3538 Atdoann Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827189,
+        85688675,
         85633793,
         85914475,
         102085481,
-        85688675
+        85827189
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152544467,
-    "wof:lastmodified":1449048897,
+    "wof:lastmodified":1466318583,
     "wof:name":"Good Book Foundation Inc",
     "wof:parent_id":85827189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.837802,33.373388,-86.837802,33.373388],
+  "bbox": [
+    -86.837802,
+    33.373388,
+    -86.837802,
+    33.373388
+],
   "geometry": {"coordinates":[-86.837802,33.373388],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152863801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.796607,33.776257,-85.796607,33.776257",
     "geom:latitude":33.776257,
     "geom:longitude":-85.796607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Morgans Meadow Ln",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805945,
+        85688675,
         85633793,
         85914293,
         102085603,
-        85688675
+        85805945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152863801,
-    "wof:lastmodified":1449047491,
+    "wof:lastmodified":1466320199,
     "wof:name":"Country Is",
     "wof:parent_id":85805945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.796607,33.776257,-85.796607,33.776257],
-  "geometry": {"coordinates":[-85.796607,33.776257],"type":"Point"}
+  "bbox": [
+    -85.796607,
+    33.776257,
+    -85.796607,
+    33.776257
+],
+  "geometry": {"coordinates":[-85.79660699999999,33.776257],"type":"Point"}
 }

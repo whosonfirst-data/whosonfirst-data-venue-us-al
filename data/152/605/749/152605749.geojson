@@ -2,13 +2,14 @@
   "id": 152605749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.807639,30.43729,-87.807639,30.43729",
     "geom:latitude":30.43729,
     "geom:longitude":-87.807639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14741 Ridge Rd",
     "sg:city":"Summerdale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854025,
+        85688675,
         85633793,
         85914707,
         102085469,
-        85688675
+        85854025
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152605749,
-    "wof:lastmodified":1449046557,
+    "wof:lastmodified":1466318889,
     "wof:name":"Sidwell Protection Svcs",
     "wof:parent_id":85854025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.807639,30.43729,-87.807639,30.43729],
-  "geometry": {"coordinates":[-87.807639,30.43729],"type":"Point"}
+  "bbox": [
+    -87.807639,
+    30.43729,
+    -87.807639,
+    30.43729
+],
+  "geometry": {"coordinates":[-87.80763899999999,30.43729],"type":"Point"}
 }

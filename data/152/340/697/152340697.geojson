@@ -2,13 +2,14 @@
   "id": 152340697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.507011,32.447496,-87.507011,32.447496",
     "geom:latitude":32.447496,
     "geom:longitude":-87.507011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"314 James Ave",
     "sg:city":"Uniontown",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152340697,
-    "wof:lastmodified":1449047864,
+    "wof:lastmodified":1466317543,
     "wof:name":"Mental Health-Mental Rtrdtn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.507011,32.447496,-87.507011,32.447496],
-  "geometry": {"coordinates":[-87.507011,32.447496],"type":"Point"}
+  "bbox": [
+    -87.507011,
+    32.447496,
+    -87.507011,
+    32.447496
+],
+  "geometry": {"coordinates":[-87.50701100000001,32.447496],"type":"Point"}
 }

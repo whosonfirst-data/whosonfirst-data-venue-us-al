@@ -2,13 +2,14 @@
   "id": 152615779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.616515,30.995458,-87.616515,30.995458",
     "geom:latitude":30.995458,
     "geom:longitude":-87.616515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"52668 US Hwy 31",
     "sg:city":"Perdido",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813343,
+        85688675,
         85633793,
         85914703,
         102085469,
-        85688675
+        85813343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152615779,
-    "wof:lastmodified":1449045765,
+    "wof:lastmodified":1466318947,
     "wof:name":"Hickey's Inc",
     "wof:parent_id":85813343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.616515,30.995458,-87.616515,30.995458],
-  "geometry": {"coordinates":[-87.616515,30.995458],"type":"Point"}
+  "bbox": [
+    -87.616515,
+    30.995458,
+    -87.616515,
+    30.995458
+],
+  "geometry": {"coordinates":[-87.61651500000001,30.995458],"type":"Point"}
 }

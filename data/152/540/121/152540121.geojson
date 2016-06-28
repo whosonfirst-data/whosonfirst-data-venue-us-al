@@ -2,13 +2,14 @@
   "id": 152540121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.286296,32.374515,-86.286296,32.374515",
     "geom:latitude":32.374515,
     "geom:longitude":-86.286296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"327 Cory St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809389,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85809389
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152540121,
-    "wof:lastmodified":1449046129,
+    "wof:lastmodified":1466318530,
     "wof:name":"Foundation Specialist",
     "wof:parent_id":85809389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.286296,32.374515,-86.286296,32.374515],
-  "geometry": {"coordinates":[-86.286296,32.374515],"type":"Point"}
+  "bbox": [
+    -86.286296,
+    32.374515,
+    -86.286296,
+    32.374515
+],
+  "geometry": {"coordinates":[-86.28629599999999,32.374515],"type":"Point"}
 }

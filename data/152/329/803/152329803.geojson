@@ -2,13 +2,14 @@
   "id": 152329803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.801204,34.473684,-85.801204,34.473684",
     "geom:latitude":34.473684,
     "geom:longitude":-85.801204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 Fortner Rd",
     "sg:city":"Rainsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815015,
+        85688675,
         85633793,
         85897515,
         102085615,
-        85688675
+        85815015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152329803,
-    "wof:lastmodified":1449045587,
+    "wof:lastmodified":1466317370,
     "wof:name":"Teresa's Trims",
     "wof:parent_id":85815015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.801204,34.473684,-85.801204,34.473684],
+  "bbox": [
+    -85.801204,
+    34.473684,
+    -85.801204,
+    34.473684
+],
   "geometry": {"coordinates":[-85.801204,34.473684],"type":"Point"}
 }

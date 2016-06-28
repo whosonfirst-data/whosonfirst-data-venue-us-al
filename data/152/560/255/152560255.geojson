@@ -2,13 +2,14 @@
   "id": 152560255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.899343,33.451724,-86.899343,33.451724",
     "geom:latitude":33.451724,
     "geom:longitude":-86.899343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4017 Jefferson Ave SW",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851831,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85851831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152560255,
-    "wof:lastmodified":1449047823,
+    "wof:lastmodified":1466318620,
     "wof:name":"Cox & Don Fence",
     "wof:parent_id":85851831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.899343,33.451724,-86.899343,33.451724],
+  "bbox": [
+    -86.899343,
+    33.451724,
+    -86.899343,
+    33.451724
+],
   "geometry": {"coordinates":[-86.899343,33.451724],"type":"Point"}
 }

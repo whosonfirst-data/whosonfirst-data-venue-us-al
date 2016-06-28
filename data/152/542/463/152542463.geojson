@@ -2,13 +2,14 @@
   "id": 152542463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.091968,32.420221,-85.091968,32.420221",
     "geom:latitude":32.420221,
     "geom:longitude":-85.091968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4131 Sandfort Rd",
     "sg:city":"Phenix City",
     "sg:classifiers":[
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152542463,
-    "wof:lastmodified":1449047886,
+    "wof:lastmodified":1466318532,
     "wof:name":"Last Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.091968,32.420221,-85.091968,32.420221],
-  "geometry": {"coordinates":[-85.091968,32.420221],"type":"Point"}
+  "bbox": [
+    -85.091968,
+    32.420221,
+    -85.091968,
+    32.420221
+],
+  "geometry": {"coordinates":[-85.09196799999999,32.420221],"type":"Point"}
 }

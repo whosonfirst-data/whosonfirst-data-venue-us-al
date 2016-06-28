@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102478945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.568193,33.543253,-86.568193,33.543253",
     "geom:latitude":33.543253,
     "geom:longitude":-86.568193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"962 Parkway Dr SW",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847425,
+        85688675,
         85633793,
         85913477,
         102085481,
-        85688675
+        85847425
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102478945,
-    "wof:lastmodified":1449067848,
+    "wof:lastmodified":1466314899,
     "wof:name":"Sunbelt Heating & Air",
     "wof:parent_id":85847425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.568193,33.543253,-86.568193,33.543253],
-  "geometry": {"coordinates":[-86.568193,33.543253],"type":"Point"}
+  "bbox": [
+    -86.568193,
+    33.543253,
+    -86.568193,
+    33.543253
+],
+  "geometry": {"coordinates":[-86.56819299999999,33.543253],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152644341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.912844,30.642245,-87.912844,30.642245",
     "geom:latitude":30.642245,
     "geom:longitude":-87.912844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28691 US Hwy 98",
     "sg:city":"Daphne",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840537,
+        85688675,
         85633793,
         85914695,
         102085469,
-        85688675
+        85840537
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152644341,
-    "wof:lastmodified":1449046954,
+    "wof:lastmodified":1466319050,
     "wof:name":"Kathy's Package Store",
     "wof:parent_id":85840537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.912844,30.642245,-87.912844,30.642245],
-  "geometry": {"coordinates":[-87.912844,30.642245],"type":"Point"}
+  "bbox": [
+    -87.912844,
+    30.642245,
+    -87.912844,
+    30.642245
+],
+  "geometry": {"coordinates":[-87.91284400000001,30.642245],"type":"Point"}
 }

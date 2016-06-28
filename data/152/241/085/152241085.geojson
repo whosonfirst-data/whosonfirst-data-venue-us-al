@@ -2,13 +2,14 @@
   "id": 152241085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.55393,33.126626,-87.55393,33.126626",
     "geom:latitude":33.126626,
     "geom:longitude":-87.55393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9610 Old Greensboro Rd",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085553,
-        85633793,
         85688675,
-        85851887
+        85633793,
+        85851887,
+        102085553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152241085,
-    "wof:lastmodified":1449048788,
+    "wof:lastmodified":1466316408,
     "wof:name":"Dave's Plumbing & Remolding",
     "wof:parent_id":85851887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.55393,33.126626,-87.55393,33.126626],
-  "geometry": {"coordinates":[-87.55393,33.126626],"type":"Point"}
+  "bbox": [
+    -87.55393,
+    33.126626,
+    -87.55393,
+    33.126626
+],
+  "geometry": {"coordinates":[-87.55392999999999,33.126626],"type":"Point"}
 }

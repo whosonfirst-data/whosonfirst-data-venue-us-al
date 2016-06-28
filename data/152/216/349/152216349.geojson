@@ -2,13 +2,14 @@
   "id": 152216349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.647777,33.235892,-87.647777,33.235892",
     "geom:latitude":33.235892,
     "geom:longitude":-87.647777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8211 US Hwy 82",
     "sg:city":"Northport",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811495,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85811495
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152216349,
-    "wof:lastmodified":1449048394,
+    "wof:lastmodified":1466315988,
     "wof:name":"Game & Fish Ofc",
     "wof:parent_id":85811495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.647777,33.235892,-87.647777,33.235892],
+  "bbox": [
+    -87.647777,
+    33.235892,
+    -87.647777,
+    33.235892
+],
   "geometry": {"coordinates":[-87.647777,33.235892],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102476887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.071295,30.812924,-88.071295,30.812924",
     "geom:latitude":30.812924,
     "geom:longitude":-88.071295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 McKeough Ave",
     "sg:city":"Saraland",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085469,
-        85633793,
         85688675,
-        85878983
+        85633793,
+        85878983,
+        102085469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102476887,
-    "wof:lastmodified":1449068743,
+    "wof:lastmodified":1466315445,
     "wof:name":"Danny Miller Painting",
     "wof:parent_id":85878983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.071295,30.812924,-88.071295,30.812924],
-  "geometry": {"coordinates":[-88.071295,30.812924],"type":"Point"}
+  "bbox": [
+    -88.071295,
+    30.812924,
+    -88.071295,
+    30.812924
+],
+  "geometry": {"coordinates":[-88.07129500000001,30.812924],"type":"Point"}
 }

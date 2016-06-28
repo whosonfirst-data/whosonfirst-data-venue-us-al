@@ -2,13 +2,14 @@
   "id": 152876317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.464783,32.60667,-85.464783,32.60667",
     "geom:latitude":32.60667,
     "geom:longitude":-85.464783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 N Dean Rd",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851953,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85851953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152876317,
-    "wof:lastmodified":1449045233,
+    "wof:lastmodified":1466320229,
     "wof:name":"Speakman & Speakman",
     "wof:parent_id":85851953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.464783,32.60667,-85.464783,32.60667],
+  "bbox": [
+    -85.464783,
+    32.60667,
+    -85.464783,
+    32.60667
+],
   "geometry": {"coordinates":[-85.464783,32.60667],"type":"Point"}
 }

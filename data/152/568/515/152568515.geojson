@@ -2,13 +2,14 @@
   "id": 152568515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.515663,33.262685,-87.515663,33.262685",
     "geom:latitude":33.262685,
     "geom:longitude":-87.515663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4851 Rice Mine Rd NE",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829313,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85829313
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152568515,
-    "wof:lastmodified":1449044174,
+    "wof:lastmodified":1466318678,
     "wof:name":"New China Restaurant",
     "wof:parent_id":85829313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.515663,33.262685,-87.515663,33.262685],
+  "bbox": [
+    -87.515663,
+    33.262685,
+    -87.515663,
+    33.262685
+],
   "geometry": {"coordinates":[-87.515663,33.262685],"type":"Point"}
 }

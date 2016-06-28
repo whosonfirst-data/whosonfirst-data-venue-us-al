@@ -2,13 +2,14 @@
   "id": 152665043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.066065,31.415999,-86.066065,31.415999",
     "geom:latitude":31.415999,
     "geom:longitude":-86.066065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 W Collier St",
     "sg:city":"Elba",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837695,
+        85688675,
         85633793,
         85899527,
         102085699,
-        85688675
+        85837695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152665043,
-    "wof:lastmodified":1449045719,
+    "wof:lastmodified":1466319168,
     "wof:name":"HUMAN Resource Developmnt Corp",
     "wof:parent_id":85837695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.066065,31.415999,-86.066065,31.415999],
-  "geometry": {"coordinates":[-86.066065,31.415999],"type":"Point"}
+  "bbox": [
+    -86.066065,
+    31.415999,
+    -86.066065,
+    31.415999
+],
+  "geometry": {"coordinates":[-86.06606499999999,31.415999],"type":"Point"}
 }

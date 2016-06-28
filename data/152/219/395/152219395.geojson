@@ -2,13 +2,14 @@
   "id": 152219395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.88636,33.337371,-86.88636,33.337371",
     "geom:latitude":33.337371,
     "geom:longitude":-86.88636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3631 Guyton Ridge Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840797,
+        85688675,
         85633793,
         85914475,
         102085481,
-        85688675
+        85840797
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152219395,
-    "wof:lastmodified":1449048728,
+    "wof:lastmodified":1466316163,
     "wof:name":"Pendleton Interiors",
     "wof:parent_id":85840797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.88636,33.337371,-86.88636,33.337371],
+  "bbox": [
+    -86.88636,
+    33.337371,
+    -86.88636,
+    33.337371
+],
   "geometry": {"coordinates":[-86.88636,33.337371],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152231507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.781554,33.49587,-86.781554,33.49587",
     "geom:latitude":33.49587,
     "geom:longitude":-86.781554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 Cahaba Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.shophenhouseantiques.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876275,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152231507,
-    "wof:lastmodified":1449046665,
+    "wof:lastmodified":1466316325,
     "wof:name":"Hen House Antiques",
     "wof:parent_id":85876275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.781554,33.49587,-86.781554,33.49587],
+  "bbox": [
+    -86.781554,
+    33.49587,
+    -86.781554,
+    33.49587
+],
   "geometry": {"coordinates":[-86.781554,33.49587],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152561391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.28348,32.385537,-86.28348,32.385537",
     "geom:latitude":32.385537,
     "geom:longitude":-86.28348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1705 Upper Wetumpka Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825469,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85825469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152561391,
-    "wof:lastmodified":1449047575,
+    "wof:lastmodified":1466318630,
     "wof:name":"Capitol Heights Mini Mart",
     "wof:parent_id":85825469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.28348,32.385537,-86.28348,32.385537],
+  "bbox": [
+    -86.28348,
+    32.385537,
+    -86.28348,
+    32.385537
+],
   "geometry": {"coordinates":[-86.28348,32.385537],"type":"Point"}
 }

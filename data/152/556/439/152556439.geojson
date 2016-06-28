@@ -2,13 +2,14 @@
   "id": 152556439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.132265,30.676013,-88.132265,30.676013",
     "geom:latitude":30.676013,
     "geom:longitude":-88.132265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3661 Airport Blvd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878977,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152556439,
-    "wof:lastmodified":1449045439,
+    "wof:lastmodified":1466318722,
     "wof:name":"Oasis Telecom Inc",
     "wof:parent_id":85878977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.132265,30.676013,-88.132265,30.676013],
+  "bbox": [
+    -88.132265,
+    30.676013,
+    -88.132265,
+    30.676013
+],
   "geometry": {"coordinates":[-88.132265,30.676013],"type":"Point"}
 }

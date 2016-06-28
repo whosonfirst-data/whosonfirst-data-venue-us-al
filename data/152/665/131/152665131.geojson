@@ -2,13 +2,14 @@
   "id": 152665131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.600273,34.696584,-86.600273,34.696584",
     "geom:latitude":34.696584,
     "geom:longitude":-86.600273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2807 Hood Rd SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85810591,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85810591
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152665131,
-    "wof:lastmodified":1449045720,
+    "wof:lastmodified":1466319173,
     "wof:name":"Korean First Baptist Church",
     "wof:parent_id":85810591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.600273,34.696584,-86.600273,34.696584],
+  "bbox": [
+    -86.600273,
+    34.696584,
+    -86.600273,
+    34.696584
+],
   "geometry": {"coordinates":[-86.600273,34.696584],"type":"Point"}
 }

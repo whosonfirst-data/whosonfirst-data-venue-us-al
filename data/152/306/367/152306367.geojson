@@ -2,13 +2,14 @@
   "id": 152306367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.451673,32.460486,-86.451673,32.460486",
     "geom:latitude":32.460486,
     "geom:longitude":-86.451673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"815 E Main St",
     "sg:city":"Prattville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858019,
+        85688675,
         85633793,
         85913977,
         102085509,
-        85688675
+        85858019
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152306367,
-    "wof:lastmodified":1449048706,
+    "wof:lastmodified":1466317157,
     "wof:name":"Fortune Lucky Chinese Buffet",
     "wof:parent_id":85858019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.451673,32.460486,-86.451673,32.460486],
+  "bbox": [
+    -86.451673,
+    32.460486,
+    -86.451673,
+    32.460486
+],
   "geometry": {"coordinates":[-86.451673,32.460486],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102471441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.528691,33.166266,-87.528691,33.166266",
     "geom:latitude":33.166266,
     "geom:longitude":-87.528691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"538 Dogwood Ln",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085553,
-        85633793,
         85688675,
-        85827473
+        85633793,
+        85827473,
+        102085553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102471441,
-    "wof:lastmodified":1449068728,
+    "wof:lastmodified":1466315300,
     "wof:name":"Omicron Epsilon PI Sorrity",
     "wof:parent_id":85827473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.528691,33.166266,-87.528691,33.166266],
-  "geometry": {"coordinates":[-87.528691,33.166266],"type":"Point"}
+  "bbox": [
+    -87.528691,
+    33.166266,
+    -87.528691,
+    33.166266
+],
+  "geometry": {"coordinates":[-87.52869099999999,33.166266],"type":"Point"}
 }

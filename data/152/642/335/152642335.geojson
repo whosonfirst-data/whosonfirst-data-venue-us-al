@@ -2,13 +2,14 @@
   "id": 152642335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.742426,30.415779,-87.742426,30.415779",
     "geom:latitude":30.415779,
     "geom:longitude":-87.742426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13080 Co Rd 55",
     "sg:city":"Foley",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868551,
+        85688675,
         85633793,
         85914719,
         102085469,
-        85688675
+        85868551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152642335,
-    "wof:lastmodified":1449044569,
+    "wof:lastmodified":1466319057,
     "wof:name":"Brisbin Music",
     "wof:parent_id":85868551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.742426,30.415779,-87.742426,30.415779],
-  "geometry": {"coordinates":[-87.742426,30.415779],"type":"Point"}
+  "bbox": [
+    -87.742426,
+    30.415779,
+    -87.742426,
+    30.415779
+],
+  "geometry": {"coordinates":[-87.74242599999999,30.415779],"type":"Point"}
 }

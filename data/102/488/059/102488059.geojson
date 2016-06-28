@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102488059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.752829,33.576049,-86.752829,33.576049",
     "geom:latitude":33.576049,
     "geom:longitude":-86.752829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5300 57th St N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833583,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85833583
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102488059,
-    "wof:lastmodified":1449070151,
+    "wof:lastmodified":1466316047,
     "wof:name":"Alabama National Guard",
     "wof:parent_id":85833583,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.752829,33.576049,-86.752829,33.576049],
-  "geometry": {"coordinates":[-86.752829,33.576049],"type":"Point"}
+  "bbox": [
+    -86.752829,
+    33.576049,
+    -86.752829,
+    33.576049
+],
+  "geometry": {"coordinates":[-86.75282900000001,33.576049],"type":"Point"}
 }

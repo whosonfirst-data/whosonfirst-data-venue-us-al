@@ -2,13 +2,14 @@
   "id": 152757329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.859097,34.193462,-86.859097,34.193462",
     "geom:latitude":34.193462,
     "geom:longitude":-86.859097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1536 Sportsmans Lake Rd NW",
     "sg:city":"Cullman",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085729,
-        85633793,
         85688675,
-        85867309
+        85633793,
+        85867309,
+        102085729
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152757329,
-    "wof:lastmodified":1449046908,
+    "wof:lastmodified":1466319628,
     "wof:name":"Sportsman Lake Park",
     "wof:parent_id":85867309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.859097,34.193462,-86.859097,34.193462],
-  "geometry": {"coordinates":[-86.859097,34.193462],"type":"Point"}
+  "bbox": [
+    -86.859097,
+    34.193462,
+    -86.859097,
+    34.193462
+],
+  "geometry": {"coordinates":[-86.85909700000001,34.193462],"type":"Point"}
 }

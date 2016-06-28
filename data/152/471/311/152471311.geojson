@@ -2,13 +2,14 @@
   "id": 152471311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.964719,31.78916,-85.964719,31.78916",
     "geom:latitude":31.78916,
     "geom:longitude":-85.964719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1311 S Brundidge St",
     "sg:city":"Troy",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867315,
+        85688675,
         85633793,
         85914551,
         102085619,
-        85688675
+        85867315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152471311,
-    "wof:lastmodified":1449046160,
+    "wof:lastmodified":1466318163,
     "wof:name":"Community Healthcare",
     "wof:parent_id":85867315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.964719,31.78916,-85.964719,31.78916],
+  "bbox": [
+    -85.964719,
+    31.78916,
+    -85.964719,
+    31.78916
+],
   "geometry": {"coordinates":[-85.964719,31.78916],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102517323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.296567,32.369596,-86.296567,32.369596",
     "geom:latitude":32.369596,
     "geom:longitude":-86.296567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"860 Grove St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811493,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85811493
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102517323,
-    "wof:lastmodified":1449069121,
+    "wof:lastmodified":1466317101,
     "wof:name":"Cell Ministries",
     "wof:parent_id":85811493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.296567,32.369596,-86.296567,32.369596],
+  "bbox": [
+    -86.296567,
+    32.369596,
+    -86.296567,
+    32.369596
+],
   "geometry": {"coordinates":[-86.296567,32.369596],"type":"Point"}
 }

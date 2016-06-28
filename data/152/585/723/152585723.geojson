@@ -2,13 +2,14 @@
   "id": 152585723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.698839,34.756566,-87.698839,34.756566",
     "geom:latitude":34.756566,
     "geom:longitude":-87.698839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 S Montgomery Ave",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858837,
+        85688675,
         85633793,
         85897473,
         102085625,
-        85688675
+        85858837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152585723,
-    "wof:lastmodified":1449047370,
+    "wof:lastmodified":1466318787,
     "wof:name":"Pizza Plus II",
     "wof:parent_id":85858837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.698839,34.756566,-87.698839,34.756566],
-  "geometry": {"coordinates":[-87.698839,34.756566],"type":"Point"}
+  "bbox": [
+    -87.698839,
+    34.756566,
+    -87.698839,
+    34.756566
+],
+  "geometry": {"coordinates":[-87.69883900000001,34.756566],"type":"Point"}
 }

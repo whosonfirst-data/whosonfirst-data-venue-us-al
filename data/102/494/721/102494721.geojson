@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102494721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.105142,30.551817,-88.105142,30.551817",
     "geom:latitude":30.551817,
     "geom:longitude":-88.105142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2450 Island Rd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085585,
-        85633793,
         85688675,
-        85878941
+        85633793,
+        85878941,
+        102085585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102494721,
-    "wof:lastmodified":1449069928,
+    "wof:lastmodified":1466316344,
     "wof:name":"Hollingers Island Bptst Church",
     "wof:parent_id":85878941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.105142,30.551817,-88.105142,30.551817],
+  "bbox": [
+    -88.105142,
+    30.551817,
+    -88.105142,
+    30.551817
+],
   "geometry": {"coordinates":[-88.105142,30.551817],"type":"Point"}
 }

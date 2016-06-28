@@ -2,13 +2,14 @@
   "id": 152795941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.400411,32.400756,-86.400411,32.400756",
     "geom:latitude":32.400756,
     "geom:longitude":-86.400411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4720 Birmingham Hwy",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856867,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85856867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152795941,
-    "wof:lastmodified":1449047035,
+    "wof:lastmodified":1466319828,
     "wof:name":"Air Flow Awning Company Inc",
     "wof:parent_id":85856867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.400411,32.400756,-86.400411,32.400756],
-  "geometry": {"coordinates":[-86.400411,32.400756],"type":"Point"}
+  "bbox": [
+    -86.400411,
+    32.400756,
+    -86.400411,
+    32.400756
+],
+  "geometry": {"coordinates":[-86.40041100000001,32.400756],"type":"Point"}
 }

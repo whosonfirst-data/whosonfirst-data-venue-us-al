@@ -2,13 +2,14 @@
   "id": 152533407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.117999,30.689565,-88.117999,30.689565",
     "geom:latitude":30.689565,
     "geom:longitude":-88.117999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3155 Dauphin St",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878965,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152533407,
-    "wof:lastmodified":1449044231,
+    "wof:lastmodified":1466318492,
     "wof:name":"Radney Funeral Homes",
     "wof:parent_id":85878965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.117999,30.689565,-88.117999,30.689565],
+  "bbox": [
+    -88.117999,
+    30.689565,
+    -88.117999,
+    30.689565
+],
   "geometry": {"coordinates":[-88.117999,30.689565],"type":"Point"}
 }

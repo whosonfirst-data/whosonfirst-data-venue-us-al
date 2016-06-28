@@ -2,13 +2,14 @@
   "id": 152580391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.745966,33.897151,-85.745966,33.897151",
     "geom:latitude":33.897151,
     "geom:longitude":-85.745966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"775 Foster West Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817157,
+        85688675,
         85633793,
         85914293,
         102085603,
-        85688675
+        85817157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152580391,
-    "wof:lastmodified":1449047413,
+    "wof:lastmodified":1466318994,
     "wof:name":"Boozer & Johnson Construction",
     "wof:parent_id":85817157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.745966,33.897151,-85.745966,33.897151],
+  "bbox": [
+    -85.745966,
+    33.897151,
+    -85.745966,
+    33.897151
+],
   "geometry": {"coordinates":[-85.745966,33.897151],"type":"Point"}
 }

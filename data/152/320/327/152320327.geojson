@@ -2,13 +2,14 @@
   "id": 152320327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.446701,32.45508,-86.446701,32.45508",
     "geom:latitude":32.45508,
     "geom:longitude":-86.446701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"906 S Memorial Dr",
     "sg:city":"Prattville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843041,
+        85688675,
         85633793,
         85913977,
         102085509,
-        85688675
+        85843041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152320327,
-    "wof:lastmodified":1449045465,
+    "wof:lastmodified":1466317307,
     "wof:name":"Split-Ends",
     "wof:parent_id":85843041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.446701,32.45508,-86.446701,32.45508],
+  "bbox": [
+    -86.446701,
+    32.45508,
+    -86.446701,
+    32.45508
+],
   "geometry": {"coordinates":[-86.446701,32.45508],"type":"Point"}
 }

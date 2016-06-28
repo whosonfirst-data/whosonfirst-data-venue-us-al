@@ -2,13 +2,14 @@
   "id": 152650591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.747404,34.797105,-86.747404,34.797105",
     "geom:latitude":34.797105,
     "geom:longitude":-86.747404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Stonebrier Ln",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085487,
-        85633793,
         85688675,
-        85838413
+        85633793,
+        85838413,
+        102085487
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152650591,
-    "wof:lastmodified":1449047121,
+    "wof:lastmodified":1466319119,
     "wof:name":"Adams Homes LLC",
     "wof:parent_id":85838413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.747404,34.797105,-86.747404,34.797105],
+  "bbox": [
+    -86.747404,
+    34.797105,
+    -86.747404,
+    34.797105
+],
   "geometry": {"coordinates":[-86.747404,34.797105],"type":"Point"}
 }

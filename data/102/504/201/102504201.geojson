@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102504201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.748655,34.668022,-86.748655,34.668022",
     "geom:latitude":34.668022,
     "geom:longitude":-86.748655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"290 Cochran Rd SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831899,
+        85688675,
         85633793,
         85913593,
         102085487,
-        85688675
+        85831899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":102504201,
-    "wof:lastmodified":1449068237,
+    "wof:lastmodified":1466316564,
     "wof:name":"Applied Data Trends Inc",
     "wof:parent_id":85831899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.748655,34.668022,-86.748655,34.668022],
+  "bbox": [
+    -86.748655,
+    34.668022,
+    -86.748655,
+    34.668022
+],
   "geometry": {"coordinates":[-86.748655,34.668022],"type":"Point"}
 }

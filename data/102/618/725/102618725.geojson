@@ -2,13 +2,14 @@
   "id": 102618725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.767525,33.538443,-86.767525,33.538443",
     "geom:latitude":33.538443,
     "geom:longitude":-86.767525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4600 8th Ct N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858829,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85858829
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102618725,
-    "wof:lastmodified":1449069261,
+    "wof:lastmodified":1466317382,
     "wof:name":"Birmingham Housing Authority",
     "wof:parent_id":85858829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.767525,33.538443,-86.767525,33.538443],
-  "geometry": {"coordinates":[-86.767525,33.538443],"type":"Point"}
+  "bbox": [
+    -86.767525,
+    33.538443,
+    -86.767525,
+    33.538443
+],
+  "geometry": {"coordinates":[-86.76752500000001,33.538443],"type":"Point"}
 }

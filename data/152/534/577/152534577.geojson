@@ -2,13 +2,14 @@
   "id": 152534577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.196391,30.656993,-88.196391,30.656993",
     "geom:latitude":30.656993,
     "geom:longitude":-88.196391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1608 Abbeywood Dr",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851319,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85851319
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152534577,
-    "wof:lastmodified":1449045502,
+    "wof:lastmodified":1466318439,
     "wof:name":"Pillars Inc",
     "wof:parent_id":85851319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.196391,30.656993,-88.196391,30.656993],
-  "geometry": {"coordinates":[-88.196391,30.656993],"type":"Point"}
+  "bbox": [
+    -88.196391,
+    30.656993,
+    -88.196391,
+    30.656993
+],
+  "geometry": {"coordinates":[-88.19639100000001,30.656993],"type":"Point"}
 }

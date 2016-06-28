@@ -2,13 +2,14 @@
   "id": 152218391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.687058,32.419598,-85.687058,32.419598",
     "geom:latitude":32.419598,
     "geom:longitude":-85.687058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Gautier St",
     "sg:city":"Tuskegee",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152218391,
-    "wof:lastmodified":1449047227,
+    "wof:lastmodified":1466316058,
     "wof:name":"Tuskegee Light Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.687058,32.419598,-85.687058,32.419598],
-  "geometry": {"coordinates":[-85.687058,32.419598],"type":"Point"}
+  "bbox": [
+    -85.687058,
+    32.419598,
+    -85.687058,
+    32.419598
+],
+  "geometry": {"coordinates":[-85.68705799999999,32.419598],"type":"Point"}
 }

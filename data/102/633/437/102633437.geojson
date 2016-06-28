@@ -2,13 +2,14 @@
   "id": 102633437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.702231,33.421061,-86.702231,33.421061",
     "geom:latitude":33.421061,
     "geom:longitude":-86.702231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Inverness Center Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85826983
+        85633793,
+        85826983,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102633437,
-    "wof:lastmodified":1449070193,
+    "wof:lastmodified":1466317520,
     "wof:name":"Altec Equipment Solutions LLC",
     "wof:parent_id":85826983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.702231,33.421061,-86.702231,33.421061],
+  "bbox": [
+    -86.702231,
+    33.421061,
+    -86.702231,
+    33.421061
+],
   "geometry": {"coordinates":[-86.702231,33.421061],"type":"Point"}
 }

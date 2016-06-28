@@ -2,13 +2,14 @@
   "id": 152296395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.714456,34.752916,-86.714456,34.752916",
     "geom:latitude":34.752916,
     "geom:longitude":-86.714456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1871 Slaughter Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851107,
+        85688675,
         85633793,
         85913593,
         102085487,
-        85688675
+        85851107
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152296395,
-    "wof:lastmodified":1449048063,
+    "wof:lastmodified":1466317065,
     "wof:name":"Access Management Corp",
     "wof:parent_id":85851107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.714456,34.752916,-86.714456,34.752916],
+  "bbox": [
+    -86.714456,
+    34.752916,
+    -86.714456,
+    34.752916
+],
   "geometry": {"coordinates":[-86.714456,34.752916],"type":"Point"}
 }

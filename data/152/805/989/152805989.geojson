@@ -2,13 +2,14 @@
   "id": 152805989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.68391,34.81991,-87.68391,34.81991",
     "geom:latitude":34.81991,
     "geom:longitude":-87.68391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1408 N Pine St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848857,
+        85688675,
         85633793,
         85914011,
         102085527,
-        85688675
+        85848857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152805989,
-    "wof:lastmodified":1449045852,
+    "wof:lastmodified":1466319916,
     "wof:name":"Creative Edge Salon",
     "wof:parent_id":85848857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.68391,34.81991,-87.68391,34.81991],
+  "bbox": [
+    -87.68391,
+    34.81991,
+    -87.68391,
+    34.81991
+],
   "geometry": {"coordinates":[-87.68391,34.81991],"type":"Point"}
 }

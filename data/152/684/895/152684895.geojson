@@ -2,13 +2,14 @@
   "id": 152684895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.249016,32.355228,-86.249016,32.355228",
     "geom:latitude":32.355228,
     "geom:longitude":-86.249016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1719 Radcliff Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85839481,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85839481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152684895,
-    "wof:lastmodified":1449045443,
+    "wof:lastmodified":1466319279,
     "wof:name":"T & J Concrete Inc",
     "wof:parent_id":85839481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.249016,32.355228,-86.249016,32.355228],
+  "bbox": [
+    -86.249016,
+    32.355228,
+    -86.249016,
+    32.355228
+],
   "geometry": {"coordinates":[-86.249016,32.355228],"type":"Point"}
 }

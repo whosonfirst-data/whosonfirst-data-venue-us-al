@@ -2,13 +2,14 @@
   "id": 152414331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.730511,34.630864,-86.730511,34.630864",
     "geom:latitude":34.630864,
     "geom:longitude":-86.730511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Turnstone Ct",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85838799,
+        85688675,
         85633793,
         85915405,
         102085487,
-        85688675
+        85838799
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152414331,
-    "wof:lastmodified":1449046467,
+    "wof:lastmodified":1466317908,
     "wof:name":"Empire Cnc Services Inc",
     "wof:parent_id":85838799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.730511,34.630864,-86.730511,34.630864],
-  "geometry": {"coordinates":[-86.730511,34.630864],"type":"Point"}
+  "bbox": [
+    -86.730511,
+    34.630864,
+    -86.730511,
+    34.630864
+],
+  "geometry": {"coordinates":[-86.73051100000001,34.630864],"type":"Point"}
 }

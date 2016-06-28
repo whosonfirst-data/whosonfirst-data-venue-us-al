@@ -2,13 +2,14 @@
   "id": 152345939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.043263,33.957122,-86.043263,33.957122",
     "geom:latitude":33.957122,
     "geom:longitude":-86.043263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"180 Independent Dr",
     "sg:city":"Rainbow City",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85835237,
+        85688675,
         85633793,
         85914367,
         102085545,
-        85688675
+        85835237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152345939,
-    "wof:lastmodified":1449048556,
+    "wof:lastmodified":1466317658,
     "wof:name":"John A Davis DMD",
     "wof:parent_id":85835237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.043263,33.957122,-86.043263,33.957122],
+  "bbox": [
+    -86.043263,
+    33.957122,
+    -86.043263,
+    33.957122
+],
   "geometry": {"coordinates":[-86.043263,33.957122],"type":"Point"}
 }

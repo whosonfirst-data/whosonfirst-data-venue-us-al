@@ -2,13 +2,14 @@
   "id": 152536063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.72925,33.595895,-86.72925,33.595895",
     "geom:latitude":33.595895,
     "geom:longitude":-86.72925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9825 Westfield Ct",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845635,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85845635
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152536063,
-    "wof:lastmodified":1449047053,
+    "wof:lastmodified":1466318525,
     "wof:name":"Northeast Metro Womens PC",
     "wof:parent_id":85845635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.72925,33.595895,-86.72925,33.595895],
-  "geometry": {"coordinates":[-86.72925,33.595895],"type":"Point"}
+  "bbox": [
+    -86.72925,
+    33.595895,
+    -86.72925,
+    33.595895
+],
+  "geometry": {"coordinates":[-86.72924999999999,33.595895],"type":"Point"}
 }

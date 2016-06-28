@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102456149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.601871,34.729693,-86.601871,34.729693",
     "geom:latitude":34.729693,
     "geom:longitude":-86.601871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2305 Holmes Ave NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.espn1450.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851965,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85851965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102456149,
-    "wof:lastmodified":1449068492,
+    "wof:lastmodified":1466314821,
     "wof:name":"WTKI",
     "wof:parent_id":85851965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.601871,34.729693,-86.601871,34.729693],
+  "bbox": [
+    -86.601871,
+    34.729693,
+    -86.601871,
+    34.729693
+],
   "geometry": {"coordinates":[-86.601871,34.729693],"type":"Point"}
 }

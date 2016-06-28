@@ -2,13 +2,14 @@
   "id": 152135213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.811404,34.324565,-86.811404,34.324565",
     "geom:latitude":34.324565,
     "geom:longitude":-86.811404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"536 Hills Chapel Rd",
     "sg:city":"Falkville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851807,
+        85688675,
         85633793,
         85914103,
         102085531,
-        85688675
+        85851807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152135213,
-    "wof:lastmodified":1449046080,
+    "wof:lastmodified":1466315282,
     "wof:name":"Hills Chapel Church Of God",
     "wof:parent_id":85851807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.811404,34.324565,-86.811404,34.324565],
+  "bbox": [
+    -86.811404,
+    34.324565,
+    -86.811404,
+    34.324565
+],
   "geometry": {"coordinates":[-86.811404,34.324565],"type":"Point"}
 }

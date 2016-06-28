@@ -2,13 +2,14 @@
   "id": 152377557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.206999,32.397119,-86.206999,32.397119",
     "geom:latitude":32.397119,
     "geom:longitude":-86.206999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"615 Oliver Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834995,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85834995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152377557,
-    "wof:lastmodified":1449046042,
+    "wof:lastmodified":1466317721,
     "wof:name":"Floyd Goolsby Tile Company",
     "wof:parent_id":85834995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.206999,32.397119,-86.206999,32.397119],
+  "bbox": [
+    -86.206999,
+    32.397119,
+    -86.206999,
+    32.397119
+],
   "geometry": {"coordinates":[-86.206999,32.397119],"type":"Point"}
 }

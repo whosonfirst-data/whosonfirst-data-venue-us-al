@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102506581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.178139,32.382356,-86.178139,32.382356",
     "geom:latitude":32.382356,
     "geom:longitude":-86.178139,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6824 Atlanta Hwy",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834671,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85834671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102506581,
-    "wof:lastmodified":1449067818,
+    "wof:lastmodified":1466316633,
     "wof:name":"Mini Mart",
     "wof:parent_id":85834671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.178139,32.382356,-86.178139,32.382356],
+  "bbox": [
+    -86.178139,
+    32.382356,
+    -86.178139,
+    32.382356
+],
   "geometry": {"coordinates":[-86.178139,32.382356],"type":"Point"}
 }

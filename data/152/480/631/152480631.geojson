@@ -2,13 +2,14 @@
   "id": 152480631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.457753,31.26108,-85.457753,31.26108",
     "geom:latitude":31.26108,
     "geom:longitude":-85.457753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"507 Overlook Dr",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840987,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85840987
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152480631,
-    "wof:lastmodified":1449045812,
+    "wof:lastmodified":1466318321,
     "wof:name":"Ford Thomas",
     "wof:parent_id":85840987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.457753,31.26108,-85.457753,31.26108],
+  "bbox": [
+    -85.457753,
+    31.26108,
+    -85.457753,
+    31.26108
+],
   "geometry": {"coordinates":[-85.457753,31.26108],"type":"Point"}
 }

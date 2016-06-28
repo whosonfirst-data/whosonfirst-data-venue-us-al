@@ -2,13 +2,14 @@
   "id": 152800265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.682979,30.348769,-87.682979,30.348769",
     "geom:latitude":30.348769,
     "geom:longitude":-87.682979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8207 State Rte 59",
     "sg:city":"Foley",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868551,
+        85688675,
         85633793,
         85914719,
         102085469,
-        85688675
+        85868551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152800265,
-    "wof:lastmodified":1449044668,
+    "wof:lastmodified":1466319999,
     "wof:name":"Smith Home Furniture",
     "wof:parent_id":85868551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.682979,30.348769,-87.682979,30.348769],
+  "bbox": [
+    -87.682979,
+    30.348769,
+    -87.682979,
+    30.348769
+],
   "geometry": {"coordinates":[-87.682979,30.348769],"type":"Point"}
 }

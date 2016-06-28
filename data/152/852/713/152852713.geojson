@@ -2,13 +2,14 @@
   "id": 152852713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.64468,34.725997,-86.64468,34.725997",
     "geom:latitude":34.725997,
     "geom:longitude":-86.64468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4807 Bradford Blvd NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     "sg:website":"www.bench.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822763,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85822763
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152852713,
-    "wof:lastmodified":1449048135,
+    "wof:lastmodified":1466319978,
     "wof:name":"Benchmark Electronics Inc",
     "wof:parent_id":85822763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.64468,34.725997,-86.64468,34.725997],
-  "geometry": {"coordinates":[-86.64468,34.725997],"type":"Point"}
+  "bbox": [
+    -86.64468,
+    34.725997,
+    -86.64468,
+    34.725997
+],
+  "geometry": {"coordinates":[-86.64467999999999,34.725997],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152281891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.628725,34.843635,-85.628725,34.843635",
     "geom:latitude":34.843635,
     "geom:longitude":-85.628725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29130 State Rte 71",
     "sg:city":"Higdon",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085607,
-        85633793,
         85688675,
-        85804739
+        85633793,
+        85804739,
+        102085607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152281891,
-    "wof:lastmodified":1449048217,
+    "wof:lastmodified":1466316888,
     "wof:name":"General's Quick Mart",
     "wof:parent_id":85804739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.628725,34.843635,-85.628725,34.843635],
+  "bbox": [
+    -85.628725,
+    34.843635,
+    -85.628725,
+    34.843635
+],
   "geometry": {"coordinates":[-85.628725,34.843635],"type":"Point"}
 }

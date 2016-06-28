@@ -2,13 +2,14 @@
   "id": 152141725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.024875,32.695389,-86.024875,32.695389",
     "geom:latitude":32.695389,
     "geom:longitude":-86.024875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"365 W Cotton Rd",
     "sg:city":"Eclectic",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827623,
+        85688675,
         85633793,
         85913291,
         102085631,
-        85688675
+        85827623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152141725,
-    "wof:lastmodified":1449045929,
+    "wof:lastmodified":1466314405,
     "wof:name":"Patterson Concrete",
     "wof:parent_id":85827623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.024875,32.695389,-86.024875,32.695389],
-  "geometry": {"coordinates":[-86.024875,32.695389],"type":"Point"}
+  "bbox": [
+    -86.024875,
+    32.695389,
+    -86.024875,
+    32.695389
+],
+  "geometry": {"coordinates":[-86.02487499999999,32.695389],"type":"Point"}
 }

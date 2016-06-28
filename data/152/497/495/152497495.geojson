@@ -2,13 +2,14 @@
   "id": 152497495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.610798,34.829266,-86.610798,34.829266",
     "geom:latitude":34.829266,
     "geom:longitude":-86.610798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1110 Bob Wade Ln NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85810031,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85810031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152497495,
-    "wof:lastmodified":1449048841,
+    "wof:lastmodified":1466318453,
     "wof:name":"Genex Corporation",
     "wof:parent_id":85810031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.610798,34.829266,-86.610798,34.829266],
+  "bbox": [
+    -86.610798,
+    34.829266,
+    -86.610798,
+    34.829266
+],
   "geometry": {"coordinates":[-86.610798,34.829266],"type":"Point"}
 }

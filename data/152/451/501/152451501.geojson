@@ -2,13 +2,14 @@
   "id": 152451501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.674151,33.441427,-86.674151,33.441427",
     "geom:latitude":33.441427,
     "geom:longitude":-86.674151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3039 Brook Highland Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     "sg:website":"www.crossbridgechurch.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85833411
+        85633793,
+        85833411,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152451501,
-    "wof:lastmodified":1449046332,
+    "wof:lastmodified":1466318083,
     "wof:name":"Cross Bridge Church Of Christ",
     "wof:parent_id":85833411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.674151,33.441427,-86.674151,33.441427],
-  "geometry": {"coordinates":[-86.674151,33.441427],"type":"Point"}
+  "bbox": [
+    -86.674151,
+    33.441427,
+    -86.674151,
+    33.441427
+],
+  "geometry": {"coordinates":[-86.67415099999999,33.441427],"type":"Point"}
 }

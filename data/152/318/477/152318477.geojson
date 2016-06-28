@@ -2,13 +2,14 @@
   "id": 152318477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.890363,30.54842,-87.890363,30.54842",
     "geom:latitude":30.54842,
     "geom:longitude":-87.890363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2005 US Hwy 98",
     "sg:city":"Daphne",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847563,
+        85688675,
         85633793,
         85914707,
         102085469,
-        85688675
+        85847563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152318477,
-    "wof:lastmodified":1449045323,
+    "wof:lastmodified":1466317279,
     "wof:name":"Hertz Local Edition",
     "wof:parent_id":85847563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.890363,30.54842,-87.890363,30.54842],
-  "geometry": {"coordinates":[-87.890363,30.54842],"type":"Point"}
+  "bbox": [
+    -87.890363,
+    30.54842,
+    -87.890363,
+    30.54842
+],
+  "geometry": {"coordinates":[-87.89036299999999,30.54842],"type":"Point"}
 }

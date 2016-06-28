@@ -2,13 +2,14 @@
   "id": 152850955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.156433,32.466765,-86.156433,32.466765",
     "geom:latitude":32.466765,
     "geom:longitude":-86.156433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 New Bingham Dr",
     "sg:city":"Wetumpka",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827347,
+        85688675,
         85633793,
         85915121,
         102085631,
-        85688675
+        85827347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152850955,
-    "wof:lastmodified":1449046980,
+    "wof:lastmodified":1466319944,
     "wof:name":"Alabama Home Maintenance",
     "wof:parent_id":85827347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.156433,32.466765,-86.156433,32.466765],
-  "geometry": {"coordinates":[-86.156433,32.466765],"type":"Point"}
+  "bbox": [
+    -86.156433,
+    32.466765,
+    -86.156433,
+    32.466765
+],
+  "geometry": {"coordinates":[-86.15643300000001,32.466765],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152339507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.971943,34.815824,-86.971943,34.815824",
     "geom:latitude":34.815824,
     "geom:longitude":-86.971943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 N Jefferson St",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829531,
+        85688675,
         85633793,
         85913543,
         102085489,
-        85688675
+        85829531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152339507,
-    "wof:lastmodified":1449046373,
+    "wof:lastmodified":1466317529,
     "wof:name":"Bridgejets",
     "wof:parent_id":85829531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.971943,34.815824,-86.971943,34.815824],
+  "bbox": [
+    -86.971943,
+    34.815824,
+    -86.971943,
+    34.815824
+],
   "geometry": {"coordinates":[-86.971943,34.815824],"type":"Point"}
 }

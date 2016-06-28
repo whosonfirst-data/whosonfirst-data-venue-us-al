@@ -2,13 +2,14 @@
   "id": 152248137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.807878,30.655349,-87.807878,30.655349",
     "geom:latitude":30.655349,
     "geom:longitude":-87.807878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12626 Hillard Jenkins Rd",
     "sg:city":"Loxley",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807399,
+        85688675,
         85633793,
         85914741,
         102085469,
-        85688675
+        85807399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152248137,
-    "wof:lastmodified":1449046840,
+    "wof:lastmodified":1466316450,
     "wof:name":"Fathers Inc",
     "wof:parent_id":85807399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.807878,30.655349,-87.807878,30.655349],
+  "bbox": [
+    -87.807878,
+    30.655349,
+    -87.807878,
+    30.655349
+],
   "geometry": {"coordinates":[-87.807878,30.655349],"type":"Point"}
 }

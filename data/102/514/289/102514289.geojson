@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102514289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.948113,32.946086,-85.948113,32.946086",
     "geom:latitude":32.946086,
     "geom:longitude":-85.948113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 Calhoun St",
     "sg:city":"Alexander City",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840481,
+        85688675,
         85633793,
         85913363,
         102085567,
-        85688675
+        85840481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102514289,
-    "wof:lastmodified":1449068959,
+    "wof:lastmodified":1466316899,
     "wof:name":"Alexander City Gas Dept",
     "wof:parent_id":85840481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.948113,32.946086,-85.948113,32.946086],
-  "geometry": {"coordinates":[-85.948113,32.946086],"type":"Point"}
+  "bbox": [
+    -85.948113,
+    32.946086,
+    -85.948113,
+    32.946086
+],
+  "geometry": {"coordinates":[-85.94811300000001,32.946086],"type":"Point"}
 }

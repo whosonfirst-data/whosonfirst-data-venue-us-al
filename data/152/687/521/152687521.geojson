@@ -2,13 +2,14 @@
   "id": 152687521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.760629,30.457808,-87.760629,30.457808",
     "geom:latitude":30.457808,
     "geom:longitude":-87.760629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15452 Co Rd 28",
     "sg:city":"Summerdale",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854025,
+        85688675,
         85633793,
         85914707,
         102085469,
-        85688675
+        85854025
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152687521,
-    "wof:lastmodified":1449045597,
+    "wof:lastmodified":1466319342,
     "wof:name":"Glenns Cars & Parts",
     "wof:parent_id":85854025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.760629,30.457808,-87.760629,30.457808],
-  "geometry": {"coordinates":[-87.760629,30.457808],"type":"Point"}
+  "bbox": [
+    -87.760629,
+    30.457808,
+    -87.760629,
+    30.457808
+],
+  "geometry": {"coordinates":[-87.76062899999999,30.457808],"type":"Point"}
 }

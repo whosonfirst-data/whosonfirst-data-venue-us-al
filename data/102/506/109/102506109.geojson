@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102506109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.740171,33.377504,-86.740171,33.377504",
     "geom:latitude":33.377504,
     "geom:longitude":-86.740171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2611 Buckboard Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85826093
+        85633793,
+        85826093,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102506109,
-    "wof:lastmodified":1449067817,
+    "wof:lastmodified":1466316545,
     "wof:name":"Leonard Gribben",
     "wof:parent_id":85826093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.740171,33.377504,-86.740171,33.377504],
+  "bbox": [
+    -86.740171,
+    33.377504,
+    -86.740171,
+    33.377504
+],
   "geometry": {"coordinates":[-86.740171,33.377504],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152591153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.847023,34.210055,-86.847023,34.210055",
     "geom:latitude":34.210055,
     "geom:longitude":-86.847023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"240 Co Rd 1312",
     "sg:city":"Cullman",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085729,
-        85633793,
         85688675,
-        85867309
+        85633793,
+        85867309,
+        102085729
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152591153,
-    "wof:lastmodified":1449046778,
+    "wof:lastmodified":1466318777,
     "wof:name":"Quality Electric Co",
     "wof:parent_id":85867309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.847023,34.210055,-86.847023,34.210055],
-  "geometry": {"coordinates":[-86.847023,34.210055],"type":"Point"}
+  "bbox": [
+    -86.847023,
+    34.210055,
+    -86.847023,
+    34.210055
+],
+  "geometry": {"coordinates":[-86.84702299999999,34.210055],"type":"Point"}
 }

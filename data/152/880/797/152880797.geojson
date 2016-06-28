@@ -2,13 +2,14 @@
   "id": 152880797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.895032,30.685995,-87.895032,30.685995",
     "geom:latitude":30.685995,
     "geom:longitude":-87.895032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31645 Tara Blvd W",
     "sg:city":"Spanish Fort",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807399,
+        85688675,
         85633793,
         85914741,
         102085469,
-        85688675
+        85807399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152880797,
-    "wof:lastmodified":1449048936,
+    "wof:lastmodified":1466320259,
     "wof:name":"Surreal Surfaces Inc",
     "wof:parent_id":85807399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.895032,30.685995,-87.895032,30.685995],
+  "bbox": [
+    -87.895032,
+    30.685995,
+    -87.895032,
+    30.685995
+],
   "geometry": {"coordinates":[-87.895032,30.685995],"type":"Point"}
 }

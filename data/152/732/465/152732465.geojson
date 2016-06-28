@@ -2,13 +2,14 @@
   "id": 152732465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.482653,34.637874,-86.482653,34.637874",
     "geom:latitude":34.637874,
     "geom:longitude":-86.482653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5005 Patriot Park Dr SE",
     "sg:city":"Owens Cross Roads",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878245,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152732465,
-    "wof:lastmodified":1449049041,
+    "wof:lastmodified":1466319557,
     "wof:name":"Leahy Consultanting",
     "wof:parent_id":85878245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.482653,34.637874,-86.482653,34.637874],
+  "bbox": [
+    -86.482653,
+    34.637874,
+    -86.482653,
+    34.637874
+],
   "geometry": {"coordinates":[-86.482653,34.637874],"type":"Point"}
 }

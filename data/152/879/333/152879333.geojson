@@ -2,13 +2,14 @@
   "id": 152879333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.845429,31.335537,-85.845429,31.335537",
     "geom:latitude":31.335537,
     "geom:longitude":-85.845429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 Holley Hill Rd",
     "sg:city":"Enterprise",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837695,
+        85688675,
         85633793,
         85899527,
         102085699,
-        85688675
+        85837695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152879333,
-    "wof:lastmodified":1449044335,
+    "wof:lastmodified":1466320229,
     "wof:name":"Whighams Chemical Sales",
     "wof:parent_id":85837695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.845429,31.335537,-85.845429,31.335537],
+  "bbox": [
+    -85.845429,
+    31.335537,
+    -85.845429,
+    31.335537
+],
   "geometry": {"coordinates":[-85.845429,31.335537],"type":"Point"}
 }

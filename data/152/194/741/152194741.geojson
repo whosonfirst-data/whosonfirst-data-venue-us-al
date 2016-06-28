@@ -2,13 +2,14 @@
   "id": 152194741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.604162,34.73842,-86.604162,34.73842",
     "geom:latitude":34.73842,
     "geom:longitude":-86.604162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2211 University Dr NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85839083,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85839083
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152194741,
-    "wof:lastmodified":1449048246,
+    "wof:lastmodified":1466315866,
     "wof:name":"La-Z-Boy Furniture Galleries",
     "wof:parent_id":85839083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.604162,34.73842,-86.604162,34.73842],
+  "bbox": [
+    -86.604162,
+    34.73842,
+    -86.604162,
+    34.73842
+],
   "geometry": {"coordinates":[-86.604162,34.73842],"type":"Point"}
 }

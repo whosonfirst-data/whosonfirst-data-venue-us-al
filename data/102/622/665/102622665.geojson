@@ -2,13 +2,14 @@
   "id": 102622665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.668199,34.85792,-87.668199,34.85792",
     "geom:latitude":34.85792,
     "geom:longitude":-87.668199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"154 Rose Dr",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85832603,
+        85688675,
         85633793,
         85914011,
         102085527,
-        85688675
+        85832603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102622665,
-    "wof:lastmodified":1449069732,
+    "wof:lastmodified":1466317465,
     "wof:name":"D C's Floor & Carpet Cleaning",
     "wof:parent_id":85832603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.668199,34.85792,-87.668199,34.85792],
+  "bbox": [
+    -87.668199,
+    34.85792,
+    -87.668199,
+    34.85792
+],
   "geometry": {"coordinates":[-87.668199,34.85792],"type":"Point"}
 }

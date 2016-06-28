@@ -2,13 +2,14 @@
   "id": 152596211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.498618,34.329754,-86.498618,34.329754",
     "geom:latitude":34.329754,
     "geom:longitude":-86.498618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"841 N Main St",
     "sg:city":"Arab",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837211,
+        85688675,
         85633793,
         85913243,
         102085513,
-        85688675
+        85837211
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152596211,
-    "wof:lastmodified":1449046671,
+    "wof:lastmodified":1466318807,
     "wof:name":"Allene's Beauty Shop",
     "wof:parent_id":85837211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.498618,34.329754,-86.498618,34.329754],
-  "geometry": {"coordinates":[-86.498618,34.329754],"type":"Point"}
+  "bbox": [
+    -86.498618,
+    34.329754,
+    -86.498618,
+    34.329754
+],
+  "geometry": {"coordinates":[-86.49861799999999,34.329754],"type":"Point"}
 }

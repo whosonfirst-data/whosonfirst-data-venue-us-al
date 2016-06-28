@@ -2,13 +2,14 @@
   "id": 152241325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.800768,33.503802,-86.800768,33.503802",
     "geom:latitude":33.503802,
     "geom:longitude":-86.800768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1825 University Blvd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819533,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675,
+        85819533,
         85813175
     ],
     "wof:breaches":[],
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":152241325,
-    "wof:lastmodified":1449048794,
+    "wof:lastmodified":1466316411,
     "wof:name":"Stanley Jones Uab Shelby",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.800768,33.503802,-86.800768,33.503802],
-  "geometry": {"coordinates":[-86.800768,33.503802],"type":"Point"}
+  "bbox": [
+    -86.800768,
+    33.503802,
+    -86.800768,
+    33.503802
+],
+  "geometry": {"coordinates":[-86.80076800000001,33.503802],"type":"Point"}
 }

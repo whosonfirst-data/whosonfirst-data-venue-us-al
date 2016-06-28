@@ -2,13 +2,14 @@
   "id": 152851519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.47353,32.479752,-86.47353,32.479752",
     "geom:latitude":32.479752,
     "geom:longitude":-86.47353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 Carver St",
     "sg:city":"Prattville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831059,
+        85688675,
         85633793,
         85913977,
         102085509,
-        85688675
+        85831059
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152851519,
-    "wof:lastmodified":1449047342,
+    "wof:lastmodified":1466320152,
     "wof:name":"Davis Construction",
     "wof:parent_id":85831059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.47353,32.479752,-86.47353,32.479752],
+  "bbox": [
+    -86.47353,
+    32.479752,
+    -86.47353,
+    32.479752
+],
   "geometry": {"coordinates":[-86.47353,32.479752],"type":"Point"}
 }

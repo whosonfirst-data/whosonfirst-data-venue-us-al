@@ -2,13 +2,14 @@
   "id": 152123309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.785769,33.357419,-86.785769,33.357419",
     "geom:latitude":33.357419,
     "geom:longitude":-86.785769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Garden Woods Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802401,
+        85688675,
         85633793,
         85914475,
         102085499,
-        85688675
+        85802401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152123309,
-    "wof:lastmodified":1449045687,
+    "wof:lastmodified":1466314640,
     "wof:name":"Riverchase Gardens Apartments",
     "wof:parent_id":85802401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.785769,33.357419,-86.785769,33.357419],
+  "bbox": [
+    -86.785769,
+    33.357419,
+    -86.785769,
+    33.357419
+],
   "geometry": {"coordinates":[-86.785769,33.357419],"type":"Point"}
 }

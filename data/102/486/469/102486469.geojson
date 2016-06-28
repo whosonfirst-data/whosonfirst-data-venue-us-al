@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102486469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.739292,34.673395,-86.739292,34.673395",
     "geom:latitude":34.673395,
     "geom:longitude":-86.739292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 Bus Park Blvd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807231,
+        85688675,
         85633793,
         85913593,
         102085487,
-        85688675
+        85807231
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":102486469,
-    "wof:lastmodified":1449069083,
+    "wof:lastmodified":1466315676,
     "wof:name":"Z I Imaging",
     "wof:parent_id":85807231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.739292,34.673395,-86.739292,34.673395],
-  "geometry": {"coordinates":[-86.739292,34.673395],"type":"Point"}
+  "bbox": [
+    -86.739292,
+    34.673395,
+    -86.739292,
+    34.673395
+],
+  "geometry": {"coordinates":[-86.73929200000001,34.673395],"type":"Point"}
 }

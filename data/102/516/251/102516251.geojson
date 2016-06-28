@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102516251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.683324,34.756934,-86.683324,34.756934",
     "geom:latitude":34.756934,
     "geom:longitude":-86.683324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5827 Oakwood Rd NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85839083,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85839083
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102516251,
-    "wof:lastmodified":1449068258,
+    "wof:lastmodified":1466316812,
     "wof:name":"Huntsville Fire Dept",
     "wof:parent_id":85839083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.683324,34.756934,-86.683324,34.756934],
+  "bbox": [
+    -86.683324,
+    34.756934,
+    -86.683324,
+    34.756934
+],
   "geometry": {"coordinates":[-86.683324,34.756934],"type":"Point"}
 }

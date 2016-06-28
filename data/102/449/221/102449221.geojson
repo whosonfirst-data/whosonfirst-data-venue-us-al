@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102449221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.698766,33.384355,-86.698766,33.384355",
     "geom:latitude":33.384355,
     "geom:longitude":-86.698766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5080 Cahaba Valley Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85833411
+        85633793,
+        85833411,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102449221,
-    "wof:lastmodified":1449070006,
+    "wof:lastmodified":1466314555,
     "wof:name":"Oak Mountain Classical School",
     "wof:parent_id":85833411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.698766,33.384355,-86.698766,33.384355],
-  "geometry": {"coordinates":[-86.698766,33.384355],"type":"Point"}
+  "bbox": [
+    -86.698766,
+    33.384355,
+    -86.698766,
+    33.384355
+],
+  "geometry": {"coordinates":[-86.69876600000001,33.384355],"type":"Point"}
 }

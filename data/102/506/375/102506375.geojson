@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102506375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.207056,32.401049,-86.207056,32.401049",
     "geom:latitude":32.401049,
     "geom:longitude":-86.207056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"889 Plantation Way",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085733,
-        85633793,
         85688675,
-        85879041
+        85633793,
+        85879041,
+        102085733
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102506375,
-    "wof:lastmodified":1449067817,
+    "wof:lastmodified":1466316750,
     "wof:name":"Cameron Ashley Building Prods",
     "wof:parent_id":85879041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.207056,32.401049,-86.207056,32.401049],
-  "geometry": {"coordinates":[-86.207056,32.401049],"type":"Point"}
+  "bbox": [
+    -86.207056,
+    32.401049,
+    -86.207056,
+    32.401049
+],
+  "geometry": {"coordinates":[-86.20705599999999,32.401049],"type":"Point"}
 }

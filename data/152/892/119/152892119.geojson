@@ -2,13 +2,14 @@
   "id": 152892119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.863463,30.673424,-87.863463,30.673424",
     "geom:latitude":30.673424,
     "geom:longitude":-87.863463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9761 Aspen Cir",
     "sg:city":"Spanish Fort",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807399,
+        85688675,
         85633793,
         85914741,
         102085469,
-        85688675
+        85807399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152892119,
-    "wof:lastmodified":1449044990,
+    "wof:lastmodified":1466320277,
     "wof:name":"Research Services Unlimited",
     "wof:parent_id":85807399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.863463,30.673424,-87.863463,30.673424],
+  "bbox": [
+    -87.863463,
+    30.673424,
+    -87.863463,
+    30.673424
+],
   "geometry": {"coordinates":[-87.863463,30.673424],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152142893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.823986,34.11684,-86.823986,34.11684",
     "geom:latitude":34.11684,
     "geom:longitude":-86.823986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"351 Co Rd 485",
     "sg:city":"Hanceville",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867305,
+        85688675,
         85633793,
         85914167,
         102085729,
-        85688675
+        85867305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152142893,
-    "wof:lastmodified":1449047997,
+    "wof:lastmodified":1466315433,
     "wof:name":"Powe General Contractors",
     "wof:parent_id":85867305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.823986,34.11684,-86.823986,34.11684],
+  "bbox": [
+    -86.823986,
+    34.11684,
+    -86.823986,
+    34.11684
+],
   "geometry": {"coordinates":[-86.823986,34.11684],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152139979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.375551,32.65438,-85.375551,32.65438",
     "geom:latitude":32.65438,
     "geom:longitude":-85.375551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 2nd Ave",
     "sg:city":"Opelika",
     "sg:classifiers":[
@@ -37,11 +38,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85857153,
+        85688675,
         85633793,
         85913815,
         102085751,
-        85688675
+        85857153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,14 +61,20 @@
         }
     ],
     "wof:id":152139979,
-    "wof:lastmodified":1449044743,
+    "wof:lastmodified":1466315388,
     "wof:name":"Opelika Treatment Center",
     "wof:parent_id":85857153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.375551,32.65438,-85.375551,32.65438],
+  "bbox": [
+    -85.375551,
+    32.65438,
+    -85.375551,
+    32.65438
+],
   "geometry": {"coordinates":[-85.375551,32.65438],"type":"Point"}
 }

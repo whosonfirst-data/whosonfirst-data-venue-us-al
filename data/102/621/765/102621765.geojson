@@ -2,13 +2,14 @@
   "id": 102621765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.870638,33.512061,-86.870638,33.512061",
     "geom:latitude":33.512061,
     "geom:longitude":-86.870638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2768 17th St",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847929,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85847929
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102621765,
-    "wof:lastmodified":1449069894,
+    "wof:lastmodified":1466317488,
     "wof:name":"As Speck Workshop",
     "wof:parent_id":85847929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.870638,33.512061,-86.870638,33.512061],
+  "bbox": [
+    -86.870638,
+    33.512061,
+    -86.870638,
+    33.512061
+],
   "geometry": {"coordinates":[-86.870638,33.512061],"type":"Point"}
 }

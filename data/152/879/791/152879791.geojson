@@ -2,13 +2,14 @@
   "id": 152879791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.63141,34.904635,-85.63141,34.904635",
     "geom:latitude":34.904635,
     "geom:longitude":-85.63141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3667 State Rte 73",
     "sg:city":"Bryant",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085607,
-        85633793,
         85688675,
-        85804739
+        85633793,
+        85804739,
+        102085607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152879791,
-    "wof:lastmodified":1449044337,
+    "wof:lastmodified":1466320252,
     "wof:name":"Mountain View Church Of God",
     "wof:parent_id":85804739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.63141,34.904635,-85.63141,34.904635],
+  "bbox": [
+    -85.63141,
+    34.904635,
+    -85.63141,
+    34.904635
+],
   "geometry": {"coordinates":[-85.63141,34.904635],"type":"Point"}
 }

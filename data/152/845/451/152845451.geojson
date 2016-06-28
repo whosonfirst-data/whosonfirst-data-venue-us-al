@@ -2,13 +2,14 @@
   "id": 152845451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.535517,33.153651,-87.535517,33.153651",
     "geom:latitude":33.153651,
     "geom:longitude":-87.535517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5410 Old Montgomery Hwy",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -32,10 +33,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085553,
-        85633793,
         85688675,
-        85851887
+        85633793,
+        85851887,
+        102085553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152845451,
-    "wof:lastmodified":1449045058,
+    "wof:lastmodified":1466320085,
     "wof:name":"AAA Allied",
     "wof:parent_id":85851887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.535517,33.153651,-87.535517,33.153651],
+  "bbox": [
+    -87.535517,
+    33.153651,
+    -87.535517,
+    33.153651
+],
   "geometry": {"coordinates":[-87.535517,33.153651],"type":"Point"}
 }

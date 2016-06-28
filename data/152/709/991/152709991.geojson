@@ -2,13 +2,14 @@
   "id": 152709991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.76511,32.205495,-86.76511,32.205495",
     "geom:latitude":32.205495,
     "geom:longitude":-86.76511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2699 Rudolph Rd",
     "sg:city":"Tyler",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":152709991,
-    "wof:lastmodified":1449045223,
+    "wof:lastmodified":1466319384,
     "wof:name":"Mount Teman Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.76511,32.205495,-86.76511,32.205495],
-  "geometry": {"coordinates":[-86.76511,32.205495],"type":"Point"}
+  "bbox": [
+    -86.76511,
+    32.205495,
+    -86.76511,
+    32.205495
+],
+  "geometry": {"coordinates":[-86.76511000000001,32.205495],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152639401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.744591,34.661639,-86.744591,34.661639",
     "geom:latitude":34.661639,
     "geom:longitude":-86.744591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Morland Pointe",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -33,11 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831899,
+        85688675,
         85633793,
         85913593,
         102085487,
-        85688675,
+        85831899,
         85807231
     ],
     "wof:breaches":[],
@@ -65,14 +66,20 @@
         }
     ],
     "wof:id":152639401,
-    "wof:lastmodified":1449048886,
+    "wof:lastmodified":1466319058,
     "wof:name":"Christian Science Practitioner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.744591,34.661639,-86.744591,34.661639],
+  "bbox": [
+    -86.744591,
+    34.661639,
+    -86.744591,
+    34.661639
+],
   "geometry": {"coordinates":[-86.744591,34.661639],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102459923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.567281,33.237142,-87.567281,33.237142",
     "geom:latitude":33.237142,
     "geom:longitude":-87.567281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1019 McFarland Blvd",
     "sg:city":"Northport",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.woods-n-water.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806217,
+        85688675,
         85633793,
         85914425,
         102085553,
-        85688675
+        85806217
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102459923,
-    "wof:lastmodified":1449068753,
+    "wof:lastmodified":1466315064,
     "wof:name":"Woods & Water Inc",
     "wof:parent_id":85806217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.567281,33.237142,-87.567281,33.237142],
-  "geometry": {"coordinates":[-87.567281,33.237142],"type":"Point"}
+  "bbox": [
+    -87.567281,
+    33.237142,
+    -87.567281,
+    33.237142
+],
+  "geometry": {"coordinates":[-87.56728099999999,33.237142],"type":"Point"}
 }

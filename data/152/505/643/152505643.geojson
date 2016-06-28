@@ -2,13 +2,14 @@
   "id": 152505643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.901565,34.530155,-86.901565,34.530155",
     "geom:latitude":34.530155,
     "geom:longitude":-86.901565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"157 State Rte 67",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085531,
-        85633793,
         85688675,
-        85808557
+        85633793,
+        85808557,
+        102085531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152505643,
-    "wof:lastmodified":1449048157,
+    "wof:lastmodified":1466318363,
     "wof:name":"Racetrac Petroleum Inc",
     "wof:parent_id":85808557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.901565,34.530155,-86.901565,34.530155],
-  "geometry": {"coordinates":[-86.901565,34.530155],"type":"Point"}
+  "bbox": [
+    -86.901565,
+    34.530155,
+    -86.901565,
+    34.530155
+],
+  "geometry": {"coordinates":[-86.90156500000001,34.530155],"type":"Point"}
 }

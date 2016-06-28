@@ -2,13 +2,14 @@
   "id": 152368001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.499086,33.588707,-86.499086,33.588707",
     "geom:latitude":33.588707,
     "geom:longitude":-86.499086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2809 Moody Pkwy",
     "sg:city":"Moody",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.eppersonrealty.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807031,
+        85688675,
         85633793,
         85913421,
         102085647,
-        85688675
+        85807031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152368001,
-    "wof:lastmodified":1449045357,
+    "wof:lastmodified":1466317569,
     "wof:name":"Epperson Realty Company",
     "wof:parent_id":85807031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.499086,33.588707,-86.499086,33.588707],
-  "geometry": {"coordinates":[-86.499086,33.588707],"type":"Point"}
+  "bbox": [
+    -86.499086,
+    33.588707,
+    -86.499086,
+    33.588707
+],
+  "geometry": {"coordinates":[-86.49908600000001,33.588707],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152230783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.57725,34.680689,-86.57725,34.680689",
     "geom:latitude":34.680689,
     "geom:longitude":-86.57725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4040 Memorial Pkwy SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856699,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85856699
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152230783,
-    "wof:lastmodified":1449047732,
+    "wof:lastmodified":1466316333,
     "wof:name":"Huntsville Mental Health Ctr",
     "wof:parent_id":85856699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.57725,34.680689,-86.57725,34.680689],
-  "geometry": {"coordinates":[-86.57725,34.680689],"type":"Point"}
+  "bbox": [
+    -86.57725,
+    34.680689,
+    -86.57725,
+    34.680689
+],
+  "geometry": {"coordinates":[-86.57725000000001,34.680689],"type":"Point"}
 }

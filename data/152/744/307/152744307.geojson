@@ -2,13 +2,14 @@
   "id": 152744307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.238118,32.329331,-86.238118,32.329331",
     "geom:latitude":32.329331,
     "geom:longitude":-86.238118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3650 Richard Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152744307,
-    "wof:lastmodified":1449045975,
+    "wof:lastmodified":1466319692,
     "wof:name":"Lock-N-Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.238118,32.329331,-86.238118,32.329331],
+  "bbox": [
+    -86.238118,
+    32.329331,
+    -86.238118,
+    32.329331
+],
   "geometry": {"coordinates":[-86.238118,32.329331],"type":"Point"}
 }

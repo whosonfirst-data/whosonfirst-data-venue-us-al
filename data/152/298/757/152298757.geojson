@@ -2,13 +2,14 @@
   "id": 152298757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.15635,30.712773,-88.15635,30.712773",
     "geom:latitude":30.712773,
     "geom:longitude":-88.15635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4807 Princeton Dr",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.foresthillumc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878949,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152298757,
-    "wof:lastmodified":1449045550,
+    "wof:lastmodified":1466317087,
     "wof:name":"Forest Hill United Methodist",
     "wof:parent_id":85878949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.15635,30.712773,-88.15635,30.712773],
+  "bbox": [
+    -88.15635,
+    30.712773,
+    -88.15635,
+    30.712773
+],
   "geometry": {"coordinates":[-88.15635,30.712773],"type":"Point"}
 }

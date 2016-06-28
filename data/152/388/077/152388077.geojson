@@ -2,13 +2,14 @@
   "id": 152388077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.594649,34.800088,-86.594649,34.800088",
     "geom:latitude":34.800088,
     "geom:longitude":-86.594649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6229 Maywick Dr NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85810627,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85810627
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152388077,
-    "wof:lastmodified":1449044466,
+    "wof:lastmodified":1466317779,
     "wof:name":"Insane Asylum Recordings",
     "wof:parent_id":85810627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.594649,34.800088,-86.594649,34.800088],
+  "bbox": [
+    -86.594649,
+    34.800088,
+    -86.594649,
+    34.800088
+],
   "geometry": {"coordinates":[-86.594649,34.800088],"type":"Point"}
 }

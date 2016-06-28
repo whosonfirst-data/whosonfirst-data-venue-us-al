@@ -2,13 +2,14 @@
   "id": 152196755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.832769,33.254752,-86.832769,33.254752",
     "geom:latitude":33.254752,
     "geom:longitude":-86.832769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"866 Navajo Trl",
     "sg:city":"Alabaster",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847439,
+        85688675,
         85633793,
         85914487,
         102085499,
-        85688675
+        85847439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152196755,
-    "wof:lastmodified":1449045346,
+    "wof:lastmodified":1466315907,
     "wof:name":"Becwel Inc",
     "wof:parent_id":85847439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.832769,33.254752,-86.832769,33.254752],
+  "bbox": [
+    -86.832769,
+    33.254752,
+    -86.832769,
+    33.254752
+],
   "geometry": {"coordinates":[-86.832769,33.254752],"type":"Point"}
 }

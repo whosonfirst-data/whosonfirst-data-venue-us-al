@@ -2,13 +2,14 @@
   "id": 152529447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.303749,34.346033,-86.303749,34.346033",
     "geom:latitude":34.346033,
     "geom:longitude":-86.303749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1424 Gunter Ave",
     "sg:city":"Guntersville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850331,
+        85688675,
         85633793,
         85899833,
         102085513,
-        85688675
+        85850331
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152529447,
-    "wof:lastmodified":1449046336,
+    "wof:lastmodified":1466318544,
     "wof:name":"Style Beauty Shop",
     "wof:parent_id":85850331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.303749,34.346033,-86.303749,34.346033],
+  "bbox": [
+    -86.303749,
+    34.346033,
+    -86.303749,
+    34.346033
+],
   "geometry": {"coordinates":[-86.303749,34.346033],"type":"Point"}
 }

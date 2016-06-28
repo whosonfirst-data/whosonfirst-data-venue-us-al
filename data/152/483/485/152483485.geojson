@@ -2,13 +2,14 @@
   "id": 152483485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.028697,32.485344,-85.028697,32.485344",
     "geom:latitude":32.485344,
     "geom:longitude":-85.028697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2611 Tillery Ln",
     "sg:city":"Phenix City",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822949,
+        85688675,
         85633793,
         85913715,
         102085697,
-        85688675
+        85822949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152483485,
-    "wof:lastmodified":1449047938,
+    "wof:lastmodified":1466318327,
     "wof:name":"Northcreek Partners Apartments",
     "wof:parent_id":85822949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.028697,32.485344,-85.028697,32.485344],
-  "geometry": {"coordinates":[-85.028697,32.485344],"type":"Point"}
+  "bbox": [
+    -85.028697,
+    32.485344,
+    -85.028697,
+    32.485344
+],
+  "geometry": {"coordinates":[-85.02869699999999,32.485344],"type":"Point"}
 }

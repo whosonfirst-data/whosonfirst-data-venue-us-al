@@ -2,13 +2,14 @@
   "id": 152618811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.684874,33.630716,-86.684874,33.630716",
     "geom:latitude":33.630716,
     "geom:longitude":-86.684874,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1607 Center Point Pkwy",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085481,
-        85633793,
         85688675,
-        85816403
+        85633793,
+        85816403,
+        102085481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152618811,
-    "wof:lastmodified":1449047176,
+    "wof:lastmodified":1466318739,
     "wof:name":"L A Weight Loss",
     "wof:parent_id":85816403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.684874,33.630716,-86.684874,33.630716],
-  "geometry": {"coordinates":[-86.684874,33.630716],"type":"Point"}
+  "bbox": [
+    -86.684874,
+    33.630716,
+    -86.684874,
+    33.630716
+],
+  "geometry": {"coordinates":[-86.68487399999999,33.630716],"type":"Point"}
 }

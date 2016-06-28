@@ -2,13 +2,14 @@
   "id": 152798263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.690603,33.543628,-86.690603,33.543628",
     "geom:latitude":33.543628,
     "geom:longitude":-86.690603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2812 5th Ave S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851139,
+        85688675,
         85633793,
         85914835,
         102085481,
-        85688675
+        85851139
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152798263,
-    "wof:lastmodified":1449045165,
+    "wof:lastmodified":1466319983,
     "wof:name":"Industrial Electric Supply Co",
     "wof:parent_id":85851139,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.690603,33.543628,-86.690603,33.543628],
+  "bbox": [
+    -86.690603,
+    33.543628,
+    -86.690603,
+    33.543628
+],
   "geometry": {"coordinates":[-86.690603,33.543628],"type":"Point"}
 }

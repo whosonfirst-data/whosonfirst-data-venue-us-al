@@ -2,13 +2,14 @@
   "id": 152505921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.771735,33.765258,-85.771735,33.765258",
     "geom:latitude":33.765258,
     "geom:longitude":-85.771735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2750 Pelham Rd S",
     "sg:city":"Anniston",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805945,
+        85688675,
         85633793,
         85914293,
         102085603,
-        85688675
+        85805945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152505921,
-    "wof:lastmodified":1449048157,
+    "wof:lastmodified":1466318378,
     "wof:name":"Bargain Place",
     "wof:parent_id":85805945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.771735,33.765258,-85.771735,33.765258],
-  "geometry": {"coordinates":[-85.771735,33.765258],"type":"Point"}
+  "bbox": [
+    -85.771735,
+    33.765258,
+    -85.771735,
+    33.765258
+],
+  "geometry": {"coordinates":[-85.77173500000001,33.765258],"type":"Point"}
 }

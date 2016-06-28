@@ -2,13 +2,14 @@
   "id": 152330919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.122909,30.670694,-88.122909,30.670694",
     "geom:latitude":30.670694,
     "geom:longitude":-88.122909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3450 Bel Air Mall",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808003,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85808003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152330919,
-    "wof:lastmodified":1449046605,
+    "wof:lastmodified":1466317375,
     "wof:name":"Nouveau",
     "wof:parent_id":85808003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.122909,30.670694,-88.122909,30.670694],
-  "geometry": {"coordinates":[-88.122909,30.670694],"type":"Point"}
+  "bbox": [
+    -88.122909,
+    30.670694,
+    -88.122909,
+    30.670694
+],
+  "geometry": {"coordinates":[-88.12290900000001,30.670694],"type":"Point"}
 }

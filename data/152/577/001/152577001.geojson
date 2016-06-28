@@ -2,13 +2,14 @@
   "id": 152577001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.19439,30.690479,-88.19439,30.690479",
     "geom:latitude":30.690479,
     "geom:longitude":-88.19439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6562 Old Shell Rd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878973,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152577001,
-    "wof:lastmodified":1449049032,
+    "wof:lastmodified":1466318965,
     "wof:name":"Ashbury Manor Inc",
     "wof:parent_id":85878973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.19439,30.690479,-88.19439,30.690479],
+  "bbox": [
+    -88.19439,
+    30.690479,
+    -88.19439,
+    30.690479
+],
   "geometry": {"coordinates":[-88.19439,30.690479],"type":"Point"}
 }

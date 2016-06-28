@@ -2,13 +2,14 @@
   "id": 102635131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.191426,34.282361,-86.191426,34.282361",
     "geom:latitude":34.282361,
     "geom:longitude":-86.191426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"687 State Rte 75",
     "sg:city":"Albertville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102635131,
-    "wof:lastmodified":1449068800,
+    "wof:lastmodified":1466317578,
     "wof:name":"Pantry Express",
     "wof:parent_id":85913247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.191426,34.282361,-86.191426,34.282361],
-  "geometry": {"coordinates":[-86.191426,34.282361],"type":"Point"}
+  "bbox": [
+    -86.191426,
+    34.282361,
+    -86.191426,
+    34.282361
+],
+  "geometry": {"coordinates":[-86.19142600000001,34.282361],"type":"Point"}
 }

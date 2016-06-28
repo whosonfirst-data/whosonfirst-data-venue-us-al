@@ -2,13 +2,14 @@
   "id": 152124001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.288031,32.426629,-86.288031,32.426629",
     "geom:latitude":32.426629,
     "geom:longitude":-86.288031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"319 Conrad St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152124001,
-    "wof:lastmodified":1449048559,
+    "wof:lastmodified":1466315472,
     "wof:name":"W G Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.288031,32.426629,-86.288031,32.426629],
+  "bbox": [
+    -86.288031,
+    32.426629,
+    -86.288031,
+    32.426629
+],
   "geometry": {"coordinates":[-86.288031,32.426629],"type":"Point"}
 }

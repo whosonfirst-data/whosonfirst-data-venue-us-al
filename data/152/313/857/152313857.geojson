@@ -2,13 +2,14 @@
   "id": 152313857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.099794,30.658047,-88.099794,30.658047",
     "geom:latitude":30.658047,
     "geom:longitude":-88.099794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2488 Halls Mill Rd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808003,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85808003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152313857,
-    "wof:lastmodified":1449044432,
+    "wof:lastmodified":1466317204,
     "wof:name":"Clower Electric Supply Co",
     "wof:parent_id":85808003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.099794,30.658047,-88.099794,30.658047],
+  "bbox": [
+    -88.099794,
+    30.658047,
+    -88.099794,
+    30.658047
+],
   "geometry": {"coordinates":[-88.099794,30.658047],"type":"Point"}
 }

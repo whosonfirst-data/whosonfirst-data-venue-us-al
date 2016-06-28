@@ -2,13 +2,14 @@
   "id": 152864805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.733508,34.671223,-86.733508,34.671223",
     "geom:latitude":34.671223,
     "geom:longitude":-86.733508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Bimini Ct",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831899,
+        85688675,
         85633793,
         85913593,
         102085487,
-        85688675,
+        85831899,
         85807231
     ],
     "wof:breaches":[],
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":152864805,
-    "wof:lastmodified":1449048946,
+    "wof:lastmodified":1466320205,
     "wof:name":"Helen Pham Alterations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.733508,34.671223,-86.733508,34.671223],
+  "bbox": [
+    -86.733508,
+    34.671223,
+    -86.733508,
+    34.671223
+],
   "geometry": {"coordinates":[-86.733508,34.671223],"type":"Point"}
 }

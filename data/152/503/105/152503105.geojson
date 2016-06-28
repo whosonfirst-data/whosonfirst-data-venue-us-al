@@ -2,13 +2,14 @@
   "id": 152503105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.758501,32.909819,-85.758501,32.909819",
     "geom:latitude":32.909819,
     "geom:longitude":-85.758501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5033 Horseshoe Bend Rd",
     "sg:city":"Dadeville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848983,
+        85688675,
         85633793,
         85913327,
         102085567,
-        85688675
+        85848983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152503105,
-    "wof:lastmodified":1449048910,
+    "wof:lastmodified":1466318476,
     "wof:name":"Colonial Beauty Shop",
     "wof:parent_id":85848983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.758501,32.909819,-85.758501,32.909819],
+  "bbox": [
+    -85.758501,
+    32.909819,
+    -85.758501,
+    32.909819
+],
   "geometry": {"coordinates":[-85.758501,32.909819],"type":"Point"}
 }

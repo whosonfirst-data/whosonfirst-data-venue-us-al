@@ -2,13 +2,14 @@
   "id": 152667661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.564501,33.538145,-86.564501,33.538145",
     "geom:latitude":33.538145,
     "geom:longitude":-86.564501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1034 Montevallo Rd SW",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152667661,
-    "wof:lastmodified":1449047323,
+    "wof:lastmodified":1466319203,
     "wof:name":"Leeds 2010 Futuring Project",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.564501,33.538145,-86.564501,33.538145],
-  "geometry": {"coordinates":[-86.564501,33.538145],"type":"Point"}
+  "bbox": [
+    -86.564501,
+    33.538145,
+    -86.564501,
+    33.538145
+],
+  "geometry": {"coordinates":[-86.56450100000001,33.538145],"type":"Point"}
 }

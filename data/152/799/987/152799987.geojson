@@ -2,13 +2,14 @@
   "id": 152799987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.385678,34.49546,-86.385678,34.49546",
     "geom:latitude":34.49546,
     "geom:longitude":-86.385678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3353 New Hope Hwy",
     "sg:city":"Grant",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085513,
-        85633793,
         85688675,
-        85849079
+        85633793,
+        85849079,
+        102085513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152799987,
-    "wof:lastmodified":1449048920,
+    "wof:lastmodified":1466319845,
     "wof:name":"Cryer Body Shop",
     "wof:parent_id":85849079,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.385678,34.49546,-86.385678,34.49546],
+  "bbox": [
+    -86.385678,
+    34.49546,
+    -86.385678,
+    34.49546
+],
   "geometry": {"coordinates":[-86.385678,34.49546],"type":"Point"}
 }

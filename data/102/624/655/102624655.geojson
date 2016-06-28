@@ -2,13 +2,14 @@
   "id": 102624655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.321209,32.345361,-86.321209,32.345361",
     "geom:latitude":32.345361,
     "geom:longitude":-86.321209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3204 Agate St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102624655,
-    "wof:lastmodified":1449069451,
+    "wof:lastmodified":1466317483,
     "wof:name":"Tips",
     "wof:parent_id":85913947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.321209,32.345361,-86.321209,32.345361],
+  "bbox": [
+    -86.321209,
+    32.345361,
+    -86.321209,
+    32.345361
+],
   "geometry": {"coordinates":[-86.321209,32.345361],"type":"Point"}
 }

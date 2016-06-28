@@ -2,13 +2,14 @@
   "id": 152716665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.903516,33.447111,-86.903516,33.447111",
     "geom:latitude":33.447111,
     "geom:longitude":-86.903516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4625 Park Ave SW",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851831,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85851831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152716665,
-    "wof:lastmodified":1449044957,
+    "wof:lastmodified":1466319422,
     "wof:name":"Christian Care Day Care C",
     "wof:parent_id":85851831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.903516,33.447111,-86.903516,33.447111],
+  "bbox": [
+    -86.903516,
+    33.447111,
+    -86.903516,
+    33.447111
+],
   "geometry": {"coordinates":[-86.903516,33.447111],"type":"Point"}
 }

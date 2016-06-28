@@ -2,13 +2,14 @@
   "id": 152232281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.821761,33.706983,-85.821761,33.706983",
     "geom:latitude":33.706983,
     "geom:longitude":-85.821761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4650 McClellan Blvd",
     "sg:city":"Anniston",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.farmershomefurniture.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825451,
+        85688675,
         85633793,
         85915207,
         102085603,
-        85688675
+        85825451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152232281,
-    "wof:lastmodified":1449045795,
+    "wof:lastmodified":1466316419,
     "wof:name":"Farmers Furniture",
     "wof:parent_id":85825451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.821761,33.706983,-85.821761,33.706983],
+  "bbox": [
+    -85.821761,
+    33.706983,
+    -85.821761,
+    33.706983
+],
   "geometry": {"coordinates":[-85.821761,33.706983],"type":"Point"}
 }

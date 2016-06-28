@@ -2,13 +2,14 @@
   "id": 152682689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.723424,34.698626,-86.723424,34.698626",
     "geom:latitude":34.698626,
     "geom:longitude":-86.723424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"368 Oakland Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807231,
+        85688675,
         85633793,
         85913593,
         102085487,
-        85688675
+        85807231
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152682689,
-    "wof:lastmodified":1449045115,
+    "wof:lastmodified":1466319331,
     "wof:name":"Top Notch Lawrence & Land",
     "wof:parent_id":85807231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.723424,34.698626,-86.723424,34.698626],
-  "geometry": {"coordinates":[-86.723424,34.698626],"type":"Point"}
+  "bbox": [
+    -86.723424,
+    34.698626,
+    -86.723424,
+    34.698626
+],
+  "geometry": {"coordinates":[-86.72342399999999,34.698626],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152209857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.002142,32.470995,-85.002142,32.470995",
     "geom:latitude":32.470995,
     "geom:longitude":-85.002142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"603 13th St",
     "sg:city":"Phenix City",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152209857,
-    "wof:lastmodified":1449048430,
+    "wof:lastmodified":1466316114,
     "wof:name":"Spiffy's Car Wash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.002142,32.470995,-85.002142,32.470995],
-  "geometry": {"coordinates":[-85.002142,32.470995],"type":"Point"}
+  "bbox": [
+    -85.002142,
+    32.470995,
+    -85.002142,
+    32.470995
+],
+  "geometry": {"coordinates":[-85.00214200000001,32.470995],"type":"Point"}
 }

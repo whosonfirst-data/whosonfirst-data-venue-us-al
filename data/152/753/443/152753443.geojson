@@ -2,13 +2,14 @@
   "id": 152753443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.857335,33.094538,-86.857335,33.094538",
     "geom:latitude":33.094538,
     "geom:longitude":-86.857335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4449 State Rte 25",
     "sg:city":"Montevallo",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152753443,
-    "wof:lastmodified":1449044850,
+    "wof:lastmodified":1466319614,
     "wof:name":"Montevallo Coin-Op",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.857335,33.094538,-86.857335,33.094538],
-  "geometry": {"coordinates":[-86.857335,33.094538],"type":"Point"}
+  "bbox": [
+    -86.857335,
+    33.094538,
+    -86.857335,
+    33.094538
+],
+  "geometry": {"coordinates":[-86.85733500000001,33.094538],"type":"Point"}
 }

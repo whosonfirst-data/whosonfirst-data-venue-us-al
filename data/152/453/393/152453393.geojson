@@ -2,13 +2,14 @@
   "id": 152453393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.817292,33.242687,-86.817292,33.242687",
     "geom:latitude":33.242687,
     "geom:longitude":-86.817292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 1st St SW",
     "sg:city":"Alabaster",
     "sg:classifiers":[
@@ -24,12 +25,12 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
+        85633793,
         85853623,
-        85847439,
-        85914487
+        102085499,
+        85914487,
+        85847439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":152453393,
-    "wof:lastmodified":1449047769,
+    "wof:lastmodified":1466318096,
     "wof:name":"Bluff Park Jewelers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.817292,33.242687,-86.817292,33.242687],
-  "geometry": {"coordinates":[-86.817292,33.242687],"type":"Point"}
+  "bbox": [
+    -86.817292,
+    33.242687,
+    -86.817292,
+    33.242687
+],
+  "geometry": {"coordinates":[-86.81729199999999,33.242687],"type":"Point"}
 }

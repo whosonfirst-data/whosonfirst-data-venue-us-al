@@ -2,13 +2,14 @@
   "id": 152218469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.02394,32.514843,-85.02394,32.514843",
     "geom:latitude":32.514843,
     "geom:longitude":-85.02394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5005 Summerville Rd",
     "sg:city":"Phenix City",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152218469,
-    "wof:lastmodified":1449047227,
+    "wof:lastmodified":1466316060,
     "wof:name":"Short Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.02394,32.514843,-85.02394,32.514843],
+  "bbox": [
+    -85.02394,
+    32.514843,
+    -85.02394,
+    32.514843
+],
   "geometry": {"coordinates":[-85.02394,32.514843],"type":"Point"}
 }

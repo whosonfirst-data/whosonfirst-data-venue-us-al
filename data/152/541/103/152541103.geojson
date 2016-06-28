@@ -2,13 +2,14 @@
   "id": 152541103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.14217,30.697756,-88.14217,30.697756",
     "geom:latitude":30.697756,
     "geom:longitude":-88.14217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4356 Old Shell Rd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878977,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152541103,
-    "wof:lastmodified":1449044819,
+    "wof:lastmodified":1466318528,
     "wof:name":"Fantasy Island Toys",
     "wof:parent_id":85878977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.14217,30.697756,-88.14217,30.697756],
-  "geometry": {"coordinates":[-88.14217,30.697756],"type":"Point"}
+  "bbox": [
+    -88.14217,
+    30.697756,
+    -88.14217,
+    30.697756
+],
+  "geometry": {"coordinates":[-88.14216999999999,30.697756],"type":"Point"}
 }

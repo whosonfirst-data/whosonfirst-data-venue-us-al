@@ -2,13 +2,14 @@
   "id": 152126581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.77119,33.527456,-86.77119,33.527456",
     "geom:latitude":33.527456,
     "geom:longitude":-86.77119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4230 1st Ave S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.bescosteel.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876275,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152126581,
-    "wof:lastmodified":1449046010,
+    "wof:lastmodified":1466314800,
     "wof:name":"Besco Steel Supply",
     "wof:parent_id":85876275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.77119,33.527456,-86.77119,33.527456],
+  "bbox": [
+    -86.77119,
+    33.527456,
+    -86.77119,
+    33.527456
+],
   "geometry": {"coordinates":[-86.77119,33.527456],"type":"Point"}
 }

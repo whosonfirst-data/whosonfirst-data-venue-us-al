@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102505101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.345798,32.369687,-86.345798,32.369687",
     "geom:latitude":32.369687,
     "geom:longitude":-86.345798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 Trade Center St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85832931,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85832931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102505101,
-    "wof:lastmodified":1449069761,
+    "wof:lastmodified":1466316543,
     "wof:name":"ABF",
     "wof:parent_id":85832931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.345798,32.369687,-86.345798,32.369687],
+  "bbox": [
+    -86.345798,
+    32.369687,
+    -86.345798,
+    32.369687
+],
   "geometry": {"coordinates":[-86.345798,32.369687],"type":"Point"}
 }

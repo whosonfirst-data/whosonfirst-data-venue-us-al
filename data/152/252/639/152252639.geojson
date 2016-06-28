@@ -2,13 +2,14 @@
   "id": 152252639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.079029,30.675177,-88.079029,30.675177",
     "geom:latitude":30.675177,
     "geom:longitude":-88.079029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1714 Virginia St",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878975,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878975
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152252639,
-    "wof:lastmodified":1449044913,
+    "wof:lastmodified":1466316660,
     "wof:name":"Bob's Creole Style Specialty",
     "wof:parent_id":85878975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.079029,30.675177,-88.079029,30.675177],
-  "geometry": {"coordinates":[-88.079029,30.675177],"type":"Point"}
+  "bbox": [
+    -88.079029,
+    30.675177,
+    -88.079029,
+    30.675177
+],
+  "geometry": {"coordinates":[-88.07902900000001,30.675177],"type":"Point"}
 }

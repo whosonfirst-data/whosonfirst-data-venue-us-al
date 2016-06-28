@@ -2,13 +2,14 @@
   "id": 152399697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.818434,33.242369,-86.818434,33.242369",
     "geom:latitude":33.242369,
     "geom:longitude":-86.818434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"224 2nd Pl SW",
     "sg:city":"Alabaster",
     "sg:classifiers":[
@@ -34,12 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
+        85633793,
         85853623,
-        85847439,
-        85914487
+        102085499,
+        85914487,
+        85847439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,14 +66,20 @@
         }
     ],
     "wof:id":152399697,
-    "wof:lastmodified":1449045124,
+    "wof:lastmodified":1466317856,
     "wof:name":"Styles New Music & Clothing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.818434,33.242369,-86.818434,33.242369],
+  "bbox": [
+    -86.818434,
+    33.242369,
+    -86.818434,
+    33.242369
+],
   "geometry": {"coordinates":[-86.818434,33.242369],"type":"Point"}
 }

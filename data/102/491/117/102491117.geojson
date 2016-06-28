@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102491117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.694904,33.545087,-86.694904,33.545087",
     "geom:latitude":33.545087,
     "geom:longitude":-86.694904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2601 Commerce Blvd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851139,
+        85688675,
         85633793,
         85914835,
         102085481,
-        85688675
+        85851139
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102491117,
-    "wof:lastmodified":1449067732,
+    "wof:lastmodified":1466316140,
     "wof:name":"Grace Performance Chemicals",
     "wof:parent_id":85851139,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.694904,33.545087,-86.694904,33.545087],
-  "geometry": {"coordinates":[-86.694904,33.545087],"type":"Point"}
+  "bbox": [
+    -86.694904,
+    33.545087,
+    -86.694904,
+    33.545087
+],
+  "geometry": {"coordinates":[-86.69490399999999,33.545087],"type":"Point"}
 }

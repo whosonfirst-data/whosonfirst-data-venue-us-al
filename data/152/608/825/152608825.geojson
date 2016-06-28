@@ -2,13 +2,14 @@
   "id": 152608825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.782668,33.512552,-86.782668,33.512552",
     "geom:latitude":33.512552,
     "geom:longitude":-86.782668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"716 32nd St S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876275,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152608825,
-    "wof:lastmodified":1449046288,
+    "wof:lastmodified":1466318896,
     "wof:name":"Clairmont Cosmetic & Family",
     "wof:parent_id":85876275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.782668,33.512552,-86.782668,33.512552],
+  "bbox": [
+    -86.782668,
+    33.512552,
+    -86.782668,
+    33.512552
+],
   "geometry": {"coordinates":[-86.782668,33.512552],"type":"Point"}
 }

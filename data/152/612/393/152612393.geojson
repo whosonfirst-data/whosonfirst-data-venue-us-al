@@ -2,13 +2,14 @@
   "id": 152612393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.752542,34.437588,-85.752542,34.437588",
     "geom:latitude":34.437588,
     "geom:longitude":-85.752542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1614 Glenn Blvd SW",
     "sg:city":"Fort Payne",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815015,
+        85688675,
         85633793,
         85897515,
         102085615,
-        85688675
+        85815015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152612393,
-    "wof:lastmodified":1449046355,
+    "wof:lastmodified":1466318905,
     "wof:name":"Bestway Rent To Own",
     "wof:parent_id":85815015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.752542,34.437588,-85.752542,34.437588],
-  "geometry": {"coordinates":[-85.752542,34.437588],"type":"Point"}
+  "bbox": [
+    -85.752542,
+    34.437588,
+    -85.752542,
+    34.437588
+],
+  "geometry": {"coordinates":[-85.75254200000001,34.437588],"type":"Point"}
 }

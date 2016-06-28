@@ -2,13 +2,14 @@
   "id": 152349061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.726627,33.576219,-86.726627,33.576219",
     "geom:latitude":33.576219,
     "geom:longitude":-86.726627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8440 5th Ave N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816499,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85816499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152349061,
-    "wof:lastmodified":1449046055,
+    "wof:lastmodified":1466317659,
     "wof:name":"Calvary Resurrection Christian",
     "wof:parent_id":85816499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.726627,33.576219,-86.726627,33.576219],
-  "geometry": {"coordinates":[-86.726627,33.576219],"type":"Point"}
+  "bbox": [
+    -86.726627,
+    33.576219,
+    -86.726627,
+    33.576219
+],
+  "geometry": {"coordinates":[-86.72662699999999,33.576219],"type":"Point"}
 }

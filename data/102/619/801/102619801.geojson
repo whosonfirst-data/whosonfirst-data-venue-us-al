@@ -2,13 +2,14 @@
   "id": 102619801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.475098,32.608597,-85.475098,32.608597",
     "geom:latitude":32.608597,
     "geom:longitude":-85.475098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 N Ross St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819999,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85819999
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102619801,
-    "wof:lastmodified":1449068251,
+    "wof:lastmodified":1466317337,
     "wof:name":"Nancy Fritschner CPA",
     "wof:parent_id":85819999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.475098,32.608597,-85.475098,32.608597],
+  "bbox": [
+    -85.475098,
+    32.608597,
+    -85.475098,
+    32.608597
+],
   "geometry": {"coordinates":[-85.475098,32.608597],"type":"Point"}
 }

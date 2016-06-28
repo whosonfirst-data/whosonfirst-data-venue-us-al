@@ -2,13 +2,14 @@
   "id": 152654101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.329478,31.526397,-87.329478,31.526397",
     "geom:latitude":31.526397,
     "geom:longitude":-87.329478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 W Claiborne St",
     "sg:city":"Monroeville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152654101,
-    "wof:lastmodified":1449045857,
+    "wof:lastmodified":1466319094,
     "wof:name":"Monroe County Engineers Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.329478,31.526397,-87.329478,31.526397],
-  "geometry": {"coordinates":[-87.329478,31.526397],"type":"Point"}
+  "bbox": [
+    -87.329478,
+    31.526397,
+    -87.329478,
+    31.526397
+],
+  "geometry": {"coordinates":[-87.32947799999999,31.526397],"type":"Point"}
 }

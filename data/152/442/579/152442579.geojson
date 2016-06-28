@@ -2,13 +2,14 @@
   "id": 152442579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.766058,33.363588,-86.766058,33.363588",
     "geom:latitude":33.363588,
     "geom:longitude":-86.766058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 Indian Lake Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.cahabatitle.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853353,
+        85688675,
         85633793,
         85914511,
         102085499,
-        85688675
+        85853353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152442579,
-    "wof:lastmodified":1449046337,
+    "wof:lastmodified":1466318124,
     "wof:name":"Cahaba Title Inc",
     "wof:parent_id":85853353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.766058,33.363588,-86.766058,33.363588],
+  "bbox": [
+    -86.766058,
+    33.363588,
+    -86.766058,
+    33.363588
+],
   "geometry": {"coordinates":[-86.766058,33.363588],"type":"Point"}
 }

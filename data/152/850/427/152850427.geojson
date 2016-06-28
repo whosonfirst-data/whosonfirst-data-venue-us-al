@@ -2,13 +2,14 @@
   "id": 152850427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.426604,32.449872,-85.426604,32.449872",
     "geom:latitude":32.449872,
     "geom:longitude":-85.426604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3845 Co Rd 29",
     "sg:city":"Opelika",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85838773,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85838773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152850427,
-    "wof:lastmodified":1449046979,
+    "wof:lastmodified":1466319918,
     "wof:name":"Zion At Hill AME Zion Church",
     "wof:parent_id":85838773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.426604,32.449872,-85.426604,32.449872],
+  "bbox": [
+    -85.426604,
+    32.449872,
+    -85.426604,
+    32.449872
+],
   "geometry": {"coordinates":[-85.426604,32.449872],"type":"Point"}
 }

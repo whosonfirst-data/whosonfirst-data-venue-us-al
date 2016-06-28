@@ -2,13 +2,14 @@
   "id": 152456203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.620905,34.218169,-87.620905,34.218169",
     "geom:latitude":34.218169,
     "geom:longitude":-87.620905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3725 State Rte 13",
     "sg:city":"Haleyville",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152456203,
-    "wof:lastmodified":1449045677,
+    "wof:lastmodified":1466318108,
     "wof:name":"Freedom Axle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.620905,34.218169,-87.620905,34.218169],
-  "geometry": {"coordinates":[-87.620905,34.218169],"type":"Point"}
+  "bbox": [
+    -87.620905,
+    34.218169,
+    -87.620905,
+    34.218169
+],
+  "geometry": {"coordinates":[-87.62090499999999,34.218169],"type":"Point"}
 }

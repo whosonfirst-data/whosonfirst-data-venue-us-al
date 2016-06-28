@@ -2,13 +2,14 @@
   "id": 152884895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.921461,33.506124,-86.921461,33.506124",
     "geom:latitude":33.506124,
     "geom:longitude":-86.921461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4420 7th Ave",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818869,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85818869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152884895,
-    "wof:lastmodified":1449048023,
+    "wof:lastmodified":1466320287,
     "wof:name":"Carter's Roofing",
     "wof:parent_id":85818869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.921461,33.506124,-86.921461,33.506124],
-  "geometry": {"coordinates":[-86.921461,33.506124],"type":"Point"}
+  "bbox": [
+    -86.921461,
+    33.506124,
+    -86.921461,
+    33.506124
+],
+  "geometry": {"coordinates":[-86.92146099999999,33.506124],"type":"Point"}
 }

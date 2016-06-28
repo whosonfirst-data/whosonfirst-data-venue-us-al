@@ -2,13 +2,14 @@
   "id": 152358839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.032915,34.019217,-86.032915,34.019217",
     "geom:latitude":34.019217,
     "geom:longitude":-86.032915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 Forrest Ave",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.frosttrans.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805515,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85805515
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152358839,
-    "wof:lastmodified":1449046257,
+    "wof:lastmodified":1466317647,
     "wof:name":"Frost Transmission Inc",
     "wof:parent_id":85805515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.032915,34.019217,-86.032915,34.019217],
+  "bbox": [
+    -86.032915,
+    34.019217,
+    -86.032915,
+    34.019217
+],
   "geometry": {"coordinates":[-86.032915,34.019217],"type":"Point"}
 }

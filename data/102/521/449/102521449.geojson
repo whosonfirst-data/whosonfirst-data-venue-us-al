@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102521449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.449329,32.465299,-86.449329,32.465299",
     "geom:latitude":32.465299,
     "geom:longitude":-86.449329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"942 Wright St",
     "sg:city":"Prattville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843041,
+        85688675,
         85633793,
         85913977,
         102085509,
-        85688675
+        85843041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102521449,
-    "wof:lastmodified":1449070083,
+    "wof:lastmodified":1466317104,
     "wof:name":"Nelson Photographic Services",
     "wof:parent_id":85843041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.449329,32.465299,-86.449329,32.465299],
-  "geometry": {"coordinates":[-86.449329,32.465299],"type":"Point"}
+  "bbox": [
+    -86.449329,
+    32.465299,
+    -86.449329,
+    32.465299
+],
+  "geometry": {"coordinates":[-86.44932900000001,32.465299],"type":"Point"}
 }

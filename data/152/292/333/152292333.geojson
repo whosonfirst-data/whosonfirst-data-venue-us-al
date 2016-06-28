@@ -2,13 +2,14 @@
   "id": 152292333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.398412,31.256509,-85.398412,31.256509",
     "geom:latitude":31.256509,
     "geom:longitude":-85.398412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 Loftin Rd",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859419,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85859419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152292333,
-    "wof:lastmodified":1449044692,
+    "wof:lastmodified":1466317031,
     "wof:name":"ITS Products",
     "wof:parent_id":85859419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.398412,31.256509,-85.398412,31.256509],
-  "geometry": {"coordinates":[-85.398412,31.256509],"type":"Point"}
+  "bbox": [
+    -85.398412,
+    31.256509,
+    -85.398412,
+    31.256509
+],
+  "geometry": {"coordinates":[-85.39841199999999,31.256509],"type":"Point"}
 }

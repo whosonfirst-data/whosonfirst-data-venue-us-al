@@ -2,13 +2,14 @@
   "id": 152708411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.774988,30.884873,-87.774988,30.884873",
     "geom:latitude":30.884873,
     "geom:longitude":-87.774988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 Hand Ave",
     "sg:city":"Bay Minette",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813343,
+        85688675,
         85633793,
         85914703,
         102085469,
-        85688675
+        85813343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152708411,
-    "wof:lastmodified":1449045029,
+    "wof:lastmodified":1466319387,
     "wof:name":"Baldwin County Sheriff",
     "wof:parent_id":85813343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.774988,30.884873,-87.774988,30.884873],
-  "geometry": {"coordinates":[-87.774988,30.884873],"type":"Point"}
+  "bbox": [
+    -87.774988,
+    30.884873,
+    -87.774988,
+    30.884873
+],
+  "geometry": {"coordinates":[-87.77498799999999,30.884873],"type":"Point"}
 }

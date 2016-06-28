@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102496965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.729473,34.783577,-86.729473,34.783577",
     "geom:latitude":34.783577,
     "geom:longitude":-86.729473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"171 Gokee Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085487,
-        85633793,
         85688675,
-        85838413
+        85633793,
+        85838413,
+        102085487
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102496965,
-    "wof:lastmodified":1449069805,
+    "wof:lastmodified":1466316384,
     "wof:name":"Personal Home Builder",
     "wof:parent_id":85838413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.729473,34.783577,-86.729473,34.783577],
+  "bbox": [
+    -86.729473,
+    34.783577,
+    -86.729473,
+    34.783577
+],
   "geometry": {"coordinates":[-86.729473,34.783577],"type":"Point"}
 }

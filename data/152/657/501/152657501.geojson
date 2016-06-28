@@ -2,13 +2,14 @@
   "id": 152657501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.301941,32.366358,-86.301941,32.366358",
     "geom:latitude":32.366358,
     "geom:longitude":-86.301941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"424 E Jeff Davis Ave",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879039,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152657501,
-    "wof:lastmodified":1449044829,
+    "wof:lastmodified":1466319139,
     "wof:name":"Hinkle Metals & Supply Co",
     "wof:parent_id":85879039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.301941,32.366358,-86.301941,32.366358],
+  "bbox": [
+    -86.301941,
+    32.366358,
+    -86.301941,
+    32.366358
+],
   "geometry": {"coordinates":[-86.301941,32.366358],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152300005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.940721,34.419218,-86.940721,34.419218",
     "geom:latitude":34.419218,
     "geom:longitude":-86.940721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"610 Fairlane Dr SW",
     "sg:city":"Hartselle",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851807,
+        85688675,
         85633793,
         85914103,
         102085531,
-        85688675
+        85851807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152300005,
-    "wof:lastmodified":1449046907,
+    "wof:lastmodified":1466317045,
     "wof:name":"Gorman Enterprises Inc",
     "wof:parent_id":85851807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.940721,34.419218,-86.940721,34.419218],
+  "bbox": [
+    -86.940721,
+    34.419218,
+    -86.940721,
+    34.419218
+],
   "geometry": {"coordinates":[-86.940721,34.419218],"type":"Point"}
 }

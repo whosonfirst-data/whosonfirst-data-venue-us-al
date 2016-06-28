@@ -2,13 +2,14 @@
   "id": 152337953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.806473,30.504307,-87.806473,30.504307",
     "geom:latitude":30.504307,
     "geom:longitude":-87.806473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19471 E River Rd N",
     "sg:city":"Silverhill",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854025,
+        85688675,
         85633793,
         85914707,
         102085469,
-        85688675
+        85854025
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152337953,
-    "wof:lastmodified":1449046469,
+    "wof:lastmodified":1466317558,
     "wof:name":"Majors Assoc",
     "wof:parent_id":85854025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.806473,30.504307,-87.806473,30.504307],
+  "bbox": [
+    -87.806473,
+    30.504307,
+    -87.806473,
+    30.504307
+],
   "geometry": {"coordinates":[-87.806473,30.504307],"type":"Point"}
 }

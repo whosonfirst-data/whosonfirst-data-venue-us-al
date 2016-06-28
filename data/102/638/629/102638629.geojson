@@ -2,13 +2,14 @@
   "id": 102638629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.391794,32.652957,-85.391794,32.652957",
     "geom:latitude":32.652957,
     "geom:longitude":-85.391794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"706 Shamrock St",
     "sg:city":"Opelika",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85857153,
+        85688675,
         85633793,
         85913815,
         102085751,
-        85688675
+        85857153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102638629,
-    "wof:lastmodified":1449067916,
+    "wof:lastmodified":1466317437,
     "wof:name":"Gooden Heating & Air Cond",
     "wof:parent_id":85857153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.391794,32.652957,-85.391794,32.652957],
+  "bbox": [
+    -85.391794,
+    32.652957,
+    -85.391794,
+    32.652957
+],
   "geometry": {"coordinates":[-85.391794,32.652957],"type":"Point"}
 }

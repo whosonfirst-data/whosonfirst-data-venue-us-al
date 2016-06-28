@@ -2,13 +2,14 @@
   "id": 102610335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.373049,33.149989,-85.373049,33.149989",
     "geom:latitude":33.149989,
     "geom:longitude":-85.373049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"158 W Point St",
     "sg:city":"Roanoke",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102610335,
-    "wof:lastmodified":1449070179,
+    "wof:lastmodified":1466317274,
     "wof:name":"Handley Alternative Ctr",
     "wof:parent_id":85913643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.373049,33.149989,-85.373049,33.149989],
-  "geometry": {"coordinates":[-85.373049,33.149989],"type":"Point"}
+  "bbox": [
+    -85.373049,
+    33.149989,
+    -85.373049,
+    33.149989
+],
+  "geometry": {"coordinates":[-85.37304899999999,33.149989],"type":"Point"}
 }

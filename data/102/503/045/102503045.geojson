@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102503045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.769573,33.478915,-86.769573,33.478915",
     "geom:latitude":33.478915,
     "geom:longitude":-86.769573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Office Park Cir",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854765,
+        85688675,
         85633793,
         85914807,
         102085481,
-        85688675
+        85854765
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102503045,
-    "wof:lastmodified":1449070222,
+    "wof:lastmodified":1466316531,
     "wof:name":"Prepaid Technologies",
     "wof:parent_id":85854765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.769573,33.478915,-86.769573,33.478915],
-  "geometry": {"coordinates":[-86.769573,33.478915],"type":"Point"}
+  "bbox": [
+    -86.769573,
+    33.478915,
+    -86.769573,
+    33.478915
+],
+  "geometry": {"coordinates":[-86.76957299999999,33.478915],"type":"Point"}
 }

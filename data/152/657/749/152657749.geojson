@@ -2,13 +2,14 @@
   "id": 152657749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.829535,33.469021,-86.829535,33.469021",
     "geom:latitude":33.469021,
     "geom:longitude":-86.829535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"260 W Valley Ave",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817409,
+        85688675,
         85633793,
         85914847,
         102085481,
-        85688675
+        85817409
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152657749,
-    "wof:lastmodified":1449044824,
+    "wof:lastmodified":1466319301,
     "wof:name":"Moores Proffesional Dry Clrs",
     "wof:parent_id":85817409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.829535,33.469021,-86.829535,33.469021],
-  "geometry": {"coordinates":[-86.829535,33.469021],"type":"Point"}
+  "bbox": [
+    -86.829535,
+    33.469021,
+    -86.829535,
+    33.469021
+],
+  "geometry": {"coordinates":[-86.82953500000001,33.469021],"type":"Point"}
 }

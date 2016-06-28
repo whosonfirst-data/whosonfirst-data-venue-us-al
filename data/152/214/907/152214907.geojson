@@ -2,13 +2,14 @@
   "id": 152214907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.999159,34.559869,-86.999159,34.559869",
     "geom:latitude":34.559869,
     "geom:longitude":-86.999159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"725 Beltline Rd SW",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.tonymooreautogroup.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803997,
+        85688675,
         85633793,
         85913589,
         102085531,
-        85688675,
+        85803997,
         85848819
     ],
     "wof:breaches":[],
@@ -61,14 +62,20 @@
         }
     ],
     "wof:id":152214907,
-    "wof:lastmodified":1449048773,
+    "wof:lastmodified":1466315951,
     "wof:name":"Tony Moore Buick GMC Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.999159,34.559869,-86.999159,34.559869],
-  "geometry": {"coordinates":[-86.999159,34.559869],"type":"Point"}
+  "bbox": [
+    -86.999159,
+    34.559869,
+    -86.999159,
+    34.559869
+],
+  "geometry": {"coordinates":[-86.99915900000001,34.559869],"type":"Point"}
 }

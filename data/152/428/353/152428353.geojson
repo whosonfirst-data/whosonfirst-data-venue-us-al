@@ -2,13 +2,14 @@
   "id": 152428353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.57672,33.233544,-87.57672,33.233544",
     "geom:latitude":33.233544,
     "geom:longitude":-87.57672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2205 Lurleen B Wallace Blvd",
     "sg:city":"Northport",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806217,
+        85688675,
         85633793,
         85914425,
         102085553,
-        85688675
+        85806217
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152428353,
-    "wof:lastmodified":1449048607,
+    "wof:lastmodified":1466317961,
     "wof:name":"Suite 7 Pro Hair Studio",
     "wof:parent_id":85806217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.57672,33.233544,-87.57672,33.233544],
-  "geometry": {"coordinates":[-87.57672,33.233544],"type":"Point"}
+  "bbox": [
+    -87.57672,
+    33.233544,
+    -87.57672,
+    33.233544
+],
+  "geometry": {"coordinates":[-87.57671999999999,33.233544],"type":"Point"}
 }

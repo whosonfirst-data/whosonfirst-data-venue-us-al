@@ -2,13 +2,14 @@
   "id": 152253245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.616521,31.838846,-86.616521,31.838846",
     "geom:latitude":31.838846,
     "geom:longitude":-86.616521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"414 N Conecuh St",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152253245,
-    "wof:lastmodified":1449048353,
+    "wof:lastmodified":1466316647,
     "wof:name":"Flowers Baking Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.616521,31.838846,-86.616521,31.838846],
-  "geometry": {"coordinates":[-86.616521,31.838846],"type":"Point"}
+  "bbox": [
+    -86.616521,
+    31.838846,
+    -86.616521,
+    31.838846
+],
+  "geometry": {"coordinates":[-86.61652100000001,31.838846],"type":"Point"}
 }

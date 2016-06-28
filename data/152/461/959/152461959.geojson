@@ -2,13 +2,14 @@
   "id": 152461959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.882984,33.319267,-86.882984,33.319267",
     "geom:latitude":33.319267,
     "geom:longitude":-86.882984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1825 Southview Cir",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851743,
+        85688675,
         85633793,
         85914471,
         102085499,
-        85688675
+        85851743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152461959,
-    "wof:lastmodified":1449046046,
+    "wof:lastmodified":1466318172,
     "wof:name":"Professional Culinary Services",
     "wof:parent_id":85851743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.882984,33.319267,-86.882984,33.319267],
-  "geometry": {"coordinates":[-86.882984,33.319267],"type":"Point"}
+  "bbox": [
+    -86.882984,
+    33.319267,
+    -86.882984,
+    33.319267
+],
+  "geometry": {"coordinates":[-86.88298399999999,33.319267],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152119735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.215516,32.332712,-86.215516,32.332712",
     "geom:latitude":32.332712,
     "geom:longitude":-86.215516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3500 Club Ln",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -33,11 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879055,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":152119735,
-    "wof:lastmodified":1449047604,
+    "wof:lastmodified":1466314578,
     "wof:name":"Growth Park Clubhouse",
     "wof:parent_id":85879055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.215516,32.332712,-86.215516,32.332712],
-  "geometry": {"coordinates":[-86.215516,32.332712],"type":"Point"}
+  "bbox": [
+    -86.215516,
+    32.332712,
+    -86.215516,
+    32.332712
+],
+  "geometry": {"coordinates":[-86.21551599999999,32.332712],"type":"Point"}
 }

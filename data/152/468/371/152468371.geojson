@@ -2,13 +2,14 @@
   "id": 152468371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.348368,34.373325,-86.348368,34.373325",
     "geom:latitude":34.373325,
     "geom:longitude":-86.348368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"73 Tomahawk Cir",
     "sg:city":"Guntersville",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085513,
-        85633793,
         85688675,
-        85849079
+        85633793,
+        85849079,
+        102085513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152468371,
-    "wof:lastmodified":1449047611,
+    "wof:lastmodified":1466318165,
     "wof:name":"Civitan International",
     "wof:parent_id":85849079,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.348368,34.373325,-86.348368,34.373325],
-  "geometry": {"coordinates":[-86.348368,34.373325],"type":"Point"}
+  "bbox": [
+    -86.348368,
+    34.373325,
+    -86.348368,
+    34.373325
+],
+  "geometry": {"coordinates":[-86.34836799999999,34.373325],"type":"Point"}
 }

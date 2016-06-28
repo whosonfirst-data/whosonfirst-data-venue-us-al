@@ -2,13 +2,14 @@
   "id": 152222311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.100271,30.687235,-88.100271,30.687235",
     "geom:latitude":30.687235,
     "geom:longitude":-88.100271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 S Florida St",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152222311,
-    "wof:lastmodified":1449047386,
+    "wof:lastmodified":1466316192,
     "wof:name":"Twenty One South Florida",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.100271,30.687235,-88.100271,30.687235],
-  "geometry": {"coordinates":[-88.100271,30.687235],"type":"Point"}
+  "bbox": [
+    -88.100271,
+    30.687235,
+    -88.100271,
+    30.687235
+],
+  "geometry": {"coordinates":[-88.10027100000001,30.687235],"type":"Point"}
 }

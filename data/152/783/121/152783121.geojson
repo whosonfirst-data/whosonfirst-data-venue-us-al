@@ -2,13 +2,14 @@
   "id": 152783121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.731204,33.516352,-86.731204,33.516352",
     "geom:latitude":33.516352,
     "geom:longitude":-86.731204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1230 Regal Ave",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850695,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85850695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152783121,
-    "wof:lastmodified":1449044443,
+    "wof:lastmodified":1466319745,
     "wof:name":"Renaissance Cuisine Inc",
     "wof:parent_id":85850695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.731204,33.516352,-86.731204,33.516352],
-  "geometry": {"coordinates":[-86.731204,33.516352],"type":"Point"}
+  "bbox": [
+    -86.731204,
+    33.516352,
+    -86.731204,
+    33.516352
+],
+  "geometry": {"coordinates":[-86.73120400000001,33.516352],"type":"Point"}
 }

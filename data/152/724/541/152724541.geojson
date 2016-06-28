@@ -2,13 +2,14 @@
   "id": 152724541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.621702,34.847698,-85.621702,34.847698",
     "geom:latitude":34.847698,
     "geom:longitude":-85.621702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1696 Co Rd 92",
     "sg:city":"Higdon",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085607,
-        85633793,
         85688675,
-        85804739
+        85633793,
+        85804739,
+        102085607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152724541,
-    "wof:lastmodified":1449048813,
+    "wof:lastmodified":1466319461,
     "wof:name":"Sue's Flowers",
     "wof:parent_id":85804739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.621702,34.847698,-85.621702,34.847698],
+  "bbox": [
+    -85.621702,
+    34.847698,
+    -85.621702,
+    34.847698
+],
   "geometry": {"coordinates":[-85.621702,34.847698],"type":"Point"}
 }

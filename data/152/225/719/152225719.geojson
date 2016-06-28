@@ -2,13 +2,14 @@
   "id": 152225719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.533166,33.228572,-87.533166,33.228572",
     "geom:latitude":33.228572,
     "geom:longitude":-87.533166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Rice Mine Rd NE",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152225719,
-    "wof:lastmodified":1449045744,
+    "wof:lastmodified":1466316250,
     "wof:name":"Jane Watkins PHD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.533166,33.228572,-87.533166,33.228572],
-  "geometry": {"coordinates":[-87.533166,33.228572],"type":"Point"}
+  "bbox": [
+    -87.533166,
+    33.228572,
+    -87.533166,
+    33.228572
+],
+  "geometry": {"coordinates":[-87.53316599999999,33.228572],"type":"Point"}
 }

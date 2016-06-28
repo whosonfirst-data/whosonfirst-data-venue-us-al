@@ -2,13 +2,14 @@
   "id": 102599157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.413404,31.208491,-85.413404,31.208491",
     "geom:latitude":31.208491,
     "geom:longitude":-85.413404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1110 Glenwood Dr",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852069,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85852069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102599157,
-    "wof:lastmodified":1449068888,
+    "wof:lastmodified":1466317259,
     "wof:name":"Kevin Penn",
     "wof:parent_id":85852069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.413404,31.208491,-85.413404,31.208491],
+  "bbox": [
+    -85.413404,
+    31.208491,
+    -85.413404,
+    31.208491
+],
   "geometry": {"coordinates":[-85.413404,31.208491],"type":"Point"}
 }

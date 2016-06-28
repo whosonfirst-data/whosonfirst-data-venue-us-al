@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102489791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.770154,33.539716,-86.770154,33.539716",
     "geom:latitude":33.539716,
     "geom:longitude":-86.770154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"843 45th St N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858829,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85858829
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102489791,
-    "wof:lastmodified":1449069061,
+    "wof:lastmodified":1466316025,
     "wof:name":"Rosa Smith",
     "wof:parent_id":85858829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.770154,33.539716,-86.770154,33.539716],
-  "geometry": {"coordinates":[-86.770154,33.539716],"type":"Point"}
+  "bbox": [
+    -86.770154,
+    33.539716,
+    -86.770154,
+    33.539716
+],
+  "geometry": {"coordinates":[-86.77015400000001,33.539716],"type":"Point"}
 }

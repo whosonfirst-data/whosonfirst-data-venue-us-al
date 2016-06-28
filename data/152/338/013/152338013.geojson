@@ -2,13 +2,14 @@
   "id": 152338013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.827978,33.384711,-86.827978,33.384711",
     "geom:latitude":33.384711,
     "geom:longitude":-86.827978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3412 Hanford Ln",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827189,
+        85688675,
         85633793,
         85914475,
         102085481,
-        85688675
+        85827189
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152338013,
-    "wof:lastmodified":1449045908,
+    "wof:lastmodified":1466317503,
     "wof:name":"Waid Wholesale",
     "wof:parent_id":85827189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.827978,33.384711,-86.827978,33.384711],
+  "bbox": [
+    -86.827978,
+    33.384711,
+    -86.827978,
+    33.384711
+],
   "geometry": {"coordinates":[-86.827978,33.384711],"type":"Point"}
 }

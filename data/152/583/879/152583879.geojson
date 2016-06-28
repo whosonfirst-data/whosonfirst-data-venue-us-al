@@ -2,13 +2,14 @@
   "id": 152583879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.825731,33.680561,-85.825731,33.680561",
     "geom:latitude":33.680561,
     "geom:longitude":-85.825731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2804 US Hwy 431",
     "sg:city":"Anniston",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840061,
+        85688675,
         85633793,
         85914281,
         102085603,
-        85688675
+        85840061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152583879,
-    "wof:lastmodified":1449047942,
+    "wof:lastmodified":1466318761,
     "wof:name":"Franken's Furniture",
     "wof:parent_id":85840061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.825731,33.680561,-85.825731,33.680561],
+  "bbox": [
+    -85.825731,
+    33.680561,
+    -85.825731,
+    33.680561
+],
   "geometry": {"coordinates":[-85.825731,33.680561],"type":"Point"}
 }

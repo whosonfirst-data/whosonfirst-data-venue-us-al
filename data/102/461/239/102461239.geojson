@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102461239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.469591,32.462651,-86.469591,32.462651",
     "geom:latitude":32.462651,
     "geom:longitude":-86.469591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 E 4th St",
     "sg:city":"Prattville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85826521,
+        85688675,
         85633793,
         85913977,
         102085509,
-        85688675
+        85826521
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102461239,
-    "wof:lastmodified":1449068689,
+    "wof:lastmodified":1466314971,
     "wof:name":"Fountain Ctr Mental Hlth Ctr",
     "wof:parent_id":85826521,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.469591,32.462651,-86.469591,32.462651],
-  "geometry": {"coordinates":[-86.469591,32.462651],"type":"Point"}
+  "bbox": [
+    -86.469591,
+    32.462651,
+    -86.469591,
+    32.462651
+],
+  "geometry": {"coordinates":[-86.46959099999999,32.462651],"type":"Point"}
 }

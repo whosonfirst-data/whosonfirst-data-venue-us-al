@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102514133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.966248,31.795291,-85.966248,31.795291",
     "geom:latitude":31.795291,
     "geom:longitude":-85.966248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1018 S Brundidge St",
     "sg:city":"Troy",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867315,
+        85688675,
         85633793,
         85914551,
         102085619,
-        85688675
+        85867315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102514133,
-    "wof:lastmodified":1449068960,
+    "wof:lastmodified":1466316968,
     "wof:name":"City Electric Company",
     "wof:parent_id":85867315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.966248,31.795291,-85.966248,31.795291],
-  "geometry": {"coordinates":[-85.966248,31.795291],"type":"Point"}
+  "bbox": [
+    -85.966248,
+    31.795291,
+    -85.966248,
+    31.795291
+],
+  "geometry": {"coordinates":[-85.96624799999999,31.795291],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152127083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.881496,34.362009,-86.881496,34.362009",
     "geom:latitude":34.362009,
     "geom:longitude":-86.881496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"64 Sherman Rd",
     "sg:city":"Falkville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851807,
+        85688675,
         85633793,
         85914103,
         102085531,
-        85688675
+        85851807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152127083,
-    "wof:lastmodified":1449048547,
+    "wof:lastmodified":1466314791,
     "wof:name":"Pats General Store",
     "wof:parent_id":85851807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.881496,34.362009,-86.881496,34.362009],
+  "bbox": [
+    -86.881496,
+    34.362009,
+    -86.881496,
+    34.362009
+],
   "geometry": {"coordinates":[-86.881496,34.362009],"type":"Point"}
 }

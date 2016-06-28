@@ -2,13 +2,14 @@
   "id": 152848789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.701012,33.586769,-86.701012,33.586769",
     "geom:latitude":33.586769,
     "geom:longitude":-86.701012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9150 Parkway E",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -33,11 +34,11 @@
     "sg:website":"www.goodysonline.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845635,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85845635
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":152848789,
-    "wof:lastmodified":1449044950,
+    "wof:lastmodified":1466320148,
     "wof:name":"Goodys Family Clothing 160",
     "wof:parent_id":85845635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.701012,33.586769,-86.701012,33.586769],
-  "geometry": {"coordinates":[-86.701012,33.586769],"type":"Point"}
+  "bbox": [
+    -86.701012,
+    33.586769,
+    -86.701012,
+    33.586769
+],
+  "geometry": {"coordinates":[-86.70101200000001,33.586769],"type":"Point"}
 }

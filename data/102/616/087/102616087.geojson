@@ -2,13 +2,14 @@
   "id": 102616087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.094364,30.749219,-88.094364,30.749219",
     "geom:latitude":30.749219,
     "geom:longitude":-88.094364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2807 Whistler St",
     "sg:city":"Prichard",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837835,
+        85688675,
         85633793,
         85913741,
         102085585,
-        85688675
+        85837835
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102616087,
-    "wof:lastmodified":1449069570,
+    "wof:lastmodified":1466317316,
     "wof:name":"Prichard Senior Citizens",
     "wof:parent_id":85837835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.094364,30.749219,-88.094364,30.749219],
+  "bbox": [
+    -88.094364,
+    30.749219,
+    -88.094364,
+    30.749219
+],
   "geometry": {"coordinates":[-88.094364,30.749219],"type":"Point"}
 }

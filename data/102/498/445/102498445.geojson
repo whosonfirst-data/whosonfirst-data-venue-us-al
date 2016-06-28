@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102498445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.279191,32.328652,-86.279191,32.328652",
     "geom:latitude":32.328652,
     "geom:longitude":-86.279191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 Normandie Dr",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842989,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85842989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102498445,
-    "wof:lastmodified":1449069602,
+    "wof:lastmodified":1466316421,
     "wof:name":"Southern Orthopaedic Surgeons",
     "wof:parent_id":85842989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.279191,32.328652,-86.279191,32.328652],
+  "bbox": [
+    -86.279191,
+    32.328652,
+    -86.279191,
+    32.328652
+],
   "geometry": {"coordinates":[-86.279191,32.328652],"type":"Point"}
 }

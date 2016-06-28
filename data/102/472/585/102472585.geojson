@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102472585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.258727,32.352331,-86.258727,32.352331",
     "geom:latitude":32.352331,
     "geom:longitude":-86.258727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3240 Vaughn Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.montgomeryacademy.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879045,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102472585,
-    "wof:lastmodified":1449067984,
+    "wof:lastmodified":1466315355,
     "wof:name":"Montgomery Academy",
     "wof:parent_id":85879045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.258727,32.352331,-86.258727,32.352331],
-  "geometry": {"coordinates":[-86.258727,32.352331],"type":"Point"}
+  "bbox": [
+    -86.258727,
+    32.352331,
+    -86.258727,
+    32.352331
+],
+  "geometry": {"coordinates":[-86.25872699999999,32.352331],"type":"Point"}
 }

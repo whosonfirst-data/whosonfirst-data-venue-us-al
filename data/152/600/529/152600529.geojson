@@ -2,13 +2,14 @@
   "id": 152600529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.855701,33.281443,-86.855701,33.281443",
     "geom:latitude":33.281443,
     "geom:longitude":-86.855701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 Saint Charles Ln",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845631,
+        85688675,
         85633793,
         85914471,
         102085499,
-        85688675
+        85845631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152600529,
-    "wof:lastmodified":1449044727,
+    "wof:lastmodified":1466318851,
     "wof:name":"Dresser Industrial Valve",
     "wof:parent_id":85845631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.855701,33.281443,-86.855701,33.281443],
+  "bbox": [
+    -86.855701,
+    33.281443,
+    -86.855701,
+    33.281443
+],
   "geometry": {"coordinates":[-86.855701,33.281443],"type":"Point"}
 }

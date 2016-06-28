@@ -2,13 +2,14 @@
   "id": 152836557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.79794,33.61488,-85.79794,33.61488",
     "geom:latitude":33.61488,
     "geom:longitude":-85.79794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1705 Hamric Dr E",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806515,
+        85688675,
         85633793,
         85914159,
         102085603,
-        85688675
+        85806515
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152836557,
-    "wof:lastmodified":1449047352,
+    "wof:lastmodified":1466320032,
     "wof:name":"Gift Box",
     "wof:parent_id":85806515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.79794,33.61488,-85.79794,33.61488],
+  "bbox": [
+    -85.79794,
+    33.61488,
+    -85.79794,
+    33.61488
+],
   "geometry": {"coordinates":[-85.79794,33.61488],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152479167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.254982,34.517178,-86.254982,34.517178",
     "geom:latitude":34.517178,
     "geom:longitude":-86.254982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Suncrest Rd",
     "sg:city":"Grant",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085513,
-        85633793,
         85688675,
-        85851677
+        85633793,
+        85851677,
+        102085513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152479167,
-    "wof:lastmodified":1449047460,
+    "wof:lastmodified":1466318212,
     "wof:name":"Suncrest Apartments",
     "wof:parent_id":85851677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.254982,34.517178,-86.254982,34.517178],
+  "bbox": [
+    -86.254982,
+    34.517178,
+    -86.254982,
+    34.517178
+],
   "geometry": {"coordinates":[-86.254982,34.517178],"type":"Point"}
 }

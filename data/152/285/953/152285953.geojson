@@ -2,13 +2,14 @@
   "id": 152285953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.12808,32.337836,-86.12808,32.337836",
     "geom:latitude":32.337836,
     "geom:longitude":-86.12808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"435 Ryan Rd",
     "sg:city":"Pike Road",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879033,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675,
+        85879033,
         85820497
     ],
     "wof:breaches":[],
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":152285953,
-    "wof:lastmodified":1449044427,
+    "wof:lastmodified":1466317039,
     "wof:name":"Ebenezer Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.12808,32.337836,-86.12808,32.337836],
+  "bbox": [
+    -86.12808,
+    32.337836,
+    -86.12808,
+    32.337836
+],
   "geometry": {"coordinates":[-86.12808,32.337836],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152491667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.538288,34.8394,-86.538288,34.8394",
     "geom:latitude":34.8394,
     "geom:longitude":-86.538288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Amethyst Dr",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842195,
+        85688675,
         85633793,
         85915397,
         102085487,
-        85688675
+        85842195
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152491667,
-    "wof:lastmodified":1449044212,
+    "wof:lastmodified":1466318289,
     "wof:name":"JL Woods Enterprises",
     "wof:parent_id":85842195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.538288,34.8394,-86.538288,34.8394],
-  "geometry": {"coordinates":[-86.538288,34.8394],"type":"Point"}
+  "bbox": [
+    -86.538288,
+    34.8394,
+    -86.538288,
+    34.8394
+],
+  "geometry": {"coordinates":[-86.53828799999999,34.8394],"type":"Point"}
 }

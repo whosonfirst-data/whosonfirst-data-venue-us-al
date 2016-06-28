@@ -2,13 +2,14 @@
   "id": 152401711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.577104,33.231261,-87.577104,33.231261",
     "geom:latitude":33.231261,
     "geom:longitude":-87.577104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1955 22nd St",
     "sg:city":"Northport",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805585,
+        85688675,
         85633793,
         85914425,
         102085553,
-        85688675
+        85805585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152401711,
-    "wof:lastmodified":1449048234,
+    "wof:lastmodified":1466317858,
     "wof:name":"Whitehurst & Whitehurst",
     "wof:parent_id":85805585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.577104,33.231261,-87.577104,33.231261],
-  "geometry": {"coordinates":[-87.577104,33.231261],"type":"Point"}
+  "bbox": [
+    -87.577104,
+    33.231261,
+    -87.577104,
+    33.231261
+],
+  "geometry": {"coordinates":[-87.57710400000001,33.231261],"type":"Point"}
 }

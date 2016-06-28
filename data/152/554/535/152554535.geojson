@@ -2,13 +2,14 @@
   "id": 152554535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.32703,33.231339,-86.32703,33.231339",
     "geom:latitude":33.231339,
     "geom:longitude":-86.32703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36600 US Hwy 280",
     "sg:city":"Sylacauga",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152554535,
-    "wof:lastmodified":1449045257,
+    "wof:lastmodified":1466318606,
     "wof:name":"Rolling G Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.32703,33.231339,-86.32703,33.231339],
-  "geometry": {"coordinates":[-86.32703,33.231339],"type":"Point"}
+  "bbox": [
+    -86.32703,
+    33.231339,
+    -86.32703,
+    33.231339
+],
+  "geometry": {"coordinates":[-86.32702999999999,33.231339],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152605531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.604357,32.611875,-85.604357,32.611875",
     "geom:latitude":32.611875,
     "geom:longitude":-85.604357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5317 Co Rd 188",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085751,
-        85633793,
         85688675,
-        85828853
+        85633793,
+        85828853,
+        102085751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152605531,
-    "wof:lastmodified":1449046556,
+    "wof:lastmodified":1466318875,
     "wof:name":"New Age Toner Cartridges",
     "wof:parent_id":85828853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.604357,32.611875,-85.604357,32.611875],
-  "geometry": {"coordinates":[-85.604357,32.611875],"type":"Point"}
+  "bbox": [
+    -85.604357,
+    32.611875,
+    -85.604357,
+    32.611875
+],
+  "geometry": {"coordinates":[-85.60435699999999,32.611875],"type":"Point"}
 }

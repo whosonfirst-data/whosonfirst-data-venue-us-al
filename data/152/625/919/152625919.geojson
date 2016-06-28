@@ -2,13 +2,14 @@
   "id": 152625919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.351837,34.408938,-86.351837,34.408938",
     "geom:latitude":34.408938,
     "geom:longitude":-86.351837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"978 Manchester Dr",
     "sg:city":"Guntersville",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085513,
-        85633793,
         85688675,
-        85849079
+        85633793,
+        85849079,
+        102085513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152625919,
-    "wof:lastmodified":1449048967,
+    "wof:lastmodified":1466319037,
     "wof:name":"Harman Tractor Service",
     "wof:parent_id":85849079,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.351837,34.408938,-86.351837,34.408938],
+  "bbox": [
+    -86.351837,
+    34.408938,
+    -86.351837,
+    34.408938
+],
   "geometry": {"coordinates":[-86.351837,34.408938],"type":"Point"}
 }

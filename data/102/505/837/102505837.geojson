@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102505837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.946591,33.404891,-86.946591,33.404891",
     "geom:latitude":33.404891,
     "geom:longitude":-86.946591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2217 Carolina Ave",
     "sg:city":"Bessemer",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807371,
+        85688675,
         85633793,
         85914885,
         102085481,
-        85688675
+        85807371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102505837,
-    "wof:lastmodified":1449069762,
+    "wof:lastmodified":1466316678,
     "wof:name":"Citation Bessemer",
     "wof:parent_id":85807371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.946591,33.404891,-86.946591,33.404891],
+  "bbox": [
+    -86.946591,
+    33.404891,
+    -86.946591,
+    33.404891
+],
   "geometry": {"coordinates":[-86.946591,33.404891],"type":"Point"}
 }

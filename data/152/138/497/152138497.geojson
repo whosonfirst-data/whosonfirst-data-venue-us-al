@@ -2,13 +2,14 @@
   "id": 152138497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.464869,34.67234,-86.464869,34.67234",
     "geom:latitude":34.67234,
     "geom:longitude":-86.464869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2968 Hampton Cove Way SE",
     "sg:city":"Owens Cross Roads",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878245,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152138497,
-    "wof:lastmodified":1449045641,
+    "wof:lastmodified":1466315356,
     "wof:name":"Pro Photo System",
     "wof:parent_id":85878245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.464869,34.67234,-86.464869,34.67234],
-  "geometry": {"coordinates":[-86.464869,34.67234],"type":"Point"}
+  "bbox": [
+    -86.464869,
+    34.67234,
+    -86.464869,
+    34.67234
+],
+  "geometry": {"coordinates":[-86.46486899999999,34.67234],"type":"Point"}
 }

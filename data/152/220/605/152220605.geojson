@@ -2,13 +2,14 @@
   "id": 152220605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.0618,30.695112,-88.0618,30.695112",
     "geom:latitude":30.695112,
     "geom:longitude":-88.0618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1051 Adams St",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878971,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152220605,
-    "wof:lastmodified":1449048750,
+    "wof:lastmodified":1466316094,
     "wof:name":"Step Of Faith",
     "wof:parent_id":85878971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.0618,30.695112,-88.0618,30.695112],
-  "geometry": {"coordinates":[-88.0618,30.695112],"type":"Point"}
+  "bbox": [
+    -88.0618,
+    30.695112,
+    -88.0618,
+    30.695112
+],
+  "geometry": {"coordinates":[-88.06180000000001,30.695112],"type":"Point"}
 }

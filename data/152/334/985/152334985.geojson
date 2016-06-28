@@ -2,13 +2,14 @@
   "id": 152334985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.041388,30.689891,-88.041388,30.689891",
     "geom:latitude":30.689891,
     "geom:longitude":-88.041388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"153 Government St",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878959,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152334985,
-    "wof:lastmodified":1449045657,
+    "wof:lastmodified":1466317606,
     "wof:name":"Lawyer Referral Service",
     "wof:parent_id":85878959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.041388,30.689891,-88.041388,30.689891],
+  "bbox": [
+    -88.041388,
+    30.689891,
+    -88.041388,
+    30.689891
+],
   "geometry": {"coordinates":[-88.041388,30.689891],"type":"Point"}
 }

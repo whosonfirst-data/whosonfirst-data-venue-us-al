@@ -2,13 +2,14 @@
   "id": 152581097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.685745,34.813096,-87.685745,34.813096",
     "geom:latitude":34.813096,
     "geom:longitude":-87.685745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1041 N Pine St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848857,
+        85688675,
         85633793,
         85914011,
         102085527,
-        85688675
+        85848857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152581097,
-    "wof:lastmodified":1449045278,
+    "wof:lastmodified":1466318703,
     "wof:name":"Conservation & Natural Resourc",
     "wof:parent_id":85848857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.685745,34.813096,-87.685745,34.813096],
+  "bbox": [
+    -87.685745,
+    34.813096,
+    -87.685745,
+    34.813096
+],
   "geometry": {"coordinates":[-87.685745,34.813096],"type":"Point"}
 }

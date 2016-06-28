@@ -2,13 +2,14 @@
   "id": 152227153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.68047,34.817226,-87.68047,34.817226",
     "geom:latitude":34.817226,
     "geom:longitude":-87.68047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1148 N Wood Ave",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848857,
+        85688675,
         85633793,
         85914011,
         102085527,
-        85688675
+        85848857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152227153,
-    "wof:lastmodified":1449045321,
+    "wof:lastmodified":1466316272,
     "wof:name":"Crazy Carolyns Fashions",
     "wof:parent_id":85848857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.68047,34.817226,-87.68047,34.817226],
+  "bbox": [
+    -87.68047,
+    34.817226,
+    -87.68047,
+    34.817226
+],
   "geometry": {"coordinates":[-87.68047,34.817226],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152673097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.209944,33.566785,-86.209944,33.566785",
     "geom:latitude":33.566785,
     "geom:longitude":-86.209944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"945 Blue River Dr",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085517,
-        85633793,
         85688675,
-        85849013
+        85633793,
+        85849013,
+        102085517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152673097,
-    "wof:lastmodified":1449046095,
+    "wof:lastmodified":1466319181,
     "wof:name":"Alexandria Florist Inc",
     "wof:parent_id":85849013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.209944,33.566785,-86.209944,33.566785],
-  "geometry": {"coordinates":[-86.209944,33.566785],"type":"Point"}
+  "bbox": [
+    -86.209944,
+    33.566785,
+    -86.209944,
+    33.566785
+],
+  "geometry": {"coordinates":[-86.20994399999999,33.566785],"type":"Point"}
 }

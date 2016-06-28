@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102517307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.986294,34.608313,-86.986294,34.608313",
     "geom:latitude":34.608313,
     "geom:longitude":-86.986294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Davis St NE",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085531,
-        85633793,
         85688675,
-        85802585
+        85633793,
+        85802585,
+        102085531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102517307,
-    "wof:lastmodified":1449069122,
+    "wof:lastmodified":1466316984,
     "wof:name":"Carteret Mortgage Corp",
     "wof:parent_id":85802585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.986294,34.608313,-86.986294,34.608313],
+  "bbox": [
+    -86.986294,
+    34.608313,
+    -86.986294,
+    34.608313
+],
   "geometry": {"coordinates":[-86.986294,34.608313],"type":"Point"}
 }

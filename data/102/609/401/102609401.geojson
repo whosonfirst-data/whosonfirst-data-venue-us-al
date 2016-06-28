@@ -2,13 +2,14 @@
   "id": 102609401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.715382,34.367529,-85.715382,34.367529",
     "geom:latitude":34.367529,
     "geom:longitude":-85.715382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1223 Co Rd 248",
     "sg:city":"Fort Payne",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":102609401,
-    "wof:lastmodified":1449068670,
+    "wof:lastmodified":1466317276,
     "wof:name":"Knight Bell Construction",
     "wof:parent_id":85688675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.715382,34.367529,-85.715382,34.367529],
-  "geometry": {"coordinates":[-85.715382,34.367529],"type":"Point"}
+  "bbox": [
+    -85.715382,
+    34.367529,
+    -85.715382,
+    34.367529
+],
+  "geometry": {"coordinates":[-85.71538200000001,34.367529],"type":"Point"}
 }

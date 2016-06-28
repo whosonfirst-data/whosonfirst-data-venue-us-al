@@ -2,13 +2,14 @@
   "id": 152224027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.680665,33.480182,-86.680665,33.480182",
     "geom:latitude":33.480182,
     "geom:longitude":-86.680665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"922 Caledonian Way",
     "sg:city":"Vestavia Hills",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808787,
+        85688675,
         85633793,
         85914483,
         102085481,
-        85688675
+        85808787
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152224027,
-    "wof:lastmodified":1449047675,
+    "wof:lastmodified":1466316212,
     "wof:name":"Bmw Group",
     "wof:parent_id":85808787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.680665,33.480182,-86.680665,33.480182],
+  "bbox": [
+    -86.680665,
+    33.480182,
+    -86.680665,
+    33.480182
+],
   "geometry": {"coordinates":[-86.680665,33.480182],"type":"Point"}
 }

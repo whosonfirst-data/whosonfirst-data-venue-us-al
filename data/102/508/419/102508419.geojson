@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102508419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.417679,31.223924,-85.417679,31.223924",
     "geom:latitude":31.223924,
     "geom:longitude":-85.417679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 S Cherokee Ave",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85846119,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85846119
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":102508419,
-    "wof:lastmodified":1449069093,
+    "wof:lastmodified":1466316751,
     "wof:name":"Dothan Country Club",
     "wof:parent_id":85846119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.417679,31.223924,-85.417679,31.223924],
-  "geometry": {"coordinates":[-85.417679,31.223924],"type":"Point"}
+  "bbox": [
+    -85.417679,
+    31.223924,
+    -85.417679,
+    31.223924
+],
+  "geometry": {"coordinates":[-85.41767900000001,31.223924],"type":"Point"}
 }

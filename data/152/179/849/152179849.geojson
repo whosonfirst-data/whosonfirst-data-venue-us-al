@@ -2,13 +2,14 @@
   "id": 152179849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.492049,32.578576,-85.492049,32.578576",
     "geom:latitude":32.578576,
     "geom:longitude":-85.492049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"168 E University Dr",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858229,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85858229
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152179849,
-    "wof:lastmodified":1449048447,
+    "wof:lastmodified":1466315695,
     "wof:name":"Fussells Home Builders",
     "wof:parent_id":85858229,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.492049,32.578576,-85.492049,32.578576],
-  "geometry": {"coordinates":[-85.492049,32.578576],"type":"Point"}
+  "bbox": [
+    -85.492049,
+    32.578576,
+    -85.492049,
+    32.578576
+],
+  "geometry": {"coordinates":[-85.49204899999999,32.578576],"type":"Point"}
 }

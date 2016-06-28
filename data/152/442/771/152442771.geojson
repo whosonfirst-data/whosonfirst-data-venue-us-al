@@ -2,13 +2,14 @@
   "id": 152442771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.66424,31.442124,-85.66424,31.442124",
     "geom:latitude":31.442124,
     "geom:longitude":-85.66424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1203 W Andrews Ave",
     "sg:city":"Ozark",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152442771,
-    "wof:lastmodified":1449046337,
+    "wof:lastmodified":1466318127,
     "wof:name":"Bango's Skate Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.66424,31.442124,-85.66424,31.442124],
-  "geometry": {"coordinates":[-85.66424,31.442124],"type":"Point"}
+  "bbox": [
+    -85.66424,
+    31.442124,
+    -85.66424,
+    31.442124
+],
+  "geometry": {"coordinates":[-85.66424000000001,31.442124],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152462909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.10079,30.656952,-88.10079,30.656952",
     "geom:latitude":30.656952,
     "geom:longitude":-88.10079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2521 Halls Mill Rd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.colonialtrailways.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808003,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85808003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152462909,
-    "wof:lastmodified":1449048738,
+    "wof:lastmodified":1466318174,
     "wof:name":"Colonial Trailways",
     "wof:parent_id":85808003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.10079,30.656952,-88.10079,30.656952],
+  "bbox": [
+    -88.10079,
+    30.656952,
+    -88.10079,
+    30.656952
+],
   "geometry": {"coordinates":[-88.10079,30.656952],"type":"Point"}
 }

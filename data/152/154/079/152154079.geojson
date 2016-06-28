@@ -2,13 +2,14 @@
   "id": 152154079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.079696,34.790267,-87.079696,34.790267",
     "geom:latitude":34.790267,
     "geom:longitude":-87.079696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13610 US Hwy 72",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829531,
+        85688675,
         85633793,
         85913543,
         102085489,
-        85688675
+        85829531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152154079,
-    "wof:lastmodified":1449048957,
+    "wof:lastmodified":1466314765,
     "wof:name":"Bw Fencing",
     "wof:parent_id":85829531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.079696,34.790267,-87.079696,34.790267],
+  "bbox": [
+    -87.079696,
+    34.790267,
+    -87.079696,
+    34.790267
+],
   "geometry": {"coordinates":[-87.079696,34.790267],"type":"Point"}
 }

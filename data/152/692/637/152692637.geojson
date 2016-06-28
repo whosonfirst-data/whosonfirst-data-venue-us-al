@@ -2,13 +2,14 @@
   "id": 152692637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.810379,33.515768,-86.810379,33.515768",
     "geom:latitude":33.515768,
     "geom:longitude":-86.810379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1703 4th Ave N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820315,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85820315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152692637,
-    "wof:lastmodified":1449045520,
+    "wof:lastmodified":1466319310,
     "wof:name":"Talk of Town Barber & Style",
     "wof:parent_id":85820315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.810379,33.515768,-86.810379,33.515768],
+  "bbox": [
+    -86.810379,
+    33.515768,
+    -86.810379,
+    33.515768
+],
   "geometry": {"coordinates":[-86.810379,33.515768],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102611117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.600084,34.73892,-86.600084,34.73892",
     "geom:latitude":34.73892,
     "geom:longitude":-86.600084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2013 Cox Ave NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809309,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85809309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102611117,
-    "wof:lastmodified":1449069676,
+    "wof:lastmodified":1466317267,
     "wof:name":"Aquarium Shop",
     "wof:parent_id":85809309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.600084,34.73892,-86.600084,34.73892],
+  "bbox": [
+    -86.600084,
+    34.73892,
+    -86.600084,
+    34.73892
+],
   "geometry": {"coordinates":[-86.600084,34.73892],"type":"Point"}
 }

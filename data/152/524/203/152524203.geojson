@@ -2,13 +2,14 @@
   "id": 152524203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.830332,33.542395,-86.830332,33.542395",
     "geom:latitude":33.542395,
     "geom:longitude":-86.830332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2508 16th St N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876271,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876271
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152524203,
-    "wof:lastmodified":1449044242,
+    "wof:lastmodified":1466318508,
     "wof:name":"Christion and Sons Inc",
     "wof:parent_id":85876271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.830332,33.542395,-86.830332,33.542395],
+  "bbox": [
+    -86.830332,
+    33.542395,
+    -86.830332,
+    33.542395
+],
   "geometry": {"coordinates":[-86.830332,33.542395],"type":"Point"}
 }

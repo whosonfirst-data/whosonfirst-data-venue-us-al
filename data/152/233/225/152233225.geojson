@@ -2,13 +2,14 @@
   "id": 152233225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.6622,34.719869,-86.6622,34.719869",
     "geom:latitude":34.719869,
     "geom:longitude":-86.6622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"509 Harolds Dr NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     "sg:website":"www.imagefactorsouth.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085487,
-        85633793,
         85688675,
-        85817803
+        85633793,
+        85817803,
+        102085487
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152233225,
-    "wof:lastmodified":1449048970,
+    "wof:lastmodified":1466316345,
     "wof:name":"Image Factor South Inc",
     "wof:parent_id":85817803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.6622,34.719869,-86.6622,34.719869],
+  "bbox": [
+    -86.6622,
+    34.719869,
+    -86.6622,
+    34.719869
+],
   "geometry": {"coordinates":[-86.6622,34.719869],"type":"Point"}
 }

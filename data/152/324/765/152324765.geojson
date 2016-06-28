@@ -2,13 +2,14 @@
   "id": 152324765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.744453,33.645102,-86.744453,33.645102",
     "geom:latitude":33.645102,
     "geom:longitude":-86.744453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"650 Carson Rd N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.eta-services.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851413,
+        85688675,
         85633793,
         85914903,
         102085481,
-        85688675
+        85851413
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152324765,
-    "wof:lastmodified":1449047002,
+    "wof:lastmodified":1466317346,
     "wof:name":"ETA Inc",
     "wof:parent_id":85851413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.744453,33.645102,-86.744453,33.645102],
-  "geometry": {"coordinates":[-86.744453,33.645102],"type":"Point"}
+  "bbox": [
+    -86.744453,
+    33.645102,
+    -86.744453,
+    33.645102
+],
+  "geometry": {"coordinates":[-86.74445299999999,33.645102],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152696741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.504038,31.034122,-87.504038,31.034122",
     "geom:latitude":31.034122,
     "geom:longitude":-87.504038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"603 Bream St",
     "sg:city":"Atmore",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843687,
+        85688675,
         85633793,
         85899775,
         102085735,
-        85688675
+        85843687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152696741,
-    "wof:lastmodified":1449044645,
+    "wof:lastmodified":1466319254,
     "wof:name":"Boytes Refrigeration",
     "wof:parent_id":85843687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.504038,31.034122,-87.504038,31.034122],
-  "geometry": {"coordinates":[-87.504038,31.034122],"type":"Point"}
+  "bbox": [
+    -87.504038,
+    31.034122,
+    -87.504038,
+    31.034122
+],
+  "geometry": {"coordinates":[-87.50403799999999,31.034122],"type":"Point"}
 }

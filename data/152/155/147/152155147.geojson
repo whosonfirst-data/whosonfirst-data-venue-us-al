@@ -2,13 +2,14 @@
   "id": 152155147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.398409,31.256662,-85.398409,31.256662",
     "geom:latitude":31.256662,
     "geom:longitude":-85.398409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 Loftin Rd",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -35,11 +36,11 @@
     "sg:website":"www.digiconcorp.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859419,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85859419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":152155147,
-    "wof:lastmodified":1449048113,
+    "wof:lastmodified":1466314826,
     "wof:name":"Digicon Management Corporation",
     "wof:parent_id":85859419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.398409,31.256662,-85.398409,31.256662],
+  "bbox": [
+    -85.398409,
+    31.256662,
+    -85.398409,
+    31.256662
+],
   "geometry": {"coordinates":[-85.398409,31.256662],"type":"Point"}
 }

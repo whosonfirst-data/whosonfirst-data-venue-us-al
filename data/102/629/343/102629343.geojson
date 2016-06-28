@@ -2,13 +2,14 @@
   "id": 102629343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.171564,32.375971,-86.171564,32.375971",
     "geom:latitude":32.375971,
     "geom:longitude":-86.171564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7295 Copperfield Dr",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885419,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85885419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102629343,
-    "wof:lastmodified":1449069625,
+    "wof:lastmodified":1466317454,
     "wof:name":"Belmont The Assisted Living",
     "wof:parent_id":85885419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.171564,32.375971,-86.171564,32.375971],
+  "bbox": [
+    -86.171564,
+    32.375971,
+    -86.171564,
+    32.375971
+],
   "geometry": {"coordinates":[-86.171564,32.375971],"type":"Point"}
 }

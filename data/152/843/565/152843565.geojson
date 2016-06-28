@@ -2,13 +2,14 @@
   "id": 152843565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.430219,31.214675,-85.430219,31.214675",
     "geom:latitude":31.214675,
     "geom:longitude":-85.430219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2855 Ross Clark Cir",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85846119,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85846119
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152843565,
-    "wof:lastmodified":1449044714,
+    "wof:lastmodified":1466320068,
     "wof:name":"Sybil's Christian Supply Inc",
     "wof:parent_id":85846119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.430219,31.214675,-85.430219,31.214675],
-  "geometry": {"coordinates":[-85.430219,31.214675],"type":"Point"}
+  "bbox": [
+    -85.430219,
+    31.214675,
+    -85.430219,
+    31.214675
+],
+  "geometry": {"coordinates":[-85.43021899999999,31.214675],"type":"Point"}
 }

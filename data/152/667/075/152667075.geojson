@@ -2,13 +2,14 @@
   "id": 152667075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.555595,33.221733,-87.555595,33.221733",
     "geom:latitude":33.221733,
     "geom:longitude":-87.555595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 River Ro Dr",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85844931,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85844931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152667075,
-    "wof:lastmodified":1449047320,
+    "wof:lastmodified":1466319169,
     "wof:name":"Westervelt Land Company Inc",
     "wof:parent_id":85844931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.555595,33.221733,-87.555595,33.221733],
+  "bbox": [
+    -87.555595,
+    33.221733,
+    -87.555595,
+    33.221733
+],
   "geometry": {"coordinates":[-87.555595,33.221733],"type":"Point"}
 }

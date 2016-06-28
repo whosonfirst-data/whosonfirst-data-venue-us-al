@@ -2,13 +2,14 @@
   "id": 152364113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.134497,30.676121,-88.134497,30.676121",
     "geom:latitude":30.676121,
     "geom:longitude":-88.134497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3678 Airport Blvd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.boatersworld.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878977,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152364113,
-    "wof:lastmodified":1449046899,
+    "wof:lastmodified":1466317776,
     "wof:name":"Boater's World Marine Ctr",
     "wof:parent_id":85878977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.134497,30.676121,-88.134497,30.676121],
+  "bbox": [
+    -88.134497,
+    30.676121,
+    -88.134497,
+    30.676121
+],
   "geometry": {"coordinates":[-88.134497,30.676121],"type":"Point"}
 }

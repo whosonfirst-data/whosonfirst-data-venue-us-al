@@ -2,13 +2,14 @@
   "id": 152628765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.500267,32.569618,-85.500267,32.569618",
     "geom:latitude":32.569618,
     "geom:longitude":-85.500267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1935 S College St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851115,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85851115
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152628765,
-    "wof:lastmodified":1449048043,
+    "wof:lastmodified":1466318985,
     "wof:name":"Penny Profit",
     "wof:parent_id":85851115,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.500267,32.569618,-85.500267,32.569618],
-  "geometry": {"coordinates":[-85.500267,32.569618],"type":"Point"}
+  "bbox": [
+    -85.500267,
+    32.569618,
+    -85.500267,
+    32.569618
+],
+  "geometry": {"coordinates":[-85.50026699999999,32.569618],"type":"Point"}
 }

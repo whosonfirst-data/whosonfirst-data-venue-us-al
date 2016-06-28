@@ -2,13 +2,14 @@
   "id": 152237461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.377665,34.101317,-86.377665,34.101317",
     "geom:latitude":34.101317,
     "geom:longitude":-86.377665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7853 Co Rd 36",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085667,
-        85633793,
         85688675,
-        85819523
+        85633793,
+        85819523,
+        102085667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152237461,
-    "wof:lastmodified":1449044406,
+    "wof:lastmodified":1466316397,
     "wof:name":"Sue's Bouquet",
     "wof:parent_id":85819523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.377665,34.101317,-86.377665,34.101317],
-  "geometry": {"coordinates":[-86.377665,34.101317],"type":"Point"}
+  "bbox": [
+    -86.377665,
+    34.101317,
+    -86.377665,
+    34.101317
+],
+  "geometry": {"coordinates":[-86.37766499999999,34.101317],"type":"Point"}
 }

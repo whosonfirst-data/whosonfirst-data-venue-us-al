@@ -2,13 +2,14 @@
   "id": 152486953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.933585,34.30956,-85.933585,34.30956",
     "geom:latitude":34.30956,
     "geom:longitude":-85.933585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"919 Co Rd 20",
     "sg:city":"Dawson",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815015,
+        85688675,
         85633793,
         85897515,
         102085615,
-        85688675
+        85815015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152486953,
-    "wof:lastmodified":1449046878,
+    "wof:lastmodified":1466318336,
     "wof:name":"Whitmore Farms",
     "wof:parent_id":85815015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.933585,34.30956,-85.933585,34.30956],
-  "geometry": {"coordinates":[-85.933585,34.30956],"type":"Point"}
+  "bbox": [
+    -85.933585,
+    34.30956,
+    -85.933585,
+    34.30956
+],
+  "geometry": {"coordinates":[-85.93358499999999,34.30956],"type":"Point"}
 }

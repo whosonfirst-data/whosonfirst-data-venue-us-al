@@ -2,13 +2,14 @@
   "id": 152837167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.943794,31.310716,-85.943794,31.310716",
     "geom:latitude":31.310716,
     "geom:longitude":-85.943794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4130 Co Rd 617",
     "sg:city":"New Brockton",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848823,
+        85688675,
         85633793,
         85899527,
         102085699,
-        85688675
+        85848823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152837167,
-    "wof:lastmodified":1449045027,
+    "wof:lastmodified":1466320133,
     "wof:name":"Debs Nursery",
     "wof:parent_id":85848823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.943794,31.310716,-85.943794,31.310716],
+  "bbox": [
+    -85.943794,
+    31.310716,
+    -85.943794,
+    31.310716
+],
   "geometry": {"coordinates":[-85.943794,31.310716],"type":"Point"}
 }

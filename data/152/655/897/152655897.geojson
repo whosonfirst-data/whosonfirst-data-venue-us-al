@@ -2,13 +2,14 @@
   "id": 152655897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.773987,33.529645,-86.773987,33.529645",
     "geom:latitude":33.529645,
     "geom:longitude":-86.773987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4252 Airport Hwy",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815977,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85815977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152655897,
-    "wof:lastmodified":1449046962,
+    "wof:lastmodified":1466319139,
     "wof:name":"Ping",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.773987,33.529645,-86.773987,33.529645],
-  "geometry": {"coordinates":[-86.773987,33.529645],"type":"Point"}
+  "bbox": [
+    -86.773987,
+    33.529645,
+    -86.773987,
+    33.529645
+],
+  "geometry": {"coordinates":[-86.77398700000001,33.529645],"type":"Point"}
 }

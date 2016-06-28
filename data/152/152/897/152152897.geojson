@@ -2,13 +2,14 @@
   "id": 152152897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.576652,34.741186,-86.576652,34.741186",
     "geom:latitude":34.741186,
     "geom:longitude":-86.576652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"506 Andrew Jackson Way NE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819449,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85819449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152152897,
-    "wof:lastmodified":1449047859,
+    "wof:lastmodified":1466314697,
     "wof:name":"Dallas Pest Control",
     "wof:parent_id":85819449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.576652,34.741186,-86.576652,34.741186],
+  "bbox": [
+    -86.576652,
+    34.741186,
+    -86.576652,
+    34.741186
+],
   "geometry": {"coordinates":[-86.576652,34.741186],"type":"Point"}
 }

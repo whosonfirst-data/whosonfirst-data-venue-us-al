@@ -2,13 +2,14 @@
   "id": 152785489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.945963,33.425208,-86.945963,33.425208",
     "geom:latitude":33.425208,
     "geom:longitude":-86.945963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3416 Bessemer Super Hwy",
     "sg:city":"Bessemer",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807371,
+        85688675,
         85633793,
         85914885,
         102085481,
-        85688675
+        85807371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152785489,
-    "wof:lastmodified":1449048124,
+    "wof:lastmodified":1466319755,
     "wof:name":"N&N Furniture & Flea",
     "wof:parent_id":85807371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.945963,33.425208,-86.945963,33.425208],
-  "geometry": {"coordinates":[-86.945963,33.425208],"type":"Point"}
+  "bbox": [
+    -86.945963,
+    33.425208,
+    -86.945963,
+    33.425208
+],
+  "geometry": {"coordinates":[-86.94596300000001,33.425208],"type":"Point"}
 }

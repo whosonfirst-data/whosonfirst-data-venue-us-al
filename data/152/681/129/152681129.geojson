@@ -2,13 +2,14 @@
   "id": 152681129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.448505,32.467544,-86.448505,32.467544",
     "geom:latitude":32.467544,
     "geom:longitude":-86.448505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"170 N Nichols St",
     "sg:city":"Prattville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843041,
+        85688675,
         85633793,
         85913977,
         102085509,
-        85688675
+        85843041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152681129,
-    "wof:lastmodified":1449047124,
+    "wof:lastmodified":1466319235,
     "wof:name":"King's Ceramic Tile Co",
     "wof:parent_id":85843041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.448505,32.467544,-86.448505,32.467544],
+  "bbox": [
+    -86.448505,
+    32.467544,
+    -86.448505,
+    32.467544
+],
   "geometry": {"coordinates":[-86.448505,32.467544],"type":"Point"}
 }

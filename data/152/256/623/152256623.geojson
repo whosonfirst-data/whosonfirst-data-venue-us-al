@@ -2,13 +2,14 @@
   "id": 152256623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.662813,34.777795,-86.662813,34.777795",
     "geom:latitude":34.777795,
     "geom:longitude":-86.662813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"194 Import Cir NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851401,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85851401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152256623,
-    "wof:lastmodified":1449047815,
+    "wof:lastmodified":1466316506,
     "wof:name":"31 W Insulation Co Inc",
     "wof:parent_id":85851401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.662813,34.777795,-86.662813,34.777795],
+  "bbox": [
+    -86.662813,
+    34.777795,
+    -86.662813,
+    34.777795
+],
   "geometry": {"coordinates":[-86.662813,34.777795],"type":"Point"}
 }

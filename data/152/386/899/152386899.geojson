@@ -2,13 +2,14 @@
   "id": 152386899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.783296,34.231017,-86.783296,34.231017",
     "geom:latitude":34.231017,
     "geom:longitude":-86.783296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"995 Co Rd 1476",
     "sg:city":"Cullman",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867305,
+        85688675,
         85633793,
         85914167,
         102085729,
-        85688675
+        85867305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152386899,
-    "wof:lastmodified":1449046731,
+    "wof:lastmodified":1466317614,
     "wof:name":"Barry G Gardner",
     "wof:parent_id":85867305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.783296,34.231017,-86.783296,34.231017],
-  "geometry": {"coordinates":[-86.783296,34.231017],"type":"Point"}
+  "bbox": [
+    -86.783296,
+    34.231017,
+    -86.783296,
+    34.231017
+],
+  "geometry": {"coordinates":[-86.78329600000001,34.231017],"type":"Point"}
 }

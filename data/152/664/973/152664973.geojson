@@ -2,13 +2,14 @@
   "id": 152664973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.719887,33.517568,-86.719887,33.517568",
     "geom:latitude":33.517568,
     "geom:longitude":-86.719887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3601 Vicksburg Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850695,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85850695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152664973,
-    "wof:lastmodified":1449046015,
+    "wof:lastmodified":1466319165,
     "wof:name":"Retrax Reports",
     "wof:parent_id":85850695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.719887,33.517568,-86.719887,33.517568],
+  "bbox": [
+    -86.719887,
+    33.517568,
+    -86.719887,
+    33.517568
+],
   "geometry": {"coordinates":[-86.719887,33.517568],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152458621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.971213,34.801149,-86.971213,34.801149",
     "geom:latitude":34.801149,
     "geom:longitude":-86.971213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 S Marion St",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829531,
+        85688675,
         85633793,
         85913543,
         102085489,
-        85688675
+        85829531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152458621,
-    "wof:lastmodified":1449047586,
+    "wof:lastmodified":1466318232,
     "wof:name":"Child Care Management Agency",
     "wof:parent_id":85829531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.971213,34.801149,-86.971213,34.801149],
-  "geometry": {"coordinates":[-86.971213,34.801149],"type":"Point"}
+  "bbox": [
+    -86.971213,
+    34.801149,
+    -86.971213,
+    34.801149
+],
+  "geometry": {"coordinates":[-86.97121300000001,34.801149],"type":"Point"}
 }

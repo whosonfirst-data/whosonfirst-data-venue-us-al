@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102466759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.903647,30.603689,-87.903647,30.603689",
     "geom:latitude":30.603689,
     "geom:longitude":-87.903647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 Belrose Ave",
     "sg:city":"Daphne",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827259,
+        85688675,
         85633793,
         85914695,
         102085469,
-        85688675
+        85827259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102466759,
-    "wof:lastmodified":1449068501,
+    "wof:lastmodified":1466315232,
     "wof:name":"Fairwood Financial Svc LLC",
     "wof:parent_id":85827259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.903647,30.603689,-87.903647,30.603689],
-  "geometry": {"coordinates":[-87.903647,30.603689],"type":"Point"}
+  "bbox": [
+    -87.903647,
+    30.603689,
+    -87.903647,
+    30.603689
+],
+  "geometry": {"coordinates":[-87.90364700000001,30.603689],"type":"Point"}
 }

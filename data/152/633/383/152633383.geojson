@@ -2,13 +2,14 @@
   "id": 152633383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.737455,33.589012,-86.737455,33.589012",
     "geom:latitude":33.589012,
     "geom:longitude":-86.737455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9296 Briarmont Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816499,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85816499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152633383,
-    "wof:lastmodified":1449048871,
+    "wof:lastmodified":1466319143,
     "wof:name":"Wm H Meadows Rev",
     "wof:parent_id":85816499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.737455,33.589012,-86.737455,33.589012],
+  "bbox": [
+    -86.737455,
+    33.589012,
+    -86.737455,
+    33.589012
+],
   "geometry": {"coordinates":[-86.737455,33.589012],"type":"Point"}
 }

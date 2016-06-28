@@ -2,13 +2,14 @@
   "id": 152230763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.904641,30.68894,-87.904641,30.68894",
     "geom:latitude":30.68894,
     "geom:longitude":-87.904641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Admiral Farragut Dr",
     "sg:city":"Spanish Fort",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820145,
+        85688675,
         85633793,
         85914741,
         102085469,
-        85688675
+        85820145
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152230763,
-    "wof:lastmodified":1449047734,
+    "wof:lastmodified":1466316406,
     "wof:name":"Source LLC",
     "wof:parent_id":85820145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.904641,30.68894,-87.904641,30.68894],
+  "bbox": [
+    -87.904641,
+    30.68894,
+    -87.904641,
+    30.68894
+],
   "geometry": {"coordinates":[-87.904641,30.68894],"type":"Point"}
 }

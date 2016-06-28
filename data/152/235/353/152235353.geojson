@@ -2,13 +2,14 @@
   "id": 152235353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.913255,34.441535,-85.913255,34.441535",
     "geom:latitude":34.441535,
     "geom:longitude":-85.913255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"183 Barron Rd",
     "sg:city":"Fyffe",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815015,
+        85688675,
         85633793,
         85897515,
         102085615,
-        85688675
+        85815015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152235353,
-    "wof:lastmodified":1449045106,
+    "wof:lastmodified":1466316435,
     "wof:name":"Runway Knitting Inc",
     "wof:parent_id":85815015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.913255,34.441535,-85.913255,34.441535],
-  "geometry": {"coordinates":[-85.913255,34.441535],"type":"Point"}
+  "bbox": [
+    -85.913255,
+    34.441535,
+    -85.913255,
+    34.441535
+],
+  "geometry": {"coordinates":[-85.91325500000001,34.441535],"type":"Point"}
 }

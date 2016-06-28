@@ -2,13 +2,14 @@
   "id": 152623007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.935797,34.44595,-86.935797,34.44595",
     "geom:latitude":34.44595,
     "geom:longitude":-86.935797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Sparkman St NW",
     "sg:city":"Hartselle",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152623007,
-    "wof:lastmodified":1449047540,
+    "wof:lastmodified":1466319028,
     "wof:name":"Minter's Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.935797,34.44595,-86.935797,34.44595],
-  "geometry": {"coordinates":[-86.935797,34.44595],"type":"Point"}
+  "bbox": [
+    -86.935797,
+    34.44595,
+    -86.935797,
+    34.44595
+],
+  "geometry": {"coordinates":[-86.93579699999999,34.44595],"type":"Point"}
 }

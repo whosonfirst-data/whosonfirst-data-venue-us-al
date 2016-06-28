@@ -2,13 +2,14 @@
   "id": 152145177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.934645,33.154786,-86.934645,33.154786",
     "geom:latitude":33.154786,
     "geom:longitude":-86.934645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6161 Co Rd 10",
     "sg:city":"Montevallo",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85839361,
+        85688675,
         85633793,
         85914487,
         102085499,
-        85688675
+        85839361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152145177,
-    "wof:lastmodified":1449045715,
+    "wof:lastmodified":1466315401,
     "wof:name":"Shelby County Pea Ridge Senior",
     "wof:parent_id":85839361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.934645,33.154786,-86.934645,33.154786],
+  "bbox": [
+    -86.934645,
+    33.154786,
+    -86.934645,
+    33.154786
+],
   "geometry": {"coordinates":[-86.934645,33.154786],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102462511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.731344,34.667026,-86.731344,34.667026",
     "geom:latitude":34.667026,
     "geom:longitude":-86.731344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Spinnaker Ridge",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807231,
+        85688675,
         85633793,
         85913593,
         102085487,
-        85688675
+        85807231
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102462511,
-    "wof:lastmodified":1449070122,
+    "wof:lastmodified":1466315029,
     "wof:name":"Dan Hosto Rev",
     "wof:parent_id":85807231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.731344,34.667026,-86.731344,34.667026],
-  "geometry": {"coordinates":[-86.731344,34.667026],"type":"Point"}
+  "bbox": [
+    -86.731344,
+    34.667026,
+    -86.731344,
+    34.667026
+],
+  "geometry": {"coordinates":[-86.73134400000001,34.667026],"type":"Point"}
 }

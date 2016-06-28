@@ -2,13 +2,14 @@
   "id": 152590897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.517488,32.651617,-85.517488,32.651617",
     "geom:latitude":32.651617,
     "geom:longitude":-85.517488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1531 Fallen Oaks Ct",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822529,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85822529
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152590897,
-    "wof:lastmodified":1449047052,
+    "wof:lastmodified":1466318821,
     "wof:name":"All Seasons Heating & Air Cond",
     "wof:parent_id":85822529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.517488,32.651617,-85.517488,32.651617],
+  "bbox": [
+    -85.517488,
+    32.651617,
+    -85.517488,
+    32.651617
+],
   "geometry": {"coordinates":[-85.517488,32.651617],"type":"Point"}
 }

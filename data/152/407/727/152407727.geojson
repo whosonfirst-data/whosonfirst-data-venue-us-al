@@ -2,13 +2,14 @@
   "id": 152407727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.58808,34.723348,-86.58808,34.723348",
     "geom:latitude":34.723348,
     "geom:longitude":-86.58808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Davis Cir SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878239,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878239
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152407727,
-    "wof:lastmodified":1449046865,
+    "wof:lastmodified":1466317905,
     "wof:name":"Phillips CME Church",
     "wof:parent_id":85878239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.58808,34.723348,-86.58808,34.723348],
-  "geometry": {"coordinates":[-86.58808,34.723348],"type":"Point"}
+  "bbox": [
+    -86.58808,
+    34.723348,
+    -86.58808,
+    34.723348
+],
+  "geometry": {"coordinates":[-86.58808000000001,34.723348],"type":"Point"}
 }

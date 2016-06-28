@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102508069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.185333,30.631494,-88.185333,30.631494",
     "geom:latitude":30.631494,
     "geom:longitude":-88.185333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2803 Coronado Ct",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850317,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85850317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102508069,
-    "wof:lastmodified":1449069095,
+    "wof:lastmodified":1466316537,
     "wof:name":"Dynamic Services",
     "wof:parent_id":85850317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.185333,30.631494,-88.185333,30.631494],
+  "bbox": [
+    -88.185333,
+    30.631494,
+    -88.185333,
+    30.631494
+],
   "geometry": {"coordinates":[-88.185333,30.631494],"type":"Point"}
 }

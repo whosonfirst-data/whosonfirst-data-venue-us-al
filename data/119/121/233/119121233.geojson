@@ -2,13 +2,14 @@
   "id": 119121233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.100329,30.80209,-88.100329,30.80209",
     "geom:latitude":30.80209,
     "geom:longitude":-88.100329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1088 Industrial Pkwy",
     "sg:city":"Saraland",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":119121233,
-    "wof:lastmodified":1449042912,
+    "wof:lastmodified":1466314917,
     "wof:name":"Eye World",
     "wof:parent_id":85913735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.100329,30.80209,-88.100329,30.80209],
+  "bbox": [
+    -88.100329,
+    30.80209,
+    -88.100329,
+    30.80209
+],
   "geometry": {"coordinates":[-88.100329,30.80209],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102468281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.770322,33.456519,-86.770322,33.456519",
     "geom:latitude":33.456519,
     "geom:longitude":-86.770322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2512 Beaumont Cir",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853703,
+        85688675,
         85633793,
         85914847,
         102085481,
-        85688675
+        85853703
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102468281,
-    "wof:lastmodified":1449069528,
+    "wof:lastmodified":1466315151,
     "wof:name":"Jabco LLC",
     "wof:parent_id":85853703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.770322,33.456519,-86.770322,33.456519],
-  "geometry": {"coordinates":[-86.770322,33.456519],"type":"Point"}
+  "bbox": [
+    -86.770322,
+    33.456519,
+    -86.770322,
+    33.456519
+],
+  "geometry": {"coordinates":[-86.77032199999999,33.456519],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152810827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.836097,33.517876,-86.836097,33.517876",
     "geom:latitude":33.517876,
     "geom:longitude":-86.836097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"961 Center St N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85849097,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85849097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152810827,
-    "wof:lastmodified":1449045645,
+    "wof:lastmodified":1466319876,
     "wof:name":"Our Lady Qeen of Unvrse Church",
     "wof:parent_id":85849097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.836097,33.517876,-86.836097,33.517876],
+  "bbox": [
+    -86.836097,
+    33.517876,
+    -86.836097,
+    33.517876
+],
   "geometry": {"coordinates":[-86.836097,33.517876],"type":"Point"}
 }

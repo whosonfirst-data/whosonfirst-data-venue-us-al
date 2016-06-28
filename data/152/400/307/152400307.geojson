@@ -2,13 +2,14 @@
   "id": 152400307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.798331,30.384365,-87.798331,30.384365",
     "geom:latitude":30.384365,
     "geom:longitude":-87.798331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13180 Co Rd 26",
     "sg:city":"Foley",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868551,
+        85688675,
         85633793,
         85914719,
         102085469,
-        85688675
+        85868551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152400307,
-    "wof:lastmodified":1449044758,
+    "wof:lastmodified":1466317837,
     "wof:name":"Uneeda Sign",
     "wof:parent_id":85868551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.798331,30.384365,-87.798331,30.384365],
+  "bbox": [
+    -87.798331,
+    30.384365,
+    -87.798331,
+    30.384365
+],
   "geometry": {"coordinates":[-87.798331,30.384365],"type":"Point"}
 }

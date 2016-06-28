@@ -2,13 +2,14 @@
   "id": 152206891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.481214,33.234638,-87.481214,33.234638",
     "geom:latitude":33.234638,
     "geom:longitude":-87.481214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1720 Crescent Ridge Rd NE",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152206891,
-    "wof:lastmodified":1449047439,
+    "wof:lastmodified":1466316116,
     "wof:name":"Bama Tire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.481214,33.234638,-87.481214,33.234638],
-  "geometry": {"coordinates":[-87.481214,33.234638],"type":"Point"}
+  "bbox": [
+    -87.481214,
+    33.234638,
+    -87.481214,
+    33.234638
+],
+  "geometry": {"coordinates":[-87.48121399999999,33.234638],"type":"Point"}
 }

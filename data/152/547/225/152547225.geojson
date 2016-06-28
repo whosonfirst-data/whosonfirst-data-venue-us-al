@@ -2,13 +2,14 @@
   "id": 152547225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.534898,34.643711,-86.534898,34.643711",
     "geom:latitude":34.643711,
     "geom:longitude":-86.534898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10017 Dunbarton Dr SE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807141,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85807141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152547225,
-    "wof:lastmodified":1449044776,
+    "wof:lastmodified":1466318576,
     "wof:name":"Michael Advertising Group",
     "wof:parent_id":85807141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.534898,34.643711,-86.534898,34.643711],
+  "bbox": [
+    -86.534898,
+    34.643711,
+    -86.534898,
+    34.643711
+],
   "geometry": {"coordinates":[-86.534898,34.643711],"type":"Point"}
 }

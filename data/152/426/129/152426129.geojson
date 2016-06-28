@@ -2,13 +2,14 @@
   "id": 152426129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.734198,33.555985,-86.734198,33.555985",
     "geom:latitude":33.555985,
     "geom:longitude":-86.734198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7100 1st Ave N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816499,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85816499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152426129,
-    "wof:lastmodified":1449045289,
+    "wof:lastmodified":1466318052,
     "wof:name":"East Lake Laundry",
     "wof:parent_id":85816499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.734198,33.555985,-86.734198,33.555985],
-  "geometry": {"coordinates":[-86.734198,33.555985],"type":"Point"}
+  "bbox": [
+    -86.734198,
+    33.555985,
+    -86.734198,
+    33.555985
+],
+  "geometry": {"coordinates":[-86.73419800000001,33.555985],"type":"Point"}
 }

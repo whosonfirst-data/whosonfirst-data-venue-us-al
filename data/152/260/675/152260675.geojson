@@ -2,13 +2,14 @@
   "id": 152260675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.832489,33.469434,-86.832489,33.469434",
     "geom:latitude":33.469434,
     "geom:longitude":-86.832489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4444 Hampton Heights Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817409,
+        85688675,
         85633793,
         85914847,
         102085481,
-        85688675
+        85817409
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152260675,
-    "wof:lastmodified":1449045078,
+    "wof:lastmodified":1466316580,
     "wof:name":"Team Amer Boxing of Birmingham",
     "wof:parent_id":85817409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.832489,33.469434,-86.832489,33.469434],
+  "bbox": [
+    -86.832489,
+    33.469434,
+    -86.832489,
+    33.469434
+],
   "geometry": {"coordinates":[-86.832489,33.469434],"type":"Point"}
 }

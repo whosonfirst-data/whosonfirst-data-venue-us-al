@@ -2,13 +2,14 @@
   "id": 152458133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.101436,32.371135,-86.101436,32.371135",
     "geom:latitude":32.371135,
     "geom:longitude":-86.101436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13055 Wares Ferry Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803631,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85803631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152458133,
-    "wof:lastmodified":1449047586,
+    "wof:lastmodified":1466318222,
     "wof:name":"Back 9 Pitch & Putt Inc",
     "wof:parent_id":85803631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.101436,32.371135,-86.101436,32.371135],
-  "geometry": {"coordinates":[-86.101436,32.371135],"type":"Point"}
+  "bbox": [
+    -86.101436,
+    32.371135,
+    -86.101436,
+    32.371135
+],
+  "geometry": {"coordinates":[-86.10143600000001,32.371135],"type":"Point"}
 }

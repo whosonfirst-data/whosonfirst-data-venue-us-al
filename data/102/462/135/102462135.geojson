@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102462135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.142378,30.705371,-88.142378,30.705371",
     "geom:latitude":30.705371,
     "geom:longitude":-88.142378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3800 Springhill Ave",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878991,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878991
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102462135,
-    "wof:lastmodified":1449070122,
+    "wof:lastmodified":1466314951,
     "wof:name":"Mt Hebron AME Zion Church",
     "wof:parent_id":85878991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.142378,30.705371,-88.142378,30.705371],
-  "geometry": {"coordinates":[-88.142378,30.705371],"type":"Point"}
+  "bbox": [
+    -88.142378,
+    30.705371,
+    -88.142378,
+    30.705371
+],
+  "geometry": {"coordinates":[-88.14237799999999,30.705371],"type":"Point"}
 }

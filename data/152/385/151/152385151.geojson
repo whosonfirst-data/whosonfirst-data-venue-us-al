@@ -2,13 +2,14 @@
   "id": 152385151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.095678,34.016692,-86.095678,34.016692",
     "geom:latitude":34.016692,
     "geom:longitude":-86.095678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 3rd St SW",
     "sg:city":"Attalla",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085545,
-        85633793,
         85688675,
-        85851221
+        85633793,
+        85851221,
+        102085545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152385151,
-    "wof:lastmodified":1449047043,
+    "wof:lastmodified":1466317751,
     "wof:name":"Buck's Enterprises",
     "wof:parent_id":85851221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.095678,34.016692,-86.095678,34.016692],
-  "geometry": {"coordinates":[-86.095678,34.016692],"type":"Point"}
+  "bbox": [
+    -86.095678,
+    34.016692,
+    -86.095678,
+    34.016692
+],
+  "geometry": {"coordinates":[-86.09567800000001,34.016692],"type":"Point"}
 }

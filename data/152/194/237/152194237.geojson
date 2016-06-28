@@ -2,13 +2,14 @@
   "id": 152194237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.282731,30.927508,-88.282731,30.927508",
     "geom:latitude":30.927508,
     "geom:longitude":-88.282731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11325 Lott Rd",
     "sg:city":"Chunchula",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085585,
-        85633793,
         85688675,
-        85878987
+        85633793,
+        85878987,
+        102085585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152194237,
-    "wof:lastmodified":1449048245,
+    "wof:lastmodified":1466315854,
     "wof:name":"E & L Auto Recyclers LLP",
     "wof:parent_id":85878987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.282731,30.927508,-88.282731,30.927508],
+  "bbox": [
+    -88.282731,
+    30.927508,
+    -88.282731,
+    30.927508
+],
   "geometry": {"coordinates":[-88.282731,30.927508],"type":"Point"}
 }

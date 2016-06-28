@@ -2,13 +2,14 @@
   "id": 152880537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.690162,33.60656,-86.690162,33.60656",
     "geom:latitude":33.60656,
     "geom:longitude":-86.690162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9820 Parkway E",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854035,
+        85688675,
         85633793,
         85914903,
         102085481,
-        85688675
+        85854035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152880537,
-    "wof:lastmodified":1449048935,
+    "wof:lastmodified":1466320246,
     "wof:name":"Greater Brmnghm Ddg-Chrys-Jp",
     "wof:parent_id":85854035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.690162,33.60656,-86.690162,33.60656],
+  "bbox": [
+    -86.690162,
+    33.60656,
+    -86.690162,
+    33.60656
+],
   "geometry": {"coordinates":[-86.690162,33.60656],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152208337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.329462,32.680724,-85.329462,32.680724",
     "geom:latitude":32.680724,
     "geom:longitude":-85.329462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2209 Anderson Rd",
     "sg:city":"Opelika",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152208337,
-    "wof:lastmodified":1449044844,
+    "wof:lastmodified":1466316012,
     "wof:name":"Deep Rock Mfg Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.329462,32.680724,-85.329462,32.680724],
-  "geometry": {"coordinates":[-85.329462,32.680724],"type":"Point"}
+  "bbox": [
+    -85.329462,
+    32.680724,
+    -85.329462,
+    32.680724
+],
+  "geometry": {"coordinates":[-85.32946200000001,32.680724],"type":"Point"}
 }

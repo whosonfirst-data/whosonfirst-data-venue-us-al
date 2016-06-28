@@ -2,13 +2,14 @@
   "id": 152378817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.750806,30.599805,-87.750806,30.599805",
     "geom:latitude":30.599805,
     "geom:longitude":-87.750806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25745 Co Rd 55",
     "sg:city":"Loxley",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847563,
+        85688675,
         85633793,
         85914707,
         102085469,
-        85688675
+        85847563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152378817,
-    "wof:lastmodified":1449047424,
+    "wof:lastmodified":1466317736,
     "wof:name":"Henry Huggins",
     "wof:parent_id":85847563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.750806,30.599805,-87.750806,30.599805],
+  "bbox": [
+    -87.750806,
+    30.599805,
+    -87.750806,
+    30.599805
+],
   "geometry": {"coordinates":[-87.750806,30.599805],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152666029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.816139,33.449446,-86.816139,33.449446",
     "geom:latitude":33.449446,
     "geom:longitude":-86.816139,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1132 W Rue Maison",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829599,
+        85688675,
         85633793,
         85914847,
         102085481,
-        85688675
+        85829599
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152666029,
-    "wof:lastmodified":1449046000,
+    "wof:lastmodified":1466319167,
     "wof:name":"Fehntech Inc",
     "wof:parent_id":85829599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.816139,33.449446,-86.816139,33.449446],
-  "geometry": {"coordinates":[-86.816139,33.449446],"type":"Point"}
+  "bbox": [
+    -86.816139,
+    33.449446,
+    -86.816139,
+    33.449446
+],
+  "geometry": {"coordinates":[-86.81613900000001,33.449446],"type":"Point"}
 }

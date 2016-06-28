@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102465263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.82076,33.594294,-85.82076,33.594294",
     "geom:latitude":33.594294,
     "geom:longitude":-85.82076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 Cheaha Dr",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827499,
+        85688675,
         85633793,
         85914159,
         102085603,
-        85688675
+        85827499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102465263,
-    "wof:lastmodified":1449069409,
+    "wof:lastmodified":1466315057,
     "wof:name":"Grub Mart",
     "wof:parent_id":85827499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.82076,33.594294,-85.82076,33.594294],
-  "geometry": {"coordinates":[-85.82076,33.594294],"type":"Point"}
+  "bbox": [
+    -85.82076,
+    33.594294,
+    -85.82076,
+    33.594294
+],
+  "geometry": {"coordinates":[-85.82076000000001,33.594294],"type":"Point"}
 }

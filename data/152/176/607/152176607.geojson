@@ -2,13 +2,14 @@
   "id": 152176607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.110191,34.313469,-87.110191,34.313469",
     "geom:latitude":34.313469,
     "geom:longitude":-87.110191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2241 Co Rd 195",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085601,
-        85633793,
         85688675,
-        85851971
+        85633793,
+        85851971,
+        102085601
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152176607,
-    "wof:lastmodified":1449047314,
+    "wof:lastmodified":1466315644,
     "wof:name":"Slaten Electric",
     "wof:parent_id":85851971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.110191,34.313469,-87.110191,34.313469],
+  "bbox": [
+    -87.110191,
+    34.313469,
+    -87.110191,
+    34.313469
+],
   "geometry": {"coordinates":[-87.110191,34.313469],"type":"Point"}
 }

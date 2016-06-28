@@ -2,13 +2,14 @@
   "id": 152259261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.285609,32.372101,-86.285609,32.372101",
     "geom:latitude":32.372101,
     "geom:longitude":-86.285609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1736 Highland Ave",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809389,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85809389
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152259261,
-    "wof:lastmodified":1449045348,
+    "wof:lastmodified":1466316736,
     "wof:name":"3 D Electronic Svc Inc",
     "wof:parent_id":85809389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.285609,32.372101,-86.285609,32.372101],
-  "geometry": {"coordinates":[-86.285609,32.372101],"type":"Point"}
+  "bbox": [
+    -86.285609,
+    32.372101,
+    -86.285609,
+    32.372101
+],
+  "geometry": {"coordinates":[-86.28560899999999,32.372101],"type":"Point"}
 }

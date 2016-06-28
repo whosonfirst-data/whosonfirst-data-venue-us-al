@@ -2,13 +2,14 @@
   "id": 152467025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.578071,34.846962,-87.578071,34.846962",
     "geom:latitude":34.846962,
     "geom:longitude":-87.578071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4225 Florence Blvd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085527,
-        85633793,
         85688675,
-        85829459
+        85633793,
+        85829459,
+        102085527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152467025,
-    "wof:lastmodified":1449047931,
+    "wof:lastmodified":1466318147,
     "wof:name":"Ronnie Campbell's Collision Ct",
     "wof:parent_id":85829459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.578071,34.846962,-87.578071,34.846962],
-  "geometry": {"coordinates":[-87.578071,34.846962],"type":"Point"}
+  "bbox": [
+    -87.578071,
+    34.846962,
+    -87.578071,
+    34.846962
+],
+  "geometry": {"coordinates":[-87.57807099999999,34.846962],"type":"Point"}
 }

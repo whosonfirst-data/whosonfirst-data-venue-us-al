@@ -2,13 +2,14 @@
   "id": 152856157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.773124,33.635376,-85.773124,33.635376",
     "geom:latitude":33.635376,
     "geom:longitude":-85.773124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"804 Hilton Rd",
     "sg:city":"Anniston",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850637,
+        85688675,
         85633793,
         85914281,
         102085603,
-        85688675
+        85850637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152856157,
-    "wof:lastmodified":1449045615,
+    "wof:lastmodified":1466320334,
     "wof:name":"Quality Home Inspection Corp",
     "wof:parent_id":85850637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.773124,33.635376,-85.773124,33.635376],
+  "bbox": [
+    -85.773124,
+    33.635376,
+    -85.773124,
+    33.635376
+],
   "geometry": {"coordinates":[-85.773124,33.635376],"type":"Point"}
 }

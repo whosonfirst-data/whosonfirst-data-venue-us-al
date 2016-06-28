@@ -2,13 +2,14 @@
   "id": 152259405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.70515,33.001407,-85.70515,33.001407",
     "geom:latitude":33.001407,
     "geom:longitude":-85.70515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1952 Co Rd 79",
     "sg:city":"Daviston",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848983,
+        85688675,
         85633793,
         85913327,
         102085567,
-        85688675
+        85848983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152259405,
-    "wof:lastmodified":1449045350,
+    "wof:lastmodified":1466316739,
     "wof:name":"Zion Hill Baptist Church",
     "wof:parent_id":85848983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.70515,33.001407,-85.70515,33.001407],
+  "bbox": [
+    -85.70515,
+    33.001407,
+    -85.70515,
+    33.001407
+],
   "geometry": {"coordinates":[-85.70515,33.001407],"type":"Point"}
 }

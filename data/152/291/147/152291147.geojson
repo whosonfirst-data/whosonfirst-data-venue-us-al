@@ -2,13 +2,14 @@
   "id": 152291147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.166892,30.532417,-88.166892,30.532417",
     "geom:latitude":30.532417,
     "geom:longitude":-88.166892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7540 Heaton Dr",
     "sg:city":"Theodore",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878951,
+        85688675,
         85633793,
         85915075,
         102085585,
-        85688675
+        85878951
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152291147,
-    "wof:lastmodified":1449045730,
+    "wof:lastmodified":1466317027,
     "wof:name":"Mandy Codwin",
     "wof:parent_id":85878951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.166892,30.532417,-88.166892,30.532417],
+  "bbox": [
+    -88.166892,
+    30.532417,
+    -88.166892,
+    30.532417
+],
   "geometry": {"coordinates":[-88.166892,30.532417],"type":"Point"}
 }

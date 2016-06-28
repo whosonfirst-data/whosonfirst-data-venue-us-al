@@ -2,13 +2,14 @@
   "id": 152630687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.830259,33.660983,-85.830259,33.660983",
     "geom:latitude":33.660983,
     "geom:longitude":-85.830259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 W 13th St",
     "sg:city":"Anniston",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840061,
+        85688675,
         85633793,
         85914281,
         102085603,
-        85688675
+        85840061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152630687,
-    "wof:lastmodified":1449045964,
+    "wof:lastmodified":1466318761,
     "wof:name":"Glass Molder Plastic & Pottery",
     "wof:parent_id":85840061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.830259,33.660983,-85.830259,33.660983],
+  "bbox": [
+    -85.830259,
+    33.660983,
+    -85.830259,
+    33.660983
+],
   "geometry": {"coordinates":[-85.830259,33.660983],"type":"Point"}
 }

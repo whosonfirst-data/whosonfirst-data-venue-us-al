@@ -2,13 +2,14 @@
   "id": 152317641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.973261,33.500276,-85.973261,33.500276",
     "geom:latitude":33.500276,
     "geom:longitude":-85.973261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1217 Armbrester Ln",
     "sg:city":"Munford",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":152317641,
-    "wof:lastmodified":1449046426,
+    "wof:lastmodified":1466317282,
     "wof:name":"Munford Heating & Cooling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.973261,33.500276,-85.973261,33.500276],
-  "geometry": {"coordinates":[-85.973261,33.500276],"type":"Point"}
+  "bbox": [
+    -85.973261,
+    33.500276,
+    -85.973261,
+    33.500276
+],
+  "geometry": {"coordinates":[-85.97326099999999,33.500276],"type":"Point"}
 }

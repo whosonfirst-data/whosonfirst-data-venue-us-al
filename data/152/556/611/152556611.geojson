@@ -2,13 +2,14 @@
   "id": 152556611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.674908,34.796026,-87.674908,34.796026",
     "geom:latitude":34.796026,
     "geom:longitude":-87.674908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 S Pine St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848857,
+        85688675,
         85633793,
         85914011,
         102085527,
-        85688675
+        85848857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152556611,
-    "wof:lastmodified":1449045440,
+    "wof:lastmodified":1466318725,
     "wof:name":"King Realty & Auction Co",
     "wof:parent_id":85848857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.674908,34.796026,-87.674908,34.796026],
+  "bbox": [
+    -87.674908,
+    34.796026,
+    -87.674908,
+    34.796026
+],
   "geometry": {"coordinates":[-87.674908,34.796026],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152399831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.539577,30.281337,-87.539577,30.281337",
     "geom:latitude":30.281337,
     "geom:longitude":-87.539577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28420 Ono Blvd",
     "sg:city":"Orange Beach",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868551,
+        85688675,
         85633793,
         85914719,
         102085469,
-        85688675
+        85868551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152399831,
-    "wof:lastmodified":1449045124,
+    "wof:lastmodified":1466317865,
     "wof:name":"J Tinker Inc",
     "wof:parent_id":85868551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.539577,30.281337,-87.539577,30.281337],
-  "geometry": {"coordinates":[-87.539577,30.281337],"type":"Point"}
+  "bbox": [
+    -87.539577,
+    30.281337,
+    -87.539577,
+    30.281337
+],
+  "geometry": {"coordinates":[-87.53957699999999,30.281337],"type":"Point"}
 }

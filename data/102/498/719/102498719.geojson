@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102498719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.86915,33.483528,-86.86915,33.483528",
     "geom:latitude":33.483528,
     "geom:longitude":-86.86915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"619 19th St SW",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818187,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85818187
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102498719,
-    "wof:lastmodified":1449069602,
+    "wof:lastmodified":1466316442,
     "wof:name":"Heart Station",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.86915,33.483528,-86.86915,33.483528],
+  "bbox": [
+    -86.86915,
+    33.483528,
+    -86.86915,
+    33.483528
+],
   "geometry": {"coordinates":[-86.86915,33.483528],"type":"Point"}
 }

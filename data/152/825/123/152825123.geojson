@@ -2,13 +2,14 @@
   "id": 152825123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.201765,32.381927,-86.201765,32.381927",
     "geom:latitude":32.381927,
     "geom:longitude":-86.201765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"281 Mendel Pkwy",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809571,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85809571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152825123,
-    "wof:lastmodified":1449044475,
+    "wof:lastmodified":1466319969,
     "wof:name":"Complete Food Service Solution",
     "wof:parent_id":85809571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.201765,32.381927,-86.201765,32.381927],
-  "geometry": {"coordinates":[-86.201765,32.381927],"type":"Point"}
+  "bbox": [
+    -86.201765,
+    32.381927,
+    -86.201765,
+    32.381927
+],
+  "geometry": {"coordinates":[-86.20176499999999,32.381927],"type":"Point"}
 }

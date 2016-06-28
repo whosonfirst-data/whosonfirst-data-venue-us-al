@@ -2,13 +2,14 @@
   "id": 152339369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.577396,33.201525,-87.577396,33.201525",
     "geom:latitude":33.201525,
     "geom:longitude":-87.577396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1033 Martin Luther King Jr Blvd",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816127,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85816127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152339369,
-    "wof:lastmodified":1449046377,
+    "wof:lastmodified":1466317523,
     "wof:name":"Birmingham Post-Herald",
     "wof:parent_id":85816127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.577396,33.201525,-87.577396,33.201525],
-  "geometry": {"coordinates":[-87.577396,33.201525],"type":"Point"}
+  "bbox": [
+    -87.577396,
+    33.201525,
+    -87.577396,
+    33.201525
+],
+  "geometry": {"coordinates":[-87.57739599999999,33.201525],"type":"Point"}
 }

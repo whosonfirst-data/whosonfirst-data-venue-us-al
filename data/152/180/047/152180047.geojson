@@ -2,13 +2,14 @@
   "id": 152180047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.855021,34.87542,-86.855021,34.87542",
     "geom:latitude":34.87542,
     "geom:longitude":-86.855021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26182 Drawbaugh Rd",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085487,
-        85633793,
         85688675,
-        85820675
+        85633793,
+        85820675,
+        102085487
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152180047,
-    "wof:lastmodified":1449044480,
+    "wof:lastmodified":1466315793,
     "wof:name":"Hilliard Landscaping",
     "wof:parent_id":85820675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.855021,34.87542,-86.855021,34.87542],
-  "geometry": {"coordinates":[-86.855021,34.87542],"type":"Point"}
+  "bbox": [
+    -86.855021,
+    34.87542,
+    -86.855021,
+    34.87542
+],
+  "geometry": {"coordinates":[-86.85502099999999,34.87542],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152764237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.568918,33.077666,-86.568918,33.077666",
     "geom:latitude":33.077666,
     "geom:longitude":-86.568918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18303 State Rte 145",
     "sg:city":"Shelby",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825591,
+        85688675,
         85633793,
         85914497,
         102085499,
-        85688675
+        85825591
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152764237,
-    "wof:lastmodified":1449048700,
+    "wof:lastmodified":1466319623,
     "wof:name":"Southeastern Canopies Inc",
     "wof:parent_id":85825591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.568918,33.077666,-86.568918,33.077666],
+  "bbox": [
+    -86.568918,
+    33.077666,
+    -86.568918,
+    33.077666
+],
   "geometry": {"coordinates":[-86.568918,33.077666],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102470867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.970048,34.58774,-86.970048,34.58774",
     "geom:latitude":34.58774,
     "geom:longitude":-86.970048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1310 14th Ave SE",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     "sg:website":"www.internal-med.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085531,
-        85633793,
         85688675,
-        85802585
+        85633793,
+        85802585,
+        102085531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102470867,
-    "wof:lastmodified":1449068372,
+    "wof:lastmodified":1466315345,
     "wof:name":"Decatur Internal Medicine",
     "wof:parent_id":85802585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.970048,34.58774,-86.970048,34.58774],
-  "geometry": {"coordinates":[-86.970048,34.58774],"type":"Point"}
+  "bbox": [
+    -86.970048,
+    34.58774,
+    -86.970048,
+    34.58774
+],
+  "geometry": {"coordinates":[-86.97004800000001,34.58774],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152800571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.873936,33.501883,-86.873936,33.501883",
     "geom:latitude":33.501883,
     "geom:longitude":-86.873936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2508 29th Pl Ensley",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818187,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85818187
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152800571,
-    "wof:lastmodified":1449044668,
+    "wof:lastmodified":1466320002,
     "wof:name":"Office Park Alterations",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.873936,33.501883,-86.873936,33.501883],
+  "bbox": [
+    -86.873936,
+    33.501883,
+    -86.873936,
+    33.501883
+],
   "geometry": {"coordinates":[-86.873936,33.501883],"type":"Point"}
 }

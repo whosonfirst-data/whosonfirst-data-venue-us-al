@@ -2,13 +2,14 @@
   "id": 152680237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.011032,34.020792,-86.011032,34.020792",
     "geom:latitude":34.020792,
     "geom:longitude":-86.011032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 N 9th St",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805515,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675,
+        85805515,
         85822279
     ],
     "wof:breaches":[],
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":152680237,
-    "wof:lastmodified":1449047533,
+    "wof:lastmodified":1466319329,
     "wof:name":"Mount Pilgrim Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.011032,34.020792,-86.011032,34.020792],
+  "bbox": [
+    -86.011032,
+    34.020792,
+    -86.011032,
+    34.020792
+],
   "geometry": {"coordinates":[-86.011032,34.020792],"type":"Point"}
 }

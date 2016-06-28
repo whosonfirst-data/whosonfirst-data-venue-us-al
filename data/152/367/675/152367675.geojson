@@ -2,13 +2,14 @@
   "id": 152367675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.200021,32.34619,-86.200021,32.34619",
     "geom:latitude":32.34619,
     "geom:longitude":-86.200021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6600 Whipporwill Ct",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879059,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879059
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152367675,
-    "wof:lastmodified":1449047030,
+    "wof:lastmodified":1466317789,
     "wof:name":"Gloria Locklin",
     "wof:parent_id":85879059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.200021,32.34619,-86.200021,32.34619],
-  "geometry": {"coordinates":[-86.200021,32.34619],"type":"Point"}
+  "bbox": [
+    -86.200021,
+    32.34619,
+    -86.200021,
+    32.34619
+],
+  "geometry": {"coordinates":[-86.20002100000001,32.34619],"type":"Point"}
 }

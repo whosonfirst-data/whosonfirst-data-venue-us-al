@@ -2,13 +2,14 @@
   "id": 152293253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.048469,31.095451,-87.048469,31.095451",
     "geom:latitude":31.095451,
     "geom:longitude":-87.048469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 Dailey St",
     "sg:city":"Brewton",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152293253,
-    "wof:lastmodified":1449045211,
+    "wof:lastmodified":1466317055,
     "wof:name":"Al's Ceramic Tile",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.048469,31.095451,-87.048469,31.095451],
+  "bbox": [
+    -87.048469,
+    31.095451,
+    -87.048469,
+    31.095451
+],
   "geometry": {"coordinates":[-87.048469,31.095451],"type":"Point"}
 }

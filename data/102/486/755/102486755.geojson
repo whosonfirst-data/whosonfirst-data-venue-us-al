@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102486755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.925772,34.798933,-86.925772,34.798933",
     "geom:latitude":34.798933,
     "geom:longitude":-86.925772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16772 Linton Rd",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829133,
+        85688675,
         85633793,
         85913543,
         102085489,
-        85688675
+        85829133
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102486755,
-    "wof:lastmodified":1449069081,
+    "wof:lastmodified":1466315823,
     "wof:name":"Fanciful Things Inc",
     "wof:parent_id":85829133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.925772,34.798933,-86.925772,34.798933],
-  "geometry": {"coordinates":[-86.925772,34.798933],"type":"Point"}
+  "bbox": [
+    -86.925772,
+    34.798933,
+    -86.925772,
+    34.798933
+],
+  "geometry": {"coordinates":[-86.92577199999999,34.798933],"type":"Point"}
 }

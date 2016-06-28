@@ -2,13 +2,14 @@
   "id": 152846063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.260296,32.381301,-86.260296,32.381301",
     "geom:latitude":32.381301,
     "geom:longitude":-86.260296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3343 Willow Lane Dr",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85832961,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85832961
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152846063,
-    "wof:lastmodified":1449047875,
+    "wof:lastmodified":1466320064,
     "wof:name":"Applied Security Concepts Inc",
     "wof:parent_id":85832961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.260296,32.381301,-86.260296,32.381301],
+  "bbox": [
+    -86.260296,
+    32.381301,
+    -86.260296,
+    32.381301
+],
   "geometry": {"coordinates":[-86.260296,32.381301],"type":"Point"}
 }

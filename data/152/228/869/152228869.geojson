@@ -2,13 +2,14 @@
   "id": 152228869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.912582,30.51943,-87.912582,30.51943",
     "geom:latitude":30.51943,
     "geom:longitude":-87.912582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 White Ave",
     "sg:city":"Fairhope",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.craneinspection.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831925,
+        85688675,
         85633793,
         85914707,
         102085469,
-        85688675
+        85831925
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152228869,
-    "wof:lastmodified":1449045749,
+    "wof:lastmodified":1466316382,
     "wof:name":"Crane Inspection Svc",
     "wof:parent_id":85831925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.912582,30.51943,-87.912582,30.51943],
+  "bbox": [
+    -87.912582,
+    30.51943,
+    -87.912582,
+    30.51943
+],
   "geometry": {"coordinates":[-87.912582,30.51943],"type":"Point"}
 }

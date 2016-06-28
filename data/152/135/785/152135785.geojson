@@ -2,13 +2,14 @@
   "id": 152135785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.773655,33.470134,-86.773655,33.470134",
     "geom:latitude":33.470134,
     "geom:longitude":-86.773655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 Shades Creek Pkwy",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850365,
+        85688675,
         85633793,
         85914847,
         102085481,
-        85688675
+        85850365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152135785,
-    "wof:lastmodified":1449046082,
+    "wof:lastmodified":1466315311,
     "wof:name":"Mark McConville",
     "wof:parent_id":85850365,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.773655,33.470134,-86.773655,33.470134],
-  "geometry": {"coordinates":[-86.773655,33.470134],"type":"Point"}
+  "bbox": [
+    -86.773655,
+    33.470134,
+    -86.773655,
+    33.470134
+],
+  "geometry": {"coordinates":[-86.77365500000001,33.470134],"type":"Point"}
 }

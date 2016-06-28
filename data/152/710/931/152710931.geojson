@@ -2,13 +2,14 @@
   "id": 152710931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.080713,30.7152,-88.080713,30.7152",
     "geom:latitude":30.7152,
     "geom:longitude":-88.080713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2010 Dr Martin L King Jr Ave",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878989,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152710931,
-    "wof:lastmodified":1449044586,
+    "wof:lastmodified":1466319515,
     "wof:name":"Trustworthy Child Care Inc",
     "wof:parent_id":85878989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.080713,30.7152,-88.080713,30.7152],
+  "bbox": [
+    -88.080713,
+    30.7152,
+    -88.080713,
+    30.7152
+],
   "geometry": {"coordinates":[-88.080713,30.7152],"type":"Point"}
 }

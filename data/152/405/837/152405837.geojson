@@ -2,13 +2,14 @@
   "id": 152405837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.767439,33.517125,-86.767439,33.517125",
     "geom:latitude":33.517125,
     "geom:longitude":-86.767439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4306 Overlook Rd S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876275,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152405837,
-    "wof:lastmodified":1449048535,
+    "wof:lastmodified":1466317885,
     "wof:name":"Furnace Films LLC",
     "wof:parent_id":85876275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.767439,33.517125,-86.767439,33.517125],
+  "bbox": [
+    -86.767439,
+    33.517125,
+    -86.767439,
+    33.517125
+],
   "geometry": {"coordinates":[-86.767439,33.517125],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152142125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.045506,34.318459,-86.045506,34.318459",
     "geom:latitude":34.318459,
     "geom:longitude":-86.045506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"518 Co Rd 154",
     "sg:city":"Crossville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815015,
+        85688675,
         85633793,
         85897515,
         102085615,
-        85688675
+        85815015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152142125,
-    "wof:lastmodified":1449047999,
+    "wof:lastmodified":1466315391,
     "wof:name":"Wilks Excavating",
     "wof:parent_id":85815015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.045506,34.318459,-86.045506,34.318459],
+  "bbox": [
+    -86.045506,
+    34.318459,
+    -86.045506,
+    34.318459
+],
   "geometry": {"coordinates":[-86.045506,34.318459],"type":"Point"}
 }

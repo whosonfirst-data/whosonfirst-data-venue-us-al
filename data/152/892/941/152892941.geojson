@@ -2,13 +2,14 @@
   "id": 152892941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.527743,34.819673,-86.527743,34.819673",
     "geom:latitude":34.819673,
     "geom:longitude":-86.527743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 Maddux Ct",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842195,
+        85688675,
         85633793,
         85915397,
         102085487,
-        85688675
+        85842195
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152892941,
-    "wof:lastmodified":1449044990,
+    "wof:lastmodified":1466320325,
     "wof:name":"3dgpucom",
     "wof:parent_id":85842195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.527743,34.819673,-86.527743,34.819673],
+  "bbox": [
+    -86.527743,
+    34.819673,
+    -86.527743,
+    34.819673
+],
   "geometry": {"coordinates":[-86.527743,34.819673],"type":"Point"}
 }

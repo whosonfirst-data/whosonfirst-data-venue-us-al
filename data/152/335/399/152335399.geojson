@@ -2,13 +2,14 @@
   "id": 152335399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.846186,31.328957,-85.846186,31.328957",
     "geom:latitude":31.328957,
     "geom:longitude":-85.846186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Candy Dr",
     "sg:city":"Enterprise",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825461,
+        85688675,
         85633793,
         85899527,
         102085699,
-        85688675
+        85825461
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152335399,
-    "wof:lastmodified":1449047346,
+    "wof:lastmodified":1466317343,
     "wof:name":"Attaway Customs Cabinets",
     "wof:parent_id":85825461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.846186,31.328957,-85.846186,31.328957],
+  "bbox": [
+    -85.846186,
+    31.328957,
+    -85.846186,
+    31.328957
+],
   "geometry": {"coordinates":[-85.846186,31.328957],"type":"Point"}
 }

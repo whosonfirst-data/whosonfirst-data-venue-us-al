@@ -2,13 +2,14 @@
   "id": 152533167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.471933,34.669706,-86.471933,34.669706",
     "geom:latitude":34.669706,
     "geom:longitude":-86.471933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2701 Treyburne Ln",
     "sg:city":"Owens Cross Roads",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878245,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152533167,
-    "wof:lastmodified":1449044228,
+    "wof:lastmodified":1466318372,
     "wof:name":"Jerry W Holt Const Co Inc",
     "wof:parent_id":85878245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.471933,34.669706,-86.471933,34.669706],
-  "geometry": {"coordinates":[-86.471933,34.669706],"type":"Point"}
+  "bbox": [
+    -86.471933,
+    34.669706,
+    -86.471933,
+    34.669706
+],
+  "geometry": {"coordinates":[-86.47193300000001,34.669706],"type":"Point"}
 }

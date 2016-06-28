@@ -2,13 +2,14 @@
   "id": 152133775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.212882,32.372271,-86.212882,32.372271",
     "geom:latitude":32.372271,
     "geom:longitude":-86.212882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"508 Melanie Dr",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809571,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85809571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152133775,
-    "wof:lastmodified":1449048124,
+    "wof:lastmodified":1466315248,
     "wof:name":"George Spigner",
     "wof:parent_id":85809571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.212882,32.372271,-86.212882,32.372271],
-  "geometry": {"coordinates":[-86.212882,32.372271],"type":"Point"}
+  "bbox": [
+    -86.212882,
+    32.372271,
+    -86.212882,
+    32.372271
+],
+  "geometry": {"coordinates":[-86.21288199999999,32.372271],"type":"Point"}
 }

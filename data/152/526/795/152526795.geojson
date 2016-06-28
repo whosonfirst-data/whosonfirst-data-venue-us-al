@@ -2,13 +2,14 @@
   "id": 152526795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.816301,33.347783,-86.816301,33.347783",
     "geom:latitude":33.347783,
     "geom:longitude":-86.816301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2311 Birkshire Ln",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802401,
+        85688675,
         85633793,
         85914475,
         102085499,
-        85688675
+        85802401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152526795,
-    "wof:lastmodified":1449045724,
+    "wof:lastmodified":1466318467,
     "wof:name":"Bond Brown Sales Design LLC",
     "wof:parent_id":85802401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.816301,33.347783,-86.816301,33.347783],
+  "bbox": [
+    -86.816301,
+    33.347783,
+    -86.816301,
+    33.347783
+],
   "geometry": {"coordinates":[-86.816301,33.347783],"type":"Point"}
 }

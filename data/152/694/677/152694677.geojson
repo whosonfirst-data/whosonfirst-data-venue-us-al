@@ -2,13 +2,14 @@
   "id": 152694677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.016512,32.402169,-87.016512,32.402169",
     "geom:latitude":32.402169,
     "geom:longitude":-87.016512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 US Hwy 80",
     "sg:city":"Selma",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152694677,
-    "wof:lastmodified":1449045600,
+    "wof:lastmodified":1466319161,
     "wof:name":"Selma Curb Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.016512,32.402169,-87.016512,32.402169],
-  "geometry": {"coordinates":[-87.016512,32.402169],"type":"Point"}
+  "bbox": [
+    -87.016512,
+    32.402169,
+    -87.016512,
+    32.402169
+],
+  "geometry": {"coordinates":[-87.01651200000001,32.402169],"type":"Point"}
 }

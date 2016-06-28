@@ -2,13 +2,14 @@
   "id": 152271419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.731872,33.357868,-86.731872,33.357868",
     "geom:latitude":33.357868,
     "geom:longitude":-86.731872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5509 Timber Hill Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -25,10 +26,10 @@
     "sg:website":"www.jsbacademy.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85836661
+        85633793,
+        85836661,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":152271419,
-    "wof:lastmodified":1449046726,
+    "wof:lastmodified":1466316807,
     "wof:name":"Bruno Montessori Academy",
     "wof:parent_id":85836661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.731872,33.357868,-86.731872,33.357868],
+  "bbox": [
+    -86.731872,
+    33.357868,
+    -86.731872,
+    33.357868
+],
   "geometry": {"coordinates":[-86.731872,33.357868],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152323631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.761313,33.382029,-86.761313,33.382029",
     "geom:latitude":33.382029,
     "geom:longitude":-86.761313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4511 Southlake Pkwy",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85858213
+        85633793,
+        85858213,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152323631,
-    "wof:lastmodified":1449044701,
+    "wof:lastmodified":1466317338,
     "wof:name":"Medplex Otpatient Surgery Ctrs",
     "wof:parent_id":85858213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.761313,33.382029,-86.761313,33.382029],
+  "bbox": [
+    -86.761313,
+    33.382029,
+    -86.761313,
+    33.382029
+],
   "geometry": {"coordinates":[-86.761313,33.382029],"type":"Point"}
 }

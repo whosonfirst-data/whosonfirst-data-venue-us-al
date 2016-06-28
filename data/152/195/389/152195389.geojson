@@ -2,13 +2,14 @@
   "id": 152195389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.250431,31.569274,-85.250431,31.569274",
     "geom:latitude":31.569274,
     "geom:longitude":-85.250431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Kirkland St",
     "sg:city":"Abbeville",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152195389,
-    "wof:lastmodified":1449047335,
+    "wof:lastmodified":1466315875,
     "wof:name":"Richardson Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.250431,31.569274,-85.250431,31.569274],
-  "geometry": {"coordinates":[-85.250431,31.569274],"type":"Point"}
+  "bbox": [
+    -85.250431,
+    31.569274,
+    -85.250431,
+    31.569274
+],
+  "geometry": {"coordinates":[-85.25043100000001,31.569274],"type":"Point"}
 }

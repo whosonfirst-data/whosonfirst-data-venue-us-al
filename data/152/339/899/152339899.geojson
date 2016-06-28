@@ -2,13 +2,14 @@
   "id": 152339899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.534468,33.14628,-87.534468,33.14628",
     "geom:latitude":33.14628,
     "geom:longitude":-87.534468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Bear Creek Cutoff Rd",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085553,
-        85633793,
         85688675,
-        85851887
+        85633793,
+        85851887,
+        102085553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152339899,
-    "wof:lastmodified":1449046378,
+    "wof:lastmodified":1466317553,
     "wof:name":"Billy E Burnett Inc",
     "wof:parent_id":85851887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.534468,33.14628,-87.534468,33.14628],
+  "bbox": [
+    -87.534468,
+    33.14628,
+    -87.534468,
+    33.14628
+],
   "geometry": {"coordinates":[-87.534468,33.14628],"type":"Point"}
 }

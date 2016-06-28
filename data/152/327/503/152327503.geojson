@@ -2,13 +2,14 @@
   "id": 152327503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.807144,33.401908,-86.807144,33.401908",
     "geom:latitude":33.401908,
     "geom:longitude":-86.807144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 Hoover Ct",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -30,10 +31,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085481,
-        85633793,
         85688675,
-        85834951
+        85633793,
+        85834951,
+        102085481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152327503,
-    "wof:lastmodified":1449044654,
+    "wof:lastmodified":1466317362,
     "wof:name":"Mitchells Spa & Salon Inc",
     "wof:parent_id":85834951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.807144,33.401908,-86.807144,33.401908],
-  "geometry": {"coordinates":[-86.807144,33.401908],"type":"Point"}
+  "bbox": [
+    -86.807144,
+    33.401908,
+    -86.807144,
+    33.401908
+],
+  "geometry": {"coordinates":[-86.80714399999999,33.401908],"type":"Point"}
 }

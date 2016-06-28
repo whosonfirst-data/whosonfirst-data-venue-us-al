@@ -2,13 +2,14 @@
   "id": 152800269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.800889,33.38153,-86.800889,33.38153",
     "geom:latitude":33.38153,
     "geom:longitude":-86.800889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3709 Lodge Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858879,
+        85688675,
         85633793,
         85914475,
         102085481,
-        85688675
+        85858879
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152800269,
-    "wof:lastmodified":1449044668,
+    "wof:lastmodified":1466319999,
     "wof:name":"S & P Distirbutors",
     "wof:parent_id":85858879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.800889,33.38153,-86.800889,33.38153],
+  "bbox": [
+    -86.800889,
+    33.38153,
+    -86.800889,
+    33.38153
+],
   "geometry": {"coordinates":[-86.800889,33.38153],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152496739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.580857,34.663633,-86.580857,34.663633",
     "geom:latitude":34.663633,
     "geom:longitude":-86.580857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7602 Peacock Dr SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819601,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85819601
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152496739,
-    "wof:lastmodified":1449048218,
+    "wof:lastmodified":1466318463,
     "wof:name":"Dpn Ventures LLC",
     "wof:parent_id":85819601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.580857,34.663633,-86.580857,34.663633],
-  "geometry": {"coordinates":[-86.580857,34.663633],"type":"Point"}
+  "bbox": [
+    -86.580857,
+    34.663633,
+    -86.580857,
+    34.663633
+],
+  "geometry": {"coordinates":[-86.58085699999999,34.663633],"type":"Point"}
 }

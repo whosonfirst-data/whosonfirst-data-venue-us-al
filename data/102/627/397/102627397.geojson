@@ -2,13 +2,14 @@
   "id": 102627397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.780985,33.526281,-86.780985,33.526281",
     "geom:latitude":33.526281,
     "geom:longitude":-86.780985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3724 1st Ave N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876275,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102627397,
-    "wof:lastmodified":1449070261,
+    "wof:lastmodified":1466317453,
     "wof:name":"Classic Iron Works Inc",
     "wof:parent_id":85876275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.780985,33.526281,-86.780985,33.526281],
+  "bbox": [
+    -86.780985,
+    33.526281,
+    -86.780985,
+    33.526281
+],
   "geometry": {"coordinates":[-86.780985,33.526281],"type":"Point"}
 }

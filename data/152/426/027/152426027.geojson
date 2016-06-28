@@ -2,13 +2,14 @@
   "id": 152426027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.539404,34.792908,-86.539404,34.792908",
     "geom:latitude":34.792908,
     "geom:longitude":-86.539404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5102 Colemont Ln NE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833793,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85833793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152426027,
-    "wof:lastmodified":1449045286,
+    "wof:lastmodified":1466317949,
     "wof:name":"Castwell",
     "wof:parent_id":85833793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.539404,34.792908,-86.539404,34.792908],
+  "bbox": [
+    -86.539404,
+    34.792908,
+    -86.539404,
+    34.792908
+],
   "geometry": {"coordinates":[-86.539404,34.792908],"type":"Point"}
 }

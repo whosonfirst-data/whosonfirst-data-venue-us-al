@@ -2,13 +2,14 @@
   "id": 152828515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.373264,32.656762,-85.373264,32.656762",
     "geom:latitude":32.656762,
     "geom:longitude":-85.373264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Samford Ave",
     "sg:city":"Opelika",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85857153,
+        85688675,
         85633793,
         85913815,
         102085751,
-        85688675
+        85857153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152828515,
-    "wof:lastmodified":1449046645,
+    "wof:lastmodified":1466320001,
     "wof:name":"Fields Co Architects Inc",
     "wof:parent_id":85857153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.373264,32.656762,-85.373264,32.656762],
-  "geometry": {"coordinates":[-85.373264,32.656762],"type":"Point"}
+  "bbox": [
+    -85.373264,
+    32.656762,
+    -85.373264,
+    32.656762
+],
+  "geometry": {"coordinates":[-85.37326400000001,32.656762],"type":"Point"}
 }

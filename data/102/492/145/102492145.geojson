@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102492145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.19491,32.564371,-86.19491,32.564371",
     "geom:latitude":32.564371,
     "geom:longitude":-86.19491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8935 US Hwy 231",
     "sg:city":"Wetumpka",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851843,
+        85688675,
         85633793,
         85913951,
         102085631,
-        85688675
+        85851843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102492145,
-    "wof:lastmodified":1449067758,
+    "wof:lastmodified":1466315933,
     "wof:name":"Traffic Court",
     "wof:parent_id":85851843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.19491,32.564371,-86.19491,32.564371],
-  "geometry": {"coordinates":[-86.19491,32.564371],"type":"Point"}
+  "bbox": [
+    -86.19491,
+    32.564371,
+    -86.19491,
+    32.564371
+],
+  "geometry": {"coordinates":[-86.19490999999999,32.564371],"type":"Point"}
 }

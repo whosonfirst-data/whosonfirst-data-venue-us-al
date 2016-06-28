@@ -2,13 +2,14 @@
   "id": 152800513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.773328,33.483635,-86.773328,33.483635",
     "geom:latitude":33.483635,
     "geom:longitude":-86.773328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2822 Petticoat Ln",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854765,
+        85688675,
         85633793,
         85914807,
         102085481,
-        85688675
+        85854765
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152800513,
-    "wof:lastmodified":1449044668,
+    "wof:lastmodified":1466320002,
     "wof:name":"Christines Inc",
     "wof:parent_id":85854765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.773328,33.483635,-86.773328,33.483635],
-  "geometry": {"coordinates":[-86.773328,33.483635],"type":"Point"}
+  "bbox": [
+    -86.773328,
+    33.483635,
+    -86.773328,
+    33.483635
+],
+  "geometry": {"coordinates":[-86.77332800000001,33.483635],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152796111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.57644,33.22669,-87.57644,33.22669",
     "geom:latitude":33.22669,
     "geom:longitude":-87.57644,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1318 Lurleen B Wallace Blvd",
     "sg:city":"Northport",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805585,
+        85688675,
         85633793,
         85914425,
         102085553,
-        85688675
+        85805585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152796111,
-    "wof:lastmodified":1449046491,
+    "wof:lastmodified":1466319832,
     "wof:name":"Woodie Washington Jr Insurance",
     "wof:parent_id":85805585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.57644,33.22669,-87.57644,33.22669],
-  "geometry": {"coordinates":[-87.57644,33.22669],"type":"Point"}
+  "bbox": [
+    -87.57644,
+    33.22669,
+    -87.57644,
+    33.22669
+],
+  "geometry": {"coordinates":[-87.57644000000001,33.22669],"type":"Point"}
 }

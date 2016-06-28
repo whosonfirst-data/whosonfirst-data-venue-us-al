@@ -2,13 +2,14 @@
   "id": 152438915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.467944,32.602256,-85.467944,32.602256",
     "geom:latitude":32.602256,
     "geom:longitude":-85.467944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"643 Auburn Dr",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819999,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85819999
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152438915,
-    "wof:lastmodified":1449045872,
+    "wof:lastmodified":1466318112,
     "wof:name":"Bayse Enterprise",
     "wof:parent_id":85819999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.467944,32.602256,-85.467944,32.602256],
+  "bbox": [
+    -85.467944,
+    32.602256,
+    -85.467944,
+    32.602256
+],
   "geometry": {"coordinates":[-85.467944,32.602256],"type":"Point"}
 }

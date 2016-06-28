@@ -2,13 +2,14 @@
   "id": 152790383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.697828,34.462098,-86.697828,34.462098",
     "geom:latitude":34.462098,
     "geom:longitude":-86.697828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"370 Cotaco-Florette Rd",
     "sg:city":"Somerville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822793,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85822793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152790383,
-    "wof:lastmodified":1449047839,
+    "wof:lastmodified":1466319842,
     "wof:name":"Aero Science Tech Assoc LLC",
     "wof:parent_id":85822793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.697828,34.462098,-86.697828,34.462098],
+  "bbox": [
+    -86.697828,
+    34.462098,
+    -86.697828,
+    34.462098
+],
   "geometry": {"coordinates":[-86.697828,34.462098],"type":"Point"}
 }

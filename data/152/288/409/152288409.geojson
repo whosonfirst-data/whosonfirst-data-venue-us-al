@@ -2,13 +2,14 @@
   "id": 152288409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.451421,31.885955,-85.451421,31.885955",
     "geom:latitude":31.885955,
     "geom:longitude":-85.451421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Holly St",
     "sg:city":"Clayton",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152288409,
-    "wof:lastmodified":1449044794,
+    "wof:lastmodified":1466316989,
     "wof:name":"Clayton Housing Authority",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.451421,31.885955,-85.451421,31.885955],
+  "bbox": [
+    -85.451421,
+    31.885955,
+    -85.451421,
+    31.885955
+],
   "geometry": {"coordinates":[-85.451421,31.885955],"type":"Point"}
 }

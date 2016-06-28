@@ -2,13 +2,14 @@
   "id": 152818831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.525973,33.898579,-87.525973,33.898579",
     "geom:latitude":33.898579,
     "geom:longitude":-87.525973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"151 2nd Way NW",
     "sg:city":"Carbon Hill",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152818831,
-    "wof:lastmodified":1449046555,
+    "wof:lastmodified":1466319960,
     "wof:name":"Alabama Power Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.525973,33.898579,-87.525973,33.898579],
-  "geometry": {"coordinates":[-87.525973,33.898579],"type":"Point"}
+  "bbox": [
+    -87.525973,
+    33.898579,
+    -87.525973,
+    33.898579
+],
+  "geometry": {"coordinates":[-87.52597299999999,33.898579],"type":"Point"}
 }

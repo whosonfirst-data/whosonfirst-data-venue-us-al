@@ -2,13 +2,14 @@
   "id": 152875711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.952676,33.405473,-86.952676,33.405473",
     "geom:latitude":33.405473,
     "geom:longitude":-86.952676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"323 21st St N",
     "sg:city":"Bessemer",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807371,
+        85688675,
         85633793,
         85914885,
         102085481,
-        85688675
+        85807371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152875711,
-    "wof:lastmodified":1449047743,
+    "wof:lastmodified":1466320242,
     "wof:name":"Bryant's Garage",
     "wof:parent_id":85807371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.952676,33.405473,-86.952676,33.405473],
+  "bbox": [
+    -86.952676,
+    33.405473,
+    -86.952676,
+    33.405473
+],
   "geometry": {"coordinates":[-86.952676,33.405473],"type":"Point"}
 }

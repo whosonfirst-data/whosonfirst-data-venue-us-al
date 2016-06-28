@@ -2,13 +2,14 @@
   "id": 152444611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.55619,32.599923,-85.55619,32.599923",
     "geom:latitude":32.599923,
     "geom:longitude":-85.55619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Plantation Way",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085751,
-        85633793,
         85688675,
-        85828853
+        85633793,
+        85828853,
+        102085751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152444611,
-    "wof:lastmodified":1449048287,
+    "wof:lastmodified":1466318125,
     "wof:name":"United States Pony Clubs",
     "wof:parent_id":85828853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.55619,32.599923,-85.55619,32.599923],
+  "bbox": [
+    -85.55619,
+    32.599923,
+    -85.55619,
+    32.599923
+],
   "geometry": {"coordinates":[-85.55619,32.599923],"type":"Point"}
 }

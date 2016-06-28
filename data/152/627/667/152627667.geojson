@@ -2,13 +2,14 @@
   "id": 152627667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.394469,31.24163,-85.394469,31.24163",
     "geom:latitude":31.24163,
     "geom:longitude":-85.394469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1213 Reeves St",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852069,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85852069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152627667,
-    "wof:lastmodified":1449048992,
+    "wof:lastmodified":1466319035,
     "wof:name":"Harols Transmission Repair",
     "wof:parent_id":85852069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.394469,31.24163,-85.394469,31.24163],
+  "bbox": [
+    -85.394469,
+    31.24163,
+    -85.394469,
+    31.24163
+],
   "geometry": {"coordinates":[-85.394469,31.24163],"type":"Point"}
 }

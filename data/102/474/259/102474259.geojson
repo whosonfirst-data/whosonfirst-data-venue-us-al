@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102474259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.530718,33.228777,-87.530718,33.228777",
     "geom:latitude":33.228777,
     "geom:longitude":-87.530718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 Rice Mine Rd NE",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854575,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85854575
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102474259,
-    "wof:lastmodified":1449067883,
+    "wof:lastmodified":1466315364,
     "wof:name":"Burgess & Simpson",
     "wof:parent_id":85854575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.530718,33.228777,-87.530718,33.228777],
-  "geometry": {"coordinates":[-87.530718,33.228777],"type":"Point"}
+  "bbox": [
+    -87.530718,
+    33.228777,
+    -87.530718,
+    33.228777
+],
+  "geometry": {"coordinates":[-87.53071799999999,33.228777],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102468075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.199075,32.542322,-86.199075,32.542322",
     "geom:latitude":32.542322,
     "geom:longitude":-86.199075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Company St",
     "sg:city":"Wetumpka",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806527,
+        85688675,
         85633793,
         85913951,
         102085631,
-        85688675
+        85806527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102468075,
-    "wof:lastmodified":1449069526,
+    "wof:lastmodified":1466315109,
     "wof:name":"Elmore Scrap Materials",
     "wof:parent_id":85806527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.199075,32.542322,-86.199075,32.542322],
-  "geometry": {"coordinates":[-86.199075,32.542322],"type":"Point"}
+  "bbox": [
+    -86.199075,
+    32.542322,
+    -86.199075,
+    32.542322
+],
+  "geometry": {"coordinates":[-86.19907499999999,32.542322],"type":"Point"}
 }

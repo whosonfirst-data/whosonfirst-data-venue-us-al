@@ -2,13 +2,14 @@
   "id": 152584553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.868969,30.603662,-87.868969,30.603662",
     "geom:latitude":30.603662,
     "geom:longitude":-87.868969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25604 Co Rd 13",
     "sg:city":"Daphne",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827259,
+        85688675,
         85633793,
         85914695,
         102085469,
-        85688675
+        85827259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152584553,
-    "wof:lastmodified":1449044811,
+    "wof:lastmodified":1466318779,
     "wof:name":"Ernest P Breaux Electrical Inc",
     "wof:parent_id":85827259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.868969,30.603662,-87.868969,30.603662],
-  "geometry": {"coordinates":[-87.868969,30.603662],"type":"Point"}
+  "bbox": [
+    -87.868969,
+    30.603662,
+    -87.868969,
+    30.603662
+],
+  "geometry": {"coordinates":[-87.86896900000001,30.603662],"type":"Point"}
 }

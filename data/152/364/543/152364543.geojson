@@ -2,13 +2,14 @@
   "id": 152364543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.842919,34.151632,-86.842919,34.151632",
     "geom:latitude":34.151632,
     "geom:longitude":-86.842919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1912 Cherokee Ave SW",
     "sg:city":"Cullman",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867305,
+        85688675,
         85633793,
         85914167,
         102085729,
-        85688675
+        85867305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152364543,
-    "wof:lastmodified":1449046894,
+    "wof:lastmodified":1466317782,
     "wof:name":"Robert L Wilkinson DO",
     "wof:parent_id":85867305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.842919,34.151632,-86.842919,34.151632],
-  "geometry": {"coordinates":[-86.842919,34.151632],"type":"Point"}
+  "bbox": [
+    -86.842919,
+    34.151632,
+    -86.842919,
+    34.151632
+],
+  "geometry": {"coordinates":[-86.84291899999999,34.151632],"type":"Point"}
 }

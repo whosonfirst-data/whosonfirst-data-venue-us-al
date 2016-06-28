@@ -2,13 +2,14 @@
   "id": 152675903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.476666,32.598899,-85.476666,32.598899",
     "geom:latitude":32.598899,
     "geom:longitude":-85.476666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"327 E Samford Ave",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819999,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85819999
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152675903,
-    "wof:lastmodified":1449046648,
+    "wof:lastmodified":1466319226,
     "wof:name":"Laura's Uptown Designs",
     "wof:parent_id":85819999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.476666,32.598899,-85.476666,32.598899],
-  "geometry": {"coordinates":[-85.476666,32.598899],"type":"Point"}
+  "bbox": [
+    -85.476666,
+    32.598899,
+    -85.476666,
+    32.598899
+],
+  "geometry": {"coordinates":[-85.47666599999999,32.598899],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152844981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.278574,32.390833,-86.278574,32.390833",
     "geom:latitude":32.390833,
     "geom:longitude":-86.278574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"814 Claremont Ave",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809389,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85809389
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152844981,
-    "wof:lastmodified":1449046287,
+    "wof:lastmodified":1466320146,
     "wof:name":"Kings Hill Community Ctr",
     "wof:parent_id":85809389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.278574,32.390833,-86.278574,32.390833],
-  "geometry": {"coordinates":[-86.278574,32.390833],"type":"Point"}
+  "bbox": [
+    -86.278574,
+    32.390833,
+    -86.278574,
+    32.390833
+],
+  "geometry": {"coordinates":[-86.27857400000001,32.390833],"type":"Point"}
 }

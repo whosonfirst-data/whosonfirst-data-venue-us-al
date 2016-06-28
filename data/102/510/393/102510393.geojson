@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102510393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.382494,32.647368,-85.382494,32.647368",
     "geom:latitude":32.647368,
     "geom:longitude":-85.382494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1011 1st Ave",
     "sg:city":"Opelika",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85857153,
+        85688675,
         85633793,
         85913815,
         102085751,
-        85688675
+        85857153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102510393,
-    "wof:lastmodified":1449069185,
+    "wof:lastmodified":1466316645,
     "wof:name":"Transmission Shop",
     "wof:parent_id":85857153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.382494,32.647368,-85.382494,32.647368],
-  "geometry": {"coordinates":[-85.382494,32.647368],"type":"Point"}
+  "bbox": [
+    -85.382494,
+    32.647368,
+    -85.382494,
+    32.647368
+],
+  "geometry": {"coordinates":[-85.38249399999999,32.647368],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152700413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.809046,33.522001,-86.809046,33.522001",
     "geom:latitude":33.522001,
     "geom:longitude":-86.809046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"716 Richard Arrington Jr Blvd N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831933,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85831933
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152700413,
-    "wof:lastmodified":1449048515,
+    "wof:lastmodified":1466319484,
     "wof:name":"Commissioners Office",
     "wof:parent_id":85831933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.809046,33.522001,-86.809046,33.522001],
+  "bbox": [
+    -86.809046,
+    33.522001,
+    -86.809046,
+    33.522001
+],
   "geometry": {"coordinates":[-86.809046,33.522001],"type":"Point"}
 }

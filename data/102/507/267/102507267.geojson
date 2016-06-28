@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102507267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.285373,32.372181,-86.285373,32.372181",
     "geom:latitude":32.372181,
     "geom:longitude":-86.285373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Anderson St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809389,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85809389
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102507267,
-    "wof:lastmodified":1449068989,
+    "wof:lastmodified":1466316577,
     "wof:name":"O'Connor Tennis Ctr",
     "wof:parent_id":85809389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.285373,32.372181,-86.285373,32.372181],
-  "geometry": {"coordinates":[-86.285373,32.372181],"type":"Point"}
+  "bbox": [
+    -86.285373,
+    32.372181,
+    -86.285373,
+    32.372181
+],
+  "geometry": {"coordinates":[-86.28537300000001,32.372181],"type":"Point"}
 }

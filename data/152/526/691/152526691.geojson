@@ -2,13 +2,14 @@
   "id": 152526691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.77852,33.529677,-86.77852,33.529677",
     "geom:latitude":33.529677,
     "geom:longitude":-86.77852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 40th St N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815977,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85815977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152526691,
-    "wof:lastmodified":1449045720,
+    "wof:lastmodified":1466318465,
     "wof:name":"PM of Alabama",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.77852,33.529677,-86.77852,33.529677],
+  "bbox": [
+    -86.77852,
+    33.529677,
+    -86.77852,
+    33.529677
+],
   "geometry": {"coordinates":[-86.77852,33.529677],"type":"Point"}
 }

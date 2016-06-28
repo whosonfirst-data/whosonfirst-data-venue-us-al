@@ -2,13 +2,14 @@
   "id": 152887695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.826944,33.400199,-86.826944,33.400199",
     "geom:latitude":33.400199,
     "geom:longitude":-86.826944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 Pavillion Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805457,
+        85688675,
         85633793,
         85914475,
         102085481,
-        85688675
+        85805457
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152887695,
-    "wof:lastmodified":1449048007,
+    "wof:lastmodified":1466320266,
     "wof:name":"Tri Tech Engineering & Sales",
     "wof:parent_id":85805457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.826944,33.400199,-86.826944,33.400199],
+  "bbox": [
+    -86.826944,
+    33.400199,
+    -86.826944,
+    33.400199
+],
   "geometry": {"coordinates":[-86.826944,33.400199],"type":"Point"}
 }

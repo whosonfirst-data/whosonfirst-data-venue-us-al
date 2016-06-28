@@ -2,13 +2,14 @@
   "id": 152202487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.798245,33.614806,-85.798245,33.614806",
     "geom:latitude":33.614806,
     "geom:longitude":-85.798245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1750 Hamric Dr E",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.goldstarrealtor.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806515,
+        85688675,
         85633793,
         85914159,
         102085603,
-        85688675
+        85806515
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152202487,
-    "wof:lastmodified":1449048318,
+    "wof:lastmodified":1466316057,
     "wof:name":"Gold Star Realty Inc",
     "wof:parent_id":85806515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.798245,33.614806,-85.798245,33.614806],
-  "geometry": {"coordinates":[-85.798245,33.614806],"type":"Point"}
+  "bbox": [
+    -85.798245,
+    33.614806,
+    -85.798245,
+    33.614806
+],
+  "geometry": {"coordinates":[-85.79824499999999,33.614806],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102501933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.931052,33.343573,-86.931052,33.343573",
     "geom:latitude":33.343573,
     "geom:longitude":-86.931052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2497 Morgan Rd",
     "sg:city":"Bessemer",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825667,
+        85688675,
         85633793,
         85914885,
         102085481,
-        85688675
+        85825667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102501933,
-    "wof:lastmodified":1449070235,
+    "wof:lastmodified":1466316697,
     "wof:name":"Star Used Cars",
     "wof:parent_id":85825667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.931052,33.343573,-86.931052,33.343573],
-  "geometry": {"coordinates":[-86.931052,33.343573],"type":"Point"}
+  "bbox": [
+    -86.931052,
+    33.343573,
+    -86.931052,
+    33.343573
+],
+  "geometry": {"coordinates":[-86.93105199999999,33.343573],"type":"Point"}
 }

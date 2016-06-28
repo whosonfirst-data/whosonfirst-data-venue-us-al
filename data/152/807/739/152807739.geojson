@@ -2,13 +2,14 @@
   "id": 152807739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.818802,33.663987,-85.818802,33.663987",
     "geom:latitude":33.663987,
     "geom:longitude":-85.818802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1436 Highland Ave",
     "sg:city":"Anniston",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840061,
+        85688675,
         85633793,
         85914281,
         102085603,
-        85688675
+        85840061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152807739,
-    "wof:lastmodified":1449045479,
+    "wof:lastmodified":1466319905,
     "wof:name":"B & B Car Wash & Detail Shop",
     "wof:parent_id":85840061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.818802,33.663987,-85.818802,33.663987],
-  "geometry": {"coordinates":[-85.818802,33.663987],"type":"Point"}
+  "bbox": [
+    -85.818802,
+    33.663987,
+    -85.818802,
+    33.663987
+],
+  "geometry": {"coordinates":[-85.81880200000001,33.663987],"type":"Point"}
 }

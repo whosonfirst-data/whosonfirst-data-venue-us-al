@@ -2,13 +2,14 @@
   "id": 152368747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.744393,34.808401,-86.744393,34.808401",
     "geom:latitude":34.808401,
     "geom:longitude":-86.744393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"912 Nick Davis Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -30,10 +31,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085487,
-        85633793,
         85688675,
-        85838413
+        85633793,
+        85838413,
+        102085487
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152368747,
-    "wof:lastmodified":1449045357,
+    "wof:lastmodified":1466317588,
     "wof:name":"Roxbox Boxing & Fitness Ctr",
     "wof:parent_id":85838413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.744393,34.808401,-86.744393,34.808401],
+  "bbox": [
+    -86.744393,
+    34.808401,
+    -86.744393,
+    34.808401
+],
   "geometry": {"coordinates":[-86.744393,34.808401],"type":"Point"}
 }

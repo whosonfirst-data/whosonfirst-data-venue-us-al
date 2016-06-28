@@ -2,13 +2,14 @@
   "id": 152130353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.973935,34.532577,-86.973935,34.532577",
     "geom:latitude":34.532577,
     "geom:longitude":-86.973935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3831 US Hwy 31",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.stanmccullochcpd.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85804905,
+        85688675,
         85633793,
         85913589,
         102085531,
-        85688675
+        85804905
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152130353,
-    "wof:lastmodified":1449045895,
+    "wof:lastmodified":1466314994,
     "wof:name":"Stan Mc Culloch Chrysler-Dodge",
     "wof:parent_id":85804905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.973935,34.532577,-86.973935,34.532577],
+  "bbox": [
+    -86.973935,
+    34.532577,
+    -86.973935,
+    34.532577
+],
   "geometry": {"coordinates":[-86.973935,34.532577],"type":"Point"}
 }

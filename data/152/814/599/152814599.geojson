@@ -2,13 +2,14 @@
   "id": 152814599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.003049,34.549819,-87.003049,34.549819",
     "geom:latitude":34.549819,
     "geom:longitude":-87.003049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3210 German Town Pl SW",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803997,
+        85688675,
         85633793,
         85913589,
         102085531,
-        85688675,
+        85803997,
         85848819
     ],
     "wof:breaches":[],
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":152814599,
-    "wof:lastmodified":1449045153,
+    "wof:lastmodified":1466319920,
     "wof:name":"Earl W Shirley",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.003049,34.549819,-87.003049,34.549819],
+  "bbox": [
+    -87.003049,
+    34.549819,
+    -87.003049,
+    34.549819
+],
   "geometry": {"coordinates":[-87.003049,34.549819],"type":"Point"}
 }

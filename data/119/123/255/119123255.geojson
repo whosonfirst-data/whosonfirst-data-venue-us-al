@@ -2,13 +2,14 @@
   "id": 119123255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.890354,30.548391,-87.890354,30.548391",
     "geom:latitude":30.548391,
     "geom:longitude":-87.890354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2001 US Hwy 98",
     "sg:city":"Daphne",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847563,
+        85688675,
         85633793,
         85914707,
         102085469,
-        85688675
+        85847563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":119123255,
-    "wof:lastmodified":1449041574,
+    "wof:lastmodified":1466314316,
     "wof:name":"Laurel Dental Lab Inc",
     "wof:parent_id":85847563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.890354,30.548391,-87.890354,30.548391],
+  "bbox": [
+    -87.890354,
+    30.548391,
+    -87.890354,
+    30.548391
+],
   "geometry": {"coordinates":[-87.890354,30.548391],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102628365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.055979,34.868271,-87.055979,34.868271",
     "geom:latitude":34.868271,
     "geom:longitude":-87.055979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22534 State Rte 99",
     "sg:city":"Elkmont",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102628365,
-    "wof:lastmodified":1449069713,
+    "wof:lastmodified":1466317452,
     "wof:name":"Coffman Mobile Home Estates",
     "wof:parent_id":85688675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.055979,34.868271,-87.055979,34.868271],
-  "geometry": {"coordinates":[-87.055979,34.868271],"type":"Point"}
+  "bbox": [
+    -87.055979,
+    34.868271,
+    -87.055979,
+    34.868271
+],
+  "geometry": {"coordinates":[-87.05597899999999,34.868271],"type":"Point"}
 }

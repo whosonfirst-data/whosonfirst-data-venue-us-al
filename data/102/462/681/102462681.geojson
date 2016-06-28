@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102462681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.813496,33.249347,-86.813496,33.249347",
     "geom:latitude":33.249347,
     "geom:longitude":-86.813496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 2nd St NE",
     "sg:city":"Alabaster",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847439,
+        85688675,
         85633793,
         85914487,
         102085499,
-        85688675
+        85847439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102462681,
-    "wof:lastmodified":1449070122,
+    "wof:lastmodified":1466315063,
     "wof:name":"Stinson House",
     "wof:parent_id":85847439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.813496,33.249347,-86.813496,33.249347],
+  "bbox": [
+    -86.813496,
+    33.249347,
+    -86.813496,
+    33.249347
+],
   "geometry": {"coordinates":[-86.813496,33.249347],"type":"Point"}
 }

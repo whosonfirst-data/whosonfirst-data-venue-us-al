@@ -2,13 +2,14 @@
   "id": 152245357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.094058,30.668595,-88.094058,30.668595",
     "geom:latitude":30.668595,
     "geom:longitude":-88.094058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"615 Mohawk St",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878957,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878957
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152245357,
-    "wof:lastmodified":1449048767,
+    "wof:lastmodified":1466316499,
     "wof:name":"Cooks Secretarial Services",
     "wof:parent_id":85878957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.094058,30.668595,-88.094058,30.668595],
+  "bbox": [
+    -88.094058,
+    30.668595,
+    -88.094058,
+    30.668595
+],
   "geometry": {"coordinates":[-88.094058,30.668595],"type":"Point"}
 }

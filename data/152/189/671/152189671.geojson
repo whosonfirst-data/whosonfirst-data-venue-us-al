@@ -2,13 +2,14 @@
   "id": 152189671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.610341,34.84423,-87.610341,34.84423",
     "geom:latitude":34.84423,
     "geom:longitude":-87.610341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3440 Kolbe Ln",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152189671,
-    "wof:lastmodified":1449047565,
+    "wof:lastmodified":1466315658,
     "wof:name":"Machine Reliability Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.610341,34.84423,-87.610341,34.84423],
-  "geometry": {"coordinates":[-87.610341,34.84423],"type":"Point"}
+  "bbox": [
+    -87.610341,
+    34.84423,
+    -87.610341,
+    34.84423
+],
+  "geometry": {"coordinates":[-87.61034100000001,34.84423],"type":"Point"}
 }

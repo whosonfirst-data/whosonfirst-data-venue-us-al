@@ -2,13 +2,14 @@
   "id": 152732059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.02778,34.180186,-86.02778,34.180186",
     "geom:latitude":34.180186,
     "geom:longitude":-86.02778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2510 Brow Rd",
     "sg:city":"Boaz",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802495,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85802495
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152732059,
-    "wof:lastmodified":1449049040,
+    "wof:lastmodified":1466319547,
     "wof:name":"Marston & Maxine Trucking Inc",
     "wof:parent_id":85802495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.02778,34.180186,-86.02778,34.180186],
-  "geometry": {"coordinates":[-86.02778,34.180186],"type":"Point"}
+  "bbox": [
+    -86.02778,
+    34.180186,
+    -86.02778,
+    34.180186
+],
+  "geometry": {"coordinates":[-86.02778000000001,34.180186],"type":"Point"}
 }

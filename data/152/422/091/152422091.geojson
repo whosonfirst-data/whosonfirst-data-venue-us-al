@@ -2,13 +2,14 @@
   "id": 152422091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.942197,32.9215,-85.942197,32.9215",
     "geom:latitude":32.9215,
     "geom:longitude":-85.942197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"735 Airport Dr",
     "sg:city":"Alexander City",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085567,
-        85633793,
         85688675,
-        85853455
+        85633793,
+        85853455,
+        102085567
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152422091,
-    "wof:lastmodified":1449044626,
+    "wof:lastmodified":1466317952,
     "wof:name":"Smoothie Select & Internet Dnr",
     "wof:parent_id":85853455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.942197,32.9215,-85.942197,32.9215],
-  "geometry": {"coordinates":[-85.942197,32.9215],"type":"Point"}
+  "bbox": [
+    -85.942197,
+    32.9215,
+    -85.942197,
+    32.9215
+],
+  "geometry": {"coordinates":[-85.94219699999999,32.9215],"type":"Point"}
 }

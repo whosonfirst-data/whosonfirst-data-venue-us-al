@@ -2,13 +2,14 @@
   "id": 152539927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.212334,32.460364,-85.212334,32.460364",
     "geom:latitude":32.460364,
     "geom:longitude":-85.212334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Hood Rd",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822949,
+        85688675,
         85633793,
         85913715,
         102085697,
-        85688675
+        85822949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152539927,
-    "wof:lastmodified":1449048990,
+    "wof:lastmodified":1466318699,
     "wof:name":"Gilliam Backhoe",
     "wof:parent_id":85822949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.212334,32.460364,-85.212334,32.460364],
+  "bbox": [
+    -85.212334,
+    32.460364,
+    -85.212334,
+    32.460364
+],
   "geometry": {"coordinates":[-85.212334,32.460364],"type":"Point"}
 }

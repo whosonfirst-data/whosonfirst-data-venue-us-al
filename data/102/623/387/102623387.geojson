@@ -2,13 +2,14 @@
   "id": 102623387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.40833,32.399106,-86.40833,32.399106",
     "geom:latitude":32.399106,
     "geom:longitude":-86.40833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5084 Washington Ferry Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102623387,
-    "wof:lastmodified":1449069489,
+    "wof:lastmodified":1466317459,
     "wof:name":"Plantation Pipe Line Company",
     "wof:parent_id":85913947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.40833,32.399106,-86.40833,32.399106],
-  "geometry": {"coordinates":[-86.40833,32.399106],"type":"Point"}
+  "bbox": [
+    -86.40833,
+    32.399106,
+    -86.40833,
+    32.399106
+],
+  "geometry": {"coordinates":[-86.40833000000001,32.399106],"type":"Point"}
 }

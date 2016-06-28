@@ -2,13 +2,14 @@
   "id": 152197489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.824182,33.184399,-86.824182,33.184399",
     "geom:latitude":33.184399,
     "geom:longitude":-86.824182,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Triple G Dr",
     "sg:city":"Montevallo",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85839361,
+        85688675,
         85633793,
         85914487,
         102085499,
-        85688675
+        85839361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152197489,
-    "wof:lastmodified":1449048342,
+    "wof:lastmodified":1466315936,
     "wof:name":"Triple G Electrical Service",
     "wof:parent_id":85839361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.824182,33.184399,-86.824182,33.184399],
-  "geometry": {"coordinates":[-86.824182,33.184399],"type":"Point"}
+  "bbox": [
+    -86.824182,
+    33.184399,
+    -86.824182,
+    33.184399
+],
+  "geometry": {"coordinates":[-86.82418199999999,33.184399],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152125277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.667699,33.39948,-86.667699,33.39948",
     "geom:latitude":33.39948,
     "geom:longitude":-86.667699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"347 Talon Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85833411
+        85633793,
+        85833411,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152125277,
-    "wof:lastmodified":1449048753,
+    "wof:lastmodified":1466314709,
     "wof:name":"Jgd Homes Inc",
     "wof:parent_id":85833411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.667699,33.39948,-86.667699,33.39948],
+  "bbox": [
+    -86.667699,
+    33.39948,
+    -86.667699,
+    33.39948
+],
   "geometry": {"coordinates":[-86.667699,33.39948],"type":"Point"}
 }

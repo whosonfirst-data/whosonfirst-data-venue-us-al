@@ -2,13 +2,14 @@
   "id": 152669145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.196067,32.332615,-86.196067,32.332615",
     "geom:latitude":32.332615,
     "geom:longitude":-86.196067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3570 Bell Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879055,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152669145,
-    "wof:lastmodified":1449044833,
+    "wof:lastmodified":1466319173,
     "wof:name":"Christian Lighthouse Academy",
     "wof:parent_id":85879055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.196067,32.332615,-86.196067,32.332615],
+  "bbox": [
+    -86.196067,
+    32.332615,
+    -86.196067,
+    32.332615
+],
   "geometry": {"coordinates":[-86.196067,32.332615],"type":"Point"}
 }

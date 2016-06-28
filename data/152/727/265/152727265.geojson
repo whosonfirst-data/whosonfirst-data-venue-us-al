@@ -2,13 +2,14 @@
   "id": 152727265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.899073,33.437844,-86.899073,33.437844",
     "geom:latitude":33.437844,
     "geom:longitude":-86.899073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"507 Whitmore Ct",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851831,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85851831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152727265,
-    "wof:lastmodified":1449045005,
+    "wof:lastmodified":1466319537,
     "wof:name":"Mountain View Health Care Ctr",
     "wof:parent_id":85851831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.899073,33.437844,-86.899073,33.437844],
+  "bbox": [
+    -86.899073,
+    33.437844,
+    -86.899073,
+    33.437844
+],
   "geometry": {"coordinates":[-86.899073,33.437844],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102631749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.28273,32.358269,-86.28273,32.358269",
     "geom:latitude":32.358269,
     "geom:longitude":-86.28273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1772 Carter Hill Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825725,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85825725
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102631749,
-    "wof:lastmodified":1449068522,
+    "wof:lastmodified":1466317529,
     "wof:name":"Hair Odyssey",
     "wof:parent_id":85825725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.28273,32.358269,-86.28273,32.358269],
+  "bbox": [
+    -86.28273,
+    32.358269,
+    -86.28273,
+    32.358269
+],
   "geometry": {"coordinates":[-86.28273,32.358269],"type":"Point"}
 }

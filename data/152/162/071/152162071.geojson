@@ -2,13 +2,14 @@
   "id": 152162071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.304471,32.352777,-86.304471,32.352777",
     "geom:latitude":32.352777,
     "geom:longitude":-86.304471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1655 Gilmer Ave",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879039,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152162071,
-    "wof:lastmodified":1449048244,
+    "wof:lastmodified":1466315226,
     "wof:name":"Centerpoint Architects",
     "wof:parent_id":85879039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.304471,32.352777,-86.304471,32.352777],
-  "geometry": {"coordinates":[-86.304471,32.352777],"type":"Point"}
+  "bbox": [
+    -86.304471,
+    32.352777,
+    -86.304471,
+    32.352777
+],
+  "geometry": {"coordinates":[-86.30447100000001,32.352777],"type":"Point"}
 }

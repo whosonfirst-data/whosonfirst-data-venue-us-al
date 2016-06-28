@@ -2,13 +2,14 @@
   "id": 152752875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.270704,31.844538,-88.270704,31.844538",
     "geom:latitude":31.844538,
     "geom:longitude":-88.270704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1551 Womack Hill Rd",
     "sg:city":"Gilbertown",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822759,
+        85688675,
         85633793,
         85899781,
         102085727,
-        85688675
+        85822759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152752875,
-    "wof:lastmodified":1449045082,
+    "wof:lastmodified":1466319601,
     "wof:name":"River Store",
     "wof:parent_id":85822759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.270704,31.844538,-88.270704,31.844538],
-  "geometry": {"coordinates":[-88.270704,31.844538],"type":"Point"}
+  "bbox": [
+    -88.270704,
+    31.844538,
+    -88.270704,
+    31.844538
+],
+  "geometry": {"coordinates":[-88.27070399999999,31.844538],"type":"Point"}
 }

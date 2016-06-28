@@ -2,13 +2,14 @@
   "id": 152453933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.603921,34.758829,-86.603921,34.758829",
     "geom:latitude":34.758829,
     "geom:longitude":-86.603921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2608 Hanover Dr NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809309,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85809309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152453933,
-    "wof:lastmodified":1449047769,
+    "wof:lastmodified":1466318204,
     "wof:name":"Andras Sales",
     "wof:parent_id":85809309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.603921,34.758829,-86.603921,34.758829],
+  "bbox": [
+    -86.603921,
+    34.758829,
+    -86.603921,
+    34.758829
+],
   "geometry": {"coordinates":[-86.603921,34.758829],"type":"Point"}
 }

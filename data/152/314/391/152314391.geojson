@@ -2,13 +2,14 @@
   "id": 152314391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.131893,32.439419,-86.131893,32.439419",
     "geom:latitude":32.439419,
     "geom:longitude":-86.131893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"412 Albritton Ln",
     "sg:city":"Wetumpka",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827347,
+        85688675,
         85633793,
         85915121,
         102085631,
-        85688675
+        85827347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152314391,
-    "wof:lastmodified":1449048720,
+    "wof:lastmodified":1466317260,
     "wof:name":"Albritton Const",
     "wof:parent_id":85827347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.131893,32.439419,-86.131893,32.439419],
-  "geometry": {"coordinates":[-86.131893,32.439419],"type":"Point"}
+  "bbox": [
+    -86.131893,
+    32.439419,
+    -86.131893,
+    32.439419
+],
+  "geometry": {"coordinates":[-86.13189300000001,32.439419],"type":"Point"}
 }

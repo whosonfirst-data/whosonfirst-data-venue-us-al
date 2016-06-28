@@ -2,13 +2,14 @@
   "id": 152200343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.781824,33.596895,-85.781824,33.596895",
     "geom:latitude":33.596895,
     "geom:longitude":-85.781824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1708 Amy Ln",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806515,
+        85688675,
         85633793,
         85914159,
         102085603,
-        85688675
+        85806515
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152200343,
-    "wof:lastmodified":1449046159,
+    "wof:lastmodified":1466315926,
     "wof:name":"J&B Reaves LLC",
     "wof:parent_id":85806515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.781824,33.596895,-85.781824,33.596895],
+  "bbox": [
+    -85.781824,
+    33.596895,
+    -85.781824,
+    33.596895
+],
   "geometry": {"coordinates":[-85.781824,33.596895],"type":"Point"}
 }

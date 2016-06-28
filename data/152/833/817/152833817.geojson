@@ -2,13 +2,14 @@
   "id": 152833817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.580316,34.591867,-85.580316,34.591867",
     "geom:latitude":34.591867,
     "geom:longitude":-85.580316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 Co Rd 647",
     "sg:city":"Mentone",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85844901,
+        85688675,
         85633793,
         85897439,
         102085615,
-        85688675
+        85844901
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152833817,
-    "wof:lastmodified":1449044898,
+    "wof:lastmodified":1466320048,
     "wof:name":"Derek Freeman",
     "wof:parent_id":85844901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.580316,34.591867,-85.580316,34.591867],
+  "bbox": [
+    -85.580316,
+    34.591867,
+    -85.580316,
+    34.591867
+],
   "geometry": {"coordinates":[-85.580316,34.591867],"type":"Point"}
 }

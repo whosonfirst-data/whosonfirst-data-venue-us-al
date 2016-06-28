@@ -2,13 +2,14 @@
   "id": 152837031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.714456,34.752938,-86.714456,34.752938",
     "geom:latitude":34.752938,
     "geom:longitude":-86.714456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1874 Slaughter Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851107,
+        85688675,
         85633793,
         85913593,
         102085487,
-        85688675
+        85851107
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152837031,
-    "wof:lastmodified":1449045026,
+    "wof:lastmodified":1466320010,
     "wof:name":"Southern Mortgage Professional",
     "wof:parent_id":85851107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.714456,34.752938,-86.714456,34.752938],
+  "bbox": [
+    -86.714456,
+    34.752938,
+    -86.714456,
+    34.752938
+],
   "geometry": {"coordinates":[-86.714456,34.752938],"type":"Point"}
 }

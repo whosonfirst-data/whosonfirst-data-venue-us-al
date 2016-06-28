@@ -2,13 +2,14 @@
   "id": 102627335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.533416,34.799746,-86.533416,34.799746",
     "geom:latitude":34.799746,
     "geom:longitude":-86.533416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Dominion Cir",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833793,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85833793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102627335,
-    "wof:lastmodified":1449070262,
+    "wof:lastmodified":1466317449,
     "wof:name":"Bama Heating & Refrigeration",
     "wof:parent_id":85833793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.533416,34.799746,-86.533416,34.799746],
+  "bbox": [
+    -86.533416,
+    34.799746,
+    -86.533416,
+    34.799746
+],
   "geometry": {"coordinates":[-86.533416,34.799746],"type":"Point"}
 }

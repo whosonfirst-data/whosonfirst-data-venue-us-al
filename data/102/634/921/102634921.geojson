@@ -2,13 +2,14 @@
   "id": 102634921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.343156,30.574998,-88.343156,30.574998",
     "geom:latitude":30.574998,
     "geom:longitude":-88.343156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5251 Grand Bay Wilmer Rd S",
     "sg:city":"Grand Bay",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":102634921,
-    "wof:lastmodified":1449068917,
+    "wof:lastmodified":1466317390,
     "wof:name":"Union Baptist Church",
     "wof:parent_id":85688675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.343156,30.574998,-88.343156,30.574998],
-  "geometry": {"coordinates":[-88.343156,30.574998],"type":"Point"}
+  "bbox": [
+    -88.343156,
+    30.574998,
+    -88.343156,
+    30.574998
+],
+  "geometry": {"coordinates":[-88.34315599999999,30.574998],"type":"Point"}
 }

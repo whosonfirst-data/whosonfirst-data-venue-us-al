@@ -2,13 +2,14 @@
   "id": 152746007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.530524,34.063153,-86.530524,34.063153",
     "geom:latitude":34.063153,
     "geom:longitude":-86.530524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2872 Hamilton Mountain Rd",
     "sg:city":"Blountsville",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085667,
-        85633793,
         85688675,
-        85819523
+        85633793,
+        85819523,
+        102085667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152746007,
-    "wof:lastmodified":1449044250,
+    "wof:lastmodified":1466319511,
     "wof:name":"Joe Bullard Roofing",
     "wof:parent_id":85819523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.530524,34.063153,-86.530524,34.063153],
+  "bbox": [
+    -86.530524,
+    34.063153,
+    -86.530524,
+    34.063153
+],
   "geometry": {"coordinates":[-86.530524,34.063153],"type":"Point"}
 }

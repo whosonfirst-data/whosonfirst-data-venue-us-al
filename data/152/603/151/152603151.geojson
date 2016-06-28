@@ -2,13 +2,14 @@
   "id": 152603151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.164543,33.58662,-86.164543,33.58662",
     "geom:latitude":33.58662,
     "geom:longitude":-86.164543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12050 Stemley Rd",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -31,10 +32,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085517,
-        85633793,
         85688675,
-        85849013
+        85633793,
+        85849013,
+        102085517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152603151,
-    "wof:lastmodified":1449048199,
+    "wof:lastmodified":1466318850,
     "wof:name":"Pettis Pattern & Aluminum Shop",
     "wof:parent_id":85849013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.164543,33.58662,-86.164543,33.58662],
-  "geometry": {"coordinates":[-86.164543,33.58662],"type":"Point"}
+  "bbox": [
+    -86.164543,
+    33.58662,
+    -86.164543,
+    33.58662
+],
+  "geometry": {"coordinates":[-86.16454299999999,33.58662],"type":"Point"}
 }

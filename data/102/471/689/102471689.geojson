@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102471689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.817991,33.551778,-86.817991,33.551778",
     "geom:latitude":33.551778,
     "geom:longitude":-86.817991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2501 30th Ave N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837367,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85837367
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102471689,
-    "wof:lastmodified":1449068733,
+    "wof:lastmodified":1466315348,
     "wof:name":"Public Employee Local 1317",
     "wof:parent_id":85837367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.817991,33.551778,-86.817991,33.551778],
-  "geometry": {"coordinates":[-86.817991,33.551778],"type":"Point"}
+  "bbox": [
+    -86.817991,
+    33.551778,
+    -86.817991,
+    33.551778
+],
+  "geometry": {"coordinates":[-86.81799100000001,33.551778],"type":"Point"}
 }

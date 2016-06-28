@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102488621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.197786,30.689688,-88.197786,30.689688",
     "geom:latitude":30.689688,
     "geom:longitude":-88.197786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6701 Dickens Ferry Rd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878993,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878993
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102488621,
-    "wof:lastmodified":1449070155,
+    "wof:lastmodified":1466316081,
     "wof:name":"Stonegate",
     "wof:parent_id":85878993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.197786,30.689688,-88.197786,30.689688],
-  "geometry": {"coordinates":[-88.197786,30.689688],"type":"Point"}
+  "bbox": [
+    -88.197786,
+    30.689688,
+    -88.197786,
+    30.689688
+],
+  "geometry": {"coordinates":[-88.19778599999999,30.689688],"type":"Point"}
 }

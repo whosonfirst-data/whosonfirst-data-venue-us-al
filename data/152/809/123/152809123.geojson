@@ -2,13 +2,14 @@
   "id": 152809123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.209861,32.587403,-86.209861,32.587403",
     "geom:latitude":32.587403,
     "geom:longitude":-86.209861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10932 US Hwy 231",
     "sg:city":"Wetumpka",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085631,
-        85633793,
         85688675,
-        85843379
+        85633793,
+        85843379,
+        102085631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152809123,
-    "wof:lastmodified":1449048082,
+    "wof:lastmodified":1466320091,
     "wof:name":"Hair Care",
     "wof:parent_id":85843379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.209861,32.587403,-86.209861,32.587403],
+  "bbox": [
+    -86.209861,
+    32.587403,
+    -86.209861,
+    32.587403
+],
   "geometry": {"coordinates":[-86.209861,32.587403],"type":"Point"}
 }

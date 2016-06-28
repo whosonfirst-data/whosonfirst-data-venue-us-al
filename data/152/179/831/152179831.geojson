@@ -2,13 +2,14 @@
   "id": 152179831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.707101,34.45885,-85.707101,34.45885",
     "geom:latitude":34.45885,
     "geom:longitude":-85.707101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1828 Gault Ave N",
     "sg:city":"Fort Payne",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834595,
+        85688675,
         85633793,
         85897515,
         102085615,
-        85688675
+        85834595
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152179831,
-    "wof:lastmodified":1449048449,
+    "wof:lastmodified":1466315694,
     "wof:name":"Fort Payne Inn",
     "wof:parent_id":85834595,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.707101,34.45885,-85.707101,34.45885],
-  "geometry": {"coordinates":[-85.707101,34.45885],"type":"Point"}
+  "bbox": [
+    -85.707101,
+    34.45885,
+    -85.707101,
+    34.45885
+],
+  "geometry": {"coordinates":[-85.70710099999999,34.45885],"type":"Point"}
 }

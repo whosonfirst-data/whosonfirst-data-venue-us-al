@@ -2,13 +2,14 @@
   "id": 152400831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.576338,34.713419,-86.576338,34.713419",
     "geom:latitude":34.713419,
     "geom:longitude":-86.576338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2309 Starmont Cir SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818149,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85818149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152400831,
-    "wof:lastmodified":1449044760,
+    "wof:lastmodified":1466317872,
     "wof:name":"Anthony Balch",
     "wof:parent_id":85818149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.576338,34.713419,-86.576338,34.713419],
-  "geometry": {"coordinates":[-86.576338,34.713419],"type":"Point"}
+  "bbox": [
+    -86.576338,
+    34.713419,
+    -86.576338,
+    34.713419
+],
+  "geometry": {"coordinates":[-86.57633800000001,34.713419],"type":"Point"}
 }

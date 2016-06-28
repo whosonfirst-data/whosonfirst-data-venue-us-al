@@ -2,13 +2,14 @@
   "id": 152777149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.848688,33.456175,-86.848688,33.456175",
     "geom:latitude":33.456175,
     "geom:longitude":-86.848688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Industrial Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152777149,
-    "wof:lastmodified":1449046742,
+    "wof:lastmodified":1466319803,
     "wof:name":"Joe Piper Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.848688,33.456175,-86.848688,33.456175],
+  "bbox": [
+    -86.848688,
+    33.456175,
+    -86.848688,
+    33.456175
+],
   "geometry": {"coordinates":[-86.848688,33.456175],"type":"Point"}
 }

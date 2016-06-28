@@ -2,13 +2,14 @@
   "id": 152130055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.586115,33.124961,-86.586115,33.124961",
     "geom:latitude":33.124961,
     "geom:longitude":-86.586115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Truss Curry Cir",
     "sg:city":"Shelby",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825591,
+        85688675,
         85633793,
         85914497,
         102085499,
-        85688675
+        85825591
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152130055,
-    "wof:lastmodified":1449045896,
+    "wof:lastmodified":1466314960,
     "wof:name":"Larry M Truss Rev",
     "wof:parent_id":85825591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.586115,33.124961,-86.586115,33.124961],
-  "geometry": {"coordinates":[-86.586115,33.124961],"type":"Point"}
+  "bbox": [
+    -86.586115,
+    33.124961,
+    -86.586115,
+    33.124961
+],
+  "geometry": {"coordinates":[-86.58611500000001,33.124961],"type":"Point"}
 }

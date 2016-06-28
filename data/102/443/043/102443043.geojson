@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102443043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.873357,33.49324,-86.873357,33.49324",
     "geom:latitude":33.49324,
     "geom:longitude":-86.873357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4712 Avenue W",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818187,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85818187
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102443043,
-    "wof:lastmodified":1449069727,
+    "wof:lastmodified":1466314317,
     "wof:name":"Birmingham City",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.873357,33.49324,-86.873357,33.49324],
+  "bbox": [
+    -86.873357,
+    33.49324,
+    -86.873357,
+    33.49324
+],
   "geometry": {"coordinates":[-86.873357,33.49324],"type":"Point"}
 }

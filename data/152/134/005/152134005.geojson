@@ -2,13 +2,14 @@
   "id": 152134005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.568158,34.716134,-86.568158,34.716134",
     "geom:latitude":34.716134,
     "geom:longitude":-86.568158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2102 Lytle St SE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878239,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878239
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152134005,
-    "wof:lastmodified":1449048663,
+    "wof:lastmodified":1466315204,
     "wof:name":"Sally H Flemming",
     "wof:parent_id":85878239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.568158,34.716134,-86.568158,34.716134],
+  "bbox": [
+    -86.568158,
+    34.716134,
+    -86.568158,
+    34.716134
+],
   "geometry": {"coordinates":[-86.568158,34.716134],"type":"Point"}
 }

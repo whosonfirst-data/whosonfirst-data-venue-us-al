@@ -2,13 +2,14 @@
   "id": 152557647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.978243,34.072366,-85.978243,34.072366",
     "geom:latitude":34.072366,
     "geom:longitude":-85.978243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3232 Lay Springs Rd",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     "sg:website":"www.bridgeinc.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802495,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85802495
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":152557647,
-    "wof:lastmodified":1449047594,
+    "wof:lastmodified":1466318639,
     "wof:name":"Bridge Drug Counseling Ctr",
     "wof:parent_id":85802495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.978243,34.072366,-85.978243,34.072366],
-  "geometry": {"coordinates":[-85.978243,34.072366],"type":"Point"}
+  "bbox": [
+    -85.978243,
+    34.072366,
+    -85.978243,
+    34.072366
+],
+  "geometry": {"coordinates":[-85.97824300000001,34.072366],"type":"Point"}
 }

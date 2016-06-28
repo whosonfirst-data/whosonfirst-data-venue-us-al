@@ -2,13 +2,14 @@
   "id": 152639455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.619492,30.290195,-87.619492,30.290195",
     "geom:latitude":30.290195,
     "geom:longitude":-87.619492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24701 Canal Rd",
     "sg:city":"Orange Beach",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868551,
+        85688675,
         85633793,
         85914719,
         102085469,
-        85688675
+        85868551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152639455,
-    "wof:lastmodified":1449048886,
+    "wof:lastmodified":1466319061,
     "wof:name":"M Kate's Excentricities",
     "wof:parent_id":85868551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.619492,30.290195,-87.619492,30.290195],
-  "geometry": {"coordinates":[-87.619492,30.290195],"type":"Point"}
+  "bbox": [
+    -87.619492,
+    30.290195,
+    -87.619492,
+    30.290195
+],
+  "geometry": {"coordinates":[-87.61949199999999,30.290195],"type":"Point"}
 }

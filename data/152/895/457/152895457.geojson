@@ -2,13 +2,14 @@
   "id": 152895457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.3384,34.557928,-86.3384,34.557928",
     "geom:latitude":34.557928,
     "geom:longitude":-86.3384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"718 Oran Whitaker Rd",
     "sg:city":"New Hope",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878245,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152895457,
-    "wof:lastmodified":1449046273,
+    "wof:lastmodified":1466320311,
     "wof:name":"Sunshine Baskets & Gifts",
     "wof:parent_id":85878245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.3384,34.557928,-86.3384,34.557928],
-  "geometry": {"coordinates":[-86.3384,34.557928],"type":"Point"}
+  "bbox": [
+    -86.3384,
+    34.557928,
+    -86.3384,
+    34.557928
+],
+  "geometry": {"coordinates":[-86.33839999999999,34.557928],"type":"Point"}
 }

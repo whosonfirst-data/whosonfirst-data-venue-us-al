@@ -2,13 +2,14 @@
   "id": 152553337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.130329,33.483834,-86.130329,33.483834",
     "geom:latitude":33.483834,
     "geom:longitude":-86.130329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 Stemley Bridge Rd",
     "sg:city":"Talladega",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085517,
-        85633793,
         85688675,
-        85849013
+        85633793,
+        85849013,
+        102085517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152553337,
-    "wof:lastmodified":1449044317,
+    "wof:lastmodified":1466318573,
     "wof:name":"Bethel United Methodist Church",
     "wof:parent_id":85849013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.130329,33.483834,-86.130329,33.483834],
+  "bbox": [
+    -86.130329,
+    33.483834,
+    -86.130329,
+    33.483834
+],
   "geometry": {"coordinates":[-86.130329,33.483834],"type":"Point"}
 }

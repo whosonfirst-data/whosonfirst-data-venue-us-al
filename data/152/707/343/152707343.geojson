@@ -2,13 +2,14 @@
   "id": 152707343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.034618,33.321903,-87.034618,33.321903",
     "geom:latitude":33.321903,
     "geom:longitude":-87.034618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6301 Old Tuscaloosa Hwy",
     "sg:city":"Mc Calla",
     "sg:classifiers":[
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152707343,
-    "wof:lastmodified":1449048189,
+    "wof:lastmodified":1466319386,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.034618,33.321903,-87.034618,33.321903],
-  "geometry": {"coordinates":[-87.034618,33.321903],"type":"Point"}
+  "bbox": [
+    -87.034618,
+    33.321903,
+    -87.034618,
+    33.321903
+],
+  "geometry": {"coordinates":[-87.03461799999999,33.321903],"type":"Point"}
 }

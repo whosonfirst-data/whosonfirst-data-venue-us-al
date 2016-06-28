@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102454239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.185769,32.842144,-85.185769,32.842144",
     "geom:latitude":32.842144,
     "geom:longitude":-85.185769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2301 31st St",
     "sg:city":"Valley",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848065,
+        85688675,
         85633793,
         85914191,
         102085637,
-        85688675
+        85848065
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102454239,
-    "wof:lastmodified":1449069958,
+    "wof:lastmodified":1466314761,
     "wof:name":"Shawmut United Methdst Church",
     "wof:parent_id":85848065,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.185769,32.842144,-85.185769,32.842144],
-  "geometry": {"coordinates":[-85.185769,32.842144],"type":"Point"}
+  "bbox": [
+    -85.185769,
+    32.842144,
+    -85.185769,
+    32.842144
+],
+  "geometry": {"coordinates":[-85.18576899999999,32.842144],"type":"Point"}
 }

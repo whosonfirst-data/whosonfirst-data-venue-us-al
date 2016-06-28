@@ -2,13 +2,14 @@
   "id": 152130895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.915824,33.522117,-86.915824,33.522117",
     "geom:latitude":33.522117,
     "geom:longitude":-86.915824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"870 Minor Pkwy",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.cochraneroofing.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818187,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85818187
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152130895,
-    "wof:lastmodified":1449045895,
+    "wof:lastmodified":1466315058,
     "wof:name":"Cochrane Roofing & Metal Co",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.915824,33.522117,-86.915824,33.522117],
+  "bbox": [
+    -86.915824,
+    33.522117,
+    -86.915824,
+    33.522117
+],
   "geometry": {"coordinates":[-86.915824,33.522117],"type":"Point"}
 }

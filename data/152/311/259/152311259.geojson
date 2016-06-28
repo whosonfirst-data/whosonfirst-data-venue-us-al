@@ -2,13 +2,14 @@
   "id": 152311259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.834493,31.12671,-87.834493,31.12671",
     "geom:latitude":31.12671,
     "geom:longitude":-87.834493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"62035 St Luke Church Rd",
     "sg:city":"Stockton",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813343,
+        85688675,
         85633793,
         85914703,
         102085469,
-        85688675
+        85813343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152311259,
-    "wof:lastmodified":1449045374,
+    "wof:lastmodified":1466317130,
     "wof:name":"St Lukes Missionary Methodi St",
     "wof:parent_id":85813343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.834493,31.12671,-87.834493,31.12671],
-  "geometry": {"coordinates":[-87.834493,31.12671],"type":"Point"}
+  "bbox": [
+    -87.834493,
+    31.12671,
+    -87.834493,
+    31.12671
+],
+  "geometry": {"coordinates":[-87.83449299999999,31.12671],"type":"Point"}
 }

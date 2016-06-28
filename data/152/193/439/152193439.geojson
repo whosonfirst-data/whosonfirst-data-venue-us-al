@@ -2,13 +2,14 @@
   "id": 152193439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.735923,33.103688,-86.735923,33.103688",
     "geom:latitude":33.103688,
     "geom:longitude":-86.735923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11845 State Rte 25",
     "sg:city":"Calera",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85849529
+        85633793,
+        85849529,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152193439,
-    "wof:lastmodified":1449045055,
+    "wof:lastmodified":1466315860,
     "wof:name":"Speed Trac",
     "wof:parent_id":85849529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.735923,33.103688,-86.735923,33.103688],
+  "bbox": [
+    -86.735923,
+    33.103688,
+    -86.735923,
+    33.103688
+],
   "geometry": {"coordinates":[-86.735923,33.103688],"type":"Point"}
 }

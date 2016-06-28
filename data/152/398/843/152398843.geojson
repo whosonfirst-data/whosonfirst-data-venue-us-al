@@ -2,13 +2,14 @@
   "id": 152398843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.606521,34.729471,-86.606521,34.729471",
     "geom:latitude":34.729471,
     "geom:longitude":-86.606521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2505 Holmes Ave NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851965,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85851965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152398843,
-    "wof:lastmodified":1449044670,
+    "wof:lastmodified":1466317865,
     "wof:name":"Auto Salvage & Supply",
     "wof:parent_id":85851965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.606521,34.729471,-86.606521,34.729471],
+  "bbox": [
+    -86.606521,
+    34.729471,
+    -86.606521,
+    34.729471
+],
   "geometry": {"coordinates":[-86.606521,34.729471],"type":"Point"}
 }

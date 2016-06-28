@@ -2,13 +2,14 @@
   "id": 152453197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.918737,34.320464,-86.918737,34.320464",
     "geom:latitude":34.320464,
     "geom:longitude":-86.918737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"156 Powell Chapel Rd",
     "sg:city":"Falkville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851807,
+        85688675,
         85633793,
         85914103,
         102085531,
-        85688675
+        85851807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152453197,
-    "wof:lastmodified":1449047771,
+    "wof:lastmodified":1466318193,
     "wof:name":"J & J Dump Trucking",
     "wof:parent_id":85851807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.918737,34.320464,-86.918737,34.320464],
-  "geometry": {"coordinates":[-86.918737,34.320464],"type":"Point"}
+  "bbox": [
+    -86.918737,
+    34.320464,
+    -86.918737,
+    34.320464
+],
+  "geometry": {"coordinates":[-86.91873699999999,34.320464],"type":"Point"}
 }

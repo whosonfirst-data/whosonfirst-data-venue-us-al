@@ -2,13 +2,14 @@
   "id": 152234373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.415853,31.213056,-85.415853,31.213056",
     "geom:latitude":31.213056,
     "geom:longitude":-85.415853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1458 Hartford Hwy",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85846119,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85846119
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152234373,
-    "wof:lastmodified":1449048666,
+    "wof:lastmodified":1466316280,
     "wof:name":"North American Computers Inc",
     "wof:parent_id":85846119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.415853,31.213056,-85.415853,31.213056],
+  "bbox": [
+    -85.415853,
+    31.213056,
+    -85.415853,
+    31.213056
+],
   "geometry": {"coordinates":[-85.415853,31.213056],"type":"Point"}
 }

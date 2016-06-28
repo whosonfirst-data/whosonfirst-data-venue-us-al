@@ -2,13 +2,14 @@
   "id": 152731111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.720756,33.573875,-86.720756,33.573875",
     "geom:latitude":33.573875,
     "geom:longitude":-86.720756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8425 1st Ave N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816499,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85816499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152731111,
-    "wof:lastmodified":1449048409,
+    "wof:lastmodified":1466319469,
     "wof:name":"A To Z Vacuum Cleaner Mart",
     "wof:parent_id":85816499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.720756,33.573875,-86.720756,33.573875],
-  "geometry": {"coordinates":[-86.720756,33.573875],"type":"Point"}
+  "bbox": [
+    -86.720756,
+    33.573875,
+    -86.720756,
+    33.573875
+],
+  "geometry": {"coordinates":[-86.72075599999999,33.573875],"type":"Point"}
 }

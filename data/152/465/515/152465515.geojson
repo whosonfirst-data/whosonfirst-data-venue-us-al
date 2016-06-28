@@ -2,13 +2,14 @@
   "id": 152465515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.980639,34.089639,-85.980639,34.089639",
     "geom:latitude":34.089639,
     "geom:longitude":-85.980639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1095 Oliver Dr",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802495,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85802495
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152465515,
-    "wof:lastmodified":1449047406,
+    "wof:lastmodified":1466318176,
     "wof:name":"Erwin Peyton Jr MD",
     "wof:parent_id":85802495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.980639,34.089639,-85.980639,34.089639],
+  "bbox": [
+    -85.980639,
+    34.089639,
+    -85.980639,
+    34.089639
+],
   "geometry": {"coordinates":[-85.980639,34.089639],"type":"Point"}
 }

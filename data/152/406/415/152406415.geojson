@@ -2,13 +2,14 @@
   "id": 152406415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.91298,34.099248,-86.91298,34.099248",
     "geom:latitude":34.099248,
     "geom:longitude":-86.91298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"71 Co Rd 445",
     "sg:city":"Cullman",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867305,
+        85688675,
         85633793,
         85914167,
         102085729,
-        85688675
+        85867305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152406415,
-    "wof:lastmodified":1449046781,
+    "wof:lastmodified":1466317861,
     "wof:name":"Ryans Creek Contracting Inc",
     "wof:parent_id":85867305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.91298,34.099248,-86.91298,34.099248],
+  "bbox": [
+    -86.91298,
+    34.099248,
+    -86.91298,
+    34.099248
+],
   "geometry": {"coordinates":[-86.91298,34.099248],"type":"Point"}
 }

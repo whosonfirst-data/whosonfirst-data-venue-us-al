@@ -2,13 +2,14 @@
   "id": 152211219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.212293,30.680112,-88.212293,30.680112",
     "geom:latitude":30.680112,
     "geom:longitude":-88.212293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7250 Lakeview Dr W",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878993,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878993
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152211219,
-    "wof:lastmodified":1449045433,
+    "wof:lastmodified":1466316004,
     "wof:name":"Vintage Homes",
     "wof:parent_id":85878993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.212293,30.680112,-88.212293,30.680112],
+  "bbox": [
+    -88.212293,
+    30.680112,
+    -88.212293,
+    30.680112
+],
   "geometry": {"coordinates":[-88.212293,30.680112],"type":"Point"}
 }

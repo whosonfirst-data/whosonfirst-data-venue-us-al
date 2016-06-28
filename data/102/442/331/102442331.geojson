@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102442331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.475377,32.461804,-86.475377,32.461804",
     "geom:latitude":32.461804,
     "geom:longitude":-86.475377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"137 S Court St",
     "sg:city":"Prattville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85826521,
+        85688675,
         85633793,
         85913977,
         102085509,
-        85688675
+        85826521
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102442331,
-    "wof:lastmodified":1449068821,
+    "wof:lastmodified":1466314350,
     "wof:name":"Hunnicutt Insurance Svc",
     "wof:parent_id":85826521,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.475377,32.461804,-86.475377,32.461804],
-  "geometry": {"coordinates":[-86.475377,32.461804],"type":"Point"}
+  "bbox": [
+    -86.475377,
+    32.461804,
+    -86.475377,
+    32.461804
+],
+  "geometry": {"coordinates":[-86.47537699999999,32.461804],"type":"Point"}
 }

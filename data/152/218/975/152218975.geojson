@@ -2,13 +2,14 @@
   "id": 152218975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.714571,34.452779,-85.714571,34.452779",
     "geom:latitude":34.452779,
     "geom:longitude":-85.714571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 Alabama Ave N",
     "sg:city":"Fort Payne",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834595,
+        85688675,
         85633793,
         85897515,
         102085615,
-        85688675
+        85834595
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152218975,
-    "wof:lastmodified":1449047229,
+    "wof:lastmodified":1466316076,
     "wof:name":"Bonnie E Austin",
     "wof:parent_id":85834595,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.714571,34.452779,-85.714571,34.452779],
-  "geometry": {"coordinates":[-85.714571,34.452779],"type":"Point"}
+  "bbox": [
+    -85.714571,
+    34.452779,
+    -85.714571,
+    34.452779
+],
+  "geometry": {"coordinates":[-85.71457100000001,34.452779],"type":"Point"}
 }

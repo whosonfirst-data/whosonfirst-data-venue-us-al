@@ -2,13 +2,14 @@
   "id": 152147563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.496851,34.130945,-85.496851,34.130945",
     "geom:latitude":34.130945,
     "geom:longitude":-85.496851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11535 Co Rd 45",
     "sg:city":"Centre",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":152147563,
-    "wof:lastmodified":1449048415,
+    "wof:lastmodified":1466315548,
     "wof:name":"David D Spraggins",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.496851,34.130945,-85.496851,34.130945],
-  "geometry": {"coordinates":[-85.496851,34.130945],"type":"Point"}
+  "bbox": [
+    -85.496851,
+    34.130945,
+    -85.496851,
+    34.130945
+],
+  "geometry": {"coordinates":[-85.49685100000001,34.130945],"type":"Point"}
 }

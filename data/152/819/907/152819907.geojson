@@ -2,13 +2,14 @@
   "id": 152819907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.847865,30.656458,-87.847865,30.656458",
     "geom:latitude":30.656458,
     "geom:longitude":-87.847865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29740 Jason Malbis Blvd",
     "sg:city":"Daphne",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807399,
+        85688675,
         85633793,
         85914741,
         102085469,
-        85688675
+        85807399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152819907,
-    "wof:lastmodified":1449045395,
+    "wof:lastmodified":1466320108,
     "wof:name":"Riley Maxwill Corp",
     "wof:parent_id":85807399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.847865,30.656458,-87.847865,30.656458],
+  "bbox": [
+    -87.847865,
+    30.656458,
+    -87.847865,
+    30.656458
+],
   "geometry": {"coordinates":[-87.847865,30.656458],"type":"Point"}
 }

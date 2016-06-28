@@ -2,13 +2,14 @@
   "id": 152259231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.056694,30.685339,-88.056694,30.685339",
     "geom:latitude":30.685339,
     "geom:longitude":-88.056694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"951 Government St",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878971,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152259231,
-    "wof:lastmodified":1449045349,
+    "wof:lastmodified":1466316735,
     "wof:name":"Collateral Benefits Group Inc",
     "wof:parent_id":85878971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.056694,30.685339,-88.056694,30.685339],
-  "geometry": {"coordinates":[-88.056694,30.685339],"type":"Point"}
+  "bbox": [
+    -88.056694,
+    30.685339,
+    -88.056694,
+    30.685339
+],
+  "geometry": {"coordinates":[-88.05669399999999,30.685339],"type":"Point"}
 }

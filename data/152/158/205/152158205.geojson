@@ -2,13 +2,14 @@
   "id": 152158205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.644359,34.771505,-86.644359,34.771505",
     "geom:latitude":34.771505,
     "geom:longitude":-86.644359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6001 Mastin Lake Rd NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851401,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85851401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152158205,
-    "wof:lastmodified":1449047378,
+    "wof:lastmodified":1466314997,
     "wof:name":"Grace Baptist",
     "wof:parent_id":85851401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.644359,34.771505,-86.644359,34.771505],
-  "geometry": {"coordinates":[-86.644359,34.771505],"type":"Point"}
+  "bbox": [
+    -86.644359,
+    34.771505,
+    -86.644359,
+    34.771505
+],
+  "geometry": {"coordinates":[-86.64435899999999,34.771505],"type":"Point"}
 }

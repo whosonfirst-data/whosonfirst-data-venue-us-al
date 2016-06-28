@@ -2,13 +2,14 @@
   "id": 152654425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.561523,33.211854,-87.561523,33.211854",
     "geom:latitude":33.211854,
     "geom:longitude":-87.561523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1812 University Blvd",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":152654425,
-    "wof:lastmodified":1449045857,
+    "wof:lastmodified":1466319111,
     "wof:name":"Southland National Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.561523,33.211854,-87.561523,33.211854],
-  "geometry": {"coordinates":[-87.561523,33.211854],"type":"Point"}
+  "bbox": [
+    -87.561523,
+    33.211854,
+    -87.561523,
+    33.211854
+],
+  "geometry": {"coordinates":[-87.56152299999999,33.211854],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152175053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.312441,33.166644,-87.312441,33.166644",
     "geom:latitude":33.166644,
     "geom:longitude":-87.312441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16001 Dudley Rd",
     "sg:city":"Vance",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851363,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85851363
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152175053,
-    "wof:lastmodified":1449047498,
+    "wof:lastmodified":1466315636,
     "wof:name":"APAC Alabama Inc",
     "wof:parent_id":85851363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.312441,33.166644,-87.312441,33.166644],
-  "geometry": {"coordinates":[-87.312441,33.166644],"type":"Point"}
+  "bbox": [
+    -87.312441,
+    33.166644,
+    -87.312441,
+    33.166644
+],
+  "geometry": {"coordinates":[-87.31244100000001,33.166644],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152175439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.781715,33.466954,-86.781715,33.466954",
     "geom:latitude":33.466954,
     "geom:longitude":-86.781715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2200 Lakeshore Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.laureatecap.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850365,
+        85688675,
         85633793,
         85914847,
         102085481,
-        85688675
+        85850365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152175439,
-    "wof:lastmodified":1449047499,
+    "wof:lastmodified":1466315777,
     "wof:name":"Laureate Capital",
     "wof:parent_id":85850365,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.781715,33.466954,-86.781715,33.466954],
-  "geometry": {"coordinates":[-86.781715,33.466954],"type":"Point"}
+  "bbox": [
+    -86.781715,
+    33.466954,
+    -86.781715,
+    33.466954
+],
+  "geometry": {"coordinates":[-86.78171500000001,33.466954],"type":"Point"}
 }

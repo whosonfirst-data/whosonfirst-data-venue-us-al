@@ -2,13 +2,14 @@
   "id": 152419213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.685892,34.759414,-87.685892,34.759414",
     "geom:latitude":34.759414,
     "geom:longitude":-87.685892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Cox Blvd",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858837,
+        85688675,
         85633793,
         85897473,
         102085625,
-        85688675
+        85858837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152419213,
-    "wof:lastmodified":1449048820,
+    "wof:lastmodified":1466317928,
     "wof:name":"Moore's Cycles & Supplies",
     "wof:parent_id":85858837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.685892,34.759414,-87.685892,34.759414],
+  "bbox": [
+    -87.685892,
+    34.759414,
+    -87.685892,
+    34.759414
+],
   "geometry": {"coordinates":[-87.685892,34.759414],"type":"Point"}
 }

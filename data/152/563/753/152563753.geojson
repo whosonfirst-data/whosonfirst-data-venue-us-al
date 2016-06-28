@@ -2,13 +2,14 @@
   "id": 152563753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.950619,34.648726,-86.950619,34.648726",
     "geom:latitude":34.648726,
     "geom:longitude":-86.950619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6275 US Hwy 31",
     "sg:city":"Tanner",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085531,
-        85633793,
         85688675,
-        85802585
+        85633793,
+        85802585,
+        102085531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152563753,
-    "wof:lastmodified":1449044362,
+    "wof:lastmodified":1466318675,
     "wof:name":"General Motors Corp",
     "wof:parent_id":85802585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.950619,34.648726,-86.950619,34.648726],
+  "bbox": [
+    -86.950619,
+    34.648726,
+    -86.950619,
+    34.648726
+],
   "geometry": {"coordinates":[-86.950619,34.648726],"type":"Point"}
 }

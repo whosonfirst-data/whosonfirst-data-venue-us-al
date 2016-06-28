@@ -2,13 +2,14 @@
   "id": 152319853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.942003,32.574971,-85.942003,32.574971",
     "geom:latitude":32.574971,
     "geom:longitude":-85.942003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"89089 Tallassee Hwy",
     "sg:city":"Tallassee",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827623,
+        85688675,
         85633793,
         85913291,
         102085631,
-        85688675
+        85827623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152319853,
-    "wof:lastmodified":1449046194,
+    "wof:lastmodified":1466317317,
     "wof:name":"Tallassee Mini Storage",
     "wof:parent_id":85827623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.942003,32.574971,-85.942003,32.574971],
+  "bbox": [
+    -85.942003,
+    32.574971,
+    -85.942003,
+    32.574971
+],
   "geometry": {"coordinates":[-85.942003,32.574971],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152173541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.057415,34.445397,-86.057415,34.445397",
     "geom:latitude":34.445397,
     "geom:longitude":-86.057415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3112 Co Rd 19",
     "sg:city":"Groveoak",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815015,
+        85688675,
         85633793,
         85897515,
         102085615,
-        85688675
+        85815015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152173541,
-    "wof:lastmodified":1449045194,
+    "wof:lastmodified":1466315717,
     "wof:name":"Rickey Noles",
     "wof:parent_id":85815015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.057415,34.445397,-86.057415,34.445397],
-  "geometry": {"coordinates":[-86.057415,34.445397],"type":"Point"}
+  "bbox": [
+    -86.057415,
+    34.445397,
+    -86.057415,
+    34.445397
+],
+  "geometry": {"coordinates":[-86.05741500000001,34.445397],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152155811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.829905,33.685028,-87.829905,33.685028",
     "geom:latitude":33.685028,
     "geom:longitude":-87.829905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 1st Ave NE",
     "sg:city":"Fayette",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85839451,
+        85688675,
         85633793,
         85913701,
         102085741,
-        85688675
+        85839451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152155811,
-    "wof:lastmodified":1449048113,
+    "wof:lastmodified":1466314865,
     "wof:name":"Prater Co",
     "wof:parent_id":85839451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.829905,33.685028,-87.829905,33.685028],
+  "bbox": [
+    -87.829905,
+    33.685028,
+    -87.829905,
+    33.685028
+],
   "geometry": {"coordinates":[-87.829905,33.685028],"type":"Point"}
 }

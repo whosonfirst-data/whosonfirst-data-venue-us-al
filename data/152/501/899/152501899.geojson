@@ -2,13 +2,14 @@
   "id": 152501899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.784706,33.197603,-86.784706,33.197603",
     "geom:latitude":33.197603,
     "geom:longitude":-86.784706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"154 Airpark Industrial Rd",
     "sg:city":"Alabaster",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85853623
+        85633793,
+        85853623,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152501899,
-    "wof:lastmodified":1449048933,
+    "wof:lastmodified":1466318377,
     "wof:name":"George S Edwards Co",
     "wof:parent_id":85853623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.784706,33.197603,-86.784706,33.197603],
+  "bbox": [
+    -86.784706,
+    33.197603,
+    -86.784706,
+    33.197603
+],
   "geometry": {"coordinates":[-86.784706,33.197603],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152376595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.343296,30.477531,-88.343296,30.477531",
     "geom:latitude":30.477531,
     "geom:longitude":-88.343296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10201 Schoolhouse Rd",
     "sg:city":"Grand Bay",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085585,
-        85633793,
         85688675,
-        85895801
+        85633793,
+        85895801,
+        102085585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152376595,
-    "wof:lastmodified":1449045887,
+    "wof:lastmodified":1466317723,
     "wof:name":"Pates Garage",
     "wof:parent_id":85895801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.343296,30.477531,-88.343296,30.477531],
+  "bbox": [
+    -88.343296,
+    30.477531,
+    -88.343296,
+    30.477531
+],
   "geometry": {"coordinates":[-88.343296,30.477531],"type":"Point"}
 }

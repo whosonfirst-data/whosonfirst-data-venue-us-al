@@ -2,13 +2,14 @@
   "id": 152582143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.784318,33.340235,-86.784318,33.340235",
     "geom:latitude":33.340235,
     "geom:longitude":-86.784318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"244 Cahaba Valley Pkwy",
     "sg:city":"Pelham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85826867,
+        85688675,
         85633793,
         85914501,
         102085499,
-        85688675
+        85826867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152582143,
-    "wof:lastmodified":1449046791,
+    "wof:lastmodified":1466318997,
     "wof:name":"Bear Creek Technologies",
     "wof:parent_id":85826867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.784318,33.340235,-86.784318,33.340235],
+  "bbox": [
+    -86.784318,
+    33.340235,
+    -86.784318,
+    33.340235
+],
   "geometry": {"coordinates":[-86.784318,33.340235],"type":"Point"}
 }

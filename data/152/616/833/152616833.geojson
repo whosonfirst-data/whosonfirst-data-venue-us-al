@@ -2,13 +2,14 @@
   "id": 152616833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.627404,34.698979,-86.627404,34.698979",
     "geom:latitude":34.698979,
     "geom:longitude":-86.627404,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3590 Patton Rd SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840971,
+        85688675,
         85633793,
         85915405,
         102085487,
-        85688675
+        85840971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152616833,
-    "wof:lastmodified":1449047696,
+    "wof:lastmodified":1466318948,
     "wof:name":"Metro Kiwanis Sports Plex",
     "wof:parent_id":85840971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.627404,34.698979,-86.627404,34.698979],
+  "bbox": [
+    -86.627404,
+    34.698979,
+    -86.627404,
+    34.698979
+],
   "geometry": {"coordinates":[-86.627404,34.698979],"type":"Point"}
 }

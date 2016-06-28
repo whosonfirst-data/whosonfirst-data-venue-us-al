@@ -2,13 +2,14 @@
   "id": 152797209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.054929,30.680624,-88.054929,30.680624",
     "geom:latitude":30.680624,
     "geom:longitude":-88.054929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 Marine St",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865465,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85865465
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152797209,
-    "wof:lastmodified":1449048468,
+    "wof:lastmodified":1466319980,
     "wof:name":"Lucky Roofing",
     "wof:parent_id":85865465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.054929,30.680624,-88.054929,30.680624],
+  "bbox": [
+    -88.054929,
+    30.680624,
+    -88.054929,
+    30.680624
+],
   "geometry": {"coordinates":[-88.054929,30.680624],"type":"Point"}
 }

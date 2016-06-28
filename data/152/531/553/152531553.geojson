@@ -2,13 +2,14 @@
   "id": 152531553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.799376,34.749125,-86.799376,34.749125",
     "geom:latitude":34.749125,
     "geom:longitude":-86.799376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29943 US Hwy 72",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":152531553,
-    "wof:lastmodified":1449045384,
+    "wof:lastmodified":1466318482,
     "wof:name":"Eagle Collision of Madison",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.799376,34.749125,-86.799376,34.749125],
+  "bbox": [
+    -86.799376,
+    34.749125,
+    -86.799376,
+    34.749125
+],
   "geometry": {"coordinates":[-86.799376,34.749125],"type":"Point"}
 }

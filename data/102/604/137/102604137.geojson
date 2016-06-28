@@ -2,13 +2,14 @@
   "id": 102604137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.142103,32.345798,-86.142103,32.345798",
     "geom:latitude":32.345798,
     "geom:longitude":-86.142103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7524 Mossy Oak Dr",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879033,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879033
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102604137,
-    "wof:lastmodified":1449069906,
+    "wof:lastmodified":1466317122,
     "wof:name":"Alexander Emergency Services P",
     "wof:parent_id":85879033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.142103,32.345798,-86.142103,32.345798],
-  "geometry": {"coordinates":[-86.142103,32.345798],"type":"Point"}
+  "bbox": [
+    -86.142103,
+    32.345798,
+    -86.142103,
+    32.345798
+],
+  "geometry": {"coordinates":[-86.14210300000001,32.345798],"type":"Point"}
 }

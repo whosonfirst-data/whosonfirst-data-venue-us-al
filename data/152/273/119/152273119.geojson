@@ -2,13 +2,14 @@
   "id": 152273119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.2209,32.430832,-86.2209,32.430832",
     "geom:latitude":32.430832,
     "geom:longitude":-86.2209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3079 Wetumpka Hwy",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -35,11 +36,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813403,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85813403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":152273119,
-    "wof:lastmodified":1449046700,
+    "wof:lastmodified":1466316823,
     "wof:name":"Bladerunner Tool & Hardwood",
     "wof:parent_id":85813403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.2209,32.430832,-86.2209,32.430832],
+  "bbox": [
+    -86.2209,
+    32.430832,
+    -86.2209,
+    32.430832
+],
   "geometry": {"coordinates":[-86.2209,32.430832],"type":"Point"}
 }

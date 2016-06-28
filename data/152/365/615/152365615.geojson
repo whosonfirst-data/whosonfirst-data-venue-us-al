@@ -2,13 +2,14 @@
   "id": 152365615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.410777,32.459801,-86.410777,32.459801",
     "geom:latitude":32.459801,
     "geom:longitude":-86.410777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2223 Cobbs Ford Rd",
     "sg:city":"Prattville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840001,
+        85688675,
         85633793,
         85913977,
         102085509,
-        85688675
+        85840001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152365615,
-    "wof:lastmodified":1449045046,
+    "wof:lastmodified":1466317785,
     "wof:name":"Rucker's Furniture Gallery",
     "wof:parent_id":85840001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.410777,32.459801,-86.410777,32.459801],
+  "bbox": [
+    -86.410777,
+    32.459801,
+    -86.410777,
+    32.459801
+],
   "geometry": {"coordinates":[-86.410777,32.459801],"type":"Point"}
 }

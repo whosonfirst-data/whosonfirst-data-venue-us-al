@@ -2,13 +2,14 @@
   "id": 152166833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.743366,33.54378,-86.743366,33.54378",
     "geom:latitude":33.54378,
     "geom:longitude":-86.743366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 62nd St S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858829,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85858829
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152166833,
-    "wof:lastmodified":1449046882,
+    "wof:lastmodified":1466315556,
     "wof:name":"Woodlawn Deliverance Temple",
     "wof:parent_id":85858829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.743366,33.54378,-86.743366,33.54378],
-  "geometry": {"coordinates":[-86.743366,33.54378],"type":"Point"}
+  "bbox": [
+    -86.743366,
+    33.54378,
+    -86.743366,
+    33.54378
+],
+  "geometry": {"coordinates":[-86.74336599999999,33.54378],"type":"Point"}
 }

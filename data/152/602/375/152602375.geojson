@@ -2,13 +2,14 @@
   "id": 152602375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.885503,30.530951,-87.885503,30.530951",
     "geom:latitude":30.530951,
     "geom:longitude":-87.885503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 Gayfer Ave",
     "sg:city":"Fairhope",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854025,
+        85688675,
         85633793,
         85914707,
         102085469,
-        85688675
+        85854025
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152602375,
-    "wof:lastmodified":1449046475,
+    "wof:lastmodified":1466318865,
     "wof:name":"Diversified Coatings",
     "wof:parent_id":85854025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.885503,30.530951,-87.885503,30.530951],
+  "bbox": [
+    -87.885503,
+    30.530951,
+    -87.885503,
+    30.530951
+],
   "geometry": {"coordinates":[-87.885503,30.530951],"type":"Point"}
 }

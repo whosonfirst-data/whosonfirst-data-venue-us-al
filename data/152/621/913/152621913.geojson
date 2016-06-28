@@ -2,13 +2,14 @@
   "id": 152621913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.580387,34.744017,-86.580387,34.744017",
     "geom:latitude":34.744017,
     "geom:longitude":-86.580387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 Humes Ave NE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878235,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878235
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152621913,
-    "wof:lastmodified":1449048370,
+    "wof:lastmodified":1466318975,
     "wof:name":"JDL Mechanical",
     "wof:parent_id":85878235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.580387,34.744017,-86.580387,34.744017],
+  "bbox": [
+    -86.580387,
+    34.744017,
+    -86.580387,
+    34.744017
+],
   "geometry": {"coordinates":[-86.580387,34.744017],"type":"Point"}
 }

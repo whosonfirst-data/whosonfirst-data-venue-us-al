@@ -2,13 +2,14 @@
   "id": 152521199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.893119,33.440411,-86.893119,33.440411",
     "geom:latitude":33.440411,
     "geom:longitude":-86.893119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3636 Wenonah Rd SW",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851831,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85851831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152521199,
-    "wof:lastmodified":1449048692,
+    "wof:lastmodified":1466318413,
     "wof:name":"Evolution Spray Detail",
     "wof:parent_id":85851831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.893119,33.440411,-86.893119,33.440411],
+  "bbox": [
+    -86.893119,
+    33.440411,
+    -86.893119,
+    33.440411
+],
   "geometry": {"coordinates":[-86.893119,33.440411],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102504521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.719525,33.461799,-86.719525,33.461799",
     "geom:latitude":33.461799,
     "geom:longitude":-86.719525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3536 East St",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -37,11 +38,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802339,
+        85688675,
         85633793,
         85914483,
         102085481,
-        85688675
+        85802339
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,14 +61,20 @@
         }
     ],
     "wof:id":102504521,
-    "wof:lastmodified":1449068236,
+    "wof:lastmodified":1466316620,
     "wof:name":"Carter Instrument Sales Inc",
     "wof:parent_id":85802339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.719525,33.461799,-86.719525,33.461799],
+  "bbox": [
+    -86.719525,
+    33.461799,
+    -86.719525,
+    33.461799
+],
   "geometry": {"coordinates":[-86.719525,33.461799],"type":"Point"}
 }

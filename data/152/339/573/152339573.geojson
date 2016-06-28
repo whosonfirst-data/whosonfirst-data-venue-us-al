@@ -2,13 +2,14 @@
   "id": 152339573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.281907,32.373462,-86.281907,32.373462",
     "geom:latitude":32.373462,
     "geom:longitude":-86.281907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1905 Palmetto St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809389,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85809389
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152339573,
-    "wof:lastmodified":1449046377,
+    "wof:lastmodified":1466317534,
     "wof:name":"Dunnavant Co",
     "wof:parent_id":85809389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.281907,32.373462,-86.281907,32.373462],
+  "bbox": [
+    -86.281907,
+    32.373462,
+    -86.281907,
+    32.373462
+],
   "geometry": {"coordinates":[-86.281907,32.373462],"type":"Point"}
 }

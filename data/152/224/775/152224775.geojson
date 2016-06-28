@@ -2,13 +2,14 @@
   "id": 152224775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.907052,33.334807,-86.907052,33.334807",
     "geom:latitude":33.334807,
     "geom:longitude":-86.907052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2431 Southwood Trce",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152224775,
-    "wof:lastmodified":1449047677,
+    "wof:lastmodified":1466316232,
     "wof:name":"Ginger & Lily Posh Purses",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.907052,33.334807,-86.907052,33.334807],
-  "geometry": {"coordinates":[-86.907052,33.334807],"type":"Point"}
+  "bbox": [
+    -86.907052,
+    33.334807,
+    -86.907052,
+    33.334807
+],
+  "geometry": {"coordinates":[-86.90705199999999,33.334807],"type":"Point"}
 }

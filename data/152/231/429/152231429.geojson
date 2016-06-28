@@ -2,13 +2,14 @@
   "id": 152231429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.960136,34.085111,-85.960136,34.085111",
     "geom:latitude":34.085111,
     "geom:longitude":-85.960136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4658 Lay Springs Rd",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802495,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85802495
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152231429,
-    "wof:lastmodified":1449046669,
+    "wof:lastmodified":1466316324,
     "wof:name":"Lookout Mtn Vlntr Fire Dept",
     "wof:parent_id":85802495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.960136,34.085111,-85.960136,34.085111],
-  "geometry": {"coordinates":[-85.960136,34.085111],"type":"Point"}
+  "bbox": [
+    -85.960136,
+    34.085111,
+    -85.960136,
+    34.085111
+],
+  "geometry": {"coordinates":[-85.96013600000001,34.085111],"type":"Point"}
 }

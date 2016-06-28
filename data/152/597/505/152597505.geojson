@@ -2,13 +2,14 @@
   "id": 152597505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.769885,34.759417,-86.769885,34.759417",
     "geom:latitude":34.759417,
     "geom:longitude":-86.769885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Shoals Point Trl",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085487,
-        85633793,
         85688675,
-        85838413
+        85633793,
+        85838413,
+        102085487
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152597505,
-    "wof:lastmodified":1449048849,
+    "wof:lastmodified":1466319015,
     "wof:name":"Bailey Construction",
     "wof:parent_id":85838413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.769885,34.759417,-86.769885,34.759417],
+  "bbox": [
+    -86.769885,
+    34.759417,
+    -86.769885,
+    34.759417
+],
   "geometry": {"coordinates":[-86.769885,34.759417],"type":"Point"}
 }

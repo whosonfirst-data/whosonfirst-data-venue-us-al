@@ -2,13 +2,14 @@
   "id": 152787295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.371725,34.402517,-86.371725,34.402517",
     "geom:latitude":34.402517,
     "geom:longitude":-86.371725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 Foster Landing Rd",
     "sg:city":"Guntersville",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085513,
-        85633793,
         85688675,
-        85849079
+        85633793,
+        85849079,
+        102085513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152787295,
-    "wof:lastmodified":1449046403,
+    "wof:lastmodified":1466319763,
     "wof:name":"Order of Eastern Star Gunstens",
     "wof:parent_id":85849079,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.371725,34.402517,-86.371725,34.402517],
+  "bbox": [
+    -86.371725,
+    34.402517,
+    -86.371725,
+    34.402517
+],
   "geometry": {"coordinates":[-86.371725,34.402517],"type":"Point"}
 }

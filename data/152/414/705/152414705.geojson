@@ -2,13 +2,14 @@
   "id": 152414705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.775614,33.437109,-86.775614,33.437109",
     "geom:latitude":33.437109,
     "geom:longitude":-86.775614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2323 Foxglen Cir",
     "sg:city":"Vestavia Hills",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853699,
+        85688675,
         85633793,
         85914483,
         102085481,
-        85688675
+        85853699
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152414705,
-    "wof:lastmodified":1449046467,
+    "wof:lastmodified":1466318025,
     "wof:name":"Action Photography",
     "wof:parent_id":85853699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.775614,33.437109,-86.775614,33.437109],
+  "bbox": [
+    -86.775614,
+    33.437109,
+    -86.775614,
+    33.437109
+],
   "geometry": {"coordinates":[-86.775614,33.437109],"type":"Point"}
 }

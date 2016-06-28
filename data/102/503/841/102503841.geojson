@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102503841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.780374,34.783812,-86.780374,34.783812",
     "geom:latitude":34.783812,
     "geom:longitude":-86.780374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Blackwater Dr",
     "sg:city":"Harvest",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085487,
-        85633793,
         85688675,
-        85820675
+        85633793,
+        85820675,
+        102085487
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102503841,
-    "wof:lastmodified":1449070219,
+    "wof:lastmodified":1466316679,
     "wof:name":"Briggs Trey",
     "wof:parent_id":85820675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.780374,34.783812,-86.780374,34.783812],
-  "geometry": {"coordinates":[-86.780374,34.783812],"type":"Point"}
+  "bbox": [
+    -86.780374,
+    34.783812,
+    -86.780374,
+    34.783812
+],
+  "geometry": {"coordinates":[-86.78037399999999,34.783812],"type":"Point"}
 }

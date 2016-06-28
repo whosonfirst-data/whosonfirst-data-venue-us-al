@@ -2,13 +2,14 @@
   "id": 102639207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.299198,30.508803,-88.299198,30.508803",
     "geom:latitude":30.508803,
     "geom:longitude":-88.299198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10810 Boe Rd Exn",
     "sg:city":"Grand Bay",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102639207,
-    "wof:lastmodified":1449070200,
+    "wof:lastmodified":1466317471,
     "wof:name":"Bay West Electric",
     "wof:parent_id":85688675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.299198,30.508803,-88.299198,30.508803],
+  "bbox": [
+    -88.299198,
+    30.508803,
+    -88.299198,
+    30.508803
+],
   "geometry": {"coordinates":[-88.299198,30.508803],"type":"Point"}
 }

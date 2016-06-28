@@ -2,13 +2,14 @@
   "id": 152222225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.370508,34.664404,-86.370508,34.664404",
     "geom:latitude":34.664404,
     "geom:longitude":-86.370508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Hillsdale Dr",
     "sg:city":"Gurley",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878245,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152222225,
-    "wof:lastmodified":1449047386,
+    "wof:lastmodified":1466316191,
     "wof:name":"Buddy Medley Const",
     "wof:parent_id":85878245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.370508,34.664404,-86.370508,34.664404],
+  "bbox": [
+    -86.370508,
+    34.664404,
+    -86.370508,
+    34.664404
+],
   "geometry": {"coordinates":[-86.370508,34.664404],"type":"Point"}
 }

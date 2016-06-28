@@ -2,13 +2,14 @@
   "id": 152819863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.983789,34.002173,-85.983789,34.002173",
     "geom:latitude":34.002173,
     "geom:longitude":-85.983789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Hoke St",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822279,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85822279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152819863,
-    "wof:lastmodified":1449045395,
+    "wof:lastmodified":1466319970,
     "wof:name":"Coffeys Guns & Gems",
     "wof:parent_id":85822279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.983789,34.002173,-85.983789,34.002173],
+  "bbox": [
+    -85.983789,
+    34.002173,
+    -85.983789,
+    34.002173
+],
   "geometry": {"coordinates":[-85.983789,34.002173],"type":"Point"}
 }

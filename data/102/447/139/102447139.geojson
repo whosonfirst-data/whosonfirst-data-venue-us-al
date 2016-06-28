@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102447139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.401334,32.638398,-85.401334,32.638398",
     "geom:latitude":32.638398,
     "geom:longitude":-85.401334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1908 Pepperell Pkwy",
     "sg:city":"Opelika",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85857153,
+        85688675,
         85633793,
         85913815,
         102085751,
-        85688675
+        85857153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102447139,
-    "wof:lastmodified":1449069492,
+    "wof:lastmodified":1466314436,
     "wof:name":"Care Center of Opelika",
     "wof:parent_id":85857153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.401334,32.638398,-85.401334,32.638398],
-  "geometry": {"coordinates":[-85.401334,32.638398],"type":"Point"}
+  "bbox": [
+    -85.401334,
+    32.638398,
+    -85.401334,
+    32.638398
+],
+  "geometry": {"coordinates":[-85.40133400000001,32.638398],"type":"Point"}
 }

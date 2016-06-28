@@ -2,13 +2,14 @@
   "id": 152439509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.784788,33.528269,-86.784788,33.528269",
     "geom:latitude":33.528269,
     "geom:longitude":-86.784788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3726 4th Ter N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876269,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152439509,
-    "wof:lastmodified":1449045573,
+    "wof:lastmodified":1466317912,
     "wof:name":"Resin Technology Inc",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.784788,33.528269,-86.784788,33.528269],
-  "geometry": {"coordinates":[-86.784788,33.528269],"type":"Point"}
+  "bbox": [
+    -86.784788,
+    33.528269,
+    -86.784788,
+    33.528269
+],
+  "geometry": {"coordinates":[-86.78478800000001,33.528269],"type":"Point"}
 }

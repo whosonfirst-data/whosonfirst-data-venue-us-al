@@ -2,13 +2,14 @@
   "id": 152178203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.996075,34.004591,-85.996075,34.004591",
     "geom:latitude":34.004591,
     "geom:longitude":-85.996075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"442 George Wallace Dr",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822279,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85822279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152178203,
-    "wof:lastmodified":1449047615,
+    "wof:lastmodified":1466315670,
     "wof:name":"Total Look",
     "wof:parent_id":85822279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.996075,34.004591,-85.996075,34.004591],
+  "bbox": [
+    -85.996075,
+    34.004591,
+    -85.996075,
+    34.004591
+],
   "geometry": {"coordinates":[-85.996075,34.004591],"type":"Point"}
 }

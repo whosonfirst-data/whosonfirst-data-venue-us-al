@@ -2,13 +2,14 @@
   "id": 152136383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.475699,32.578982,-85.475699,32.578982",
     "geom:latitude":32.578982,
     "geom:longitude":-85.475699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"512 E University Dr",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811511,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85811511
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152136383,
-    "wof:lastmodified":1449048839,
+    "wof:lastmodified":1466315299,
     "wof:name":"Southeast Swimming Inc",
     "wof:parent_id":85811511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.475699,32.578982,-85.475699,32.578982],
-  "geometry": {"coordinates":[-85.475699,32.578982],"type":"Point"}
+  "bbox": [
+    -85.475699,
+    32.578982,
+    -85.475699,
+    32.578982
+],
+  "geometry": {"coordinates":[-85.47569900000001,32.578982],"type":"Point"}
 }

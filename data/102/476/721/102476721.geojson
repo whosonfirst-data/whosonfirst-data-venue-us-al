@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102476721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.457259,31.257969,-85.457259,31.257969",
     "geom:latitude":31.257969,
     "geom:longitude":-85.457259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Timberline Ct",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840987,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85840987
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102476721,
-    "wof:lastmodified":1449068744,
+    "wof:lastmodified":1466314456,
     "wof:name":"Fletcher C Harrison Jr",
     "wof:parent_id":85840987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.457259,31.257969,-85.457259,31.257969],
-  "geometry": {"coordinates":[-85.457259,31.257969],"type":"Point"}
+  "bbox": [
+    -85.457259,
+    31.257969,
+    -85.457259,
+    31.257969
+],
+  "geometry": {"coordinates":[-85.45725899999999,31.257969],"type":"Point"}
 }

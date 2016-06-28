@@ -2,13 +2,14 @@
   "id": 152363179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.548334,33.129696,-87.548334,33.129696",
     "geom:latitude":33.129696,
     "geom:longitude":-87.548334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8820 State Rte 69",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085553,
-        85633793,
         85688675,
-        85851887
+        85633793,
+        85851887,
+        102085553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152363179,
-    "wof:lastmodified":1449048364,
+    "wof:lastmodified":1466317532,
     "wof:name":"Valley View Baptist Preschool",
     "wof:parent_id":85851887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.548334,33.129696,-87.548334,33.129696],
+  "bbox": [
+    -87.548334,
+    33.129696,
+    -87.548334,
+    33.129696
+],
   "geometry": {"coordinates":[-87.548334,33.129696],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152237013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.912578,30.651446,-87.912578,30.651446",
     "geom:latitude":30.651446,
     "geom:longitude":-87.912578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28841 US Hwy 98",
     "sg:city":"Daphne",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840537,
+        85688675,
         85633793,
         85914695,
         102085469,
-        85688675
+        85840537
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":152237013,
-    "wof:lastmodified":1449044406,
+    "wof:lastmodified":1466316451,
     "wof:name":"Smoothie King",
     "wof:parent_id":85840537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.912578,30.651446,-87.912578,30.651446],
+  "bbox": [
+    -87.912578,
+    30.651446,
+    -87.912578,
+    30.651446
+],
   "geometry": {"coordinates":[-87.912578,30.651446],"type":"Point"}
 }

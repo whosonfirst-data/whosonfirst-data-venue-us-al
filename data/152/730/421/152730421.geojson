@@ -2,13 +2,14 @@
   "id": 152730421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.584352,34.543242,-86.584352,34.543242",
     "geom:latitude":34.543242,
     "geom:longitude":-86.584352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"153 Bess Thompson Rd",
     "sg:city":"Laceys Spring",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822793,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85822793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":152730421,
-    "wof:lastmodified":1449048171,
+    "wof:lastmodified":1466319480,
     "wof:name":"Alpha Enterprises",
     "wof:parent_id":85822793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.584352,34.543242,-86.584352,34.543242],
+  "bbox": [
+    -86.584352,
+    34.543242,
+    -86.584352,
+    34.543242
+],
   "geometry": {"coordinates":[-86.584352,34.543242],"type":"Point"}
 }

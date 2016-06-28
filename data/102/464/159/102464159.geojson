@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102464159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.85959,34.224772,-86.85959,34.224772",
     "geom:latitude":34.224772,
     "geom:longitude":-86.85959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17815 US Hwy 31",
     "sg:city":"Cullman",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085729,
-        85633793,
         85688675,
-        85867307
+        85633793,
+        85867307,
+        102085729
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102464159,
-    "wof:lastmodified":1449068430,
+    "wof:lastmodified":1466315030,
     "wof:name":"Bills Transmission",
     "wof:parent_id":85867307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.85959,34.224772,-86.85959,34.224772],
+  "bbox": [
+    -86.85959,
+    34.224772,
+    -86.85959,
+    34.224772
+],
   "geometry": {"coordinates":[-86.85959,34.224772],"type":"Point"}
 }

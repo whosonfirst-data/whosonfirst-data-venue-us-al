@@ -2,13 +2,14 @@
   "id": 152171175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.525762,30.303612,-87.525762,30.303612",
     "geom:latitude":30.303612,
     "geom:longitude":-87.525762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5434 Bay la Launch Ave",
     "sg:city":"Orange Beach",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868551,
+        85688675,
         85633793,
         85914719,
         102085469,
-        85688675
+        85868551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152171175,
-    "wof:lastmodified":1449048916,
+    "wof:lastmodified":1466315616,
     "wof:name":"Miss Emma Charters LLC",
     "wof:parent_id":85868551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.525762,30.303612,-87.525762,30.303612],
+  "bbox": [
+    -87.525762,
+    30.303612,
+    -87.525762,
+    30.303612
+],
   "geometry": {"coordinates":[-87.525762,30.303612],"type":"Point"}
 }

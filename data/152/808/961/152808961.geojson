@@ -2,13 +2,14 @@
   "id": 152808961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.2926,31.205135,-85.2926,31.205135",
     "geom:latitude":31.205135,
     "geom:longitude":-85.2926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Lisa Cir",
     "sg:city":"Cowarts",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847911,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85847911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152808961,
-    "wof:lastmodified":1449044518,
+    "wof:lastmodified":1466319919,
     "wof:name":"CJ S Home Heating Cooling Inc",
     "wof:parent_id":85847911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.2926,31.205135,-85.2926,31.205135],
-  "geometry": {"coordinates":[-85.2926,31.205135],"type":"Point"}
+  "bbox": [
+    -85.2926,
+    31.205135,
+    -85.2926,
+    31.205135
+],
+  "geometry": {"coordinates":[-85.29259999999999,31.205135],"type":"Point"}
 }

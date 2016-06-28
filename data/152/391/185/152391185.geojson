@@ -2,13 +2,14 @@
   "id": 152391185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.057457,34.439726,-86.057457,34.439726",
     "geom:latitude":34.439726,
     "geom:longitude":-86.057457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16242 Co Rd 50",
     "sg:city":"Groveoak",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815015,
+        85688675,
         85633793,
         85897515,
         102085615,
-        85688675
+        85815015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152391185,
-    "wof:lastmodified":1449047252,
+    "wof:lastmodified":1466317946,
     "wof:name":"Heath Thrash",
     "wof:parent_id":85815015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.057457,34.439726,-86.057457,34.439726],
+  "bbox": [
+    -86.057457,
+    34.439726,
+    -86.057457,
+    34.439726
+],
   "geometry": {"coordinates":[-86.057457,34.439726],"type":"Point"}
 }

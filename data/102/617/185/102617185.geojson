@@ -2,13 +2,14 @@
   "id": 102617185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.156497,31.870863,-85.156497,31.870863",
     "geom:latitude":31.870863,
     "geom:longitude":-85.156497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1828 S Eufaula Ave",
     "sg:city":"Eufaula",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102617185,
-    "wof:lastmodified":1449067856,
+    "wof:lastmodified":1466317323,
     "wof:name":"Baker Realty Inc",
     "wof:parent_id":85899821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.156497,31.870863,-85.156497,31.870863],
+  "bbox": [
+    -85.156497,
+    31.870863,
+    -85.156497,
+    31.870863
+],
   "geometry": {"coordinates":[-85.156497,31.870863],"type":"Point"}
 }

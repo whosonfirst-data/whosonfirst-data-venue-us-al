@@ -2,13 +2,14 @@
   "id": 152640483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.414898,34.562811,-87.414898,34.562811",
     "geom:latitude":34.562811,
     "geom:longitude":-87.414898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7093 State Rte 101",
     "sg:city":"Town Creek",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085601,
-        85633793,
         85688675,
-        85851971
+        85633793,
+        85851971,
+        102085601
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152640483,
-    "wof:lastmodified":1449046321,
+    "wof:lastmodified":1466319289,
     "wof:name":"Tuscan Son Video & Tan",
     "wof:parent_id":85851971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.414898,34.562811,-87.414898,34.562811],
-  "geometry": {"coordinates":[-87.414898,34.562811],"type":"Point"}
+  "bbox": [
+    -87.414898,
+    34.562811,
+    -87.414898,
+    34.562811
+],
+  "geometry": {"coordinates":[-87.41489799999999,34.562811],"type":"Point"}
 }

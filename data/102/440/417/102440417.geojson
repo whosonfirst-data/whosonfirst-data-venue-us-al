@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102440417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.329086,32.360418,-86.329086,32.360418",
     "geom:latitude":32.360418,
     "geom:longitude":-86.329086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1332 Mobile Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879039,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102440417,
-    "wof:lastmodified":1449068637,
+    "wof:lastmodified":1466315334,
     "wof:name":"Mobile Road Tire Svc",
     "wof:parent_id":85879039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.329086,32.360418,-86.329086,32.360418],
+  "bbox": [
+    -86.329086,
+    32.360418,
+    -86.329086,
+    32.360418
+],
   "geometry": {"coordinates":[-86.329086,32.360418],"type":"Point"}
 }

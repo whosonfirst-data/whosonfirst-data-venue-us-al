@@ -2,13 +2,14 @@
   "id": 152428125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.343015,31.350248,-85.343015,31.350248",
     "geom:latitude":31.350248,
     "geom:longitude":-85.343015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Main St",
     "sg:city":"Headland",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152428125,
-    "wof:lastmodified":1449048609,
+    "wof:lastmodified":1466317954,
     "wof:name":"Woodham Sheet Metal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.343015,31.350248,-85.343015,31.350248],
-  "geometry": {"coordinates":[-85.343015,31.350248],"type":"Point"}
+  "bbox": [
+    -85.343015,
+    31.350248,
+    -85.343015,
+    31.350248
+],
+  "geometry": {"coordinates":[-85.34301499999999,31.350248],"type":"Point"}
 }

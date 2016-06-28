@@ -2,13 +2,14 @@
   "id": 152710853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.154657,34.399446,-86.154657,34.399446",
     "geom:latitude":34.399446,
     "geom:longitude":-86.154657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"284 Mac Dr",
     "sg:city":"Albertville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85830981,
+        85688675,
         85633793,
         85899833,
         102085513,
-        85688675
+        85830981
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152710853,
-    "wof:lastmodified":1449044584,
+    "wof:lastmodified":1466319430,
     "wof:name":"Dwight McClendon",
     "wof:parent_id":85830981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.154657,34.399446,-86.154657,34.399446],
+  "bbox": [
+    -86.154657,
+    34.399446,
+    -86.154657,
+    34.399446
+],
   "geometry": {"coordinates":[-86.154657,34.399446],"type":"Point"}
 }

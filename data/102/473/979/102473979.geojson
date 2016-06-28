@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102473979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.286544,32.382517,-86.286544,32.382517",
     "geom:latitude":32.382517,
     "geom:longitude":-86.286544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 N Lewis St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809389,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85809389
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102473979,
-    "wof:lastmodified":1449068297,
+    "wof:lastmodified":1466315544,
     "wof:name":"Southern Skies Balloons",
     "wof:parent_id":85809389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.286544,32.382517,-86.286544,32.382517],
-  "geometry": {"coordinates":[-86.286544,32.382517],"type":"Point"}
+  "bbox": [
+    -86.286544,
+    32.382517,
+    -86.286544,
+    32.382517
+],
+  "geometry": {"coordinates":[-86.28654400000001,32.382517],"type":"Point"}
 }

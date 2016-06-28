@@ -2,13 +2,14 @@
   "id": 152215565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.87618,33.493749,-86.87618,33.493749",
     "geom:latitude":33.493749,
     "geom:longitude":-86.87618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4720 Ct V",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818187,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85818187
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152215565,
-    "wof:lastmodified":1449048117,
+    "wof:lastmodified":1466316073,
     "wof:name":"Faith Cathedral Baptist Church",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.87618,33.493749,-86.87618,33.493749],
-  "geometry": {"coordinates":[-86.87618,33.493749],"type":"Point"}
+  "bbox": [
+    -86.87618,
+    33.493749,
+    -86.87618,
+    33.493749
+],
+  "geometry": {"coordinates":[-86.87618000000001,33.493749],"type":"Point"}
 }

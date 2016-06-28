@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102469901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.778754,33.827005,-85.778754,33.827005",
     "geom:latitude":33.827005,
     "geom:longitude":-85.778754,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Smith Cir",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805945,
+        85688675,
         85633793,
         85914293,
         102085603,
-        85688675
+        85805945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102469901,
-    "wof:lastmodified":1449070266,
+    "wof:lastmodified":1466315309,
     "wof:name":"Smith House Movers",
     "wof:parent_id":85805945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.778754,33.827005,-85.778754,33.827005],
-  "geometry": {"coordinates":[-85.778754,33.827005],"type":"Point"}
+  "bbox": [
+    -85.778754,
+    33.827005,
+    -85.778754,
+    33.827005
+],
+  "geometry": {"coordinates":[-85.77875400000001,33.827005],"type":"Point"}
 }

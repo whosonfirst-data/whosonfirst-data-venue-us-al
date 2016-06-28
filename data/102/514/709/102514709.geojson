@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102514709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.071474,30.798594,-88.071474,30.798594",
     "geom:latitude":30.798594,
     "geom:longitude":-88.071474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1016 US Hwy 43",
     "sg:city":"Saraland",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085469,
-        85633793,
         85688675,
-        85878983
+        85633793,
+        85878983,
+        102085469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102514709,
-    "wof:lastmodified":1449068956,
+    "wof:lastmodified":1466317019,
     "wof:name":"Goodwill Easter Seals of The G",
     "wof:parent_id":85878983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.071474,30.798594,-88.071474,30.798594],
-  "geometry": {"coordinates":[-88.071474,30.798594],"type":"Point"}
+  "bbox": [
+    -88.071474,
+    30.798594,
+    -88.071474,
+    30.798594
+],
+  "geometry": {"coordinates":[-88.07147399999999,30.798594],"type":"Point"}
 }

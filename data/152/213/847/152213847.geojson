@@ -2,13 +2,14 @@
   "id": 152213847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.896067,33.781427,-85.896067,33.781427",
     "geom:latitude":33.781427,
     "geom:longitude":-85.896067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7489 US Hwy 431",
     "sg:city":"Alexandria",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85830275,
+        85688675,
         85633793,
         85914281,
         102085603,
-        85688675
+        85830275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152213847,
-    "wof:lastmodified":1449044347,
+    "wof:lastmodified":1466316074,
     "wof:name":"B & G Salvage and Demolition",
     "wof:parent_id":85830275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.896067,33.781427,-85.896067,33.781427],
+  "bbox": [
+    -85.896067,
+    33.781427,
+    -85.896067,
+    33.781427
+],
   "geometry": {"coordinates":[-85.896067,33.781427],"type":"Point"}
 }

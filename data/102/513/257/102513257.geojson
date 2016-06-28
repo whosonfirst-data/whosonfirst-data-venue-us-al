@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102513257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.775794,33.5293,-86.775794,33.5293",
     "geom:latitude":33.5293,
     "geom:longitude":-86.775794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4110 Messer Airport Hwy",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815977,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85815977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102513257,
-    "wof:lastmodified":1449069371,
+    "wof:lastmodified":1466316980,
     "wof:name":"B&P Lounge",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.775794,33.5293,-86.775794,33.5293],
+  "bbox": [
+    -86.775794,
+    33.5293,
+    -86.775794,
+    33.5293
+],
   "geometry": {"coordinates":[-86.775794,33.5293],"type":"Point"}
 }

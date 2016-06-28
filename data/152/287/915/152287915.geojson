@@ -2,13 +2,14 @@
   "id": 152287915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.438531,33.344137,-86.438531,33.344137",
     "geom:latitude":33.344137,
     "geom:longitude":-86.438531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5350 US Hwy 280",
     "sg:city":"Harpersville",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85841999
+        85633793,
+        85841999,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152287915,
-    "wof:lastmodified":1449044583,
+    "wof:lastmodified":1466317173,
     "wof:name":"Gill's Service Ctr",
     "wof:parent_id":85841999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.438531,33.344137,-86.438531,33.344137],
+  "bbox": [
+    -86.438531,
+    33.344137,
+    -86.438531,
+    33.344137
+],
   "geometry": {"coordinates":[-86.438531,33.344137],"type":"Point"}
 }

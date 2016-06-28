@@ -2,13 +2,14 @@
   "id": 152514323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.982144,34.070028,-85.982144,34.070028",
     "geom:latitude":34.070028,
     "geom:longitude":-85.982144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2898 Lay Springs Rd",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802495,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85802495
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152514323,
-    "wof:lastmodified":1449046623,
+    "wof:lastmodified":1466318392,
     "wof:name":"Skinwalker Designs",
     "wof:parent_id":85802495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.982144,34.070028,-85.982144,34.070028],
-  "geometry": {"coordinates":[-85.982144,34.070028],"type":"Point"}
+  "bbox": [
+    -85.982144,
+    34.070028,
+    -85.982144,
+    34.070028
+],
+  "geometry": {"coordinates":[-85.98214400000001,34.070028],"type":"Point"}
 }

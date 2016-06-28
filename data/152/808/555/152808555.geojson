@@ -2,13 +2,14 @@
   "id": 152808555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.303891,34.345863,-86.303891,34.345863",
     "geom:latitude":34.345863,
     "geom:longitude":-86.303891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1436 Gunter Ave",
     "sg:city":"Guntersville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850331,
+        85688675,
         85633793,
         85899833,
         102085513,
-        85688675
+        85850331
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152808555,
-    "wof:lastmodified":1449044518,
+    "wof:lastmodified":1466319894,
     "wof:name":"Eye MD Optical Shop",
     "wof:parent_id":85850331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.303891,34.345863,-86.303891,34.345863],
-  "geometry": {"coordinates":[-86.303891,34.345863],"type":"Point"}
+  "bbox": [
+    -86.303891,
+    34.345863,
+    -86.303891,
+    34.345863
+],
+  "geometry": {"coordinates":[-86.30389099999999,34.345863],"type":"Point"}
 }

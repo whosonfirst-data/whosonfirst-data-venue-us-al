@@ -2,13 +2,14 @@
   "id": 152413213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.906714,33.57416,-86.906714,33.57416",
     "geom:latitude":33.57416,
     "geom:longitude":-86.906714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1962 Forestdale Blvd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820003,
+        85688675,
         85633793,
         85914875,
         102085481,
-        85688675
+        85820003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152413213,
-    "wof:lastmodified":1449045033,
+    "wof:lastmodified":1466317903,
     "wof:name":"Headstart Family Hair Salon 8",
     "wof:parent_id":85820003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.906714,33.57416,-86.906714,33.57416],
-  "geometry": {"coordinates":[-86.906714,33.57416],"type":"Point"}
+  "bbox": [
+    -86.906714,
+    33.57416,
+    -86.906714,
+    33.57416
+],
+  "geometry": {"coordinates":[-86.90671399999999,33.57416],"type":"Point"}
 }

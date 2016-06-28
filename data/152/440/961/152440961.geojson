@@ -2,13 +2,14 @@
   "id": 152440961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.462577,33.599053,-87.462577,33.599053",
     "geom:latitude":33.599053,
     "geom:longitude":-87.462577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11927 Lost Rd",
     "sg:city":"Berry",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859275,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85859275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152440961,
-    "wof:lastmodified":1449045951,
+    "wof:lastmodified":1466318046,
     "wof:name":"Hwy 69 Sack of Suds",
     "wof:parent_id":85859275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.462577,33.599053,-87.462577,33.599053],
+  "bbox": [
+    -87.462577,
+    33.599053,
+    -87.462577,
+    33.599053
+],
   "geometry": {"coordinates":[-87.462577,33.599053],"type":"Point"}
 }

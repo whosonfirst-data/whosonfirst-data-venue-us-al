@@ -2,13 +2,14 @@
   "id": 152358263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.490207,32.618728,-86.490207,32.618728",
     "geom:latitude":32.618728,
     "geom:longitude":-86.490207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2480 Co Rd 59",
     "sg:city":"Prattville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831059,
+        85688675,
         85633793,
         85913977,
         102085509,
-        85688675
+        85831059
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152358263,
-    "wof:lastmodified":1449046257,
+    "wof:lastmodified":1466317621,
     "wof:name":"Jim Sutherland",
     "wof:parent_id":85831059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.490207,32.618728,-86.490207,32.618728],
+  "bbox": [
+    -86.490207,
+    32.618728,
+    -86.490207,
+    32.618728
+],
   "geometry": {"coordinates":[-86.490207,32.618728],"type":"Point"}
 }

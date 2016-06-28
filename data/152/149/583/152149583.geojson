@@ -2,13 +2,14 @@
   "id": 152149583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.706589,34.738536,-86.706589,34.738536",
     "geom:latitude":34.738536,
     "geom:longitude":-86.706589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"258 Kannon Dr",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85826841,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85826841
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152149583,
-    "wof:lastmodified":1449044302,
+    "wof:lastmodified":1466315451,
     "wof:name":"H & R Associates",
     "wof:parent_id":85826841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.706589,34.738536,-86.706589,34.738536],
-  "geometry": {"coordinates":[-86.706589,34.738536],"type":"Point"}
+  "bbox": [
+    -86.706589,
+    34.738536,
+    -86.706589,
+    34.738536
+],
+  "geometry": {"coordinates":[-86.70658899999999,34.738536],"type":"Point"}
 }

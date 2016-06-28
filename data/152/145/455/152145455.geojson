@@ -2,13 +2,14 @@
   "id": 152145455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.110356,30.660895,-88.110356,30.660895",
     "geom:latitude":30.660895,
     "geom:longitude":-88.110356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"902 Magnolia Rd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808003,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85808003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152145455,
-    "wof:lastmodified":1449045713,
+    "wof:lastmodified":1466315419,
     "wof:name":"Mustang Tampa",
     "wof:parent_id":85808003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.110356,30.660895,-88.110356,30.660895],
+  "bbox": [
+    -88.110356,
+    30.660895,
+    -88.110356,
+    30.660895
+],
   "geometry": {"coordinates":[-88.110356,30.660895],"type":"Point"}
 }

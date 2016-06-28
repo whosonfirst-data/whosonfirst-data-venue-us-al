@@ -2,13 +2,14 @@
   "id": 152479451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.171284,34.769278,-87.171284,34.769278",
     "geom:latitude":34.769278,
     "geom:longitude":-87.171284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8653 Beechwood Rd",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829531,
+        85688675,
         85633793,
         85913543,
         102085489,
-        85688675
+        85829531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152479451,
-    "wof:lastmodified":1449047462,
+    "wof:lastmodified":1466318216,
     "wof:name":"Mike Moore Construction",
     "wof:parent_id":85829531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.171284,34.769278,-87.171284,34.769278],
+  "bbox": [
+    -87.171284,
+    34.769278,
+    -87.171284,
+    34.769278
+],
   "geometry": {"coordinates":[-87.171284,34.769278],"type":"Point"}
 }

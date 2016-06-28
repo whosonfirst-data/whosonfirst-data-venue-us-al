@@ -2,13 +2,14 @@
   "id": 152713037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.807215,33.516212,-86.807215,33.516212",
     "geom:latitude":33.516212,
     "geom:longitude":-86.807215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1918 3rd Ave N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876269,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152713037,
-    "wof:lastmodified":1449048488,
+    "wof:lastmodified":1466319385,
     "wof:name":"Haskins Law Office",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.807215,33.516212,-86.807215,33.516212],
+  "bbox": [
+    -86.807215,
+    33.516212,
+    -86.807215,
+    33.516212
+],
   "geometry": {"coordinates":[-86.807215,33.516212],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152789537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.842216,33.237923,-86.842216,33.237923",
     "geom:latitude":33.237923,
     "geom:longitude":-86.842216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 Norwick Forest Dr",
     "sg:city":"Alabaster",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847439,
+        85688675,
         85633793,
         85914487,
         102085499,
-        85688675
+        85847439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152789537,
-    "wof:lastmodified":1449046394,
+    "wof:lastmodified":1466319789,
     "wof:name":"Southern Patient Care Inc",
     "wof:parent_id":85847439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.842216,33.237923,-86.842216,33.237923],
-  "geometry": {"coordinates":[-86.842216,33.237923],"type":"Point"}
+  "bbox": [
+    -86.842216,
+    33.237923,
+    -86.842216,
+    33.237923
+],
+  "geometry": {"coordinates":[-86.84221599999999,33.237923],"type":"Point"}
 }

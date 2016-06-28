@@ -2,13 +2,14 @@
   "id": 152440853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.723062,34.304272,-86.723062,34.304272",
     "geom:latitude":34.304272,
     "geom:longitude":-86.723062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4820 Co Rd 1527",
     "sg:city":"Eva",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867305,
+        85688675,
         85633793,
         85914167,
         102085729,
-        85688675
+        85867305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152440853,
-    "wof:lastmodified":1449045950,
+    "wof:lastmodified":1466318041,
     "wof:name":"Jr's Body Shop",
     "wof:parent_id":85867305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.723062,34.304272,-86.723062,34.304272],
+  "bbox": [
+    -86.723062,
+    34.304272,
+    -86.723062,
+    34.304272
+],
   "geometry": {"coordinates":[-86.723062,34.304272],"type":"Point"}
 }

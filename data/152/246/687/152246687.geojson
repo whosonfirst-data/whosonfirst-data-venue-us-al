@@ -2,13 +2,14 @@
   "id": 152246687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.159251,34.551179,-87.159251,34.551179",
     "geom:latitude":34.551179,
     "geom:longitude":-87.159251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5181 Co Rd 434",
     "sg:city":"Trinity",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085601,
-        85633793,
         85688675,
-        85851971
+        85633793,
+        85851971,
+        102085601
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152246687,
-    "wof:lastmodified":1449044619,
+    "wof:lastmodified":1466316505,
     "wof:name":"Tim Blaxton Painter",
     "wof:parent_id":85851971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.159251,34.551179,-87.159251,34.551179],
+  "bbox": [
+    -87.159251,
+    34.551179,
+    -87.159251,
+    34.551179
+],
   "geometry": {"coordinates":[-87.159251,34.551179],"type":"Point"}
 }

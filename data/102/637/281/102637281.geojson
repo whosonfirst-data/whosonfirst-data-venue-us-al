@@ -2,13 +2,14 @@
   "id": 102637281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.825865,33.354714,-86.825865,33.354714",
     "geom:latitude":33.354714,
     "geom:longitude":-86.825865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3395 Cahaba River Ests",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802401,
+        85688675,
         85633793,
         85914475,
         102085499,
-        85688675
+        85802401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102637281,
-    "wof:lastmodified":1449067766,
+    "wof:lastmodified":1466317595,
     "wof:name":"Stephen K Burge MD PC",
     "wof:parent_id":85802401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.825865,33.354714,-86.825865,33.354714],
-  "geometry": {"coordinates":[-86.825865,33.354714],"type":"Point"}
+  "bbox": [
+    -86.825865,
+    33.354714,
+    -86.825865,
+    33.354714
+],
+  "geometry": {"coordinates":[-86.82586499999999,33.354714],"type":"Point"}
 }

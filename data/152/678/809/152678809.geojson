@@ -2,13 +2,14 @@
   "id": 152678809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.005277,34.006754,-86.005277,34.006754",
     "geom:latitude":34.006754,
     "geom:longitude":-86.005277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"414 S 4th St",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822279,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85822279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":152678809,
-    "wof:lastmodified":1449046537,
+    "wof:lastmodified":1466319271,
     "wof:name":"T Lamar Smith",
     "wof:parent_id":85822279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.005277,34.006754,-86.005277,34.006754],
-  "geometry": {"coordinates":[-86.005277,34.006754],"type":"Point"}
+  "bbox": [
+    -86.005277,
+    34.006754,
+    -86.005277,
+    34.006754
+],
+  "geometry": {"coordinates":[-86.00527700000001,34.006754],"type":"Point"}
 }

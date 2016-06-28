@@ -2,13 +2,14 @@
   "id": 152348345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.702225,34.732427,-87.702225,34.732427",
     "geom:latitude":34.732427,
     "geom:longitude":-87.702225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 E 5th St",
     "sg:city":"Tuscumbia",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85832153,
+        85688675,
         85633793,
         85897447,
         102085625,
-        85688675
+        85832153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152348345,
-    "wof:lastmodified":1449044499,
+    "wof:lastmodified":1466317385,
     "wof:name":"David Steenson Appraiser Svc",
     "wof:parent_id":85832153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.702225,34.732427,-87.702225,34.732427],
+  "bbox": [
+    -87.702225,
+    34.732427,
+    -87.702225,
+    34.732427
+],
   "geometry": {"coordinates":[-87.702225,34.732427],"type":"Point"}
 }

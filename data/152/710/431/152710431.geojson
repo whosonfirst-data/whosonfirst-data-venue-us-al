@@ -2,13 +2,14 @@
   "id": 152710431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.801354,34.121993,-86.801354,34.121993",
     "geom:latitude":34.121993,
     "geom:longitude":-86.801354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"957 Co Rd 607",
     "sg:city":"Hanceville",
     "sg:classifiers":[
@@ -39,11 +40,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867305,
+        85688675,
         85633793,
         85914167,
         102085729,
-        85688675
+        85867305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,14 +63,20 @@
         }
     ],
     "wof:id":152710431,
-    "wof:lastmodified":1449044584,
+    "wof:lastmodified":1466319407,
     "wof:name":"Bama Pressure Systems Inc",
     "wof:parent_id":85867305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.801354,34.121993,-86.801354,34.121993],
+  "bbox": [
+    -86.801354,
+    34.121993,
+    -86.801354,
+    34.121993
+],
   "geometry": {"coordinates":[-86.801354,34.121993],"type":"Point"}
 }

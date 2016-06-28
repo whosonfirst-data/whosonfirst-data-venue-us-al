@@ -2,13 +2,14 @@
   "id": 152135309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.475653,32.606543,-85.475653,32.606543",
     "geom:latitude":32.606543,
     "geom:longitude":-85.475653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"333 E Magnolia Ave",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152135309,
-    "wof:lastmodified":1449046081,
+    "wof:lastmodified":1466315287,
     "wof:name":"Tech Expo Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.475653,32.606543,-85.475653,32.606543],
-  "geometry": {"coordinates":[-85.475653,32.606543],"type":"Point"}
+  "bbox": [
+    -85.475653,
+    32.606543,
+    -85.475653,
+    32.606543
+],
+  "geometry": {"coordinates":[-85.47565299999999,32.606543],"type":"Point"}
 }

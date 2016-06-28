@@ -2,13 +2,14 @@
   "id": 152170791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.974348,34.391508,-85.974348,34.391508",
     "geom:latitude":34.391508,
     "geom:longitude":-85.974348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 Church Rd",
     "sg:city":"Fyffe",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815015,
+        85688675,
         85633793,
         85897515,
         102085615,
-        85688675
+        85815015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152170791,
-    "wof:lastmodified":1449044740,
+    "wof:lastmodified":1466315607,
     "wof:name":"Highway Church Of God",
     "wof:parent_id":85815015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.974348,34.391508,-85.974348,34.391508],
-  "geometry": {"coordinates":[-85.974348,34.391508],"type":"Point"}
+  "bbox": [
+    -85.974348,
+    34.391508,
+    -85.974348,
+    34.391508
+],
+  "geometry": {"coordinates":[-85.97434800000001,34.391508],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102498393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.543146,33.216229,-87.543146,33.216229",
     "geom:latitude":33.216229,
     "geom:longitude":-87.543146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 Hackberry Ln",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809431,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85809431
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102498393,
-    "wof:lastmodified":1449069603,
+    "wof:lastmodified":1466316418,
     "wof:name":"Geological Survey",
     "wof:parent_id":85809431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.543146,33.216229,-87.543146,33.216229],
-  "geometry": {"coordinates":[-87.543146,33.216229],"type":"Point"}
+  "bbox": [
+    -87.543146,
+    33.216229,
+    -87.543146,
+    33.216229
+],
+  "geometry": {"coordinates":[-87.54314599999999,33.216229],"type":"Point"}
 }

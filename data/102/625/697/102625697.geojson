@@ -2,13 +2,14 @@
   "id": 102625697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.461086,33.091955,-87.461086,33.091955",
     "geom:latitude":33.091955,
     "geom:longitude":-87.461086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11558 Southfork Dr",
     "sg:city":"Duncanville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102625697,
-    "wof:lastmodified":1449070251,
+    "wof:lastmodified":1466317466,
     "wof:name":"Duncanville Volunteer Fire",
     "wof:parent_id":85688675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.461086,33.091955,-87.461086,33.091955],
-  "geometry": {"coordinates":[-87.461086,33.091955],"type":"Point"}
+  "bbox": [
+    -87.461086,
+    33.091955,
+    -87.461086,
+    33.091955
+],
+  "geometry": {"coordinates":[-87.46108599999999,33.091955],"type":"Point"}
 }

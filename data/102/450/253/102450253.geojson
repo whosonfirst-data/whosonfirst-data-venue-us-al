@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102450253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.706773,34.459193,-85.706773,34.459193",
     "geom:latitude":34.459193,
     "geom:longitude":-85.706773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 Gault Ave N",
     "sg:city":"Fort Payne",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834595,
+        85688675,
         85633793,
         85897515,
         102085615,
-        85688675
+        85834595
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102450253,
-    "wof:lastmodified":1449069795,
+    "wof:lastmodified":1466314589,
     "wof:name":"B & H Cleanup",
     "wof:parent_id":85834595,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.706773,34.459193,-85.706773,34.459193],
+  "bbox": [
+    -85.706773,
+    34.459193,
+    -85.706773,
+    34.459193
+],
   "geometry": {"coordinates":[-85.706773,34.459193],"type":"Point"}
 }

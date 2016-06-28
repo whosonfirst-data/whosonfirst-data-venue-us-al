@@ -2,13 +2,14 @@
   "id": 152601763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.429415,33.054142,-87.429415,33.054142",
     "geom:latitude":33.054142,
     "geom:longitude":-87.429415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12746 Shelter Pond Rd",
     "sg:city":"Duncanville",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085553,
-        85633793,
         85688675,
-        85827473
+        85633793,
+        85827473,
+        102085553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152601763,
-    "wof:lastmodified":1449046383,
+    "wof:lastmodified":1466318840,
     "wof:name":"J&W Lawn & Landscaping",
     "wof:parent_id":85827473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.429415,33.054142,-87.429415,33.054142],
-  "geometry": {"coordinates":[-87.429415,33.054142],"type":"Point"}
+  "bbox": [
+    -87.429415,
+    33.054142,
+    -87.429415,
+    33.054142
+],
+  "geometry": {"coordinates":[-87.42941500000001,33.054142],"type":"Point"}
 }

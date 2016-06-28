@@ -2,13 +2,14 @@
   "id": 152151511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.849095,34.509003,-85.849095,34.509003",
     "geom:latitude":34.509003,
     "geom:longitude":-85.849095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"74 Laney St NW",
     "sg:city":"Rainsville",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152151511,
-    "wof:lastmodified":1449044345,
+    "wof:lastmodified":1466314617,
     "wof:name":"Runway Knitting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.849095,34.509003,-85.849095,34.509003],
-  "geometry": {"coordinates":[-85.849095,34.509003],"type":"Point"}
+  "bbox": [
+    -85.849095,
+    34.509003,
+    -85.849095,
+    34.509003
+],
+  "geometry": {"coordinates":[-85.84909500000001,34.509003],"type":"Point"}
 }

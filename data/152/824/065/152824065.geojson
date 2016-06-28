@@ -2,13 +2,14 @@
   "id": 152824065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.667403,34.711594,-86.667403,34.711594",
     "geom:latitude":34.711594,
     "geom:longitude":-86.667403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Exchange Pl NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -31,10 +32,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085487,
-        85633793,
         85688675,
-        85817803
+        85633793,
+        85817803,
+        102085487
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152824065,
-    "wof:lastmodified":1449045961,
+    "wof:lastmodified":1466319965,
     "wof:name":"Central Locating Service Ltd",
     "wof:parent_id":85817803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.667403,34.711594,-86.667403,34.711594],
-  "geometry": {"coordinates":[-86.667403,34.711594],"type":"Point"}
+  "bbox": [
+    -86.667403,
+    34.711594,
+    -86.667403,
+    34.711594
+],
+  "geometry": {"coordinates":[-86.66740299999999,34.711594],"type":"Point"}
 }

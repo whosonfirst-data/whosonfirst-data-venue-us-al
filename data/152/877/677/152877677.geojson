@@ -2,13 +2,14 @@
   "id": 152877677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.72892,33.385632,-86.72892,33.385632",
     "geom:latitude":33.385632,
     "geom:longitude":-86.72892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4678 Valleydale Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85826093
+        85633793,
+        85826093,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152877677,
-    "wof:lastmodified":1449047541,
+    "wof:lastmodified":1466320250,
     "wof:name":"Industrial Partners Inc",
     "wof:parent_id":85826093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.72892,33.385632,-86.72892,33.385632],
+  "bbox": [
+    -86.72892,
+    33.385632,
+    -86.72892,
+    33.385632
+],
   "geometry": {"coordinates":[-86.72892,33.385632],"type":"Point"}
 }

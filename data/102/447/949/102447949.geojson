@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102447949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.263271,30.640095,-88.263271,30.640095",
     "geom:latitude":30.640095,
     "geom:longitude":-88.263271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9480 Cottage Hill Rd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085585,
-        85633793,
         85688675,
-        85802635
+        85633793,
+        85802635,
+        102085585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102447949,
-    "wof:lastmodified":1449069495,
+    "wof:lastmodified":1466314598,
     "wof:name":"Seaside Celebrations Rent",
     "wof:parent_id":85802635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.263271,30.640095,-88.263271,30.640095],
+  "bbox": [
+    -88.263271,
+    30.640095,
+    -88.263271,
+    30.640095
+],
   "geometry": {"coordinates":[-88.263271,30.640095],"type":"Point"}
 }

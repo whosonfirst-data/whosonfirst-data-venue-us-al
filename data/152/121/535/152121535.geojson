@@ -2,13 +2,14 @@
   "id": 152121535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.629197,33.574199,-86.629197,33.574199",
     "geom:latitude":33.574199,
     "geom:longitude":-86.629197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2359 Monroe Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831535,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85831535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152121535,
-    "wof:lastmodified":1449047904,
+    "wof:lastmodified":1466314580,
     "wof:name":"JW Drywall",
     "wof:parent_id":85831535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.629197,33.574199,-86.629197,33.574199],
+  "bbox": [
+    -86.629197,
+    33.574199,
+    -86.629197,
+    33.574199
+],
   "geometry": {"coordinates":[-86.629197,33.574199],"type":"Point"}
 }

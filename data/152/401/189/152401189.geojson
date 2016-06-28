@@ -2,13 +2,14 @@
   "id": 152401189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.720511,33.493396,-86.720511,33.493396",
     "geom:latitude":33.493396,
     "geom:longitude":-86.720511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3741 Woodvale Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085481,
-        85633793,
         85688675,
-        85810623
+        85633793,
+        85810623,
+        102085481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152401189,
-    "wof:lastmodified":1449048234,
+    "wof:lastmodified":1466317829,
     "wof:name":"Entertainment Connection LLC",
     "wof:parent_id":85810623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.720511,33.493396,-86.720511,33.493396],
+  "bbox": [
+    -86.720511,
+    33.493396,
+    -86.720511,
+    33.493396
+],
   "geometry": {"coordinates":[-86.720511,33.493396],"type":"Point"}
 }

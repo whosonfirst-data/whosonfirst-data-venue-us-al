@@ -2,13 +2,14 @@
   "id": 152809423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.530473,34.816876,-86.530473,34.816876",
     "geom:latitude":34.816876,
     "geom:longitude":-86.530473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Holly Oak Ln",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842195,
+        85688675,
         85633793,
         85915397,
         102085487,
-        85688675
+        85842195
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152809423,
-    "wof:lastmodified":1449048079,
+    "wof:lastmodified":1466319879,
     "wof:name":"Impressions Of Life",
     "wof:parent_id":85842195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.530473,34.816876,-86.530473,34.816876],
+  "bbox": [
+    -86.530473,
+    34.816876,
+    -86.530473,
+    34.816876
+],
   "geometry": {"coordinates":[-86.530473,34.816876],"type":"Point"}
 }

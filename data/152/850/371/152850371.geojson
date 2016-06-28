@@ -2,13 +2,14 @@
   "id": 152850371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.786973,33.511387,-86.786973,33.511387",
     "geom:latitude":33.511387,
     "geom:longitude":-86.786973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"731 29th St S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876275,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152850371,
-    "wof:lastmodified":1449046980,
+    "wof:lastmodified":1466319914,
     "wof:name":"Lakeview Oyster Hse Frsh",
     "wof:parent_id":85876275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.786973,33.511387,-86.786973,33.511387],
+  "bbox": [
+    -86.786973,
+    33.511387,
+    -86.786973,
+    33.511387
+],
   "geometry": {"coordinates":[-86.786973,33.511387],"type":"Point"}
 }

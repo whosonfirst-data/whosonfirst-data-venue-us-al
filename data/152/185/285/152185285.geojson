@@ -2,13 +2,14 @@
   "id": 152185285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.391601,31.242555,-85.391601,31.242555",
     "geom:latitude":31.242555,
     "geom:longitude":-85.391601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1015 Headland Ave",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152185285,
-    "wof:lastmodified":1449045063,
+    "wof:lastmodified":1466315743,
     "wof:name":"King's Clocks & Antiques",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.391601,31.242555,-85.391601,31.242555],
-  "geometry": {"coordinates":[-85.391601,31.242555],"type":"Point"}
+  "bbox": [
+    -85.391601,
+    31.242555,
+    -85.391601,
+    31.242555
+],
+  "geometry": {"coordinates":[-85.39160099999999,31.242555],"type":"Point"}
 }

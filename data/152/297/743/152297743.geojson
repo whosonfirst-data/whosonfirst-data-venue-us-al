@@ -2,13 +2,14 @@
   "id": 152297743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.040335,33.580649,-86.040335,33.580649",
     "geom:latitude":33.580649,
     "geom:longitude":-86.040335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"133 Airport Rd",
     "sg:city":"Eastaboga",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085517,
-        85633793,
         85688675,
-        85849013
+        85633793,
+        85849013,
+        102085517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152297743,
-    "wof:lastmodified":1449047240,
+    "wof:lastmodified":1466317082,
     "wof:name":"Bd Precision Manufacturing",
     "wof:parent_id":85849013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.040335,33.580649,-86.040335,33.580649],
+  "bbox": [
+    -86.040335,
+    33.580649,
+    -86.040335,
+    33.580649
+],
   "geometry": {"coordinates":[-86.040335,33.580649],"type":"Point"}
 }

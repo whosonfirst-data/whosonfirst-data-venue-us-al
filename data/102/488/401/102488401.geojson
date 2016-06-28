@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102488401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.707271,33.625544,-86.707271,33.625544",
     "geom:latitude":33.625544,
     "geom:longitude":-86.707271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"741 15th Ct NW",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851413,
+        85688675,
         85633793,
         85914903,
         102085481,
-        85688675
+        85851413
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102488401,
-    "wof:lastmodified":1449070155,
+    "wof:lastmodified":1466316063,
     "wof:name":"Doug Hollyhand Co",
     "wof:parent_id":85851413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.707271,33.625544,-86.707271,33.625544],
-  "geometry": {"coordinates":[-86.707271,33.625544],"type":"Point"}
+  "bbox": [
+    -86.707271,
+    33.625544,
+    -86.707271,
+    33.625544
+],
+  "geometry": {"coordinates":[-86.70727100000001,33.625544],"type":"Point"}
 }

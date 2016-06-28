@@ -2,13 +2,14 @@
   "id": 152693987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.349005,32.368304,-86.349005,32.368304",
     "geom:latitude":32.368304,
     "geom:longitude":-86.349005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"329 Air Base Blvd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856867,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675,
+        85856867,
         85832931
     ],
     "wof:breaches":[],
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":152693987,
-    "wof:lastmodified":1449044562,
+    "wof:lastmodified":1466319322,
     "wof:name":"Love & Peace Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.349005,32.368304,-86.349005,32.368304],
-  "geometry": {"coordinates":[-86.349005,32.368304],"type":"Point"}
+  "bbox": [
+    -86.349005,
+    32.368304,
+    -86.349005,
+    32.368304
+],
+  "geometry": {"coordinates":[-86.34900500000001,32.368304],"type":"Point"}
 }

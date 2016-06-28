@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102506993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.169456,30.664734,-88.169456,30.664734",
     "geom:latitude":30.664734,
     "geom:longitude":-88.169456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 University Blvd S",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.smoothieking.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878961,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878961
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102506993,
-    "wof:lastmodified":1449067818,
+    "wof:lastmodified":1466316712,
     "wof:name":"Smoothie King",
     "wof:parent_id":85878961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.169456,30.664734,-88.169456,30.664734],
+  "bbox": [
+    -88.169456,
+    30.664734,
+    -88.169456,
+    30.664734
+],
   "geometry": {"coordinates":[-88.169456,30.664734],"type":"Point"}
 }

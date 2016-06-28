@@ -2,13 +2,14 @@
   "id": 152891113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.595521,34.774357,-86.595521,34.774357",
     "geom:latitude":34.774357,
     "geom:longitude":-86.595521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2509 Birchfield St NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152891113,
-    "wof:lastmodified":1449047085,
+    "wof:lastmodified":1466320275,
     "wof:name":"Designer Photography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.595521,34.774357,-86.595521,34.774357],
-  "geometry": {"coordinates":[-86.595521,34.774357],"type":"Point"}
+  "bbox": [
+    -86.595521,
+    34.774357,
+    -86.595521,
+    34.774357
+],
+  "geometry": {"coordinates":[-86.59552100000001,34.774357],"type":"Point"}
 }

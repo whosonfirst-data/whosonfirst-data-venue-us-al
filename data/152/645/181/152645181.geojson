@@ -2,13 +2,14 @@
   "id": 152645181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.694185,33.402118,-86.694185,33.402118",
     "geom:latitude":33.402118,
     "geom:longitude":-86.694185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3614 Stratford Ln",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85833411
+        85633793,
+        85833411,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152645181,
-    "wof:lastmodified":1449044772,
+    "wof:lastmodified":1466319068,
     "wof:name":"CSC Roofing",
     "wof:parent_id":85833411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.694185,33.402118,-86.694185,33.402118],
+  "bbox": [
+    -86.694185,
+    33.402118,
+    -86.694185,
+    33.402118
+],
   "geometry": {"coordinates":[-86.694185,33.402118],"type":"Point"}
 }

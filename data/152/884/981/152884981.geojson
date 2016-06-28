@@ -2,13 +2,14 @@
   "id": 152884981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.702945,33.539459,-86.702945,33.539459",
     "geom:latitude":33.539459,
     "geom:longitude":-86.702945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2221 2nd Ave S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819529,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85819529
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152884981,
-    "wof:lastmodified":1449048028,
+    "wof:lastmodified":1466320293,
     "wof:name":"Bebco-Birmingham Electric",
     "wof:parent_id":85819529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.702945,33.539459,-86.702945,33.539459],
+  "bbox": [
+    -86.702945,
+    33.539459,
+    -86.702945,
+    33.539459
+],
   "geometry": {"coordinates":[-86.702945,33.539459],"type":"Point"}
 }

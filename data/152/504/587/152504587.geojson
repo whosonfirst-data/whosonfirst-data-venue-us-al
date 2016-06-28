@@ -2,13 +2,14 @@
   "id": 152504587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.700668,33.324407,-86.700668,33.324407",
     "geom:latitude":33.324407,
     "geom:longitude":-86.700668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 Hodgens Rd",
     "sg:city":"Chelsea",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85833411
+        85633793,
+        85833411,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152504587,
-    "wof:lastmodified":1449045117,
+    "wof:lastmodified":1466318485,
     "wof:name":"Chances Haulers",
     "wof:parent_id":85833411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.700668,33.324407,-86.700668,33.324407],
-  "geometry": {"coordinates":[-86.700668,33.324407],"type":"Point"}
+  "bbox": [
+    -86.700668,
+    33.324407,
+    -86.700668,
+    33.324407
+],
+  "geometry": {"coordinates":[-86.70066799999999,33.324407],"type":"Point"}
 }

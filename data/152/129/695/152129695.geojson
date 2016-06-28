@@ -2,13 +2,14 @@
   "id": 152129695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.702412,34.746638,-87.702412,34.746638",
     "geom:latitude":34.746638,
     "geom:longitude":-87.702412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1015 S Jackson Hwy",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85832153,
+        85688675,
         85633793,
         85897447,
         102085625,
-        85688675
+        85832153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152129695,
-    "wof:lastmodified":1449048031,
+    "wof:lastmodified":1466314922,
     "wof:name":"Shoals Urological Assoc PC",
     "wof:parent_id":85832153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.702412,34.746638,-87.702412,34.746638],
+  "bbox": [
+    -87.702412,
+    34.746638,
+    -87.702412,
+    34.746638
+],
   "geometry": {"coordinates":[-87.702412,34.746638],"type":"Point"}
 }

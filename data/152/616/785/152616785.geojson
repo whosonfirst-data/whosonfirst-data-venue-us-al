@@ -2,13 +2,14 @@
   "id": 152616785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.395283,32.645336,-86.395283,32.645336",
     "geom:latitude":32.645336,
     "geom:longitude":-86.395283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1240 Gantt Rd",
     "sg:city":"Deatsville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":152616785,
-    "wof:lastmodified":1449047698,
+    "wof:lastmodified":1466318945,
     "wof:name":"Regional Biomedical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.395283,32.645336,-86.395283,32.645336],
-  "geometry": {"coordinates":[-86.395283,32.645336],"type":"Point"}
+  "bbox": [
+    -86.395283,
+    32.645336,
+    -86.395283,
+    32.645336
+],
+  "geometry": {"coordinates":[-86.39528300000001,32.645336],"type":"Point"}
 }

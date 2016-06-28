@@ -2,13 +2,14 @@
   "id": 152810047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.391794,31.212203,-85.391794,31.212203",
     "geom:latitude":31.212203,
     "geom:longitude":-85.391794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"861 S Foster St",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852069,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85852069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152810047,
-    "wof:lastmodified":1449045645,
+    "wof:lastmodified":1466319866,
     "wof:name":"Headliner Shop",
     "wof:parent_id":85852069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.391794,31.212203,-85.391794,31.212203],
+  "bbox": [
+    -85.391794,
+    31.212203,
+    -85.391794,
+    31.212203
+],
   "geometry": {"coordinates":[-85.391794,31.212203],"type":"Point"}
 }

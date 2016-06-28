@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102512059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.753202,33.101297,-86.753202,33.101297",
     "geom:latitude":33.101297,
     "geom:longitude":-86.753202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8370 US Hwy 31",
     "sg:city":"Calera",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     "sg:website":"www.calerabaptist.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85849529
+        85633793,
+        85849529,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102512059,
-    "wof:lastmodified":1449069551,
+    "wof:lastmodified":1466316872,
     "wof:name":"Calera Baptist Church",
     "wof:parent_id":85849529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.753202,33.101297,-86.753202,33.101297],
+  "bbox": [
+    -86.753202,
+    33.101297,
+    -86.753202,
+    33.101297
+],
   "geometry": {"coordinates":[-86.753202,33.101297],"type":"Point"}
 }

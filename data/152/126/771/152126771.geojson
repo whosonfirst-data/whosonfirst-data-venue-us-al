@@ -2,13 +2,14 @@
   "id": 152126771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.997452,31.854519,-85.997452,31.854519",
     "geom:latitude":31.854519,
     "geom:longitude":-85.997452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"350 Old Hwy 231 N",
     "sg:city":"Troy",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085619,
-        85633793,
         85688675,
-        85867311
+        85633793,
+        85867311,
+        102085619
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152126771,
-    "wof:lastmodified":1449046010,
+    "wof:lastmodified":1466314823,
     "wof:name":"Continental Cinema 5",
     "wof:parent_id":85867311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.997452,31.854519,-85.997452,31.854519],
+  "bbox": [
+    -85.997452,
+    31.854519,
+    -85.997452,
+    31.854519
+],
   "geometry": {"coordinates":[-85.997452,31.854519],"type":"Point"}
 }

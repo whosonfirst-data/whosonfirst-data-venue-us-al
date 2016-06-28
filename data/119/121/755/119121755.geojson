@@ -2,13 +2,14 @@
   "id": 119121755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.682193,34.829481,-87.682193,34.829481",
     "geom:latitude":34.829481,
     "geom:longitude":-87.682193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2159 Mc Burney Dr",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848857,
+        85688675,
         85633793,
         85914011,
         102085527,
-        85688675
+        85848857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":119121755,
-    "wof:lastmodified":1449042909,
+    "wof:lastmodified":1466314938,
     "wof:name":"Fraziers Complete Car Care",
     "wof:parent_id":85848857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.682193,34.829481,-87.682193,34.829481],
+  "bbox": [
+    -87.682193,
+    34.829481,
+    -87.682193,
+    34.829481
+],
   "geometry": {"coordinates":[-87.682193,34.829481],"type":"Point"}
 }

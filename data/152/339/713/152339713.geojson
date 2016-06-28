@@ -2,13 +2,14 @@
   "id": 152339713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.779506,33.571937,-86.779506,33.571937",
     "geom:latitude":33.571937,
     "geom:longitude":-86.779506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 Alabama St",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815977,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85815977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152339713,
-    "wof:lastmodified":1449046377,
+    "wof:lastmodified":1466317543,
     "wof:name":"Boyles Baptist Church",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.779506,33.571937,-86.779506,33.571937],
+  "bbox": [
+    -86.779506,
+    33.571937,
+    -86.779506,
+    33.571937
+],
   "geometry": {"coordinates":[-86.779506,33.571937],"type":"Point"}
 }

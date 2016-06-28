@@ -2,13 +2,14 @@
   "id": 102611395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.581279,30.290232,-87.581279,30.290232",
     "geom:latitude":30.290232,
     "geom:longitude":-87.581279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4161 State Rte 161",
     "sg:city":"Orange Beach",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102611395,
-    "wof:lastmodified":1449069675,
+    "wof:lastmodified":1466317278,
     "wof:name":"Exit Realty-Orange Beach",
     "wof:parent_id":85914727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.581279,30.290232,-87.581279,30.290232],
-  "geometry": {"coordinates":[-87.581279,30.290232],"type":"Point"}
+  "bbox": [
+    -87.581279,
+    30.290232,
+    -87.581279,
+    30.290232
+],
+  "geometry": {"coordinates":[-87.58127899999999,30.290232],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152126283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.706828,33.428583,-86.706828,33.428583",
     "geom:latitude":33.428583,
     "geom:longitude":-86.706828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"476 Cahaba Park Cir",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -31,10 +32,10 @@
     "sg:website":"www.bodywork280.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85826983
+        85633793,
+        85826983,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152126283,
-    "wof:lastmodified":1449046010,
+    "wof:lastmodified":1466314765,
     "wof:name":"Bodywork",
     "wof:parent_id":85826983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.706828,33.428583,-86.706828,33.428583],
+  "bbox": [
+    -86.706828,
+    33.428583,
+    -86.706828,
+    33.428583
+],
   "geometry": {"coordinates":[-86.706828,33.428583],"type":"Point"}
 }

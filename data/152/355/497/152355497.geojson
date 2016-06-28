@@ -2,13 +2,14 @@
   "id": 152355497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.487932,31.0056,-87.487932,31.0056",
     "geom:latitude":31.0056,
     "geom:longitude":-87.487932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1214 S Presley St",
     "sg:city":"Atmore",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843687,
+        85688675,
         85633793,
         85899775,
         102085735,
-        85688675
+        85843687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152355497,
-    "wof:lastmodified":1449045596,
+    "wof:lastmodified":1466317630,
     "wof:name":"K & W Fashions",
     "wof:parent_id":85843687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.487932,31.0056,-87.487932,31.0056],
+  "bbox": [
+    -87.487932,
+    31.0056,
+    -87.487932,
+    31.0056
+],
   "geometry": {"coordinates":[-87.487932,31.0056],"type":"Point"}
 }

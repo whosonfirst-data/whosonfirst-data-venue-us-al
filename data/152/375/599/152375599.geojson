@@ -2,13 +2,14 @@
   "id": 152375599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.7387,33.432643,-86.7387,33.432643",
     "geom:latitude":33.432643,
     "geom:longitude":-86.7387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2898 Acton Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856691,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85856691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152375599,
-    "wof:lastmodified":1449044456,
+    "wof:lastmodified":1466317722,
     "wof:name":"Altadena Valley Animal Clinic",
     "wof:parent_id":85856691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.7387,33.432643,-86.7387,33.432643],
-  "geometry": {"coordinates":[-86.7387,33.432643],"type":"Point"}
+  "bbox": [
+    -86.7387,
+    33.432643,
+    -86.7387,
+    33.432643
+],
+  "geometry": {"coordinates":[-86.73869999999999,33.432643],"type":"Point"}
 }

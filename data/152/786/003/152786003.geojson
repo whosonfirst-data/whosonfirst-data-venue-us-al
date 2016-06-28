@@ -2,13 +2,14 @@
   "id": 152786003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.856631,30.951025,-87.856631,30.951025",
     "geom:latitude":30.951025,
     "geom:longitude":-87.856631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"49920 State Rte 225",
     "sg:city":"Bay Minette",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813343,
+        85688675,
         85633793,
         85914703,
         102085469,
-        85688675
+        85813343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152786003,
-    "wof:lastmodified":1449044910,
+    "wof:lastmodified":1466319674,
     "wof:name":"Dixie Radio",
     "wof:parent_id":85813343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.856631,30.951025,-87.856631,30.951025],
-  "geometry": {"coordinates":[-87.856631,30.951025],"type":"Point"}
+  "bbox": [
+    -87.856631,
+    30.951025,
+    -87.856631,
+    30.951025
+],
+  "geometry": {"coordinates":[-87.85663099999999,30.951025],"type":"Point"}
 }

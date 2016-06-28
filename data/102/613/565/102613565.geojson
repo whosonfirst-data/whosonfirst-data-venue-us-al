@@ -2,13 +2,14 @@
   "id": 102613565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.958948,31.813302,-85.958948,31.813302",
     "geom:latitude":31.813302,
     "geom:longitude":-85.958948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Henderson Dr",
     "sg:city":"Troy",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867315,
+        85688675,
         85633793,
         85914551,
         102085619,
-        85688675
+        85867315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102613565,
-    "wof:lastmodified":1449068892,
+    "wof:lastmodified":1466317283,
     "wof:name":"Church Of The Living God",
     "wof:parent_id":85867315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.958948,31.813302,-85.958948,31.813302],
-  "geometry": {"coordinates":[-85.958948,31.813302],"type":"Point"}
+  "bbox": [
+    -85.958948,
+    31.813302,
+    -85.958948,
+    31.813302
+],
+  "geometry": {"coordinates":[-85.95894800000001,31.813302],"type":"Point"}
 }

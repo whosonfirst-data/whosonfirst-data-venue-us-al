@@ -2,13 +2,14 @@
   "id": 152413311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.527654,33.149157,-87.527654,33.149157",
     "geom:latitude":33.149157,
     "geom:longitude":-87.527654,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6350 Old Montgomery Hwy",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -32,10 +33,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085553,
-        85633793,
         85688675,
-        85827473
+        85633793,
+        85827473,
+        102085553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152413311,
-    "wof:lastmodified":1449045034,
+    "wof:lastmodified":1466317910,
     "wof:name":"Rice Floor and Tile Inc",
     "wof:parent_id":85827473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.527654,33.149157,-87.527654,33.149157],
+  "bbox": [
+    -87.527654,
+    33.149157,
+    -87.527654,
+    33.149157
+],
   "geometry": {"coordinates":[-87.527654,33.149157],"type":"Point"}
 }

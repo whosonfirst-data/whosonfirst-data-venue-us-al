@@ -2,13 +2,14 @@
   "id": 152362303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.13778,30.684805,-88.13778,30.684805",
     "geom:latitude":30.684805,
     "geom:longitude":-88.13778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3713 Claridge Rd N",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878977,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152362303,
-    "wof:lastmodified":1449047283,
+    "wof:lastmodified":1466317481,
     "wof:name":"Leon C Megginson Dr",
     "wof:parent_id":85878977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.13778,30.684805,-88.13778,30.684805],
-  "geometry": {"coordinates":[-88.13778,30.684805],"type":"Point"}
+  "bbox": [
+    -88.13778,
+    30.684805,
+    -88.13778,
+    30.684805
+],
+  "geometry": {"coordinates":[-88.13778000000001,30.684805],"type":"Point"}
 }

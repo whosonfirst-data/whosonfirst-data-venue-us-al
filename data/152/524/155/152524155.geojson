@@ -2,13 +2,14 @@
   "id": 152524155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.629675,33.772837,-86.629675,33.772837",
     "geom:latitude":33.772837,
     "geom:longitude":-86.629675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14064 State Hwy 75",
     "sg:city":"Remlap",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085667,
-        85633793,
         85688675,
-        85819523
+        85633793,
+        85819523,
+        102085667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152524155,
-    "wof:lastmodified":1449044242,
+    "wof:lastmodified":1466318430,
     "wof:name":"Herrens Auto Parts",
     "wof:parent_id":85819523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.629675,33.772837,-86.629675,33.772837],
-  "geometry": {"coordinates":[-86.629675,33.772837],"type":"Point"}
+  "bbox": [
+    -86.629675,
+    33.772837,
+    -86.629675,
+    33.772837
+],
+  "geometry": {"coordinates":[-86.62967500000001,33.772837],"type":"Point"}
 }

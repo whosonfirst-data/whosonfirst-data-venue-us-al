@@ -2,13 +2,14 @@
   "id": 152378787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.601802,34.687469,-86.601802,34.687469",
     "geom:latitude":34.687469,
     "geom:longitude":-86.601802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2896 McJohn Cir SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85810591,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85810591
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152378787,
-    "wof:lastmodified":1449047416,
+    "wof:lastmodified":1466317734,
     "wof:name":"Steve Cagle Trucking Co",
     "wof:parent_id":85810591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.601802,34.687469,-86.601802,34.687469],
-  "geometry": {"coordinates":[-86.601802,34.687469],"type":"Point"}
+  "bbox": [
+    -86.601802,
+    34.687469,
+    -86.601802,
+    34.687469
+],
+  "geometry": {"coordinates":[-86.60180200000001,34.687469],"type":"Point"}
 }

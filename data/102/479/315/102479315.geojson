@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102479315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.500284,34.334889,-86.500284,34.334889",
     "geom:latitude":34.334889,
     "geom:longitude":-86.500284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1170 N Main St",
     "sg:city":"Arab",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837211,
+        85688675,
         85633793,
         85913243,
         102085513,
-        85688675
+        85837211
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102479315,
-    "wof:lastmodified":1449069448,
+    "wof:lastmodified":1466314961,
     "wof:name":"Family Medical Clinic",
     "wof:parent_id":85837211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.500284,34.334889,-86.500284,34.334889],
-  "geometry": {"coordinates":[-86.500284,34.334889],"type":"Point"}
+  "bbox": [
+    -86.500284,
+    34.334889,
+    -86.500284,
+    34.334889
+],
+  "geometry": {"coordinates":[-86.50028399999999,34.334889],"type":"Point"}
 }

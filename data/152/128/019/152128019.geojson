@@ -2,13 +2,14 @@
   "id": 152128019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.374202,32.645526,-85.374202,32.645526",
     "geom:latitude":32.645526,
     "geom:longitude":-85.374202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 S 7th St",
     "sg:city":"Opelika",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85857153,
+        85688675,
         85633793,
         85913815,
         102085751,
-        85688675,
+        85857153,
         85819517
     ],
     "wof:breaches":[],
@@ -60,14 +61,20 @@
         }
     ],
     "wof:id":152128019,
-    "wof:lastmodified":1449046118,
+    "wof:lastmodified":1466314800,
     "wof:name":"Federal Land Bank Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.374202,32.645526,-85.374202,32.645526],
+  "bbox": [
+    -85.374202,
+    32.645526,
+    -85.374202,
+    32.645526
+],
   "geometry": {"coordinates":[-85.374202,32.645526],"type":"Point"}
 }

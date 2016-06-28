@@ -2,13 +2,14 @@
   "id": 152621965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.636449,34.715112,-86.636449,34.715112",
     "geom:latitude":34.715112,
     "geom:longitude":-86.636449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2417 Mobile Dr SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856995,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85856995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152621965,
-    "wof:lastmodified":1449048370,
+    "wof:lastmodified":1466318977,
     "wof:name":"Huntsville Mobile Home Estates",
     "wof:parent_id":85856995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.636449,34.715112,-86.636449,34.715112],
+  "bbox": [
+    -86.636449,
+    34.715112,
+    -86.636449,
+    34.715112
+],
   "geometry": {"coordinates":[-86.636449,34.715112],"type":"Point"}
 }

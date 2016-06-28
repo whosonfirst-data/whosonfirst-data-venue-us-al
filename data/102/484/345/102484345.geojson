@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102484345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.186338,32.482923,-86.186338,32.482923",
     "geom:latitude":32.482923,
     "geom:longitude":-86.186338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Plantation Rd",
     "sg:city":"Wetumpka",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827347,
+        85688675,
         85633793,
         85915121,
         102085631,
-        85688675
+        85827347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102484345,
-    "wof:lastmodified":1449070057,
+    "wof:lastmodified":1466315755,
     "wof:name":"Little Music Studio",
     "wof:parent_id":85827347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.186338,32.482923,-86.186338,32.482923],
-  "geometry": {"coordinates":[-86.186338,32.482923],"type":"Point"}
+  "bbox": [
+    -86.186338,
+    32.482923,
+    -86.186338,
+    32.482923
+],
+  "geometry": {"coordinates":[-86.18633800000001,32.482923],"type":"Point"}
 }

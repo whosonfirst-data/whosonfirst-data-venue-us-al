@@ -2,13 +2,14 @@
   "id": 152528473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.434953,31.218844,-85.434953,31.218844",
     "geom:latitude":31.218844,
     "geom:longitude":-85.434953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 Honeysuckle Rd",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85846119,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85846119
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152528473,
-    "wof:lastmodified":1449045538,
+    "wof:lastmodified":1466318484,
     "wof:name":"Odyssey Travel",
     "wof:parent_id":85846119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.434953,31.218844,-85.434953,31.218844],
-  "geometry": {"coordinates":[-85.434953,31.218844],"type":"Point"}
+  "bbox": [
+    -85.434953,
+    31.218844,
+    -85.434953,
+    31.218844
+],
+  "geometry": {"coordinates":[-85.43495299999999,31.218844],"type":"Point"}
 }

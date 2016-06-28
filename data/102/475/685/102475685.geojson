@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102475685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.720008,34.669661,-86.720008,34.669661",
     "geom:latitude":34.669661,
     "geom:longitude":-86.720008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1041 Grandeview Blvd",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807231,
+        85688675,
         85633793,
         85913593,
         102085487,
-        85688675
+        85807231
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102475685,
-    "wof:lastmodified":1449068770,
+    "wof:lastmodified":1466315549,
     "wof:name":"Wetzel Construction",
     "wof:parent_id":85807231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.720008,34.669661,-86.720008,34.669661],
-  "geometry": {"coordinates":[-86.720008,34.669661],"type":"Point"}
+  "bbox": [
+    -86.720008,
+    34.669661,
+    -86.720008,
+    34.669661
+],
+  "geometry": {"coordinates":[-86.72000800000001,34.669661],"type":"Point"}
 }

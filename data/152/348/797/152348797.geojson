@@ -2,13 +2,14 @@
   "id": 152348797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.706606,33.428993,-86.706606,33.428993",
     "geom:latitude":33.428993,
     "geom:longitude":-86.706606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Cahaba Park Cir",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -33,10 +34,10 @@
     "sg:website":"www.keysearchinc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85826983
+        85633793,
+        85826983,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152348797,
-    "wof:lastmodified":1449044499,
+    "wof:lastmodified":1466317573,
     "wof:name":"Key Search Inc",
     "wof:parent_id":85826983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.706606,33.428993,-86.706606,33.428993],
-  "geometry": {"coordinates":[-86.706606,33.428993],"type":"Point"}
+  "bbox": [
+    -86.706606,
+    33.428993,
+    -86.706606,
+    33.428993
+],
+  "geometry": {"coordinates":[-86.70660599999999,33.428993],"type":"Point"}
 }

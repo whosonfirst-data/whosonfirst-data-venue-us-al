@@ -2,13 +2,14 @@
   "id": 152264189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.911398,34.367647,-86.911398,34.367647",
     "geom:latitude":34.367647,
     "geom:longitude":-86.911398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"94 W 2nd St",
     "sg:city":"Falkville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851807,
+        85688675,
         85633793,
         85914103,
         102085531,
-        85688675
+        85851807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152264189,
-    "wof:lastmodified":1449047300,
+    "wof:lastmodified":1466316863,
     "wof:name":"Closets USA Custom Closet",
     "wof:parent_id":85851807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.911398,34.367647,-86.911398,34.367647],
-  "geometry": {"coordinates":[-86.911398,34.367647],"type":"Point"}
+  "bbox": [
+    -86.911398,
+    34.367647,
+    -86.911398,
+    34.367647
+],
+  "geometry": {"coordinates":[-86.91139800000001,34.367647],"type":"Point"}
 }

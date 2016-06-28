@@ -2,13 +2,14 @@
   "id": 152808587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.779293,34.074031,-86.779293,34.074031",
     "geom:latitude":34.074031,
     "geom:longitude":-86.779293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"926 Main St",
     "sg:city":"Hanceville",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867305,
+        85688675,
         85633793,
         85914167,
         102085729,
-        85688675
+        85867305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":152808587,
-    "wof:lastmodified":1449044516,
+    "wof:lastmodified":1466319896,
     "wof:name":"Southmart Chevron 5",
     "wof:parent_id":85867305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.779293,34.074031,-86.779293,34.074031],
+  "bbox": [
+    -86.779293,
+    34.074031,
+    -86.779293,
+    34.074031
+],
   "geometry": {"coordinates":[-86.779293,34.074031],"type":"Point"}
 }

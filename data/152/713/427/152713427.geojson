@@ -2,13 +2,14 @@
   "id": 152713427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.540969,34.658518,-86.540969,34.658518",
     "geom:latitude":34.658518,
     "geom:longitude":-86.540969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"919 Willowbrook Dr SE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85826603,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85826603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152713427,
-    "wof:lastmodified":1449048485,
+    "wof:lastmodified":1466319407,
     "wof:name":"Centrella Realty",
     "wof:parent_id":85826603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.540969,34.658518,-86.540969,34.658518],
+  "bbox": [
+    -86.540969,
+    34.658518,
+    -86.540969,
+    34.658518
+],
   "geometry": {"coordinates":[-86.540969,34.658518],"type":"Point"}
 }

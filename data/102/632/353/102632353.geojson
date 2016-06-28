@@ -2,13 +2,14 @@
   "id": 102632353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.649455,34.822964,-87.649455,34.822964",
     "geom:latitude":34.822964,
     "geom:longitude":-87.649455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1950 Florence Blvd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.neldastephenson.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858143,
+        85688675,
         85633793,
         85914011,
         102085527,
-        85688675
+        85858143
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102632353,
-    "wof:lastmodified":1449069305,
+    "wof:lastmodified":1466317512,
     "wof:name":"Nelda Stephenson Chevrolet",
     "wof:parent_id":85858143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.649455,34.822964,-87.649455,34.822964],
+  "bbox": [
+    -87.649455,
+    34.822964,
+    -87.649455,
+    34.822964
+],
   "geometry": {"coordinates":[-87.649455,34.822964],"type":"Point"}
 }

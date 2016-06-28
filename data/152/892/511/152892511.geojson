@@ -2,13 +2,14 @@
   "id": 152892511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.402094,31.226776,-85.402094,31.226776",
     "geom:latitude":31.226776,
     "geom:longitude":-85.402094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Montana St",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852069,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85852069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152892511,
-    "wof:lastmodified":1449044990,
+    "wof:lastmodified":1466320302,
     "wof:name":"Music World Studio",
     "wof:parent_id":85852069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.402094,31.226776,-85.402094,31.226776],
-  "geometry": {"coordinates":[-85.402094,31.226776],"type":"Point"}
+  "bbox": [
+    -85.402094,
+    31.226776,
+    -85.402094,
+    31.226776
+],
+  "geometry": {"coordinates":[-85.40209400000001,31.226776],"type":"Point"}
 }

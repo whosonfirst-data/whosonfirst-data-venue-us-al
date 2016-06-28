@@ -2,13 +2,14 @@
   "id": 152504265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.013795,34.024155,-86.013795,34.024155",
     "geom:latitude":34.024155,
     "geom:longitude":-86.013795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1030 Tuscaloosa Ave",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805515,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675,
+        85805515,
         85822279
     ],
     "wof:breaches":[],
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":152504265,
-    "wof:lastmodified":1449045117,
+    "wof:lastmodified":1466318479,
     "wof:name":"Carver Memorial BR Lib Injc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.013795,34.024155,-86.013795,34.024155],
+  "bbox": [
+    -86.013795,
+    34.024155,
+    -86.013795,
+    34.024155
+],
   "geometry": {"coordinates":[-86.013795,34.024155],"type":"Point"}
 }

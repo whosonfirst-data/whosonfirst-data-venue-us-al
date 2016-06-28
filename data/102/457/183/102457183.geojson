@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102457183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.300713,32.339939,-86.300713,32.339939",
     "geom:latitude":32.339939,
     "geom:longitude":-86.300713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3571 Wilmington Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811507,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85811507
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102457183,
-    "wof:lastmodified":1449069405,
+    "wof:lastmodified":1466314840,
     "wof:name":"Ulysses Robinson",
     "wof:parent_id":85811507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.300713,32.339939,-86.300713,32.339939],
+  "bbox": [
+    -86.300713,
+    32.339939,
+    -86.300713,
+    32.339939
+],
   "geometry": {"coordinates":[-86.300713,32.339939],"type":"Point"}
 }

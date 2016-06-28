@@ -2,13 +2,14 @@
   "id": 102621665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.546207,33.19912,-87.546207,33.19912",
     "geom:latitude":33.19912,
     "geom:longitude":-87.546207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"618 15th St",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816279,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85816279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102621665,
-    "wof:lastmodified":1449069893,
+    "wof:lastmodified":1466317481,
     "wof:name":"Crimson Castle Chess & Games",
     "wof:parent_id":85816279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.546207,33.19912,-87.546207,33.19912],
+  "bbox": [
+    -87.546207,
+    33.19912,
+    -87.546207,
+    33.19912
+],
   "geometry": {"coordinates":[-87.546207,33.19912],"type":"Point"}
 }

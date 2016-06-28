@@ -2,13 +2,14 @@
   "id": 152182115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.133165,32.448516,-88.133165,32.448516",
     "geom:latitude":32.448516,
     "geom:longitude":-88.133165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Cedar Rd",
     "sg:city":"Bellamy",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152182115,
-    "wof:lastmodified":1449047219,
+    "wof:lastmodified":1466315623,
     "wof:name":"Bellamy Headstart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.133165,32.448516,-88.133165,32.448516],
-  "geometry": {"coordinates":[-88.133165,32.448516],"type":"Point"}
+  "bbox": [
+    -88.133165,
+    32.448516,
+    -88.133165,
+    32.448516
+],
+  "geometry": {"coordinates":[-88.13316500000001,32.448516],"type":"Point"}
 }

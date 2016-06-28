@@ -2,13 +2,14 @@
   "id": 152672313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.203055,32.087103,-88.203055,32.087103",
     "geom:latitude":32.087103,
     "geom:longitude":-88.203055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"298 Ida Ave",
     "sg:city":"Butler",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822759,
+        85688675,
         85633793,
         85899781,
         102085727,
-        85688675
+        85822759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152672313,
-    "wof:lastmodified":1449044594,
+    "wof:lastmodified":1466319183,
     "wof:name":"River City Industry",
     "wof:parent_id":85822759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.203055,32.087103,-88.203055,32.087103],
-  "geometry": {"coordinates":[-88.203055,32.087103],"type":"Point"}
+  "bbox": [
+    -88.203055,
+    32.087103,
+    -88.203055,
+    32.087103
+],
+  "geometry": {"coordinates":[-88.20305500000001,32.087103],"type":"Point"}
 }

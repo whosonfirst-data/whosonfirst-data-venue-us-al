@@ -2,13 +2,14 @@
   "id": 152194939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.595357,34.774349,-86.595357,34.774349",
     "geom:latitude":34.774349,
     "geom:longitude":-86.595357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2506 Birchfield St NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152194939,
-    "wof:lastmodified":1449048245,
+    "wof:lastmodified":1466315869,
     "wof:name":"Lasting Impressions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.595357,34.774349,-86.595357,34.774349],
-  "geometry": {"coordinates":[-86.595357,34.774349],"type":"Point"}
+  "bbox": [
+    -86.595357,
+    34.774349,
+    -86.595357,
+    34.774349
+],
+  "geometry": {"coordinates":[-86.59535700000001,34.774349],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152333249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.100425,33.233669,-87.100425,33.233669",
     "geom:latitude":33.233669,
     "geom:longitude":-87.100425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22375 Eastern Valley Rd",
     "sg:city":"Mc Calla",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851363,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85851363
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152333249,
-    "wof:lastmodified":1449048596,
+    "wof:lastmodified":1466317595,
     "wof:name":"Complete Wrecker & Road Svc",
     "wof:parent_id":85851363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.100425,33.233669,-87.100425,33.233669],
+  "bbox": [
+    -87.100425,
+    33.233669,
+    -87.100425,
+    33.233669
+],
   "geometry": {"coordinates":[-87.100425,33.233669],"type":"Point"}
 }

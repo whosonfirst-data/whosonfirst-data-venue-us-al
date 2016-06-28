@@ -2,13 +2,14 @@
   "id": 152599177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.378856,31.217236,-85.378856,31.217236",
     "geom:latitude":31.217236,
     "geom:longitude":-85.378856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 3rd Ave",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847911,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85847911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152599177,
-    "wof:lastmodified":1449046459,
+    "wof:lastmodified":1466318837,
     "wof:name":"School Transporation Dept",
     "wof:parent_id":85847911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.378856,31.217236,-85.378856,31.217236],
+  "bbox": [
+    -85.378856,
+    31.217236,
+    -85.378856,
+    31.217236
+],
   "geometry": {"coordinates":[-85.378856,31.217236],"type":"Point"}
 }

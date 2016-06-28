@@ -2,13 +2,14 @@
   "id": 152222885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.580373,34.738901,-86.580373,34.738901",
     "geom:latitude":34.738901,
     "geom:longitude":-86.580373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 Pratt Ave NE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878241,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878241
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152222885,
-    "wof:lastmodified":1449047386,
+    "wof:lastmodified":1466316136,
     "wof:name":"Zero Gravity Inc",
     "wof:parent_id":85878241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.580373,34.738901,-86.580373,34.738901],
-  "geometry": {"coordinates":[-86.580373,34.738901],"type":"Point"}
+  "bbox": [
+    -86.580373,
+    34.738901,
+    -86.580373,
+    34.738901
+],
+  "geometry": {"coordinates":[-86.58037299999999,34.738901],"type":"Point"}
 }

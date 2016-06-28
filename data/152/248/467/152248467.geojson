@@ -2,13 +2,14 @@
   "id": 152248467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.663749,34.498459,-85.663749,34.498459",
     "geom:latitude":34.498459,
     "geom:longitude":-85.663749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"280 55th St NE",
     "sg:city":"Fort Payne",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834595,
+        85688675,
         85633793,
         85897515,
         102085615,
-        85688675
+        85834595
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152248467,
-    "wof:lastmodified":1449046838,
+    "wof:lastmodified":1466316514,
     "wof:name":"Mountainview Apartments",
     "wof:parent_id":85834595,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.663749,34.498459,-85.663749,34.498459],
+  "bbox": [
+    -85.663749,
+    34.498459,
+    -85.663749,
+    34.498459
+],
   "geometry": {"coordinates":[-85.663749,34.498459],"type":"Point"}
 }

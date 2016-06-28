@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102456467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.038883,32.475513,-85.038883,32.475513",
     "geom:latitude":32.475513,
     "geom:longitude":-85.038883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3106 US Hwy 80",
     "sg:city":"Phenix City",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822949,
+        85688675,
         85633793,
         85913715,
         102085697,
-        85688675
+        85822949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102456467,
-    "wof:lastmodified":1449068497,
+    "wof:lastmodified":1466314886,
     "wof:name":"Outdoors N More",
     "wof:parent_id":85822949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.038883,32.475513,-85.038883,32.475513],
+  "bbox": [
+    -85.038883,
+    32.475513,
+    -85.038883,
+    32.475513
+],
   "geometry": {"coordinates":[-85.038883,32.475513],"type":"Point"}
 }

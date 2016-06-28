@@ -2,13 +2,14 @@
   "id": 152364713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.510236,34.784623,-86.510236,34.784623",
     "geom:latitude":34.784623,
     "geom:longitude":-86.510236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1546 Jordan Rd",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152364713,
-    "wof:lastmodified":1449046898,
+    "wof:lastmodified":1466317784,
     "wof:name":"Stonecutter's Guild Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.510236,34.784623,-86.510236,34.784623],
-  "geometry": {"coordinates":[-86.510236,34.784623],"type":"Point"}
+  "bbox": [
+    -86.510236,
+    34.784623,
+    -86.510236,
+    34.784623
+],
+  "geometry": {"coordinates":[-86.51023600000001,34.784623],"type":"Point"}
 }

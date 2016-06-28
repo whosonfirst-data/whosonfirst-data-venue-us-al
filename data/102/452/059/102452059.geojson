@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102452059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.502997,34.325056,-86.502997,34.325056",
     "geom:latitude":34.325056,
     "geom:longitude":-86.502997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"692 N Brindlee Mountain Pkwy",
     "sg:city":"Arab",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837211,
+        85688675,
         85633793,
         85913243,
         102085513,
-        85688675
+        85837211
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":102452059,
-    "wof:lastmodified":1449068366,
+    "wof:lastmodified":1466314652,
     "wof:name":"Arab Sheet Metal Htg & Cooling",
     "wof:parent_id":85837211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.502997,34.325056,-86.502997,34.325056],
-  "geometry": {"coordinates":[-86.502997,34.325056],"type":"Point"}
+  "bbox": [
+    -86.502997,
+    34.325056,
+    -86.502997,
+    34.325056
+],
+  "geometry": {"coordinates":[-86.50299699999999,34.325056],"type":"Point"}
 }

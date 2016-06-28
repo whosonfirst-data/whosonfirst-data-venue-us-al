@@ -2,13 +2,14 @@
   "id": 152407469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.574334,33.210172,-87.574334,33.210172",
     "geom:latitude":33.210172,
     "geom:longitude":-87.574334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 28th Ave",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816127,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85816127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152407469,
-    "wof:lastmodified":1449046871,
+    "wof:lastmodified":1466317891,
     "wof:name":"Rainer & Rainer",
     "wof:parent_id":85816127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.574334,33.210172,-87.574334,33.210172],
-  "geometry": {"coordinates":[-87.574334,33.210172],"type":"Point"}
+  "bbox": [
+    -87.574334,
+    33.210172,
+    -87.574334,
+    33.210172
+],
+  "geometry": {"coordinates":[-87.57433399999999,33.210172],"type":"Point"}
 }

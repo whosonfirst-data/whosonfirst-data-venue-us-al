@@ -2,13 +2,14 @@
   "id": 152704029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.117024,34.154494,-86.117024,34.154494",
     "geom:latitude":34.154494,
     "geom:longitude":-86.117024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7295 Cox Gap Rd",
     "sg:city":"Boaz",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085545,
-        85633793,
         85688675,
-        85851221
+        85633793,
+        85851221,
+        102085545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152704029,
-    "wof:lastmodified":1449045503,
+    "wof:lastmodified":1466319362,
     "wof:name":"Triple Star Automotive LLC",
     "wof:parent_id":85851221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.117024,34.154494,-86.117024,34.154494],
+  "bbox": [
+    -86.117024,
+    34.154494,
+    -86.117024,
+    34.154494
+],
   "geometry": {"coordinates":[-86.117024,34.154494],"type":"Point"}
 }

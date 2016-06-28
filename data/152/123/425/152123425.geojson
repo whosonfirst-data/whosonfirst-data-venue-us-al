@@ -2,13 +2,14 @@
   "id": 152123425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.099163,33.638323,-86.099163,33.638323",
     "geom:latitude":33.638323,
     "geom:longitude":-86.099163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"79001 State Rte 77",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085517,
-        85633793,
         85688675,
-        85849013
+        85633793,
+        85849013,
+        102085517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152123425,
-    "wof:lastmodified":1449045686,
+    "wof:lastmodified":1466314654,
     "wof:name":"Lincoln Head Start",
     "wof:parent_id":85849013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.099163,33.638323,-86.099163,33.638323],
+  "bbox": [
+    -86.099163,
+    33.638323,
+    -86.099163,
+    33.638323
+],
   "geometry": {"coordinates":[-86.099163,33.638323],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102471071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.682105,33.586972,-86.682105,33.586972",
     "geom:latitude":33.586972,
     "geom:longitude":-86.682105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"616 Gadsden Hwy",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85804001,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85804001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102471071,
-    "wof:lastmodified":1449068732,
+    "wof:lastmodified":1466315226,
     "wof:name":"Exclusive Planning",
     "wof:parent_id":85804001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.682105,33.586972,-86.682105,33.586972],
-  "geometry": {"coordinates":[-86.682105,33.586972],"type":"Point"}
+  "bbox": [
+    -86.682105,
+    33.586972,
+    -86.682105,
+    33.586972
+],
+  "geometry": {"coordinates":[-86.68210500000001,33.586972],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152136541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.165168,32.354569,-86.165168,32.354569",
     "geom:latitude":32.354569,
     "geom:longitude":-86.165168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 Parkview Dr S",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85823517,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85823517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152136541,
-    "wof:lastmodified":1449048837,
+    "wof:lastmodified":1466315309,
     "wof:name":"Montgomery Public School Dst",
     "wof:parent_id":85823517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.165168,32.354569,-86.165168,32.354569],
-  "geometry": {"coordinates":[-86.165168,32.354569],"type":"Point"}
+  "bbox": [
+    -86.165168,
+    32.354569,
+    -86.165168,
+    32.354569
+],
+  "geometry": {"coordinates":[-86.16516799999999,32.354569],"type":"Point"}
 }

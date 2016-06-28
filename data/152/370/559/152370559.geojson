@@ -2,13 +2,14 @@
   "id": 152370559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.962757,33.877495,-85.962757,33.877495",
     "geom:latitude":33.877495,
     "geom:longitude":-85.962757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1297 Gilberts Ferry Rd",
     "sg:city":"Ohatchee",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805945,
+        85688675,
         85633793,
         85914293,
         102085603,
-        85688675
+        85805945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":152370559,
-    "wof:lastmodified":1449046824,
+    "wof:lastmodified":1466317693,
     "wof:name":"Southside Feed",
     "wof:parent_id":85805945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.962757,33.877495,-85.962757,33.877495],
+  "bbox": [
+    -85.962757,
+    33.877495,
+    -85.962757,
+    33.877495
+],
   "geometry": {"coordinates":[-85.962757,33.877495],"type":"Point"}
 }

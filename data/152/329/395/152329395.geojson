@@ -2,13 +2,14 @@
   "id": 152329395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.827099,33.464077,-86.827099,33.464077",
     "geom:latitude":33.464077,
     "geom:longitude":-86.827099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Vulcan Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817409,
+        85688675,
         85633793,
         85914847,
         102085481,
-        85688675
+        85817409
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152329395,
-    "wof:lastmodified":1449045587,
+    "wof:lastmodified":1466317412,
     "wof:name":"A D E M",
     "wof:parent_id":85817409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.827099,33.464077,-86.827099,33.464077],
+  "bbox": [
+    -86.827099,
+    33.464077,
+    -86.827099,
+    33.464077
+],
   "geometry": {"coordinates":[-86.827099,33.464077],"type":"Point"}
 }

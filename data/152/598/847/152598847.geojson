@@ -2,13 +2,14 @@
   "id": 152598847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.687584,33.298194,-86.687584,33.298194",
     "geom:latitude":33.298194,
     "geom:longitude":-86.687584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"257 el Camino Real",
     "sg:city":"Chelsea",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85833411
+        85633793,
+        85833411,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152598847,
-    "wof:lastmodified":1449044540,
+    "wof:lastmodified":1466318823,
     "wof:name":"Sns Custom Services",
     "wof:parent_id":85833411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.687584,33.298194,-86.687584,33.298194],
+  "bbox": [
+    -86.687584,
+    33.298194,
+    -86.687584,
+    33.298194
+],
   "geometry": {"coordinates":[-86.687584,33.298194],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152165857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.654367,33.613914,-86.654367,33.613914",
     "geom:latitude":33.613914,
     "geom:longitude":-86.654367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1512 Stoneview Ln",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852855,
+        85688675,
         85633793,
         85913473,
         102085481,
-        85688675
+        85852855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152165857,
-    "wof:lastmodified":1449048908,
+    "wof:lastmodified":1466315440,
     "wof:name":"Ted L Williams MD",
     "wof:parent_id":85852855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.654367,33.613914,-86.654367,33.613914],
-  "geometry": {"coordinates":[-86.654367,33.613914],"type":"Point"}
+  "bbox": [
+    -86.654367,
+    33.613914,
+    -86.654367,
+    33.613914
+],
+  "geometry": {"coordinates":[-86.65436699999999,33.613914],"type":"Point"}
 }

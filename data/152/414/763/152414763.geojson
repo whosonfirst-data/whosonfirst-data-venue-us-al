@@ -2,13 +2,14 @@
   "id": 152414763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.829916,33.258363,-86.829916,33.258363",
     "geom:latitude":33.258363,
     "geom:longitude":-86.829916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"144 Longfeather Ln",
     "sg:city":"Alabaster",
     "sg:classifiers":[
@@ -28,13 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828267,
+        85688675,
         85633793,
         85914501,
         102085499,
-        85688675,
-        85847439,
-        85914487
+        85828267,
+        85914487,
+        85847439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,14 +62,20 @@
         }
     ],
     "wof:id":152414763,
-    "wof:lastmodified":1449046468,
+    "wof:lastmodified":1466318026,
     "wof:name":"Samco Products Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.829916,33.258363,-86.829916,33.258363],
+  "bbox": [
+    -86.829916,
+    33.258363,
+    -86.829916,
+    33.258363
+],
   "geometry": {"coordinates":[-86.829916,33.258363],"type":"Point"}
 }

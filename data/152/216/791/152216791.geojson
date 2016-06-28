@@ -2,13 +2,14 @@
   "id": 152216791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.462942,32.617451,-85.462942,32.617451",
     "geom:latitude":32.617451,
     "geom:longitude":-85.462942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1021 Opelika Rd",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.countrysbarbecue.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852419,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85852419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152216791,
-    "wof:lastmodified":1449048399,
+    "wof:lastmodified":1466316001,
     "wof:name":"Country's Barbecue",
     "wof:parent_id":85852419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.462942,32.617451,-85.462942,32.617451],
+  "bbox": [
+    -85.462942,
+    32.617451,
+    -85.462942,
+    32.617451
+],
   "geometry": {"coordinates":[-85.462942,32.617451],"type":"Point"}
 }

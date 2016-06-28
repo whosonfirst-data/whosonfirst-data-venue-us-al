@@ -2,13 +2,14 @@
   "id": 152892137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.721015,33.458419,-86.721015,33.458419",
     "geom:latitude":33.458419,
     "geom:longitude":-86.721015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3308 Mountainside Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856691,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85856691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152892137,
-    "wof:lastmodified":1449044990,
+    "wof:lastmodified":1466320279,
     "wof:name":"Greenspann Landscaping Inc",
     "wof:parent_id":85856691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.721015,33.458419,-86.721015,33.458419],
-  "geometry": {"coordinates":[-86.721015,33.458419],"type":"Point"}
+  "bbox": [
+    -86.721015,
+    33.458419,
+    -86.721015,
+    33.458419
+],
+  "geometry": {"coordinates":[-86.72101499999999,33.458419],"type":"Point"}
 }

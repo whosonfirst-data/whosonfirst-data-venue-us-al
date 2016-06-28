@@ -2,13 +2,14 @@
   "id": 152586719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.62399,33.276984,-87.62399,33.276984",
     "geom:latitude":33.276984,
     "geom:longitude":-87.62399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12582 State Rte 171",
     "sg:city":"Northport",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152586719,
-    "wof:lastmodified":1449048391,
+    "wof:lastmodified":1466319009,
     "wof:name":"Pritchetts Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.62399,33.276984,-87.62399,33.276984],
-  "geometry": {"coordinates":[-87.62399,33.276984],"type":"Point"}
+  "bbox": [
+    -87.62399,
+    33.276984,
+    -87.62399,
+    33.276984
+],
+  "geometry": {"coordinates":[-87.62399000000001,33.276984],"type":"Point"}
 }

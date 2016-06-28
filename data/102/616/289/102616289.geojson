@@ -2,13 +2,14 @@
   "id": 102616289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.010165,33.374486,-87.010165,33.374486",
     "geom:latitude":33.374486,
     "geom:longitude":-87.010165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Powder Plant Rd",
     "sg:city":"Bessemer",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102616289,
-    "wof:lastmodified":1449069572,
+    "wof:lastmodified":1466317401,
     "wof:name":"General Telecom Inc",
     "wof:parent_id":85914885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.010165,33.374486,-87.010165,33.374486],
+  "bbox": [
+    -87.010165,
+    33.374486,
+    -87.010165,
+    33.374486
+],
   "geometry": {"coordinates":[-87.010165,33.374486],"type":"Point"}
 }

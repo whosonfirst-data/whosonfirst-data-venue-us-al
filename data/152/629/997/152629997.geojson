@@ -2,13 +2,14 @@
   "id": 152629997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.095736,30.661413,-88.095736,30.661413",
     "geom:latitude":30.661413,
     "geom:longitude":-88.095736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2246 Halls Mill Rd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808003,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85808003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152629997,
-    "wof:lastmodified":1449047834,
+    "wof:lastmodified":1466319052,
     "wof:name":"Mobile Electrician Jatc",
     "wof:parent_id":85808003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.095736,30.661413,-88.095736,30.661413],
+  "bbox": [
+    -88.095736,
+    30.661413,
+    -88.095736,
+    30.661413
+],
   "geometry": {"coordinates":[-88.095736,30.661413],"type":"Point"}
 }

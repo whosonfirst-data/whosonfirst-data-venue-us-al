@@ -2,13 +2,14 @@
   "id": 152385941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.11781,34.421303,-88.11781,34.421303",
     "geom:latitude":34.421303,
     "geom:longitude":-88.11781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2154 Old Vina Rd",
     "sg:city":"Red Bay",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152385941,
-    "wof:lastmodified":1449047044,
+    "wof:lastmodified":1466317819,
     "wof:name":"M & S Motors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.11781,34.421303,-88.11781,34.421303],
-  "geometry": {"coordinates":[-88.11781,34.421303],"type":"Point"}
+  "bbox": [
+    -88.11781,
+    34.421303,
+    -88.11781,
+    34.421303
+],
+  "geometry": {"coordinates":[-88.11781000000001,34.421303],"type":"Point"}
 }

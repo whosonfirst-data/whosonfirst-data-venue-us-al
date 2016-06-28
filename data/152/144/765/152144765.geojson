@@ -2,13 +2,14 @@
   "id": 152144765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.247938,32.333942,-86.247938,32.333942",
     "geom:latitude":32.333942,
     "geom:longitude":-86.247938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3433 Mc Gehee Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807237,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85807237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152144765,
-    "wof:lastmodified":1449047685,
+    "wof:lastmodified":1466315429,
     "wof:name":"ABC Store",
     "wof:parent_id":85807237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.247938,32.333942,-86.247938,32.333942],
+  "bbox": [
+    -86.247938,
+    32.333942,
+    -86.247938,
+    32.333942
+],
   "geometry": {"coordinates":[-86.247938,32.333942],"type":"Point"}
 }

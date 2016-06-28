@@ -2,13 +2,14 @@
   "id": 102630207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.783049,34.713802,-86.783049,34.713802",
     "geom:latitude":34.713802,
     "geom:longitude":-86.783049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 Camden Cir",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845785,
+        85688675,
         85633793,
         85913593,
         102085487,
-        85688675
+        85845785
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102630207,
-    "wof:lastmodified":1449068648,
+    "wof:lastmodified":1466317445,
     "wof:name":"Lynd Enterprises Inc",
     "wof:parent_id":85845785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.783049,34.713802,-86.783049,34.713802],
-  "geometry": {"coordinates":[-86.783049,34.713802],"type":"Point"}
+  "bbox": [
+    -86.783049,
+    34.713802,
+    -86.783049,
+    34.713802
+],
+  "geometry": {"coordinates":[-86.78304900000001,34.713802],"type":"Point"}
 }

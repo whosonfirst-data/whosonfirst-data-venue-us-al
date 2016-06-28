@@ -2,13 +2,14 @@
   "id": 152267279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.020449,34.039325,-86.020449,34.039325",
     "geom:latitude":34.039325,
     "geom:longitude":-86.020449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1502 Noccalula Rd",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.eatatjacks.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805515,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85805515
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152267279,
-    "wof:lastmodified":1449048504,
+    "wof:lastmodified":1466316779,
     "wof:name":"Jack's Hamburgers",
     "wof:parent_id":85805515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.020449,34.039325,-86.020449,34.039325],
+  "bbox": [
+    -86.020449,
+    34.039325,
+    -86.020449,
+    34.039325
+],
   "geometry": {"coordinates":[-86.020449,34.039325],"type":"Point"}
 }

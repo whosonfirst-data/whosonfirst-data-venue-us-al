@@ -2,13 +2,14 @@
   "id": 152810879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.307227,32.370778,-86.307227,32.370778",
     "geom:latitude":32.370778,
     "geom:longitude":-86.307227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"540 S Perry St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879037,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152810879,
-    "wof:lastmodified":1449045643,
+    "wof:lastmodified":1466319877,
     "wof:name":"Hilton Mortgage Corp",
     "wof:parent_id":85879037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.307227,32.370778,-86.307227,32.370778],
+  "bbox": [
+    -86.307227,
+    32.370778,
+    -86.307227,
+    32.370778
+],
   "geometry": {"coordinates":[-86.307227,32.370778],"type":"Point"}
 }

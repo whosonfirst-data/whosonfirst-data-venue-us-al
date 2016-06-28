@@ -2,13 +2,14 @@
   "id": 152467401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.009186,34.790965,-87.009186,34.790965",
     "geom:latitude":34.790965,
     "geom:longitude":-87.009186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17505 US Hwy 72",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829531,
+        85688675,
         85633793,
         85913543,
         102085489,
-        85688675
+        85829531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152467401,
-    "wof:lastmodified":1449047930,
+    "wof:lastmodified":1466318280,
     "wof:name":"Precision Medical",
     "wof:parent_id":85829531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.009186,34.790965,-87.009186,34.790965],
+  "bbox": [
+    -87.009186,
+    34.790965,
+    -87.009186,
+    34.790965
+],
   "geometry": {"coordinates":[-87.009186,34.790965],"type":"Point"}
 }

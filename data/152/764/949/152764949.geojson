@@ -2,13 +2,14 @@
   "id": 152764949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.829991,33.257058,-86.829991,33.257058",
     "geom:latitude":33.257058,
     "geom:longitude":-86.829991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Longfeather Hill",
     "sg:city":"Alabaster",
     "sg:classifiers":[
@@ -27,13 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828267,
+        85688675,
         85633793,
         85914501,
         102085499,
-        85688675,
-        85847439,
-        85914487
+        85828267,
+        85914487,
+        85847439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,14 +61,20 @@
         }
     ],
     "wof:id":152764949,
-    "wof:lastmodified":1449048704,
+    "wof:lastmodified":1466319665,
     "wof:name":"BCJ Consulting Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.829991,33.257058,-86.829991,33.257058],
-  "geometry": {"coordinates":[-86.829991,33.257058],"type":"Point"}
+  "bbox": [
+    -86.829991,
+    33.257058,
+    -86.829991,
+    33.257058
+],
+  "geometry": {"coordinates":[-86.82999100000001,33.257058],"type":"Point"}
 }

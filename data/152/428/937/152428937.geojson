@@ -2,13 +2,14 @@
   "id": 152428937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.764355,34.34688,-85.764355,34.34688",
     "geom:latitude":34.34688,
     "geom:longitude":-85.764355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"241 Co Rd 299",
     "sg:city":"Fort Payne",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815015,
+        85688675,
         85633793,
         85897515,
         102085615,
-        85688675
+        85815015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152428937,
-    "wof:lastmodified":1449048605,
+    "wof:lastmodified":1466317979,
     "wof:name":"McCallie Farms",
     "wof:parent_id":85815015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.764355,34.34688,-85.764355,34.34688],
-  "geometry": {"coordinates":[-85.764355,34.34688],"type":"Point"}
+  "bbox": [
+    -85.764355,
+    34.34688,
+    -85.764355,
+    34.34688
+],
+  "geometry": {"coordinates":[-85.76435499999999,34.34688],"type":"Point"}
 }

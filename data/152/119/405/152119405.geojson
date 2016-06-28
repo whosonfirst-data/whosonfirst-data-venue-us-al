@@ -2,13 +2,14 @@
   "id": 152119405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.403405,31.223778,-85.403405,31.223778",
     "geom:latitude":31.223778,
     "geom:longitude":-85.403405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 Catalpa Ave",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852069,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85852069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152119405,
-    "wof:lastmodified":1449047605,
+    "wof:lastmodified":1466314539,
     "wof:name":"Los Latinos Mexican Restaurant",
     "wof:parent_id":85852069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.403405,31.223778,-85.403405,31.223778],
-  "geometry": {"coordinates":[-85.403405,31.223778],"type":"Point"}
+  "bbox": [
+    -85.403405,
+    31.223778,
+    -85.403405,
+    31.223778
+],
+  "geometry": {"coordinates":[-85.40340500000001,31.223778],"type":"Point"}
 }

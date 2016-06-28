@@ -2,13 +2,14 @@
   "id": 152893661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.60252,34.700476,-86.60252,34.700476",
     "geom:latitude":34.700476,
     "geom:longitude":-86.60252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2227 Drake Ave SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85810591,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85810591
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152893661,
-    "wof:lastmodified":1449048046,
+    "wof:lastmodified":1466320305,
     "wof:name":"Sweepstakes Golden Group",
     "wof:parent_id":85810591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.60252,34.700476,-86.60252,34.700476],
+  "bbox": [
+    -86.60252,
+    34.700476,
+    -86.60252,
+    34.700476
+],
   "geometry": {"coordinates":[-86.60252,34.700476],"type":"Point"}
 }

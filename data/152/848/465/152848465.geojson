@@ -2,13 +2,14 @@
   "id": 152848465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.795049,33.497228,-86.795049,33.497228",
     "geom:latitude":33.497228,
     "geom:longitude":-86.795049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1314 Cobb Ln",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876277,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152848465,
-    "wof:lastmodified":1449044957,
+    "wof:lastmodified":1466320091,
     "wof:name":"Domain Designs",
     "wof:parent_id":85876277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.795049,33.497228,-86.795049,33.497228],
-  "geometry": {"coordinates":[-86.795049,33.497228],"type":"Point"}
+  "bbox": [
+    -86.795049,
+    33.497228,
+    -86.795049,
+    33.497228
+],
+  "geometry": {"coordinates":[-86.79504900000001,33.497228],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152368877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.580468,34.749211,-86.580468,34.749211",
     "geom:latitude":34.749211,
     "geom:longitude":-86.580468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 Oakwood Ave NE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878235,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878235
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152368877,
-    "wof:lastmodified":1449045356,
+    "wof:lastmodified":1466317676,
     "wof:name":"Oakwood Mini Storage",
     "wof:parent_id":85878235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.580468,34.749211,-86.580468,34.749211],
+  "bbox": [
+    -86.580468,
+    34.749211,
+    -86.580468,
+    34.749211
+],
   "geometry": {"coordinates":[-86.580468,34.749211],"type":"Point"}
 }

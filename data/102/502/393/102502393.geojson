@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102502393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.668732,34.843351,-87.668732,34.843351",
     "geom:latitude":34.843351,
     "geom:longitude":-87.668732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"889 Cox Creek Pkwy",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802671,
+        85688675,
         85633793,
         85914011,
         102085527,
-        85688675
+        85802671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102502393,
-    "wof:lastmodified":1449068868,
+    "wof:lastmodified":1466316599,
     "wof:name":"Parker Chiropractic Ctr LLC",
     "wof:parent_id":85802671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.668732,34.843351,-87.668732,34.843351],
-  "geometry": {"coordinates":[-87.668732,34.843351],"type":"Point"}
+  "bbox": [
+    -87.668732,
+    34.843351,
+    -87.668732,
+    34.843351
+],
+  "geometry": {"coordinates":[-87.66873200000001,34.843351],"type":"Point"}
 }

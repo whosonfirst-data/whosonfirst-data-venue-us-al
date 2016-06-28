@@ -2,13 +2,14 @@
   "id": 102631441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.823867,33.651641,-86.823867,33.651641",
     "geom:latitude":33.651641,
     "geom:longitude":-86.823867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 Odum Rd",
     "sg:city":"Gardendale",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102631441,
-    "wof:lastmodified":1449068519,
+    "wof:lastmodified":1466317503,
     "wof:name":"Credit Union Svc Ctr",
     "wof:parent_id":85914857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.823867,33.651641,-86.823867,33.651641],
-  "geometry": {"coordinates":[-86.823867,33.651641],"type":"Point"}
+  "bbox": [
+    -86.823867,
+    33.651641,
+    -86.823867,
+    33.651641
+],
+  "geometry": {"coordinates":[-86.82386700000001,33.651641],"type":"Point"}
 }

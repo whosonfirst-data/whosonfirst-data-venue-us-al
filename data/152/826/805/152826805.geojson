@@ -2,13 +2,14 @@
   "id": 152826805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.307082,30.744045,-88.307082,30.744045",
     "geom:latitude":30.744045,
     "geom:longitude":-88.307082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11140 Cricket Hollow",
     "sg:city":"Semmes",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085585,
-        85633793,
         85688675,
-        85878987
+        85633793,
+        85878987,
+        102085585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152826805,
-    "wof:lastmodified":1449047654,
+    "wof:lastmodified":1466319991,
     "wof:name":"Gulf Coast Technical Svc",
     "wof:parent_id":85878987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.307082,30.744045,-88.307082,30.744045],
-  "geometry": {"coordinates":[-88.307082,30.744045],"type":"Point"}
+  "bbox": [
+    -88.307082,
+    30.744045,
+    -88.307082,
+    30.744045
+],
+  "geometry": {"coordinates":[-88.30708199999999,30.744045],"type":"Point"}
 }

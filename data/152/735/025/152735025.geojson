@@ -2,13 +2,14 @@
   "id": 152735025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.711105,33.382099,-86.711105,33.382099",
     "geom:latitude":33.382099,
     "geom:longitude":-86.711105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5252 Birdsong Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85833411
+        85633793,
+        85833411,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152735025,
-    "wof:lastmodified":1449048806,
+    "wof:lastmodified":1466319398,
     "wof:name":"Jobs Weekly",
     "wof:parent_id":85833411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.711105,33.382099,-86.711105,33.382099],
+  "bbox": [
+    -86.711105,
+    33.382099,
+    -86.711105,
+    33.382099
+],
   "geometry": {"coordinates":[-86.711105,33.382099],"type":"Point"}
 }

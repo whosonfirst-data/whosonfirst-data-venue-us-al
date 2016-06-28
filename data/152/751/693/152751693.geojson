@@ -2,13 +2,14 @@
   "id": 152751693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.162988,30.540504,-88.162988,30.540504",
     "geom:latitude":30.540504,
     "geom:longitude":-88.162988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7250 Old Military Rd",
     "sg:city":"Theodore",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878951,
+        85688675,
         85633793,
         85915075,
         102085585,
-        85688675
+        85878951
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152751693,
-    "wof:lastmodified":1449044559,
+    "wof:lastmodified":1466319580,
     "wof:name":"Safehaven Community Homes",
     "wof:parent_id":85878951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.162988,30.540504,-88.162988,30.540504],
+  "bbox": [
+    -88.162988,
+    30.540504,
+    -88.162988,
+    30.540504
+],
   "geometry": {"coordinates":[-88.162988,30.540504],"type":"Point"}
 }

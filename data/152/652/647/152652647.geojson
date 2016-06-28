@@ -2,13 +2,14 @@
   "id": 152652647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.195724,30.591957,-88.195724,30.591957",
     "geom:latitude":30.591957,
     "geom:longitude":-88.195724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6578 S Billingsgate Rd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850317,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85850317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152652647,
-    "wof:lastmodified":1449047274,
+    "wof:lastmodified":1466319295,
     "wof:name":"Fontana Import Car Repair",
     "wof:parent_id":85850317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.195724,30.591957,-88.195724,30.591957],
+  "bbox": [
+    -88.195724,
+    30.591957,
+    -88.195724,
+    30.591957
+],
   "geometry": {"coordinates":[-88.195724,30.591957],"type":"Point"}
 }

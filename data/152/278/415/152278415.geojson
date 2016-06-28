@@ -2,13 +2,14 @@
   "id": 152278415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.292062,32.380314,-86.292062,32.380314",
     "geom:latitude":32.380314,
     "geom:longitude":-86.292062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1216 Madison Ave",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825469,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85825469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152278415,
-    "wof:lastmodified":1449046853,
+    "wof:lastmodified":1466316844,
     "wof:name":"Leah's Jewelers",
     "wof:parent_id":85825469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.292062,32.380314,-86.292062,32.380314],
+  "bbox": [
+    -86.292062,
+    32.380314,
+    -86.292062,
+    32.380314
+],
   "geometry": {"coordinates":[-86.292062,32.380314],"type":"Point"}
 }

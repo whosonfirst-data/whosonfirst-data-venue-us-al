@@ -2,13 +2,14 @@
   "id": 152596387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.87938,34.656954,-86.87938,34.656954",
     "geom:latitude":34.656954,
     "geom:longitude":-86.87938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7051 Mooresville Rd",
     "sg:city":"Tanner",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085531,
-        85633793,
         85688675,
-        85802585
+        85633793,
+        85802585,
+        102085531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152596387,
-    "wof:lastmodified":1449046671,
+    "wof:lastmodified":1466319012,
     "wof:name":"Morning Star United Methodist",
     "wof:parent_id":85802585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.87938,34.656954,-86.87938,34.656954],
+  "bbox": [
+    -86.87938,
+    34.656954,
+    -86.87938,
+    34.656954
+],
   "geometry": {"coordinates":[-86.87938,34.656954],"type":"Point"}
 }

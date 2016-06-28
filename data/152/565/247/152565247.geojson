@@ -2,13 +2,14 @@
   "id": 152565247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.313031,34.323264,-86.313031,34.323264",
     "geom:latitude":34.323264,
     "geom:longitude":-86.313031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14445 US Hwy 431",
     "sg:city":"Guntersville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829421,
+        85688675,
         85633793,
         85899833,
         102085513,
-        85688675
+        85829421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152565247,
-    "wof:lastmodified":1449048513,
+    "wof:lastmodified":1466318649,
     "wof:name":"Bankston Motor Homes Inc",
     "wof:parent_id":85829421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.313031,34.323264,-86.313031,34.323264],
+  "bbox": [
+    -86.313031,
+    34.323264,
+    -86.313031,
+    34.323264
+],
   "geometry": {"coordinates":[-86.313031,34.323264],"type":"Point"}
 }

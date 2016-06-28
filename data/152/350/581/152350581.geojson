@@ -2,13 +2,14 @@
   "id": 152350581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.473344,32.604156,-85.473344,32.604156",
     "geom:latitude":32.604156,
     "geom:longitude":-85.473344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"414 E Thach Ave",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819999,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85819999
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152350581,
-    "wof:lastmodified":1449046657,
+    "wof:lastmodified":1466317674,
     "wof:name":"J&T Enterprises",
     "wof:parent_id":85819999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.473344,32.604156,-85.473344,32.604156],
+  "bbox": [
+    -85.473344,
+    32.604156,
+    -85.473344,
+    32.604156
+],
   "geometry": {"coordinates":[-85.473344,32.604156],"type":"Point"}
 }

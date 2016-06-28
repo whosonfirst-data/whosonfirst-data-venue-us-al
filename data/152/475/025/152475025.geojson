@@ -2,13 +2,14 @@
   "id": 152475025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.531699,32.608916,-85.531699,32.608916",
     "geom:latitude":32.608916,
     "geom:longitude":-85.531699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2527 Middle Brook Ln",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851115,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85851115
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152475025,
-    "wof:lastmodified":1449046232,
+    "wof:lastmodified":1466318096,
     "wof:name":"Country Interiors",
     "wof:parent_id":85851115,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.531699,32.608916,-85.531699,32.608916],
+  "bbox": [
+    -85.531699,
+    32.608916,
+    -85.531699,
+    32.608916
+],
   "geometry": {"coordinates":[-85.531699,32.608916],"type":"Point"}
 }

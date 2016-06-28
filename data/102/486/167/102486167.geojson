@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102486167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.80107,33.614889,-85.80107,33.614889",
     "geom:latitude":33.614889,
     "geom:longitude":-85.80107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1781 Hamric Dr E",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806515,
+        85688675,
         85633793,
         85914159,
         102085603,
-        85688675
+        85806515
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102486167,
-    "wof:lastmodified":1449069081,
+    "wof:lastmodified":1466315728,
     "wof:name":"Davis Robertson",
     "wof:parent_id":85806515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.80107,33.614889,-85.80107,33.614889],
+  "bbox": [
+    -85.80107,
+    33.614889,
+    -85.80107,
+    33.614889
+],
   "geometry": {"coordinates":[-85.80107,33.614889],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102500675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.31655,32.353206,-86.31655,32.353206",
     "geom:latitude":32.353206,
     "geom:longitude":-86.31655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1909 Rosa L Parks Ave",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879039,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102500675,
-    "wof:lastmodified":1449068385,
+    "wof:lastmodified":1466316510,
     "wof:name":"Goudy's Plastic Covers & Tee",
     "wof:parent_id":85879039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.31655,32.353206,-86.31655,32.353206],
-  "geometry": {"coordinates":[-86.31655,32.353206],"type":"Point"}
+  "bbox": [
+    -86.31655,
+    32.353206,
+    -86.31655,
+    32.353206
+],
+  "geometry": {"coordinates":[-86.31655000000001,32.353206],"type":"Point"}
 }

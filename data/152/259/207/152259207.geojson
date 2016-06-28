@@ -2,13 +2,14 @@
   "id": 152259207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.764279,30.887464,-87.764279,30.887464",
     "geom:latitude":30.887464,
     "geom:longitude":-87.764279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"704 US Hwy 31",
     "sg:city":"Bay Minette",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813343,
+        85688675,
         85633793,
         85914703,
         102085469,
-        85688675
+        85813343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152259207,
-    "wof:lastmodified":1449045351,
+    "wof:lastmodified":1466316735,
     "wof:name":"M & V Express",
     "wof:parent_id":85813343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.764279,30.887464,-87.764279,30.887464],
+  "bbox": [
+    -87.764279,
+    30.887464,
+    -87.764279,
+    30.887464
+],
   "geometry": {"coordinates":[-87.764279,30.887464],"type":"Point"}
 }

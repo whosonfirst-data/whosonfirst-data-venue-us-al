@@ -2,13 +2,14 @@
   "id": 152715955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.329343,32.35794,-86.329343,32.35794",
     "geom:latitude":32.35794,
     "geom:longitude":-86.329343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1422 Hill St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856867,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85856867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152715955,
-    "wof:lastmodified":1449047988,
+    "wof:lastmodified":1466319516,
     "wof:name":"New Home Baptist Church",
     "wof:parent_id":85856867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.329343,32.35794,-86.329343,32.35794],
-  "geometry": {"coordinates":[-86.329343,32.35794],"type":"Point"}
+  "bbox": [
+    -86.329343,
+    32.35794,
+    -86.329343,
+    32.35794
+],
+  "geometry": {"coordinates":[-86.32934299999999,32.35794],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102615675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.753239,33.098431,-86.753239,33.098431",
     "geom:latitude":33.098431,
     "geom:longitude":-86.753239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8560 US Hwy 31",
     "sg:city":"Calera",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85849529
+        85633793,
+        85849529,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102615675,
-    "wof:lastmodified":1449068542,
+    "wof:lastmodified":1466317344,
     "wof:name":"Chamber Of Commerce",
     "wof:parent_id":85849529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.753239,33.098431,-86.753239,33.098431],
-  "geometry": {"coordinates":[-86.753239,33.098431],"type":"Point"}
+  "bbox": [
+    -86.753239,
+    33.098431,
+    -86.753239,
+    33.098431
+],
+  "geometry": {"coordinates":[-86.75323899999999,33.098431],"type":"Point"}
 }

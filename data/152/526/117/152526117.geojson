@@ -2,13 +2,14 @@
   "id": 152526117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.811819,33.294707,-86.811819,33.294707",
     "geom:latitude":33.294707,
     "geom:longitude":-86.811819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3021 US Hwy 31",
     "sg:city":"Pelham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828267,
+        85688675,
         85633793,
         85914501,
         102085499,
-        85688675
+        85828267
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152526117,
-    "wof:lastmodified":1449045722,
+    "wof:lastmodified":1466318313,
     "wof:name":"Hair Pizazz Inc",
     "wof:parent_id":85828267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.811819,33.294707,-86.811819,33.294707],
+  "bbox": [
+    -86.811819,
+    33.294707,
+    -86.811819,
+    33.294707
+],
   "geometry": {"coordinates":[-86.811819,33.294707],"type":"Point"}
 }

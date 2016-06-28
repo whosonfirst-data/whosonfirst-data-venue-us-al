@@ -2,13 +2,14 @@
   "id": 152271835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.865221,34.480625,-87.865221,34.480625",
     "geom:latitude":34.480625,
     "geom:longitude":-87.865221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"241 Co Rd 49",
     "sg:city":"Russellville",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152271835,
-    "wof:lastmodified":1449046723,
+    "wof:lastmodified":1466316817,
     "wof:name":"Tompkins Livestock Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.865221,34.480625,-87.865221,34.480625],
-  "geometry": {"coordinates":[-87.865221,34.480625],"type":"Point"}
+  "bbox": [
+    -87.865221,
+    34.480625,
+    -87.865221,
+    34.480625
+],
+  "geometry": {"coordinates":[-87.86522100000001,34.480625],"type":"Point"}
 }

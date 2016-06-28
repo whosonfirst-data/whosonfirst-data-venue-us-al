@@ -2,13 +2,14 @@
   "id": 152219873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.211,30.657925,-88.211,30.657925",
     "geom:latitude":30.657925,
     "geom:longitude":-88.211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1670 Ashmoor Dr E",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851319,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85851319
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152219873,
-    "wof:lastmodified":1449048725,
+    "wof:lastmodified":1466316256,
     "wof:name":"Intercessors For Mobile I",
     "wof:parent_id":85851319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.211,30.657925,-88.211,30.657925],
+  "bbox": [
+    -88.211,
+    30.657925,
+    -88.211,
+    30.657925
+],
   "geometry": {"coordinates":[-88.211,30.657925],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152760351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.00512,34.584545,-87.00512,34.584545",
     "geom:latitude":34.584545,
     "geom:longitude":-87.00512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1504 Puckett Ave SW",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.anycityphonebook.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848819,
+        85688675,
         85633793,
         85913589,
         102085531,
-        85688675
+        85848819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152760351,
-    "wof:lastmodified":1449048742,
+    "wof:lastmodified":1466319631,
     "wof:name":"Anycityphonebook.Com Inc",
     "wof:parent_id":85848819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.00512,34.584545,-87.00512,34.584545],
-  "geometry": {"coordinates":[-87.00512,34.584545],"type":"Point"}
+  "bbox": [
+    -87.00512,
+    34.584545,
+    -87.00512,
+    34.584545
+],
+  "geometry": {"coordinates":[-87.00512000000001,34.584545],"type":"Point"}
 }

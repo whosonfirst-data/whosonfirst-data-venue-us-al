@@ -2,13 +2,14 @@
   "id": 152771975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.290606,34.481528,-87.290606,34.481528",
     "geom:latitude":34.481528,
     "geom:longitude":-87.290606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14418 Court St",
     "sg:city":"Moulton",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085601,
-        85633793,
         85688675,
-        85851971
+        85633793,
+        85851971,
+        102085601
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152771975,
-    "wof:lastmodified":1449046814,
+    "wof:lastmodified":1466319720,
     "wof:name":"Terrys Beauty Shop",
     "wof:parent_id":85851971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.290606,34.481528,-87.290606,34.481528],
+  "bbox": [
+    -87.290606,
+    34.481528,
+    -87.290606,
+    34.481528
+],
   "geometry": {"coordinates":[-87.290606,34.481528],"type":"Point"}
 }

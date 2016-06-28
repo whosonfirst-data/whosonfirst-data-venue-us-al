@@ -2,13 +2,14 @@
   "id": 152766633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.06234,30.659751,-88.06234,30.659751",
     "geom:latitude":30.659751,
     "geom:longitude":-88.06234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1065 Choctaw St",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878943,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878943
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152766633,
-    "wof:lastmodified":1449044227,
+    "wof:lastmodified":1466319737,
     "wof:name":"Order of Eastern Star & I",
     "wof:parent_id":85878943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.06234,30.659751,-88.06234,30.659751],
-  "geometry": {"coordinates":[-88.06234,30.659751],"type":"Point"}
+  "bbox": [
+    -88.06234,
+    30.659751,
+    -88.06234,
+    30.659751
+],
+  "geometry": {"coordinates":[-88.06234000000001,30.659751],"type":"Point"}
 }

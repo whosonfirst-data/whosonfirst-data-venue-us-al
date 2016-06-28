@@ -2,13 +2,14 @@
   "id": 152184157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.887943,33.475454,-86.887943,33.475454",
     "geom:latitude":33.475454,
     "geom:longitude":-86.887943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5700 Ct Q",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85832747,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85832747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152184157,
-    "wof:lastmodified":1449045089,
+    "wof:lastmodified":1466315736,
     "wof:name":"C and C Piping and Fabrication",
     "wof:parent_id":85832747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.887943,33.475454,-86.887943,33.475454],
-  "geometry": {"coordinates":[-86.887943,33.475454],"type":"Point"}
+  "bbox": [
+    -86.887943,
+    33.475454,
+    -86.887943,
+    33.475454
+],
+  "geometry": {"coordinates":[-86.88794300000001,33.475454],"type":"Point"}
 }

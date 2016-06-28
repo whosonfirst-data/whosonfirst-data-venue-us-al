@@ -2,13 +2,14 @@
   "id": 152898835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.788634,33.483223,-86.788634,33.483223",
     "geom:latitude":33.483223,
     "geom:longitude":-86.788634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2720 19th Pl S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845971,
+        85688675,
         85633793,
         85914847,
         102085481,
-        85688675
+        85845971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152898835,
-    "wof:lastmodified":1449044188,
+    "wof:lastmodified":1466320356,
     "wof:name":"Jay Jewelry Inc",
     "wof:parent_id":85845971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.788634,33.483223,-86.788634,33.483223],
+  "bbox": [
+    -86.788634,
+    33.483223,
+    -86.788634,
+    33.483223
+],
   "geometry": {"coordinates":[-86.788634,33.483223],"type":"Point"}
 }

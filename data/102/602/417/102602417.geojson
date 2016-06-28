@@ -2,13 +2,14 @@
   "id": 102602417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.643268,32.58993,-85.643268,32.58993",
     "geom:latitude":32.58993,
     "geom:longitude":-85.643268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9500 State Rte 14",
     "sg:city":"Notasulga",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102602417,
-    "wof:lastmodified":1449068906,
+    "wof:lastmodified":1466317071,
     "wof:name":"Sun Crest Laboratories LLC",
     "wof:parent_id":85688675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.643268,32.58993,-85.643268,32.58993],
-  "geometry": {"coordinates":[-85.643268,32.58993],"type":"Point"}
+  "bbox": [
+    -85.643268,
+    32.58993,
+    -85.643268,
+    32.58993
+],
+  "geometry": {"coordinates":[-85.64326800000001,32.58993],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152810551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.446063,32.493857,-86.446063,32.493857",
     "geom:latitude":32.493857,
     "geom:longitude":-86.446063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1024 Old Ridge Rd",
     "sg:city":"Prattville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831059,
+        85688675,
         85633793,
         85913977,
         102085509,
-        85688675
+        85831059
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152810551,
-    "wof:lastmodified":1449045645,
+    "wof:lastmodified":1466319872,
     "wof:name":"Perimeter Builders Inc",
     "wof:parent_id":85831059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.446063,32.493857,-86.446063,32.493857],
+  "bbox": [
+    -86.446063,
+    32.493857,
+    -86.446063,
+    32.493857
+],
   "geometry": {"coordinates":[-86.446063,32.493857],"type":"Point"}
 }

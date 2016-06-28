@@ -2,13 +2,14 @@
   "id": 152779301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.528704,32.59695,-85.528704,32.59695",
     "geom:latitude":32.59695,
     "geom:longitude":-85.528704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"397 Industry Dr",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.crosspoint-church.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851115,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85851115
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152779301,
-    "wof:lastmodified":1449045015,
+    "wof:lastmodified":1466319612,
     "wof:name":"Crosspoint Community Church",
     "wof:parent_id":85851115,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.528704,32.59695,-85.528704,32.59695],
+  "bbox": [
+    -85.528704,
+    32.59695,
+    -85.528704,
+    32.59695
+],
   "geometry": {"coordinates":[-85.528704,32.59695],"type":"Point"}
 }

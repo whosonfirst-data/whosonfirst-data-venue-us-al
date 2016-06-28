@@ -2,13 +2,14 @@
   "id": 152461757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.28512,32.323902,-86.28512,32.323902",
     "geom:latitude":32.323902,
     "geom:longitude":-86.28512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1371 Bancroft Ave",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842989,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85842989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152461757,
-    "wof:lastmodified":1449046046,
+    "wof:lastmodified":1466318159,
     "wof:name":"Needle In A Haystack",
     "wof:parent_id":85842989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.28512,32.323902,-86.28512,32.323902],
-  "geometry": {"coordinates":[-86.28512,32.323902],"type":"Point"}
+  "bbox": [
+    -86.28512,
+    32.323902,
+    -86.28512,
+    32.323902
+],
+  "geometry": {"coordinates":[-86.28512000000001,32.323902],"type":"Point"}
 }

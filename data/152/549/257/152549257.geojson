@@ -2,13 +2,14 @@
   "id": 152549257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.143182,33.982544,-86.143182,33.982544",
     "geom:latitude":33.982544,
     "geom:longitude":-86.143182,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"832 Burgess Rd",
     "sg:city":"Attalla",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085545,
-        85633793,
         85688675,
-        85839341
+        85633793,
+        85839341,
+        102085545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152549257,
-    "wof:lastmodified":1449045569,
+    "wof:lastmodified":1466318581,
     "wof:name":"Eagle Rock Boys Ranch",
     "wof:parent_id":85839341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.143182,33.982544,-86.143182,33.982544],
+  "bbox": [
+    -86.143182,
+    33.982544,
+    -86.143182,
+    33.982544
+],
   "geometry": {"coordinates":[-86.143182,33.982544],"type":"Point"}
 }

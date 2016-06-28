@@ -2,13 +2,14 @@
   "id": 152900759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.942575,33.999985,-85.942575,33.999985",
     "geom:latitude":33.999985,
     "geom:longitude":-85.942575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 US Hwy 278 E",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":152900759,
-    "wof:lastmodified":1449046307,
+    "wof:lastmodified":1466320353,
     "wof:name":"Blair Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.942575,33.999985,-85.942575,33.999985],
-  "geometry": {"coordinates":[-85.942575,33.999985],"type":"Point"}
+  "bbox": [
+    -85.942575,
+    33.999985,
+    -85.942575,
+    33.999985
+],
+  "geometry": {"coordinates":[-85.94257500000001,33.999985],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152146371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.07219,30.797498,-88.07219,30.797498",
     "geom:latitude":30.797498,
     "geom:longitude":-88.07219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1113 Saraland Blvd S",
     "sg:city":"Saraland",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152146371,
-    "wof:lastmodified":1449046229,
+    "wof:lastmodified":1466315429,
     "wof:name":"Bamboo Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.07219,30.797498,-88.07219,30.797498],
-  "geometry": {"coordinates":[-88.07219,30.797498],"type":"Point"}
+  "bbox": [
+    -88.07219,
+    30.797498,
+    -88.07219,
+    30.797498
+],
+  "geometry": {"coordinates":[-88.07219000000001,30.797498],"type":"Point"}
 }

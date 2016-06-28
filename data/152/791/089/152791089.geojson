@@ -2,13 +2,14 @@
   "id": 152791089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.395458,34.592755,-86.395458,34.592755",
     "geom:latitude":34.592755,
     "geom:longitude":-86.395458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"170 Jenkins Rd",
     "sg:city":"New Hope",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878245,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152791089,
-    "wof:lastmodified":1449047842,
+    "wof:lastmodified":1466319833,
     "wof:name":"PC& You",
     "wof:parent_id":85878245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.395458,34.592755,-86.395458,34.592755],
+  "bbox": [
+    -86.395458,
+    34.592755,
+    -86.395458,
+    34.592755
+],
   "geometry": {"coordinates":[-86.395458,34.592755],"type":"Point"}
 }

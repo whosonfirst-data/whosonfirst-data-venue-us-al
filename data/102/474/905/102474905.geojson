@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102474905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.199121,32.862569,-85.199121,32.862569",
     "geom:latitude":32.862569,
     "geom:longitude":-85.199121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1004 S 8th St",
     "sg:city":"Lanett",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848065,
+        85688675,
         85633793,
         85914191,
         102085637,
-        85688675
+        85848065
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102474905,
-    "wof:lastmodified":1449067883,
+    "wof:lastmodified":1466315480,
     "wof:name":"Roquemores Key & Safe",
     "wof:parent_id":85848065,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.199121,32.862569,-85.199121,32.862569],
-  "geometry": {"coordinates":[-85.199121,32.862569],"type":"Point"}
+  "bbox": [
+    -85.199121,
+    32.862569,
+    -85.199121,
+    32.862569
+],
+  "geometry": {"coordinates":[-85.19912100000001,32.862569],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152386881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.670274,34.872817,-87.670274,34.872817",
     "geom:latitude":34.872817,
     "geom:longitude":-87.670274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3107 Kendall Dr",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.diecocorp.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85832603,
+        85688675,
         85633793,
         85914011,
         102085527,
-        85688675
+        85832603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152386881,
-    "wof:lastmodified":1449046731,
+    "wof:lastmodified":1466317613,
     "wof:name":"Die Co",
     "wof:parent_id":85832603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.670274,34.872817,-87.670274,34.872817],
-  "geometry": {"coordinates":[-87.670274,34.872817],"type":"Point"}
+  "bbox": [
+    -87.670274,
+    34.872817,
+    -87.670274,
+    34.872817
+],
+  "geometry": {"coordinates":[-87.67027400000001,34.872817],"type":"Point"}
 }

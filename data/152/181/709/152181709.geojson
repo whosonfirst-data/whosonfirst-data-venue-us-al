@@ -2,13 +2,14 @@
   "id": 152181709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.228306,32.541748,-86.228306,32.541748",
     "geom:latitude":32.541748,
     "geom:longitude":-86.228306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"195 Gossom Switch Rd",
     "sg:city":"Wetumpka",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806527,
+        85688675,
         85633793,
         85913951,
         102085631,
-        85688675
+        85806527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152181709,
-    "wof:lastmodified":1449047135,
+    "wof:lastmodified":1466315692,
     "wof:name":"Thornton & Assoc Inc",
     "wof:parent_id":85806527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.228306,32.541748,-86.228306,32.541748],
+  "bbox": [
+    -86.228306,
+    32.541748,
+    -86.228306,
+    32.541748
+],
   "geometry": {"coordinates":[-86.228306,32.541748],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152874703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.705554,34.749436,-87.705554,34.749436",
     "geom:latitude":34.749436,
     "geom:longitude":-87.705554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1309 SW 11th St",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85832153,
+        85688675,
         85633793,
         85897447,
         102085625,
-        85688675
+        85832153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152874703,
-    "wof:lastmodified":1449048620,
+    "wof:lastmodified":1466320237,
     "wof:name":"Southland Restaurant",
     "wof:parent_id":85832153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.705554,34.749436,-87.705554,34.749436],
-  "geometry": {"coordinates":[-87.705554,34.749436],"type":"Point"}
+  "bbox": [
+    -87.705554,
+    34.749436,
+    -87.705554,
+    34.749436
+],
+  "geometry": {"coordinates":[-87.70555400000001,34.749436],"type":"Point"}
 }

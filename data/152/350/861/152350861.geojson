@@ -2,13 +2,14 @@
   "id": 152350861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.961711,33.394448,-86.961711,33.394448",
     "geom:latitude":33.394448,
     "geom:longitude":-86.961711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1002 4th Ave N",
     "sg:city":"Bessemer",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811055,
+        85688675,
         85633793,
         85914885,
         102085481,
-        85688675
+        85811055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152350861,
-    "wof:lastmodified":1449046659,
+    "wof:lastmodified":1466317596,
     "wof:name":"Stadium Grill",
     "wof:parent_id":85811055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.961711,33.394448,-86.961711,33.394448],
-  "geometry": {"coordinates":[-86.961711,33.394448],"type":"Point"}
+  "bbox": [
+    -86.961711,
+    33.394448,
+    -86.961711,
+    33.394448
+],
+  "geometry": {"coordinates":[-86.96171099999999,33.394448],"type":"Point"}
 }

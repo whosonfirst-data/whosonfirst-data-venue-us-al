@@ -2,13 +2,14 @@
   "id": 152636063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.859687,34.185302,-86.859687,34.185302",
     "geom:latitude":34.185302,
     "geom:longitude":-86.859687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1518 Rose St NW",
     "sg:city":"Cullman",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085729,
-        85633793,
         85688675,
-        85867309
+        85633793,
+        85867309,
+        102085729
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152636063,
-    "wof:lastmodified":1449046139,
+    "wof:lastmodified":1466318933,
     "wof:name":"Best Way Homes",
     "wof:parent_id":85867309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.859687,34.185302,-86.859687,34.185302],
-  "geometry": {"coordinates":[-86.859687,34.185302],"type":"Point"}
+  "bbox": [
+    -86.859687,
+    34.185302,
+    -86.859687,
+    34.185302
+],
+  "geometry": {"coordinates":[-86.85968699999999,34.185302],"type":"Point"}
 }

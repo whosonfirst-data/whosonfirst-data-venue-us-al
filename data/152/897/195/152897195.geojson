@@ -2,13 +2,14 @@
   "id": 152897195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.99171,34.005158,-85.99171,34.005158",
     "geom:latitude":34.005158,
     "geom:longitude":-85.99171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 E Walnut St",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822279,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85822279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152897195,
-    "wof:lastmodified":1449048170,
+    "wof:lastmodified":1466320324,
     "wof:name":"East Walnut Baptist Church",
     "wof:parent_id":85822279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.99171,34.005158,-85.99171,34.005158],
+  "bbox": [
+    -85.99171,
+    34.005158,
+    -85.99171,
+    34.005158
+],
   "geometry": {"coordinates":[-85.99171,34.005158],"type":"Point"}
 }

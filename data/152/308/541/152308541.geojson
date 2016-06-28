@@ -2,13 +2,14 @@
   "id": 152308541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.630629,32.840622,-86.630629,32.840622",
     "geom:latitude":32.840622,
     "geom:longitude":-86.630629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 3rd Ave N",
     "sg:city":"Clanton",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152308541,
-    "wof:lastmodified":1449049018,
+    "wof:lastmodified":1466317211,
     "wof:name":"Vons Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.630629,32.840622,-86.630629,32.840622],
+  "bbox": [
+    -86.630629,
+    32.840622,
+    -86.630629,
+    32.840622
+],
   "geometry": {"coordinates":[-86.630629,32.840622],"type":"Point"}
 }

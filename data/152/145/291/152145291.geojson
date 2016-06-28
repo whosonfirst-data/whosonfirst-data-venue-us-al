@@ -2,13 +2,14 @@
   "id": 152145291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.206517,34.276554,-86.206517,34.276554",
     "geom:latitude":34.276554,
     "geom:longitude":-86.206517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7315 US Hwy 431",
     "sg:city":"Albertville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152145291,
-    "wof:lastmodified":1449045712,
+    "wof:lastmodified":1466315408,
     "wof:name":"Factory Connection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.206517,34.276554,-86.206517,34.276554],
-  "geometry": {"coordinates":[-86.206517,34.276554],"type":"Point"}
+  "bbox": [
+    -86.206517,
+    34.276554,
+    -86.206517,
+    34.276554
+],
+  "geometry": {"coordinates":[-86.20651700000001,34.276554],"type":"Point"}
 }

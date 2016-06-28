@@ -2,13 +2,14 @@
   "id": 152748845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.399558,31.218737,-85.399558,31.218737",
     "geom:latitude":31.218737,
     "geom:longitude":-85.399558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"262 Fortner St",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.bellsupplyco.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852069,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85852069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152748845,
-    "wof:lastmodified":1449047765,
+    "wof:lastmodified":1466319710,
     "wof:name":"Bell Supply Co Inc",
     "wof:parent_id":85852069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.399558,31.218737,-85.399558,31.218737],
+  "bbox": [
+    -85.399558,
+    31.218737,
+    -85.399558,
+    31.218737
+],
   "geometry": {"coordinates":[-85.399558,31.218737],"type":"Point"}
 }

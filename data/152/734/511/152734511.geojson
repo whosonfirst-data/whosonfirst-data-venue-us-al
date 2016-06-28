@@ -2,13 +2,14 @@
   "id": 152734511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.651084,33.0938,-86.651084,33.0938",
     "geom:latitude":33.0938,
     "geom:longitude":-86.651084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5459 Co Rd 86",
     "sg:city":"Calera",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85849529
+        85633793,
+        85849529,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152734511,
-    "wof:lastmodified":1449048335,
+    "wof:lastmodified":1466319507,
     "wof:name":"Foolin Around",
     "wof:parent_id":85849529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.651084,33.0938,-86.651084,33.0938],
+  "bbox": [
+    -86.651084,
+    33.0938,
+    -86.651084,
+    33.0938
+],
   "geometry": {"coordinates":[-86.651084,33.0938],"type":"Point"}
 }

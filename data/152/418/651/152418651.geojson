@@ -2,13 +2,14 @@
   "id": 152418651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.33551,32.373284,-86.33551,32.373284",
     "geom:latitude":32.373284,
     "geom:longitude":-86.33551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 May St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.bushsigns.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856867,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85856867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152418651,
-    "wof:lastmodified":1449047918,
+    "wof:lastmodified":1466317928,
     "wof:name":"Bush Signs",
     "wof:parent_id":85856867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.33551,32.373284,-86.33551,32.373284],
+  "bbox": [
+    -86.33551,
+    32.373284,
+    -86.33551,
+    32.373284
+],
   "geometry": {"coordinates":[-86.33551,32.373284],"type":"Point"}
 }

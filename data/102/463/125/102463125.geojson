@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102463125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.839589,32.517426,-87.839589,32.517426",
     "geom:latitude":32.517426,
     "geom:longitude":-87.839589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 W Washington St",
     "sg:city":"Demopolis",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85804415,
+        85688675,
         85633793,
         85899613,
         102085423,
-        85688675
+        85804415
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102463125,
-    "wof:lastmodified":1449069473,
+    "wof:lastmodified":1466314979,
     "wof:name":"Demoplis Generator Starter Svc",
     "wof:parent_id":85804415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.839589,32.517426,-87.839589,32.517426],
+  "bbox": [
+    -87.839589,
+    32.517426,
+    -87.839589,
+    32.517426
+],
   "geometry": {"coordinates":[-87.839589,32.517426],"type":"Point"}
 }

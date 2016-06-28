@@ -2,13 +2,14 @@
   "id": 152173397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.732321,33.592353,-86.732321,33.592353",
     "geom:latitude":33.592353,
     "geom:longitude":-86.732321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1132 Penfield Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816499,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85816499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152173397,
-    "wof:lastmodified":1449045195,
+    "wof:lastmodified":1466315712,
     "wof:name":"Naylors Bushhogging",
     "wof:parent_id":85816499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.732321,33.592353,-86.732321,33.592353],
+  "bbox": [
+    -86.732321,
+    33.592353,
+    -86.732321,
+    33.592353
+],
   "geometry": {"coordinates":[-86.732321,33.592353],"type":"Point"}
 }

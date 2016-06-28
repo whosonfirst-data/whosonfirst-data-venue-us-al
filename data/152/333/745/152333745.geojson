@@ -2,13 +2,14 @@
   "id": 152333745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.795648,33.347484,-86.795648,33.347484",
     "geom:latitude":33.347484,
     "geom:longitude":-86.795648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1926 US Hwy 31",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802401,
+        85688675,
         85633793,
         85914475,
         102085499,
-        85688675
+        85802401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152333745,
-    "wof:lastmodified":1449048597,
+    "wof:lastmodified":1466317417,
     "wof:name":"Collective Investor",
     "wof:parent_id":85802401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.795648,33.347484,-86.795648,33.347484],
+  "bbox": [
+    -86.795648,
+    33.347484,
+    -86.795648,
+    33.347484
+],
   "geometry": {"coordinates":[-86.795648,33.347484],"type":"Point"}
 }

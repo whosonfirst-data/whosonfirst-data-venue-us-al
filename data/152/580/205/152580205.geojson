@@ -2,13 +2,14 @@
   "id": 152580205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.148329,32.383052,-86.148329,32.383052",
     "geom:latitude":32.383052,
     "geom:longitude":-86.148329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 Arrowhead Dr",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803631,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85803631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152580205,
-    "wof:lastmodified":1449047413,
+    "wof:lastmodified":1466318991,
     "wof:name":"Alan Gribben",
     "wof:parent_id":85803631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.148329,32.383052,-86.148329,32.383052],
+  "bbox": [
+    -86.148329,
+    32.383052,
+    -86.148329,
+    32.383052
+],
   "geometry": {"coordinates":[-86.148329,32.383052],"type":"Point"}
 }

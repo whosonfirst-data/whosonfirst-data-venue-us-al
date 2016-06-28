@@ -2,13 +2,14 @@
   "id": 152869757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.566537,34.643109,-86.566537,34.643109",
     "geom:latitude":34.643109,
     "geom:longitude":-86.566537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10001 Memorial Pkwy SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825687,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85825687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152869757,
-    "wof:lastmodified":1449048550,
+    "wof:lastmodified":1466320195,
     "wof:name":"Shell",
     "wof:parent_id":85825687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.566537,34.643109,-86.566537,34.643109],
+  "bbox": [
+    -86.566537,
+    34.643109,
+    -86.566537,
+    34.643109
+],
   "geometry": {"coordinates":[-86.566537,34.643109],"type":"Point"}
 }

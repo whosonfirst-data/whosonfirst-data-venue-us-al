@@ -2,13 +2,14 @@
   "id": 152732977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.102203,30.680771,-88.102203,30.680771",
     "geom:latitude":30.680771,
     "geom:longitude":-88.102203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2621 Ralston Rd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.clevelandsmithministries.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878965,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152732977,
-    "wof:lastmodified":1449049042,
+    "wof:lastmodified":1466319511,
     "wof:name":"St John's Deliverance Temple",
     "wof:parent_id":85878965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.102203,30.680771,-88.102203,30.680771],
+  "bbox": [
+    -88.102203,
+    30.680771,
+    -88.102203,
+    30.680771
+],
   "geometry": {"coordinates":[-88.102203,30.680771],"type":"Point"}
 }

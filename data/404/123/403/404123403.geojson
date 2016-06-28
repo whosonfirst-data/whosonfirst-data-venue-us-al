@@ -2,13 +2,14 @@
   "id": 404123403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.551447,34.932765,-86.551447,34.932765",
     "geom:latitude":34.932765,
     "geom:longitude":-86.551447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Riversedge Dr",
     "sg:city":"Hazel Green",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404123403,
-    "wof:lastmodified":1449039379,
+    "wof:lastmodified":1466314494,
     "wof:name":"Bradford T Huffines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "meteorology"
     ]
 },
-  "bbox": [-86.551447,34.932765,-86.551447,34.932765],
+  "bbox": [
+    -86.551447,
+    34.932765,
+    -86.551447,
+    34.932765
+],
   "geometry": {"coordinates":[-86.551447,34.932765],"type":"Point"}
 }

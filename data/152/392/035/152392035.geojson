@@ -2,13 +2,14 @@
   "id": 152392035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.687325,33.487567,-86.687325,33.487567",
     "geom:latitude":33.487567,
     "geom:longitude":-86.687325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7251 Old Overton Club Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -33,11 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808787,
+        85688675,
         85633793,
         85914483,
         102085481,
-        85688675
+        85808787
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":152392035,
-    "wof:lastmodified":1449048001,
+    "wof:lastmodified":1466317794,
     "wof:name":"Old Overton Club Inc",
     "wof:parent_id":85808787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.687325,33.487567,-86.687325,33.487567],
+  "bbox": [
+    -86.687325,
+    33.487567,
+    -86.687325,
+    33.487567
+],
   "geometry": {"coordinates":[-86.687325,33.487567],"type":"Point"}
 }

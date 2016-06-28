@@ -2,13 +2,14 @@
   "id": 152263613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.985598,34.578175,-86.985598,34.578175",
     "geom:latitude":34.578175,
     "geom:longitude":-86.985598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1705 Central Pkwy SW",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818653,
+        85688675,
         85633793,
         85913589,
         102085531,
-        85688675
+        85818653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152263613,
-    "wof:lastmodified":1449048781,
+    "wof:lastmodified":1466316769,
     "wof:name":"Video King",
     "wof:parent_id":85818653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.985598,34.578175,-86.985598,34.578175],
+  "bbox": [
+    -86.985598,
+    34.578175,
+    -86.985598,
+    34.578175
+],
   "geometry": {"coordinates":[-86.985598,34.578175],"type":"Point"}
 }

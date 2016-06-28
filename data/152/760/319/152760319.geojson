@@ -2,13 +2,14 @@
   "id": 152760319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.088109,30.563076,-88.088109,30.563076",
     "geom:latitude":30.563076,
     "geom:longitude":-88.088109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6351 Marina Dr S",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878969,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878969
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152760319,
-    "wof:lastmodified":1449048741,
+    "wof:lastmodified":1466319628,
     "wof:name":"Bay West Pest Control",
     "wof:parent_id":85878969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.088109,30.563076,-88.088109,30.563076],
+  "bbox": [
+    -88.088109,
+    30.563076,
+    -88.088109,
+    30.563076
+],
   "geometry": {"coordinates":[-88.088109,30.563076],"type":"Point"}
 }

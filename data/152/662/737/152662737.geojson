@@ -2,13 +2,14 @@
   "id": 152662737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.474098,34.665409,-86.474098,34.665409",
     "geom:latitude":34.665409,
     "geom:longitude":-86.474098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2759 Deford Mill Rd SE",
     "sg:city":"Owens Cross Rds",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878245,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152662737,
-    "wof:lastmodified":1449047423,
+    "wof:lastmodified":1466319155,
     "wof:name":"Action Alarm Systems Of Al",
     "wof:parent_id":85878245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.474098,34.665409,-86.474098,34.665409],
+  "bbox": [
+    -86.474098,
+    34.665409,
+    -86.474098,
+    34.665409
+],
   "geometry": {"coordinates":[-86.474098,34.665409],"type":"Point"}
 }

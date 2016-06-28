@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102481457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.267287,30.671721,-88.267287,30.671721",
     "geom:latitude":30.671721,
     "geom:longitude":-88.267287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9220 Airport Blvd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     "sg:website":"www.grasshopperflats.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085585,
-        85633793,
         85688675,
-        85895801
+        85633793,
+        85895801,
+        102085585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102481457,
-    "wof:lastmodified":1449069868,
+    "wof:lastmodified":1466315391,
     "wof:name":"Grasshopper Flats",
     "wof:parent_id":85895801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.267287,30.671721,-88.267287,30.671721],
+  "bbox": [
+    -88.267287,
+    30.671721,
+    -88.267287,
+    30.671721
+],
   "geometry": {"coordinates":[-88.267287,30.671721],"type":"Point"}
 }

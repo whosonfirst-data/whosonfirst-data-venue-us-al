@@ -2,13 +2,14 @@
   "id": 152356551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.704192,33.505808,-86.704192,33.505808",
     "geom:latitude":33.505808,
     "geom:longitude":-86.704192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3575 Great Oak Ln",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085481,
-        85633793,
         85688675,
-        85810623
+        85633793,
+        85810623,
+        102085481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152356551,
-    "wof:lastmodified":1449048099,
+    "wof:lastmodified":1466317633,
     "wof:name":"Environmental Land Design",
     "wof:parent_id":85810623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.704192,33.505808,-86.704192,33.505808],
-  "geometry": {"coordinates":[-86.704192,33.505808],"type":"Point"}
+  "bbox": [
+    -86.704192,
+    33.505808,
+    -86.704192,
+    33.505808
+],
+  "geometry": {"coordinates":[-86.70419200000001,33.505808],"type":"Point"}
 }

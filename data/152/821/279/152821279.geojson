@@ -2,13 +2,14 @@
   "id": 152821279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.46618,32.626881,-85.46618,32.626881",
     "geom:latitude":32.626881,
     "geom:longitude":-85.46618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 Cheyenne Ave",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848213,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85848213
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152821279,
-    "wof:lastmodified":1449046816,
+    "wof:lastmodified":1466320099,
     "wof:name":"B & L Farms Inc",
     "wof:parent_id":85848213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.46618,32.626881,-85.46618,32.626881],
-  "geometry": {"coordinates":[-85.46618,32.626881],"type":"Point"}
+  "bbox": [
+    -85.46618,
+    32.626881,
+    -85.46618,
+    32.626881
+],
+  "geometry": {"coordinates":[-85.46617999999999,32.626881],"type":"Point"}
 }

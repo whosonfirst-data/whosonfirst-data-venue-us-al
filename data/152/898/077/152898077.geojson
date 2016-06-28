@@ -2,13 +2,14 @@
   "id": 152898077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.504029,33.203596,-87.504029,33.203596",
     "geom:latitude":33.203596,
     "geom:longitude":-87.504029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1004 26th Ave E",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152898077,
-    "wof:lastmodified":1449044186,
+    "wof:lastmodified":1466320315,
     "wof:name":"Short Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.504029,33.203596,-87.504029,33.203596],
+  "bbox": [
+    -87.504029,
+    33.203596,
+    -87.504029,
+    33.203596
+],
   "geometry": {"coordinates":[-87.504029,33.203596],"type":"Point"}
 }

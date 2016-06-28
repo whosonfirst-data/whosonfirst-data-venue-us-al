@@ -2,13 +2,14 @@
   "id": 152149751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.681154,34.763498,-87.681154,34.763498",
     "geom:latitude":34.763498,
     "geom:longitude":-87.681154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2900 N Jackson Hwy",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848135,
+        85688675,
         85633793,
         85897473,
         102085625,
-        85688675
+        85848135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152149751,
-    "wof:lastmodified":1449044299,
+    "wof:lastmodified":1466314524,
     "wof:name":"L & L Engine Exchange",
     "wof:parent_id":85848135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.681154,34.763498,-87.681154,34.763498],
-  "geometry": {"coordinates":[-87.681154,34.763498],"type":"Point"}
+  "bbox": [
+    -87.681154,
+    34.763498,
+    -87.681154,
+    34.763498
+],
+  "geometry": {"coordinates":[-87.68115400000001,34.763498],"type":"Point"}
 }

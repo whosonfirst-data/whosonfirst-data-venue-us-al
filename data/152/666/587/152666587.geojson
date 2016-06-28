@@ -2,13 +2,14 @@
   "id": 152666587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.289008,34.481969,-87.289008,34.481969",
     "geom:latitude":34.481969,
     "geom:longitude":-87.289008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"861 East St",
     "sg:city":"Moulton",
     "sg:classifiers":[
@@ -31,10 +32,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085601,
-        85633793,
         85688675,
-        85851971
+        85633793,
+        85851971,
+        102085601
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152666587,
-    "wof:lastmodified":1449046000,
+    "wof:lastmodified":1466319201,
     "wof:name":"Nelsons Television & Radio Svc",
     "wof:parent_id":85851971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.289008,34.481969,-87.289008,34.481969],
+  "bbox": [
+    -87.289008,
+    34.481969,
+    -87.289008,
+    34.481969
+],
   "geometry": {"coordinates":[-87.289008,34.481969],"type":"Point"}
 }

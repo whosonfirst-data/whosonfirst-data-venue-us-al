@@ -2,13 +2,14 @@
   "id": 152746717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.028843,34.023586,-86.028843,34.023586",
     "geom:latitude":34.023586,
     "geom:longitude":-86.028843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1503 W Meighan Blvd",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805515,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85805515
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152746717,
-    "wof:lastmodified":1449044244,
+    "wof:lastmodified":1466319568,
     "wof:name":"Proaction Racing",
     "wof:parent_id":85805515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.028843,34.023586,-86.028843,34.023586],
-  "geometry": {"coordinates":[-86.028843,34.023586],"type":"Point"}
+  "bbox": [
+    -86.028843,
+    34.023586,
+    -86.028843,
+    34.023586
+],
+  "geometry": {"coordinates":[-86.02884299999999,34.023586],"type":"Point"}
 }

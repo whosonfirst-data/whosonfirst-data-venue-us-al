@@ -2,13 +2,14 @@
   "id": 152569781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.957032,32.597024,-85.957032,32.597024",
     "geom:latitude":32.597024,
     "geom:longitude":-85.957032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5357 Cherokee Trl",
     "sg:city":"Tallassee",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827623,
+        85688675,
         85633793,
         85913291,
         102085631,
-        85688675
+        85827623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152569781,
-    "wof:lastmodified":1449048730,
+    "wof:lastmodified":1466318685,
     "wof:name":"Frontier Adjusters-Montgomery",
     "wof:parent_id":85827623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.957032,32.597024,-85.957032,32.597024],
+  "bbox": [
+    -85.957032,
+    32.597024,
+    -85.957032,
+    32.597024
+],
   "geometry": {"coordinates":[-85.957032,32.597024],"type":"Point"}
 }

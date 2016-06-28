@@ -2,13 +2,14 @@
   "id": 152346097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.686745,33.421151,-86.686745,33.421151",
     "geom:latitude":33.421151,
     "geom:longitude":-86.686745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Missionary Ridge Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85833411
+        85633793,
+        85833411,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152346097,
-    "wof:lastmodified":1449044264,
+    "wof:lastmodified":1466317558,
     "wof:name":"Womans Missionary Union",
     "wof:parent_id":85833411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.686745,33.421151,-86.686745,33.421151],
+  "bbox": [
+    -86.686745,
+    33.421151,
+    -86.686745,
+    33.421151
+],
   "geometry": {"coordinates":[-86.686745,33.421151],"type":"Point"}
 }

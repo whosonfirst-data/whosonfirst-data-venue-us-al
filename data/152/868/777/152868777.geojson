@@ -2,13 +2,14 @@
   "id": 152868777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.293892,33.118056,-86.293892,33.118056",
     "geom:latitude":33.118056,
     "geom:longitude":-86.293892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 West Rd",
     "sg:city":"Sylacauga",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834171,
+        85688675,
         85633793,
         85914133,
         102085517,
-        85688675
+        85834171
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152868777,
-    "wof:lastmodified":1449044505,
+    "wof:lastmodified":1466320201,
     "wof:name":"Dance & Performing Arts Co",
     "wof:parent_id":85834171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.293892,33.118056,-86.293892,33.118056],
+  "bbox": [
+    -86.293892,
+    33.118056,
+    -86.293892,
+    33.118056
+],
   "geometry": {"coordinates":[-86.293892,33.118056],"type":"Point"}
 }

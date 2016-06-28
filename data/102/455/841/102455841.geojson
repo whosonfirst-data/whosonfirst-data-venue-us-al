@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102455841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.136517,30.683986,-88.136517,30.683986",
     "geom:latitude":30.683986,
     "geom:longitude":-88.136517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3766 Claridge Rd S",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879003,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85879003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102455841,
-    "wof:lastmodified":1449069766,
+    "wof:lastmodified":1466314907,
     "wof:name":"Warren Degraaf",
     "wof:parent_id":85879003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.136517,30.683986,-88.136517,30.683986],
+  "bbox": [
+    -88.136517,
+    30.683986,
+    -88.136517,
+    30.683986
+],
   "geometry": {"coordinates":[-88.136517,30.683986],"type":"Point"}
 }

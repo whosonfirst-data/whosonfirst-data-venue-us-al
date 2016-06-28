@@ -2,13 +2,14 @@
   "id": 152836507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.54299,34.717341,-86.54299,34.717341",
     "geom:latitude":34.717341,
     "geom:longitude":-86.54299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2248 Governors Bend Rd SE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854251,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85854251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152836507,
-    "wof:lastmodified":1449047352,
+    "wof:lastmodified":1466320029,
     "wof:name":"Nature Photography",
     "wof:parent_id":85854251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.54299,34.717341,-86.54299,34.717341],
+  "bbox": [
+    -86.54299,
+    34.717341,
+    -86.54299,
+    34.717341
+],
   "geometry": {"coordinates":[-86.54299,34.717341],"type":"Point"}
 }

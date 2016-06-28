@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102470699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.516928,34.597708,-86.516928,34.597708",
     "geom:latitude":34.597708,
     "geom:longitude":-86.516928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5000 Nature Trail Rd SE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820451,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85820451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102470699,
-    "wof:lastmodified":1449068371,
+    "wof:lastmodified":1466315313,
     "wof:name":"Green Mountain Park",
     "wof:parent_id":85820451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.516928,34.597708,-86.516928,34.597708],
-  "geometry": {"coordinates":[-86.516928,34.597708],"type":"Point"}
+  "bbox": [
+    -86.516928,
+    34.597708,
+    -86.516928,
+    34.597708
+],
+  "geometry": {"coordinates":[-86.51692799999999,34.597708],"type":"Point"}
 }

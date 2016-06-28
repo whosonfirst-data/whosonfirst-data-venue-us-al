@@ -2,13 +2,14 @@
   "id": 152197683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.495684,34.268847,-86.495684,34.268847",
     "geom:latitude":34.268847,
     "geom:longitude":-86.495684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1003 US Hwy 231",
     "sg:city":"Arab",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867305,
+        85688675,
         85633793,
         85914167,
         102085729,
-        85688675
+        85867305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152197683,
-    "wof:lastmodified":1449048343,
+    "wof:lastmodified":1466315948,
     "wof:name":"Gene's Pit Stop",
     "wof:parent_id":85867305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.495684,34.268847,-86.495684,34.268847],
+  "bbox": [
+    -86.495684,
+    34.268847,
+    -86.495684,
+    34.268847
+],
   "geometry": {"coordinates":[-86.495684,34.268847],"type":"Point"}
 }

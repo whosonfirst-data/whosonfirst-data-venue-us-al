@@ -2,13 +2,14 @@
   "id": 152817551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.935262,34.518775,-86.935262,34.518775",
     "geom:latitude":34.518775,
     "geom:longitude":-86.935262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2414 Old Creek Trl SE",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085531,
-        85633793,
         85688675,
-        85808557
+        85633793,
+        85808557,
+        102085531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152817551,
-    "wof:lastmodified":1449048011,
+    "wof:lastmodified":1466319950,
     "wof:name":"Guthrie Construction Co I",
     "wof:parent_id":85808557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.935262,34.518775,-86.935262,34.518775],
-  "geometry": {"coordinates":[-86.935262,34.518775],"type":"Point"}
+  "bbox": [
+    -86.935262,
+    34.518775,
+    -86.935262,
+    34.518775
+],
+  "geometry": {"coordinates":[-86.93526199999999,34.518775],"type":"Point"}
 }

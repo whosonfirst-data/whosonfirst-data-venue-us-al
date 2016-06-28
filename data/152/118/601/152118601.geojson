@@ -2,13 +2,14 @@
   "id": 152118601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.10662,32.710724,-86.10662,32.710724",
     "geom:latitude":32.710724,
     "geom:longitude":-86.10662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"625 Moseley Rd",
     "sg:city":"Eclectic",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851843,
+        85688675,
         85633793,
         85913951,
         102085631,
-        85688675
+        85851843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152118601,
-    "wof:lastmodified":1449048034,
+    "wof:lastmodified":1466314445,
     "wof:name":"Southland Construction",
     "wof:parent_id":85851843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.10662,32.710724,-86.10662,32.710724],
-  "geometry": {"coordinates":[-86.10662,32.710724],"type":"Point"}
+  "bbox": [
+    -86.10662,
+    32.710724,
+    -86.10662,
+    32.710724
+],
+  "geometry": {"coordinates":[-86.10662000000001,32.710724],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152838065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.867179,33.481427,-86.867179,33.481427",
     "geom:latitude":33.481427,
     "geom:longitude":-86.867179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"812 18th Way SW",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818187,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85818187
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152838065,
-    "wof:lastmodified":1449044866,
+    "wof:lastmodified":1466320011,
     "wof:name":"Eureka Family Center",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.867179,33.481427,-86.867179,33.481427],
-  "geometry": {"coordinates":[-86.867179,33.481427],"type":"Point"}
+  "bbox": [
+    -86.867179,
+    33.481427,
+    -86.867179,
+    33.481427
+],
+  "geometry": {"coordinates":[-86.86717899999999,33.481427],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152892003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.67832,34.801413,-87.67832,34.801413",
     "geom:latitude":34.801413,
     "geom:longitude":-87.67832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 N Pine St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848857,
+        85688675,
         85633793,
         85914011,
         102085527,
-        85688675
+        85848857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152892003,
-    "wof:lastmodified":1449044990,
+    "wof:lastmodified":1466320392,
     "wof:name":"Appraisal Services",
     "wof:parent_id":85848857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.67832,34.801413,-87.67832,34.801413],
+  "bbox": [
+    -87.67832,
+    34.801413,
+    -87.67832,
+    34.801413
+],
   "geometry": {"coordinates":[-87.67832,34.801413],"type":"Point"}
 }

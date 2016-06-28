@@ -2,13 +2,14 @@
   "id": 152555541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.926533,34.786283,-86.926533,34.786283",
     "geom:latitude":34.786283,
     "geom:longitude":-86.926533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22233 Ewell St",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829133,
+        85688675,
         85633793,
         85913543,
         102085489,
-        85688675
+        85829133
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152555541,
-    "wof:lastmodified":1449048256,
+    "wof:lastmodified":1466318633,
     "wof:name":"Webster Painting",
     "wof:parent_id":85829133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.926533,34.786283,-86.926533,34.786283],
-  "geometry": {"coordinates":[-86.926533,34.786283],"type":"Point"}
+  "bbox": [
+    -86.926533,
+    34.786283,
+    -86.926533,
+    34.786283
+],
+  "geometry": {"coordinates":[-86.92653300000001,34.786283],"type":"Point"}
 }

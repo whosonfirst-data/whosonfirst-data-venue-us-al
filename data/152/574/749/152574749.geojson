@@ -2,13 +2,14 @@
   "id": 152574749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.889897,32.534659,-85.889897,32.534659",
     "geom:latitude":32.534659,
     "geom:longitude":-85.889897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 Barnett Blvd",
     "sg:city":"Tallassee",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827623,
+        85688675,
         85633793,
         85913291,
         102085631,
-        85688675
+        85827623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152574749,
-    "wof:lastmodified":1449044255,
+    "wof:lastmodified":1466318612,
     "wof:name":"Tallassee Jr Sr High School",
     "wof:parent_id":85827623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.889897,32.534659,-85.889897,32.534659],
+  "bbox": [
+    -85.889897,
+    32.534659,
+    -85.889897,
+    32.534659
+],
   "geometry": {"coordinates":[-85.889897,32.534659],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102622375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.212103,30.667866,-88.212103,30.667866",
     "geom:latitude":30.667866,
     "geom:longitude":-88.212103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7340 Vickers Ln",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85841857,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85841857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102622375,
-    "wof:lastmodified":1449069733,
+    "wof:lastmodified":1466317447,
     "wof:name":"LL Lanscaping LLC",
     "wof:parent_id":85841857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.212103,30.667866,-88.212103,30.667866],
+  "bbox": [
+    -88.212103,
+    30.667866,
+    -88.212103,
+    30.667866
+],
   "geometry": {"coordinates":[-88.212103,30.667866],"type":"Point"}
 }

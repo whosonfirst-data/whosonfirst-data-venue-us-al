@@ -2,13 +2,14 @@
   "id": 152209801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.505221,33.22536,-85.505221,33.22536",
     "geom:latitude":33.22536,
     "geom:longitude":-85.505221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"958 Co Rd 873",
     "sg:city":"Wedowee",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":152209801,
-    "wof:lastmodified":1449048431,
+    "wof:lastmodified":1466316033,
     "wof:name":"Alabama Investments Used Autom",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.505221,33.22536,-85.505221,33.22536],
-  "geometry": {"coordinates":[-85.505221,33.22536],"type":"Point"}
+  "bbox": [
+    -85.505221,
+    33.22536,
+    -85.505221,
+    33.22536
+],
+  "geometry": {"coordinates":[-85.50522100000001,33.22536],"type":"Point"}
 }

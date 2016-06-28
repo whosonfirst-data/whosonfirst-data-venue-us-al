@@ -2,13 +2,14 @@
   "id": 152307191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.75134,32.836409,-85.75134,32.836409",
     "geom:latitude":32.836409,
     "geom:longitude":-85.75134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"350 Fulton St",
     "sg:city":"Dadeville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.spencerlumber.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848983,
+        85688675,
         85633793,
         85913327,
         102085567,
-        85688675
+        85848983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152307191,
-    "wof:lastmodified":1449045492,
+    "wof:lastmodified":1466317164,
     "wof:name":"Spencer Lumber Co",
     "wof:parent_id":85848983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.75134,32.836409,-85.75134,32.836409],
+  "bbox": [
+    -85.75134,
+    32.836409,
+    -85.75134,
+    32.836409
+],
   "geometry": {"coordinates":[-85.75134,32.836409],"type":"Point"}
 }

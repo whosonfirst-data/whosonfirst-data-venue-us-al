@@ -2,13 +2,14 @@
   "id": 152443973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.044161,30.852096,-88.044161,30.852096",
     "geom:latitude":30.852096,
     "geom:longitude":-88.044161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5578 Magnolia Ave",
     "sg:city":"Satsuma",
     "sg:classifiers":[
@@ -33,10 +34,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085469,
-        85633793,
         85688675,
-        85878983
+        85633793,
+        85878983,
+        102085469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152443973,
-    "wof:lastmodified":1449048068,
+    "wof:lastmodified":1466318131,
     "wof:name":"Steele Creek Marine",
     "wof:parent_id":85878983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.044161,30.852096,-88.044161,30.852096],
+  "bbox": [
+    -88.044161,
+    30.852096,
+    -88.044161,
+    30.852096
+],
   "geometry": {"coordinates":[-88.044161,30.852096],"type":"Point"}
 }

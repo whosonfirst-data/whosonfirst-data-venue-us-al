@@ -2,13 +2,14 @@
   "id": 152147811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.242443,30.509264,-88.242443,30.509264",
     "geom:latitude":30.509264,
     "geom:longitude":-88.242443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8540 McDonald Rd",
     "sg:city":"Irvington",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152147811,
-    "wof:lastmodified":1449048421,
+    "wof:lastmodified":1466315470,
     "wof:name":"Esther W Breneman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.242443,30.509264,-88.242443,30.509264],
-  "geometry": {"coordinates":[-88.242443,30.509264],"type":"Point"}
+  "bbox": [
+    -88.242443,
+    30.509264,
+    -88.242443,
+    30.509264
+],
+  "geometry": {"coordinates":[-88.24244299999999,30.509264],"type":"Point"}
 }

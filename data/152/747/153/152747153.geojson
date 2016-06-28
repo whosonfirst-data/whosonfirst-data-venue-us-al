@@ -2,13 +2,14 @@
   "id": 152747153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.390302,31.208462,-85.390302,31.208462",
     "geom:latitude":31.208462,
     "geom:longitude":-85.390302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"251 E Cottonwood Rd",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852069,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85852069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152747153,
-    "wof:lastmodified":1449045149,
+    "wof:lastmodified":1466319694,
     "wof:name":"Morning Dove Christn Lrng Ctr",
     "wof:parent_id":85852069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.390302,31.208462,-85.390302,31.208462],
-  "geometry": {"coordinates":[-85.390302,31.208462],"type":"Point"}
+  "bbox": [
+    -85.390302,
+    31.208462,
+    -85.390302,
+    31.208462
+],
+  "geometry": {"coordinates":[-85.39030200000001,31.208462],"type":"Point"}
 }

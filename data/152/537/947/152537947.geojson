@@ -2,13 +2,14 @@
   "id": 152537947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.449308,32.457827,-86.449308,32.457827",
     "geom:latitude":32.457827,
     "geom:longitude":-86.449308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"844 S Memorial Dr",
     "sg:city":"Prattville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843041,
+        85688675,
         85633793,
         85913977,
         102085509,
-        85688675
+        85843041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152537947,
-    "wof:lastmodified":1449045429,
+    "wof:lastmodified":1466318698,
     "wof:name":"Carroll's Radiator & Wrecker",
     "wof:parent_id":85843041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.449308,32.457827,-86.449308,32.457827],
+  "bbox": [
+    -86.449308,
+    32.457827,
+    -86.449308,
+    32.457827
+],
   "geometry": {"coordinates":[-86.449308,32.457827],"type":"Point"}
 }

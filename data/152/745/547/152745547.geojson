@@ -2,13 +2,14 @@
   "id": 152745547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.573052,34.706251,-86.573052,34.706251",
     "geom:latitude":34.706251,
     "geom:longitude":-86.573052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Bibb Rd SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818149,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85818149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152745547,
-    "wof:lastmodified":1449048709,
+    "wof:lastmodified":1466319694,
     "wof:name":"Vaughn Lumber Co",
     "wof:parent_id":85818149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.573052,34.706251,-86.573052,34.706251],
+  "bbox": [
+    -86.573052,
+    34.706251,
+    -86.573052,
+    34.706251
+],
   "geometry": {"coordinates":[-86.573052,34.706251],"type":"Point"}
 }

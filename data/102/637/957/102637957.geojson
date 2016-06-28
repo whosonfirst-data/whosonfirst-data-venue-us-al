@@ -2,13 +2,14 @@
   "id": 102637957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.989373,33.416368,-86.989373,33.416368",
     "geom:latitude":33.416368,
     "geom:longitude":-86.989373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2581 15th Street Rd",
     "sg:city":"Bessemer",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811055,
+        85688675,
         85633793,
         85914885,
         102085481,
-        85688675
+        85811055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102637957,
-    "wof:lastmodified":1449067767,
+    "wof:lastmodified":1466317609,
     "wof:name":"Jokers Wild Arcade",
     "wof:parent_id":85811055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.989373,33.416368,-86.989373,33.416368],
+  "bbox": [
+    -86.989373,
+    33.416368,
+    -86.989373,
+    33.416368
+],
   "geometry": {"coordinates":[-86.989373,33.416368],"type":"Point"}
 }

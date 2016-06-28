@@ -2,13 +2,14 @@
   "id": 152208439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.709223,33.37747,-87.709223,33.37747",
     "geom:latitude":33.37747,
     "geom:longitude":-87.709223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15158 Bethabara Rd",
     "sg:city":"Northport",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":152208439,
-    "wof:lastmodified":1449044844,
+    "wof:lastmodified":1466316017,
     "wof:name":"Bethabara Baptist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.709223,33.37747,-87.709223,33.37747],
-  "geometry": {"coordinates":[-87.709223,33.37747],"type":"Point"}
+  "bbox": [
+    -87.709223,
+    33.37747,
+    -87.709223,
+    33.37747
+],
+  "geometry": {"coordinates":[-87.70922299999999,33.37747],"type":"Point"}
 }

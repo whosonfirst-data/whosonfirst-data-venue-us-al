@@ -2,13 +2,14 @@
   "id": 152594471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.374164,31.243325,-85.374164,31.243325",
     "geom:latitude":31.243325,
     "geom:longitude":-85.374164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Vulcan Way",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847911,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85847911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152594471,
-    "wof:lastmodified":1449044969,
+    "wof:lastmodified":1466318816,
     "wof:name":"G & K Svc",
     "wof:parent_id":85847911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.374164,31.243325,-85.374164,31.243325],
-  "geometry": {"coordinates":[-85.374164,31.243325],"type":"Point"}
+  "bbox": [
+    -85.374164,
+    31.243325,
+    -85.374164,
+    31.243325
+],
+  "geometry": {"coordinates":[-85.37416399999999,31.243325],"type":"Point"}
 }

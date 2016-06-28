@@ -2,13 +2,14 @@
   "id": 152664981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.380793,31.252826,-85.380793,31.252826",
     "geom:latitude":31.252826,
     "geom:longitude":-85.380793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1908 Miskell Dr",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859419,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85859419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152664981,
-    "wof:lastmodified":1449046021,
+    "wof:lastmodified":1466319035,
     "wof:name":"Sara Wise Office",
     "wof:parent_id":85859419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.380793,31.252826,-85.380793,31.252826],
+  "bbox": [
+    -85.380793,
+    31.252826,
+    -85.380793,
+    31.252826
+],
   "geometry": {"coordinates":[-85.380793,31.252826],"type":"Point"}
 }

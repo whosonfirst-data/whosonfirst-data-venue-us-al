@@ -2,13 +2,14 @@
   "id": 152529791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.490233,32.608147,-85.490233,32.608147",
     "geom:latitude":32.608147,
     "geom:longitude":-85.490233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"184 N Donahue Dr",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809707,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85809707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152529791,
-    "wof:lastmodified":1449046335,
+    "wof:lastmodified":1466318488,
     "wof:name":"Sensations Sweet & Gifts",
     "wof:parent_id":85809707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.490233,32.608147,-85.490233,32.608147],
+  "bbox": [
+    -85.490233,
+    32.608147,
+    -85.490233,
+    32.608147
+],
   "geometry": {"coordinates":[-85.490233,32.608147],"type":"Point"}
 }

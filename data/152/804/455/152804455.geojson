@@ -2,13 +2,14 @@
   "id": 152804455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.484091,32.584164,-85.484091,32.584164",
     "geom:latitude":32.584164,
     "geom:longitude":-85.484091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"385 Lee Dr",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811511,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85811511
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152804455,
-    "wof:lastmodified":1449047517,
+    "wof:lastmodified":1466319884,
     "wof:name":"Futral Plumbing Co",
     "wof:parent_id":85811511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.484091,32.584164,-85.484091,32.584164],
-  "geometry": {"coordinates":[-85.484091,32.584164],"type":"Point"}
+  "bbox": [
+    -85.484091,
+    32.584164,
+    -85.484091,
+    32.584164
+],
+  "geometry": {"coordinates":[-85.48409100000001,32.584164],"type":"Point"}
 }

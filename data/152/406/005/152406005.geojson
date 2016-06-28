@@ -2,13 +2,14 @@
   "id": 152406005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.641995,31.456738,-85.641995,31.456738",
     "geom:latitude":31.456738,
     "geom:longitude":-85.641995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 Painter Ave",
     "sg:city":"Ozark",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152406005,
-    "wof:lastmodified":1449046783,
+    "wof:lastmodified":1466318017,
     "wof:name":"US Wiregrass Resource Dev",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.641995,31.456738,-85.641995,31.456738],
-  "geometry": {"coordinates":[-85.641995,31.456738],"type":"Point"}
+  "bbox": [
+    -85.641995,
+    31.456738,
+    -85.641995,
+    31.456738
+],
+  "geometry": {"coordinates":[-85.64199499999999,31.456738],"type":"Point"}
 }

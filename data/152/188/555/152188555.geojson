@@ -2,13 +2,14 @@
   "id": 152188555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.292228,34.480625,-87.292228,34.480625",
     "geom:latitude":34.480625,
     "geom:longitude":-87.292228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"522 Lawrence St",
     "sg:city":"Moulton",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085601,
-        85633793,
         85688675,
-        85851971
+        85633793,
+        85851971,
+        102085601
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152188555,
-    "wof:lastmodified":1449046601,
+    "wof:lastmodified":1466315759,
     "wof:name":"Hospice of Valley Inc",
     "wof:parent_id":85851971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.292228,34.480625,-87.292228,34.480625],
-  "geometry": {"coordinates":[-87.292228,34.480625],"type":"Point"}
+  "bbox": [
+    -87.292228,
+    34.480625,
+    -87.292228,
+    34.480625
+],
+  "geometry": {"coordinates":[-87.29222799999999,34.480625],"type":"Point"}
 }

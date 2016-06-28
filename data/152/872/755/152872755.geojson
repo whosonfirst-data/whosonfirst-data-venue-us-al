@@ -2,13 +2,14 @@
   "id": 152872755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.597726,34.712846,-86.597726,34.712846",
     "geom:latitude":34.712846,
     "geom:longitude":-86.597726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2507 Newby Rd SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85855713,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85855713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152872755,
-    "wof:lastmodified":1449044713,
+    "wof:lastmodified":1466320222,
     "wof:name":"Arro-Space T V Repair",
     "wof:parent_id":85855713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.597726,34.712846,-86.597726,34.712846],
-  "geometry": {"coordinates":[-86.597726,34.712846],"type":"Point"}
+  "bbox": [
+    -86.597726,
+    34.712846,
+    -86.597726,
+    34.712846
+],
+  "geometry": {"coordinates":[-86.59772599999999,34.712846],"type":"Point"}
 }

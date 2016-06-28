@@ -2,13 +2,14 @@
   "id": 152302181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.996597,30.230931,-87.996597,30.230931",
     "geom:latitude":30.230931,
     "geom:longitude":-87.996597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1380 State Rte 180",
     "sg:city":"Gulf Shores",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868551,
+        85688675,
         85633793,
         85914719,
         102085469,
-        85688675
+        85868551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152302181,
-    "wof:lastmodified":1449045868,
+    "wof:lastmodified":1466317127,
     "wof:name":"Sunset Properties",
     "wof:parent_id":85868551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.996597,30.230931,-87.996597,30.230931],
-  "geometry": {"coordinates":[-87.996597,30.230931],"type":"Point"}
+  "bbox": [
+    -87.996597,
+    30.230931,
+    -87.996597,
+    30.230931
+],
+  "geometry": {"coordinates":[-87.99659699999999,30.230931],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152495725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.841521,31.307835,-85.841521,31.307835",
     "geom:latitude":31.307835,
     "geom:longitude":-85.841521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Plaza Dr",
     "sg:city":"Enterprise",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848823,
+        85688675,
         85633793,
         85899527,
         102085699,
-        85688675
+        85848823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152495725,
-    "wof:lastmodified":1449046347,
+    "wof:lastmodified":1466318326,
     "wof:name":"LA Petite Daycare",
     "wof:parent_id":85848823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.841521,31.307835,-85.841521,31.307835],
+  "bbox": [
+    -85.841521,
+    31.307835,
+    -85.841521,
+    31.307835
+],
   "geometry": {"coordinates":[-85.841521,31.307835],"type":"Point"}
 }

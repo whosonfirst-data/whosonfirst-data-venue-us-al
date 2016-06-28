@@ -2,13 +2,14 @@
   "id": 152632691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.004416,34.011052,-86.004416,34.011052",
     "geom:latitude":34.011052,
     "geom:longitude":-86.004416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 S 4th St",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822279,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85822279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152632691,
-    "wof:lastmodified":1449047249,
+    "wof:lastmodified":1466319148,
     "wof:name":"Fourth Street Jewelers Inc",
     "wof:parent_id":85822279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.004416,34.011052,-86.004416,34.011052],
-  "geometry": {"coordinates":[-86.004416,34.011052],"type":"Point"}
+  "bbox": [
+    -86.004416,
+    34.011052,
+    -86.004416,
+    34.011052
+],
+  "geometry": {"coordinates":[-86.00441600000001,34.011052],"type":"Point"}
 }

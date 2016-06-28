@@ -2,13 +2,14 @@
   "id": 152852627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.501302,34.685247,-86.501302,34.685247",
     "geom:latitude":34.685247,
     "geom:longitude":-86.501302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"149 Old Big Cove Rd",
     "sg:city":"Brownsboro",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878245,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152852627,
-    "wof:lastmodified":1449048135,
+    "wof:lastmodified":1466320109,
     "wof:name":"Sew Beautiful",
     "wof:parent_id":85878245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.501302,34.685247,-86.501302,34.685247],
+  "bbox": [
+    -86.501302,
+    34.685247,
+    -86.501302,
+    34.685247
+],
   "geometry": {"coordinates":[-86.501302,34.685247],"type":"Point"}
 }

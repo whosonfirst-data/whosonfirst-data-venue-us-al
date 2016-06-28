@@ -2,13 +2,14 @@
   "id": 152506097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.792478,34.641214,-86.792478,34.641214",
     "geom:latitude":34.641214,
     "geom:longitude":-86.792478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29700 Indian Springs Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -32,10 +33,10 @@
     "sg:website":"www.wildwoodelectronics.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085487,
-        85633793,
         85688675,
-        85851655
+        85633793,
+        85851655,
+        102085487
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152506097,
-    "wof:lastmodified":1449044395,
+    "wof:lastmodified":1466318284,
     "wof:name":"Wildwood Electronics Inc",
     "wof:parent_id":85851655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.792478,34.641214,-86.792478,34.641214],
+  "bbox": [
+    -86.792478,
+    34.641214,
+    -86.792478,
+    34.641214
+],
   "geometry": {"coordinates":[-86.792478,34.641214],"type":"Point"}
 }

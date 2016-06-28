@@ -2,13 +2,14 @@
   "id": 152570671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.776376,30.861718,-87.776376,30.861718",
     "geom:latitude":30.861718,
     "geom:longitude":-87.776376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1507 US Hwy 31",
     "sg:city":"Bay Minette",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813343,
+        85688675,
         85633793,
         85914703,
         102085469,
-        85688675
+        85813343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152570671,
-    "wof:lastmodified":1449047036,
+    "wof:lastmodified":1466318673,
     "wof:name":"Baldwin County Mental Health",
     "wof:parent_id":85813343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.776376,30.861718,-87.776376,30.861718],
+  "bbox": [
+    -87.776376,
+    30.861718,
+    -87.776376,
+    30.861718
+],
   "geometry": {"coordinates":[-87.776376,30.861718],"type":"Point"}
 }

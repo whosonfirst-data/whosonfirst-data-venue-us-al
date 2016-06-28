@@ -2,13 +2,14 @@
   "id": 152348951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.667811,33.39936,-86.667811,33.39936",
     "geom:latitude":33.39936,
     "geom:longitude":-86.667811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"364 Talon Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85833411
+        85633793,
+        85833411,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152348951,
-    "wof:lastmodified":1449044491,
+    "wof:lastmodified":1466317574,
     "wof:name":"Consulting Svcs & Training LLC",
     "wof:parent_id":85833411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.667811,33.39936,-86.667811,33.39936],
+  "bbox": [
+    -86.667811,
+    33.39936,
+    -86.667811,
+    33.39936
+],
   "geometry": {"coordinates":[-86.667811,33.39936],"type":"Point"}
 }

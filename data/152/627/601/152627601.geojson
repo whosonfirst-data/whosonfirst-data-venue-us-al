@@ -2,13 +2,14 @@
   "id": 152627601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.837848,33.645576,-87.837848,33.645576",
     "geom:latitude":33.645576,
     "geom:longitude":-87.837848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3185 State Rte 171",
     "sg:city":"Fayette",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152627601,
-    "wof:lastmodified":1449048993,
+    "wof:lastmodified":1466319034,
     "wof:name":"H & R Block Tax Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.837848,33.645576,-87.837848,33.645576],
-  "geometry": {"coordinates":[-87.837848,33.645576],"type":"Point"}
+  "bbox": [
+    -87.837848,
+    33.645576,
+    -87.837848,
+    33.645576
+],
+  "geometry": {"coordinates":[-87.83784799999999,33.645576],"type":"Point"}
 }

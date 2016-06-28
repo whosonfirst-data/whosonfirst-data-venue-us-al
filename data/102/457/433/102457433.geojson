@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102457433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.764288,30.887455,-87.764288,30.887455",
     "geom:latitude":30.887455,
     "geom:longitude":-87.764288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"706 US Hwy 31",
     "sg:city":"Bay Minette",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813343,
+        85688675,
         85633793,
         85914703,
         102085469,
-        85688675
+        85813343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102457433,
-    "wof:lastmodified":1449069399,
+    "wof:lastmodified":1466314890,
     "wof:name":"Baldwin Motel",
     "wof:parent_id":85813343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.764288,30.887455,-87.764288,30.887455],
-  "geometry": {"coordinates":[-87.764288,30.887455],"type":"Point"}
+  "bbox": [
+    -87.764288,
+    30.887455,
+    -87.764288,
+    30.887455
+],
+  "geometry": {"coordinates":[-87.76428799999999,30.887455],"type":"Point"}
 }

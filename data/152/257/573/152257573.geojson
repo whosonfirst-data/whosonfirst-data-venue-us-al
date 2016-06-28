@@ -2,13 +2,14 @@
   "id": 152257573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.610205,34.835879,-86.610205,34.835879",
     "geom:latitude":34.835879,
     "geom:longitude":-86.610205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"253 Stewart Rd",
     "sg:city":"Toney",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85810031,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85810031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152257573,
-    "wof:lastmodified":1449045668,
+    "wof:lastmodified":1466316741,
     "wof:name":"Jica Inc",
     "wof:parent_id":85810031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.610205,34.835879,-86.610205,34.835879],
-  "geometry": {"coordinates":[-86.610205,34.835879],"type":"Point"}
+  "bbox": [
+    -86.610205,
+    34.835879,
+    -86.610205,
+    34.835879
+],
+  "geometry": {"coordinates":[-86.61020499999999,34.835879],"type":"Point"}
 }

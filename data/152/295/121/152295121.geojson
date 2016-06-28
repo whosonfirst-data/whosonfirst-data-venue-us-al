@@ -2,13 +2,14 @@
   "id": 152295121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.163344,33.98174,-86.163344,33.98174",
     "geom:latitude":33.98174,
     "geom:longitude":-86.163344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5066 US Hwy 11 S",
     "sg:city":"Attalla",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085545,
-        85633793,
         85688675,
-        85851221
+        85633793,
+        85851221,
+        102085545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152295121,
-    "wof:lastmodified":1449046185,
+    "wof:lastmodified":1466317046,
     "wof:name":"C F & G Truck Parts Inc",
     "wof:parent_id":85851221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.163344,33.98174,-86.163344,33.98174],
+  "bbox": [
+    -86.163344,
+    33.98174,
+    -86.163344,
+    33.98174
+],
   "geometry": {"coordinates":[-86.163344,33.98174],"type":"Point"}
 }

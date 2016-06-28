@@ -2,13 +2,14 @@
   "id": 152680205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.676856,34.759627,-87.676856,34.759627",
     "geom:latitude":34.759627,
     "geom:longitude":-87.676856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1419 E 2nd St",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     "sg:website":"www.bigbearaudio.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848135,
+        85688675,
         85633793,
         85897473,
         102085625,
-        85688675
+        85848135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152680205,
-    "wof:lastmodified":1449047536,
+    "wof:lastmodified":1466319329,
     "wof:name":"Big Bear Audio Visual Inc",
     "wof:parent_id":85848135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.676856,34.759627,-87.676856,34.759627],
+  "bbox": [
+    -87.676856,
+    34.759627,
+    -87.676856,
+    34.759627
+],
   "geometry": {"coordinates":[-87.676856,34.759627],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102452911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.20042,30.712581,-88.20042,30.712581",
     "geom:latitude":30.712581,
     "geom:longitude":-88.20042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1109 Greenway Dr E",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878973,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102452911,
-    "wof:lastmodified":1449068368,
+    "wof:lastmodified":1466314824,
     "wof:name":"Stallworths Heating & Coo",
     "wof:parent_id":85878973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.20042,30.712581,-88.20042,30.712581],
-  "geometry": {"coordinates":[-88.20042,30.712581],"type":"Point"}
+  "bbox": [
+    -88.20042,
+    30.712581,
+    -88.20042,
+    30.712581
+],
+  "geometry": {"coordinates":[-88.20041999999999,30.712581],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152242871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.707213,33.516984,-86.707213,33.516984",
     "geom:latitude":33.516984,
     "geom:longitude":-86.707213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4628 Pine Mountain Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850695,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85850695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152242871,
-    "wof:lastmodified":1449048376,
+    "wof:lastmodified":1466316448,
     "wof:name":"Zig Zags",
     "wof:parent_id":85850695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.707213,33.516984,-86.707213,33.516984],
+  "bbox": [
+    -86.707213,
+    33.516984,
+    -86.707213,
+    33.516984
+],
   "geometry": {"coordinates":[-86.707213,33.516984],"type":"Point"}
 }

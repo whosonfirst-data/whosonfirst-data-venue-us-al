@@ -2,13 +2,14 @@
   "id": 152145661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.308715,32.370273,-86.308715,32.370273",
     "geom:latitude":32.370273,
     "geom:longitude":-86.308715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 S Court St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879037,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152145661,
-    "wof:lastmodified":1449045714,
+    "wof:lastmodified":1466315431,
     "wof:name":"Springboard Education Fndtn",
     "wof:parent_id":85879037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.308715,32.370273,-86.308715,32.370273],
-  "geometry": {"coordinates":[-86.308715,32.370273],"type":"Point"}
+  "bbox": [
+    -86.308715,
+    32.370273,
+    -86.308715,
+    32.370273
+],
+  "geometry": {"coordinates":[-86.30871500000001,32.370273],"type":"Point"}
 }

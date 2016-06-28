@@ -2,13 +2,14 @@
   "id": 152776831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.695025,33.609472,-86.695025,33.609472",
     "geom:latitude":33.609472,
     "geom:longitude":-86.695025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"551 Goldenrod Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854035,
+        85688675,
         85633793,
         85914903,
         102085481,
-        85688675
+        85854035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152776831,
-    "wof:lastmodified":1449045310,
+    "wof:lastmodified":1466319811,
     "wof:name":"Creative Collectibles Inc",
     "wof:parent_id":85854035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.695025,33.609472,-86.695025,33.609472],
+  "bbox": [
+    -86.695025,
+    33.609472,
+    -86.695025,
+    33.609472
+],
   "geometry": {"coordinates":[-86.695025,33.609472],"type":"Point"}
 }

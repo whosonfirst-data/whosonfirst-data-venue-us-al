@@ -2,13 +2,14 @@
   "id": 152761411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.974967,33.997505,-85.974967,33.997505",
     "geom:latitude":33.997505,
     "geom:longitude":-85.974967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 Barksdale St",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822279,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85822279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152761411,
-    "wof:lastmodified":1449047816,
+    "wof:lastmodified":1466319634,
     "wof:name":"Our Father's Children Inc",
     "wof:parent_id":85822279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.974967,33.997505,-85.974967,33.997505],
-  "geometry": {"coordinates":[-85.974967,33.997505],"type":"Point"}
+  "bbox": [
+    -85.974967,
+    33.997505,
+    -85.974967,
+    33.997505
+],
+  "geometry": {"coordinates":[-85.97496700000001,33.997505],"type":"Point"}
 }

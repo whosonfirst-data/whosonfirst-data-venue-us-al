@@ -2,13 +2,14 @@
   "id": 102618669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.19759,34.272006,-86.19759,34.272006",
     "geom:latitude":34.272006,
     "geom:longitude":-86.19759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6600 US Hwy 431",
     "sg:city":"Albertville",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102618669,
-    "wof:lastmodified":1449069260,
+    "wof:lastmodified":1466317294,
     "wof:name":"Tyson Foods Inc",
     "wof:parent_id":85913247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.19759,34.272006,-86.19759,34.272006],
-  "geometry": {"coordinates":[-86.19759,34.272006],"type":"Point"}
+  "bbox": [
+    -86.19759,
+    34.272006,
+    -86.19759,
+    34.272006
+],
+  "geometry": {"coordinates":[-86.19759000000001,34.272006],"type":"Point"}
 }

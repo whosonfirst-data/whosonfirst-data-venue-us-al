@@ -2,13 +2,14 @@
   "id": 152148733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.662135,33.585991,-86.662135,33.585991",
     "geom:latitude":33.585991,
     "geom:longitude":-86.662135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"953 Gadsden Hwy",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852855,
+        85688675,
         85633793,
         85913473,
         102085481,
-        85688675
+        85852855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152148733,
-    "wof:lastmodified":1449048193,
+    "wof:lastmodified":1466314465,
     "wof:name":"Howard J Painting LLC",
     "wof:parent_id":85852855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.662135,33.585991,-86.662135,33.585991],
-  "geometry": {"coordinates":[-86.662135,33.585991],"type":"Point"}
+  "bbox": [
+    -86.662135,
+    33.585991,
+    -86.662135,
+    33.585991
+],
+  "geometry": {"coordinates":[-86.66213500000001,33.585991],"type":"Point"}
 }

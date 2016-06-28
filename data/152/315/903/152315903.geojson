@@ -2,13 +2,14 @@
   "id": 152315903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.805528,33.629289,-85.805528,33.629289",
     "geom:latitude":33.629289,
     "geom:longitude":-85.805528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 Greenbrier Dear Rd",
     "sg:city":"Anniston",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.giftgallerystyle.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806515,
+        85688675,
         85633793,
         85914159,
         102085603,
-        85688675
+        85806515
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152315903,
-    "wof:lastmodified":1449048676,
+    "wof:lastmodified":1466317293,
     "wof:name":"Gift Gallery",
     "wof:parent_id":85806515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.805528,33.629289,-85.805528,33.629289],
+  "bbox": [
+    -85.805528,
+    33.629289,
+    -85.805528,
+    33.629289
+],
   "geometry": {"coordinates":[-85.805528,33.629289],"type":"Point"}
 }

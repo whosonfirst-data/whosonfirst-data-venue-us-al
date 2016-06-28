@@ -2,13 +2,14 @@
   "id": 152625223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.75405,33.159538,-86.75405,33.159538",
     "geom:latitude":33.159538,
     "geom:longitude":-86.75405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4204 US Hwy 31",
     "sg:city":"Calera",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152625223,
-    "wof:lastmodified":1449048966,
+    "wof:lastmodified":1466318966,
     "wof:name":"American Concrete Pumping LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.75405,33.159538,-86.75405,33.159538],
-  "geometry": {"coordinates":[-86.75405,33.159538],"type":"Point"}
+  "bbox": [
+    -86.75405,
+    33.159538,
+    -86.75405,
+    33.159538
+],
+  "geometry": {"coordinates":[-86.75405000000001,33.159538],"type":"Point"}
 }

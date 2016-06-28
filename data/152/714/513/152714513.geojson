@@ -2,13 +2,14 @@
   "id": 152714513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.847792,33.273497,-86.847792,33.273497",
     "geom:latitude":33.273497,
     "geom:longitude":-86.847792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2011 Co Rd 58",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845631,
+        85688675,
         85633793,
         85914471,
         102085499,
-        85688675
+        85845631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152714513,
-    "wof:lastmodified":1449046579,
+    "wof:lastmodified":1466319414,
     "wof:name":"Complete Home Painting",
     "wof:parent_id":85845631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.847792,33.273497,-86.847792,33.273497],
+  "bbox": [
+    -86.847792,
+    33.273497,
+    -86.847792,
+    33.273497
+],
   "geometry": {"coordinates":[-86.847792,33.273497],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152121247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.852586,34.499351,-85.852586,34.499351",
     "geom:latitude":34.499351,
     "geom:longitude":-85.852586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"95 Sam Ellis Dr NW",
     "sg:city":"Rainsville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152121247,
-    "wof:lastmodified":1449047907,
+    "wof:lastmodified":1466314549,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.852586,34.499351,-85.852586,34.499351],
+  "bbox": [
+    -85.852586,
+    34.499351,
+    -85.852586,
+    34.499351
+],
   "geometry": {"coordinates":[-85.852586,34.499351],"type":"Point"}
 }

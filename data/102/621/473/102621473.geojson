@@ -2,13 +2,14 @@
   "id": 102621473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.453505,31.237295,-85.453505,31.237295",
     "geom:latitude":31.237295,
     "geom:longitude":-85.453505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"348 Healthwest Dr",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805317,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85805317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":102621473,
-    "wof:lastmodified":1449069894,
+    "wof:lastmodified":1466317465,
     "wof:name":"Altacare Of Dothan",
     "wof:parent_id":85805317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.453505,31.237295,-85.453505,31.237295],
-  "geometry": {"coordinates":[-85.453505,31.237295],"type":"Point"}
+  "bbox": [
+    -85.453505,
+    31.237295,
+    -85.453505,
+    31.237295
+],
+  "geometry": {"coordinates":[-85.45350500000001,31.237295],"type":"Point"}
 }

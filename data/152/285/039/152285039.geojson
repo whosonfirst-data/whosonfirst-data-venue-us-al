@@ -2,13 +2,14 @@
   "id": 152285039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.511074,35.002976,-87.511074,35.002976",
     "geom:latitude":35.002976,
     "geom:longitude":-87.511074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10995 US Hwy 43",
     "sg:city":"Killen",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":152285039,
-    "wof:lastmodified":1449044430,
+    "wof:lastmodified":1466316946,
     "wof:name":"Wjor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.511074,35.002976,-87.511074,35.002976],
-  "geometry": {"coordinates":[-87.511074,35.002976],"type":"Point"}
+  "bbox": [
+    -87.511074,
+    35.002976,
+    -87.511074,
+    35.002976
+],
+  "geometry": {"coordinates":[-87.51107399999999,35.002976],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152229183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.846804,34.238588,-86.846804,34.238588",
     "geom:latitude":34.238588,
     "geom:longitude":-86.846804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2473 Co Rd 1339",
     "sg:city":"Vinemont",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085729,
-        85633793,
         85688675,
-        85867309
+        85633793,
+        85867309,
+        102085729
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152229183,
-    "wof:lastmodified":1449047984,
+    "wof:lastmodified":1466316298,
     "wof:name":"Monks Flooring & Installation",
     "wof:parent_id":85867309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.846804,34.238588,-86.846804,34.238588],
-  "geometry": {"coordinates":[-86.846804,34.238588],"type":"Point"}
+  "bbox": [
+    -86.846804,
+    34.238588,
+    -86.846804,
+    34.238588
+],
+  "geometry": {"coordinates":[-86.84680400000001,34.238588],"type":"Point"}
 }

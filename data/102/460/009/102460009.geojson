@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102460009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.586313,34.726313,-86.586313,34.726313",
     "geom:latitude":34.726313,
     "geom:longitude":-86.586313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 Williams Ave SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878237,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102460009,
-    "wof:lastmodified":1449070060,
+    "wof:lastmodified":1466314895,
     "wof:name":"UPN",
     "wof:parent_id":85878237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.586313,34.726313,-86.586313,34.726313],
+  "bbox": [
+    -86.586313,
+    34.726313,
+    -86.586313,
+    34.726313
+],
   "geometry": {"coordinates":[-86.586313,34.726313],"type":"Point"}
 }

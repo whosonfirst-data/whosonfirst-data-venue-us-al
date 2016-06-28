@@ -2,13 +2,14 @@
   "id": 152282589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.708902,33.421518,-86.708902,33.421518",
     "geom:latitude":33.421518,
     "geom:longitude":-86.708902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 Inverness Pkwy",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85826983
+        85633793,
+        85826983,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152282589,
-    "wof:lastmodified":1449047191,
+    "wof:lastmodified":1466316882,
     "wof:name":"Wrights Jewelers Inc",
     "wof:parent_id":85826983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.708902,33.421518,-86.708902,33.421518],
-  "geometry": {"coordinates":[-86.708902,33.421518],"type":"Point"}
+  "bbox": [
+    -86.708902,
+    33.421518,
+    -86.708902,
+    33.421518
+],
+  "geometry": {"coordinates":[-86.70890199999999,33.421518],"type":"Point"}
 }

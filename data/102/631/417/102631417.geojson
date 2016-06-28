@@ -2,13 +2,14 @@
   "id": 102631417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.109293,30.557725,-88.109293,30.557725",
     "geom:latitude":30.557725,
     "geom:longitude":-88.109293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3045 Belle Bayou Ct",
     "sg:city":"Theodore",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085585,
-        85633793,
         85688675,
-        85878941
+        85633793,
+        85878941,
+        102085585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102631417,
-    "wof:lastmodified":1449068521,
+    "wof:lastmodified":1466317637,
     "wof:name":"About Bay Movers",
     "wof:parent_id":85878941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.109293,30.557725,-88.109293,30.557725],
-  "geometry": {"coordinates":[-88.109293,30.557725],"type":"Point"}
+  "bbox": [
+    -88.109293,
+    30.557725,
+    -88.109293,
+    30.557725
+],
+  "geometry": {"coordinates":[-88.10929299999999,30.557725],"type":"Point"}
 }

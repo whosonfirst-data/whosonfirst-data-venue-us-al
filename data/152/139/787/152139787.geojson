@@ -2,13 +2,14 @@
   "id": 152139787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.209215,31.17946,-85.209215,31.17946",
     "geom:latitude":31.17946,
     "geom:longitude":-85.209215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"833 Pleasant Grove Rd",
     "sg:city":"Ashford",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847911,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85847911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152139787,
-    "wof:lastmodified":1449044741,
+    "wof:lastmodified":1466315378,
     "wof:name":"Dixie Peanut Company Inc",
     "wof:parent_id":85847911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.209215,31.17946,-85.209215,31.17946],
+  "bbox": [
+    -85.209215,
+    31.17946,
+    -85.209215,
+    31.17946
+],
   "geometry": {"coordinates":[-85.209215,31.17946],"type":"Point"}
 }

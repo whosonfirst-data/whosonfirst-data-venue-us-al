@@ -2,13 +2,14 @@
   "id": 152136939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.163571,32.341167,-86.163571,32.341167",
     "geom:latitude":32.341167,
     "geom:longitude":-86.163571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7140 Peppertree Ln",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879051,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152136939,
-    "wof:lastmodified":1449048837,
+    "wof:lastmodified":1466315334,
     "wof:name":"King Auto Wholesalers",
     "wof:parent_id":85879051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.163571,32.341167,-86.163571,32.341167],
+  "bbox": [
+    -86.163571,
+    32.341167,
+    -86.163571,
+    32.341167
+],
   "geometry": {"coordinates":[-86.163571,32.341167],"type":"Point"}
 }

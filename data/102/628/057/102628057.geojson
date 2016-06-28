@@ -2,13 +2,14 @@
   "id": 102628057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.820023,31.728989,-85.820023,31.728989",
     "geom:latitude":31.728989,
     "geom:longitude":-85.820023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"327 Galloway Rd",
     "sg:city":"Brundidge",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102628057,
-    "wof:lastmodified":1449069717,
+    "wof:lastmodified":1466317432,
     "wof:name":"Bell's Liptrot & Dawson",
     "wof:parent_id":85914541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.820023,31.728989,-85.820023,31.728989],
-  "geometry": {"coordinates":[-85.820023,31.728989],"type":"Point"}
+  "bbox": [
+    -85.820023,
+    31.728989,
+    -85.820023,
+    31.728989
+],
+  "geometry": {"coordinates":[-85.82002300000001,31.728989],"type":"Point"}
 }

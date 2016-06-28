@@ -2,13 +2,14 @@
   "id": 152524103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.49982,34.665083,-86.49982,34.665083",
     "geom:latitude":34.665083,
     "geom:longitude":-86.49982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"658 Old Big Cove Rd",
     "sg:city":"Owens Cross Roads",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878245,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152524103,
-    "wof:lastmodified":1449044243,
+    "wof:lastmodified":1466318507,
     "wof:name":"Ogburn Contracting",
     "wof:parent_id":85878245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.49982,34.665083,-86.49982,34.665083],
+  "bbox": [
+    -86.49982,
+    34.665083,
+    -86.49982,
+    34.665083
+],
   "geometry": {"coordinates":[-86.49982,34.665083],"type":"Point"}
 }

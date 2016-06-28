@@ -2,13 +2,14 @@
   "id": 152594137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.286664,32.31351,-86.286664,32.31351",
     "geom:latitude":32.31351,
     "geom:longitude":-86.286664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4735 Queensbury Ct",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842989,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85842989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152594137,
-    "wof:lastmodified":1449044970,
+    "wof:lastmodified":1466318798,
     "wof:name":"Brown Interiors",
     "wof:parent_id":85842989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.286664,32.31351,-86.286664,32.31351],
+  "bbox": [
+    -86.286664,
+    32.31351,
+    -86.286664,
+    32.31351
+],
   "geometry": {"coordinates":[-86.286664,32.31351],"type":"Point"}
 }

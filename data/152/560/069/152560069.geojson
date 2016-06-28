@@ -2,13 +2,14 @@
   "id": 152560069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.219639,33.443036,-86.219639,33.443036",
     "geom:latitude":33.443036,
     "geom:longitude":-86.219639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4475 W Renfroe Rd",
     "sg:city":"Talladega",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085517,
-        85633793,
         85688675,
-        85849013
+        85633793,
+        85849013,
+        102085517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152560069,
-    "wof:lastmodified":1449047825,
+    "wof:lastmodified":1466318617,
     "wof:name":"Renfroe Volunteer Fire Dept",
     "wof:parent_id":85849013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.219639,33.443036,-86.219639,33.443036],
+  "bbox": [
+    -86.219639,
+    33.443036,
+    -86.219639,
+    33.443036
+],
   "geometry": {"coordinates":[-86.219639,33.443036],"type":"Point"}
 }

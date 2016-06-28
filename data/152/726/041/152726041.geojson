@@ -2,13 +2,14 @@
   "id": 152726041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.69985,30.263244,-87.69985,30.263244",
     "geom:latitude":30.263244,
     "geom:longitude":-87.69985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Forestwood Dr",
     "sg:city":"Gulf Shores",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868551,
+        85688675,
         85633793,
         85914719,
         102085469,
-        85688675
+        85868551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152726041,
-    "wof:lastmodified":1449047465,
+    "wof:lastmodified":1466319445,
     "wof:name":"Right Tackle",
     "wof:parent_id":85868551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.69985,30.263244,-87.69985,30.263244],
+  "bbox": [
+    -87.69985,
+    30.263244,
+    -87.69985,
+    30.263244
+],
   "geometry": {"coordinates":[-87.69985,30.263244],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152471859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.780704,33.495655,-86.780704,33.495655",
     "geom:latitude":33.495655,
     "geom:longitude":-86.780704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Olde English Ln",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876275,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152471859,
-    "wof:lastmodified":1449046162,
+    "wof:lastmodified":1466318192,
     "wof:name":"Nutrition Market",
     "wof:parent_id":85876275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.780704,33.495655,-86.780704,33.495655],
+  "bbox": [
+    -86.780704,
+    33.495655,
+    -86.780704,
+    33.495655
+],
   "geometry": {"coordinates":[-86.780704,33.495655],"type":"Point"}
 }

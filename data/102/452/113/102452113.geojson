@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102452113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.520431,32.581522,-85.520431,32.581522",
     "geom:latitude":32.581522,
     "geom:longitude":-85.520431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2050 Co Rd 137",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851115,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85851115
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102452113,
-    "wof:lastmodified":1449068368,
+    "wof:lastmodified":1466314662,
     "wof:name":"Silhouette Village",
     "wof:parent_id":85851115,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.520431,32.581522,-85.520431,32.581522],
+  "bbox": [
+    -85.520431,
+    32.581522,
+    -85.520431,
+    32.581522
+],
   "geometry": {"coordinates":[-85.520431,32.581522],"type":"Point"}
 }

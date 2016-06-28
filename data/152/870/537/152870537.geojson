@@ -2,13 +2,14 @@
   "id": 152870537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.657353,33.424475,-86.657353,33.424475",
     "geom:latitude":33.424475,
     "geom:longitude":-86.657353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2016 Shandwick Ter",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85833411
+        85633793,
+        85833411,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152870537,
-    "wof:lastmodified":1449045510,
+    "wof:lastmodified":1466320169,
     "wof:name":"Ebj Management Inc",
     "wof:parent_id":85833411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.657353,33.424475,-86.657353,33.424475],
+  "bbox": [
+    -86.657353,
+    33.424475,
+    -86.657353,
+    33.424475
+],
   "geometry": {"coordinates":[-86.657353,33.424475],"type":"Point"}
 }

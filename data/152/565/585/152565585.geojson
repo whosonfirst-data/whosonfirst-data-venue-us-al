@@ -2,13 +2,14 @@
   "id": 152565585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.625541,33.333677,-86.625541,33.333677",
     "geom:latitude":33.333677,
     "geom:longitude":-86.625541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10724 Chelsea Rd",
     "sg:city":"Chelsea",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85833411
+        85633793,
+        85833411,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152565585,
-    "wof:lastmodified":1449048513,
+    "wof:lastmodified":1466318669,
     "wof:name":"Chelsea Church Of Christ",
     "wof:parent_id":85833411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.625541,33.333677,-86.625541,33.333677],
+  "bbox": [
+    -86.625541,
+    33.333677,
+    -86.625541,
+    33.333677
+],
   "geometry": {"coordinates":[-86.625541,33.333677],"type":"Point"}
 }

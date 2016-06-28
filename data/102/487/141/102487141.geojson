@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102487141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.76531,33.825943,-85.76531,33.825943",
     "geom:latitude":33.825943,
     "geom:longitude":-85.76531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Nisbet St NW",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.labtech.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805945,
+        85688675,
         85633793,
         85914293,
         102085603,
-        85688675
+        85805945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102487141,
-    "wof:lastmodified":1449068583,
+    "wof:lastmodified":1466315756,
     "wof:name":"Labtech",
     "wof:parent_id":85805945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.76531,33.825943,-85.76531,33.825943],
+  "bbox": [
+    -85.76531,
+    33.825943,
+    -85.76531,
+    33.825943
+],
   "geometry": {"coordinates":[-85.76531,33.825943],"type":"Point"}
 }

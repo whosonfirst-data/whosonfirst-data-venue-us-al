@@ -2,13 +2,14 @@
   "id": 152742455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.705405,34.418296,-85.705405,34.418296",
     "geom:latitude":34.418296,
     "geom:longitude":-85.705405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1305 Adamsburg Rd E",
     "sg:city":"Fort Payne",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834595,
+        85688675,
         85633793,
         85897515,
         102085615,
-        85688675
+        85834595
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152742455,
-    "wof:lastmodified":1449044607,
+    "wof:lastmodified":1466319558,
     "wof:name":"Delmar Baptist Church",
     "wof:parent_id":85834595,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.705405,34.418296,-85.705405,34.418296],
+  "bbox": [
+    -85.705405,
+    34.418296,
+    -85.705405,
+    34.418296
+],
   "geometry": {"coordinates":[-85.705405,34.418296],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102490237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.788862,33.348645,-86.788862,33.348645",
     "geom:latitude":33.348645,
     "geom:longitude":-86.788862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2041 Valleydale Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802401,
+        85688675,
         85633793,
         85914475,
         102085499,
-        85688675
+        85802401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102490237,
-    "wof:lastmodified":1449069944,
+    "wof:lastmodified":1466316150,
     "wof:name":"Michael J Meon DMD PA",
     "wof:parent_id":85802401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.788862,33.348645,-86.788862,33.348645],
-  "geometry": {"coordinates":[-86.788862,33.348645],"type":"Point"}
+  "bbox": [
+    -86.788862,
+    33.348645,
+    -86.788862,
+    33.348645
+],
+  "geometry": {"coordinates":[-86.78886199999999,33.348645],"type":"Point"}
 }

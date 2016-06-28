@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102443081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.800333,33.536087,-86.800333,33.536087",
     "geom:latitude":33.536087,
     "geom:longitude":-86.800333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1321 31st St N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85838531,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85838531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102443081,
-    "wof:lastmodified":1449069723,
+    "wof:lastmodified":1466314324,
     "wof:name":"Ground Breakers Inc",
     "wof:parent_id":85838531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.800333,33.536087,-86.800333,33.536087],
-  "geometry": {"coordinates":[-86.800333,33.536087],"type":"Point"}
+  "bbox": [
+    -86.800333,
+    33.536087,
+    -86.800333,
+    33.536087
+],
+  "geometry": {"coordinates":[-86.80033299999999,33.536087],"type":"Point"}
 }

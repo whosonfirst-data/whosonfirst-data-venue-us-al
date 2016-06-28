@@ -2,13 +2,14 @@
   "id": 152590587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.522725,33.150764,-87.522725,33.150764",
     "geom:latitude":33.150764,
     "geom:longitude":-87.522725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6001 12th Ave E",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085553,
-        85633793,
         85688675,
-        85827473
+        85633793,
+        85827473,
+        102085553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152590587,
-    "wof:lastmodified":1449047047,
+    "wof:lastmodified":1466318802,
     "wof:name":"Juvenal Court & Probation Ctr",
     "wof:parent_id":85827473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.522725,33.150764,-87.522725,33.150764],
-  "geometry": {"coordinates":[-87.522725,33.150764],"type":"Point"}
+  "bbox": [
+    -87.522725,
+    33.150764,
+    -87.522725,
+    33.150764
+],
+  "geometry": {"coordinates":[-87.52272499999999,33.150764],"type":"Point"}
 }

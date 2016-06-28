@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102466441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.980297,34.595214,-86.980297,34.595214",
     "geom:latitude":34.595214,
     "geom:longitude":-86.980297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 6th Ave SE",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085531,
-        85633793,
         85688675,
-        85802585
+        85633793,
+        85802585,
+        102085531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102466441,
-    "wof:lastmodified":1449068497,
+    "wof:lastmodified":1466315167,
     "wof:name":"A J Assoc Inc",
     "wof:parent_id":85802585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.980297,34.595214,-86.980297,34.595214],
-  "geometry": {"coordinates":[-86.980297,34.595214],"type":"Point"}
+  "bbox": [
+    -86.980297,
+    34.595214,
+    -86.980297,
+    34.595214
+],
+  "geometry": {"coordinates":[-86.98029699999999,34.595214],"type":"Point"}
 }

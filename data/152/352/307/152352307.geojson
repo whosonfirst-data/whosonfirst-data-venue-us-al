@@ -2,13 +2,14 @@
   "id": 152352307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.63103,34.756049,-86.63103,34.756049",
     "geom:latitude":34.756049,
     "geom:longitude":-86.63103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4117 Darby Ct NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807105,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85807105
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152352307,
-    "wof:lastmodified":1449047139,
+    "wof:lastmodified":1466317596,
     "wof:name":"Nestled Amongst Inc",
     "wof:parent_id":85807105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.63103,34.756049,-86.63103,34.756049],
+  "bbox": [
+    -86.63103,
+    34.756049,
+    -86.63103,
+    34.756049
+],
   "geometry": {"coordinates":[-86.63103,34.756049],"type":"Point"}
 }

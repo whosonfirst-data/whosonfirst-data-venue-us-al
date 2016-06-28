@@ -2,13 +2,14 @@
   "id": 152581723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.325052,32.365943,-86.325052,32.365943",
     "geom:latitude":32.365943,
     "geom:longitude":-86.325052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1015 W Jeff Davis Ave",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856867,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85856867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152581723,
-    "wof:lastmodified":1449045279,
+    "wof:lastmodified":1466318753,
     "wof:name":"Eddie & Lillie's Place",
     "wof:parent_id":85856867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.325052,32.365943,-86.325052,32.365943],
+  "bbox": [
+    -86.325052,
+    32.365943,
+    -86.325052,
+    32.365943
+],
   "geometry": {"coordinates":[-86.325052,32.365943],"type":"Point"}
 }

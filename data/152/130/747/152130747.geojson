@@ -2,13 +2,14 @@
   "id": 152130747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.77321,33.541815,-86.77321,33.541815",
     "geom:latitude":33.541815,
     "geom:longitude":-86.77321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4306 11th Ave N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815977,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85815977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152130747,
-    "wof:lastmodified":1449045895,
+    "wof:lastmodified":1466315040,
     "wof:name":"Early Swanson Good Hope Baptis",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.77321,33.541815,-86.77321,33.541815],
-  "geometry": {"coordinates":[-86.77321,33.541815],"type":"Point"}
+  "bbox": [
+    -86.77321,
+    33.541815,
+    -86.77321,
+    33.541815
+],
+  "geometry": {"coordinates":[-86.77321000000001,33.541815],"type":"Point"}
 }

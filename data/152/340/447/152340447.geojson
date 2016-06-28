@@ -2,13 +2,14 @@
   "id": 152340447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.79638,33.500606,-86.79638,33.500606",
     "geom:latitude":33.500606,
     "geom:longitude":-86.79638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1128 20th St S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876277,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152340447,
-    "wof:lastmodified":1449047864,
+    "wof:lastmodified":1466317528,
     "wof:name":"Daves Pub Inc",
     "wof:parent_id":85876277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.79638,33.500606,-86.79638,33.500606],
+  "bbox": [
+    -86.79638,
+    33.500606,
+    -86.79638,
+    33.500606
+],
   "geometry": {"coordinates":[-86.79638,33.500606],"type":"Point"}
 }

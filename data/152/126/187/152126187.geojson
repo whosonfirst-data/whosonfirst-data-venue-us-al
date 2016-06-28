@@ -2,13 +2,14 @@
   "id": 152126187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.303796,34.345976,-86.303796,34.345976",
     "geom:latitude":34.345976,
     "geom:longitude":-86.303796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1428 Gunter Ave",
     "sg:city":"Guntersville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850331,
+        85688675,
         85633793,
         85899833,
         102085513,
-        85688675
+        85850331
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152126187,
-    "wof:lastmodified":1449046010,
+    "wof:lastmodified":1466314754,
     "wof:name":"Jane KOHL School Of Dance",
     "wof:parent_id":85850331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.303796,34.345976,-86.303796,34.345976],
-  "geometry": {"coordinates":[-86.303796,34.345976],"type":"Point"}
+  "bbox": [
+    -86.303796,
+    34.345976,
+    -86.303796,
+    34.345976
+],
+  "geometry": {"coordinates":[-86.30379600000001,34.345976],"type":"Point"}
 }

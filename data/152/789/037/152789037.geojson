@@ -2,13 +2,14 @@
   "id": 152789037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.282203,32.359524,-86.282203,32.359524",
     "geom:latitude":32.359524,
     "geom:longitude":-86.282203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2046 Clubview St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825725,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85825725
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":152789037,
-    "wof:lastmodified":1449046397,
+    "wof:lastmodified":1466319831,
     "wof:name":"Professional Personnel Cnslnt",
     "wof:parent_id":85825725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.282203,32.359524,-86.282203,32.359524],
+  "bbox": [
+    -86.282203,
+    32.359524,
+    -86.282203,
+    32.359524
+],
   "geometry": {"coordinates":[-86.282203,32.359524],"type":"Point"}
 }

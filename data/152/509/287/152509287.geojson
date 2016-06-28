@@ -2,13 +2,14 @@
   "id": 152509287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.64624,33.399262,-86.64624,33.399262",
     "geom:latitude":33.399262,
     "geom:longitude":-86.64624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3108 Highland Lakes Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     "sg:website":"www.beyondfour.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85833411
+        85633793,
+        85833411,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152509287,
-    "wof:lastmodified":1449044481,
+    "wof:lastmodified":1466318362,
     "wof:name":"Beyond Four",
     "wof:parent_id":85833411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.64624,33.399262,-86.64624,33.399262],
-  "geometry": {"coordinates":[-86.64624,33.399262],"type":"Point"}
+  "bbox": [
+    -86.64624,
+    33.399262,
+    -86.64624,
+    33.399262
+],
+  "geometry": {"coordinates":[-86.64624000000001,33.399262],"type":"Point"}
 }

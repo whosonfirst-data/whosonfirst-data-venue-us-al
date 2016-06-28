@@ -2,13 +2,14 @@
   "id": 152273777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.641794,34.812437,-87.641794,34.812437",
     "geom:latitude":34.812437,
     "geom:longitude":-87.641794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 S Conner St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829413,
+        85688675,
         85633793,
         85914011,
         102085527,
-        85688675
+        85829413
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152273777,
-    "wof:lastmodified":1449046700,
+    "wof:lastmodified":1466316828,
     "wof:name":"Dwight Meares Roofing",
     "wof:parent_id":85829413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.641794,34.812437,-87.641794,34.812437],
+  "bbox": [
+    -87.641794,
+    34.812437,
+    -87.641794,
+    34.812437
+],
   "geometry": {"coordinates":[-87.641794,34.812437],"type":"Point"}
 }

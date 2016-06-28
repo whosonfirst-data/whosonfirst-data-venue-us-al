@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102501003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.215667,32.342024,-86.215667,32.342024",
     "geom:latitude":32.342024,
     "geom:longitude":-86.215667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5350 Vaughn Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.knights.pvt.k12.al.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821317,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85821317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102501003,
-    "wof:lastmodified":1449070238,
+    "wof:lastmodified":1466316744,
     "wof:name":"Catholic High School",
     "wof:parent_id":85821317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.215667,32.342024,-86.215667,32.342024],
+  "bbox": [
+    -86.215667,
+    32.342024,
+    -86.215667,
+    32.342024
+],
   "geometry": {"coordinates":[-86.215667,32.342024],"type":"Point"}
 }

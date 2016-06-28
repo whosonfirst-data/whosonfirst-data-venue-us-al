@@ -2,13 +2,14 @@
   "id": 152124329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.461858,33.187166,-87.461858,33.187166",
     "geom:latitude":33.187166,
     "geom:longitude":-87.461858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5540 Skyland Blvd E",
     "sg:city":"Cottondale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851363,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85851363
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152124329,
-    "wof:lastmodified":1449048561,
+    "wof:lastmodified":1466314696,
     "wof:name":"Mc Leod Truck Parts Inc",
     "wof:parent_id":85851363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.461858,33.187166,-87.461858,33.187166],
-  "geometry": {"coordinates":[-87.461858,33.187166],"type":"Point"}
+  "bbox": [
+    -87.461858,
+    33.187166,
+    -87.461858,
+    33.187166
+],
+  "geometry": {"coordinates":[-87.46185800000001,33.187166],"type":"Point"}
 }

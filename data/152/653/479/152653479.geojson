@@ -2,13 +2,14 @@
   "id": 152653479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.138289,34.053861,-88.138289,34.053861",
     "geom:latitude":34.053861,
     "geom:longitude":-88.138289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"67859 State Rte 17",
     "sg:city":"Detroit",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":152653479,
-    "wof:lastmodified":1449044635,
+    "wof:lastmodified":1466319113,
     "wof:name":"Shell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.138289,34.053861,-88.138289,34.053861],
+  "bbox": [
+    -88.138289,
+    34.053861,
+    -88.138289,
+    34.053861
+],
   "geometry": {"coordinates":[-88.138289,34.053861],"type":"Point"}
 }

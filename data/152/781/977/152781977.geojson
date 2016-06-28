@@ -2,13 +2,14 @@
   "id": 152781977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.754187,33.380288,-86.754187,33.380288",
     "geom:latitude":33.380288,
     "geom:longitude":-86.754187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2514 Comainche Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85826093
+        85633793,
+        85826093,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152781977,
-    "wof:lastmodified":1449045172,
+    "wof:lastmodified":1466319828,
     "wof:name":"Three Sigma Inc",
     "wof:parent_id":85826093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.754187,33.380288,-86.754187,33.380288],
+  "bbox": [
+    -86.754187,
+    33.380288,
+    -86.754187,
+    33.380288
+],
   "geometry": {"coordinates":[-86.754187,33.380288],"type":"Point"}
 }

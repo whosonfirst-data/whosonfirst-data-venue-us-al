@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102459507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.775438,33.81858,-85.775438,33.81858",
     "geom:latitude":33.81858,
     "geom:longitude":-85.775438,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"703 Mountain St NW",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805945,
+        85688675,
         85633793,
         85914293,
         102085603,
-        85688675
+        85805945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102459507,
-    "wof:lastmodified":1449068749,
+    "wof:lastmodified":1466314979,
     "wof:name":"Lock Shop",
     "wof:parent_id":85805945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.775438,33.81858,-85.775438,33.81858],
-  "geometry": {"coordinates":[-85.775438,33.81858],"type":"Point"}
+  "bbox": [
+    -85.775438,
+    33.81858,
+    -85.775438,
+    33.81858
+],
+  "geometry": {"coordinates":[-85.77543799999999,33.81858],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152562697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.254379,34.394975,-86.254379,34.394975",
     "geom:latitude":34.394975,
     "geom:longitude":-86.254379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Gunters Landing Rd",
     "sg:city":"Guntersville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850331,
+        85688675,
         85633793,
         85899833,
         102085513,
-        85688675
+        85850331
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152562697,
-    "wof:lastmodified":1449046755,
+    "wof:lastmodified":1466318729,
     "wof:name":"Gunter's Landing",
     "wof:parent_id":85850331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.254379,34.394975,-86.254379,34.394975],
+  "bbox": [
+    -86.254379,
+    34.394975,
+    -86.254379,
+    34.394975
+],
   "geometry": {"coordinates":[-86.254379,34.394975],"type":"Point"}
 }

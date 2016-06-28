@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102494561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.845503,34.175412,-86.845503,34.175412",
     "geom:latitude":34.175412,
     "geom:longitude":-86.845503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 3rd Ave SW",
     "sg:city":"Cullman",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867305,
+        85688675,
         85633793,
         85914167,
         102085729,
-        85688675
+        85867305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102494561,
-    "wof:lastmodified":1449069925,
+    "wof:lastmodified":1466316325,
     "wof:name":"Henderson Transfer & Storage",
     "wof:parent_id":85867305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.845503,34.175412,-86.845503,34.175412],
-  "geometry": {"coordinates":[-86.845503,34.175412],"type":"Point"}
+  "bbox": [
+    -86.845503,
+    34.175412,
+    -86.845503,
+    34.175412
+],
+  "geometry": {"coordinates":[-86.84550299999999,34.175412],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152270013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.583033,33.706319,-86.583033,33.706319",
     "geom:latitude":33.706319,
     "geom:longitude":-86.583033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7162 Goodner Mountain Rd",
     "sg:city":"Pinson",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85804121,
+        85688675,
         85633793,
         85914899,
         102085481,
-        85688675
+        85804121
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152270013,
-    "wof:lastmodified":1449045129,
+    "wof:lastmodified":1466316789,
     "wof:name":"Harolds Tree Service",
     "wof:parent_id":85804121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.583033,33.706319,-86.583033,33.706319],
+  "bbox": [
+    -86.583033,
+    33.706319,
+    -86.583033,
+    33.706319
+],
   "geometry": {"coordinates":[-86.583033,33.706319],"type":"Point"}
 }

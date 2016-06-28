@@ -2,13 +2,14 @@
   "id": 152692945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.837284,33.609765,-85.837284,33.609765",
     "geom:latitude":33.609765,
     "geom:longitude":-85.837284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 Barry St",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827499,
+        85688675,
         85633793,
         85914159,
         102085603,
-        85688675
+        85827499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152692945,
-    "wof:lastmodified":1449045521,
+    "wof:lastmodified":1466319369,
     "wof:name":"Somerset Place",
     "wof:parent_id":85827499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.837284,33.609765,-85.837284,33.609765],
+  "bbox": [
+    -85.837284,
+    33.609765,
+    -85.837284,
+    33.609765
+],
   "geometry": {"coordinates":[-85.837284,33.609765],"type":"Point"}
 }

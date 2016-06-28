@@ -2,13 +2,14 @@
   "id": 152904751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.701587,33.402566,-86.701587,33.402566",
     "geom:latitude":33.402566,
     "geom:longitude":-86.701587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3065 Brookhill Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85826983
+        85633793,
+        85826983,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152904751,
-    "wof:lastmodified":1449048996,
+    "wof:lastmodified":1466320406,
     "wof:name":"Computer Works Inc",
     "wof:parent_id":85826983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.701587,33.402566,-86.701587,33.402566],
+  "bbox": [
+    -86.701587,
+    33.402566,
+    -86.701587,
+    33.402566
+],
   "geometry": {"coordinates":[-86.701587,33.402566],"type":"Point"}
 }

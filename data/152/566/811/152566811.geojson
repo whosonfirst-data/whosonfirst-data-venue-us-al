@@ -2,13 +2,14 @@
   "id": 152566811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.381414,34.487827,-86.381414,34.487827",
     "geom:latitude":34.487827,
     "geom:longitude":-86.381414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"90 Hebron School Rd",
     "sg:city":"Grant",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":152566811,
-    "wof:lastmodified":1449044392,
+    "wof:lastmodified":1466318677,
     "wof:name":"Hebron Volunteer Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.381414,34.487827,-86.381414,34.487827],
-  "geometry": {"coordinates":[-86.381414,34.487827],"type":"Point"}
+  "bbox": [
+    -86.381414,
+    34.487827,
+    -86.381414,
+    34.487827
+],
+  "geometry": {"coordinates":[-86.38141400000001,34.487827],"type":"Point"}
 }

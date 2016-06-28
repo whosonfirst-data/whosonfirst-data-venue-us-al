@@ -2,13 +2,14 @@
   "id": 152159653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.608464,33.354533,-87.608464,33.354533",
     "geom:latitude":33.354533,
     "geom:longitude":-87.608464,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15183 Marina Dr",
     "sg:city":"Northport",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":152159653,
-    "wof:lastmodified":1449044858,
+    "wof:lastmodified":1466315082,
     "wof:name":"Bob's Campground & Marina",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.608464,33.354533,-87.608464,33.354533],
+  "bbox": [
+    -87.608464,
+    33.354533,
+    -87.608464,
+    33.354533
+],
   "geometry": {"coordinates":[-87.608464,33.354533],"type":"Point"}
 }

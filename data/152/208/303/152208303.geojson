@@ -2,13 +2,14 @@
   "id": 152208303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.10373,34.014018,-86.10373,34.014018",
     "geom:latitude":34.014018,
     "geom:longitude":-86.10373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 9th Ave SW",
     "sg:city":"Attalla",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085545,
-        85633793,
         85688675,
-        85851221
+        85633793,
+        85851221,
+        102085545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152208303,
-    "wof:lastmodified":1449044843,
+    "wof:lastmodified":1466316010,
     "wof:name":"Stowers Hill Baptist Church",
     "wof:parent_id":85851221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.10373,34.014018,-86.10373,34.014018],
+  "bbox": [
+    -86.10373,
+    34.014018,
+    -86.10373,
+    34.014018
+],
   "geometry": {"coordinates":[-86.10373,34.014018],"type":"Point"}
 }

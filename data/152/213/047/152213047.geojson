@@ -2,13 +2,14 @@
   "id": 152213047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.350475,31.223435,-85.350475,31.223435",
     "geom:latitude":31.223435,
     "geom:longitude":-85.350475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Eastland Rd",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847911,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85847911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152213047,
-    "wof:lastmodified":1449044350,
+    "wof:lastmodified":1466316050,
     "wof:name":"Gets Welding Supplies",
     "wof:parent_id":85847911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.350475,31.223435,-85.350475,31.223435],
+  "bbox": [
+    -85.350475,
+    31.223435,
+    -85.350475,
+    31.223435
+],
   "geometry": {"coordinates":[-85.350475,31.223435],"type":"Point"}
 }

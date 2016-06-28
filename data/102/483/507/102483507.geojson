@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102483507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.627542,34.739432,-86.627542,34.739432",
     "geom:latitude":34.739432,
     "geom:longitude":-86.627542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1222 Jordan Ln NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85846449,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85846449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102483507,
-    "wof:lastmodified":1449069668,
+    "wof:lastmodified":1466315596,
     "wof:name":"Crown Furniture Gallery",
     "wof:parent_id":85846449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.627542,34.739432,-86.627542,34.739432],
-  "geometry": {"coordinates":[-86.627542,34.739432],"type":"Point"}
+  "bbox": [
+    -86.627542,
+    34.739432,
+    -86.627542,
+    34.739432
+],
+  "geometry": {"coordinates":[-86.62754200000001,34.739432],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152890421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.14597,31.965906,-88.14597,31.965906",
     "geom:latitude":31.965906,
     "geom:longitude":-88.14597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13763 Ararat Rd",
     "sg:city":"Toxey",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822759,
+        85688675,
         85633793,
         85899781,
         102085727,
-        85688675
+        85822759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152890421,
-    "wof:lastmodified":1449045315,
+    "wof:lastmodified":1466320392,
     "wof:name":"Flint Building & Construction",
     "wof:parent_id":85822759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.14597,31.965906,-88.14597,31.965906],
-  "geometry": {"coordinates":[-88.14597,31.965906],"type":"Point"}
+  "bbox": [
+    -88.14597,
+    31.965906,
+    -88.14597,
+    31.965906
+],
+  "geometry": {"coordinates":[-88.14597000000001,31.965906],"type":"Point"}
 }

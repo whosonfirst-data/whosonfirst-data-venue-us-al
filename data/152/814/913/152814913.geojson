@@ -2,13 +2,14 @@
   "id": 152814913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.749161,33.403564,-86.749161,33.403564",
     "geom:latitude":33.403564,
     "geom:longitude":-86.749161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2356 Altadena Crest Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85826093
+        85633793,
+        85826093,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152814913,
-    "wof:lastmodified":1449045153,
+    "wof:lastmodified":1466319942,
     "wof:name":"Glenn Farms",
     "wof:parent_id":85826093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.749161,33.403564,-86.749161,33.403564],
+  "bbox": [
+    -86.749161,
+    33.403564,
+    -86.749161,
+    33.403564
+],
   "geometry": {"coordinates":[-86.749161,33.403564],"type":"Point"}
 }

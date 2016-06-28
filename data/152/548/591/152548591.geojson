@@ -2,13 +2,14 @@
   "id": 152548591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.795468,33.336117,-86.795468,33.336117",
     "geom:latitude":33.336117,
     "geom:longitude":-86.795468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Hilltop Business Center Dr",
     "sg:city":"Pelham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85826867,
+        85688675,
         85633793,
         85914501,
         102085499,
-        85688675
+        85826867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152548591,
-    "wof:lastmodified":1449047496,
+    "wof:lastmodified":1466318598,
     "wof:name":"Neil Bailey Insurance",
     "wof:parent_id":85826867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.795468,33.336117,-86.795468,33.336117],
+  "bbox": [
+    -86.795468,
+    33.336117,
+    -86.795468,
+    33.336117
+],
   "geometry": {"coordinates":[-86.795468,33.336117],"type":"Point"}
 }

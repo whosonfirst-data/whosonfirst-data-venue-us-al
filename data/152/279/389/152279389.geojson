@@ -2,13 +2,14 @@
   "id": 152279389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.557574,33.147551,-87.557574,33.147551",
     "geom:latitude":33.147551,
     "geom:longitude":-87.557574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 Ozier Dr",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085553,
-        85633793,
         85688675,
-        85851887
+        85633793,
+        85851887,
+        102085553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152279389,
-    "wof:lastmodified":1449046433,
+    "wof:lastmodified":1466316835,
     "wof:name":"All American Carpet Cleaning",
     "wof:parent_id":85851887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.557574,33.147551,-87.557574,33.147551],
+  "bbox": [
+    -87.557574,
+    33.147551,
+    -87.557574,
+    33.147551
+],
   "geometry": {"coordinates":[-87.557574,33.147551],"type":"Point"}
 }

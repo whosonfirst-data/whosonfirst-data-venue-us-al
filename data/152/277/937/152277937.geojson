@@ -2,13 +2,14 @@
   "id": 152277937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.778338,34.117846,-86.778338,34.117846",
     "geom:latitude":34.117846,
     "geom:longitude":-86.778338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2282 Co Rd 601",
     "sg:city":"Hanceville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867305,
+        85688675,
         85633793,
         85914167,
         102085729,
-        85688675
+        85867305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152277937,
-    "wof:lastmodified":1449044829,
+    "wof:lastmodified":1466316865,
     "wof:name":"T P S Septic Tank & Plbg Svcs",
     "wof:parent_id":85867305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.778338,34.117846,-86.778338,34.117846],
-  "geometry": {"coordinates":[-86.778338,34.117846],"type":"Point"}
+  "bbox": [
+    -86.778338,
+    34.117846,
+    -86.778338,
+    34.117846
+],
+  "geometry": {"coordinates":[-86.77833800000001,34.117846],"type":"Point"}
 }

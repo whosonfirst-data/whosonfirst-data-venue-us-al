@@ -2,13 +2,14 @@
   "id": 152129893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.479984,32.609466,-85.479984,32.609466",
     "geom:latitude":32.609466,
     "geom:longitude":-85.479984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 N Gay St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809707,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85809707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152129893,
-    "wof:lastmodified":1449048032,
+    "wof:lastmodified":1466314940,
     "wof:name":"Stephen D Benson",
     "wof:parent_id":85809707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.479984,32.609466,-85.479984,32.609466],
+  "bbox": [
+    -85.479984,
+    32.609466,
+    -85.479984,
+    32.609466
+],
   "geometry": {"coordinates":[-85.479984,32.609466],"type":"Point"}
 }

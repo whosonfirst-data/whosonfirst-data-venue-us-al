@@ -2,13 +2,14 @@
   "id": 152220857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.400646,34.429657,-86.400646,34.429657",
     "geom:latitude":34.429657,
     "geom:longitude":-86.400646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 Painted Bluff Rd",
     "sg:city":"Grant",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085513,
-        85633793,
         85688675,
-        85849079
+        85633793,
+        85849079,
+        102085513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152220857,
-    "wof:lastmodified":1449048752,
+    "wof:lastmodified":1466316105,
     "wof:name":"Gw Jones & Sons Farms",
     "wof:parent_id":85849079,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.400646,34.429657,-86.400646,34.429657],
-  "geometry": {"coordinates":[-86.400646,34.429657],"type":"Point"}
+  "bbox": [
+    -86.400646,
+    34.429657,
+    -86.400646,
+    34.429657
+],
+  "geometry": {"coordinates":[-86.40064599999999,34.429657],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102467319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.018834,34.578635,-87.018834,34.578635",
     "geom:latitude":34.578635,
     "geom:longitude":-87.018834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2046 Beltline Rd SW",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848819,
+        85688675,
         85633793,
         85913589,
         102085531,
-        85688675
+        85848819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102467319,
-    "wof:lastmodified":1449069662,
+    "wof:lastmodified":1466315149,
     "wof:name":"WQLT",
     "wof:parent_id":85848819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.018834,34.578635,-87.018834,34.578635],
+  "bbox": [
+    -87.018834,
+    34.578635,
+    -87.018834,
+    34.578635
+],
   "geometry": {"coordinates":[-87.018834,34.578635],"type":"Point"}
 }

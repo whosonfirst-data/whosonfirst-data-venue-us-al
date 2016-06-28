@@ -2,13 +2,14 @@
   "id": 152867063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.752986,33.102951,-86.752986,33.102951",
     "geom:latitude":33.102951,
     "geom:longitude":-86.752986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8259 US Hwy 31",
     "sg:city":"Calera",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85849529
+        85633793,
+        85849529,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152867063,
-    "wof:lastmodified":1449046307,
+    "wof:lastmodified":1466320377,
     "wof:name":"Sister's II Beauty Salon",
     "wof:parent_id":85849529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.752986,33.102951,-86.752986,33.102951],
-  "geometry": {"coordinates":[-86.752986,33.102951],"type":"Point"}
+  "bbox": [
+    -86.752986,
+    33.102951,
+    -86.752986,
+    33.102951
+],
+  "geometry": {"coordinates":[-86.75298600000001,33.102951],"type":"Point"}
 }

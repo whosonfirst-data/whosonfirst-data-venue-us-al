@@ -2,13 +2,14 @@
   "id": 152617117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.664341,34.744839,-87.664341,34.744839",
     "geom:latitude":34.744839,
     "geom:longitude":-87.664341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"807 Avalon Ave",
     "sg:city":"Muscle Shoals",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816399,
+        85688675,
         85633793,
         85897481,
         102085625,
-        85688675
+        85816399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152617117,
-    "wof:lastmodified":1449044452,
+    "wof:lastmodified":1466319023,
     "wof:name":"School Days School Supplies",
     "wof:parent_id":85816399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.664341,34.744839,-87.664341,34.744839],
-  "geometry": {"coordinates":[-87.664341,34.744839],"type":"Point"}
+  "bbox": [
+    -87.664341,
+    34.744839,
+    -87.664341,
+    34.744839
+],
+  "geometry": {"coordinates":[-87.66434099999999,34.744839],"type":"Point"}
 }

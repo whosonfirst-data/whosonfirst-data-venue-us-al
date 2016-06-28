@@ -2,13 +2,14 @@
   "id": 152688485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.853835,30.479854,-87.853835,30.479854",
     "geom:latitude":30.479854,
     "geom:longitude":-87.853835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9903 New Ground Rd",
     "sg:city":"Fairhope",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854025,
+        85688675,
         85633793,
         85914707,
         102085469,
-        85688675
+        85854025
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152688485,
-    "wof:lastmodified":1449046033,
+    "wof:lastmodified":1466319346,
     "wof:name":"Bob Lynn Pool Svc",
     "wof:parent_id":85854025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.853835,30.479854,-87.853835,30.479854],
+  "bbox": [
+    -87.853835,
+    30.479854,
+    -87.853835,
+    30.479854
+],
   "geometry": {"coordinates":[-87.853835,30.479854],"type":"Point"}
 }

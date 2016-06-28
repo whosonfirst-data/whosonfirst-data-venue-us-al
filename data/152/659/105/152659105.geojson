@@ -2,13 +2,14 @@
   "id": 152659105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.495206,33.313076,-87.495206,33.313076",
     "geom:latitude":33.313076,
     "geom:longitude":-87.495206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10722 Watermelon Rd",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859275,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85859275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152659105,
-    "wof:lastmodified":1449044805,
+    "wof:lastmodified":1466319305,
     "wof:name":"Yellow Creek Vlntr Fire Dept",
     "wof:parent_id":85859275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.495206,33.313076,-87.495206,33.313076],
+  "bbox": [
+    -87.495206,
+    33.313076,
+    -87.495206,
+    33.313076
+],
   "geometry": {"coordinates":[-87.495206,33.313076],"type":"Point"}
 }

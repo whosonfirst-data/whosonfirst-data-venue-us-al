@@ -2,13 +2,14 @@
   "id": 152424397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.729622,33.516982,-86.729622,33.516982",
     "geom:latitude":33.516982,
     "geom:longitude":-86.729622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1309 Larry Ln",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85835881,
+        85688675,
         85633793,
         85914807,
         102085481,
-        85688675
+        85835881
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152424397,
-    "wof:lastmodified":1449048632,
+    "wof:lastmodified":1466317964,
     "wof:name":"Church-God In Christ",
     "wof:parent_id":85835881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.729622,33.516982,-86.729622,33.516982],
-  "geometry": {"coordinates":[-86.729622,33.516982],"type":"Point"}
+  "bbox": [
+    -86.729622,
+    33.516982,
+    -86.729622,
+    33.516982
+],
+  "geometry": {"coordinates":[-86.72962200000001,33.516982],"type":"Point"}
 }

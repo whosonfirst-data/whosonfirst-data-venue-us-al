@@ -2,13 +2,14 @@
   "id": 152895639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.134251,30.676128,-88.134251,30.676128",
     "geom:latitude":30.676128,
     "geom:longitude":-88.134251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3684 Airport Blvd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878977,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152895639,
-    "wof:lastmodified":1449046277,
+    "wof:lastmodified":1466320322,
     "wof:name":"CTS Wireless",
     "wof:parent_id":85878977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.134251,30.676128,-88.134251,30.676128],
-  "geometry": {"coordinates":[-88.134251,30.676128],"type":"Point"}
+  "bbox": [
+    -88.134251,
+    30.676128,
+    -88.134251,
+    30.676128
+],
+  "geometry": {"coordinates":[-88.13425100000001,30.676128],"type":"Point"}
 }

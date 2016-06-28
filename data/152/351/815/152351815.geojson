@@ -2,13 +2,14 @@
   "id": 152351815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.843672,33.294955,-86.843672,33.294955",
     "geom:latitude":33.294955,
     "geom:longitude":-86.843672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4097 Helena Rd",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851743,
+        85688675,
         85633793,
         85914471,
         102085499,
-        85688675
+        85851743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152351815,
-    "wof:lastmodified":1449048222,
+    "wof:lastmodified":1466317585,
     "wof:name":"Schaeffer Eye Ctr",
     "wof:parent_id":85851743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.843672,33.294955,-86.843672,33.294955],
+  "bbox": [
+    -86.843672,
+    33.294955,
+    -86.843672,
+    33.294955
+],
   "geometry": {"coordinates":[-86.843672,33.294955],"type":"Point"}
 }

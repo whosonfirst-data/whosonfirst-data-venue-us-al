@@ -2,13 +2,14 @@
   "id": 152530239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.315772,30.797479,-88.315772,30.797479",
     "geom:latitude":30.797479,
     "geom:longitude":-88.315772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11541 Old Moffat Rd",
     "sg:city":"Wilmer",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085585,
-        85633793,
         85688675,
-        85878987
+        85633793,
+        85878987,
+        102085585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152530239,
-    "wof:lastmodified":1449046762,
+    "wof:lastmodified":1466318539,
     "wof:name":"First United Pentecostal Chr",
     "wof:parent_id":85878987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.315772,30.797479,-88.315772,30.797479],
+  "bbox": [
+    -88.315772,
+    30.797479,
+    -88.315772,
+    30.797479
+],
   "geometry": {"coordinates":[-88.315772,30.797479],"type":"Point"}
 }

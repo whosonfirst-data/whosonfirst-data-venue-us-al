@@ -2,13 +2,14 @@
   "id": 152405813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.514003,33.197579,-87.514003,33.197579",
     "geom:latitude":33.197579,
     "geom:longitude":-87.514003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1718 Veterans Memorial Pkwy",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152405813,
-    "wof:lastmodified":1449048537,
+    "wof:lastmodified":1466317884,
     "wof:name":"Alabama Family Medical Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.514003,33.197579,-87.514003,33.197579],
+  "bbox": [
+    -87.514003,
+    33.197579,
+    -87.514003,
+    33.197579
+],
   "geometry": {"coordinates":[-87.514003,33.197579],"type":"Point"}
 }

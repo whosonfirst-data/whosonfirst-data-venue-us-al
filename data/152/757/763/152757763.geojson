@@ -2,13 +2,14 @@
   "id": 152757763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.55915,33.060668,-86.55915,33.060668",
     "geom:latitude":33.060668,
     "geom:longitude":-86.55915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8464 Co Rd 47",
     "sg:city":"Shelby",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825591,
+        85688675,
         85633793,
         85914497,
         102085499,
-        85688675
+        85825591
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152757763,
-    "wof:lastmodified":1449046911,
+    "wof:lastmodified":1466319658,
     "wof:name":"Styles By Wanda",
     "wof:parent_id":85825591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.55915,33.060668,-86.55915,33.060668],
+  "bbox": [
+    -86.55915,
+    33.060668,
+    -86.55915,
+    33.060668
+],
   "geometry": {"coordinates":[-86.55915,33.060668],"type":"Point"}
 }

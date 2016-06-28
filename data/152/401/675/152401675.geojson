@@ -2,13 +2,14 @@
   "id": 152401675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.842288,34.182766,-86.842288,34.182766",
     "geom:latitude":34.182766,
     "geom:longitude":-86.842288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 4th Ave NE",
     "sg:city":"Cullman",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085729,
-        85633793,
         85688675,
-        85867309
+        85633793,
+        85867309,
+        102085729
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152401675,
-    "wof:lastmodified":1449048232,
+    "wof:lastmodified":1466317856,
     "wof:name":"Samuel J Oliver DDS Inc",
     "wof:parent_id":85867309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.842288,34.182766,-86.842288,34.182766],
+  "bbox": [
+    -86.842288,
+    34.182766,
+    -86.842288,
+    34.182766
+],
   "geometry": {"coordinates":[-86.842288,34.182766],"type":"Point"}
 }

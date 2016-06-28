@@ -2,13 +2,14 @@
   "id": 152418431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.862583,33.505181,-86.862583,33.505181",
     "geom:latitude":33.505181,
     "geom:longitude":-86.862583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1524 3rd Ave W",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840057,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85840057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152418431,
-    "wof:lastmodified":1449047916,
+    "wof:lastmodified":1466317914,
     "wof:name":"Sanders and Sanders Inc",
     "wof:parent_id":85840057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.862583,33.505181,-86.862583,33.505181],
+  "bbox": [
+    -86.862583,
+    33.505181,
+    -86.862583,
+    33.505181
+],
   "geometry": {"coordinates":[-86.862583,33.505181],"type":"Point"}
 }

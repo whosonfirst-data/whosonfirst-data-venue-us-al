@@ -2,13 +2,14 @@
   "id": 152182347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.285983,33.478986,-86.285983,33.478986",
     "geom:latitude":33.478986,
     "geom:longitude":-86.285983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"589 N Lake Shore Dr",
     "sg:city":"Talladega",
     "sg:classifiers":[
@@ -30,10 +31,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085517,
-        85633793,
         85688675,
-        85849013
+        85633793,
+        85849013,
+        102085517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152182347,
-    "wof:lastmodified":1449047224,
+    "wof:lastmodified":1466315715,
     "wof:name":"Patterson Sales",
     "wof:parent_id":85849013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.285983,33.478986,-86.285983,33.478986],
+  "bbox": [
+    -86.285983,
+    33.478986,
+    -86.285983,
+    33.478986
+],
   "geometry": {"coordinates":[-86.285983,33.478986],"type":"Point"}
 }

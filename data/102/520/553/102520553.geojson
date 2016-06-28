@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102520553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.54278,34.6455,-86.54278,34.6455",
     "geom:latitude":34.6455,
     "geom:longitude":-86.54278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10026 Meredith Ln SE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851327,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85851327
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102520553,
-    "wof:lastmodified":1449068585,
+    "wof:lastmodified":1466317144,
     "wof:name":"Hhh Management Corp",
     "wof:parent_id":85851327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.54278,34.6455,-86.54278,34.6455],
-  "geometry": {"coordinates":[-86.54278,34.6455],"type":"Point"}
+  "bbox": [
+    -86.54278,
+    34.6455,
+    -86.54278,
+    34.6455
+],
+  "geometry": {"coordinates":[-86.54277999999999,34.6455],"type":"Point"}
 }

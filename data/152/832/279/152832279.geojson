@@ -2,13 +2,14 @@
   "id": 152832279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.243952,34.828677,-86.243952,34.828677",
     "geom:latitude":34.828677,
     "geom:longitude":-86.243952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11913 State Rte 65",
     "sg:city":"Hollytree",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":152832279,
-    "wof:lastmodified":1449044312,
+    "wof:lastmodified":1466320023,
     "wof:name":"M & M Feed & Grain",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.243952,34.828677,-86.243952,34.828677],
-  "geometry": {"coordinates":[-86.243952,34.828677],"type":"Point"}
+  "bbox": [
+    -86.243952,
+    34.828677,
+    -86.243952,
+    34.828677
+],
+  "geometry": {"coordinates":[-86.24395199999999,34.828677],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152267951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.8466,34.145698,-86.8466,34.145698",
     "geom:latitude":34.145698,
     "geom:longitude":-86.8466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1704 Cherokee Ave SW",
     "sg:city":"Cullman",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867305,
+        85688675,
         85633793,
         85914167,
         102085729,
-        85688675
+        85867305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152267951,
-    "wof:lastmodified":1449048501,
+    "wof:lastmodified":1466316807,
     "wof:name":"Wells Turner Family Pharmacy",
     "wof:parent_id":85867305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.8466,34.145698,-86.8466,34.145698],
+  "bbox": [
+    -86.8466,
+    34.145698,
+    -86.8466,
+    34.145698
+],
   "geometry": {"coordinates":[-86.8466,34.145698],"type":"Point"}
 }

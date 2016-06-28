@@ -2,13 +2,14 @@
   "id": 152703683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.616472,34.754136,-86.616472,34.754136",
     "geom:latitude":34.754136,
     "geom:longitude":-86.616472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2803 Gus Grissom Dr NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809309,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85809309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152703683,
-    "wof:lastmodified":1449045708,
+    "wof:lastmodified":1466319505,
     "wof:name":"Jani-King",
     "wof:parent_id":85809309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.616472,34.754136,-86.616472,34.754136],
+  "bbox": [
+    -86.616472,
+    34.754136,
+    -86.616472,
+    34.754136
+],
   "geometry": {"coordinates":[-86.616472,34.754136],"type":"Point"}
 }

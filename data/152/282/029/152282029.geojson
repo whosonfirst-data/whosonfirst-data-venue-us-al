@@ -2,13 +2,14 @@
   "id": 152282029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.602584,33.923201,-85.602584,33.923201",
     "geom:latitude":33.923201,
     "geom:longitude":-85.602584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"509 Logan St",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817157,
+        85688675,
         85633793,
         85914293,
         102085603,
-        85688675
+        85817157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152282029,
-    "wof:lastmodified":1449047191,
+    "wof:lastmodified":1466316780,
     "wof:name":"Magic Carpet & Upholstery",
     "wof:parent_id":85817157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.602584,33.923201,-85.602584,33.923201],
-  "geometry": {"coordinates":[-85.602584,33.923201],"type":"Point"}
+  "bbox": [
+    -85.602584,
+    33.923201,
+    -85.602584,
+    33.923201
+],
+  "geometry": {"coordinates":[-85.60258399999999,33.923201],"type":"Point"}
 }

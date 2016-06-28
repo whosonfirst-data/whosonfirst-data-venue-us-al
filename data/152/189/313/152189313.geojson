@@ -2,13 +2,14 @@
   "id": 152189313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.894004,30.596119,-87.894004,30.596119",
     "geom:latitude":30.596119,
     "geom:longitude":-87.894004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1024 Stanton Rd",
     "sg:city":"Daphne",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827259,
+        85688675,
         85633793,
         85914695,
         102085469,
-        85688675
+        85827259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152189313,
-    "wof:lastmodified":1449047564,
+    "wof:lastmodified":1466315764,
     "wof:name":"McCroy & Williams",
     "wof:parent_id":85827259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.894004,30.596119,-87.894004,30.596119],
+  "bbox": [
+    -87.894004,
+    30.596119,
+    -87.894004,
+    30.596119
+],
   "geometry": {"coordinates":[-87.894004,30.596119],"type":"Point"}
 }

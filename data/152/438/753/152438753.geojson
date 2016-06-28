@@ -2,13 +2,14 @@
   "id": 152438753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.565445,32.645286,-85.565445,32.645286",
     "geom:latitude":32.645286,
     "geom:longitude":-85.565445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2900 Co Rd 81",
     "sg:city":"Waverly",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822529,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85822529
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152438753,
-    "wof:lastmodified":1449045870,
+    "wof:lastmodified":1466318108,
     "wof:name":"Rush Lawn Service",
     "wof:parent_id":85822529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.565445,32.645286,-85.565445,32.645286],
+  "bbox": [
+    -85.565445,
+    32.645286,
+    -85.565445,
+    32.645286
+],
   "geometry": {"coordinates":[-85.565445,32.645286],"type":"Point"}
 }

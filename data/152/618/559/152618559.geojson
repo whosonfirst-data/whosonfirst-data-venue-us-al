@@ -2,13 +2,14 @@
   "id": 152618559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.451956,33.313867,-87.451956,33.313867",
     "geom:latitude":33.313867,
     "geom:longitude":-87.451956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12123 Sellers Ln",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859275,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85859275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152618559,
-    "wof:lastmodified":1449047178,
+    "wof:lastmodified":1466318917,
     "wof:name":"Piney Grove Baptist Church",
     "wof:parent_id":85859275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.451956,33.313867,-87.451956,33.313867],
+  "bbox": [
+    -87.451956,
+    33.313867,
+    -87.451956,
+    33.313867
+],
   "geometry": {"coordinates":[-87.451956,33.313867],"type":"Point"}
 }

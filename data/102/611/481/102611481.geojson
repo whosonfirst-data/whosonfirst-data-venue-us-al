@@ -2,13 +2,14 @@
   "id": 102611481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.835725,33.623027,-85.835725,33.623027",
     "geom:latitude":33.623027,
     "geom:longitude":-85.835725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 Wilkerson Dr",
     "sg:city":"Anniston",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829455,
+        85688675,
         85633793,
         85914281,
         102085603,
-        85688675
+        85829455
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102611481,
-    "wof:lastmodified":1449069675,
+    "wof:lastmodified":1466317380,
     "wof:name":"Manna Fods Ministry Foundation",
     "wof:parent_id":85829455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.835725,33.623027,-85.835725,33.623027],
+  "bbox": [
+    -85.835725,
+    33.623027,
+    -85.835725,
+    33.623027
+],
   "geometry": {"coordinates":[-85.835725,33.623027],"type":"Point"}
 }

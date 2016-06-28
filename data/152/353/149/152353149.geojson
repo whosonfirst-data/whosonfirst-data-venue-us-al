@@ -2,13 +2,14 @@
   "id": 152353149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.620795,34.894973,-85.620795,34.894973",
     "geom:latitude":34.894973,
     "geom:longitude":-85.620795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1054 State Rte 73",
     "sg:city":"Bryant",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085607,
-        85633793,
         85688675,
-        85804739
+        85633793,
+        85804739,
+        102085607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152353149,
-    "wof:lastmodified":1449045628,
+    "wof:lastmodified":1466317609,
     "wof:name":"Sandy Clark Enterprises LLC",
     "wof:parent_id":85804739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.620795,34.894973,-85.620795,34.894973],
+  "bbox": [
+    -85.620795,
+    34.894973,
+    -85.620795,
+    34.894973
+],
   "geometry": {"coordinates":[-85.620795,34.894973],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152804195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.817866,33.469903,-86.817866,33.469903",
     "geom:latitude":33.469903,
     "geom:longitude":-86.817866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 Palisades Blvd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817409,
+        85688675,
         85633793,
         85914847,
         102085481,
-        85688675
+        85817409
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152804195,
-    "wof:lastmodified":1449047517,
+    "wof:lastmodified":1466320093,
     "wof:name":"Tan Express",
     "wof:parent_id":85817409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.817866,33.469903,-86.817866,33.469903],
+  "bbox": [
+    -86.817866,
+    33.469903,
+    -86.817866,
+    33.469903
+],
   "geometry": {"coordinates":[-86.817866,33.469903],"type":"Point"}
 }

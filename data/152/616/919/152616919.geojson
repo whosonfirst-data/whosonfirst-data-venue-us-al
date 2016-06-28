@@ -2,13 +2,14 @@
   "id": 152616919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.184287,30.545644,-88.184287,30.545644",
     "geom:latitude":30.545644,
     "geom:longitude":-88.184287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5791 Swedetown Rd",
     "sg:city":"Theodore",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878951,
+        85688675,
         85633793,
         85915075,
         102085585,
-        85688675
+        85878951
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152616919,
-    "wof:lastmodified":1449047698,
+    "wof:lastmodified":1466318954,
     "wof:name":"Jerry S Cabaret",
     "wof:parent_id":85878951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.184287,30.545644,-88.184287,30.545644],
+  "bbox": [
+    -88.184287,
+    30.545644,
+    -88.184287,
+    30.545644
+],
   "geometry": {"coordinates":[-88.184287,30.545644],"type":"Point"}
 }

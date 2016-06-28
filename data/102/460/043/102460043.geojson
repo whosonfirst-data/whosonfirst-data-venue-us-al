@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102460043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.787876,33.36475,-86.787876,33.36475",
     "geom:latitude":33.36475,
     "geom:longitude":-86.787876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Riverchase Pkwy E",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802401,
+        85688675,
         85633793,
         85914475,
         102085499,
-        85688675
+        85802401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102460043,
-    "wof:lastmodified":1449070060,
+    "wof:lastmodified":1466314902,
     "wof:name":"CTS",
     "wof:parent_id":85802401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.787876,33.36475,-86.787876,33.36475],
+  "bbox": [
+    -86.787876,
+    33.36475,
+    -86.787876,
+    33.36475
+],
   "geometry": {"coordinates":[-86.787876,33.36475],"type":"Point"}
 }

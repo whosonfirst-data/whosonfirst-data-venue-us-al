@@ -2,13 +2,14 @@
   "id": 152223447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.316496,32.346578,-86.316496,32.346578",
     "geom:latitude":32.346578,
     "geom:longitude":-86.316496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3220 Rosa L Parks Ave",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152223447,
-    "wof:lastmodified":1449044622,
+    "wof:lastmodified":1466316293,
     "wof:name":"Custom Tile Creation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.316496,32.346578,-86.316496,32.346578],
+  "bbox": [
+    -86.316496,
+    32.346578,
+    -86.316496,
+    32.346578
+],
   "geometry": {"coordinates":[-86.316496,32.346578],"type":"Point"}
 }

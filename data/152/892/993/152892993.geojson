@@ -2,13 +2,14 @@
   "id": 152892993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.728059,34.194614,-86.728059,34.194614",
     "geom:latitude":34.194614,
     "geom:longitude":-86.728059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"291 Co Rd 1641",
     "sg:city":"Cullman",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867305,
+        85688675,
         85633793,
         85914167,
         102085729,
-        85688675
+        85867305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152892993,
-    "wof:lastmodified":1449044989,
+    "wof:lastmodified":1466320329,
     "wof:name":"Solleys Truck and Trailer",
     "wof:parent_id":85867305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.728059,34.194614,-86.728059,34.194614],
+  "bbox": [
+    -86.728059,
+    34.194614,
+    -86.728059,
+    34.194614
+],
   "geometry": {"coordinates":[-86.728059,34.194614],"type":"Point"}
 }

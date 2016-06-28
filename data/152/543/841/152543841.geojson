@@ -2,13 +2,14 @@
   "id": 152543841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.465669,32.602534,-86.465669,32.602534",
     "geom:latitude":32.602534,
     "geom:longitude":-86.465669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"143 Seth Dr",
     "sg:city":"Deatsville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831059,
+        85688675,
         85633793,
         85913977,
         102085509,
-        85688675
+        85831059
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152543841,
-    "wof:lastmodified":1449045205,
+    "wof:lastmodified":1466318564,
     "wof:name":"Seamon Paint & Body",
     "wof:parent_id":85831059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.465669,32.602534,-86.465669,32.602534],
-  "geometry": {"coordinates":[-86.465669,32.602534],"type":"Point"}
+  "bbox": [
+    -86.465669,
+    32.602534,
+    -86.465669,
+    32.602534
+],
+  "geometry": {"coordinates":[-86.46566900000001,32.602534],"type":"Point"}
 }

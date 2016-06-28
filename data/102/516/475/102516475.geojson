@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102516475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.977424,34.606949,-86.977424,34.606949",
     "geom:latitude":34.606949,
     "geom:longitude":-86.977424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 8th Ave NE",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     "sg:website":"www.vividtechnology.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085531,
-        85633793,
         85688675,
-        85802585
+        85633793,
+        85802585,
+        102085531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102516475,
-    "wof:lastmodified":1449068261,
+    "wof:lastmodified":1466316824,
     "wof:name":"Vivid Technologies Inc",
     "wof:parent_id":85802585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.977424,34.606949,-86.977424,34.606949],
+  "bbox": [
+    -86.977424,
+    34.606949,
+    -86.977424,
+    34.606949
+],
   "geometry": {"coordinates":[-86.977424,34.606949],"type":"Point"}
 }

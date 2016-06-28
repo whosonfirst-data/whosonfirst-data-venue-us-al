@@ -2,13 +2,14 @@
   "id": 152507359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.383034,31.232108,-85.383034,31.232108",
     "geom:latitude":31.232108,
     "geom:longitude":-85.383034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1011 N Range St",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852069,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85852069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152507359,
-    "wof:lastmodified":1449046672,
+    "wof:lastmodified":1466318366,
     "wof:name":"Phat Tracks 2",
     "wof:parent_id":85852069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.383034,31.232108,-85.383034,31.232108],
-  "geometry": {"coordinates":[-85.383034,31.232108],"type":"Point"}
+  "bbox": [
+    -85.383034,
+    31.232108,
+    -85.383034,
+    31.232108
+],
+  "geometry": {"coordinates":[-85.38303399999999,31.232108],"type":"Point"}
 }

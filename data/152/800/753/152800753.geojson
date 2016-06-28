@@ -2,13 +2,14 @@
   "id": 152800753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.793476,33.480677,-86.793476,33.480677",
     "geom:latitude":33.480677,
     "geom:longitude":-86.793476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1712 28th Ave S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845971,
+        85688675,
         85633793,
         85914847,
         102085481,
-        85688675
+        85845971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152800753,
-    "wof:lastmodified":1449044665,
+    "wof:lastmodified":1466319852,
     "wof:name":"Living Room Ministries",
     "wof:parent_id":85845971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.793476,33.480677,-86.793476,33.480677],
+  "bbox": [
+    -86.793476,
+    33.480677,
+    -86.793476,
+    33.480677
+],
   "geometry": {"coordinates":[-86.793476,33.480677],"type":"Point"}
 }

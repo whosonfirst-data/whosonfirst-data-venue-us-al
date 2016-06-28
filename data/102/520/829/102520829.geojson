@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102520829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.852686,34.190596,-86.852686,34.190596",
     "geom:latitude":34.190596,
     "geom:longitude":-86.852686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1940 2nd Ave NW",
     "sg:city":"Cullman",
     "sg:classifiers":[
@@ -32,10 +33,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085729,
-        85633793,
         85688675,
-        85867309
+        85633793,
+        85867309,
+        102085729
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":102520829,
-    "wof:lastmodified":1449068589,
+    "wof:lastmodified":1466317188,
     "wof:name":"Smith Bill Pontiac Buick GMC",
     "wof:parent_id":85867309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.852686,34.190596,-86.852686,34.190596],
-  "geometry": {"coordinates":[-86.852686,34.190596],"type":"Point"}
+  "bbox": [
+    -86.852686,
+    34.190596,
+    -86.852686,
+    34.190596
+],
+  "geometry": {"coordinates":[-86.85268600000001,34.190596],"type":"Point"}
 }

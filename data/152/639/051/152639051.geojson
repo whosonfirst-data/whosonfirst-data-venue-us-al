@@ -2,13 +2,14 @@
   "id": 152639051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.463743,32.449032,-86.463743,32.449032",
     "geom:latitude":32.449032,
     "geom:longitude":-86.463743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 Doster Rd",
     "sg:city":"Prattville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858019,
+        85688675,
         85633793,
         85913977,
         102085509,
-        85688675
+        85858019
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152639051,
-    "wof:lastmodified":1449048883,
+    "wof:lastmodified":1466319048,
     "wof:name":"Mobile Home Lot Sales",
     "wof:parent_id":85858019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.463743,32.449032,-86.463743,32.449032],
-  "geometry": {"coordinates":[-86.463743,32.449032],"type":"Point"}
+  "bbox": [
+    -86.463743,
+    32.449032,
+    -86.463743,
+    32.449032
+],
+  "geometry": {"coordinates":[-86.46374299999999,32.449032],"type":"Point"}
 }

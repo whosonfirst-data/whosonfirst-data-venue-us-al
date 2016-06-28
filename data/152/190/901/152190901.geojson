@@ -2,13 +2,14 @@
   "id": 152190901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.263572,34.422359,-86.263572,34.422359",
     "geom:latitude":34.422359,
     "geom:longitude":-86.263572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21324 US Hwy 431",
     "sg:city":"Guntersville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850331,
+        85688675,
         85633793,
         85899833,
         102085513,
-        85688675
+        85850331
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152190901,
-    "wof:lastmodified":1449048627,
+    "wof:lastmodified":1466315704,
     "wof:name":"A & C Towing",
     "wof:parent_id":85850331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.263572,34.422359,-86.263572,34.422359],
+  "bbox": [
+    -86.263572,
+    34.422359,
+    -86.263572,
+    34.422359
+],
   "geometry": {"coordinates":[-86.263572,34.422359],"type":"Point"}
 }

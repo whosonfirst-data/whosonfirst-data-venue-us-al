@@ -2,13 +2,14 @@
   "id": 102602911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.285476,32.41662,-86.285476,32.41662",
     "geom:latitude":32.41662,
     "geom:longitude":-86.285476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2912 Lower Wetumpka Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85810909,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85810909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102602911,
-    "wof:lastmodified":1449068907,
+    "wof:lastmodified":1466317085,
     "wof:name":"Tips & Toes Nail Salon",
     "wof:parent_id":85810909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.285476,32.41662,-86.285476,32.41662],
+  "bbox": [
+    -86.285476,
+    32.41662,
+    -86.285476,
+    32.41662
+],
   "geometry": {"coordinates":[-86.285476,32.41662],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102627425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.901225,32.540586,-85.901225,32.540586",
     "geom:latitude":32.540586,
     "geom:longitude":-85.901225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 Gilmer Ave",
     "sg:city":"Tallassee",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827623,
+        85688675,
         85633793,
         85913291,
         102085631,
-        85688675
+        85827623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":102627425,
-    "wof:lastmodified":1449070260,
+    "wof:lastmodified":1466317456,
     "wof:name":"Sunny Beauty Mart",
     "wof:parent_id":85827623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.901225,32.540586,-85.901225,32.540586],
+  "bbox": [
+    -85.901225,
+    32.540586,
+    -85.901225,
+    32.540586
+],
   "geometry": {"coordinates":[-85.901225,32.540586],"type":"Point"}
 }

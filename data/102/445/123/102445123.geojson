@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102445123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.890723,33.442751,-86.890723,33.442751",
     "geom:latitude":33.442751,
     "geom:longitude":-86.890723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3300 Wilson Rd SW",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851831,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85851831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102445123,
-    "wof:lastmodified":1449068127,
+    "wof:lastmodified":1466314339,
     "wof:name":"Grace Covenent Worship Center",
     "wof:parent_id":85851831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.890723,33.442751,-86.890723,33.442751],
-  "geometry": {"coordinates":[-86.890723,33.442751],"type":"Point"}
+  "bbox": [
+    -86.890723,
+    33.442751,
+    -86.890723,
+    33.442751
+],
+  "geometry": {"coordinates":[-86.89072299999999,33.442751],"type":"Point"}
 }

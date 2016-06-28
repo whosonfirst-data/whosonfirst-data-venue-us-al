@@ -2,13 +2,14 @@
   "id": 152133205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.034536,34.026403,-86.034536,34.026403",
     "geom:latitude":34.026403,
     "geom:longitude":-86.034536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Black Creek Rd",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805515,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85805515
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152133205,
-    "wof:lastmodified":1449048122,
+    "wof:lastmodified":1466315180,
     "wof:name":"Boy's & Girl's Club Of Ne Al",
     "wof:parent_id":85805515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.034536,34.026403,-86.034536,34.026403],
+  "bbox": [
+    -86.034536,
+    34.026403,
+    -86.034536,
+    34.026403
+],
   "geometry": {"coordinates":[-86.034536,34.026403],"type":"Point"}
 }

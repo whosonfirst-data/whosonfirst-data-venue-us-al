@@ -2,13 +2,14 @@
   "id": 152305691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.447116,32.352751,-86.447116,32.352751",
     "geom:latitude":32.352751,
     "geom:longitude":-86.447116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6217 Ashwood Cir",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":152305691,
-    "wof:lastmodified":1449045007,
+    "wof:lastmodified":1466317158,
     "wof:name":"Petty Roofing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.447116,32.352751,-86.447116,32.352751],
-  "geometry": {"coordinates":[-86.447116,32.352751],"type":"Point"}
+  "bbox": [
+    -86.447116,
+    32.352751,
+    -86.447116,
+    32.352751
+],
+  "geometry": {"coordinates":[-86.44711599999999,32.352751],"type":"Point"}
 }

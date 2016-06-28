@@ -2,13 +2,14 @@
   "id": 152537921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.722881,33.475569,-86.722881,33.475569",
     "geom:latitude":33.475569,
     "geom:longitude":-86.722881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3828 Briaroak Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802339,
+        85688675,
         85633793,
         85914483,
         102085481,
-        85688675
+        85802339
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152537921,
-    "wof:lastmodified":1449045428,
+    "wof:lastmodified":1466318553,
     "wof:name":"Telecom Pragmatics Inc",
     "wof:parent_id":85802339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.722881,33.475569,-86.722881,33.475569],
+  "bbox": [
+    -86.722881,
+    33.475569,
+    -86.722881,
+    33.475569
+],
   "geometry": {"coordinates":[-86.722881,33.475569],"type":"Point"}
 }

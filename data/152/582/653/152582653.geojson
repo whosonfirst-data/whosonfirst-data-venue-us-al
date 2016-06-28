@@ -2,13 +2,14 @@
   "id": 152582653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.611176,34.702585,-86.611176,34.702585",
     "geom:latitude":34.702585,
     "geom:longitude":-86.611176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3405 N Broad Pl SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840971,
+        85688675,
         85633793,
         85915405,
         102085487,
-        85688675
+        85840971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152582653,
-    "wof:lastmodified":1449046789,
+    "wof:lastmodified":1466318779,
     "wof:name":"Glory Gear",
     "wof:parent_id":85840971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.611176,34.702585,-86.611176,34.702585],
+  "bbox": [
+    -86.611176,
+    34.702585,
+    -86.611176,
+    34.702585
+],
   "geometry": {"coordinates":[-86.611176,34.702585],"type":"Point"}
 }

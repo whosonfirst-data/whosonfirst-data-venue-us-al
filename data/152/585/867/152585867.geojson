@@ -2,13 +2,14 @@
   "id": 152585867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.766177,33.381546,-86.766177,33.381546",
     "geom:latitude":33.381546,
     "geom:longitude":-86.766177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2001 Highland Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85858213
+        85633793,
+        85858213,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152585867,
-    "wof:lastmodified":1449047371,
+    "wof:lastmodified":1466318794,
     "wof:name":"Gina Mc Donald Law Offices",
     "wof:parent_id":85858213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.766177,33.381546,-86.766177,33.381546],
+  "bbox": [
+    -86.766177,
+    33.381546,
+    -86.766177,
+    33.381546
+],
   "geometry": {"coordinates":[-86.766177,33.381546],"type":"Point"}
 }

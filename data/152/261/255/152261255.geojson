@@ -2,13 +2,14 @@
   "id": 152261255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.617492,34.757764,-86.617492,34.757764",
     "geom:latitude":34.757764,
     "geom:longitude":-86.617492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2307 Laverne Dr NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809309,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85809309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":152261255,
-    "wof:lastmodified":1449044372,
+    "wof:lastmodified":1466316613,
     "wof:name":"Nanny's Old Fashion Lemonade",
     "wof:parent_id":85809309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.617492,34.757764,-86.617492,34.757764],
+  "bbox": [
+    -86.617492,
+    34.757764,
+    -86.617492,
+    34.757764
+],
   "geometry": {"coordinates":[-86.617492,34.757764],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152334239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.645129,34.742829,-86.645129,34.742829",
     "geom:latitude":34.742829,
     "geom:longitude":-86.645129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1511 Halston Cir NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851401,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85851401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152334239,
-    "wof:lastmodified":1449045654,
+    "wof:lastmodified":1466317408,
     "wof:name":"Strongs Cleaning Service",
     "wof:parent_id":85851401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.645129,34.742829,-86.645129,34.742829],
+  "bbox": [
+    -86.645129,
+    34.742829,
+    -86.645129,
+    34.742829
+],
   "geometry": {"coordinates":[-86.645129,34.742829],"type":"Point"}
 }

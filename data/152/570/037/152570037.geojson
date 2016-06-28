@@ -2,13 +2,14 @@
   "id": 152570037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.095297,34.021941,-86.095297,34.021941",
     "geom:latitude":34.021941,
     "geom:longitude":-86.095297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"504 2nd Ave NW",
     "sg:city":"Attalla",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085545,
-        85633793,
         85688675,
-        85851221
+        85633793,
+        85851221,
+        102085545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152570037,
-    "wof:lastmodified":1449047043,
+    "wof:lastmodified":1466318662,
     "wof:name":"Conely Construction",
     "wof:parent_id":85851221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.095297,34.021941,-86.095297,34.021941],
+  "bbox": [
+    -86.095297,
+    34.021941,
+    -86.095297,
+    34.021941
+],
   "geometry": {"coordinates":[-86.095297,34.021941],"type":"Point"}
 }

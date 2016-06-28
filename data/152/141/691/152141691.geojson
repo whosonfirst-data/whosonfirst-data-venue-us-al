@@ -2,13 +2,14 @@
   "id": 152141691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.126946,33.575725,-86.126946,33.575725",
     "geom:latitude":33.575725,
     "geom:longitude":-86.126946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"74400 State Rte 77",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085517,
-        85633793,
         85688675,
-        85849013
+        85633793,
+        85849013,
+        102085517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152141691,
-    "wof:lastmodified":1449045926,
+    "wof:lastmodified":1466314403,
     "wof:name":"Hope Baptist Church",
     "wof:parent_id":85849013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.126946,33.575725,-86.126946,33.575725],
+  "bbox": [
+    -86.126946,
+    33.575725,
+    -86.126946,
+    33.575725
+],
   "geometry": {"coordinates":[-86.126946,33.575725],"type":"Point"}
 }

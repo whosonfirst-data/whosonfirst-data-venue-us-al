@@ -2,13 +2,14 @@
   "id": 152492177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.008068,34.013946,-86.008068,34.013946",
     "geom:latitude":34.013946,
     "geom:longitude":-86.008068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"622 Chestnut St",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822279,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85822279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152492177,
-    "wof:lastmodified":1449044286,
+    "wof:lastmodified":1466318391,
     "wof:name":"St James Catholic",
     "wof:parent_id":85822279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.008068,34.013946,-86.008068,34.013946],
-  "geometry": {"coordinates":[-86.008068,34.013946],"type":"Point"}
+  "bbox": [
+    -86.008068,
+    34.013946,
+    -86.008068,
+    34.013946
+],
+  "geometry": {"coordinates":[-86.00806799999999,34.013946],"type":"Point"}
 }

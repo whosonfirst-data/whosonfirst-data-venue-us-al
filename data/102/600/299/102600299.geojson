@@ -2,13 +2,14 @@
   "id": 102600299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.276228,32.361231,-86.276228,32.361231",
     "geom:latitude":32.361231,
     "geom:longitude":-86.276228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2305 E 5th St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825725,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85825725
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102600299,
-    "wof:lastmodified":1449068013,
+    "wof:lastmodified":1466317209,
     "wof:name":"Bird Electrical Svc",
     "wof:parent_id":85825725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.276228,32.361231,-86.276228,32.361231],
+  "bbox": [
+    -86.276228,
+    32.361231,
+    -86.276228,
+    32.361231
+],
   "geometry": {"coordinates":[-86.276228,32.361231],"type":"Point"}
 }

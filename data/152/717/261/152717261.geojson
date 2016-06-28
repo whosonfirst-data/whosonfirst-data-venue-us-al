@@ -2,13 +2,14 @@
   "id": 152717261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.773107,33.504204,-86.773107,33.504204",
     "geom:latitude":33.504204,
     "geom:longitude":-86.773107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3600 Redmont Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876275,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152717261,
-    "wof:lastmodified":1449044415,
+    "wof:lastmodified":1466319400,
     "wof:name":"Emond & Vines",
     "wof:parent_id":85876275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.773107,33.504204,-86.773107,33.504204],
+  "bbox": [
+    -86.773107,
+    33.504204,
+    -86.773107,
+    33.504204
+],
   "geometry": {"coordinates":[-86.773107,33.504204],"type":"Point"}
 }

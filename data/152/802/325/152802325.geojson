@@ -2,13 +2,14 @@
   "id": 152802325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.818596,33.469336,-86.818596,33.469336",
     "geom:latitude":33.469336,
     "geom:longitude":-86.818596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"366 Palisades Blvd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817409,
+        85688675,
         85633793,
         85914847,
         102085481,
-        85688675
+        85817409
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152802325,
-    "wof:lastmodified":1449048056,
+    "wof:lastmodified":1466319862,
     "wof:name":"Nyconnections Inc",
     "wof:parent_id":85817409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.818596,33.469336,-86.818596,33.469336],
+  "bbox": [
+    -86.818596,
+    33.469336,
+    -86.818596,
+    33.469336
+],
   "geometry": {"coordinates":[-86.818596,33.469336],"type":"Point"}
 }

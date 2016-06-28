@@ -2,13 +2,14 @@
   "id": 119130079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.690624,34.755865,-86.690624,34.755865",
     "geom:latitude":34.755865,
     "geom:longitude":-86.690624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"685 Providence Main St NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85839083,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85839083
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":119130079,
-    "wof:lastmodified":1449041699,
+    "wof:lastmodified":1466314514,
     "wof:name":"Paddock Club Apartment Homes",
     "wof:parent_id":85839083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.690624,34.755865,-86.690624,34.755865],
+  "bbox": [
+    -86.690624,
+    34.755865,
+    -86.690624,
+    34.755865
+],
   "geometry": {"coordinates":[-86.690624,34.755865],"type":"Point"}
 }

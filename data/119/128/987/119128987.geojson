@@ -2,13 +2,14 @@
   "id": 119128987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.607434,34.713728,-86.607434,34.713728",
     "geom:latitude":34.713728,
     "geom:longitude":-86.607434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2513 6th St SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85855713,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85855713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":119128987,
-    "wof:lastmodified":1449041792,
+    "wof:lastmodified":1466314494,
     "wof:name":"North Alabama Lawn Care",
     "wof:parent_id":85855713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.607434,34.713728,-86.607434,34.713728],
+  "bbox": [
+    -86.607434,
+    34.713728,
+    -86.607434,
+    34.713728
+],
   "geometry": {"coordinates":[-86.607434,34.713728],"type":"Point"}
 }

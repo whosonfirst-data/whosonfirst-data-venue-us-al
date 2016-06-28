@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102452531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.819752,33.712862,-85.819752,33.712862",
     "geom:latitude":33.712862,
     "geom:longitude":-85.819752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5112 McClellan Blvd",
     "sg:city":"Anniston",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825451,
+        85688675,
         85633793,
         85915207,
         102085603,
-        85688675
+        85825451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102452531,
-    "wof:lastmodified":1449068364,
+    "wof:lastmodified":1466314745,
     "wof:name":"Fox Valley Apartments",
     "wof:parent_id":85825451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.819752,33.712862,-85.819752,33.712862],
-  "geometry": {"coordinates":[-85.819752,33.712862],"type":"Point"}
+  "bbox": [
+    -85.819752,
+    33.712862,
+    -85.819752,
+    33.712862
+],
+  "geometry": {"coordinates":[-85.81975199999999,33.712862],"type":"Point"}
 }

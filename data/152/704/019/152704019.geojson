@@ -2,13 +2,14 @@
   "id": 152704019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.780631,31.338742,-85.780631,31.338742",
     "geom:latitude":31.338742,
     "geom:longitude":-85.780631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3830 Rucker Blvd",
     "sg:city":"Enterprise",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":152704019,
-    "wof:lastmodified":1449045504,
+    "wof:lastmodified":1466319362,
     "wof:name":"Lane Colors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.780631,31.338742,-85.780631,31.338742],
+  "bbox": [
+    -85.780631,
+    31.338742,
+    -85.780631,
+    31.338742
+],
   "geometry": {"coordinates":[-85.780631,31.338742],"type":"Point"}
 }

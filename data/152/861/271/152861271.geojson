@@ -2,13 +2,14 @@
   "id": 152861271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.772994,32.813708,-85.772994,32.813708",
     "geom:latitude":32.813708,
     "geom:longitude":-85.772994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"316 Industrial Park Dr",
     "sg:city":"Dadeville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848983,
+        85688675,
         85633793,
         85913327,
         102085567,
-        85688675
+        85848983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152861271,
-    "wof:lastmodified":1449048877,
+    "wof:lastmodified":1466320377,
     "wof:name":"Tallapoosa County Jail",
     "wof:parent_id":85848983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.772994,32.813708,-85.772994,32.813708],
+  "bbox": [
+    -85.772994,
+    32.813708,
+    -85.772994,
+    32.813708
+],
   "geometry": {"coordinates":[-85.772994,32.813708],"type":"Point"}
 }

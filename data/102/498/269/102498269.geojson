@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102498269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.866048,31.313086,-85.866048,31.313086",
     "geom:latitude":31.313086,
     "geom:longitude":-85.866048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 W Adams St",
     "sg:city":"Enterprise",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837695,
+        85688675,
         85633793,
         85899527,
         102085699,
-        85688675
+        85837695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102498269,
-    "wof:lastmodified":1449069607,
+    "wof:lastmodified":1466316331,
     "wof:name":"Adams Street Church Of Christ",
     "wof:parent_id":85837695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.866048,31.313086,-85.866048,31.313086],
-  "geometry": {"coordinates":[-85.866048,31.313086],"type":"Point"}
+  "bbox": [
+    -85.866048,
+    31.313086,
+    -85.866048,
+    31.313086
+],
+  "geometry": {"coordinates":[-85.86604800000001,31.313086],"type":"Point"}
 }

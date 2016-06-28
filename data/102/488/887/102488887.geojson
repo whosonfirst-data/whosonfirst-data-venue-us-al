@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102488887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.909635,33.575284,-86.909635,33.575284",
     "geom:latitude":33.575284,
     "geom:longitude":-86.909635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2061 Forestdale Blvd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820003,
+        85688675,
         85633793,
         85914875,
         102085481,
-        85688675
+        85820003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102488887,
-    "wof:lastmodified":1449070155,
+    "wof:lastmodified":1466316100,
     "wof:name":"Bob Culver Realty Inc",
     "wof:parent_id":85820003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.909635,33.575284,-86.909635,33.575284],
-  "geometry": {"coordinates":[-86.909635,33.575284],"type":"Point"}
+  "bbox": [
+    -86.909635,
+    33.575284,
+    -86.909635,
+    33.575284
+],
+  "geometry": {"coordinates":[-86.90963499999999,33.575284],"type":"Point"}
 }

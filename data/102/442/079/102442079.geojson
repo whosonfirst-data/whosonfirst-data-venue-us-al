@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102442079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.680506,33.584562,-86.680506,33.584562",
     "geom:latitude":33.584562,
     "geom:longitude":-86.680506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Rebecca Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85804001,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85804001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102442079,
-    "wof:lastmodified":1449068821,
+    "wof:lastmodified":1466315289,
     "wof:name":"Brewster Reporting Services In",
     "wof:parent_id":85804001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.680506,33.584562,-86.680506,33.584562],
-  "geometry": {"coordinates":[-86.680506,33.584562],"type":"Point"}
+  "bbox": [
+    -86.680506,
+    33.584562,
+    -86.680506,
+    33.584562
+],
+  "geometry": {"coordinates":[-86.68050599999999,33.584562],"type":"Point"}
 }

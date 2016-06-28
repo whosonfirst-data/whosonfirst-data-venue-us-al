@@ -2,13 +2,14 @@
   "id": 152647167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.374853,32.549748,-85.374853,32.549748",
     "geom:latitude":32.549748,
     "geom:longitude":-85.374853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7450 State Rte 51",
     "sg:city":"Opelika",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821713,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85821713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152647167,
-    "wof:lastmodified":1449046498,
+    "wof:lastmodified":1466319067,
     "wof:name":"Beauregard Volunteer Fire Dept",
     "wof:parent_id":85821713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.374853,32.549748,-85.374853,32.549748],
+  "bbox": [
+    -85.374853,
+    32.549748,
+    -85.374853,
+    32.549748
+],
   "geometry": {"coordinates":[-85.374853,32.549748],"type":"Point"}
 }

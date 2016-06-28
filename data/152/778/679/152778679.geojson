@@ -2,13 +2,14 @@
   "id": 152778679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.886247,30.467108,-87.886247,30.467108",
     "geom:latitude":30.467108,
     "geom:longitude":-87.886247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16474 S Greeno Rd",
     "sg:city":"Fairhope",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854025,
+        85688675,
         85633793,
         85914707,
         102085469,
-        85688675
+        85854025
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152778679,
-    "wof:lastmodified":1449044384,
+    "wof:lastmodified":1466319743,
     "wof:name":"Pronet Inc",
     "wof:parent_id":85854025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.886247,30.467108,-87.886247,30.467108],
+  "bbox": [
+    -87.886247,
+    30.467108,
+    -87.886247,
+    30.467108
+],
   "geometry": {"coordinates":[-87.886247,30.467108],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152429695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.602657,33.613775,-86.602657,33.613775",
     "geom:latitude":33.613775,
     "geom:longitude":-86.602657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"512 Scenic Cir",
     "sg:city":"Trussville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808783,
+        85688675,
         85633793,
         85913473,
         102085481,
-        85688675
+        85808783
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152429695,
-    "wof:lastmodified":1449048673,
+    "wof:lastmodified":1466318092,
     "wof:name":"Norris Development LLC",
     "wof:parent_id":85808783,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.602657,33.613775,-86.602657,33.613775],
-  "geometry": {"coordinates":[-86.602657,33.613775],"type":"Point"}
+  "bbox": [
+    -86.602657,
+    33.613775,
+    -86.602657,
+    33.613775
+],
+  "geometry": {"coordinates":[-86.60265699999999,33.613775],"type":"Point"}
 }

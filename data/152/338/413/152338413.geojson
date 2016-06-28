@@ -2,13 +2,14 @@
   "id": 152338413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.837189,33.357168,-86.837189,33.357168",
     "geom:latitude":33.357168,
     "geom:longitude":-86.837189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5510 Tree Crossings Pkwy",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829763,
+        85688675,
         85633793,
         85914475,
         102085481,
-        85688675
+        85829763
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152338413,
-    "wof:lastmodified":1449045904,
+    "wof:lastmodified":1466317527,
     "wof:name":"A&J Maintenance",
     "wof:parent_id":85829763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.837189,33.357168,-86.837189,33.357168],
+  "bbox": [
+    -86.837189,
+    33.357168,
+    -86.837189,
+    33.357168
+],
   "geometry": {"coordinates":[-86.837189,33.357168],"type":"Point"}
 }

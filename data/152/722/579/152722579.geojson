@@ -2,13 +2,14 @@
   "id": 152722579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.981533,32.875151,-85.981533,32.875151",
     "geom:latitude":32.875151,
     "geom:longitude":-85.981533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1647 Moose Rd",
     "sg:city":"Alexander City",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085567,
-        85633793,
         85688675,
-        85853455
+        85633793,
+        85853455,
+        102085567
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152722579,
-    "wof:lastmodified":1449045930,
+    "wof:lastmodified":1466319536,
     "wof:name":"Henley Designs",
     "wof:parent_id":85853455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.981533,32.875151,-85.981533,32.875151],
+  "bbox": [
+    -85.981533,
+    32.875151,
+    -85.981533,
+    32.875151
+],
   "geometry": {"coordinates":[-85.981533,32.875151],"type":"Point"}
 }

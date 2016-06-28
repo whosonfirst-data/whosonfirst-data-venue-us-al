@@ -2,13 +2,14 @@
   "id": 152195271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.518076,34.1674,-86.518076,34.1674",
     "geom:latitude":34.1674,
     "geom:longitude":-86.518076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"78906 US Hwy 278",
     "sg:city":"Blountsville",
     "sg:classifiers":[
@@ -30,10 +31,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085667,
-        85633793,
         85688675,
-        85819523
+        85633793,
+        85819523,
+        102085667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152195271,
-    "wof:lastmodified":1449047336,
+    "wof:lastmodified":1466315873,
     "wof:name":"Chevron",
     "wof:parent_id":85819523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.518076,34.1674,-86.518076,34.1674],
-  "geometry": {"coordinates":[-86.518076,34.1674],"type":"Point"}
+  "bbox": [
+    -86.518076,
+    34.1674,
+    -86.518076,
+    34.1674
+],
+  "geometry": {"coordinates":[-86.51807599999999,34.1674],"type":"Point"}
 }

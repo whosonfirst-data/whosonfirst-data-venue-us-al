@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102477741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.785052,33.444486,-86.785052,33.444486",
     "geom:latitude":33.444486,
     "geom:longitude":-86.785052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2073 Lakewood Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853699,
+        85688675,
         85633793,
         85914483,
         102085481,
-        85688675
+        85853699
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102477741,
-    "wof:lastmodified":1449068220,
+    "wof:lastmodified":1466314656,
     "wof:name":"Lars Lighting",
     "wof:parent_id":85853699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.785052,33.444486,-86.785052,33.444486],
-  "geometry": {"coordinates":[-86.785052,33.444486],"type":"Point"}
+  "bbox": [
+    -86.785052,
+    33.444486,
+    -86.785052,
+    33.444486
+],
+  "geometry": {"coordinates":[-86.78505199999999,33.444486],"type":"Point"}
 }

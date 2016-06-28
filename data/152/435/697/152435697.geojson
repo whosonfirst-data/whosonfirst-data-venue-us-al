@@ -2,13 +2,14 @@
   "id": 152435697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.495976,33.591269,-86.495976,33.591269",
     "geom:latitude":33.591269,
     "geom:longitude":-86.495976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1804 Park Ave",
     "sg:city":"Moody",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807031,
+        85688675,
         85633793,
         85913421,
         102085647,
-        85688675
+        85807031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152435697,
-    "wof:lastmodified":1449048491,
+    "wof:lastmodified":1466318098,
     "wof:name":"Fairview Freewill Baptist Chr",
     "wof:parent_id":85807031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.495976,33.591269,-86.495976,33.591269],
+  "bbox": [
+    -86.495976,
+    33.591269,
+    -86.495976,
+    33.591269
+],
   "geometry": {"coordinates":[-86.495976,33.591269],"type":"Point"}
 }

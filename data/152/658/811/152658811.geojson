@@ -2,13 +2,14 @@
   "id": 152658811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.893257,32.533128,-85.893257,32.533128",
     "geom:latitude":32.533128,
     "geom:longitude":-85.893257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 S Ann Ave",
     "sg:city":"Tallassee",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827623,
+        85688675,
         85633793,
         85913291,
         102085631,
-        85688675
+        85827623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152658811,
-    "wof:lastmodified":1449044179,
+    "wof:lastmodified":1466319141,
     "wof:name":"Tallassee Jewelry & Gift Shop",
     "wof:parent_id":85827623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.893257,32.533128,-85.893257,32.533128],
-  "geometry": {"coordinates":[-85.893257,32.533128],"type":"Point"}
+  "bbox": [
+    -85.893257,
+    32.533128,
+    -85.893257,
+    32.533128
+],
+  "geometry": {"coordinates":[-85.89325700000001,32.533128],"type":"Point"}
 }

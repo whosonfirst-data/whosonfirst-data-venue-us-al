@@ -2,13 +2,14 @@
   "id": 152348267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.443826,34.637337,-86.443826,34.637337",
     "geom:latitude":34.637337,
     "geom:longitude":-86.443826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 Cobb Rd",
     "sg:city":"Gurley",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878245,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152348267,
-    "wof:lastmodified":1449044498,
+    "wof:lastmodified":1466317565,
     "wof:name":"Clg Avon Independent Rep",
     "wof:parent_id":85878245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.443826,34.637337,-86.443826,34.637337],
+  "bbox": [
+    -86.443826,
+    34.637337,
+    -86.443826,
+    34.637337
+],
   "geometry": {"coordinates":[-86.443826,34.637337],"type":"Point"}
 }

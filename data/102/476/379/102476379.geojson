@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102476379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.704692,33.488509,-86.704692,33.488509",
     "geom:latitude":33.488509,
     "geom:longitude":-86.704692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3732 Mountain View Ln",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808787,
+        85688675,
         85633793,
         85914483,
         102085481,
-        85688675
+        85808787
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102476379,
-    "wof:lastmodified":1449068742,
+    "wof:lastmodified":1466314385,
     "wof:name":"Davis A Barlow LLC",
     "wof:parent_id":85808787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.704692,33.488509,-86.704692,33.488509],
-  "geometry": {"coordinates":[-86.704692,33.488509],"type":"Point"}
+  "bbox": [
+    -86.704692,
+    33.488509,
+    -86.704692,
+    33.488509
+],
+  "geometry": {"coordinates":[-86.70469199999999,33.488509],"type":"Point"}
 }

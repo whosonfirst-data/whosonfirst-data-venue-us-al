@@ -2,13 +2,14 @@
   "id": 152602521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.44759,32.456531,-86.44759,32.456531",
     "geom:latitude":32.456531,
     "geom:longitude":-86.44759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"963 S Memorial Dr",
     "sg:city":"Prattville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843041,
+        85688675,
         85633793,
         85913977,
         102085509,
-        85688675
+        85843041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152602521,
-    "wof:lastmodified":1449046479,
+    "wof:lastmodified":1466318875,
     "wof:name":"Grooming Plus",
     "wof:parent_id":85843041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.44759,32.456531,-86.44759,32.456531],
-  "geometry": {"coordinates":[-86.44759,32.456531],"type":"Point"}
+  "bbox": [
+    -86.44759,
+    32.456531,
+    -86.44759,
+    32.456531
+],
+  "geometry": {"coordinates":[-86.44759000000001,32.456531],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152411671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.703571,34.730914,-87.703571,34.730914",
     "geom:latitude":34.730914,
     "geom:longitude":-87.703571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 S Main St",
     "sg:city":"Tuscumbia",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852605,
+        85688675,
         85633793,
         85897447,
         102085625,
-        85688675
+        85852605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152411671,
-    "wof:lastmodified":1449044513,
+    "wof:lastmodified":1466317886,
     "wof:name":"Hair Jungle",
     "wof:parent_id":85852605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.703571,34.730914,-87.703571,34.730914],
+  "bbox": [
+    -87.703571,
+    34.730914,
+    -87.703571,
+    34.730914
+],
   "geometry": {"coordinates":[-87.703571,34.730914],"type":"Point"}
 }

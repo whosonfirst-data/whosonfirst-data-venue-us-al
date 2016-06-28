@@ -2,13 +2,14 @@
   "id": 152434445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.853824,33.33309,-86.853824,33.33309",
     "geom:latitude":33.33309,
     "geom:longitude":-86.853824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"532 Mineral Trce",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.hi-techenv.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829763,
+        85688675,
         85633793,
         85914475,
         102085481,
-        85688675
+        85829763
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152434445,
-    "wof:lastmodified":1449045303,
+    "wof:lastmodified":1466317994,
     "wof:name":"Hi-Tech Environmental Inc",
     "wof:parent_id":85829763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.853824,33.33309,-86.853824,33.33309],
+  "bbox": [
+    -86.853824,
+    33.33309,
+    -86.853824,
+    33.33309
+],
   "geometry": {"coordinates":[-86.853824,33.33309],"type":"Point"}
 }

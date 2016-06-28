@@ -2,13 +2,14 @@
   "id": 152614135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.792822,33.47963,-86.792822,33.47963",
     "geom:latitude":33.47963,
     "geom:longitude":-86.792822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2832 Linden Ave",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -33,11 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845971,
+        85688675,
         85633793,
         85914847,
         102085481,
-        85688675
+        85845971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":152614135,
-    "wof:lastmodified":1449049024,
+    "wof:lastmodified":1466318910,
     "wof:name":"Alabama Reweaving Co Inc",
     "wof:parent_id":85845971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.792822,33.47963,-86.792822,33.47963],
+  "bbox": [
+    -86.792822,
+    33.47963,
+    -86.792822,
+    33.47963
+],
   "geometry": {"coordinates":[-86.792822,33.47963],"type":"Point"}
 }

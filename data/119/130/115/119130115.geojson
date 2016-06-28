@@ -2,13 +2,14 @@
   "id": 119130115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.150672,30.389718,-88.150672,30.389718",
     "geom:latitude":30.389718,
     "geom:longitude":-88.150672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4680 Smith Rd",
     "sg:city":"Coden",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":119130115,
-    "wof:lastmodified":1449041697,
+    "wof:lastmodified":1466314515,
     "wof:name":"Captain Pete",
     "wof:parent_id":85688675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.150672,30.389718,-88.150672,30.389718],
+  "bbox": [
+    -88.150672,
+    30.389718,
+    -88.150672,
+    30.389718
+],
   "geometry": {"coordinates":[-88.150672,30.389718],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152290783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.496686,33.690406,-86.496686,33.690406",
     "geom:latitude":33.690406,
     "geom:longitude":-86.496686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"72 Sweetgum Ln",
     "sg:city":"Odenville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807031,
+        85688675,
         85633793,
         85913421,
         102085647,
-        85688675
+        85807031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152290783,
-    "wof:lastmodified":1449046298,
+    "wof:lastmodified":1466317020,
     "wof:name":"Glenn Trucking Inc",
     "wof:parent_id":85807031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.496686,33.690406,-86.496686,33.690406],
+  "bbox": [
+    -86.496686,
+    33.690406,
+    -86.496686,
+    33.690406
+],
   "geometry": {"coordinates":[-86.496686,33.690406],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152358901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.828929,33.179311,-86.828929,33.179311",
     "geom:latitude":33.179311,
     "geom:longitude":-86.828929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Park Forest Ter",
     "sg:city":"Montevallo",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85839361,
+        85688675,
         85633793,
         85914487,
         102085499,
-        85688675
+        85839361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152358901,
-    "wof:lastmodified":1449046256,
+    "wof:lastmodified":1466317773,
     "wof:name":"John R Braswell",
     "wof:parent_id":85839361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.828929,33.179311,-86.828929,33.179311],
+  "bbox": [
+    -86.828929,
+    33.179311,
+    -86.828929,
+    33.179311
+],
   "geometry": {"coordinates":[-86.828929,33.179311],"type":"Point"}
 }

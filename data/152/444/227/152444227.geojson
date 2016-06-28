@@ -2,13 +2,14 @@
   "id": 152444227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.684912,30.409318,-87.684912,30.409318",
     "geom:latitude":30.409318,
     "geom:longitude":-87.684912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"370 N Alston St",
     "sg:city":"Foley",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868551,
+        85688675,
         85633793,
         85914719,
         102085469,
-        85688675
+        85868551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152444227,
-    "wof:lastmodified":1449048287,
+    "wof:lastmodified":1466318043,
     "wof:name":"Roseony Law Firm LLC",
     "wof:parent_id":85868551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.684912,30.409318,-87.684912,30.409318],
+  "bbox": [
+    -87.684912,
+    30.409318,
+    -87.684912,
+    30.409318
+],
   "geometry": {"coordinates":[-87.684912,30.409318],"type":"Point"}
 }

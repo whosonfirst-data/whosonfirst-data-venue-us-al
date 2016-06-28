@@ -2,13 +2,14 @@
   "id": 152395897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.494285,33.591766,-86.494285,33.591766",
     "geom:latitude":33.591766,
     "geom:longitude":-86.494285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3043 Moody Pkwy",
     "sg:city":"Moody",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807031,
+        85688675,
         85633793,
         85913421,
         102085647,
-        85688675
+        85807031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152395897,
-    "wof:lastmodified":1449048241,
+    "wof:lastmodified":1466317866,
     "wof:name":"Taylor Farms Golf Shop",
     "wof:parent_id":85807031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.494285,33.591766,-86.494285,33.591766],
+  "bbox": [
+    -86.494285,
+    33.591766,
+    -86.494285,
+    33.591766
+],
   "geometry": {"coordinates":[-86.494285,33.591766],"type":"Point"}
 }

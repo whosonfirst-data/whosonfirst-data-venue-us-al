@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102508219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.829214,33.46071,-86.829214,33.46071",
     "geom:latitude":33.46071,
     "geom:longitude":-86.829214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"160 Oxmoor Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817409,
+        85688675,
         85633793,
         85914847,
         102085481,
-        85688675
+        85817409
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":102508219,
-    "wof:lastmodified":1449069094,
+    "wof:lastmodified":1466316568,
     "wof:name":"All Sports Training",
     "wof:parent_id":85817409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.829214,33.46071,-86.829214,33.46071],
-  "geometry": {"coordinates":[-86.829214,33.46071],"type":"Point"}
+  "bbox": [
+    -86.829214,
+    33.46071,
+    -86.829214,
+    33.46071
+],
+  "geometry": {"coordinates":[-86.82921399999999,33.46071],"type":"Point"}
 }

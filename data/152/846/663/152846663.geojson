@@ -2,13 +2,14 @@
   "id": 152846663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.83566,33.602281,-85.83566,33.602281",
     "geom:latitude":33.602281,
     "geom:longitude":-85.83566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Elm St",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827499,
+        85688675,
         85633793,
         85914159,
         102085603,
-        85688675
+        85827499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152846663,
-    "wof:lastmodified":1449047881,
+    "wof:lastmodified":1466320143,
     "wof:name":"Viacom Inc",
     "wof:parent_id":85827499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.83566,33.602281,-85.83566,33.602281],
+  "bbox": [
+    -85.83566,
+    33.602281,
+    -85.83566,
+    33.602281
+],
   "geometry": {"coordinates":[-85.83566,33.602281],"type":"Point"}
 }

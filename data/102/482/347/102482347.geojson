@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102482347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.71672,33.51688,-86.71672,33.51688",
     "geom:latitude":33.51688,
     "geom:longitude":-86.71672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1904 Winnsboro Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850695,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85850695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102482347,
-    "wof:lastmodified":1449068640,
+    "wof:lastmodified":1466315518,
     "wof:name":"Digital Resources",
     "wof:parent_id":85850695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.71672,33.51688,-86.71672,33.51688],
+  "bbox": [
+    -86.71672,
+    33.51688,
+    -86.71672,
+    33.51688
+],
   "geometry": {"coordinates":[-86.71672,33.51688],"type":"Point"}
 }

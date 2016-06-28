@@ -2,13 +2,14 @@
   "id": 152293287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.972166,34.804456,-86.972166,34.804456",
     "geom:latitude":34.804456,
     "geom:longitude":-86.972166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 N Jefferson St",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829531,
+        85688675,
         85633793,
         85913543,
         102085489,
-        85688675
+        85829531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152293287,
-    "wof:lastmodified":1449045209,
+    "wof:lastmodified":1466317056,
     "wof:name":"Bob's The Place For Hair",
     "wof:parent_id":85829531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.972166,34.804456,-86.972166,34.804456],
+  "bbox": [
+    -86.972166,
+    34.804456,
+    -86.972166,
+    34.804456
+],
   "geometry": {"coordinates":[-86.972166,34.804456],"type":"Point"}
 }

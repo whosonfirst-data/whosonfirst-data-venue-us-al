@@ -2,13 +2,14 @@
   "id": 102629311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.313842,33.842245,-87.313842,33.842245",
     "geom:latitude":33.842245,
     "geom:longitude":-87.313842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1345 S Skyline Dr",
     "sg:city":"Jasper",
     "sg:classifiers":[
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":102629311,
-    "wof:lastmodified":1449069623,
+    "wof:lastmodified":1466317452,
     "wof:name":"Hilton Communications Inc",
     "wof:parent_id":85913495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.313842,33.842245,-87.313842,33.842245],
-  "geometry": {"coordinates":[-87.313842,33.842245],"type":"Point"}
+  "bbox": [
+    -87.313842,
+    33.842245,
+    -87.313842,
+    33.842245
+],
+  "geometry": {"coordinates":[-87.31384199999999,33.842245],"type":"Point"}
 }

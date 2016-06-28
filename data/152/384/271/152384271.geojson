@@ -2,13 +2,14 @@
   "id": 152384271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.594439,33.186288,-87.594439,33.186288",
     "geom:latitude":33.186288,
     "geom:longitude":-87.594439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3020 Fosters Ferry Rd",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085553,
-        85633793,
         85688675,
-        85812491
+        85633793,
+        85812491,
+        102085553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152384271,
-    "wof:lastmodified":1449044880,
+    "wof:lastmodified":1466317802,
     "wof:name":"Delta Transport",
     "wof:parent_id":85812491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.594439,33.186288,-87.594439,33.186288],
-  "geometry": {"coordinates":[-87.594439,33.186288],"type":"Point"}
+  "bbox": [
+    -87.594439,
+    33.186288,
+    -87.594439,
+    33.186288
+],
+  "geometry": {"coordinates":[-87.59443899999999,33.186288],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102483663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.541869,33.198851,-87.541869,33.198851",
     "geom:latitude":33.198851,
     "geom:longitude":-87.541869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 15th St",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819951,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85819951
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102483663,
-    "wof:lastmodified":1449069667,
+    "wof:lastmodified":1466315604,
     "wof:name":"Maharaj Of India",
     "wof:parent_id":85819951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.541869,33.198851,-87.541869,33.198851],
-  "geometry": {"coordinates":[-87.541869,33.198851],"type":"Point"}
+  "bbox": [
+    -87.541869,
+    33.198851,
+    -87.541869,
+    33.198851
+],
+  "geometry": {"coordinates":[-87.54186900000001,33.198851],"type":"Point"}
 }

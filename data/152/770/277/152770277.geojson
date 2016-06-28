@@ -2,13 +2,14 @@
   "id": 152770277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.479908,32.60825,-85.479908,32.60825",
     "geom:latitude":32.60825,
     "geom:longitude":-85.479908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 N Gay St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809707,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85809707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152770277,
-    "wof:lastmodified":1449048979,
+    "wof:lastmodified":1466319564,
     "wof:name":"Investment Professionals Inc",
     "wof:parent_id":85809707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.479908,32.60825,-85.479908,32.60825],
-  "geometry": {"coordinates":[-85.479908,32.60825],"type":"Point"}
+  "bbox": [
+    -85.479908,
+    32.60825,
+    -85.479908,
+    32.60825
+],
+  "geometry": {"coordinates":[-85.47990799999999,32.60825],"type":"Point"}
 }

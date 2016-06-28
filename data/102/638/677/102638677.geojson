@@ -2,13 +2,14 @@
   "id": 102638677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.683192,30.284376,-87.683192,30.284376",
     "geom:latitude":30.284376,
     "geom:longitude":-87.683192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3113 E 2nd St",
     "sg:city":"Gulf Shores",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102638677,
-    "wof:lastmodified":1449067916,
+    "wof:lastmodified":1466317440,
     "wof:name":"Gulf Shores Automotive",
     "wof:parent_id":85914719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.683192,30.284376,-87.683192,30.284376],
-  "geometry": {"coordinates":[-87.683192,30.284376],"type":"Point"}
+  "bbox": [
+    -87.683192,
+    30.284376,
+    -87.683192,
+    30.284376
+],
+  "geometry": {"coordinates":[-87.68319200000001,30.284376],"type":"Point"}
 }

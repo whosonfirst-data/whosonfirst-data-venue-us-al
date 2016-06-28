@@ -2,13 +2,14 @@
   "id": 152602599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.295523,32.3776,-86.295523,32.3776",
     "geom:latitude":32.3776,
     "geom:longitude":-86.295523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"926 Pelham St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.ahsaa.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879043,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152602599,
-    "wof:lastmodified":1449046476,
+    "wof:lastmodified":1466318880,
     "wof:name":"Alabama High School Athletic",
     "wof:parent_id":85879043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.295523,32.3776,-86.295523,32.3776],
+  "bbox": [
+    -86.295523,
+    32.3776,
+    -86.295523,
+    32.3776
+],
   "geometry": {"coordinates":[-86.295523,32.3776],"type":"Point"}
 }

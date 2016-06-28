@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102438921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.388922,31.234529,-85.388922,31.234529",
     "geom:latitude":31.234529,
     "geom:longitude":-85.388922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"314 Doris Aly",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852069,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85852069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102438921,
-    "wof:lastmodified":1449068604,
+    "wof:lastmodified":1466314703,
     "wof:name":"B & B Child Development Center",
     "wof:parent_id":85852069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.388922,31.234529,-85.388922,31.234529],
-  "geometry": {"coordinates":[-85.388922,31.234529],"type":"Point"}
+  "bbox": [
+    -85.388922,
+    31.234529,
+    -85.388922,
+    31.234529
+],
+  "geometry": {"coordinates":[-85.38892199999999,31.234529],"type":"Point"}
 }

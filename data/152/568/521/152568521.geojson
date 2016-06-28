@@ -2,13 +2,14 @@
   "id": 152568521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.362713,32.479112,-86.362713,32.479112",
     "geom:latitude":32.479112,
     "geom:longitude":-86.362713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3630 Edgewood Rd",
     "sg:city":"Millbrook",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085631,
-        85633793,
         85688675,
-        85822701
+        85633793,
+        85822701,
+        102085631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152568521,
-    "wof:lastmodified":1449044178,
+    "wof:lastmodified":1466318678,
     "wof:name":"Central Bible Chapel",
     "wof:parent_id":85822701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.362713,32.479112,-86.362713,32.479112],
+  "bbox": [
+    -86.362713,
+    32.479112,
+    -86.362713,
+    32.479112
+],
   "geometry": {"coordinates":[-86.362713,32.479112],"type":"Point"}
 }

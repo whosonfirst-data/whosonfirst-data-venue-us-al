@@ -2,13 +2,14 @@
   "id": 152262123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.519838,32.702968,-86.519838,32.702968",
     "geom:latitude":32.702968,
     "geom:longitude":-86.519838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3098 Go Cart Rd",
     "sg:city":"Marbury",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831059,
+        85688675,
         85633793,
         85913977,
         102085509,
-        85688675
+        85831059
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152262123,
-    "wof:lastmodified":1449047158,
+    "wof:lastmodified":1466316659,
     "wof:name":"Marbury Dirt Track & Cart Shop",
     "wof:parent_id":85831059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.519838,32.702968,-86.519838,32.702968],
-  "geometry": {"coordinates":[-86.519838,32.702968],"type":"Point"}
+  "bbox": [
+    -86.519838,
+    32.702968,
+    -86.519838,
+    32.702968
+],
+  "geometry": {"coordinates":[-86.51983799999999,32.702968],"type":"Point"}
 }

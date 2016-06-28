@@ -2,13 +2,14 @@
   "id": 152664749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.4899,32.579596,-85.4899,32.579596",
     "geom:latitude":32.579596,
     "geom:longitude":-85.4899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"190 E University Dr",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.gardendistrictrentals.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858229,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85858229
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152664749,
-    "wof:lastmodified":1449046014,
+    "wof:lastmodified":1466319163,
     "wof:name":"Garden District Apartments",
     "wof:parent_id":85858229,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.4899,32.579596,-85.4899,32.579596],
-  "geometry": {"coordinates":[-85.4899,32.579596],"type":"Point"}
+  "bbox": [
+    -85.4899,
+    32.579596,
+    -85.4899,
+    32.579596
+],
+  "geometry": {"coordinates":[-85.48990000000001,32.579596],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152235301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.756608,33.778242,-85.756608,33.778242",
     "geom:latitude":33.778242,
     "geom:longitude":-85.756608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Harris St",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817157,
+        85688675,
         85633793,
         85914293,
         102085603,
-        85688675
+        85817157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152235301,
-    "wof:lastmodified":1449045106,
+    "wof:lastmodified":1466316434,
     "wof:name":"Jacksonville Mobile Home Park",
     "wof:parent_id":85817157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.756608,33.778242,-85.756608,33.778242],
+  "bbox": [
+    -85.756608,
+    33.778242,
+    -85.756608,
+    33.778242
+],
   "geometry": {"coordinates":[-85.756608,33.778242],"type":"Point"}
 }

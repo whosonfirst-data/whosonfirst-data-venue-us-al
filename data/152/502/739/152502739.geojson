@@ -2,13 +2,14 @@
   "id": 152502739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.134393,30.675972,-88.134393,30.675972",
     "geom:latitude":30.675972,
     "geom:longitude":-88.134393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3725 Airport Blvd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878977,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152502739,
-    "wof:lastmodified":1449046428,
+    "wof:lastmodified":1466318368,
     "wof:name":"Marshe' Tailoring-Alterations",
     "wof:parent_id":85878977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.134393,30.675972,-88.134393,30.675972],
+  "bbox": [
+    -88.134393,
+    30.675972,
+    -88.134393,
+    30.675972
+],
   "geometry": {"coordinates":[-88.134393,30.675972],"type":"Point"}
 }

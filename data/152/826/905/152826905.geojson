@@ -2,13 +2,14 @@
   "id": 152826905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.18449,30.578635,-88.18449,30.578635",
     "geom:latitude":30.578635,
     "geom:longitude":-88.18449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5401 Quail Run N",
     "sg:city":"Theodore",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852259,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85852259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152826905,
-    "wof:lastmodified":1449047654,
+    "wof:lastmodified":1466319996,
     "wof:name":"Jump Time Moonwalk Rental",
     "wof:parent_id":85852259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.18449,30.578635,-88.18449,30.578635],
+  "bbox": [
+    -88.18449,
+    30.578635,
+    -88.18449,
+    30.578635
+],
   "geometry": {"coordinates":[-88.18449,30.578635],"type":"Point"}
 }

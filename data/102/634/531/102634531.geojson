@@ -2,13 +2,14 @@
   "id": 102634531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.207757,32.398789,-86.207757,32.398789",
     "geom:latitude":32.398789,
     "geom:longitude":-86.207757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"818 Oliver Ct",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834995,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85834995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102634531,
-    "wof:lastmodified":1449068916,
+    "wof:lastmodified":1466317567,
     "wof:name":"Morrow Electric Co",
     "wof:parent_id":85834995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.207757,32.398789,-86.207757,32.398789],
+  "bbox": [
+    -86.207757,
+    32.398789,
+    -86.207757,
+    32.398789
+],
   "geometry": {"coordinates":[-86.207757,32.398789],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102609995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.625993,33.469003,-86.625993,33.469003",
     "geom:latitude":33.469003,
     "geom:longitude":-86.625993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6200 Foxwood Trl",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":102609995,
-    "wof:lastmodified":1449068670,
+    "wof:lastmodified":1466317299,
     "wof:name":"Barger Group",
     "wof:parent_id":85688675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.625993,33.469003,-86.625993,33.469003],
-  "geometry": {"coordinates":[-86.625993,33.469003],"type":"Point"}
+  "bbox": [
+    -86.625993,
+    33.469003,
+    -86.625993,
+    33.469003
+],
+  "geometry": {"coordinates":[-86.62599299999999,33.469003],"type":"Point"}
 }

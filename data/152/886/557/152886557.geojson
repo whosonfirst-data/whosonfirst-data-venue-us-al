@@ -2,13 +2,14 @@
   "id": 152886557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.837259,30.837703,-87.837259,30.837703",
     "geom:latitude":30.837703,
     "geom:longitude":-87.837259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42220 Duck Ln",
     "sg:city":"Bay Minette",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813343,
+        85688675,
         85633793,
         85914703,
         102085469,
-        85688675
+        85813343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152886557,
-    "wof:lastmodified":1449046859,
+    "wof:lastmodified":1466320266,
     "wof:name":"Mikes Electrical",
     "wof:parent_id":85813343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.837259,30.837703,-87.837259,30.837703],
+  "bbox": [
+    -87.837259,
+    30.837703,
+    -87.837259,
+    30.837703
+],
   "geometry": {"coordinates":[-87.837259,30.837703],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152287503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.948608,33.412254,-86.948608,33.412254",
     "geom:latitude":33.412254,
     "geom:longitude":-86.948608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2625 5th Ave N",
     "sg:city":"Bessemer",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807371,
+        85688675,
         85633793,
         85914885,
         102085481,
-        85688675
+        85807371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152287503,
-    "wof:lastmodified":1449044582,
+    "wof:lastmodified":1466316994,
     "wof:name":"Southline Steel Industries",
     "wof:parent_id":85807371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.948608,33.412254,-86.948608,33.412254],
-  "geometry": {"coordinates":[-86.948608,33.412254],"type":"Point"}
+  "bbox": [
+    -86.948608,
+    33.412254,
+    -86.948608,
+    33.412254
+],
+  "geometry": {"coordinates":[-86.94860799999999,33.412254],"type":"Point"}
 }

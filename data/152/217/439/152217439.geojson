@@ -2,13 +2,14 @@
   "id": 152217439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.455171,34.766389,-86.455171,34.766389",
     "geom:latitude":34.766389,
     "geom:longitude":-86.455171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 Ryland Pike",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152217439,
-    "wof:lastmodified":1449048641,
+    "wof:lastmodified":1466316030,
     "wof:name":"USA Sports Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.455171,34.766389,-86.455171,34.766389],
-  "geometry": {"coordinates":[-86.455171,34.766389],"type":"Point"}
+  "bbox": [
+    -86.455171,
+    34.766389,
+    -86.455171,
+    34.766389
+],
+  "geometry": {"coordinates":[-86.45517100000001,34.766389],"type":"Point"}
 }

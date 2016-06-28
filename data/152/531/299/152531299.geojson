@@ -2,13 +2,14 @@
   "id": 152531299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.261331,32.582359,-85.261331,32.582359",
     "geom:latitude":32.582359,
     "geom:longitude":-85.261331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3323 Co Rd 145",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819517,
+        85688675,
         85633793,
         85913815,
         102085751,
-        85688675
+        85819517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152531299,
-    "wof:lastmodified":1449045384,
+    "wof:lastmodified":1466318539,
     "wof:name":"Salems Backwood Paintball",
     "wof:parent_id":85819517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.261331,32.582359,-85.261331,32.582359],
+  "bbox": [
+    -85.261331,
+    32.582359,
+    -85.261331,
+    32.582359
+],
   "geometry": {"coordinates":[-85.261331,32.582359],"type":"Point"}
 }

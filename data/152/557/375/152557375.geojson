@@ -2,13 +2,14 @@
   "id": 152557375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.136176,32.539168,-85.136176,32.539168",
     "geom:latitude":32.539168,
     "geom:longitude":-85.136176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4885 Co Rd 246",
     "sg:city":"Smiths",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819517,
+        85688675,
         85633793,
         85913815,
         102085751,
-        85688675
+        85819517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152557375,
-    "wof:lastmodified":1449047595,
+    "wof:lastmodified":1466318627,
     "wof:name":"Cavalry Tbernacle Assembly God",
     "wof:parent_id":85819517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.136176,32.539168,-85.136176,32.539168],
-  "geometry": {"coordinates":[-85.136176,32.539168],"type":"Point"}
+  "bbox": [
+    -85.136176,
+    32.539168,
+    -85.136176,
+    32.539168
+],
+  "geometry": {"coordinates":[-85.13617600000001,32.539168],"type":"Point"}
 }

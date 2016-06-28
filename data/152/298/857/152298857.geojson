@@ -2,13 +2,14 @@
   "id": 152298857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.779969,33.094033,-86.779969,33.094033",
     "geom:latitude":33.094033,
     "geom:longitude":-86.779969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9300 State Rte 25",
     "sg:city":"Calera",
     "sg:classifiers":[
@@ -30,10 +31,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85849529
+        85633793,
+        85849529,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152298857,
-    "wof:lastmodified":1449045550,
+    "wof:lastmodified":1466317092,
     "wof:name":"Precision Fastners",
     "wof:parent_id":85849529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.779969,33.094033,-86.779969,33.094033],
-  "geometry": {"coordinates":[-86.779969,33.094033],"type":"Point"}
+  "bbox": [
+    -86.779969,
+    33.094033,
+    -86.779969,
+    33.094033
+],
+  "geometry": {"coordinates":[-86.77996899999999,33.094033],"type":"Point"}
 }

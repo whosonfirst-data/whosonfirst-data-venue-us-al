@@ -2,13 +2,14 @@
   "id": 102632609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.474948,33.090815,-85.474948,33.090815",
     "geom:latitude":33.090815,
     "geom:longitude":-85.474948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5355 Co Rd 237",
     "sg:city":"Roanoke",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":102632609,
-    "wof:lastmodified":1449069305,
+    "wof:lastmodified":1466317534,
     "wof:name":"Dairy Cone",
     "wof:parent_id":85688675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.474948,33.090815,-85.474948,33.090815],
+  "bbox": [
+    -85.474948,
+    33.090815,
+    -85.474948,
+    33.090815
+],
   "geometry": {"coordinates":[-85.474948,33.090815],"type":"Point"}
 }

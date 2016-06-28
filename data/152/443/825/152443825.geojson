@@ -2,13 +2,14 @@
   "id": 152443825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.862466,33.500419,-86.862466,33.500419",
     "geom:latitude":33.500419,
     "geom:longitude":-86.862466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1528 Lomb Ave",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840057,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85840057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152443825,
-    "wof:lastmodified":1449048065,
+    "wof:lastmodified":1466318129,
     "wof:name":"C & Y Construction Co",
     "wof:parent_id":85840057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.862466,33.500419,-86.862466,33.500419],
+  "bbox": [
+    -86.862466,
+    33.500419,
+    -86.862466,
+    33.500419
+],
   "geometry": {"coordinates":[-86.862466,33.500419],"type":"Point"}
 }

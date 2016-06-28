@@ -2,13 +2,14 @@
   "id": 152805129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.068823,33.649293,-87.068823,33.649293",
     "geom:latitude":33.649293,
     "geom:longitude":-87.068823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6775 W Jefferson Rd",
     "sg:city":"Quinton",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152805129,
-    "wof:lastmodified":1449045851,
+    "wof:lastmodified":1466319869,
     "wof:name":"Jefferson West Convenience Str",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.068823,33.649293,-87.068823,33.649293],
-  "geometry": {"coordinates":[-87.068823,33.649293],"type":"Point"}
+  "bbox": [
+    -87.068823,
+    33.649293,
+    -87.068823,
+    33.649293
+],
+  "geometry": {"coordinates":[-87.06882299999999,33.649293],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152816207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.701821,34.759919,-87.701821,34.759919",
     "geom:latitude":34.759919,
     "geom:longitude":-87.701821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 W 2nd St",
     "sg:city":"Muscle Shoals",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858837,
+        85688675,
         85633793,
         85897473,
         102085625,
-        85688675
+        85858837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152816207,
-    "wof:lastmodified":1449046999,
+    "wof:lastmodified":1466319925,
     "wof:name":"D T's Trim & Glass",
     "wof:parent_id":85858837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.701821,34.759919,-87.701821,34.759919],
+  "bbox": [
+    -87.701821,
+    34.759919,
+    -87.701821,
+    34.759919
+],
   "geometry": {"coordinates":[-87.701821,34.759919],"type":"Point"}
 }

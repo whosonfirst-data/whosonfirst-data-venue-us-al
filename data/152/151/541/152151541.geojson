@@ -2,13 +2,14 @@
   "id": 152151541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.867416,30.68596,-87.867416,30.68596",
     "geom:latitude":30.68596,
     "geom:longitude":-87.867416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31738 Buzbee Rd",
     "sg:city":"Spanish Fort",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807399,
+        85688675,
         85633793,
         85914741,
         102085469,
-        85688675
+        85807399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152151541,
-    "wof:lastmodified":1449044340,
+    "wof:lastmodified":1466314619,
     "wof:name":"East Bay Electric Co",
     "wof:parent_id":85807399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.867416,30.68596,-87.867416,30.68596],
-  "geometry": {"coordinates":[-87.867416,30.68596],"type":"Point"}
+  "bbox": [
+    -87.867416,
+    30.68596,
+    -87.867416,
+    30.68596
+],
+  "geometry": {"coordinates":[-87.86741600000001,30.68596],"type":"Point"}
 }

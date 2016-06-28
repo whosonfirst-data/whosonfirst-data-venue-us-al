@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102457293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.085789,30.691663,-88.085789,30.691663",
     "geom:latitude":30.691663,
     "geom:longitude":-88.085789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1903 Spring Hill Ave",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878989,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102457293,
-    "wof:lastmodified":1449069399,
+    "wof:lastmodified":1466314862,
     "wof:name":"Gulf Coast Therapy",
     "wof:parent_id":85878989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.085789,30.691663,-88.085789,30.691663],
-  "geometry": {"coordinates":[-88.085789,30.691663],"type":"Point"}
+  "bbox": [
+    -88.085789,
+    30.691663,
+    -88.085789,
+    30.691663
+],
+  "geometry": {"coordinates":[-88.08578900000001,30.691663],"type":"Point"}
 }

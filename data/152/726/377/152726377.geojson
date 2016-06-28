@@ -2,13 +2,14 @@
   "id": 152726377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.810392,33.515847,-86.810392,33.515847",
     "geom:latitude":33.515847,
     "geom:longitude":-86.810392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 4th Ave N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820315,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85820315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152726377,
-    "wof:lastmodified":1449047465,
+    "wof:lastmodified":1466319452,
     "wof:name":"Urban Impact Inc",
     "wof:parent_id":85820315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.810392,33.515847,-86.810392,33.515847],
-  "geometry": {"coordinates":[-86.810392,33.515847],"type":"Point"}
+  "bbox": [
+    -86.810392,
+    33.515847,
+    -86.810392,
+    33.515847
+],
+  "geometry": {"coordinates":[-86.81039199999999,33.515847],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152880431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.555315,33.293797,-86.555315,33.293797",
     "geom:latitude":33.293797,
     "geom:longitude":-86.555315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5166 Co Rd 55",
     "sg:city":"Wilsonville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825591,
+        85688675,
         85633793,
         85914497,
         102085499,
-        85688675
+        85825591
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152880431,
-    "wof:lastmodified":1449048933,
+    "wof:lastmodified":1466320238,
     "wof:name":"Hyde  T & D Logging",
     "wof:parent_id":85825591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.555315,33.293797,-86.555315,33.293797],
-  "geometry": {"coordinates":[-86.555315,33.293797],"type":"Point"}
+  "bbox": [
+    -86.555315,
+    33.293797,
+    -86.555315,
+    33.293797
+],
+  "geometry": {"coordinates":[-86.55531499999999,33.293797],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152636443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.603047,34.719812,-86.603047,34.719812",
     "geom:latitude":34.719812,
     "geom:longitude":-86.603047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2817 Governors Dr SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85855713,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85855713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152636443,
-    "wof:lastmodified":1449046145,
+    "wof:lastmodified":1466318956,
     "wof:name":"Tom Sharp Tire Svc",
     "wof:parent_id":85855713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.603047,34.719812,-86.603047,34.719812],
+  "bbox": [
+    -86.603047,
+    34.719812,
+    -86.603047,
+    34.719812
+],
   "geometry": {"coordinates":[-86.603047,34.719812],"type":"Point"}
 }

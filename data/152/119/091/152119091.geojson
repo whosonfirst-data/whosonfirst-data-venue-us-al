@@ -2,13 +2,14 @@
   "id": 152119091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.31108,31.207491,-87.31108,31.207491",
     "geom:latitude":31.207491,
     "geom:longitude":-87.31108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"575 Barnett Hwy",
     "sg:city":"Brewton",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843687,
+        85688675,
         85633793,
         85899775,
         102085735,
-        85688675
+        85843687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152119091,
-    "wof:lastmodified":1449047598,
+    "wof:lastmodified":1466314504,
     "wof:name":"Cleve Roberson Inc",
     "wof:parent_id":85843687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.31108,31.207491,-87.31108,31.207491],
+  "bbox": [
+    -87.31108,
+    31.207491,
+    -87.31108,
+    31.207491
+],
   "geometry": {"coordinates":[-87.31108,31.207491],"type":"Point"}
 }

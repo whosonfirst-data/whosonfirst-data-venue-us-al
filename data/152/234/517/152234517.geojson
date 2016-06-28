@@ -2,13 +2,14 @@
   "id": 152234517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.048356,33.579392,-86.048356,33.579392",
     "geom:latitude":33.579392,
     "geom:longitude":-86.048356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4715 Speedway Blvd",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085517,
-        85633793,
         85688675,
-        85849013
+        85633793,
+        85849013,
+        102085517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152234517,
-    "wof:lastmodified":1449048666,
+    "wof:lastmodified":1466316345,
     "wof:name":"Birmingham News",
     "wof:parent_id":85849013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.048356,33.579392,-86.048356,33.579392],
+  "bbox": [
+    -86.048356,
+    33.579392,
+    -86.048356,
+    33.579392
+],
   "geometry": {"coordinates":[-86.048356,33.579392],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152422355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.517009,33.479431,-86.517009,33.479431",
     "geom:latitude":33.479431,
     "geom:longitude":-86.517009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"53370 State Rte 25",
     "sg:city":"Vandiver",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85833411
+        85633793,
+        85833411,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152422355,
-    "wof:lastmodified":1449044624,
+    "wof:lastmodified":1466317963,
     "wof:name":"Parker's Auto Svc",
     "wof:parent_id":85833411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.517009,33.479431,-86.517009,33.479431],
+  "bbox": [
+    -86.517009,
+    33.479431,
+    -86.517009,
+    33.479431
+],
   "geometry": {"coordinates":[-86.517009,33.479431],"type":"Point"}
 }

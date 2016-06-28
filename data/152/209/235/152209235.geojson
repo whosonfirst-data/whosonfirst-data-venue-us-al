@@ -2,13 +2,14 @@
   "id": 152209235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.531958,33.197914,-87.531958,33.197914",
     "geom:latitude":33.197914,
     "geom:longitude":-87.531958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 15th St E",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819951,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85819951
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152209235,
-    "wof:lastmodified":1449048427,
+    "wof:lastmodified":1466316007,
     "wof:name":"Acker Appliace & T V Inc",
     "wof:parent_id":85819951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.531958,33.197914,-87.531958,33.197914],
+  "bbox": [
+    -87.531958,
+    33.197914,
+    -87.531958,
+    33.197914
+],
   "geometry": {"coordinates":[-87.531958,33.197914],"type":"Point"}
 }

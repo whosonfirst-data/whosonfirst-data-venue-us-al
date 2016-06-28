@@ -2,13 +2,14 @@
   "id": 102614221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.732425,31.639948,-86.732425,31.639948",
     "geom:latitude":31.639948,
     "geom:longitude":-86.732425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Wilson Ave",
     "sg:city":"Georgiana",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102614221,
-    "wof:lastmodified":1449070275,
+    "wof:lastmodified":1466317291,
     "wof:name":"Hall Blanchie",
     "wof:parent_id":85913463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.732425,31.639948,-86.732425,31.639948],
-  "geometry": {"coordinates":[-86.732425,31.639948],"type":"Point"}
+  "bbox": [
+    -86.732425,
+    31.639948,
+    -86.732425,
+    31.639948
+],
+  "geometry": {"coordinates":[-86.73242500000001,31.639948],"type":"Point"}
 }

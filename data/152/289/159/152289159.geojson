@@ -2,13 +2,14 @@
   "id": 152289159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.810241,33.265754,-86.810241,33.265754",
     "geom:latitude":33.265754,
     "geom:longitude":-86.810241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3557 Pelham Pkwy",
     "sg:city":"Pelham",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828267,
+        85688675,
         85633793,
         85914501,
         102085499,
-        85688675
+        85828267
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":152289159,
-    "wof:lastmodified":1449048149,
+    "wof:lastmodified":1466317000,
     "wof:name":"Wayne's Produce",
     "wof:parent_id":85828267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.810241,33.265754,-86.810241,33.265754],
+  "bbox": [
+    -86.810241,
+    33.265754,
+    -86.810241,
+    33.265754
+],
   "geometry": {"coordinates":[-86.810241,33.265754],"type":"Point"}
 }

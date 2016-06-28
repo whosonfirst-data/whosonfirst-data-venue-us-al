@@ -2,13 +2,14 @@
   "id": 119129205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.919509,31.395766,-85.919509,31.395766",
     "geom:latitude":31.395766,
     "geom:longitude":-85.919509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"504 N John St",
     "sg:city":"New Brockton",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":119129205,
-    "wof:lastmodified":1449042992,
+    "wof:lastmodified":1466315447,
     "wof:name":"New Brockton Elementary School",
     "wof:parent_id":85899783,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.919509,31.395766,-85.919509,31.395766],
-  "geometry": {"coordinates":[-85.919509,31.395766],"type":"Point"}
+  "bbox": [
+    -85.919509,
+    31.395766,
+    -85.919509,
+    31.395766
+],
+  "geometry": {"coordinates":[-85.91950900000001,31.395766],"type":"Point"}
 }

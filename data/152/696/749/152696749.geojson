@@ -2,13 +2,14 @@
   "id": 152696749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.014211,32.432392,-85.014211,32.432392",
     "geom:latitude":32.432392,
     "geom:longitude":-85.014211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1523 7th St S",
     "sg:city":"Phenix City",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821167,
+        85688675,
         85633793,
         85913715,
         102085697,
-        85688675
+        85821167
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152696749,
-    "wof:lastmodified":1449044645,
+    "wof:lastmodified":1466319255,
     "wof:name":"Elijah Mc Kissic Rev",
     "wof:parent_id":85821167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.014211,32.432392,-85.014211,32.432392],
+  "bbox": [
+    -85.014211,
+    32.432392,
+    -85.014211,
+    32.432392
+],
   "geometry": {"coordinates":[-85.014211,32.432392],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152580697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.173057,32.33762,-86.173057,32.33762",
     "geom:latitude":32.33762,
     "geom:longitude":-86.173057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2116 Seaton Pl",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879051,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152580697,
-    "wof:lastmodified":1449047413,
+    "wof:lastmodified":1466318764,
     "wof:name":"Dan A Morgenstern MD",
     "wof:parent_id":85879051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.173057,32.33762,-86.173057,32.33762],
+  "bbox": [
+    -86.173057,
+    32.33762,
+    -86.173057,
+    32.33762
+],
   "geometry": {"coordinates":[-86.173057,32.33762],"type":"Point"}
 }

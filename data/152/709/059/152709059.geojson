@@ -2,13 +2,14 @@
   "id": 152709059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.487054,31.029494,-87.487054,31.029494",
     "geom:latitude":31.029494,
     "geom:longitude":-87.487054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 Carver Ave",
     "sg:city":"Atmore",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843687,
+        85688675,
         85633793,
         85899775,
         102085735,
-        85688675
+        85843687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152709059,
-    "wof:lastmodified":1449045222,
+    "wof:lastmodified":1466319377,
     "wof:name":"Gaines Chapel AME",
     "wof:parent_id":85843687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.487054,31.029494,-87.487054,31.029494],
+  "bbox": [
+    -87.487054,
+    31.029494,
+    -87.487054,
+    31.029494
+],
   "geometry": {"coordinates":[-87.487054,31.029494],"type":"Point"}
 }

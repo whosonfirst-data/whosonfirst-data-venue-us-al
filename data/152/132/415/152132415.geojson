@@ -2,13 +2,14 @@
   "id": 152132415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.503233,34.325034,-86.503233,34.325034",
     "geom:latitude":34.325034,
     "geom:longitude":-86.503233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"597 N Brindlee Mountain Pkwy",
     "sg:city":"Arab",
     "sg:classifiers":[
@@ -37,11 +38,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837211,
+        85688675,
         85633793,
         85913243,
         102085513,
-        85688675
+        85837211
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,14 +61,20 @@
         }
     ],
     "wof:id":152132415,
-    "wof:lastmodified":1449046568,
+    "wof:lastmodified":1466315174,
     "wof:name":"Outdoor Power & Key Service",
     "wof:parent_id":85837211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.503233,34.325034,-86.503233,34.325034],
-  "geometry": {"coordinates":[-86.503233,34.325034],"type":"Point"}
+  "bbox": [
+    -86.503233,
+    34.325034,
+    -86.503233,
+    34.325034
+],
+  "geometry": {"coordinates":[-86.50323299999999,34.325034],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152357891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.274427,32.372434,-86.274427,32.372434",
     "geom:latitude":32.372434,
     "geom:longitude":-86.274427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2509 Highland Ave",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809389,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85809389
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152357891,
-    "wof:lastmodified":1449048356,
+    "wof:lastmodified":1466317772,
     "wof:name":"South Alabama Ceramic Supply",
     "wof:parent_id":85809389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.274427,32.372434,-86.274427,32.372434],
+  "bbox": [
+    -86.274427,
+    32.372434,
+    -86.274427,
+    32.372434
+],
   "geometry": {"coordinates":[-86.274427,32.372434],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102461235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.77989,33.47452,-86.77989,33.47452",
     "geom:latitude":33.47452,
     "geom:longitude":-86.77989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Windsor Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850365,
+        85688675,
         85633793,
         85914847,
         102085481,
-        85688675
+        85850365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102461235,
-    "wof:lastmodified":1449068689,
+    "wof:lastmodified":1466314970,
     "wof:name":"John Cabral MD",
     "wof:parent_id":85850365,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.77989,33.47452,-86.77989,33.47452],
-  "geometry": {"coordinates":[-86.77989,33.47452],"type":"Point"}
+  "bbox": [
+    -86.77989,
+    33.47452,
+    -86.77989,
+    33.47452
+],
+  "geometry": {"coordinates":[-86.77988999999999,33.47452],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152141729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.579788,34.653756,-86.579788,34.653756",
     "geom:latitude":34.653756,
     "geom:longitude":-86.579788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7902 Craigmont Rd SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808719,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85808719
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152141729,
-    "wof:lastmodified":1449045929,
+    "wof:lastmodified":1466314405,
     "wof:name":"Adams Tree Svc",
     "wof:parent_id":85808719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.579788,34.653756,-86.579788,34.653756],
-  "geometry": {"coordinates":[-86.579788,34.653756],"type":"Point"}
+  "bbox": [
+    -86.579788,
+    34.653756,
+    -86.579788,
+    34.653756
+],
+  "geometry": {"coordinates":[-86.57978799999999,34.653756],"type":"Point"}
 }

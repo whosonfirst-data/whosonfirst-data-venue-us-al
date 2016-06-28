@@ -2,13 +2,14 @@
   "id": 152892129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.039267,33.963668,-86.039267,33.963668",
     "geom:latitude":33.963668,
     "geom:longitude":-86.039267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"529 Sutton Bridge Rd",
     "sg:city":"Rainbow City",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85835237,
+        85688675,
         85633793,
         85914367,
         102085545,
-        85688675
+        85835237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152892129,
-    "wof:lastmodified":1449044991,
+    "wof:lastmodified":1466320278,
     "wof:name":"Mince Flrg Intriors By Carolyn",
     "wof:parent_id":85835237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.039267,33.963668,-86.039267,33.963668],
+  "bbox": [
+    -86.039267,
+    33.963668,
+    -86.039267,
+    33.963668
+],
   "geometry": {"coordinates":[-86.039267,33.963668],"type":"Point"}
 }

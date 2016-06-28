@@ -2,13 +2,14 @@
   "id": 152225237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.510743,34.524034,-86.510743,34.524034",
     "geom:latitude":34.524034,
     "geom:longitude":-86.510743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2647 Hobbs Island Rd SE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152225237,
-    "wof:lastmodified":1449045743,
+    "wof:lastmodified":1466316241,
     "wof:name":"Baker Painting & Decorative",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.510743,34.524034,-86.510743,34.524034],
-  "geometry": {"coordinates":[-86.510743,34.524034],"type":"Point"}
+  "bbox": [
+    -86.510743,
+    34.524034,
+    -86.510743,
+    34.524034
+],
+  "geometry": {"coordinates":[-86.51074300000001,34.524034],"type":"Point"}
 }

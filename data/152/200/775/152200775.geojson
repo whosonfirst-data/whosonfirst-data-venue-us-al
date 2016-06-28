@@ -2,13 +2,14 @@
   "id": 152200775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.888937,33.486738,-86.888937,33.486738",
     "geom:latitude":33.486738,
     "geom:longitude":-86.888937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1573 Bessemer Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85832747,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85832747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152200775,
-    "wof:lastmodified":1449046158,
+    "wof:lastmodified":1466315949,
     "wof:name":"Sun Inn",
     "wof:parent_id":85832747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.888937,33.486738,-86.888937,33.486738],
+  "bbox": [
+    -86.888937,
+    33.486738,
+    -86.888937,
+    33.486738
+],
   "geometry": {"coordinates":[-86.888937,33.486738],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152784417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.734885,33.357749,-86.734885,33.357749",
     "geom:latitude":33.357749,
     "geom:longitude":-86.734885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5521 Parkview Cir",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85836661
+        85633793,
+        85836661,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152784417,
-    "wof:lastmodified":1449047380,
+    "wof:lastmodified":1466319755,
     "wof:name":"Liz Claiborne",
     "wof:parent_id":85836661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.734885,33.357749,-86.734885,33.357749],
-  "geometry": {"coordinates":[-86.734885,33.357749],"type":"Point"}
+  "bbox": [
+    -86.734885,
+    33.357749,
+    -86.734885,
+    33.357749
+],
+  "geometry": {"coordinates":[-86.73488500000001,33.357749],"type":"Point"}
 }

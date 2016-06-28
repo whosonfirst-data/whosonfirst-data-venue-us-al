@@ -2,13 +2,14 @@
   "id": 152478357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.236648,33.250566,-87.236648,33.250566",
     "geom:latitude":33.250566,
     "geom:longitude":-87.236648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12297 George Newell Rd",
     "sg:city":"Vance",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851363,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85851363
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152478357,
-    "wof:lastmodified":1449044450,
+    "wof:lastmodified":1466318217,
     "wof:name":"Criss Construction Co",
     "wof:parent_id":85851363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.236648,33.250566,-87.236648,33.250566],
+  "bbox": [
+    -87.236648,
+    33.250566,
+    -87.236648,
+    33.250566
+],
   "geometry": {"coordinates":[-87.236648,33.250566],"type":"Point"}
 }

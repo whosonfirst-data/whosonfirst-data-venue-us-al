@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102478569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.429881,32.478176,-86.429881,32.478176",
     "geom:latitude":32.478176,
     "geom:longitude":-86.429881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1762 Edinburgh St",
     "sg:city":"Prattville",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085631,
-        85633793,
         85688675,
-        85819047
+        85633793,
+        85819047,
+        102085631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102478569,
-    "wof:lastmodified":1449067850,
+    "wof:lastmodified":1466314821,
     "wof:name":"Kevin Vest",
     "wof:parent_id":85819047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.429881,32.478176,-86.429881,32.478176],
-  "geometry": {"coordinates":[-86.429881,32.478176],"type":"Point"}
+  "bbox": [
+    -86.429881,
+    32.478176,
+    -86.429881,
+    32.478176
+],
+  "geometry": {"coordinates":[-86.42988099999999,32.478176],"type":"Point"}
 }

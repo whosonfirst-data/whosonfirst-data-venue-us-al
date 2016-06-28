@@ -2,13 +2,14 @@
   "id": 152416727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.99861,34.334154,-85.99861,34.334154",
     "geom:latitude":34.334154,
     "geom:longitude":-85.99861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11671 State Rte 227",
     "sg:city":"Crossville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815015,
+        85688675,
         85633793,
         85897515,
         102085615,
-        85688675
+        85815015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152416727,
-    "wof:lastmodified":1449046390,
+    "wof:lastmodified":1466318026,
     "wof:name":"Galloway Propagation",
     "wof:parent_id":85815015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.99861,34.334154,-85.99861,34.334154],
+  "bbox": [
+    -85.99861,
+    34.334154,
+    -85.99861,
+    34.334154
+],
   "geometry": {"coordinates":[-85.99861,34.334154],"type":"Point"}
 }

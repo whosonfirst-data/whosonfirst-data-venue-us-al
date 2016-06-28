@@ -2,13 +2,14 @@
   "id": 152474629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.30534,32.399214,-86.30534,32.399214",
     "geom:latitude":32.399214,
     "geom:longitude":-86.30534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 N Mc Donough St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85836773,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85836773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152474629,
-    "wof:lastmodified":1449044490,
+    "wof:lastmodified":1466318292,
     "wof:name":"Browder Veneer Works",
     "wof:parent_id":85836773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.30534,32.399214,-86.30534,32.399214],
+  "bbox": [
+    -86.30534,
+    32.399214,
+    -86.30534,
+    32.399214
+],
   "geometry": {"coordinates":[-86.30534,32.399214],"type":"Point"}
 }

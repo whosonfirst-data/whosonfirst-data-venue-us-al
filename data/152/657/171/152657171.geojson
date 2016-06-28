@@ -2,13 +2,14 @@
   "id": 152657171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.445553,34.589609,-86.445553,34.589609",
     "geom:latitude":34.589609,
     "geom:longitude":-86.445553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"519 Wilson Mann Rd",
     "sg:city":"Owens Cross Rds",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878245,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152657171,
-    "wof:lastmodified":1449044829,
+    "wof:lastmodified":1466319121,
     "wof:name":"Deer Path EST",
     "wof:parent_id":85878245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.445553,34.589609,-86.445553,34.589609],
+  "bbox": [
+    -86.445553,
+    34.589609,
+    -86.445553,
+    34.589609
+],
   "geometry": {"coordinates":[-86.445553,34.589609],"type":"Point"}
 }

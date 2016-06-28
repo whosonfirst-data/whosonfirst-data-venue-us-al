@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102499827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.885195,33.424165,-86.885195,33.424165",
     "geom:latitude":33.424165,
     "geom:longitude":-86.885195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1555 Valley Dr",
     "sg:city":"Bessemer",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840093,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85840093
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102499827,
-    "wof:lastmodified":1449068254,
+    "wof:lastmodified":1466316509,
     "wof:name":"Valley Drive Auto Service",
     "wof:parent_id":85840093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.885195,33.424165,-86.885195,33.424165],
+  "bbox": [
+    -86.885195,
+    33.424165,
+    -86.885195,
+    33.424165
+],
   "geometry": {"coordinates":[-86.885195,33.424165],"type":"Point"}
 }

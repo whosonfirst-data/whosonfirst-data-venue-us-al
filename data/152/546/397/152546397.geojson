@@ -2,13 +2,14 @@
   "id": 152546397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.159074,34.532211,-87.159074,34.532211",
     "geom:latitude":34.532211,
     "geom:longitude":-87.159074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3874 Co Rd 434",
     "sg:city":"Moulton",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085601,
-        85633793,
         85688675,
-        85851971
+        85633793,
+        85851971,
+        102085601
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152546397,
-    "wof:lastmodified":1449044277,
+    "wof:lastmodified":1466318586,
     "wof:name":"Gillespie Cabinets",
     "wof:parent_id":85851971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.159074,34.532211,-87.159074,34.532211],
+  "bbox": [
+    -87.159074,
+    34.532211,
+    -87.159074,
+    34.532211
+],
   "geometry": {"coordinates":[-87.159074,34.532211],"type":"Point"}
 }

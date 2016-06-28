@@ -2,13 +2,14 @@
   "id": 152239747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.837582,33.475991,-86.837582,33.475991",
     "geom:latitude":33.475991,
     "geom:longitude":-86.837582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Walter Davis Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.fultoninc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876279,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152239747,
-    "wof:lastmodified":1449044751,
+    "wof:lastmodified":1466316426,
     "wof:name":"Fulton Enterprises Inc",
     "wof:parent_id":85876279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.837582,33.475991,-86.837582,33.475991],
+  "bbox": [
+    -86.837582,
+    33.475991,
+    -86.837582,
+    33.475991
+],
   "geometry": {"coordinates":[-86.837582,33.475991],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152870347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.929612,34.530131,-86.929612,34.530131",
     "geom:latitude":34.530131,
     "geom:longitude":-86.929612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4107 Indian Hills Rd SE",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813087,
+        85688675,
         85633793,
         85913589,
         102085531,
-        85688675
+        85813087
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152870347,
-    "wof:lastmodified":1449045512,
+    "wof:lastmodified":1466320165,
     "wof:name":"Evergreen Farms",
     "wof:parent_id":85813087,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.929612,34.530131,-86.929612,34.530131],
-  "geometry": {"coordinates":[-86.929612,34.530131],"type":"Point"}
+  "bbox": [
+    -86.929612,
+    34.530131,
+    -86.929612,
+    34.530131
+],
+  "geometry": {"coordinates":[-86.92961200000001,34.530131],"type":"Point"}
 }

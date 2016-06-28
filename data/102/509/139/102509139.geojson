@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102509139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.055597,30.667549,-88.055597,30.667549",
     "geom:latitude":30.667549,
     "geom:longitude":-88.055597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"913 S Broad St",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878947,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878947
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102509139,
-    "wof:lastmodified":1449067880,
+    "wof:lastmodified":1466316477,
     "wof:name":"Southside Community Svc Ctr",
     "wof:parent_id":85878947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.055597,30.667549,-88.055597,30.667549],
-  "geometry": {"coordinates":[-88.055597,30.667549],"type":"Point"}
+  "bbox": [
+    -88.055597,
+    30.667549,
+    -88.055597,
+    30.667549
+],
+  "geometry": {"coordinates":[-88.05559700000001,30.667549],"type":"Point"}
 }

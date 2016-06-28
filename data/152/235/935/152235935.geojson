@@ -2,13 +2,14 @@
   "id": 152235935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.422678,32.63516,-85.422678,32.63516",
     "geom:latitude":32.63516,
     "geom:longitude":-85.422678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2915 Pepperell Pkwy",
     "sg:city":"Opelika",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.royalfederal.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850579,
+        85688675,
         85633793,
         85913815,
         102085751,
-        85688675
+        85850579
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152235935,
-    "wof:lastmodified":1449045108,
+    "wof:lastmodified":1466316378,
     "wof:name":"Royal Federal Credit Union",
     "wof:parent_id":85850579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.422678,32.63516,-85.422678,32.63516],
+  "bbox": [
+    -85.422678,
+    32.63516,
+    -85.422678,
+    32.63516
+],
   "geometry": {"coordinates":[-85.422678,32.63516],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152412081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.276801,34.481475,-87.276801,34.481475",
     "geom:latitude":34.481475,
     "geom:longitude":-87.276801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"170 Franklin Smith Rd",
     "sg:city":"Moulton",
     "sg:classifiers":[
@@ -30,10 +31,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085601,
-        85633793,
         85688675,
-        85851971
+        85633793,
+        85851971,
+        102085601
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152412081,
-    "wof:lastmodified":1449045245,
+    "wof:lastmodified":1466317895,
     "wof:name":"Vaughan Gas Appl Co of Decatur",
     "wof:parent_id":85851971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.276801,34.481475,-87.276801,34.481475],
-  "geometry": {"coordinates":[-87.276801,34.481475],"type":"Point"}
+  "bbox": [
+    -87.276801,
+    34.481475,
+    -87.276801,
+    34.481475
+],
+  "geometry": {"coordinates":[-87.27680100000001,34.481475],"type":"Point"}
 }

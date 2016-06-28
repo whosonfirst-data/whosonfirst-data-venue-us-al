@@ -2,13 +2,14 @@
   "id": 152300379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.046233,30.694118,-88.046233,30.694118",
     "geom:latitude":30.694118,
     "geom:longitude":-88.046233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"257 Saint Anthony St",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895795,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85895795
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152300379,
-    "wof:lastmodified":1449046905,
+    "wof:lastmodified":1466317107,
     "wof:name":"Crump & Davis",
     "wof:parent_id":85895795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.046233,30.694118,-88.046233,30.694118],
+  "bbox": [
+    -88.046233,
+    30.694118,
+    -88.046233,
+    30.694118
+],
   "geometry": {"coordinates":[-88.046233,30.694118],"type":"Point"}
 }

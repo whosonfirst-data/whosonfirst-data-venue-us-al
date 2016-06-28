@@ -2,13 +2,14 @@
   "id": 152565987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.755579,33.447873,-86.755579,33.447873",
     "geom:latitude":33.447873,
     "geom:longitude":-86.755579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2722 Old Trce",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802339,
+        85688675,
         85633793,
         85914483,
         102085481,
-        85688675
+        85802339
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152565987,
-    "wof:lastmodified":1449048511,
+    "wof:lastmodified":1466318734,
     "wof:name":"C K T Construction LLC",
     "wof:parent_id":85802339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.755579,33.447873,-86.755579,33.447873],
+  "bbox": [
+    -86.755579,
+    33.447873,
+    -86.755579,
+    33.447873
+],
   "geometry": {"coordinates":[-86.755579,33.447873],"type":"Point"}
 }

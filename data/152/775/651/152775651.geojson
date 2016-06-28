@@ -2,13 +2,14 @@
   "id": 152775651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.477811,33.945752,-86.477811,33.945752",
     "geom:latitude":33.945752,
     "geom:longitude":-86.477811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 3rd Ave E",
     "sg:city":"Oneonta",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085667,
-        85633793,
         85688675,
-        85819523
+        85633793,
+        85819523,
+        102085667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152775651,
-    "wof:lastmodified":1449047715,
+    "wof:lastmodified":1466319715,
     "wof:name":"Lester Memorial United Methodi",
     "wof:parent_id":85819523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.477811,33.945752,-86.477811,33.945752],
+  "bbox": [
+    -86.477811,
+    33.945752,
+    -86.477811,
+    33.945752
+],
   "geometry": {"coordinates":[-86.477811,33.945752],"type":"Point"}
 }

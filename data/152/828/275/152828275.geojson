@@ -2,13 +2,14 @@
   "id": 152828275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.394356,31.219494,-85.394356,31.219494",
     "geom:latitude":31.219494,
     "geom:longitude":-85.394356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 Dusy St",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852069,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85852069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152828275,
-    "wof:lastmodified":1449046644,
+    "wof:lastmodified":1466320124,
     "wof:name":"Wiregrass Heating and Cooling",
     "wof:parent_id":85852069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.394356,31.219494,-85.394356,31.219494],
+  "bbox": [
+    -85.394356,
+    31.219494,
+    -85.394356,
+    31.219494
+],
   "geometry": {"coordinates":[-85.394356,31.219494],"type":"Point"}
 }

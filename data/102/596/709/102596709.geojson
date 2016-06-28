@@ -2,13 +2,14 @@
   "id": 102596709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.749954,33.494984,-86.749954,33.494984",
     "geom:latitude":33.494984,
     "geom:longitude":-86.749954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3712 Mountain Park Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876275,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102596709,
-    "wof:lastmodified":1449068982,
+    "wof:lastmodified":1466317200,
     "wof:name":"Ginger Mae",
     "wof:parent_id":85876275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.749954,33.494984,-86.749954,33.494984],
+  "bbox": [
+    -86.749954,
+    33.494984,
+    -86.749954,
+    33.494984
+],
   "geometry": {"coordinates":[-86.749954,33.494984],"type":"Point"}
 }

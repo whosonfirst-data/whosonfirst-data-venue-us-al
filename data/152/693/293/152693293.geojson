@@ -2,13 +2,14 @@
   "id": 152693293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.476971,32.566588,-85.476971,32.566588",
     "geom:latitude":32.566588,
     "geom:longitude":-85.476971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"387 Estate Ave",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85838773,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85838773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152693293,
-    "wof:lastmodified":1449044563,
+    "wof:lastmodified":1466319362,
     "wof:name":"Joseph A Ross PE",
     "wof:parent_id":85838773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.476971,32.566588,-85.476971,32.566588],
-  "geometry": {"coordinates":[-85.476971,32.566588],"type":"Point"}
+  "bbox": [
+    -85.476971,
+    32.566588,
+    -85.476971,
+    32.566588
+],
+  "geometry": {"coordinates":[-85.47697100000001,32.566588],"type":"Point"}
 }

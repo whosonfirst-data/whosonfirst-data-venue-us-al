@@ -2,13 +2,14 @@
   "id": 152460941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.238469,34.512922,-86.238469,34.512922",
     "geom:latitude":34.512922,
     "geom:longitude":-86.238469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"363 Padgett Rd",
     "sg:city":"Grant",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085513,
-        85633793,
         85688675,
-        85851677
+        85633793,
+        85851677,
+        102085513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152460941,
-    "wof:lastmodified":1449048660,
+    "wof:lastmodified":1466318158,
     "wof:name":"Kirkland Farms",
     "wof:parent_id":85851677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.238469,34.512922,-86.238469,34.512922],
-  "geometry": {"coordinates":[-86.238469,34.512922],"type":"Point"}
+  "bbox": [
+    -86.238469,
+    34.512922,
+    -86.238469,
+    34.512922
+],
+  "geometry": {"coordinates":[-86.23846899999999,34.512922],"type":"Point"}
 }

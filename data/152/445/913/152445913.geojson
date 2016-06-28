@@ -2,13 +2,14 @@
   "id": 152445913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.447513,31.233581,-85.447513,31.233581",
     "geom:latitude":31.233581,
     "geom:longitude":-85.447513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Hidden Glen Way",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805317,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85805317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152445913,
-    "wof:lastmodified":1449044921,
+    "wof:lastmodified":1466318074,
     "wof:name":"Fazes of You",
     "wof:parent_id":85805317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.447513,31.233581,-85.447513,31.233581],
+  "bbox": [
+    -85.447513,
+    31.233581,
+    -85.447513,
+    31.233581
+],
   "geometry": {"coordinates":[-85.447513,31.233581],"type":"Point"}
 }

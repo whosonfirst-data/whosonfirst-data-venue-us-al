@@ -2,13 +2,14 @@
   "id": 152839285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.303135,32.364632,-86.303135,32.364632",
     "geom:latitude":32.364632,
     "geom:longitude":-86.303135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"915 S Hull St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879039,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152839285,
-    "wof:lastmodified":1449047070,
+    "wof:lastmodified":1466320022,
     "wof:name":"Gregory A Carr",
     "wof:parent_id":85879039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.303135,32.364632,-86.303135,32.364632],
+  "bbox": [
+    -86.303135,
+    32.364632,
+    -86.303135,
+    32.364632
+],
   "geometry": {"coordinates":[-86.303135,32.364632],"type":"Point"}
 }

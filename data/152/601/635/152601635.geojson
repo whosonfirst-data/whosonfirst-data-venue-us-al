@@ -2,13 +2,14 @@
   "id": 152601635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.458915,31.271991,-85.458915,31.271991",
     "geom:latitude":31.271991,
     "geom:longitude":-85.458915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 Bent Oak Dr",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840987,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85840987
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152601635,
-    "wof:lastmodified":1449046381,
+    "wof:lastmodified":1466318838,
     "wof:name":"Paul Marnon",
     "wof:parent_id":85840987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.458915,31.271991,-85.458915,31.271991],
+  "bbox": [
+    -85.458915,
+    31.271991,
+    -85.458915,
+    31.271991
+],
   "geometry": {"coordinates":[-85.458915,31.271991],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152169501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.810593,33.567486,-86.810593,33.567486",
     "geom:latitude":33.567486,
     "geom:longitude":-86.810593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4204 29th Pl N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837367,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85837367
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152169501,
-    "wof:lastmodified":1449047154,
+    "wof:lastmodified":1466315587,
     "wof:name":"Deluxe Tile and Remodeling",
     "wof:parent_id":85837367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.810593,33.567486,-86.810593,33.567486],
+  "bbox": [
+    -86.810593,
+    33.567486,
+    -86.810593,
+    33.567486
+],
   "geometry": {"coordinates":[-86.810593,33.567486],"type":"Point"}
 }

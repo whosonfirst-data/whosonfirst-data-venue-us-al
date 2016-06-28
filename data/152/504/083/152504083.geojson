@@ -2,13 +2,14 @@
   "id": 152504083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.676854,33.941609,-86.676854,33.941609",
     "geom:latitude":33.941609,
     "geom:longitude":-86.676854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11080 State Hwy 160",
     "sg:city":"Hayden",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085667,
-        85633793,
         85688675,
-        85819523
+        85633793,
+        85819523,
+        102085667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152504083,
-    "wof:lastmodified":1449045117,
+    "wof:lastmodified":1466318342,
     "wof:name":"Triple J Nursery",
     "wof:parent_id":85819523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.676854,33.941609,-86.676854,33.941609],
-  "geometry": {"coordinates":[-86.676854,33.941609],"type":"Point"}
+  "bbox": [
+    -86.676854,
+    33.941609,
+    -86.676854,
+    33.941609
+],
+  "geometry": {"coordinates":[-86.67685400000001,33.941609],"type":"Point"}
 }

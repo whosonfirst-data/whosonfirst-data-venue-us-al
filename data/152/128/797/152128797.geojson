@@ -2,13 +2,14 @@
   "id": 152128797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.780076,34.460268,-85.780076,34.460268",
     "geom:latitude":34.460268,
     "geom:longitude":-85.780076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"635 Co Rd 494",
     "sg:city":"Fort Payne",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815015,
+        85688675,
         85633793,
         85897515,
         102085615,
-        85688675
+        85815015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152128797,
-    "wof:lastmodified":1449046118,
+    "wof:lastmodified":1466314888,
     "wof:name":"Hope Roger Painting",
     "wof:parent_id":85815015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.780076,34.460268,-85.780076,34.460268],
-  "geometry": {"coordinates":[-85.780076,34.460268],"type":"Point"}
+  "bbox": [
+    -85.780076,
+    34.460268,
+    -85.780076,
+    34.460268
+],
+  "geometry": {"coordinates":[-85.78007599999999,34.460268],"type":"Point"}
 }

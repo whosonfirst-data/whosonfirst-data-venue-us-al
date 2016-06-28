@@ -2,13 +2,14 @@
   "id": 152734485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.983849,34.573138,-86.983849,34.573138",
     "geom:latitude":34.573138,
     "geom:longitude":-86.983849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2114 Central Pkwy SW",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818653,
+        85688675,
         85633793,
         85913589,
         102085531,
-        85688675
+        85818653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152734485,
-    "wof:lastmodified":1449048336,
+    "wof:lastmodified":1466319507,
     "wof:name":"Mental Health Ctr N Centl Al",
     "wof:parent_id":85818653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.983849,34.573138,-86.983849,34.573138],
-  "geometry": {"coordinates":[-86.983849,34.573138],"type":"Point"}
+  "bbox": [
+    -86.983849,
+    34.573138,
+    -86.983849,
+    34.573138
+],
+  "geometry": {"coordinates":[-86.98384900000001,34.573138],"type":"Point"}
 }

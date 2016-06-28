@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102515083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.168827,32.369473,-86.168827,32.369473",
     "geom:latitude":32.369473,
     "geom:longitude":-86.168827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7100 University Ct",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885419,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85885419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102515083,
-    "wof:lastmodified":1449068353,
+    "wof:lastmodified":1466316874,
     "wof:name":"Montgomery Metabolic Imaging",
     "wof:parent_id":85885419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.168827,32.369473,-86.168827,32.369473],
-  "geometry": {"coordinates":[-86.168827,32.369473],"type":"Point"}
+  "bbox": [
+    -86.168827,
+    32.369473,
+    -86.168827,
+    32.369473
+],
+  "geometry": {"coordinates":[-86.16882699999999,32.369473],"type":"Point"}
 }

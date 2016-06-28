@@ -2,13 +2,14 @@
   "id": 152123741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.595233,32.593897,-86.595233,32.593897",
     "geom:latitude":32.593897,
     "geom:longitude":-86.595233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1411 Co Rd 161",
     "sg:city":"Marbury",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":152123741,
-    "wof:lastmodified":1449045687,
+    "wof:lastmodified":1466314689,
     "wof:name":"Roof Connection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.595233,32.593897,-86.595233,32.593897],
-  "geometry": {"coordinates":[-86.595233,32.593897],"type":"Point"}
+  "bbox": [
+    -86.595233,
+    32.593897,
+    -86.595233,
+    32.593897
+],
+  "geometry": {"coordinates":[-86.59523299999999,32.593897],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102443801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.652912,34.699785,-86.652912,34.699785",
     "geom:latitude":34.699785,
     "geom:longitude":-86.652912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Bomford Dr",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085487,
-        85633793,
         85688675,
-        85817803
+        85633793,
+        85817803,
+        102085487
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102443801,
-    "wof:lastmodified":1449069726,
+    "wof:lastmodified":1466314471,
     "wof:name":"Alternative Wise",
     "wof:parent_id":85817803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.652912,34.699785,-86.652912,34.699785],
+  "bbox": [
+    -86.652912,
+    34.699785,
+    -86.652912,
+    34.699785
+],
   "geometry": {"coordinates":[-86.652912,34.699785],"type":"Point"}
 }

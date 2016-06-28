@@ -2,13 +2,14 @@
   "id": 102610245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.208931,34.267778,-86.208931,34.267778",
     "geom:latitude":34.267778,
     "geom:longitude":-86.208931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 S Broad St",
     "sg:city":"Albertville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102610245,
-    "wof:lastmodified":1449070178,
+    "wof:lastmodified":1466317270,
     "wof:name":"B & C Music",
     "wof:parent_id":85913247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.208931,34.267778,-86.208931,34.267778],
-  "geometry": {"coordinates":[-86.208931,34.267778],"type":"Point"}
+  "bbox": [
+    -86.208931,
+    34.267778,
+    -86.208931,
+    34.267778
+],
+  "geometry": {"coordinates":[-86.20893100000001,34.267778],"type":"Point"}
 }

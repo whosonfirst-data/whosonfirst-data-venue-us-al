@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102441521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.962938,34.585702,-86.962938,34.585702",
     "geom:latitude":34.585702,
     "geom:longitude":-86.962938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 19th Ave SE",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085531,
-        85633793,
         85688675,
-        85802585
+        85633793,
+        85802585,
+        102085531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102441521,
-    "wof:lastmodified":1449067982,
+    "wof:lastmodified":1466314388,
     "wof:name":"Flynn & Flynn Assoicated Farms",
     "wof:parent_id":85802585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.962938,34.585702,-86.962938,34.585702],
-  "geometry": {"coordinates":[-86.962938,34.585702],"type":"Point"}
+  "bbox": [
+    -86.962938,
+    34.585702,
+    -86.962938,
+    34.585702
+],
+  "geometry": {"coordinates":[-86.96293799999999,34.585702],"type":"Point"}
 }

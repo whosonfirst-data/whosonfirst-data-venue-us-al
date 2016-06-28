@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102516907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.400794,31.234264,-85.400794,31.234264",
     "geom:latitude":31.234264,
     "geom:longitude":-85.400794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"803 Linden St",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852069,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85852069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102516907,
-    "wof:lastmodified":1449068264,
+    "wof:lastmodified":1466316945,
     "wof:name":"Linden Grocery",
     "wof:parent_id":85852069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.400794,31.234264,-85.400794,31.234264],
+  "bbox": [
+    -85.400794,
+    31.234264,
+    -85.400794,
+    31.234264
+],
   "geometry": {"coordinates":[-85.400794,31.234264],"type":"Point"}
 }

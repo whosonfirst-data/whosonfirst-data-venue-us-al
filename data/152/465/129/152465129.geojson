@@ -2,13 +2,14 @@
   "id": 152465129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.812021,33.491271,-86.812021,33.491271",
     "geom:latitude":33.491271,
     "geom:longitude":-86.812021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1403 10th Pl S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85844445,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85844445
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152465129,
-    "wof:lastmodified":1449047411,
+    "wof:lastmodified":1466318153,
     "wof:name":"Richards Plumbing Co",
     "wof:parent_id":85844445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.812021,33.491271,-86.812021,33.491271],
+  "bbox": [
+    -86.812021,
+    33.491271,
+    -86.812021,
+    33.491271
+],
   "geometry": {"coordinates":[-86.812021,33.491271],"type":"Point"}
 }

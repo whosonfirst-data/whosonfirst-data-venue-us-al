@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102489241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.542122,34.64986,-86.542122,34.64986",
     "geom:latitude":34.64986,
     "geom:longitude":-86.542122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9006 Mahogany Row SE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851327,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85851327
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102489241,
-    "wof:lastmodified":1449069061,
+    "wof:lastmodified":1466315849,
     "wof:name":"Credit Interventions",
     "wof:parent_id":85851327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.542122,34.64986,-86.542122,34.64986],
-  "geometry": {"coordinates":[-86.542122,34.64986],"type":"Point"}
+  "bbox": [
+    -86.542122,
+    34.64986,
+    -86.542122,
+    34.64986
+],
+  "geometry": {"coordinates":[-86.54212200000001,34.64986],"type":"Point"}
 }

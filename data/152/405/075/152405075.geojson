@@ -2,13 +2,14 @@
   "id": 152405075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.930811,34.522742,-86.930811,34.522742",
     "geom:latitude":34.522742,
     "geom:longitude":-86.930811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4210 Horseshoe Bend Rd SE",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085531,
-        85633793,
         85688675,
-        85808557
+        85633793,
+        85808557,
+        102085531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152405075,
-    "wof:lastmodified":1449048537,
+    "wof:lastmodified":1466317843,
     "wof:name":"Trinity Outdoor Advertising",
     "wof:parent_id":85808557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.930811,34.522742,-86.930811,34.522742],
-  "geometry": {"coordinates":[-86.930811,34.522742],"type":"Point"}
+  "bbox": [
+    -86.930811,
+    34.522742,
+    -86.930811,
+    34.522742
+],
+  "geometry": {"coordinates":[-86.93081100000001,34.522742],"type":"Point"}
 }

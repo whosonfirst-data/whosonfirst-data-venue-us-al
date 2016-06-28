@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102515921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.257497,32.323361,-86.257497,32.323361",
     "geom:latitude":32.323361,
     "geom:longitude":-86.257497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3148 Bell Oaks Cir",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842989,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85842989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102515921,
-    "wof:lastmodified":1449068355,
+    "wof:lastmodified":1466316958,
     "wof:name":"Summit Asset",
     "wof:parent_id":85842989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.257497,32.323361,-86.257497,32.323361],
+  "bbox": [
+    -86.257497,
+    32.323361,
+    -86.257497,
+    32.323361
+],
   "geometry": {"coordinates":[-86.257497,32.323361],"type":"Point"}
 }

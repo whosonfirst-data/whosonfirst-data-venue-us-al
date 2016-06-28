@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102511041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.843218,33.607218,-85.843218,33.607218",
     "geom:latitude":33.607218,
     "geom:longitude":-85.843218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 Williams St",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827499,
+        85688675,
         85633793,
         85914159,
         102085603,
-        85688675
+        85827499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102511041,
-    "wof:lastmodified":1449068879,
+    "wof:lastmodified":1466316784,
     "wof:name":"Adams Electric Co",
     "wof:parent_id":85827499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.843218,33.607218,-85.843218,33.607218],
-  "geometry": {"coordinates":[-85.843218,33.607218],"type":"Point"}
+  "bbox": [
+    -85.843218,
+    33.607218,
+    -85.843218,
+    33.607218
+],
+  "geometry": {"coordinates":[-85.84321799999999,33.607218],"type":"Point"}
 }

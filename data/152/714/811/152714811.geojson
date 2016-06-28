@@ -2,13 +2,14 @@
   "id": 152714811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.461208,32.612166,-85.461208,32.612166",
     "geom:latitude":32.612166,
     "geom:longitude":-85.461208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"814 Annalue Dr",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848213,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85848213
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":152714811,
-    "wof:lastmodified":1449046579,
+    "wof:lastmodified":1466319431,
     "wof:name":"Premiere Tan",
     "wof:parent_id":85848213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.461208,32.612166,-85.461208,32.612166],
+  "bbox": [
+    -85.461208,
+    32.612166,
+    -85.461208,
+    32.612166
+],
   "geometry": {"coordinates":[-85.461208,32.612166],"type":"Point"}
 }

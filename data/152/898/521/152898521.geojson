@@ -2,13 +2,14 @@
   "id": 152898521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.142552,30.674193,-88.142552,30.674193",
     "geom:latitude":30.674193,
     "geom:longitude":-88.142552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4367 Downtowner Loop N",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878955,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152898521,
-    "wof:lastmodified":1449044190,
+    "wof:lastmodified":1466320399,
     "wof:name":"Ultimate Image Hair Design",
     "wof:parent_id":85878955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.142552,30.674193,-88.142552,30.674193],
-  "geometry": {"coordinates":[-88.142552,30.674193],"type":"Point"}
+  "bbox": [
+    -88.142552,
+    30.674193,
+    -88.142552,
+    30.674193
+],
+  "geometry": {"coordinates":[-88.14255199999999,30.674193],"type":"Point"}
 }

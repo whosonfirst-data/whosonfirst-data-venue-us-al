@@ -2,13 +2,14 @@
   "id": 152333093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.527699,34.84143,-86.527699,34.84143",
     "geom:latitude":34.84143,
     "geom:longitude":-86.527699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"298 Briar Fork Dr",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842195,
+        85688675,
         85633793,
         85915397,
         102085487,
-        85688675
+        85842195
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152333093,
-    "wof:lastmodified":1449048595,
+    "wof:lastmodified":1466317406,
     "wof:name":"Sam Carl Construction",
     "wof:parent_id":85842195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.527699,34.84143,-86.527699,34.84143],
+  "bbox": [
+    -86.527699,
+    34.84143,
+    -86.527699,
+    34.84143
+],
   "geometry": {"coordinates":[-86.527699,34.84143],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102485449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.450566,32.460144,-86.450566,32.460144",
     "geom:latitude":32.460144,
     "geom:longitude":-86.450566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 S Memorial Dr",
     "sg:city":"Prattville",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843041,
+        85688675,
         85633793,
         85913977,
         102085509,
-        85688675
+        85843041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":102485449,
-    "wof:lastmodified":1449069216,
+    "wof:lastmodified":1466315784,
     "wof:name":"Win City Promotions",
     "wof:parent_id":85843041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.450566,32.460144,-86.450566,32.460144],
-  "geometry": {"coordinates":[-86.450566,32.460144],"type":"Point"}
+  "bbox": [
+    -86.450566,
+    32.460144,
+    -86.450566,
+    32.460144
+],
+  "geometry": {"coordinates":[-86.45056599999999,32.460144],"type":"Point"}
 }

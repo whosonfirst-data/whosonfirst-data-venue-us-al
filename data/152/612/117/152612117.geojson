@@ -2,13 +2,14 @@
   "id": 152612117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.837891,33.258719,-86.837891,33.258719",
     "geom:latitude":33.258719,
     "geom:longitude":-86.837891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1133 Independence Dr",
     "sg:city":"Alabaster",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847439,
+        85688675,
         85633793,
         85914487,
         102085499,
-        85688675
+        85847439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152612117,
-    "wof:lastmodified":1449046358,
+    "wof:lastmodified":1466318886,
     "wof:name":"Perryman Group Inc",
     "wof:parent_id":85847439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.837891,33.258719,-86.837891,33.258719],
+  "bbox": [
+    -86.837891,
+    33.258719,
+    -86.837891,
+    33.258719
+],
   "geometry": {"coordinates":[-86.837891,33.258719],"type":"Point"}
 }

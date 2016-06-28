@@ -2,13 +2,14 @@
   "id": 152600667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.589244,34.762269,-86.589244,34.762269",
     "geom:latitude":34.762269,
     "geom:longitude":-86.589244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3006 Memorial Pkwy NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152600667,
-    "wof:lastmodified":1449044727,
+    "wof:lastmodified":1466318860,
     "wof:name":"Amis Graphics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.589244,34.762269,-86.589244,34.762269],
-  "geometry": {"coordinates":[-86.589244,34.762269],"type":"Point"}
+  "bbox": [
+    -86.589244,
+    34.762269,
+    -86.589244,
+    34.762269
+],
+  "geometry": {"coordinates":[-86.58924399999999,34.762269],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152275273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.701103,33.586691,-86.701103,33.586691",
     "geom:latitude":33.586691,
     "geom:longitude":-86.701103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9164 Parkway E",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845635,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85845635
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152275273,
-    "wof:lastmodified":1449045790,
+    "wof:lastmodified":1466316924,
     "wof:name":"Giorgio's",
     "wof:parent_id":85845635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.701103,33.586691,-86.701103,33.586691],
+  "bbox": [
+    -86.701103,
+    33.586691,
+    -86.701103,
+    33.586691
+],
   "geometry": {"coordinates":[-86.701103,33.586691],"type":"Point"}
 }

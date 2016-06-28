@@ -2,13 +2,14 @@
   "id": 152720499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.264426,32.387518,-86.264426,32.387518",
     "geom:latitude":32.387518,
     "geom:longitude":-86.264426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Kent St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152720499,
-    "wof:lastmodified":1449045395,
+    "wof:lastmodified":1466319442,
     "wof:name":"Acme Ink",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.264426,32.387518,-86.264426,32.387518],
+  "bbox": [
+    -86.264426,
+    32.387518,
+    -86.264426,
+    32.387518
+],
   "geometry": {"coordinates":[-86.264426,32.387518],"type":"Point"}
 }

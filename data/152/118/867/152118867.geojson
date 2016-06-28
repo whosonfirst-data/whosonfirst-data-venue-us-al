@@ -2,13 +2,14 @@
   "id": 152118867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.528881,33.197498,-87.528881,33.197498",
     "geom:latitude":33.197498,
     "geom:longitude":-87.528881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1420 6th Ave E",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819951,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85819951
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152118867,
-    "wof:lastmodified":1449048034,
+    "wof:lastmodified":1466314473,
     "wof:name":"Title Max Of Tuscaloosa Inc",
     "wof:parent_id":85819951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.528881,33.197498,-87.528881,33.197498],
+  "bbox": [
+    -87.528881,
+    33.197498,
+    -87.528881,
+    33.197498
+],
   "geometry": {"coordinates":[-87.528881,33.197498],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102496415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.994096,34.599794,-86.994096,34.599794",
     "geom:latitude":34.599794,
     "geom:longitude":-86.994096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 5th Ave SW",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085531,
-        85633793,
         85688675,
-        85802585
+        85633793,
+        85802585,
+        102085531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102496415,
-    "wof:lastmodified":1449069804,
+    "wof:lastmodified":1466316326,
     "wof:name":"5th Avenue Food Mart",
     "wof:parent_id":85802585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.994096,34.599794,-86.994096,34.599794],
+  "bbox": [
+    -86.994096,
+    34.599794,
+    -86.994096,
+    34.599794
+],
   "geometry": {"coordinates":[-86.994096,34.599794],"type":"Point"}
 }

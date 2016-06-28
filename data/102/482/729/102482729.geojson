@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102482729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.911926,32.546896,-85.911926,32.546896",
     "geom:latitude":32.546896,
     "geom:longitude":-85.911926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 Gilmer Ave",
     "sg:city":"Tallassee",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827623,
+        85688675,
         85633793,
         85913291,
         102085631,
-        85688675
+        85827623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102482729,
-    "wof:lastmodified":1449068641,
+    "wof:lastmodified":1466315600,
     "wof:name":"Lee Ann's Barber Shop",
     "wof:parent_id":85827623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.911926,32.546896,-85.911926,32.546896],
-  "geometry": {"coordinates":[-85.911926,32.546896],"type":"Point"}
+  "bbox": [
+    -85.911926,
+    32.546896,
+    -85.911926,
+    32.546896
+],
+  "geometry": {"coordinates":[-85.91192599999999,32.546896],"type":"Point"}
 }

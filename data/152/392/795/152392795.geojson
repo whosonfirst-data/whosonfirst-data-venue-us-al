@@ -2,13 +2,14 @@
   "id": 152392795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.621313,34.713891,-86.621313,34.713891",
     "geom:latitude":34.713891,
     "geom:longitude":-86.621313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2511 15th St SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825531,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85825531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152392795,
-    "wof:lastmodified":1449048001,
+    "wof:lastmodified":1466317704,
     "wof:name":"Glenn Eudy's School-Real Est",
     "wof:parent_id":85825531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.621313,34.713891,-86.621313,34.713891],
+  "bbox": [
+    -86.621313,
+    34.713891,
+    -86.621313,
+    34.713891
+],
   "geometry": {"coordinates":[-86.621313,34.713891],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152201701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.405141,32.631489,-85.405141,32.631489",
     "geom:latitude":32.631489,
     "geom:longitude":-85.405141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1615 Thomason Dr",
     "sg:city":"Opelika",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819517,
+        85688675,
         85633793,
         85913815,
         102085751,
-        85688675
+        85819517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152201701,
-    "wof:lastmodified":1449048299,
+    "wof:lastmodified":1466315943,
     "wof:name":"Insurance Programs Of Alabama",
     "wof:parent_id":85819517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.405141,32.631489,-85.405141,32.631489],
+  "bbox": [
+    -85.405141,
+    32.631489,
+    -85.405141,
+    32.631489
+],
   "geometry": {"coordinates":[-85.405141,32.631489],"type":"Point"}
 }

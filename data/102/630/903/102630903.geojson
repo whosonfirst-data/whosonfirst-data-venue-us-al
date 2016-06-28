@@ -2,13 +2,14 @@
   "id": 102630903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.515426,33.197537,-87.515426,33.197537",
     "geom:latitude":33.197537,
     "geom:longitude":-87.515426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1650 Veterans Memorial Pkwy",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802929,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85802929
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102630903,
-    "wof:lastmodified":1449068645,
+    "wof:lastmodified":1466317487,
     "wof:name":"Home-Towne Suites",
     "wof:parent_id":85802929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.515426,33.197537,-87.515426,33.197537],
-  "geometry": {"coordinates":[-87.515426,33.197537],"type":"Point"}
+  "bbox": [
+    -87.515426,
+    33.197537,
+    -87.515426,
+    33.197537
+],
+  "geometry": {"coordinates":[-87.51542600000001,33.197537],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152686451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.725276,34.438783,-85.725276,34.438783",
     "geom:latitude":34.438783,
     "geom:longitude":-85.725276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 4th St SW",
     "sg:city":"Fort Payne",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815015,
+        85688675,
         85633793,
         85897515,
         102085615,
-        85688675
+        85815015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152686451,
-    "wof:lastmodified":1449047795,
+    "wof:lastmodified":1466319252,
     "wof:name":"Mark T Skelton DDS",
     "wof:parent_id":85815015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.725276,34.438783,-85.725276,34.438783],
-  "geometry": {"coordinates":[-85.725276,34.438783],"type":"Point"}
+  "bbox": [
+    -85.725276,
+    34.438783,
+    -85.725276,
+    34.438783
+],
+  "geometry": {"coordinates":[-85.72527599999999,34.438783],"type":"Point"}
 }

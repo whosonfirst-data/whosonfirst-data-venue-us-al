@@ -2,13 +2,14 @@
   "id": 152277109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.583648,34.62141,-86.583648,34.62141",
     "geom:latitude":34.62141,
     "geom:longitude":-86.583648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2416 Thornmor Dr SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85844231,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85844231
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152277109,
-    "wof:lastmodified":1449044831,
+    "wof:lastmodified":1466316833,
     "wof:name":"Hampton Cove Animal Hospi",
     "wof:parent_id":85844231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.583648,34.62141,-86.583648,34.62141],
+  "bbox": [
+    -86.583648,
+    34.62141,
+    -86.583648,
+    34.62141
+],
   "geometry": {"coordinates":[-86.583648,34.62141],"type":"Point"}
 }

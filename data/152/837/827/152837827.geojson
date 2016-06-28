@@ -2,13 +2,14 @@
   "id": 152837827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.901033,30.508982,-87.901033,30.508982",
     "geom:latitude":30.508982,
     "geom:longitude":-87.901033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 Kirkman Ln",
     "sg:city":"Fairhope",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854025,
+        85688675,
         85633793,
         85914707,
         102085469,
-        85688675
+        85854025
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152837827,
-    "wof:lastmodified":1449045027,
+    "wof:lastmodified":1466320060,
     "wof:name":"Hobbs Tree Svc",
     "wof:parent_id":85854025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.901033,30.508982,-87.901033,30.508982],
+  "bbox": [
+    -87.901033,
+    30.508982,
+    -87.901033,
+    30.508982
+],
   "geometry": {"coordinates":[-87.901033,30.508982],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102440337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.829844,33.656123,-85.829844,33.656123",
     "geom:latitude":33.656123,
     "geom:longitude":-85.829844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"906 Noble St",
     "sg:city":"Anniston",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840061,
+        85688675,
         85633793,
         85914281,
         102085603,
-        85688675
+        85840061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102440337,
-    "wof:lastmodified":1449068638,
+    "wof:lastmodified":1466315298,
     "wof:name":"Anniston Galleries",
     "wof:parent_id":85840061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.829844,33.656123,-85.829844,33.656123],
-  "geometry": {"coordinates":[-85.829844,33.656123],"type":"Point"}
+  "bbox": [
+    -85.829844,
+    33.656123,
+    -85.829844,
+    33.656123
+],
+  "geometry": {"coordinates":[-85.82984399999999,33.656123],"type":"Point"}
 }

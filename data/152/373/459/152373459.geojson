@@ -2,13 +2,14 @@
   "id": 152373459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.229087,32.382797,-86.229087,32.382797",
     "geom:latitude":32.382797,
     "geom:longitude":-86.229087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Gaylan Ct",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811755,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85811755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152373459,
-    "wof:lastmodified":1449046693,
+    "wof:lastmodified":1466317683,
     "wof:name":"Dease Accounting",
     "wof:parent_id":85811755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.229087,32.382797,-86.229087,32.382797],
-  "geometry": {"coordinates":[-86.229087,32.382797],"type":"Point"}
+  "bbox": [
+    -86.229087,
+    32.382797,
+    -86.229087,
+    32.382797
+],
+  "geometry": {"coordinates":[-86.22908700000001,32.382797],"type":"Point"}
 }

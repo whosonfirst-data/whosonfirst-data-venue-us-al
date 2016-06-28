@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102473147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.805246,33.513821,-86.805246,33.513821",
     "geom:latitude":33.513821,
     "geom:longitude":-86.805246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 20th St N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.hkw.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876269,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102473147,
-    "wof:lastmodified":1449068298,
+    "wof:lastmodified":1466315297,
     "wof:name":"HKW Assoc",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.805246,33.513821,-86.805246,33.513821],
+  "bbox": [
+    -86.805246,
+    33.513821,
+    -86.805246,
+    33.513821
+],
   "geometry": {"coordinates":[-86.805246,33.513821],"type":"Point"}
 }

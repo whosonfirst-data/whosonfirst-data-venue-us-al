@@ -2,13 +2,14 @@
   "id": 152845085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.858115,33.506079,-86.858115,33.506079",
     "geom:latitude":33.506079,
     "geom:longitude":-86.858115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1225 4th Ave W",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840057,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85840057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152845085,
-    "wof:lastmodified":1449045056,
+    "wof:lastmodified":1466320065,
     "wof:name":"White Boarding Home",
     "wof:parent_id":85840057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.858115,33.506079,-86.858115,33.506079],
+  "bbox": [
+    -86.858115,
+    33.506079,
+    -86.858115,
+    33.506079
+],
   "geometry": {"coordinates":[-86.858115,33.506079],"type":"Point"}
 }

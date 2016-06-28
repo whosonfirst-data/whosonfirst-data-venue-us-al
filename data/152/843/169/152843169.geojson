@@ -2,13 +2,14 @@
   "id": 152843169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.180126,30.688659,-88.180126,30.688659",
     "geom:latitude":30.688659,
     "geom:longitude":-88.180126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 East Dr",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895799,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85895799
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152843169,
-    "wof:lastmodified":1449044712,
+    "wof:lastmodified":1466320044,
     "wof:name":"Jehovah's Witness Kingdom Hall",
     "wof:parent_id":85895799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.180126,30.688659,-88.180126,30.688659],
+  "bbox": [
+    -88.180126,
+    30.688659,
+    -88.180126,
+    30.688659
+],
   "geometry": {"coordinates":[-88.180126,30.688659],"type":"Point"}
 }

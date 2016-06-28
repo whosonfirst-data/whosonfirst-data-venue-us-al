@@ -2,13 +2,14 @@
   "id": 152689633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.210835,34.435186,-86.210835,34.435186",
     "geom:latitude":34.435186,
     "geom:longitude":-86.210835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"522 Star Point Rd",
     "sg:city":"Guntersville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85830981,
+        85688675,
         85633793,
         85899833,
         102085513,
-        85688675
+        85830981
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152689633,
-    "wof:lastmodified":1449048142,
+    "wof:lastmodified":1466319075,
     "wof:name":"Stabler & Stabler",
     "wof:parent_id":85830981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.210835,34.435186,-86.210835,34.435186],
+  "bbox": [
+    -86.210835,
+    34.435186,
+    -86.210835,
+    34.435186
+],
   "geometry": {"coordinates":[-86.210835,34.435186],"type":"Point"}
 }

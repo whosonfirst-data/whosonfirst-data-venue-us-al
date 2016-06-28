@@ -2,13 +2,14 @@
   "id": 152732985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.479997,32.602724,-85.479997,32.602724",
     "geom:latitude":32.602724,
     "geom:longitude":-85.479997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"248 S Gay St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.northcuttrealty.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819999,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85819999
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152732985,
-    "wof:lastmodified":1449049041,
+    "wof:lastmodified":1466319564,
     "wof:name":"Northcutt Realty",
     "wof:parent_id":85819999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.479997,32.602724,-85.479997,32.602724],
+  "bbox": [
+    -85.479997,
+    32.602724,
+    -85.479997,
+    32.602724
+],
   "geometry": {"coordinates":[-85.479997,32.602724],"type":"Point"}
 }

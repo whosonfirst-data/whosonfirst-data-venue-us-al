@@ -2,13 +2,14 @@
   "id": 152191067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.907651,34.363878,-86.907651,34.363878",
     "geom:latitude":34.363878,
     "geom:longitude":-86.907651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4846 US Hwy 31",
     "sg:city":"Falkville",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851807,
+        85688675,
         85633793,
         85914103,
         102085531,
-        85688675
+        85851807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152191067,
-    "wof:lastmodified":1449047096,
+    "wof:lastmodified":1466315707,
     "wof:name":"Fairbanks Collision Repair",
     "wof:parent_id":85851807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.907651,34.363878,-86.907651,34.363878],
+  "bbox": [
+    -86.907651,
+    34.363878,
+    -86.907651,
+    34.363878
+],
   "geometry": {"coordinates":[-86.907651,34.363878],"type":"Point"}
 }

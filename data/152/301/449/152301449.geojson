@@ -2,13 +2,14 @@
   "id": 152301449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.215526,32.342155,-86.215526,32.342155",
     "geom:latitude":32.342155,
     "geom:longitude":-86.215526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5311 Vaughn Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879059,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879059
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152301449,
-    "wof:lastmodified":1449045478,
+    "wof:lastmodified":1466317145,
     "wof:name":"Ellis D Hanan P C",
     "wof:parent_id":85879059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.215526,32.342155,-86.215526,32.342155],
+  "bbox": [
+    -86.215526,
+    32.342155,
+    -86.215526,
+    32.342155
+],
   "geometry": {"coordinates":[-86.215526,32.342155],"type":"Point"}
 }

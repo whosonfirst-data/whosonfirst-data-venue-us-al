@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102471839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.829647,33.409169,-86.829647,33.409169",
     "geom:latitude":33.409169,
     "geom:longitude":-86.829647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"612 Belle Terre Cir",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805457,
+        85688675,
         85633793,
         85914475,
         102085481,
-        85688675
+        85805457
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102471839,
-    "wof:lastmodified":1449068732,
+    "wof:lastmodified":1466315376,
     "wof:name":"East Fork Hunting Club",
     "wof:parent_id":85805457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.829647,33.409169,-86.829647,33.409169],
-  "geometry": {"coordinates":[-86.829647,33.409169],"type":"Point"}
+  "bbox": [
+    -86.829647,
+    33.409169,
+    -86.829647,
+    33.409169
+],
+  "geometry": {"coordinates":[-86.82964699999999,33.409169],"type":"Point"}
 }

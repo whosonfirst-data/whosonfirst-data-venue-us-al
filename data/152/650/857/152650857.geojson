@@ -2,13 +2,14 @@
   "id": 152650857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.452414,32.600712,-85.452414,32.600712",
     "geom:latitude":32.600712,
     "geom:longitude":-85.452414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1377 E University Dr",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851953,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85851953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152650857,
-    "wof:lastmodified":1449047120,
+    "wof:lastmodified":1466319297,
     "wof:name":"Christian Oasis Bookstore",
     "wof:parent_id":85851953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.452414,32.600712,-85.452414,32.600712],
+  "bbox": [
+    -85.452414,
+    32.600712,
+    -85.452414,
+    32.600712
+],
   "geometry": {"coordinates":[-85.452414,32.600712],"type":"Point"}
 }

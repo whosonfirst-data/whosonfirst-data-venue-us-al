@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102464229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.838619,34.870281,-85.838619,34.870281",
     "geom:latitude":34.870281,
     "geom:longitude":-85.838619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"73 Mountain St",
     "sg:city":"Newton",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809451,
+        85688675,
         85633793,
         85914033,
         102085607,
-        85688675
+        85809451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102464229,
-    "wof:lastmodified":1449068431,
+    "wof:lastmodified":1466315044,
     "wof:name":"Newton Auto",
     "wof:parent_id":85809451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.838619,34.870281,-85.838619,34.870281],
-  "geometry": {"coordinates":[-85.838619,34.870281],"type":"Point"}
+  "bbox": [
+    -85.838619,
+    34.870281,
+    -85.838619,
+    34.870281
+],
+  "geometry": {"coordinates":[-85.83861899999999,34.870281],"type":"Point"}
 }

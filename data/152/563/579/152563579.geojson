@@ -2,13 +2,14 @@
   "id": 152563579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.396116,31.233636,-85.396116,31.233636",
     "geom:latitude":31.233636,
     "geom:longitude":-85.396116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 N Lena St",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852069,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85852069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152563579,
-    "wof:lastmodified":1449044362,
+    "wof:lastmodified":1466318728,
     "wof:name":"Freeman's Lawn Care",
     "wof:parent_id":85852069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.396116,31.233636,-85.396116,31.233636],
-  "geometry": {"coordinates":[-85.396116,31.233636],"type":"Point"}
+  "bbox": [
+    -85.396116,
+    31.233636,
+    -85.396116,
+    31.233636
+],
+  "geometry": {"coordinates":[-85.39611600000001,31.233636],"type":"Point"}
 }

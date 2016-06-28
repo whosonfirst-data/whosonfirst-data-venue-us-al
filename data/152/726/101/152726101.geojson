@@ -2,13 +2,14 @@
   "id": 152726101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.233744,32.358724,-86.233744,32.358724",
     "geom:latitude":32.358724,
     "geom:longitude":-86.233744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1550 E Trinity Blvd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85839481,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85839481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152726101,
-    "wof:lastmodified":1449047464,
+    "wof:lastmodified":1466319448,
     "wof:name":"Dunlap's Ortho Svc",
     "wof:parent_id":85839481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.233744,32.358724,-86.233744,32.358724],
+  "bbox": [
+    -86.233744,
+    32.358724,
+    -86.233744,
+    32.358724
+],
   "geometry": {"coordinates":[-86.233744,32.358724],"type":"Point"}
 }

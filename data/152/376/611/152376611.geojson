@@ -2,13 +2,14 @@
   "id": 152376611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.812276,33.504249,-86.812276,33.504249",
     "geom:latitude":33.504249,
     "geom:longitude":-86.812276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1240 4th Ave S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819533,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675,
+        85819533,
         85876277
     ],
     "wof:breaches":[],
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":152376611,
-    "wof:lastmodified":1449045887,
+    "wof:lastmodified":1466317725,
     "wof:name":"Little Rays Food Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.812276,33.504249,-86.812276,33.504249],
+  "bbox": [
+    -86.812276,
+    33.504249,
+    -86.812276,
+    33.504249
+],
   "geometry": {"coordinates":[-86.812276,33.504249],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152266451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.210122,33.441172,-86.210122,33.441172",
     "geom:latitude":33.441172,
     "geom:longitude":-86.210122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3374 W Renfroe Rd",
     "sg:city":"Talladega",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085517,
-        85633793,
         85688675,
-        85849013
+        85633793,
+        85849013,
+        102085517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152266451,
-    "wof:lastmodified":1449044440,
+    "wof:lastmodified":1466316871,
     "wof:name":"Heart Of Dixie Machine Shop",
     "wof:parent_id":85849013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.210122,33.441172,-86.210122,33.441172],
+  "bbox": [
+    -86.210122,
+    33.441172,
+    -86.210122,
+    33.441172
+],
   "geometry": {"coordinates":[-86.210122,33.441172],"type":"Point"}
 }

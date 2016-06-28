@@ -2,13 +2,14 @@
   "id": 152291113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.482171,31.312145,-86.482171,31.312145",
     "geom:latitude":31.312145,
     "geom:longitude":-86.482171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"233 N Cotton St",
     "sg:city":"Andalusia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152291113,
-    "wof:lastmodified":1449045730,
+    "wof:lastmodified":1466317026,
     "wof:name":"Food",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.482171,31.312145,-86.482171,31.312145],
-  "geometry": {"coordinates":[-86.482171,31.312145],"type":"Point"}
+  "bbox": [
+    -86.482171,
+    31.312145,
+    -86.482171,
+    31.312145
+],
+  "geometry": {"coordinates":[-86.48217099999999,31.312145],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102620937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.77117,33.804069,-85.77117,33.804069",
     "geom:latitude":33.804069,
     "geom:longitude":-85.77117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"385 Greenleaf St SW",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805945,
+        85688675,
         85633793,
         85914293,
         102085603,
-        85688675
+        85805945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102620937,
-    "wof:lastmodified":1449069985,
+    "wof:lastmodified":1466317428,
     "wof:name":"Salon Alon",
     "wof:parent_id":85805945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.77117,33.804069,-85.77117,33.804069],
+  "bbox": [
+    -85.77117,
+    33.804069,
+    -85.77117,
+    33.804069
+],
   "geometry": {"coordinates":[-85.77117,33.804069],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152672151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.942568,33.995426,-85.942568,33.995426",
     "geom:latitude":33.995426,
     "geom:longitude":-85.942568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"608 Kaying Rd N",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152672151,
-    "wof:lastmodified":1449044595,
+    "wof:lastmodified":1466319173,
     "wof:name":"Goodyear Heights Baptist Chrch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.942568,33.995426,-85.942568,33.995426],
-  "geometry": {"coordinates":[-85.942568,33.995426],"type":"Point"}
+  "bbox": [
+    -85.942568,
+    33.995426,
+    -85.942568,
+    33.995426
+],
+  "geometry": {"coordinates":[-85.94256799999999,33.995426],"type":"Point"}
 }

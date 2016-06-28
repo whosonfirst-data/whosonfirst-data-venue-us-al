@@ -2,13 +2,14 @@
   "id": 152639491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.316308,32.351576,-86.316308,32.351576",
     "geom:latitude":32.351576,
     "geom:longitude":-86.316308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"523 W Fairview Ave",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879039,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152639491,
-    "wof:lastmodified":1449048879,
+    "wof:lastmodified":1466319063,
     "wof:name":"Speedy Cell",
     "wof:parent_id":85879039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.316308,32.351576,-86.316308,32.351576],
-  "geometry": {"coordinates":[-86.316308,32.351576],"type":"Point"}
+  "bbox": [
+    -86.316308,
+    32.351576,
+    -86.316308,
+    32.351576
+],
+  "geometry": {"coordinates":[-86.31630800000001,32.351576],"type":"Point"}
 }

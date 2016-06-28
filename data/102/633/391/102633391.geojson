@@ -2,13 +2,14 @@
   "id": 102633391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.503768,31.089218,-85.503768,31.089218",
     "geom:latitude":31.089218,
     "geom:longitude":-85.503768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5732 Co Rd 28",
     "sg:city":"Slocomb",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102633391,
-    "wof:lastmodified":1449070192,
+    "wof:lastmodified":1466317516,
     "wof:name":"James Pope",
     "wof:parent_id":85688675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.503768,31.089218,-85.503768,31.089218],
-  "geometry": {"coordinates":[-85.503768,31.089218],"type":"Point"}
+  "bbox": [
+    -85.503768,
+    31.089218,
+    -85.503768,
+    31.089218
+],
+  "geometry": {"coordinates":[-85.50376799999999,31.089218],"type":"Point"}
 }

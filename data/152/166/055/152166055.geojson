@@ -2,13 +2,14 @@
   "id": 152166055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.836513,33.445056,-86.836513,33.445056",
     "geom:latitude":33.445056,
     "geom:longitude":-86.836513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"276 Snow Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829599,
+        85688675,
         85633793,
         85914847,
         102085481,
-        85688675
+        85829599
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152166055,
-    "wof:lastmodified":1449046881,
+    "wof:lastmodified":1466315595,
     "wof:name":"Baird Contracting Co Inc",
     "wof:parent_id":85829599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.836513,33.445056,-86.836513,33.445056],
+  "bbox": [
+    -86.836513,
+    33.445056,
+    -86.836513,
+    33.445056
+],
   "geometry": {"coordinates":[-86.836513,33.445056],"type":"Point"}
 }

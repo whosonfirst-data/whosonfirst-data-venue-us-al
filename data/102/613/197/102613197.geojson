@@ -2,13 +2,14 @@
   "id": 102613197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.15166,30.615703,-88.15166,30.615703",
     "geom:latitude":30.615703,
     "geom:longitude":-88.15166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4428 Radian Dr",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102613197,
-    "wof:lastmodified":1449068892,
+    "wof:lastmodified":1466317270,
     "wof:name":"Grimes Trucking Inc",
     "wof:parent_id":85913749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.15166,30.615703,-88.15166,30.615703],
-  "geometry": {"coordinates":[-88.15166,30.615703],"type":"Point"}
+  "bbox": [
+    -88.15166,
+    30.615703,
+    -88.15166,
+    30.615703
+],
+  "geometry": {"coordinates":[-88.15166000000001,30.615703],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152637089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.351417,32.415136,-85.351417,32.415136",
     "geom:latitude":32.415136,
     "geom:longitude":-85.351417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"151 Huguley Rd",
     "sg:city":"Opelika",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.harvardsk9center.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85838773,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85838773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152637089,
-    "wof:lastmodified":1449044286,
+    "wof:lastmodified":1466318984,
     "wof:name":"Harvard's K-9 Ctr Inc",
     "wof:parent_id":85838773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.351417,32.415136,-85.351417,32.415136],
+  "bbox": [
+    -85.351417,
+    32.415136,
+    -85.351417,
+    32.415136
+],
   "geometry": {"coordinates":[-85.351417,32.415136],"type":"Point"}
 }

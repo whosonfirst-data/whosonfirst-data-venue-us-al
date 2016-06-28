@@ -2,13 +2,14 @@
   "id": 152412621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.725073,33.437658,-86.725073,33.437658",
     "geom:latitude":33.437658,
     "geom:longitude":-86.725073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Perimeter Park S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.aqaf.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856691,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85856691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152412621,
-    "wof:lastmodified":1449045246,
+    "wof:lastmodified":1466317925,
     "wof:name":"Alabama Quality Assurance",
     "wof:parent_id":85856691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.725073,33.437658,-86.725073,33.437658],
-  "geometry": {"coordinates":[-86.725073,33.437658],"type":"Point"}
+  "bbox": [
+    -86.725073,
+    33.437658,
+    -86.725073,
+    33.437658
+],
+  "geometry": {"coordinates":[-86.72507299999999,33.437658],"type":"Point"}
 }

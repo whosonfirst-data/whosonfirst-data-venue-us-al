@@ -2,13 +2,14 @@
   "id": 152638449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.226877,32.465895,-85.226877,32.465895",
     "geom:latitude":32.465895,
     "geom:longitude":-85.226877,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Charles Rd",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822949,
+        85688675,
         85633793,
         85913715,
         102085697,
-        85688675
+        85822949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152638449,
-    "wof:lastmodified":1449044558,
+    "wof:lastmodified":1466319061,
     "wof:name":"Terrys Construction",
     "wof:parent_id":85822949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.226877,32.465895,-85.226877,32.465895],
+  "bbox": [
+    -85.226877,
+    32.465895,
+    -85.226877,
+    32.465895
+],
   "geometry": {"coordinates":[-85.226877,32.465895],"type":"Point"}
 }

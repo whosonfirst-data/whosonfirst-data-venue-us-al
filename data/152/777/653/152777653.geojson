@@ -2,13 +2,14 @@
   "id": 152777653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.432263,31.229394,-85.432263,31.229394",
     "geom:latitude":31.229394,
     "geom:longitude":-85.432263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3112 Ross Clark Cir",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805317,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85805317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152777653,
-    "wof:lastmodified":1449046744,
+    "wof:lastmodified":1466319738,
     "wof:name":"Godfathers Pizza",
     "wof:parent_id":85805317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.432263,31.229394,-85.432263,31.229394],
-  "geometry": {"coordinates":[-85.432263,31.229394],"type":"Point"}
+  "bbox": [
+    -85.432263,
+    31.229394,
+    -85.432263,
+    31.229394
+],
+  "geometry": {"coordinates":[-85.43226300000001,31.229394],"type":"Point"}
 }

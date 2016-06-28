@@ -2,13 +2,14 @@
   "id": 102625787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.257506,32.69767,-85.257506,32.69767",
     "geom:latitude":32.69767,
     "geom:longitude":-85.257506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8355 Co Rd 390",
     "sg:city":"Opelika",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102625787,
-    "wof:lastmodified":1449070251,
+    "wof:lastmodified":1466317473,
     "wof:name":"Ridge Valley Estates",
     "wof:parent_id":85688675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.257506,32.69767,-85.257506,32.69767],
-  "geometry": {"coordinates":[-85.257506,32.69767],"type":"Point"}
+  "bbox": [
+    -85.257506,
+    32.69767,
+    -85.257506,
+    32.69767
+],
+  "geometry": {"coordinates":[-85.25750600000001,32.69767],"type":"Point"}
 }

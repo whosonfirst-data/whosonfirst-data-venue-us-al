@@ -2,13 +2,14 @@
   "id": 152126725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.481666,32.607686,-85.481666,32.607686",
     "geom:latitude":32.607686,
     "geom:longitude":-85.481666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"126 N College St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.jimmyjohns.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809707,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85809707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152126725,
-    "wof:lastmodified":1449046009,
+    "wof:lastmodified":1466314817,
     "wof:name":"Jimmy John's",
     "wof:parent_id":85809707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.481666,32.607686,-85.481666,32.607686],
+  "bbox": [
+    -85.481666,
+    32.607686,
+    -85.481666,
+    32.607686
+],
   "geometry": {"coordinates":[-85.481666,32.607686],"type":"Point"}
 }

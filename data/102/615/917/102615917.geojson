@@ -2,13 +2,14 @@
   "id": 102615917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.550847,34.679142,-86.550847,34.679142",
     "geom:latitude":34.679142,
     "geom:longitude":-86.550847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2750 Carl T Jones Dr SE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819605,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85819605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102615917,
-    "wof:lastmodified":1449068543,
+    "wof:lastmodified":1466317411,
     "wof:name":"Tran Hien",
     "wof:parent_id":85819605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.550847,34.679142,-86.550847,34.679142],
+  "bbox": [
+    -86.550847,
+    34.679142,
+    -86.550847,
+    34.679142
+],
   "geometry": {"coordinates":[-86.550847,34.679142],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152231631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.004266,34.008727,-86.004266,34.008727",
     "geom:latitude":34.008727,
     "geom:longitude":-86.004266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"322 S 3rd St",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822279,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85822279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152231631,
-    "wof:lastmodified":1449046666,
+    "wof:lastmodified":1466316327,
     "wof:name":"Gieger Cleaners & Laundry Inc",
     "wof:parent_id":85822279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.004266,34.008727,-86.004266,34.008727],
+  "bbox": [
+    -86.004266,
+    34.008727,
+    -86.004266,
+    34.008727
+],
   "geometry": {"coordinates":[-86.004266,34.008727],"type":"Point"}
 }

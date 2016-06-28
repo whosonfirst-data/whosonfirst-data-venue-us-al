@@ -2,13 +2,14 @@
   "id": 152353443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.073507,33.461967,-86.073507,33.461967",
     "geom:latitude":33.461967,
     "geom:longitude":-86.073507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1110 Nimitz Ave",
     "sg:city":"Talladega",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85835139,
+        85688675,
         85633793,
         85914129,
         102085517,
-        85688675,
+        85835139,
         85807185
     ],
     "wof:breaches":[],
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":152353443,
-    "wof:lastmodified":1449045632,
+    "wof:lastmodified":1466317620,
     "wof:name":"Clare Purcell United Methodist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.073507,33.461967,-86.073507,33.461967],
-  "geometry": {"coordinates":[-86.073507,33.461967],"type":"Point"}
+  "bbox": [
+    -86.073507,
+    33.461967,
+    -86.073507,
+    33.461967
+],
+  "geometry": {"coordinates":[-86.07350700000001,33.461967],"type":"Point"}
 }

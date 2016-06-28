@@ -2,13 +2,14 @@
   "id": 152266327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.452541,32.460189,-86.452541,32.460189",
     "geom:latitude":32.460189,
     "geom:longitude":-86.452541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"702 E Main St",
     "sg:city":"Prattville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843041,
+        85688675,
         85633793,
         85913977,
         102085509,
-        85688675
+        85843041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152266327,
-    "wof:lastmodified":1449044434,
+    "wof:lastmodified":1466316866,
     "wof:name":"Southern Territorial Salvation",
     "wof:parent_id":85843041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.452541,32.460189,-86.452541,32.460189],
+  "bbox": [
+    -86.452541,
+    32.460189,
+    -86.452541,
+    32.460189
+],
   "geometry": {"coordinates":[-86.452541,32.460189],"type":"Point"}
 }

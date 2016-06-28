@@ -2,13 +2,14 @@
   "id": 152212849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.472681,31.22227,-85.472681,31.22227",
     "geom:latitude":31.22227,
     "geom:longitude":-85.472681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1303 Woodleigh Rd",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152212849,
-    "wof:lastmodified":1449047287,
+    "wof:lastmodified":1466315900,
     "wof:name":"National Diecasters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.472681,31.22227,-85.472681,31.22227],
-  "geometry": {"coordinates":[-85.472681,31.22227],"type":"Point"}
+  "bbox": [
+    -85.472681,
+    31.22227,
+    -85.472681,
+    31.22227
+],
+  "geometry": {"coordinates":[-85.47268099999999,31.22227],"type":"Point"}
 }

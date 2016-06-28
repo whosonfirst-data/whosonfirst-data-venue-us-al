@@ -2,13 +2,14 @@
   "id": 152864657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.408021,31.212251,-85.408021,31.212251",
     "geom:latitude":31.212251,
     "geom:longitude":-85.408021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1115 Normandale Dr",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852069,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85852069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152864657,
-    "wof:lastmodified":1449048947,
+    "wof:lastmodified":1466320196,
     "wof:name":"United Daughters of Confe",
     "wof:parent_id":85852069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.408021,31.212251,-85.408021,31.212251],
-  "geometry": {"coordinates":[-85.408021,31.212251],"type":"Point"}
+  "bbox": [
+    -85.408021,
+    31.212251,
+    -85.408021,
+    31.212251
+],
+  "geometry": {"coordinates":[-85.40802100000001,31.212251],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152557061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.375465,34.676728,-86.375465,34.676728",
     "geom:latitude":34.676728,
     "geom:longitude":-86.375465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"953 Keel Mountain Rd",
     "sg:city":"Gurley",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878245,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152557061,
-    "wof:lastmodified":1449047596,
+    "wof:lastmodified":1466318717,
     "wof:name":"Randy Maples Siding",
     "wof:parent_id":85878245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.375465,34.676728,-86.375465,34.676728],
-  "geometry": {"coordinates":[-86.375465,34.676728],"type":"Point"}
+  "bbox": [
+    -86.375465,
+    34.676728,
+    -86.375465,
+    34.676728
+],
+  "geometry": {"coordinates":[-86.37546500000001,34.676728],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152325849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.272714,33.173088,-86.272714,33.173088",
     "geom:latitude":33.173088,
     "geom:longitude":-86.272714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 W Highland Ave",
     "sg:city":"Sylacauga",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834171,
+        85688675,
         85633793,
         85914133,
         102085517,
-        85688675
+        85834171
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152325849,
-    "wof:lastmodified":1449046124,
+    "wof:lastmodified":1466317336,
     "wof:name":"Brown's Auto Collision & Paint",
     "wof:parent_id":85834171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.272714,33.173088,-86.272714,33.173088],
-  "geometry": {"coordinates":[-86.272714,33.173088],"type":"Point"}
+  "bbox": [
+    -86.272714,
+    33.173088,
+    -86.272714,
+    33.173088
+],
+  "geometry": {"coordinates":[-86.27271399999999,33.173088],"type":"Point"}
 }

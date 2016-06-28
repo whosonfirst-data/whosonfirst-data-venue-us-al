@@ -2,13 +2,14 @@
   "id": 152218307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.864549,33.763127,-85.864549,33.763127",
     "geom:latitude":33.763127,
     "geom:longitude":-85.864549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1616 State Farm Rd",
     "sg:city":"Alexandria",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85830275,
+        85688675,
         85633793,
         85914281,
         102085603,
-        85688675
+        85830275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152218307,
-    "wof:lastmodified":1449047226,
+    "wof:lastmodified":1466316133,
     "wof:name":"First Class Jewelry & Acc",
     "wof:parent_id":85830275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.864549,33.763127,-85.864549,33.763127],
+  "bbox": [
+    -85.864549,
+    33.763127,
+    -85.864549,
+    33.763127
+],
   "geometry": {"coordinates":[-85.864549,33.763127],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152859769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.542438,34.648729,-86.542438,34.648729",
     "geom:latitude":34.648729,
     "geom:longitude":-86.542438,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2120 Wrensnest Dr SE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851327,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85851327
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152859769,
-    "wof:lastmodified":1449047606,
+    "wof:lastmodified":1466320368,
     "wof:name":"Lucky The Clown",
     "wof:parent_id":85851327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.542438,34.648729,-86.542438,34.648729],
+  "bbox": [
+    -86.542438,
+    34.648729,
+    -86.542438,
+    34.648729
+],
   "geometry": {"coordinates":[-86.542438,34.648729],"type":"Point"}
 }

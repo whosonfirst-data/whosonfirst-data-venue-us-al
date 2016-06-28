@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102507965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.581499,34.555404,-85.581499,34.555404",
     "geom:latitude":34.555404,
     "geom:longitude":-85.581499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4378 E River Rd",
     "sg:city":"Mentone",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85844901,
+        85688675,
         85633793,
         85897439,
         102085615,
-        85688675
+        85844901
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102507965,
-    "wof:lastmodified":1449068987,
+    "wof:lastmodified":1466316763,
     "wof:name":"Pfs Corporation",
     "wof:parent_id":85844901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.581499,34.555404,-85.581499,34.555404],
-  "geometry": {"coordinates":[-85.581499,34.555404],"type":"Point"}
+  "bbox": [
+    -85.581499,
+    34.555404,
+    -85.581499,
+    34.555404
+],
+  "geometry": {"coordinates":[-85.58149899999999,34.555404],"type":"Point"}
 }

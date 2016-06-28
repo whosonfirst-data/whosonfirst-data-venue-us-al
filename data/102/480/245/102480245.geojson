@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102480245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.357132,32.366716,-86.357132,32.366716",
     "geom:latitude":32.366716,
     "geom:longitude":-86.357132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 Paul Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -35,11 +36,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85832931,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85832931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":102480245,
-    "wof:lastmodified":1449068581,
+    "wof:lastmodified":1466315153,
     "wof:name":"Barber Dairies Inc",
     "wof:parent_id":85832931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.357132,32.366716,-86.357132,32.366716],
-  "geometry": {"coordinates":[-86.357132,32.366716],"type":"Point"}
+  "bbox": [
+    -86.357132,
+    32.366716,
+    -86.357132,
+    32.366716
+],
+  "geometry": {"coordinates":[-86.35713199999999,32.366716],"type":"Point"}
 }

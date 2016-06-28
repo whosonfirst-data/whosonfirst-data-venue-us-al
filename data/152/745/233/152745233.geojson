@@ -2,13 +2,14 @@
   "id": 152745233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.921015,33.504214,-86.921015,33.504214",
     "geom:latitude":33.504214,
     "geom:longitude":-86.921015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 Huron St",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818869,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85818869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152745233,
-    "wof:lastmodified":1449048714,
+    "wof:lastmodified":1466319688,
     "wof:name":"Wylam Presbyterian Church",
     "wof:parent_id":85818869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.921015,33.504214,-86.921015,33.504214],
+  "bbox": [
+    -86.921015,
+    33.504214,
+    -86.921015,
+    33.504214
+],
   "geometry": {"coordinates":[-86.921015,33.504214],"type":"Point"}
 }

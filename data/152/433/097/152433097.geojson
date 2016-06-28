@@ -2,13 +2,14 @@
   "id": 152433097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.474399,30.517743,-87.474399,30.517743",
     "geom:latitude":30.517743,
     "geom:longitude":-87.474399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32260 River Lake Rd",
     "sg:city":"Seminole",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868551,
+        85688675,
         85633793,
         85914719,
         102085469,
-        85688675
+        85868551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152433097,
-    "wof:lastmodified":1449044841,
+    "wof:lastmodified":1466317987,
     "wof:name":"Broxsons Building",
     "wof:parent_id":85868551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.474399,30.517743,-87.474399,30.517743],
-  "geometry": {"coordinates":[-87.474399,30.517743],"type":"Point"}
+  "bbox": [
+    -87.474399,
+    30.517743,
+    -87.474399,
+    30.517743
+],
+  "geometry": {"coordinates":[-87.47439900000001,30.517743],"type":"Point"}
 }

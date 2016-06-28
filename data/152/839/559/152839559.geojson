@@ -2,13 +2,14 @@
   "id": 152839559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.124528,32.560603,-85.124528,32.560603",
     "geom:latitude":32.560603,
     "geom:longitude":-85.124528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"275 Co Rd 430",
     "sg:city":"Smiths Station",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819517,
+        85688675,
         85633793,
         85913815,
         102085751,
-        85688675
+        85819517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152839559,
-    "wof:lastmodified":1449047075,
+    "wof:lastmodified":1466320026,
     "wof:name":"Flowers Bait & Tackle",
     "wof:parent_id":85819517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.124528,32.560603,-85.124528,32.560603],
+  "bbox": [
+    -85.124528,
+    32.560603,
+    -85.124528,
+    32.560603
+],
   "geometry": {"coordinates":[-85.124528,32.560603],"type":"Point"}
 }

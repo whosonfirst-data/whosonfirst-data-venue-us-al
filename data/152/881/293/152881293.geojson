@@ -2,13 +2,14 @@
   "id": 152881293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.680968,34.80317,-87.680968,34.80317",
     "geom:latitude":34.80317,
     "geom:longitude":-87.680968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"444 N Cedar St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848857,
+        85688675,
         85633793,
         85914011,
         102085527,
-        85688675
+        85848857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152881293,
-    "wof:lastmodified":1449046985,
+    "wof:lastmodified":1466320225,
     "wof:name":"Learning Lab",
     "wof:parent_id":85848857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.680968,34.80317,-87.680968,34.80317],
-  "geometry": {"coordinates":[-87.680968,34.80317],"type":"Point"}
+  "bbox": [
+    -87.680968,
+    34.80317,
+    -87.680968,
+    34.80317
+],
+  "geometry": {"coordinates":[-87.68096799999999,34.80317],"type":"Point"}
 }

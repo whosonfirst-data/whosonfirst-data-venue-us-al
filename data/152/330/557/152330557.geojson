@@ -2,13 +2,14 @@
   "id": 152330557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.193573,32.382949,-86.193573,32.382949",
     "geom:latitude":32.382949,
     "geom:longitude":-86.193573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"235 Sylvest Dr",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829705,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85829705
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152330557,
-    "wof:lastmodified":1449046605,
+    "wof:lastmodified":1466317366,
     "wof:name":"East Haven Village",
     "wof:parent_id":85829705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.193573,32.382949,-86.193573,32.382949],
+  "bbox": [
+    -86.193573,
+    32.382949,
+    -86.193573,
+    32.382949
+],
   "geometry": {"coordinates":[-86.193573,32.382949],"type":"Point"}
 }

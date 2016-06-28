@@ -2,13 +2,14 @@
   "id": 152502067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.964668,31.788998,-85.964668,31.788998",
     "geom:latitude":31.788998,
     "geom:longitude":-85.964668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1317 S Brundidge St",
     "sg:city":"Troy",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867315,
+        85688675,
         85633793,
         85914551,
         102085619,
-        85688675
+        85867315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152502067,
-    "wof:lastmodified":1449046426,
+    "wof:lastmodified":1466318341,
     "wof:name":"Specialty Batteries",
     "wof:parent_id":85867315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.964668,31.788998,-85.964668,31.788998],
+  "bbox": [
+    -85.964668,
+    31.788998,
+    -85.964668,
+    31.788998
+],
   "geometry": {"coordinates":[-85.964668,31.788998],"type":"Point"}
 }

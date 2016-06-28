@@ -2,13 +2,14 @@
   "id": 152559331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.508559,34.31451,-86.508559,34.31451",
     "geom:latitude":34.31451,
     "geom:longitude":-86.508559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33 8th St NW",
     "sg:city":"Arab",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837211,
+        85688675,
         85633793,
         85913243,
         102085513,
-        85688675
+        85837211
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152559331,
-    "wof:lastmodified":1449047911,
+    "wof:lastmodified":1466318721,
     "wof:name":"Westown Car Wash",
     "wof:parent_id":85837211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.508559,34.31451,-86.508559,34.31451],
-  "geometry": {"coordinates":[-86.508559,34.31451],"type":"Point"}
+  "bbox": [
+    -86.508559,
+    34.31451,
+    -86.508559,
+    34.31451
+],
+  "geometry": {"coordinates":[-86.50855900000001,34.31451],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102505153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.785575,33.459244,-86.785575,33.459244",
     "geom:latitude":33.459244,
     "geom:longitude":-86.785575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 Woodland Village",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858233,
+        85688675,
         85633793,
         85914847,
         102085481,
-        85688675
+        85858233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102505153,
-    "wof:lastmodified":1449069762,
+    "wof:lastmodified":1466316554,
     "wof:name":"AAA Home Maintenance",
     "wof:parent_id":85858233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.785575,33.459244,-86.785575,33.459244],
-  "geometry": {"coordinates":[-86.785575,33.459244],"type":"Point"}
+  "bbox": [
+    -86.785575,
+    33.459244,
+    -86.785575,
+    33.459244
+],
+  "geometry": {"coordinates":[-86.78557499999999,33.459244],"type":"Point"}
 }

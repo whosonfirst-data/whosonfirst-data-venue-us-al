@@ -2,13 +2,14 @@
   "id": 152288643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.047525,34.061101,-86.047525,34.061101",
     "geom:latitude":34.061101,
     "geom:longitude":-86.047525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Gilliland Dr",
     "sg:city":"Attalla",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802495,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85802495
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152288643,
-    "wof:lastmodified":1449044797,
+    "wof:lastmodified":1466316909,
     "wof:name":"Harris Electric",
     "wof:parent_id":85802495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.047525,34.061101,-86.047525,34.061101],
-  "geometry": {"coordinates":[-86.047525,34.061101],"type":"Point"}
+  "bbox": [
+    -86.047525,
+    34.061101,
+    -86.047525,
+    34.061101
+],
+  "geometry": {"coordinates":[-86.04752499999999,34.061101],"type":"Point"}
 }

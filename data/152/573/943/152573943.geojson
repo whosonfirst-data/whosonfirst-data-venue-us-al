@@ -2,13 +2,14 @@
   "id": 152573943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.610325,34.718925,-86.610325,34.718925",
     "geom:latitude":34.718925,
     "geom:longitude":-86.610325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3215 6th Ave SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825531,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85825531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152573943,
-    "wof:lastmodified":1449047711,
+    "wof:lastmodified":1466318570,
     "wof:name":"System Technology Alarm",
     "wof:parent_id":85825531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.610325,34.718925,-86.610325,34.718925],
+  "bbox": [
+    -86.610325,
+    34.718925,
+    -86.610325,
+    34.718925
+],
   "geometry": {"coordinates":[-86.610325,34.718925],"type":"Point"}
 }

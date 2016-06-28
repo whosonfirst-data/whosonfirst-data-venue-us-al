@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102520411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.77773,33.518181,-86.77773,33.518181",
     "geom:latitude":33.518181,
     "geom:longitude":-86.77773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3621 6th Ave S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.alabamasymphony.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876275,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102520411,
-    "wof:lastmodified":1449068586,
+    "wof:lastmodified":1466317234,
     "wof:name":"Alabama Symphony Orchestra",
     "wof:parent_id":85876275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.77773,33.518181,-86.77773,33.518181],
-  "geometry": {"coordinates":[-86.77773,33.518181],"type":"Point"}
+  "bbox": [
+    -86.77773,
+    33.518181,
+    -86.77773,
+    33.518181
+],
+  "geometry": {"coordinates":[-86.77773000000001,33.518181],"type":"Point"}
 }

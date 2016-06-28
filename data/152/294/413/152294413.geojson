@@ -2,13 +2,14 @@
   "id": 152294413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.783513,33.472128,-86.783513,33.472128",
     "geom:latitude":33.472128,
     "geom:longitude":-86.783513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3401 Independence Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850365,
+        85688675,
         85633793,
         85914847,
         102085481,
-        85688675
+        85850365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152294413,
-    "wof:lastmodified":1449047588,
+    "wof:lastmodified":1466317068,
     "wof:name":"Wellness Pharmacy",
     "wof:parent_id":85850365,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.783513,33.472128,-86.783513,33.472128],
+  "bbox": [
+    -86.783513,
+    33.472128,
+    -86.783513,
+    33.472128
+],
   "geometry": {"coordinates":[-86.783513,33.472128],"type":"Point"}
 }

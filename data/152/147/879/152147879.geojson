@@ -2,13 +2,14 @@
   "id": 152147879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.868369,33.477404,-86.868369,33.477404",
     "geom:latitude":33.477404,
     "geom:longitude":-86.868369,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1844 Jefferson Ave SW",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818187,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85818187
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152147879,
-    "wof:lastmodified":1449048415,
+    "wof:lastmodified":1466315472,
     "wof:name":"Crown Central Petro Stn 021",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.868369,33.477404,-86.868369,33.477404],
+  "bbox": [
+    -86.868369,
+    33.477404,
+    -86.868369,
+    33.477404
+],
   "geometry": {"coordinates":[-86.868369,33.477404],"type":"Point"}
 }

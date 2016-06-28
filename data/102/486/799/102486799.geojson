@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102486799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.142052,30.674125,-88.142052,30.674125",
     "geom:latitude":30.674125,
     "geom:longitude":-88.142052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4351 Downtowner Loop N",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.mobileballet.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878955,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102486799,
-    "wof:lastmodified":1449069084,
+    "wof:lastmodified":1466315713,
     "wof:name":"Mobile Ballet Inc",
     "wof:parent_id":85878955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.142052,30.674125,-88.142052,30.674125],
-  "geometry": {"coordinates":[-88.142052,30.674125],"type":"Point"}
+  "bbox": [
+    -88.142052,
+    30.674125,
+    -88.142052,
+    30.674125
+],
+  "geometry": {"coordinates":[-88.14205200000001,30.674125],"type":"Point"}
 }

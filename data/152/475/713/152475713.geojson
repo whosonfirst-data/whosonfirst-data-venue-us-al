@@ -2,13 +2,14 @@
   "id": 152475713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.004053,34.439232,-86.004053,34.439232",
     "geom:latitude":34.439232,
     "geom:longitude":-86.004053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5540 Co Rd 76",
     "sg:city":"Groveoak",
     "sg:classifiers":[
@@ -33,11 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815015,
+        85688675,
         85633793,
         85897515,
         102085615,
-        85688675
+        85815015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":152475713,
-    "wof:lastmodified":1449046232,
+    "wof:lastmodified":1466318205,
     "wof:name":"Knight Farms",
     "wof:parent_id":85815015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.004053,34.439232,-86.004053,34.439232],
+  "bbox": [
+    -86.004053,
+    34.439232,
+    -86.004053,
+    34.439232
+],
   "geometry": {"coordinates":[-86.004053,34.439232],"type":"Point"}
 }

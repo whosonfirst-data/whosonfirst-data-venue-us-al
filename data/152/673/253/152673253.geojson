@@ -2,13 +2,14 @@
   "id": 152673253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.099286,30.695047,-88.099286,30.695047",
     "geom:latitude":30.695047,
     "geom:longitude":-88.099286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2519 Spring Hill Ave",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152673253,
-    "wof:lastmodified":1449046100,
+    "wof:lastmodified":1466319192,
     "wof:name":"Spring Hill Avenue United Meth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.099286,30.695047,-88.099286,30.695047],
-  "geometry": {"coordinates":[-88.099286,30.695047],"type":"Point"}
+  "bbox": [
+    -88.099286,
+    30.695047,
+    -88.099286,
+    30.695047
+],
+  "geometry": {"coordinates":[-88.09928600000001,30.695047],"type":"Point"}
 }

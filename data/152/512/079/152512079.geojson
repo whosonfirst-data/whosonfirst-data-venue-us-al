@@ -2,13 +2,14 @@
   "id": 152512079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.923707,32.50128,-85.923707,32.50128",
     "geom:latitude":32.50128,
     "geom:longitude":-85.923707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1356 New Quarter Rd",
     "sg:city":"Tallassee",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827623,
+        85688675,
         85633793,
         85913291,
         102085631,
-        85688675
+        85827623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152512079,
-    "wof:lastmodified":1449047663,
+    "wof:lastmodified":1466318371,
     "wof:name":"Foster Diesel Service LLC",
     "wof:parent_id":85827623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.923707,32.50128,-85.923707,32.50128],
-  "geometry": {"coordinates":[-85.923707,32.50128],"type":"Point"}
+  "bbox": [
+    -85.923707,
+    32.50128,
+    -85.923707,
+    32.50128
+],
+  "geometry": {"coordinates":[-85.92370699999999,32.50128],"type":"Point"}
 }

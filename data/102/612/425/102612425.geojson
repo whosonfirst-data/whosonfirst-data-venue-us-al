@@ -2,13 +2,14 @@
   "id": 102612425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.279536,33.936371,-87.279536,33.936371",
     "geom:latitude":33.936371,
     "geom:longitude":-87.279536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 Hill Chase Rd",
     "sg:city":"Jasper",
     "sg:classifiers":[
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":102612425,
-    "wof:lastmodified":1449068833,
+    "wof:lastmodified":1466317280,
     "wof:name":"Charles William Home Insptn",
     "wof:parent_id":85688675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.279536,33.936371,-87.279536,33.936371],
-  "geometry": {"coordinates":[-87.279536,33.936371],"type":"Point"}
+  "bbox": [
+    -87.279536,
+    33.936371,
+    -87.279536,
+    33.936371
+],
+  "geometry": {"coordinates":[-87.27953599999999,33.936371],"type":"Point"}
 }

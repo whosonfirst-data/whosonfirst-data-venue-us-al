@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102459291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.844124,33.394298,-86.844124,33.394298",
     "geom:latitude":33.394298,
     "geom:longitude":-86.844124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3742 Carisbrooke Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827189,
+        85688675,
         85633793,
         85914475,
         102085481,
-        85688675
+        85827189
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102459291,
-    "wof:lastmodified":1449068749,
+    "wof:lastmodified":1466314941,
     "wof:name":"Vetrano",
     "wof:parent_id":85827189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.844124,33.394298,-86.844124,33.394298],
-  "geometry": {"coordinates":[-86.844124,33.394298],"type":"Point"}
+  "bbox": [
+    -86.844124,
+    33.394298,
+    -86.844124,
+    33.394298
+],
+  "geometry": {"coordinates":[-86.84412399999999,33.394298],"type":"Point"}
 }

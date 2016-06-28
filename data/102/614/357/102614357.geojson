@@ -2,13 +2,14 @@
   "id": 102614357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.904367,33.522259,-86.904367,33.522259",
     "geom:latitude":33.522259,
     "geom:longitude":-86.904367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"417 Lorain St",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848275,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85848275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102614357,
-    "wof:lastmodified":1449070279,
+    "wof:lastmodified":1466317298,
     "wof:name":"Gedson Document Center Inc",
     "wof:parent_id":85848275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.904367,33.522259,-86.904367,33.522259],
-  "geometry": {"coordinates":[-86.904367,33.522259],"type":"Point"}
+  "bbox": [
+    -86.904367,
+    33.522259,
+    -86.904367,
+    33.522259
+],
+  "geometry": {"coordinates":[-86.90436699999999,33.522259],"type":"Point"}
 }

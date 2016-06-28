@@ -2,13 +2,14 @@
   "id": 152190935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.238245,30.988422,-88.238245,30.988422",
     "geom:latitude":30.988422,
     "geom:longitude":-88.238245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14330 US Hwy 45",
     "sg:city":"Chunchula",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085585,
-        85633793,
         85688675,
-        85878987
+        85633793,
+        85878987,
+        102085585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152190935,
-    "wof:lastmodified":1449048629,
+    "wof:lastmodified":1466315705,
     "wof:name":"Pond House Nursery & Garden",
     "wof:parent_id":85878987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.238245,30.988422,-88.238245,30.988422],
-  "geometry": {"coordinates":[-88.238245,30.988422],"type":"Point"}
+  "bbox": [
+    -88.238245,
+    30.988422,
+    -88.238245,
+    30.988422
+],
+  "geometry": {"coordinates":[-88.23824500000001,30.988422],"type":"Point"}
 }

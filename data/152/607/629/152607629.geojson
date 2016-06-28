@@ -2,13 +2,14 @@
   "id": 152607629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.38902,34.115788,-86.38902,34.115788",
     "geom:latitude":34.115788,
     "geom:longitude":-86.38902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"87553 US Hwy 278",
     "sg:city":"Snead",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085667,
-        85633793,
         85688675,
-        85819523
+        85633793,
+        85819523,
+        102085667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152607629,
-    "wof:lastmodified":1449044915,
+    "wof:lastmodified":1466318882,
     "wof:name":"Waste Water Products Inc",
     "wof:parent_id":85819523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.38902,34.115788,-86.38902,34.115788],
+  "bbox": [
+    -86.38902,
+    34.115788,
+    -86.38902,
+    34.115788
+],
   "geometry": {"coordinates":[-86.38902,34.115788],"type":"Point"}
 }

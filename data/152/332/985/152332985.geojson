@@ -2,13 +2,14 @@
   "id": 152332985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.215163,32.380617,-86.215163,32.380617",
     "geom:latitude":32.380617,
     "geom:longitude":-86.215163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Carol Villa Dr",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809571,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85809571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152332985,
-    "wof:lastmodified":1449046874,
+    "wof:lastmodified":1466317332,
     "wof:name":"Wholesale Auto Plus LLC",
     "wof:parent_id":85809571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.215163,32.380617,-86.215163,32.380617],
+  "bbox": [
+    -86.215163,
+    32.380617,
+    -86.215163,
+    32.380617
+],
   "geometry": {"coordinates":[-86.215163,32.380617],"type":"Point"}
 }

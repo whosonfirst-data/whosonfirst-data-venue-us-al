@@ -2,13 +2,14 @@
   "id": 152373595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.750049,34.740099,-86.750049,34.740099",
     "geom:latitude":34.740099,
     "geom:longitude":-86.750049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5592 Wall Triana Hwy",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851107,
+        85688675,
         85633793,
         85913593,
         102085487,
-        85688675
+        85851107
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152373595,
-    "wof:lastmodified":1449046697,
+    "wof:lastmodified":1466317685,
     "wof:name":"Taylor Electric Svc",
     "wof:parent_id":85851107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.750049,34.740099,-86.750049,34.740099],
+  "bbox": [
+    -86.750049,
+    34.740099,
+    -86.750049,
+    34.740099
+],
   "geometry": {"coordinates":[-86.750049,34.740099],"type":"Point"}
 }

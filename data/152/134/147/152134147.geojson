@@ -2,13 +2,14 @@
   "id": 152134147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.527617,34.785705,-87.527617,34.785705",
     "geom:latitude":34.785705,
     "geom:longitude":-87.527617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5448 River Rd",
     "sg:city":"Muscle Shoals",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":152134147,
-    "wof:lastmodified":1449048663,
+    "wof:lastmodified":1466315213,
     "wof:name":"Carol's Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.527617,34.785705,-87.527617,34.785705],
-  "geometry": {"coordinates":[-87.527617,34.785705],"type":"Point"}
+  "bbox": [
+    -87.527617,
+    34.785705,
+    -87.527617,
+    34.785705
+],
+  "geometry": {"coordinates":[-87.52761700000001,34.785705],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152376657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.745207,33.404214,-86.745207,33.404214",
     "geom:latitude":33.404214,
     "geom:longitude":-86.745207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1924 Cahaba Crest Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85826093
+        85633793,
+        85826093,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152376657,
-    "wof:lastmodified":1449045886,
+    "wof:lastmodified":1466317728,
     "wof:name":"Skye Capital Partners",
     "wof:parent_id":85826093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.745207,33.404214,-86.745207,33.404214],
-  "geometry": {"coordinates":[-86.745207,33.404214],"type":"Point"}
+  "bbox": [
+    -86.745207,
+    33.404214,
+    -86.745207,
+    33.404214
+],
+  "geometry": {"coordinates":[-86.74520699999999,33.404214],"type":"Point"}
 }

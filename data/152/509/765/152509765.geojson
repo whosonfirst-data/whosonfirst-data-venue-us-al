@@ -2,13 +2,14 @@
   "id": 152509765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.140087,30.251061,-88.140087,30.251061",
     "geom:latitude":30.251061,
     "geom:longitude":-88.140087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Pontchartra Ct",
     "sg:city":"Dauphin Island",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152509765,
-    "wof:lastmodified":1449044487,
+    "wof:lastmodified":1466318394,
     "wof:name":"Foote & Assoc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.140087,30.251061,-88.140087,30.251061],
-  "geometry": {"coordinates":[-88.140087,30.251061],"type":"Point"}
+  "bbox": [
+    -88.140087,
+    30.251061,
+    -88.140087,
+    30.251061
+],
+  "geometry": {"coordinates":[-88.14008699999999,30.251061],"type":"Point"}
 }

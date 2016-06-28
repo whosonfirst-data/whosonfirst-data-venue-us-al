@@ -2,13 +2,14 @@
   "id": 152531935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.761268,33.810734,-85.761268,33.810734",
     "geom:latitude":33.810734,
     "geom:longitude":-85.761268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Pelham Rd S",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817157,
+        85688675,
         85633793,
         85914293,
         102085603,
-        85688675
+        85817157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152531935,
-    "wof:lastmodified":1449045386,
+    "wof:lastmodified":1466318494,
     "wof:name":"Serenity Day Spa",
     "wof:parent_id":85817157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.761268,33.810734,-85.761268,33.810734],
+  "bbox": [
+    -85.761268,
+    33.810734,
+    -85.761268,
+    33.810734
+],
   "geometry": {"coordinates":[-85.761268,33.810734],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152463565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.320892,34.46823,-86.320892,34.46823",
     "geom:latitude":34.46823,
     "geom:longitude":-86.320892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"365 Parcus Rd",
     "sg:city":"Grant",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085513,
-        85633793,
         85688675,
-        85851677
+        85633793,
+        85851677,
+        102085513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152463565,
-    "wof:lastmodified":1449047515,
+    "wof:lastmodified":1466318276,
     "wof:name":"Robert L Lemaster",
     "wof:parent_id":85851677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.320892,34.46823,-86.320892,34.46823],
+  "bbox": [
+    -86.320892,
+    34.46823,
+    -86.320892,
+    34.46823
+],
   "geometry": {"coordinates":[-86.320892,34.46823],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152502263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.224384,34.507965,-87.224384,34.507965",
     "geom:latitude":34.507965,
     "geom:longitude":-87.224384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18685 State Rte 24",
     "sg:city":"Moulton",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085601,
-        85633793,
         85688675,
-        85851971
+        85633793,
+        85851971,
+        102085601
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152502263,
-    "wof:lastmodified":1449046431,
+    "wof:lastmodified":1466318481,
     "wof:name":"Hurst Highway 24 Gas & Grocery",
     "wof:parent_id":85851971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.224384,34.507965,-87.224384,34.507965],
+  "bbox": [
+    -87.224384,
+    34.507965,
+    -87.224384,
+    34.507965
+],
   "geometry": {"coordinates":[-87.224384,34.507965],"type":"Point"}
 }

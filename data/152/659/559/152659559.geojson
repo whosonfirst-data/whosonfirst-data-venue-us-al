@@ -2,13 +2,14 @@
   "id": 152659559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.696287,33.510981,-86.696287,33.510981",
     "geom:latitude":33.510981,
     "geom:longitude":-86.696287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4951 Cold Harbor Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085481,
-        85633793,
         85688675,
-        85810623
+        85633793,
+        85810623,
+        102085481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152659559,
-    "wof:lastmodified":1449044805,
+    "wof:lastmodified":1466319313,
     "wof:name":"Dldd Corp",
     "wof:parent_id":85810623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.696287,33.510981,-86.696287,33.510981],
+  "bbox": [
+    -86.696287,
+    33.510981,
+    -86.696287,
+    33.510981
+],
   "geometry": {"coordinates":[-86.696287,33.510981],"type":"Point"}
 }

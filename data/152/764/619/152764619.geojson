@@ -2,13 +2,14 @@
   "id": 152764619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.775016,33.820788,-85.775016,33.820788",
     "geom:latitude":33.820788,
     "geom:longitude":-85.775016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"806 Washington St NW",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805945,
+        85688675,
         85633793,
         85914293,
         102085603,
-        85688675
+        85805945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152764619,
-    "wof:lastmodified":1449048700,
+    "wof:lastmodified":1466319646,
     "wof:name":"Myrick Manor",
     "wof:parent_id":85805945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.775016,33.820788,-85.775016,33.820788],
-  "geometry": {"coordinates":[-85.775016,33.820788],"type":"Point"}
+  "bbox": [
+    -85.775016,
+    33.820788,
+    -85.775016,
+    33.820788
+],
+  "geometry": {"coordinates":[-85.77501599999999,33.820788],"type":"Point"}
 }

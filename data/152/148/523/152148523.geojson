@@ -2,13 +2,14 @@
   "id": 152148523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.219786,32.440687,-86.219786,32.440687",
     "geom:latitude":32.440687,
     "geom:longitude":-86.219786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1870 Blue Ridge Dr",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827567,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85827567
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152148523,
-    "wof:lastmodified":1449048193,
+    "wof:lastmodified":1466314451,
     "wof:name":"Blue Ridge Mobile Homes Park",
     "wof:parent_id":85827567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.219786,32.440687,-86.219786,32.440687],
+  "bbox": [
+    -86.219786,
+    32.440687,
+    -86.219786,
+    32.440687
+],
   "geometry": {"coordinates":[-86.219786,32.440687],"type":"Point"}
 }

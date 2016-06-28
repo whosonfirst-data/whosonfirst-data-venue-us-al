@@ -2,13 +2,14 @@
   "id": 152637897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.847826,33.413482,-86.847826,33.413482",
     "geom:latitude":33.413482,
     "geom:longitude":-86.847826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2418 Mountain Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085481,
-        85633793,
         85688675,
-        85834275
+        85633793,
+        85834275,
+        102085481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152637897,
-    "wof:lastmodified":1449044289,
+    "wof:lastmodified":1466319045,
     "wof:name":"Maximum Advertising Inc",
     "wof:parent_id":85834275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.847826,33.413482,-86.847826,33.413482],
+  "bbox": [
+    -86.847826,
+    33.413482,
+    -86.847826,
+    33.413482
+],
   "geometry": {"coordinates":[-86.847826,33.413482],"type":"Point"}
 }

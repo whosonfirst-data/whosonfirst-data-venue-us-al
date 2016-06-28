@@ -2,13 +2,14 @@
   "id": 152375699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.690103,33.414492,-86.690103,33.414492",
     "geom:latitude":33.414492,
     "geom:longitude":-86.690103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 Meadowcroft Cir",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85833411
+        85633793,
+        85833411,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152375699,
-    "wof:lastmodified":1449044455,
+    "wof:lastmodified":1466317729,
     "wof:name":"Sea Air Service Inc",
     "wof:parent_id":85833411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.690103,33.414492,-86.690103,33.414492],
-  "geometry": {"coordinates":[-86.690103,33.414492],"type":"Point"}
+  "bbox": [
+    -86.690103,
+    33.414492,
+    -86.690103,
+    33.414492
+],
+  "geometry": {"coordinates":[-86.69010299999999,33.414492],"type":"Point"}
 }

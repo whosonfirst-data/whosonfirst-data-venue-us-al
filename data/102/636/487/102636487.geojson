@@ -2,13 +2,14 @@
   "id": 102636487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.810914,33.294258,-86.810914,33.294258",
     "geom:latitude":33.294258,
     "geom:longitude":-86.810914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3025 Wilson St",
     "sg:city":"Pelham",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828267,
+        85688675,
         85633793,
         85914501,
         102085499,
-        85688675
+        85828267
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102636487,
-    "wof:lastmodified":1449068716,
+    "wof:lastmodified":1466317585,
     "wof:name":"Marric Communication Co Inc",
     "wof:parent_id":85828267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.810914,33.294258,-86.810914,33.294258],
+  "bbox": [
+    -86.810914,
+    33.294258,
+    -86.810914,
+    33.294258
+],
   "geometry": {"coordinates":[-86.810914,33.294258],"type":"Point"}
 }

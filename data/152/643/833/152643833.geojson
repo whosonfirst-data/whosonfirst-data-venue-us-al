@@ -2,13 +2,14 @@
   "id": 152643833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.427608,34.746351,-86.427608,34.746351",
     "geom:latitude":34.746351,
     "geom:longitude":-86.427608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"251 Jones Dr",
     "sg:city":"Brownsboro",
     "sg:classifiers":[
@@ -38,11 +39,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878245,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,14 +62,20 @@
         }
     ],
     "wof:id":152643833,
-    "wof:lastmodified":1449048301,
+    "wof:lastmodified":1466319075,
     "wof:name":"Bailey Mobile Home Towing Inc",
     "wof:parent_id":85878245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.427608,34.746351,-86.427608,34.746351],
-  "geometry": {"coordinates":[-86.427608,34.746351],"type":"Point"}
+  "bbox": [
+    -86.427608,
+    34.746351,
+    -86.427608,
+    34.746351
+],
+  "geometry": {"coordinates":[-86.42760800000001,34.746351],"type":"Point"}
 }

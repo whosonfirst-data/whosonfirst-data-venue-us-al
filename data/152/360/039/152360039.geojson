@@ -2,13 +2,14 @@
   "id": 152360039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.805889,33.229962,-86.805889,33.229962",
     "geom:latitude":33.229962,
     "geom:longitude":-86.805889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"65 US Hwy 31",
     "sg:city":"Alabaster",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85853623
+        85633793,
+        85853623,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152360039,
-    "wof:lastmodified":1449047861,
+    "wof:lastmodified":1466317608,
     "wof:name":"Marathon Electrical",
     "wof:parent_id":85853623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.805889,33.229962,-86.805889,33.229962],
-  "geometry": {"coordinates":[-86.805889,33.229962],"type":"Point"}
+  "bbox": [
+    -86.805889,
+    33.229962,
+    -86.805889,
+    33.229962
+],
+  "geometry": {"coordinates":[-86.80588899999999,33.229962],"type":"Point"}
 }

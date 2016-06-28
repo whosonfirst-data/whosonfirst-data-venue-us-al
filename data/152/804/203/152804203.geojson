@@ -2,13 +2,14 @@
   "id": 152804203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.605011,32.237637,-87.605011,32.237637",
     "geom:latitude":32.237637,
     "geom:longitude":-87.605011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8774 Co Rd 53",
     "sg:city":"Thomaston",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85804415,
+        85688675,
         85633793,
         85899613,
         102085423,
-        85688675
+        85804415
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152804203,
-    "wof:lastmodified":1449047517,
+    "wof:lastmodified":1466319872,
     "wof:name":"Clear Span Metal Buildings",
     "wof:parent_id":85804415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.605011,32.237637,-87.605011,32.237637],
+  "bbox": [
+    -87.605011,
+    32.237637,
+    -87.605011,
+    32.237637
+],
   "geometry": {"coordinates":[-87.605011,32.237637],"type":"Point"}
 }

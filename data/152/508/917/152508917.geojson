@@ -2,13 +2,14 @@
   "id": 152508917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.132223,30.657795,-88.132223,30.657795",
     "geom:latitude":30.657795,
     "geom:longitude":-88.132223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3808 Cottage Hill Rd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -33,11 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878955,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":152508917,
-    "wof:lastmodified":1449046893,
+    "wof:lastmodified":1466318395,
     "wof:name":"Duncans Wholesale Floral Inc",
     "wof:parent_id":85878955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.132223,30.657795,-88.132223,30.657795],
+  "bbox": [
+    -88.132223,
+    30.657795,
+    -88.132223,
+    30.657795
+],
   "geometry": {"coordinates":[-88.132223,30.657795],"type":"Point"}
 }

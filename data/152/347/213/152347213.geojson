@@ -2,13 +2,14 @@
   "id": 152347213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.835445,34.715964,-85.835445,34.715964",
     "geom:latitude":34.715964,
     "geom:longitude":-85.835445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"245 Co Rd 359",
     "sg:city":"Pisgah",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809451,
+        85688675,
         85633793,
         85914033,
         102085607,
-        85688675
+        85809451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152347213,
-    "wof:lastmodified":1449046539,
+    "wof:lastmodified":1466317647,
     "wof:name":"Pemberton Custom Carpentr",
     "wof:parent_id":85809451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.835445,34.715964,-85.835445,34.715964],
-  "geometry": {"coordinates":[-85.835445,34.715964],"type":"Point"}
+  "bbox": [
+    -85.835445,
+    34.715964,
+    -85.835445,
+    34.715964
+],
+  "geometry": {"coordinates":[-85.83544500000001,34.715964],"type":"Point"}
 }

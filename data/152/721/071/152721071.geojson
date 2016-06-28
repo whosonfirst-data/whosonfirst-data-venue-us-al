@@ -2,13 +2,14 @@
   "id": 152721071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.878566,30.648381,-87.878566,30.648381",
     "geom:latitude":30.648381,
     "geom:longitude":-87.878566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Betty Cir",
     "sg:city":"Daphne",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840537,
+        85688675,
         85633793,
         85914695,
         102085469,
-        85688675
+        85840537
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152721071,
-    "wof:lastmodified":1449048892,
+    "wof:lastmodified":1466319524,
     "wof:name":"Brad Kilborn Construction",
     "wof:parent_id":85840537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.878566,30.648381,-87.878566,30.648381],
-  "geometry": {"coordinates":[-87.878566,30.648381],"type":"Point"}
+  "bbox": [
+    -87.878566,
+    30.648381,
+    -87.878566,
+    30.648381
+],
+  "geometry": {"coordinates":[-87.87856600000001,30.648381],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152447425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.125294,34.231385,-86.125294,34.231385",
     "geom:latitude":34.231385,
     "geom:longitude":-86.125294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13595 State Rte 168",
     "sg:city":"Boaz",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85830981,
+        85688675,
         85633793,
         85899833,
         102085513,
-        85688675
+        85830981
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152447425,
-    "wof:lastmodified":1449047550,
+    "wof:lastmodified":1466318054,
     "wof:name":"Whiteside Motors",
     "wof:parent_id":85830981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.125294,34.231385,-86.125294,34.231385],
+  "bbox": [
+    -86.125294,
+    34.231385,
+    -86.125294,
+    34.231385
+],
   "geometry": {"coordinates":[-86.125294,34.231385],"type":"Point"}
 }

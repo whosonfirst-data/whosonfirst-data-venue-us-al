@@ -2,13 +2,14 @@
   "id": 152230433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.716811,34.669135,-86.716811,34.669135",
     "geom:latitude":34.669135,
     "geom:longitude":-86.716811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1030 Grandeview Blvd",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807231,
+        85688675,
         85633793,
         85913593,
         102085487,
-        85688675
+        85807231
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152230433,
-    "wof:lastmodified":1449047732,
+    "wof:lastmodified":1466316401,
     "wof:name":"Colonial Grand Apartments",
     "wof:parent_id":85807231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.716811,34.669135,-86.716811,34.669135],
-  "geometry": {"coordinates":[-86.716811,34.669135],"type":"Point"}
+  "bbox": [
+    -86.716811,
+    34.669135,
+    -86.716811,
+    34.669135
+],
+  "geometry": {"coordinates":[-86.71681100000001,34.669135],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152358095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.138879,30.685506,-88.138879,30.685506",
     "geom:latitude":30.685506,
     "geom:longitude":-88.138879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3715 Dauphin St",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878977,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152358095,
-    "wof:lastmodified":1449046256,
+    "wof:lastmodified":1466317611,
     "wof:name":"Surgical Oncology & General Sg",
     "wof:parent_id":85878977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.138879,30.685506,-88.138879,30.685506],
+  "bbox": [
+    -88.138879,
+    30.685506,
+    -88.138879,
+    30.685506
+],
   "geometry": {"coordinates":[-88.138879,30.685506],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152901161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.90505,30.533441,-87.90505,30.533441",
     "geom:latitude":30.533441,
     "geom:longitude":-87.90505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"355 N Mobile St",
     "sg:city":"Fairhope",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854025,
+        85688675,
         85633793,
         85914707,
         102085469,
-        85688675
+        85854025
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152901161,
-    "wof:lastmodified":1449046253,
+    "wof:lastmodified":1466320327,
     "wof:name":"Oak Haven Cottages",
     "wof:parent_id":85854025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.90505,30.533441,-87.90505,30.533441],
+  "bbox": [
+    -87.90505,
+    30.533441,
+    -87.90505,
+    30.533441
+],
   "geometry": {"coordinates":[-87.90505,30.533441],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152383841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.582609,34.245729,-87.582609,34.245729",
     "geom:latitude":34.245729,
     "geom:longitude":-87.582609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41899 State Rte 195",
     "sg:city":"Haleyville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152383841,
-    "wof:lastmodified":1449046266,
+    "wof:lastmodified":1466317759,
     "wof:name":"Winston Computers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.582609,34.245729,-87.582609,34.245729],
-  "geometry": {"coordinates":[-87.582609,34.245729],"type":"Point"}
+  "bbox": [
+    -87.582609,
+    34.245729,
+    -87.582609,
+    34.245729
+],
+  "geometry": {"coordinates":[-87.58260900000001,34.245729],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152237091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.585173,34.733055,-86.585173,34.733055",
     "geom:latitude":34.733055,
     "geom:longitude":-86.585173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Greene St NE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878237,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152237091,
-    "wof:lastmodified":1449044405,
+    "wof:lastmodified":1466316386,
     "wof:name":"Financial Strtgies Group L L C",
     "wof:parent_id":85878237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.585173,34.733055,-86.585173,34.733055],
+  "bbox": [
+    -86.585173,
+    34.733055,
+    -86.585173,
+    34.733055
+],
   "geometry": {"coordinates":[-86.585173,34.733055],"type":"Point"}
 }

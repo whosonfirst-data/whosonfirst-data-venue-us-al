@@ -2,13 +2,14 @@
   "id": 102631719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.564687,33.143682,-86.564687,33.143682",
     "geom:latitude":33.143682,
     "geom:longitude":-86.564687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1717 Co Rd 61",
     "sg:city":"Columbiana",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102631719,
-    "wof:lastmodified":1449068520,
+    "wof:lastmodified":1466317526,
     "wof:name":"Flagman",
     "wof:parent_id":85688675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.564687,33.143682,-86.564687,33.143682],
-  "geometry": {"coordinates":[-86.564687,33.143682],"type":"Point"}
+  "bbox": [
+    -86.564687,
+    33.143682,
+    -86.564687,
+    33.143682
+],
+  "geometry": {"coordinates":[-86.56468700000001,33.143682],"type":"Point"}
 }

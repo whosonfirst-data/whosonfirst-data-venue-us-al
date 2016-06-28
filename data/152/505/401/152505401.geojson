@@ -2,13 +2,14 @@
   "id": 152505401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.558571,34.712,-86.558571,34.712",
     "geom:latitude":34.712,
     "geom:longitude":-86.558571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"921 Rivlin Rd SE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818149,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85818149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152505401,
-    "wof:lastmodified":1449048156,
+    "wof:lastmodified":1466318352,
     "wof:name":"Jle Consulting Inc",
     "wof:parent_id":85818149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.558571,34.712,-86.558571,34.712],
+  "bbox": [
+    -86.558571,
+    34.712,
+    -86.558571,
+    34.712
+],
   "geometry": {"coordinates":[-86.558571,34.712],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102460873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.705548,34.747684,-87.705548,34.747684",
     "geom:latitude":34.747684,
     "geom:longitude":-87.705548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 SW 10th St",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85832153,
+        85688675,
         85633793,
         85897447,
         102085625,
-        85688675
+        85832153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102460873,
-    "wof:lastmodified":1449070057,
+    "wof:lastmodified":1466315059,
     "wof:name":"Church Of Christ Of Westside",
     "wof:parent_id":85832153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.705548,34.747684,-87.705548,34.747684],
-  "geometry": {"coordinates":[-87.705548,34.747684],"type":"Point"}
+  "bbox": [
+    -87.705548,
+    34.747684,
+    -87.705548,
+    34.747684
+],
+  "geometry": {"coordinates":[-87.70554799999999,34.747684],"type":"Point"}
 }

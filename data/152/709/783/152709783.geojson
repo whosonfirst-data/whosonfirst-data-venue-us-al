@@ -2,13 +2,14 @@
   "id": 152709783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.827485,33.213716,-86.827485,33.213716",
     "geom:latitude":33.213716,
     "geom:longitude":-86.827485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9255 State Rte 119",
     "sg:city":"Alabaster",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85853623
+        85633793,
+        85853623,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152709783,
-    "wof:lastmodified":1449045221,
+    "wof:lastmodified":1466319383,
     "wof:name":"Alabaster Shipping",
     "wof:parent_id":85853623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.827485,33.213716,-86.827485,33.213716],
+  "bbox": [
+    -86.827485,
+    33.213716,
+    -86.827485,
+    33.213716
+],
   "geometry": {"coordinates":[-86.827485,33.213716],"type":"Point"}
 }

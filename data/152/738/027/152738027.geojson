@@ -2,13 +2,14 @@
   "id": 152738027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.899731,34.412538,-86.899731,34.412538",
     "geom:latitude":34.412538,
     "geom:longitude":-86.899731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1638 Thompson Rd",
     "sg:city":"Hartselle",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851807,
+        85688675,
         85633793,
         85914103,
         102085531,
-        85688675
+        85851807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152738027,
-    "wof:lastmodified":1449047687,
+    "wof:lastmodified":1466319519,
     "wof:name":"Ford Tool & Carbide",
     "wof:parent_id":85851807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.899731,34.412538,-86.899731,34.412538],
+  "bbox": [
+    -86.899731,
+    34.412538,
+    -86.899731,
+    34.412538
+],
   "geometry": {"coordinates":[-86.899731,34.412538],"type":"Point"}
 }

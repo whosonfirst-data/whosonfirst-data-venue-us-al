@@ -2,13 +2,14 @@
   "id": 152429343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.891802,30.66389,-87.891802,30.66389",
     "geom:latitude":30.66389,
     "geom:longitude":-87.891802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7577 Douglas St",
     "sg:city":"Spanish Fort",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807399,
+        85688675,
         85633793,
         85914741,
         102085469,
-        85688675
+        85807399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152429343,
-    "wof:lastmodified":1449048674,
+    "wof:lastmodified":1466317997,
     "wof:name":"Sewell Roofing",
     "wof:parent_id":85807399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.891802,30.66389,-87.891802,30.66389],
+  "bbox": [
+    -87.891802,
+    30.66389,
+    -87.891802,
+    30.66389
+],
   "geometry": {"coordinates":[-87.891802,30.66389],"type":"Point"}
 }

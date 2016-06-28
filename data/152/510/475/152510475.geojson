@@ -2,13 +2,14 @@
   "id": 152510475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.400069,31.257114,-85.400069,31.257114",
     "geom:latitude":31.257114,
     "geom:longitude":-85.400069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"686 Murray Rd",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859419,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85859419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152510475,
-    "wof:lastmodified":1449047078,
+    "wof:lastmodified":1466318357,
     "wof:name":"ACS Network Billing Svc",
     "wof:parent_id":85859419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.400069,31.257114,-85.400069,31.257114],
+  "bbox": [
+    -85.400069,
+    31.257114,
+    -85.400069,
+    31.257114
+],
   "geometry": {"coordinates":[-85.400069,31.257114],"type":"Point"}
 }

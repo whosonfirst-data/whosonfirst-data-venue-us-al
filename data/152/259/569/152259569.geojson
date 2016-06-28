@@ -2,13 +2,14 @@
   "id": 152259569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.712062,34.452814,-85.712062,34.452814",
     "geom:latitude":34.452814,
     "geom:longitude":-85.712062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1206 Gault Ave N",
     "sg:city":"Fort Payne",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834595,
+        85688675,
         85633793,
         85897515,
         102085615,
-        85688675
+        85834595
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152259569,
-    "wof:lastmodified":1449045351,
+    "wof:lastmodified":1466316741,
     "wof:name":"Wee Socks",
     "wof:parent_id":85834595,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.712062,34.452814,-85.712062,34.452814],
+  "bbox": [
+    -85.712062,
+    34.452814,
+    -85.712062,
+    34.452814
+],
   "geometry": {"coordinates":[-85.712062,34.452814],"type":"Point"}
 }

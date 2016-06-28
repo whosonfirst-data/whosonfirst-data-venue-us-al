@@ -2,13 +2,14 @@
   "id": 152419207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.457746,32.612526,-85.457746,32.612526",
     "geom:latitude":32.612526,
     "geom:longitude":-85.457746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1017 Annalue Dr",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848213,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85848213
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152419207,
-    "wof:lastmodified":1449048824,
+    "wof:lastmodified":1466317784,
     "wof:name":"Badger Homes Inc",
     "wof:parent_id":85848213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.457746,32.612526,-85.457746,32.612526],
+  "bbox": [
+    -85.457746,
+    32.612526,
+    -85.457746,
+    32.612526
+],
   "geometry": {"coordinates":[-85.457746,32.612526],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152153579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.481843,31.065576,-87.481843,31.065576",
     "geom:latitude":31.065576,
     "geom:longitude":-87.481843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"590 Green Acres Rd",
     "sg:city":"Atmore",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843687,
+        85688675,
         85633793,
         85899775,
         102085735,
-        85688675
+        85843687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152153579,
-    "wof:lastmodified":1449047479,
+    "wof:lastmodified":1466314736,
     "wof:name":"Walter Lowry Farm",
     "wof:parent_id":85843687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.481843,31.065576,-87.481843,31.065576],
+  "bbox": [
+    -87.481843,
+    31.065576,
+    -87.481843,
+    31.065576
+],
   "geometry": {"coordinates":[-87.481843,31.065576],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152438341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.608495,34.580885,-85.608495,34.580885",
     "geom:latitude":34.580885,
     "geom:longitude":-85.608495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 Co Rd 761",
     "sg:city":"Valley Head",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85844901,
+        85688675,
         85633793,
         85897439,
         102085615,
-        85688675
+        85844901
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152438341,
-    "wof:lastmodified":1449045871,
+    "wof:lastmodified":1466318103,
     "wof:name":"Millicans Deer Processing",
     "wof:parent_id":85844901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.608495,34.580885,-85.608495,34.580885],
+  "bbox": [
+    -85.608495,
+    34.580885,
+    -85.608495,
+    34.580885
+],
   "geometry": {"coordinates":[-85.608495,34.580885],"type":"Point"}
 }

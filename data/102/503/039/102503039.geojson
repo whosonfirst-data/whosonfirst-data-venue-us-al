@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102503039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.109613,30.704061,-88.109613,30.704061",
     "geom:latitude":30.704061,
     "geom:longitude":-88.109613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2816 Nall St",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -36,11 +37,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879003,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85879003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":102503039,
-    "wof:lastmodified":1449070221,
+    "wof:lastmodified":1466316531,
     "wof:name":"Seymore's Custom Cabinets",
     "wof:parent_id":85879003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.109613,30.704061,-88.109613,30.704061],
+  "bbox": [
+    -88.109613,
+    30.704061,
+    -88.109613,
+    30.704061
+],
   "geometry": {"coordinates":[-88.109613,30.704061],"type":"Point"}
 }

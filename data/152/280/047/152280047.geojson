@@ -2,13 +2,14 @@
   "id": 152280047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.387992,30.511256,-88.387992,30.511256",
     "geom:latitude":30.511256,
     "geom:longitude":-88.387992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14470 Nancy Ct",
     "sg:city":"Grand Bay",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085585,
-        85633793,
         85688675,
-        85895801
+        85633793,
+        85895801,
+        102085585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152280047,
-    "wof:lastmodified":1449046572,
+    "wof:lastmodified":1466316844,
     "wof:name":"All Rite Plumbing Services",
     "wof:parent_id":85895801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.387992,30.511256,-88.387992,30.511256],
+  "bbox": [
+    -88.387992,
+    30.511256,
+    -88.387992,
+    30.511256
+],
   "geometry": {"coordinates":[-88.387992,30.511256],"type":"Point"}
 }

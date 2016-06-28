@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102500761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.621873,34.710057,-86.621873,34.710057",
     "geom:latitude":34.710057,
     "geom:longitude":-86.621873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2912 Thurman Rd SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856995,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85856995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102500761,
-    "wof:lastmodified":1449068386,
+    "wof:lastmodified":1466316513,
     "wof:name":"Loves Lawn Care & Cleaning",
     "wof:parent_id":85856995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.621873,34.710057,-86.621873,34.710057],
-  "geometry": {"coordinates":[-86.621873,34.710057],"type":"Point"}
+  "bbox": [
+    -86.621873,
+    34.710057,
+    -86.621873,
+    34.710057
+],
+  "geometry": {"coordinates":[-86.62187299999999,34.710057],"type":"Point"}
 }

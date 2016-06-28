@@ -2,13 +2,14 @@
   "id": 152647341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.809434,33.290183,-86.809434,33.290183",
     "geom:latitude":33.290183,
     "geom:longitude":-86.809434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"246 Yeager Pkwy",
     "sg:city":"Pelham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.rcfarmer.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828267,
+        85688675,
         85633793,
         85914501,
         102085499,
-        85688675
+        85828267
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152647341,
-    "wof:lastmodified":1449046500,
+    "wof:lastmodified":1466319077,
     "wof:name":"R C Farmer & Assoc Inc",
     "wof:parent_id":85828267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.809434,33.290183,-86.809434,33.290183],
+  "bbox": [
+    -86.809434,
+    33.290183,
+    -86.809434,
+    33.290183
+],
   "geometry": {"coordinates":[-86.809434,33.290183],"type":"Point"}
 }

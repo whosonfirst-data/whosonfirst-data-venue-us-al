@@ -2,13 +2,14 @@
   "id": 152867381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.778367,34.486645,-85.778367,34.486645",
     "geom:latitude":34.486645,
     "geom:longitude":-85.778367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"253 Co Rd 273",
     "sg:city":"Fort Payne",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815015,
+        85688675,
         85633793,
         85897515,
         102085615,
-        85688675
+        85815015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152867381,
-    "wof:lastmodified":1449046309,
+    "wof:lastmodified":1466320177,
     "wof:name":"Perfect Pair",
     "wof:parent_id":85815015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.778367,34.486645,-85.778367,34.486645],
+  "bbox": [
+    -85.778367,
+    34.486645,
+    -85.778367,
+    34.486645
+],
   "geometry": {"coordinates":[-85.778367,34.486645],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152659087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.766152,33.364992,-86.766152,33.364992",
     "geom:latitude":33.364992,
     "geom:longitude":-86.766152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1917 Indian Lake Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853353,
+        85688675,
         85633793,
         85914511,
         102085499,
-        85688675
+        85853353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152659087,
-    "wof:lastmodified":1449044806,
+    "wof:lastmodified":1466319146,
     "wof:name":"Dow Agrosciences LLC",
     "wof:parent_id":85853353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.766152,33.364992,-86.766152,33.364992],
-  "geometry": {"coordinates":[-86.766152,33.364992],"type":"Point"}
+  "bbox": [
+    -86.766152,
+    33.364992,
+    -86.766152,
+    33.364992
+],
+  "geometry": {"coordinates":[-86.76615200000001,33.364992],"type":"Point"}
 }

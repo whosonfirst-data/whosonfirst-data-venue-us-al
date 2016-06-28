@@ -2,13 +2,14 @@
   "id": 152217995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.259606,30.501686,-88.259606,30.501686",
     "geom:latitude":30.501686,
     "geom:longitude":-88.259606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8985 Dodge Rd",
     "sg:city":"St Elmo",
     "sg:classifiers":[
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152217995,
-    "wof:lastmodified":1449048643,
+    "wof:lastmodified":1466316125,
     "wof:name":"St Elmo-Irvington Water Auth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.259606,30.501686,-88.259606,30.501686],
-  "geometry": {"coordinates":[-88.259606,30.501686],"type":"Point"}
+  "bbox": [
+    -88.259606,
+    30.501686,
+    -88.259606,
+    30.501686
+],
+  "geometry": {"coordinates":[-88.25960600000001,30.501686],"type":"Point"}
 }

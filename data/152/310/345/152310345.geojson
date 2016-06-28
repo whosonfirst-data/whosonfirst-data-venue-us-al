@@ -2,13 +2,14 @@
   "id": 152310345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.789713,33.484568,-86.789713,33.484568",
     "geom:latitude":33.484568,
     "geom:longitude":-86.789713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2610 19th St S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845971,
+        85688675,
         85633793,
         85914847,
         102085481,
-        85688675
+        85845971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":152310345,
-    "wof:lastmodified":1449047148,
+    "wof:lastmodified":1466317098,
     "wof:name":"Mary H Kessler PHD",
     "wof:parent_id":85845971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.789713,33.484568,-86.789713,33.484568],
-  "geometry": {"coordinates":[-86.789713,33.484568],"type":"Point"}
+  "bbox": [
+    -86.789713,
+    33.484568,
+    -86.789713,
+    33.484568
+],
+  "geometry": {"coordinates":[-86.78971300000001,33.484568],"type":"Point"}
 }

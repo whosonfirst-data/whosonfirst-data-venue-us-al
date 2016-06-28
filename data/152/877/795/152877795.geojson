@@ -2,13 +2,14 @@
   "id": 152877795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.691425,30.548506,-87.691425,30.548506",
     "geom:latitude":30.548506,
     "geom:longitude":-87.691425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22201 Pearson St",
     "sg:city":"Robertsdale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847563,
+        85688675,
         85633793,
         85914707,
         102085469,
-        85688675
+        85847563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152877795,
-    "wof:lastmodified":1449047546,
+    "wof:lastmodified":1466320259,
     "wof:name":"Long Trucking",
     "wof:parent_id":85847563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.691425,30.548506,-87.691425,30.548506],
+  "bbox": [
+    -87.691425,
+    30.548506,
+    -87.691425,
+    30.548506
+],
   "geometry": {"coordinates":[-87.691425,30.548506],"type":"Point"}
 }

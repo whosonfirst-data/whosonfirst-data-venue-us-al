@@ -2,13 +2,14 @@
   "id": 152285363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.732204,34.426843,-85.732204,34.426843",
     "geom:latitude":34.426843,
     "geom:longitude":-85.732204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1603 Godfrey Ave SE",
     "sg:city":"Fort Payne",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815015,
+        85688675,
         85633793,
         85897515,
         102085615,
-        85688675
+        85815015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152285363,
-    "wof:lastmodified":1449044428,
+    "wof:lastmodified":1466317025,
     "wof:name":"Liberty Wholesale Co",
     "wof:parent_id":85815015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.732204,34.426843,-85.732204,34.426843],
+  "bbox": [
+    -85.732204,
+    34.426843,
+    -85.732204,
+    34.426843
+],
   "geometry": {"coordinates":[-85.732204,34.426843],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152783301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.743581,31.894057,-87.743581,31.894057",
     "geom:latitude":31.894057,
     "geom:longitude":-87.743581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1429 US Hwy 43",
     "sg:city":"Thomasville",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152783301,
-    "wof:lastmodified":1449044441,
+    "wof:lastmodified":1466319750,
     "wof:name":"Bedco Energy Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.743581,31.894057,-87.743581,31.894057],
-  "geometry": {"coordinates":[-87.743581,31.894057],"type":"Point"}
+  "bbox": [
+    -87.743581,
+    31.894057,
+    -87.743581,
+    31.894057
+],
+  "geometry": {"coordinates":[-87.74358100000001,31.894057],"type":"Point"}
 }

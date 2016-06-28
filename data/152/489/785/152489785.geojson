@@ -2,13 +2,14 @@
   "id": 152489785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.040827,32.479272,-85.040827,32.479272",
     "geom:latitude":32.479272,
     "geom:longitude":-85.040827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3500 20th St",
     "sg:city":"Phenix City",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822949,
+        85688675,
         85633793,
         85913715,
         102085697,
-        85688675
+        85822949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152489785,
-    "wof:lastmodified":1449046829,
+    "wof:lastmodified":1466318275,
     "wof:name":"Bullard Mechanical Services",
     "wof:parent_id":85822949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.040827,32.479272,-85.040827,32.479272],
-  "geometry": {"coordinates":[-85.040827,32.479272],"type":"Point"}
+  "bbox": [
+    -85.040827,
+    32.479272,
+    -85.040827,
+    32.479272
+],
+  "geometry": {"coordinates":[-85.04082699999999,32.479272],"type":"Point"}
 }

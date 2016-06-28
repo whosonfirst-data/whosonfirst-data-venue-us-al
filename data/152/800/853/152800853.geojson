@@ -2,13 +2,14 @@
   "id": 152800853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.572946,30.39889,-87.572946,30.39889",
     "geom:latitude":30.39889,
     "geom:longitude":-87.572946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11770 Stucki Rd",
     "sg:city":"Elberta",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868551,
+        85688675,
         85633793,
         85914719,
         102085469,
-        85688675
+        85868551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152800853,
-    "wof:lastmodified":1449044668,
+    "wof:lastmodified":1466320005,
     "wof:name":"Anno Domini Farm Florist-Gifts",
     "wof:parent_id":85868551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.572946,30.39889,-87.572946,30.39889],
+  "bbox": [
+    -87.572946,
+    30.39889,
+    -87.572946,
+    30.39889
+],
   "geometry": {"coordinates":[-87.572946,30.39889],"type":"Point"}
 }

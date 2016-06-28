@@ -2,13 +2,14 @@
   "id": 152399513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.006805,34.294176,-86.006805,34.294176",
     "geom:latitude":34.294176,
     "geom:longitude":-86.006805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5213 Co Rd 28",
     "sg:city":"Crossville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815015,
+        85688675,
         85633793,
         85897515,
         102085615,
-        85688675
+        85815015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152399513,
-    "wof:lastmodified":1449045124,
+    "wof:lastmodified":1466317846,
     "wof:name":"Crossville Head Start",
     "wof:parent_id":85815015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.006805,34.294176,-86.006805,34.294176],
+  "bbox": [
+    -86.006805,
+    34.294176,
+    -86.006805,
+    34.294176
+],
   "geometry": {"coordinates":[-86.006805,34.294176],"type":"Point"}
 }

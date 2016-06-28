@@ -2,13 +2,14 @@
   "id": 152162315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.087465,33.440242,-86.087465,33.440242",
     "geom:latitude":33.440242,
     "geom:longitude":-86.087465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"717 Stone Ave",
     "sg:city":"Talladega",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85835139,
+        85688675,
         85633793,
         85914129,
         102085517,
-        85688675
+        85835139
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152162315,
-    "wof:lastmodified":1449048245,
+    "wof:lastmodified":1466315239,
     "wof:name":"Talladega Dialysis Ctr",
     "wof:parent_id":85835139,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.087465,33.440242,-86.087465,33.440242],
-  "geometry": {"coordinates":[-86.087465,33.440242],"type":"Point"}
+  "bbox": [
+    -86.087465,
+    33.440242,
+    -86.087465,
+    33.440242
+],
+  "geometry": {"coordinates":[-86.08746499999999,33.440242],"type":"Point"}
 }

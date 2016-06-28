@@ -2,13 +2,14 @@
   "id": 152599119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.312728,31.192941,-85.312728,31.192941",
     "geom:latitude":31.192941,
     "geom:longitude":-85.312728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5556 US Hwy 84",
     "sg:city":"Cowarts",
     "sg:classifiers":[
@@ -36,11 +37,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847911,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85847911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":152599119,
-    "wof:lastmodified":1449046458,
+    "wof:lastmodified":1466318833,
     "wof:name":"Ole South Cnstr & Cabinetry",
     "wof:parent_id":85847911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.312728,31.192941,-85.312728,31.192941],
-  "geometry": {"coordinates":[-85.312728,31.192941],"type":"Point"}
+  "bbox": [
+    -85.312728,
+    31.192941,
+    -85.312728,
+    31.192941
+],
+  "geometry": {"coordinates":[-85.31272800000001,31.192941],"type":"Point"}
 }

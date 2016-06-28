@@ -2,13 +2,14 @@
   "id": 152732073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.839569,33.823949,-85.839569,33.823949",
     "geom:latitude":33.823949,
     "geom:longitude":-85.839569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4150 Wellington Rd",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805945,
+        85688675,
         85633793,
         85914293,
         102085603,
-        85688675
+        85805945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152732073,
-    "wof:lastmodified":1449049039,
+    "wof:lastmodified":1466319495,
     "wof:name":"Joel Prickett",
     "wof:parent_id":85805945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.839569,33.823949,-85.839569,33.823949],
+  "bbox": [
+    -85.839569,
+    33.823949,
+    -85.839569,
+    33.823949
+],
   "geometry": {"coordinates":[-85.839569,33.823949],"type":"Point"}
 }

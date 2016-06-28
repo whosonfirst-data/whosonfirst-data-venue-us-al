@@ -2,13 +2,14 @@
   "id": 152447683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.452909,32.460471,-86.452909,32.460471",
     "geom:latitude":32.460471,
     "geom:longitude":-86.452909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"713 E Main St",
     "sg:city":"Prattville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858019,
+        85688675,
         85633793,
         85913977,
         102085509,
-        85688675
+        85858019
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152447683,
-    "wof:lastmodified":1449047551,
+    "wof:lastmodified":1466318066,
     "wof:name":"Prattville Credit Corp",
     "wof:parent_id":85858019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.452909,32.460471,-86.452909,32.460471],
-  "geometry": {"coordinates":[-86.452909,32.460471],"type":"Point"}
+  "bbox": [
+    -86.452909,
+    32.460471,
+    -86.452909,
+    32.460471
+],
+  "geometry": {"coordinates":[-86.45290900000001,32.460471],"type":"Point"}
 }

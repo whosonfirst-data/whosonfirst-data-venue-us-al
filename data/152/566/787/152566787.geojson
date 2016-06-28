@@ -2,13 +2,14 @@
   "id": 152566787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.254725,33.165794,-86.254725,33.165794",
     "geom:latitude":33.165794,
     "geom:longitude":-86.254725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 W Spring St",
     "sg:city":"Sylacauga",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834171,
+        85688675,
         85633793,
         85914133,
         102085517,
-        85688675
+        85834171
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152566787,
-    "wof:lastmodified":1449044393,
+    "wof:lastmodified":1466318731,
     "wof:name":"United Way Of Sylacauga",
     "wof:parent_id":85834171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.254725,33.165794,-86.254725,33.165794],
-  "geometry": {"coordinates":[-86.254725,33.165794],"type":"Point"}
+  "bbox": [
+    -86.254725,
+    33.165794,
+    -86.254725,
+    33.165794
+],
+  "geometry": {"coordinates":[-86.25472499999999,33.165794],"type":"Point"}
 }

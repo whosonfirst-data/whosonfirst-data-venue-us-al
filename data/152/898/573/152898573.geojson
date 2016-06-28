@@ -2,13 +2,14 @@
   "id": 152898573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.627655,34.765711,-86.627655,34.765711",
     "geom:latitude":34.765711,
     "geom:longitude":-86.627655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3114 S Nevel Cir NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85823273,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85823273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152898573,
-    "wof:lastmodified":1449044190,
+    "wof:lastmodified":1466320399,
     "wof:name":"We Mean Clean",
     "wof:parent_id":85823273,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.627655,34.765711,-86.627655,34.765711],
+  "bbox": [
+    -86.627655,
+    34.765711,
+    -86.627655,
+    34.765711
+],
   "geometry": {"coordinates":[-86.627655,34.765711],"type":"Point"}
 }

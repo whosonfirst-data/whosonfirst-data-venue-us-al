@@ -2,13 +2,14 @@
   "id": 152314015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.829738,34.203057,-86.829738,34.203057",
     "geom:latitude":34.203057,
     "geom:longitude":-86.829738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1225 Co Rd 1402",
     "sg:city":"Cullman",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867305,
+        85688675,
         85633793,
         85914167,
         102085729,
-        85688675
+        85867305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152314015,
-    "wof:lastmodified":1449048718,
+    "wof:lastmodified":1466317368,
     "wof:name":"Parris Fence Co",
     "wof:parent_id":85867305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.829738,34.203057,-86.829738,34.203057],
-  "geometry": {"coordinates":[-86.829738,34.203057],"type":"Point"}
+  "bbox": [
+    -86.829738,
+    34.203057,
+    -86.829738,
+    34.203057
+],
+  "geometry": {"coordinates":[-86.82973800000001,34.203057],"type":"Point"}
 }

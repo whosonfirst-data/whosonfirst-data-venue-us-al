@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102447831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.264994,30.668217,-88.264994,30.668217",
     "geom:latitude":30.668217,
     "geom:longitude":-88.264994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1040 Smokerise Dr",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085585,
-        85633793,
         85688675,
-        85895801
+        85633793,
+        85895801,
+        102085585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102447831,
-    "wof:lastmodified":1449069495,
+    "wof:lastmodified":1466314574,
     "wof:name":"D & S Service Inc",
     "wof:parent_id":85895801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.264994,30.668217,-88.264994,30.668217],
+  "bbox": [
+    -88.264994,
+    30.668217,
+    -88.264994,
+    30.668217
+],
   "geometry": {"coordinates":[-88.264994,30.668217],"type":"Point"}
 }

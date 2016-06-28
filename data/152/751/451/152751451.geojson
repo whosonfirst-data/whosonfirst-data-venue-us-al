@@ -2,13 +2,14 @@
   "id": 152751451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.690851,33.604577,-86.690851,33.604577",
     "geom:latitude":33.604577,
     "geom:longitude":-86.690851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9772 Parkway E",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.americanfamilycare.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854035,
+        85688675,
         85633793,
         85914903,
         102085481,
-        85688675
+        85854035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152751451,
-    "wof:lastmodified":1449044559,
+    "wof:lastmodified":1466319575,
     "wof:name":"AFC Printing",
     "wof:parent_id":85854035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.690851,33.604577,-86.690851,33.604577],
-  "geometry": {"coordinates":[-86.690851,33.604577],"type":"Point"}
+  "bbox": [
+    -86.690851,
+    33.604577,
+    -86.690851,
+    33.604577
+],
+  "geometry": {"coordinates":[-86.69085099999999,33.604577],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152791579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.417894,32.633649,-85.417894,32.633649",
     "geom:latitude":32.633649,
     "geom:longitude":-85.417894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2702 2nd Ave",
     "sg:city":"Opelika",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850579,
+        85688675,
         85633793,
         85913815,
         102085751,
-        85688675
+        85850579
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152791579,
-    "wof:lastmodified":1449047841,
+    "wof:lastmodified":1466319843,
     "wof:name":"Pepperell Baptist Church Inc",
     "wof:parent_id":85850579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.417894,32.633649,-85.417894,32.633649],
+  "bbox": [
+    -85.417894,
+    32.633649,
+    -85.417894,
+    32.633649
+],
   "geometry": {"coordinates":[-85.417894,32.633649],"type":"Point"}
 }

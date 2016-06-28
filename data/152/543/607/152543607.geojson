@@ -2,13 +2,14 @@
   "id": 152543607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.585271,34.729531,-86.585271,34.729531",
     "geom:latitude":34.729531,
     "geom:longitude":-86.585271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Westside Sq",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878237,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152543607,
-    "wof:lastmodified":1449045207,
+    "wof:lastmodified":1466318563,
     "wof:name":"Dicki Bell",
     "wof:parent_id":85878237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.585271,34.729531,-86.585271,34.729531],
-  "geometry": {"coordinates":[-86.585271,34.729531],"type":"Point"}
+  "bbox": [
+    -86.585271,
+    34.729531,
+    -86.585271,
+    34.729531
+],
+  "geometry": {"coordinates":[-86.58527100000001,34.729531],"type":"Point"}
 }

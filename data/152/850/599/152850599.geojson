@@ -2,13 +2,14 @@
   "id": 152850599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.964758,31.789322,-85.964758,31.789322",
     "geom:latitude":31.789322,
     "geom:longitude":-85.964758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1305 S Brundidge St",
     "sg:city":"Troy",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867315,
+        85688675,
         85633793,
         85914551,
         102085619,
-        85688675
+        85867315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152850599,
-    "wof:lastmodified":1449046978,
+    "wof:lastmodified":1466319926,
     "wof:name":"Horizon Homecare Svc",
     "wof:parent_id":85867315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.964758,31.789322,-85.964758,31.789322],
+  "bbox": [
+    -85.964758,
+    31.789322,
+    -85.964758,
+    31.789322
+],
   "geometry": {"coordinates":[-85.964758,31.789322],"type":"Point"}
 }

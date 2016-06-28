@@ -2,13 +2,14 @@
   "id": 152138759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.780682,30.462207,-87.780682,30.462207",
     "geom:latitude":30.462207,
     "geom:longitude":-87.780682,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16222 Siena St",
     "sg:city":"Summerdale",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854025,
+        85688675,
         85633793,
         85914707,
         102085469,
-        85688675
+        85854025
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152138759,
-    "wof:lastmodified":1449045641,
+    "wof:lastmodified":1466315371,
     "wof:name":"Elks Rv Guide",
     "wof:parent_id":85854025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.780682,30.462207,-87.780682,30.462207],
+  "bbox": [
+    -87.780682,
+    30.462207,
+    -87.780682,
+    30.462207
+],
   "geometry": {"coordinates":[-87.780682,30.462207],"type":"Point"}
 }

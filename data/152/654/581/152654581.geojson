@@ -2,13 +2,14 @@
   "id": 152654581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.635363,34.735005,-86.635363,34.735005",
     "geom:latitude":34.735005,
     "geom:longitude":-86.635363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4321 University Dr NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152654581,
-    "wof:lastmodified":1449045856,
+    "wof:lastmodified":1466319120,
     "wof:name":"Alabama Business Furnishings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.635363,34.735005,-86.635363,34.735005],
+  "bbox": [
+    -86.635363,
+    34.735005,
+    -86.635363,
+    34.735005
+],
   "geometry": {"coordinates":[-86.635363,34.735005],"type":"Point"}
 }

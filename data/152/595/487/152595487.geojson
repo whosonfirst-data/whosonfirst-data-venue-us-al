@@ -2,13 +2,14 @@
   "id": 152595487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.31796,30.881046,-88.31796,30.881046",
     "geom:latitude":30.881046,
     "geom:longitude":-88.31796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11150 Weaver Rd",
     "sg:city":"Wilmer",
     "sg:classifiers":[
@@ -30,10 +31,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085585,
-        85633793,
         85688675,
-        85878987
+        85633793,
+        85878987,
+        102085585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152595487,
-    "wof:lastmodified":1449048469,
+    "wof:lastmodified":1466319012,
     "wof:name":"Ken Mullenax Heating & AC",
     "wof:parent_id":85878987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.31796,30.881046,-88.31796,30.881046],
+  "bbox": [
+    -88.31796,
+    30.881046,
+    -88.31796,
+    30.881046
+],
   "geometry": {"coordinates":[-88.31796,30.881046],"type":"Point"}
 }

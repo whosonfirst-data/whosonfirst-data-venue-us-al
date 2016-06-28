@@ -2,13 +2,14 @@
   "id": 152772053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.954856,33.268552,-86.954856,33.268552",
     "geom:latitude":33.268552,
     "geom:longitude":-86.954856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5170 S Shades Crest Rd",
     "sg:city":"Bessemer",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152772053,
-    "wof:lastmodified":1449046382,
+    "wof:lastmodified":1466319702,
     "wof:name":"TRC International",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.954856,33.268552,-86.954856,33.268552],
-  "geometry": {"coordinates":[-86.954856,33.268552],"type":"Point"}
+  "bbox": [
+    -86.954856,
+    33.268552,
+    -86.954856,
+    33.268552
+],
+  "geometry": {"coordinates":[-86.95485600000001,33.268552],"type":"Point"}
 }

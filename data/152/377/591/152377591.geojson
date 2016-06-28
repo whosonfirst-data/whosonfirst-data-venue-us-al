@@ -2,13 +2,14 @@
   "id": 152377591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.12331,30.66839,-88.12331,30.66839",
     "geom:latitude":30.66839,
     "geom:longitude":-88.12331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3225 International Dr",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807453,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85807453
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152377591,
-    "wof:lastmodified":1449046042,
+    "wof:lastmodified":1466317723,
     "wof:name":"Business Data Forms & Sups Co",
     "wof:parent_id":85807453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.12331,30.66839,-88.12331,30.66839],
+  "bbox": [
+    -88.12331,
+    30.66839,
+    -88.12331,
+    30.66839
+],
   "geometry": {"coordinates":[-88.12331,30.66839],"type":"Point"}
 }

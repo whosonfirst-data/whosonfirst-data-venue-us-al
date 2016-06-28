@@ -2,13 +2,14 @@
   "id": 152256941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.840392,34.191592,-86.840392,34.191592",
     "geom:latitude":34.191592,
     "geom:longitude":-86.840392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1716 Eva Rd NE",
     "sg:city":"Cullman",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085729,
-        85633793,
         85688675,
-        85867309
+        85633793,
+        85867309,
+        102085729
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152256941,
-    "wof:lastmodified":1449047814,
+    "wof:lastmodified":1466316732,
     "wof:name":"Anesthesia Associates N Ala",
     "wof:parent_id":85867309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.840392,34.191592,-86.840392,34.191592],
-  "geometry": {"coordinates":[-86.840392,34.191592],"type":"Point"}
+  "bbox": [
+    -86.840392,
+    34.191592,
+    -86.840392,
+    34.191592
+],
+  "geometry": {"coordinates":[-86.84039199999999,34.191592],"type":"Point"}
 }

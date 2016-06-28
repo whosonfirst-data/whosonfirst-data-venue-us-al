@@ -2,13 +2,14 @@
   "id": 152597031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.254635,33.165718,-86.254635,33.165718",
     "geom:latitude":33.165718,
     "geom:longitude":-86.254635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 W Spring St",
     "sg:city":"Sylacauga",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834171,
+        85688675,
         85633793,
         85914133,
         102085517,
-        85688675
+        85834171
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152597031,
-    "wof:lastmodified":1449048848,
+    "wof:lastmodified":1466318802,
     "wof:name":"Hamo Neurology Clinic",
     "wof:parent_id":85834171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.254635,33.165718,-86.254635,33.165718],
-  "geometry": {"coordinates":[-86.254635,33.165718],"type":"Point"}
+  "bbox": [
+    -86.254635,
+    33.165718,
+    -86.254635,
+    33.165718
+],
+  "geometry": {"coordinates":[-86.25463499999999,33.165718],"type":"Point"}
 }

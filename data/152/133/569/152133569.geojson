@@ -2,13 +2,14 @@
   "id": 152133569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.883206,33.854871,-85.883206,33.854871",
     "geom:latitude":33.854871,
     "geom:longitude":-85.883206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 State Rte 204",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805945,
+        85688675,
         85633793,
         85914293,
         102085603,
-        85688675
+        85805945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152133569,
-    "wof:lastmodified":1449048123,
+    "wof:lastmodified":1466315225,
     "wof:name":"Duke Activity Center",
     "wof:parent_id":85805945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.883206,33.854871,-85.883206,33.854871],
+  "bbox": [
+    -85.883206,
+    33.854871,
+    -85.883206,
+    33.854871
+],
   "geometry": {"coordinates":[-85.883206,33.854871],"type":"Point"}
 }

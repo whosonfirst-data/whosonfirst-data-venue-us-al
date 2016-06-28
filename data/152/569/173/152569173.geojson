@@ -2,13 +2,14 @@
   "id": 152569173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.485565,33.937652,-86.485565,33.937652",
     "geom:latitude":33.937652,
     "geom:longitude":-86.485565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7257 2nd Ave W",
     "sg:city":"Oneonta",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085667,
-        85633793,
         85688675,
-        85819523
+        85633793,
+        85819523,
+        102085667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152569173,
-    "wof:lastmodified":1449048731,
+    "wof:lastmodified":1466318660,
     "wof:name":"David Wilson",
     "wof:parent_id":85819523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.485565,33.937652,-86.485565,33.937652],
-  "geometry": {"coordinates":[-86.485565,33.937652],"type":"Point"}
+  "bbox": [
+    -86.485565,
+    33.937652,
+    -86.485565,
+    33.937652
+],
+  "geometry": {"coordinates":[-86.48556499999999,33.937652],"type":"Point"}
 }

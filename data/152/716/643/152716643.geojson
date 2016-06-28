@@ -2,13 +2,14 @@
   "id": 152716643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.995449,34.001773,-85.995449,34.001773",
     "geom:latitude":34.001773,
     "geom:longitude":-85.995449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 George Wallace Dr",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822279,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85822279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152716643,
-    "wof:lastmodified":1449044960,
+    "wof:lastmodified":1466319421,
     "wof:name":"Forest River",
     "wof:parent_id":85822279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.995449,34.001773,-85.995449,34.001773],
-  "geometry": {"coordinates":[-85.995449,34.001773],"type":"Point"}
+  "bbox": [
+    -85.995449,
+    34.001773,
+    -85.995449,
+    34.001773
+],
+  "geometry": {"coordinates":[-85.99544899999999,34.001773],"type":"Point"}
 }

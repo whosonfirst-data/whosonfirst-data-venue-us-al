@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102511473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.553587,34.682908,-86.553587,34.682908",
     "geom:latitude":34.682908,
     "geom:longitude":-86.553587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4912 Garth Rd SE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.livingwordweb.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819605,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85819605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102511473,
-    "wof:lastmodified":1449068879,
+    "wof:lastmodified":1466316753,
     "wof:name":"Living Word Church",
     "wof:parent_id":85819605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.553587,34.682908,-86.553587,34.682908],
-  "geometry": {"coordinates":[-86.553587,34.682908],"type":"Point"}
+  "bbox": [
+    -86.553587,
+    34.682908,
+    -86.553587,
+    34.682908
+],
+  "geometry": {"coordinates":[-86.55358699999999,34.682908],"type":"Point"}
 }

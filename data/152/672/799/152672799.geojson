@@ -2,13 +2,14 @@
   "id": 152672799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.1235,30.568734,-88.1235,30.568734",
     "geom:latitude":30.568734,
     "geom:longitude":-88.1235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6161 Old Rangeline Rd W",
     "sg:city":"Theodore",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852307,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85852307
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152672799,
-    "wof:lastmodified":1449044598,
+    "wof:lastmodified":1466319212,
     "wof:name":"Alabama Relocation Svc",
     "wof:parent_id":85852307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.1235,30.568734,-88.1235,30.568734],
-  "geometry": {"coordinates":[-88.1235,30.568734],"type":"Point"}
+  "bbox": [
+    -88.1235,
+    30.568734,
+    -88.1235,
+    30.568734
+],
+  "geometry": {"coordinates":[-88.12350000000001,30.568734],"type":"Point"}
 }

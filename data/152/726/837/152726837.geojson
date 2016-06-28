@@ -2,13 +2,14 @@
   "id": 152726837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.452744,34.038453,-86.452744,34.038453",
     "geom:latitude":34.038453,
     "geom:longitude":-86.452744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19995 Co Rd 26",
     "sg:city":"Oneonta",
     "sg:classifiers":[
@@ -30,10 +31,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085667,
-        85633793,
         85688675,
-        85819523
+        85633793,
+        85819523,
+        102085667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152726837,
-    "wof:lastmodified":1449047462,
+    "wof:lastmodified":1466319458,
     "wof:name":"Blount Builders Inc",
     "wof:parent_id":85819523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.452744,34.038453,-86.452744,34.038453],
+  "bbox": [
+    -86.452744,
+    34.038453,
+    -86.452744,
+    34.038453
+],
   "geometry": {"coordinates":[-86.452744,34.038453],"type":"Point"}
 }

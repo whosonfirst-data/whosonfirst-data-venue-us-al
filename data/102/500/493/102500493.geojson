@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102500493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.669542,34.795414,-87.669542,34.795414",
     "geom:latitude":34.795414,
     "geom:longitude":-87.669542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 S Wood Ave",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848857,
+        85688675,
         85633793,
         85914011,
         102085527,
-        85688675
+        85848857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102500493,
-    "wof:lastmodified":1449068386,
+    "wof:lastmodified":1466316441,
     "wof:name":"Sara Lee Foods",
     "wof:parent_id":85848857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.669542,34.795414,-87.669542,34.795414],
-  "geometry": {"coordinates":[-87.669542,34.795414],"type":"Point"}
+  "bbox": [
+    -87.669542,
+    34.795414,
+    -87.669542,
+    34.795414
+],
+  "geometry": {"coordinates":[-87.66954200000001,34.795414],"type":"Point"}
 }

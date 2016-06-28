@@ -2,13 +2,14 @@
   "id": 152741355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.686753,33.124895,-86.686753,33.124895",
     "geom:latitude":33.124895,
     "geom:longitude":-86.686753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"190 Mountain Forest Trl",
     "sg:city":"Calera",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85849529
+        85633793,
+        85849529,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152741355,
-    "wof:lastmodified":1449044550,
+    "wof:lastmodified":1466319673,
     "wof:name":"A To Z Discount Outlet",
     "wof:parent_id":85849529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.686753,33.124895,-86.686753,33.124895],
+  "bbox": [
+    -86.686753,
+    33.124895,
+    -86.686753,
+    33.124895
+],
   "geometry": {"coordinates":[-86.686753,33.124895],"type":"Point"}
 }

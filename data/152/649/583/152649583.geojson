@@ -2,13 +2,14 @@
   "id": 152649583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.458484,32.598952,-85.458484,32.598952",
     "geom:latitude":32.598952,
     "geom:longitude":-85.458484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 Green St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851953,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85851953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152649583,
-    "wof:lastmodified":1449047450,
+    "wof:lastmodified":1466319294,
     "wof:name":"Farrs Black Belt Academy LLC",
     "wof:parent_id":85851953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.458484,32.598952,-85.458484,32.598952],
+  "bbox": [
+    -85.458484,
+    32.598952,
+    -85.458484,
+    32.598952
+],
   "geometry": {"coordinates":[-85.458484,32.598952],"type":"Point"}
 }

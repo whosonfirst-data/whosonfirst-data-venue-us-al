@@ -2,13 +2,14 @@
   "id": 102616649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.757454,34.679337,-86.757454,34.679337",
     "geom:latitude":34.679337,
     "geom:longitude":-86.757454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"143 W Dublin Dr",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.cookspest.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831899,
+        85688675,
         85633793,
         85913593,
         102085487,
-        85688675
+        85831899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102616649,
-    "wof:lastmodified":1449069570,
+    "wof:lastmodified":1466317346,
     "wof:name":"Cook's Pest Control",
     "wof:parent_id":85831899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.757454,34.679337,-86.757454,34.679337],
+  "bbox": [
+    -86.757454,
+    34.679337,
+    -86.757454,
+    34.679337
+],
   "geometry": {"coordinates":[-86.757454,34.679337],"type":"Point"}
 }

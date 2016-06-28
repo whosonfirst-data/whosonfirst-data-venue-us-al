@@ -2,13 +2,14 @@
   "id": 152118005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.53285,34.773184,-86.53285,34.773184",
     "geom:latitude":34.773184,
     "geom:longitude":-86.53285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1746 US Hwy 72",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833793,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85833793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152118005,
-    "wof:lastmodified":1449048041,
+    "wof:lastmodified":1466315376,
     "wof:name":"Chase Valley Hardware & Supply",
     "wof:parent_id":85833793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.53285,34.773184,-86.53285,34.773184],
+  "bbox": [
+    -86.53285,
+    34.773184,
+    -86.53285,
+    34.773184
+],
   "geometry": {"coordinates":[-86.53285,34.773184],"type":"Point"}
 }

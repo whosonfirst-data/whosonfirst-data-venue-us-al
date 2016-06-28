@@ -2,13 +2,14 @@
   "id": 152278225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.847593,34.177235,-86.847593,34.177235",
     "geom:latitude":34.177235,
     "geom:longitude":-86.847593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Dripping Springs Rd NW",
     "sg:city":"Cullman",
     "sg:classifiers":[
@@ -39,11 +40,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867305,
+        85688675,
         85633793,
         85914167,
         102085729,
-        85688675
+        85867305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,14 +63,20 @@
         }
     ],
     "wof:id":152278225,
-    "wof:lastmodified":1449046852,
+    "wof:lastmodified":1466316837,
     "wof:name":"Bake and Decorate Shop",
     "wof:parent_id":85867305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.847593,34.177235,-86.847593,34.177235],
+  "bbox": [
+    -86.847593,
+    34.177235,
+    -86.847593,
+    34.177235
+],
   "geometry": {"coordinates":[-86.847593,34.177235],"type":"Point"}
 }

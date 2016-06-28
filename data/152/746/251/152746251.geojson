@@ -2,13 +2,14 @@
   "id": 152746251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.223661,30.760393,-88.223661,30.760393",
     "geom:latitude":30.760393,
     "geom:longitude":-88.223661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7621 Moffett Rd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152746251,
-    "wof:lastmodified":1449044244,
+    "wof:lastmodified":1466319565,
     "wof:name":"Mission Of Hope",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.223661,30.760393,-88.223661,30.760393],
-  "geometry": {"coordinates":[-88.223661,30.760393],"type":"Point"}
+  "bbox": [
+    -88.223661,
+    30.760393,
+    -88.223661,
+    30.760393
+],
+  "geometry": {"coordinates":[-88.22366100000001,30.760393],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152437421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.932461,33.587122,-86.932461,33.587122",
     "geom:latitude":33.587122,
     "geom:longitude":-86.932461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5317 Veterans Memorial Dr",
     "sg:city":"Adamsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820003,
+        85688675,
         85633793,
         85914875,
         102085481,
-        85688675
+        85820003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152437421,
-    "wof:lastmodified":1449047638,
+    "wof:lastmodified":1466317856,
     "wof:name":"M & K Foodmart",
     "wof:parent_id":85820003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.932461,33.587122,-86.932461,33.587122],
+  "bbox": [
+    -86.932461,
+    33.587122,
+    -86.932461,
+    33.587122
+],
   "geometry": {"coordinates":[-86.932461,33.587122],"type":"Point"}
 }

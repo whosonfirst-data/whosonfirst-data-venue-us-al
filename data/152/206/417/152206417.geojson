@@ -2,13 +2,14 @@
   "id": 152206417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.836526,33.444615,-86.836526,33.444615",
     "geom:latitude":33.444615,
     "geom:longitude":-86.836526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"284 Snow Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829599,
+        85688675,
         85633793,
         85914847,
         102085481,
-        85688675
+        85829599
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152206417,
-    "wof:lastmodified":1449047438,
+    "wof:lastmodified":1466316015,
     "wof:name":"Buffalo/Howden Fan Co",
     "wof:parent_id":85829599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.836526,33.444615,-86.836526,33.444615],
-  "geometry": {"coordinates":[-86.836526,33.444615],"type":"Point"}
+  "bbox": [
+    -86.836526,
+    33.444615,
+    -86.836526,
+    33.444615
+],
+  "geometry": {"coordinates":[-86.83652600000001,33.444615],"type":"Point"}
 }

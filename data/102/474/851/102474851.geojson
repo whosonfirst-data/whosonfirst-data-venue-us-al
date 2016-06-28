@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102474851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.655784,34.714029,-86.655784,34.714029",
     "geom:latitude":34.714029,
     "geom:longitude":-86.655784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Wynn Dr NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -25,10 +26,10 @@
     "sg:website":"www.sci-quest.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085487,
-        85633793,
         85688675,
-        85817803
+        85633793,
+        85817803,
+        102085487
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102474851,
-    "wof:lastmodified":1449067883,
+    "wof:lastmodified":1466315470,
     "wof:name":"North Alabama Science Ctr",
     "wof:parent_id":85817803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.655784,34.714029,-86.655784,34.714029],
+  "bbox": [
+    -86.655784,
+    34.714029,
+    -86.655784,
+    34.714029
+],
   "geometry": {"coordinates":[-86.655784,34.714029],"type":"Point"}
 }

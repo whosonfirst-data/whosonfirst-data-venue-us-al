@@ -2,13 +2,14 @@
   "id": 152476937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.87499,33.487328,-86.87499,33.487328",
     "geom:latitude":33.487328,
     "geom:longitude":-86.87499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2505 S Park Dr SW",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -37,11 +38,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818187,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85818187
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,14 +61,20 @@
         }
     ],
     "wof:id":152476937,
-    "wof:lastmodified":1449046181,
+    "wof:lastmodified":1466318303,
     "wof:name":"Duncan Fabricating Co Inc",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.87499,33.487328,-86.87499,33.487328],
+  "bbox": [
+    -86.87499,
+    33.487328,
+    -86.87499,
+    33.487328
+],
   "geometry": {"coordinates":[-86.87499,33.487328],"type":"Point"}
 }

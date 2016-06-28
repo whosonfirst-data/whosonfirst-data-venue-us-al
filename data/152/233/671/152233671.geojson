@@ -2,13 +2,14 @@
   "id": 152233671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.179986,30.654984,-88.179986,30.654984",
     "geom:latitude":30.654984,
     "geom:longitude":-88.179986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1651 Knollwood Dr",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878961,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878961
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152233671,
-    "wof:lastmodified":1449048970,
+    "wof:lastmodified":1466316362,
     "wof:name":"Knollwood Apartments",
     "wof:parent_id":85878961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.179986,30.654984,-88.179986,30.654984],
+  "bbox": [
+    -88.179986,
+    30.654984,
+    -88.179986,
+    30.654984
+],
   "geometry": {"coordinates":[-88.179986,30.654984],"type":"Point"}
 }

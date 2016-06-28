@@ -2,13 +2,14 @@
   "id": 152332817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.852447,34.17196,-86.852447,34.17196",
     "geom:latitude":34.17196,
     "geom:longitude":-86.852447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1202 4th St SW",
     "sg:city":"Cullman",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867305,
+        85688675,
         85633793,
         85914167,
         102085729,
-        85688675
+        85867305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152332817,
-    "wof:lastmodified":1449046876,
+    "wof:lastmodified":1466317400,
     "wof:name":"Dog House",
     "wof:parent_id":85867305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.852447,34.17196,-86.852447,34.17196],
+  "bbox": [
+    -86.852447,
+    34.17196,
+    -86.852447,
+    34.17196
+],
   "geometry": {"coordinates":[-86.852447,34.17196],"type":"Point"}
 }

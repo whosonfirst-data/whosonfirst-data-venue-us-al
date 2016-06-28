@@ -2,13 +2,14 @@
   "id": 152180255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.669672,33.496127,-86.669672,33.496127",
     "geom:latitude":33.496127,
     "geom:longitude":-86.669672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7231 Breiten Field Pl",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085481,
-        85633793,
         85688675,
-        85807947
+        85633793,
+        85807947,
+        102085481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152180255,
-    "wof:lastmodified":1449044479,
+    "wof:lastmodified":1466315671,
     "wof:name":"Bancroft Assoc LLC",
     "wof:parent_id":85807947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.669672,33.496127,-86.669672,33.496127],
-  "geometry": {"coordinates":[-86.669672,33.496127],"type":"Point"}
+  "bbox": [
+    -86.669672,
+    33.496127,
+    -86.669672,
+    33.496127
+],
+  "geometry": {"coordinates":[-86.66967200000001,33.496127],"type":"Point"}
 }

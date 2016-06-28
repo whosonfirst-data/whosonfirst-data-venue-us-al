@@ -2,13 +2,14 @@
   "id": 152251181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.488798,32.607132,-85.488798,32.607132",
     "geom:latitude":32.607132,
     "geom:longitude":-85.488798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Cox St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809707,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85809707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152251181,
-    "wof:lastmodified":1449044381,
+    "wof:lastmodified":1466316579,
     "wof:name":"Little Henry's Apartment Rntls",
     "wof:parent_id":85809707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.488798,32.607132,-85.488798,32.607132],
+  "bbox": [
+    -85.488798,
+    32.607132,
+    -85.488798,
+    32.607132
+],
   "geometry": {"coordinates":[-85.488798,32.607132],"type":"Point"}
 }

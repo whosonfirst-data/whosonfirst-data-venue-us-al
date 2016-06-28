@@ -2,13 +2,14 @@
   "id": 152538719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.585319,33.224959,-87.585319,33.224959",
     "geom:latitude":33.224959,
     "geom:longitude":-87.585319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2901 13th St",
     "sg:city":"Northport",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.campuscollection.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805585,
+        85688675,
         85633793,
         85914425,
         102085553,
-        85688675
+        85805585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152538719,
-    "wof:lastmodified":1449044886,
+    "wof:lastmodified":1466318548,
     "wof:name":"Campus Collection",
     "wof:parent_id":85805585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.585319,33.224959,-87.585319,33.224959],
+  "bbox": [
+    -87.585319,
+    33.224959,
+    -87.585319,
+    33.224959
+],
   "geometry": {"coordinates":[-87.585319,33.224959],"type":"Point"}
 }

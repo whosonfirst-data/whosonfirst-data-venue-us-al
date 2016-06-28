@@ -2,13 +2,14 @@
   "id": 152557211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.397157,32.638906,-85.397157,32.638906",
     "geom:latitude":32.638906,
     "geom:longitude":-85.397157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1710 Pepperell Pkwy",
     "sg:city":"Opelika",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819517,
+        85688675,
         85633793,
         85913815,
         102085751,
-        85688675
+        85819517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152557211,
-    "wof:lastmodified":1449047595,
+    "wof:lastmodified":1466318720,
     "wof:name":"Hall Robert Louis Jr DMD",
     "wof:parent_id":85819517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.397157,32.638906,-85.397157,32.638906],
-  "geometry": {"coordinates":[-85.397157,32.638906],"type":"Point"}
+  "bbox": [
+    -85.397157,
+    32.638906,
+    -85.397157,
+    32.638906
+],
+  "geometry": {"coordinates":[-85.39715700000001,32.638906],"type":"Point"}
 }

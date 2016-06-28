@@ -2,13 +2,14 @@
   "id": 152430907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.194775,32.343349,-86.194775,32.343349",
     "geom:latitude":32.343349,
     "geom:longitude":-86.194775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2585 Bell Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":152430907,
-    "wof:lastmodified":1449047244,
+    "wof:lastmodified":1466318015,
     "wof:name":"Bell Road Animal Medical Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.194775,32.343349,-86.194775,32.343349],
-  "geometry": {"coordinates":[-86.194775,32.343349],"type":"Point"}
+  "bbox": [
+    -86.194775,
+    32.343349,
+    -86.194775,
+    32.343349
+],
+  "geometry": {"coordinates":[-86.19477500000001,32.343349],"type":"Point"}
 }

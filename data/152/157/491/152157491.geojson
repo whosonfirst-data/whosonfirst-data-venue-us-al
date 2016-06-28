@@ -2,13 +2,14 @@
   "id": 152157491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.997775,34.038397,-86.997775,34.038397",
     "geom:latitude":34.038397,
     "geom:longitude":-86.997775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1940 Co Rd 143",
     "sg:city":"Bremen",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867305,
+        85688675,
         85633793,
         85914167,
         102085729,
-        85688675
+        85867305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152157491,
-    "wof:lastmodified":1449048261,
+    "wof:lastmodified":1466314958,
     "wof:name":"Papillon II",
     "wof:parent_id":85867305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.997775,34.038397,-86.997775,34.038397],
+  "bbox": [
+    -86.997775,
+    34.038397,
+    -86.997775,
+    34.038397
+],
   "geometry": {"coordinates":[-86.997775,34.038397],"type":"Point"}
 }

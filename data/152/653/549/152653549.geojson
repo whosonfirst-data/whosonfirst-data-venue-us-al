@@ -2,13 +2,14 @@
   "id": 152653549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.880479,32.835799,-86.880479,32.835799",
     "geom:latitude":32.835799,
     "geom:longitude":-86.880479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3440 State Rte 139",
     "sg:city":"Maplesville",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":152653549,
-    "wof:lastmodified":1449044635,
+    "wof:lastmodified":1466319117,
     "wof:name":"Etc Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.880479,32.835799,-86.880479,32.835799],
-  "geometry": {"coordinates":[-86.880479,32.835799],"type":"Point"}
+  "bbox": [
+    -86.880479,
+    32.835799,
+    -86.880479,
+    32.835799
+],
+  "geometry": {"coordinates":[-86.88047899999999,32.835799],"type":"Point"}
 }

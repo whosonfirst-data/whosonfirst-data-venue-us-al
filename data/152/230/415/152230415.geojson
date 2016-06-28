@@ -2,13 +2,14 @@
   "id": 152230415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.714216,34.4299,-85.714216,34.4299",
     "geom:latitude":34.4299,
     "geom:longitude":-85.714216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 Scenic Rd E",
     "sg:city":"Fort Payne",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834595,
+        85688675,
         85633793,
         85897515,
         102085615,
-        85688675
+        85834595
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152230415,
-    "wof:lastmodified":1449047734,
+    "wof:lastmodified":1466316328,
     "wof:name":"Bailey Enterprises",
     "wof:parent_id":85834595,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.714216,34.4299,-85.714216,34.4299],
-  "geometry": {"coordinates":[-85.714216,34.4299],"type":"Point"}
+  "bbox": [
+    -85.714216,
+    34.4299,
+    -85.714216,
+    34.4299
+],
+  "geometry": {"coordinates":[-85.71421599999999,34.4299],"type":"Point"}
 }

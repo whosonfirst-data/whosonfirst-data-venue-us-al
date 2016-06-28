@@ -2,13 +2,14 @@
   "id": 152568383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.37614,30.638258,-88.37614,30.638258",
     "geom:latitude":30.638258,
     "geom:longitude":-88.37614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14061 Airport Blvd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152568383,
-    "wof:lastmodified":1449044176,
+    "wof:lastmodified":1466318671,
     "wof:name":"Diamond Publications Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.37614,30.638258,-88.37614,30.638258],
-  "geometry": {"coordinates":[-88.37614,30.638258],"type":"Point"}
+  "bbox": [
+    -88.37614,
+    30.638258,
+    -88.37614,
+    30.638258
+],
+  "geometry": {"coordinates":[-88.37614000000001,30.638258],"type":"Point"}
 }

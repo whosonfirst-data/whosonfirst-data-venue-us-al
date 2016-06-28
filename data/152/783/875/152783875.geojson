@@ -2,13 +2,14 @@
   "id": 152783875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.270285,32.343216,-86.270285,32.343216",
     "geom:latitude":32.343216,
     "geom:longitude":-86.270285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3332 Boxwood Dr",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879045,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152783875,
-    "wof:lastmodified":1449044442,
+    "wof:lastmodified":1466319828,
     "wof:name":"Henry A Leslie",
     "wof:parent_id":85879045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.270285,32.343216,-86.270285,32.343216],
+  "bbox": [
+    -86.270285,
+    32.343216,
+    -86.270285,
+    32.343216
+],
   "geometry": {"coordinates":[-86.270285,32.343216],"type":"Point"}
 }

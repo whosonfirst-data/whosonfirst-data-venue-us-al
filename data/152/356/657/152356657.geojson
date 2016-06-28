@@ -2,13 +2,14 @@
   "id": 152356657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.844,33.248865,-86.844,33.248865",
     "geom:latitude":33.248865,
     "geom:longitude":-86.844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 Lucas Ln",
     "sg:city":"Maylene",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847439,
+        85688675,
         85633793,
         85914487,
         102085499,
-        85688675
+        85847439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152356657,
-    "wof:lastmodified":1449048101,
+    "wof:lastmodified":1466317637,
     "wof:name":"Calera Auto Sales Inc",
     "wof:parent_id":85847439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.844,33.248865,-86.844,33.248865],
-  "geometry": {"coordinates":[-86.844,33.248865],"type":"Point"}
+  "bbox": [
+    -86.844,
+    33.248865,
+    -86.844,
+    33.248865
+],
+  "geometry": {"coordinates":[-86.84399999999999,33.248865],"type":"Point"}
 }

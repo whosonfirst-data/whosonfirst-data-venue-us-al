@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102484711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.596939,34.745523,-86.596939,34.745523",
     "geom:latitude":34.745523,
     "geom:longitude":-86.596939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1115 Church St NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809309,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85809309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":102484711,
-    "wof:lastmodified":1449070056,
+    "wof:lastmodified":1466315862,
     "wof:name":"Green Real Estate & Constr Co",
     "wof:parent_id":85809309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.596939,34.745523,-86.596939,34.745523],
-  "geometry": {"coordinates":[-86.596939,34.745523],"type":"Point"}
+  "bbox": [
+    -86.596939,
+    34.745523,
+    -86.596939,
+    34.745523
+],
+  "geometry": {"coordinates":[-86.59693900000001,34.745523],"type":"Point"}
 }

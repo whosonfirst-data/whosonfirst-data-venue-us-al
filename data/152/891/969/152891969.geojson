@@ -2,13 +2,14 @@
   "id": 152891969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.81535,33.248684,-86.81535,33.248684",
     "geom:latitude":33.248684,
     "geom:longitude":-86.81535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"641 1st St N",
     "sg:city":"Alabaster",
     "sg:classifiers":[
@@ -30,13 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828267,
+        85688675,
         85633793,
         85914501,
         102085499,
-        85688675,
-        85847439,
-        85914487
+        85828267,
+        85914487,
+        85847439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,14 +64,20 @@
         }
     ],
     "wof:id":152891969,
-    "wof:lastmodified":1449047079,
+    "wof:lastmodified":1466320323,
     "wof:name":"Nate's Pit Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.81535,33.248684,-86.81535,33.248684],
+  "bbox": [
+    -86.81535,
+    33.248684,
+    -86.81535,
+    33.248684
+],
   "geometry": {"coordinates":[-86.81535,33.248684],"type":"Point"}
 }

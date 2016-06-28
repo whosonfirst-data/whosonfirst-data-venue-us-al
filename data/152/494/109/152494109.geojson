@@ -2,13 +2,14 @@
   "id": 152494109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.795088,34.645002,-87.795088,34.645002",
     "geom:latitude":34.645002,
     "geom:longitude":-87.795088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"190 New Bethel Rd",
     "sg:city":"Tuscumbia",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":152494109,
-    "wof:lastmodified":1449048414,
+    "wof:lastmodified":1466318429,
     "wof:name":"New Bethel Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.795088,34.645002,-87.795088,34.645002],
-  "geometry": {"coordinates":[-87.795088,34.645002],"type":"Point"}
+  "bbox": [
+    -87.795088,
+    34.645002,
+    -87.795088,
+    34.645002
+],
+  "geometry": {"coordinates":[-87.79508800000001,34.645002],"type":"Point"}
 }

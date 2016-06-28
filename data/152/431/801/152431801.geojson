@@ -2,13 +2,14 @@
   "id": 152431801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.85259,33.337918,-86.85259,33.337918",
     "geom:latitude":33.337918,
     "geom:longitude":-86.85259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5346 Stadium Trace Pkwy",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829763,
+        85688675,
         85633793,
         85914475,
         102085481,
-        85688675
+        85829763
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152431801,
-    "wof:lastmodified":1449044927,
+    "wof:lastmodified":1466318091,
     "wof:name":"Executive Technologies",
     "wof:parent_id":85829763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.85259,33.337918,-86.85259,33.337918],
-  "geometry": {"coordinates":[-86.85259,33.337918],"type":"Point"}
+  "bbox": [
+    -86.85259,
+    33.337918,
+    -86.85259,
+    33.337918
+],
+  "geometry": {"coordinates":[-86.85259000000001,33.337918],"type":"Point"}
 }

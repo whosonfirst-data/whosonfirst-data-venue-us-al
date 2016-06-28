@@ -2,13 +2,14 @@
   "id": 152723355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.846271,34.130253,-86.846271,34.130253",
     "geom:latitude":34.130253,
     "geom:longitude":-86.846271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2310 Industrial Dr SW",
     "sg:city":"Cullman",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     "sg:website":"www.webbwheel.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867305,
+        85688675,
         85633793,
         85914167,
         102085729,
-        85688675
+        85867305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":152723355,
-    "wof:lastmodified":1449047003,
+    "wof:lastmodified":1466319532,
     "wof:name":"WEBB Wheel Products Inc",
     "wof:parent_id":85867305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.846271,34.130253,-86.846271,34.130253],
+  "bbox": [
+    -86.846271,
+    34.130253,
+    -86.846271,
+    34.130253
+],
   "geometry": {"coordinates":[-86.846271,34.130253],"type":"Point"}
 }

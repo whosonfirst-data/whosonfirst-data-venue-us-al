@@ -2,13 +2,14 @@
   "id": 152127155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.836433,33.706019,-85.836433,33.706019",
     "geom:latitude":33.706019,
     "geom:longitude":-85.836433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 W Glade Rd",
     "sg:city":"Anniston",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825451,
+        85688675,
         85633793,
         85915207,
         102085603,
-        85688675
+        85825451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152127155,
-    "wof:lastmodified":1449048548,
+    "wof:lastmodified":1466314799,
     "wof:name":"Animal Care Assoc",
     "wof:parent_id":85825451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.836433,33.706019,-85.836433,33.706019],
+  "bbox": [
+    -85.836433,
+    33.706019,
+    -85.836433,
+    33.706019
+],
   "geometry": {"coordinates":[-85.836433,33.706019],"type":"Point"}
 }

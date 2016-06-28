@@ -2,13 +2,14 @@
   "id": 152119475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.373734,34.695251,-86.373734,34.695251",
     "geom:latitude":34.695251,
     "geom:longitude":-86.373734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6270 US Hwy 72",
     "sg:city":"Gurley",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878245,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152119475,
-    "wof:lastmodified":1449047599,
+    "wof:lastmodified":1466314548,
     "wof:name":"7 2 Quick Stop",
     "wof:parent_id":85878245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.373734,34.695251,-86.373734,34.695251],
+  "bbox": [
+    -86.373734,
+    34.695251,
+    -86.373734,
+    34.695251
+],
   "geometry": {"coordinates":[-86.373734,34.695251],"type":"Point"}
 }

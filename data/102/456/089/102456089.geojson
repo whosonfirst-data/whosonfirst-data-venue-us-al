@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102456089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.904593,30.599513,-87.904593,30.599513",
     "geom:latitude":30.599513,
     "geom:longitude":-87.904593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 6th St",
     "sg:city":"Daphne",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827259,
+        85688675,
         85633793,
         85914695,
         102085469,
-        85688675
+        85827259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102456089,
-    "wof:lastmodified":1449068493,
+    "wof:lastmodified":1466314808,
     "wof:name":"Daphne Baptist Church",
     "wof:parent_id":85827259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.904593,30.599513,-87.904593,30.599513],
-  "geometry": {"coordinates":[-87.904593,30.599513],"type":"Point"}
+  "bbox": [
+    -87.904593,
+    30.599513,
+    -87.904593,
+    30.599513
+],
+  "geometry": {"coordinates":[-87.90459300000001,30.599513],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152432291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.797288,33.692627,-86.797288,33.692627",
     "geom:latitude":33.692627,
     "geom:longitude":-86.797288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"982 Glenn Chapel Rd",
     "sg:city":"Gardendale",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152432291,
-    "wof:lastmodified":1449044202,
+    "wof:lastmodified":1466317995,
     "wof:name":"B & L Lock & Key",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.797288,33.692627,-86.797288,33.692627],
-  "geometry": {"coordinates":[-86.797288,33.692627],"type":"Point"}
+  "bbox": [
+    -86.797288,
+    33.692627,
+    -86.797288,
+    33.692627
+],
+  "geometry": {"coordinates":[-86.79728799999999,33.692627],"type":"Point"}
 }

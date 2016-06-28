@@ -2,13 +2,14 @@
   "id": 152604041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.402152,31.262487,-85.402152,31.262487",
     "geom:latitude":31.262487,
     "geom:longitude":-85.402152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"517 Kraft Rd",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859419,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85859419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152604041,
-    "wof:lastmodified":1449048388,
+    "wof:lastmodified":1466318845,
     "wof:name":"Dothan Energy Corporation",
     "wof:parent_id":85859419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.402152,31.262487,-85.402152,31.262487],
+  "bbox": [
+    -85.402152,
+    31.262487,
+    -85.402152,
+    31.262487
+],
   "geometry": {"coordinates":[-85.402152,31.262487],"type":"Point"}
 }

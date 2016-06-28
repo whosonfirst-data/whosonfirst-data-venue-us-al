@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102444981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.117156,30.74434,-88.117156,30.74434",
     "geom:latitude":30.74434,
     "geom:longitude":-88.117156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3009 Hand Ave",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85857413,
+        85688675,
         85633793,
         85913741,
         102085585,
-        85688675
+        85857413
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102444981,
-    "wof:lastmodified":1449069842,
+    "wof:lastmodified":1466314506,
     "wof:name":"Hughes Supply",
     "wof:parent_id":85857413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.117156,30.74434,-88.117156,30.74434],
-  "geometry": {"coordinates":[-88.117156,30.74434],"type":"Point"}
+  "bbox": [
+    -88.117156,
+    30.74434,
+    -88.117156,
+    30.74434
+],
+  "geometry": {"coordinates":[-88.11715599999999,30.74434],"type":"Point"}
 }

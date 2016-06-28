@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102491707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.017899,34.577311,-87.017899,34.577311",
     "geom:latitude":34.577311,
     "geom:longitude":-87.017899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2009 Beltline Rd SW",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848819,
+        85688675,
         85633793,
         85913589,
         102085531,
-        85688675
+        85848819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102491707,
-    "wof:lastmodified":1449067736,
+    "wof:lastmodified":1466316115,
     "wof:name":"OSCO Inc",
     "wof:parent_id":85848819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.017899,34.577311,-87.017899,34.577311],
+  "bbox": [
+    -87.017899,
+    34.577311,
+    -87.017899,
+    34.577311
+],
   "geometry": {"coordinates":[-87.017899,34.577311],"type":"Point"}
 }

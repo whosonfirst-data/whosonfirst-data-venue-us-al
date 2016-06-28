@@ -2,13 +2,14 @@
   "id": 152563507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.859611,34.267336,-85.859611,34.267336",
     "geom:latitude":34.267336,
     "geom:longitude":-85.859611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"319 College Ave",
     "sg:city":"Collinsville",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815015,
+        85688675,
         85633793,
         85897515,
         102085615,
-        85688675
+        85815015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152563507,
-    "wof:lastmodified":1449044364,
+    "wof:lastmodified":1466318727,
     "wof:name":"Air Comfort",
     "wof:parent_id":85815015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.859611,34.267336,-85.859611,34.267336],
+  "bbox": [
+    -85.859611,
+    34.267336,
+    -85.859611,
+    34.267336
+],
   "geometry": {"coordinates":[-85.859611,34.267336],"type":"Point"}
 }

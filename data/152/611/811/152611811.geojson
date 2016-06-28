@@ -2,13 +2,14 @@
   "id": 152611811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.666317,30.431297,-87.666317,30.431297",
     "geom:latitude":30.431297,
     "geom:longitude":-87.666317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14040 Pecan St N",
     "sg:city":"Foley",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868551,
+        85688675,
         85633793,
         85914719,
         102085469,
-        85688675
+        85868551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152611811,
-    "wof:lastmodified":1449047939,
+    "wof:lastmodified":1466319027,
     "wof:name":"Jim Anderson & Assoc",
     "wof:parent_id":85868551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.666317,30.431297,-87.666317,30.431297],
-  "geometry": {"coordinates":[-87.666317,30.431297],"type":"Point"}
+  "bbox": [
+    -87.666317,
+    30.431297,
+    -87.666317,
+    30.431297
+],
+  "geometry": {"coordinates":[-87.66631700000001,30.431297],"type":"Point"}
 }

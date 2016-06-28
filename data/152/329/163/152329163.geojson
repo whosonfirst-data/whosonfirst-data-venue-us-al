@@ -2,13 +2,14 @@
   "id": 152329163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.877748,33.498398,-86.877748,33.498398",
     "geom:latitude":33.498398,
     "geom:longitude":-86.877748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2218 31st St",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818187,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85818187
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152329163,
-    "wof:lastmodified":1449045587,
+    "wof:lastmodified":1466317347,
     "wof:name":"Cornar Laundry",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.877748,33.498398,-86.877748,33.498398],
+  "bbox": [
+    -86.877748,
+    33.498398,
+    -86.877748,
+    33.498398
+],
   "geometry": {"coordinates":[-86.877748,33.498398],"type":"Point"}
 }

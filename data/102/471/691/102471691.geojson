@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102471691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.207129,32.341092,-86.207129,32.341092",
     "geom:latitude":32.341092,
     "geom:longitude":-86.207129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6055 Vaughn Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821317,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85821317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102471691,
-    "wof:lastmodified":1449068728,
+    "wof:lastmodified":1466315349,
     "wof:name":"Blount Wynton M Cultural Park",
     "wof:parent_id":85821317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.207129,32.341092,-86.207129,32.341092],
-  "geometry": {"coordinates":[-86.207129,32.341092],"type":"Point"}
+  "bbox": [
+    -86.207129,
+    32.341092,
+    -86.207129,
+    32.341092
+],
+  "geometry": {"coordinates":[-86.20712899999999,32.341092],"type":"Point"}
 }

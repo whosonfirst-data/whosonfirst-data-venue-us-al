@@ -2,13 +2,14 @@
   "id": 152782629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.455199,32.617575,-85.455199,32.617575",
     "geom:latitude":32.617575,
     "geom:longitude":-85.455199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"730 Burke Pl",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852419,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85852419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152782629,
-    "wof:lastmodified":1449044268,
+    "wof:lastmodified":1466319822,
     "wof:name":"John H McFarland MD PC",
     "wof:parent_id":85852419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.455199,32.617575,-85.455199,32.617575],
-  "geometry": {"coordinates":[-85.455199,32.617575],"type":"Point"}
+  "bbox": [
+    -85.455199,
+    32.617575,
+    -85.455199,
+    32.617575
+],
+  "geometry": {"coordinates":[-85.45519899999999,32.617575],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152513897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.10806,30.516055,-88.10806,30.516055",
     "geom:latitude":30.516055,
     "geom:longitude":-88.10806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8427 Dauphin Island Pkwy",
     "sg:city":"Theodore",
     "sg:classifiers":[
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152513897,
-    "wof:lastmodified":1449047359,
+    "wof:lastmodified":1466318408,
     "wof:name":"Joe Cowart Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.10806,30.516055,-88.10806,30.516055],
-  "geometry": {"coordinates":[-88.10806,30.516055],"type":"Point"}
+  "bbox": [
+    -88.10806,
+    30.516055,
+    -88.10806,
+    30.516055
+],
+  "geometry": {"coordinates":[-88.10805999999999,30.516055],"type":"Point"}
 }

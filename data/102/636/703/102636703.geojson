@@ -2,13 +2,14 @@
   "id": 102636703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.417506,32.46051,-86.417506,32.46051",
     "geom:latitude":32.46051,
     "geom:longitude":-86.417506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2132 Cobbs Ford Rd",
     "sg:city":"Prattville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840001,
+        85688675,
         85633793,
         85913977,
         102085509,
-        85688675
+        85840001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102636703,
-    "wof:lastmodified":1449068714,
+    "wof:lastmodified":1466317587,
     "wof:name":"House of Java Inc",
     "wof:parent_id":85840001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.417506,32.46051,-86.417506,32.46051],
+  "bbox": [
+    -86.417506,
+    32.46051,
+    -86.417506,
+    32.46051
+],
   "geometry": {"coordinates":[-86.417506,32.46051],"type":"Point"}
 }

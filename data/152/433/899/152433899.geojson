@@ -2,13 +2,14 @@
   "id": 152433899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.381241,31.23029,-85.381241,31.23029",
     "geom:latitude":31.23029,
     "geom:longitude":-85.381241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"708 Tuskegee Ave",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852069,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85852069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152433899,
-    "wof:lastmodified":1449044842,
+    "wof:lastmodified":1466318094,
     "wof:name":"Anita's Hair Shop",
     "wof:parent_id":85852069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.381241,31.23029,-85.381241,31.23029],
+  "bbox": [
+    -85.381241,
+    31.23029,
+    -85.381241,
+    31.23029
+],
   "geometry": {"coordinates":[-85.381241,31.23029],"type":"Point"}
 }

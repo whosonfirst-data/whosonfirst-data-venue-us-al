@@ -2,13 +2,14 @@
   "id": 152267091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.59522,33.662025,-86.59522,33.662025",
     "geom:latitude":33.662025,
     "geom:longitude":-86.59522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5480 Trussville Clay Rd",
     "sg:city":"Trussville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85835401,
+        85688675,
         85633793,
         85913473,
         102085481,
-        85688675
+        85835401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152267091,
-    "wof:lastmodified":1449048502,
+    "wof:lastmodified":1466316775,
     "wof:name":"Vann Valley Assembly of God",
     "wof:parent_id":85835401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.59522,33.662025,-86.59522,33.662025],
+  "bbox": [
+    -86.59522,
+    33.662025,
+    -86.59522,
+    33.662025
+],
   "geometry": {"coordinates":[-86.59522,33.662025],"type":"Point"}
 }

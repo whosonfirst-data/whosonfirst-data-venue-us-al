@@ -2,13 +2,14 @@
   "id": 152209981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.250889,33.171508,-86.250889,33.171508",
     "geom:latitude":33.171508,
     "geom:longitude":-86.250889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29 W 3rd St",
     "sg:city":"Sylacauga",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834171,
+        85688675,
         85633793,
         85914133,
         102085517,
-        85688675
+        85834171
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152209981,
-    "wof:lastmodified":1449048434,
+    "wof:lastmodified":1466316041,
     "wof:name":"Butler Bookkeeping & Tax Svc",
     "wof:parent_id":85834171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.250889,33.171508,-86.250889,33.171508],
+  "bbox": [
+    -86.250889,
+    33.171508,
+    -86.250889,
+    33.171508
+],
   "geometry": {"coordinates":[-86.250889,33.171508],"type":"Point"}
 }

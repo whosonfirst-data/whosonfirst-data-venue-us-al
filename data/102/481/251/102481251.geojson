@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102481251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.630047,34.739262,-86.630047,34.739262",
     "geom:latitude":34.739262,
     "geom:longitude":-86.630047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1304 Putman Dr NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85846449,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85846449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102481251,
-    "wof:lastmodified":1449069865,
+    "wof:lastmodified":1466315353,
     "wof:name":"Peregrine Corporation",
     "wof:parent_id":85846449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.630047,34.739262,-86.630047,34.739262],
+  "bbox": [
+    -86.630047,
+    34.739262,
+    -86.630047,
+    34.739262
+],
   "geometry": {"coordinates":[-86.630047,34.739262],"type":"Point"}
 }

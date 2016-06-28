@@ -2,13 +2,14 @@
   "id": 152758397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.456528,32.504858,-86.456528,32.504858",
     "geom:latitude":32.504858,
     "geom:longitude":-86.456528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1317 US Hwy 31",
     "sg:city":"Prattville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831059,
+        85688675,
         85633793,
         85913977,
         102085509,
-        85688675
+        85831059
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152758397,
-    "wof:lastmodified":1449045701,
+    "wof:lastmodified":1466319633,
     "wof:name":"Schuffert Custom Stair Co Inc",
     "wof:parent_id":85831059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.456528,32.504858,-86.456528,32.504858],
-  "geometry": {"coordinates":[-86.456528,32.504858],"type":"Point"}
+  "bbox": [
+    -86.456528,
+    32.504858,
+    -86.456528,
+    32.504858
+],
+  "geometry": {"coordinates":[-86.45652800000001,32.504858],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152171875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.718068,34.715114,-87.718068,34.715114",
     "geom:latitude":34.715114,
     "geom:longitude":-87.718068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1305 Eastman Ave",
     "sg:city":"Tuscumbia",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852605,
+        85688675,
         85633793,
         85897447,
         102085625,
-        85688675
+        85852605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152171875,
-    "wof:lastmodified":1449048917,
+    "wof:lastmodified":1466315716,
     "wof:name":"Danny L Pace Construction Co",
     "wof:parent_id":85852605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.718068,34.715114,-87.718068,34.715114],
+  "bbox": [
+    -87.718068,
+    34.715114,
+    -87.718068,
+    34.715114
+],
   "geometry": {"coordinates":[-87.718068,34.715114],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152357295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.565183,34.657893,-86.565183,34.657893",
     "geom:latitude":34.657893,
     "geom:longitude":-86.565183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Lily Flagg Rd SE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.c21steele.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85830495,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85830495
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152357295,
-    "wof:lastmodified":1449048356,
+    "wof:lastmodified":1466317619,
     "wof:name":"Century 21 Steel & Assoc",
     "wof:parent_id":85830495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.565183,34.657893,-86.565183,34.657893],
+  "bbox": [
+    -86.565183,
+    34.657893,
+    -86.565183,
+    34.657893
+],
   "geometry": {"coordinates":[-86.565183,34.657893],"type":"Point"}
 }

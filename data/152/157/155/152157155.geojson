@@ -2,13 +2,14 @@
   "id": 152157155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.250707,32.375559,-86.250707,32.375559",
     "geom:latitude":32.375559,
     "geom:longitude":-86.250707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"418 Holland Dr",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85832961,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85832961
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152157155,
-    "wof:lastmodified":1449048265,
+    "wof:lastmodified":1466314938,
     "wof:name":"William H Miller & Associates",
     "wof:parent_id":85832961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.250707,32.375559,-86.250707,32.375559],
-  "geometry": {"coordinates":[-86.250707,32.375559],"type":"Point"}
+  "bbox": [
+    -86.250707,
+    32.375559,
+    -86.250707,
+    32.375559
+],
+  "geometry": {"coordinates":[-86.25070700000001,32.375559],"type":"Point"}
 }

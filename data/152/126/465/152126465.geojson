@@ -2,13 +2,14 @@
   "id": 152126465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.350122,32.369796,-86.350122,32.369796",
     "geom:latitude":32.369796,
     "geom:longitude":-86.350122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3806 Day St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.piknikproducts.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856867,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675,
+        85856867,
         85832931
     ],
     "wof:breaches":[],
@@ -61,14 +62,20 @@
         }
     ],
     "wof:id":152126465,
-    "wof:lastmodified":1449046012,
+    "wof:lastmodified":1466314786,
     "wof:name":"Piknik Products Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.350122,32.369796,-86.350122,32.369796],
+  "bbox": [
+    -86.350122,
+    32.369796,
+    -86.350122,
+    32.369796
+],
   "geometry": {"coordinates":[-86.350122,32.369796],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152797261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.47314,31.225509,-85.47314,31.225509",
     "geom:latitude":31.225509,
     "geom:longitude":-85.47314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 W Roxbury Rd",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152797261,
-    "wof:lastmodified":1449048461,
+    "wof:lastmodified":1466319832,
     "wof:name":"Data Supplies Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.47314,31.225509,-85.47314,31.225509],
+  "bbox": [
+    -85.47314,
+    31.225509,
+    -85.47314,
+    31.225509
+],
   "geometry": {"coordinates":[-85.47314,31.225509],"type":"Point"}
 }

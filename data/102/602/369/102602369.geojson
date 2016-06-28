@@ -2,13 +2,14 @@
   "id": 102602369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.124714,34.799314,-87.124714,34.799314",
     "geom:latitude":34.799314,
     "geom:longitude":-87.124714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17080 Shaw Rd",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":102602369,
-    "wof:lastmodified":1449068911,
+    "wof:lastmodified":1466317070,
     "wof:name":"Al's Sewer & Drain Svc",
     "wof:parent_id":85688675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.124714,34.799314,-87.124714,34.799314],
+  "bbox": [
+    -87.124714,
+    34.799314,
+    -87.124714,
+    34.799314
+],
   "geometry": {"coordinates":[-87.124714,34.799314],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152790907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.320819,33.233628,-87.320819,33.233628",
     "geom:latitude":33.233628,
     "geom:longitude":-87.320819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12104 Covered Bridge Rd",
     "sg:city":"Brookwood",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851363,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85851363
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152790907,
-    "wof:lastmodified":1449047840,
+    "wof:lastmodified":1466319853,
     "wof:name":"Lawrence Trucking",
     "wof:parent_id":85851363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.320819,33.233628,-87.320819,33.233628],
+  "bbox": [
+    -87.320819,
+    33.233628,
+    -87.320819,
+    33.233628
+],
   "geometry": {"coordinates":[-87.320819,33.233628],"type":"Point"}
 }

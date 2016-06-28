@@ -2,13 +2,14 @@
   "id": 152865847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.872093,34.103061,-86.872093,34.103061",
     "geom:latitude":34.103061,
     "geom:longitude":-86.872093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"194 White Oak Loop",
     "sg:city":"Cullman",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867305,
+        85688675,
         85633793,
         85914167,
         102085729,
-        85688675
+        85867305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152865847,
-    "wof:lastmodified":1449047789,
+    "wof:lastmodified":1466320204,
     "wof:name":"Tidy Paws",
     "wof:parent_id":85867305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.872093,34.103061,-86.872093,34.103061],
-  "geometry": {"coordinates":[-86.872093,34.103061],"type":"Point"}
+  "bbox": [
+    -86.872093,
+    34.103061,
+    -86.872093,
+    34.103061
+],
+  "geometry": {"coordinates":[-86.87209300000001,34.103061],"type":"Point"}
 }

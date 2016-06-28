@@ -2,13 +2,14 @@
   "id": 152777027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.046445,32.503992,-86.046445,32.503992",
     "geom:latitude":32.503992,
     "geom:longitude":-86.046445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11110 Redland Rd",
     "sg:city":"Tallassee",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827347,
+        85688675,
         85633793,
         85915121,
         102085631,
-        85688675
+        85827347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152777027,
-    "wof:lastmodified":1449046744,
+    "wof:lastmodified":1466319800,
     "wof:name":"Dig In Genes",
     "wof:parent_id":85827347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.046445,32.503992,-86.046445,32.503992],
-  "geometry": {"coordinates":[-86.046445,32.503992],"type":"Point"}
+  "bbox": [
+    -86.046445,
+    32.503992,
+    -86.046445,
+    32.503992
+],
+  "geometry": {"coordinates":[-86.04644500000001,32.503992],"type":"Point"}
 }

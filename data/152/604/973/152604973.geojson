@@ -2,13 +2,14 @@
   "id": 152604973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.562812,34.863468,-86.562812,34.863468",
     "geom:latitude":34.863468,
     "geom:longitude":-86.562812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"226 Attleboro Ct",
     "sg:city":"Meridianville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85810031,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85810031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152604973,
-    "wof:lastmodified":1449048387,
+    "wof:lastmodified":1466318904,
     "wof:name":"Dreams of Times Past",
     "wof:parent_id":85810031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.562812,34.863468,-86.562812,34.863468],
-  "geometry": {"coordinates":[-86.562812,34.863468],"type":"Point"}
+  "bbox": [
+    -86.562812,
+    34.863468,
+    -86.562812,
+    34.863468
+],
+  "geometry": {"coordinates":[-86.56281199999999,34.863468],"type":"Point"}
 }

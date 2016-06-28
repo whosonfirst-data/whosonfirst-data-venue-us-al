@@ -2,13 +2,14 @@
   "id": 152163875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.669887,33.507266,-86.669887,33.507266",
     "geom:latitude":33.507266,
     "geom:longitude":-86.669887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"382 Stonebridge Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085481,
-        85633793,
         85688675,
-        85807947
+        85633793,
+        85807947,
+        102085481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152163875,
-    "wof:lastmodified":1449048808,
+    "wof:lastmodified":1466315326,
     "wof:name":"B&G Lawn Service",
     "wof:parent_id":85807947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.669887,33.507266,-86.669887,33.507266],
+  "bbox": [
+    -86.669887,
+    33.507266,
+    -86.669887,
+    33.507266
+],
   "geometry": {"coordinates":[-86.669887,33.507266],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152384397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.436759,31.246905,-85.436759,31.246905",
     "geom:latitude":31.246905,
     "geom:longitude":-85.436759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1053 Westgate Pkwy",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85849273,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85849273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152384397,
-    "wof:lastmodified":1449044879,
+    "wof:lastmodified":1466317805,
     "wof:name":"Silhouette Hairstyles",
     "wof:parent_id":85849273,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.436759,31.246905,-85.436759,31.246905],
+  "bbox": [
+    -85.436759,
+    31.246905,
+    -85.436759,
+    31.246905
+],
   "geometry": {"coordinates":[-85.436759,31.246905],"type":"Point"}
 }

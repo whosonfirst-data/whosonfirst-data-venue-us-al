@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102465691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.840001,34.168494,-86.840001,34.168494",
     "geom:latitude":34.168494,
     "geom:longitude":-86.840001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"905 2nd Ave SW",
     "sg:city":"Cullman",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867305,
+        85688675,
         85633793,
         85914167,
         102085729,
-        85688675
+        85867305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102465691,
-    "wof:lastmodified":1449069406,
+    "wof:lastmodified":1466315144,
     "wof:name":"Hunter Horton & Associates",
     "wof:parent_id":85867305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.840001,34.168494,-86.840001,34.168494],
+  "bbox": [
+    -86.840001,
+    34.168494,
+    -86.840001,
+    34.168494
+],
   "geometry": {"coordinates":[-86.840001,34.168494],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152663875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.878546,30.672435,-87.878546,30.672435",
     "geom:latitude":30.672435,
     "geom:longitude":-87.878546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8624 Spanish Fort Blvd",
     "sg:city":"Spanish Fort",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807399,
+        85688675,
         85633793,
         85914741,
         102085469,
-        85688675
+        85807399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152663875,
-    "wof:lastmodified":1449047702,
+    "wof:lastmodified":1466319192,
     "wof:name":"Lewis Vinyl Tops",
     "wof:parent_id":85807399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.878546,30.672435,-87.878546,30.672435],
+  "bbox": [
+    -87.878546,
+    30.672435,
+    -87.878546,
+    30.672435
+],
   "geometry": {"coordinates":[-87.878546,30.672435],"type":"Point"}
 }

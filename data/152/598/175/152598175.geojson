@@ -2,13 +2,14 @@
   "id": 152598175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.281796,32.364126,-86.281796,32.364126",
     "geom:latitude":32.364126,
     "geom:longitude":-86.281796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2015 E 2nd St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825725,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85825725
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152598175,
-    "wof:lastmodified":1449044546,
+    "wof:lastmodified":1466318807,
     "wof:name":"Abstrac Products Inc",
     "wof:parent_id":85825725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.281796,32.364126,-86.281796,32.364126],
+  "bbox": [
+    -86.281796,
+    32.364126,
+    -86.281796,
+    32.364126
+],
   "geometry": {"coordinates":[-86.281796,32.364126],"type":"Point"}
 }

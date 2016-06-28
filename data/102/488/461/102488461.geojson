@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102488461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.198625,32.542573,-86.198625,32.542573",
     "geom:latitude":32.542573,
     "geom:longitude":-86.198625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 Company St",
     "sg:city":"Wetumpka",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806527,
+        85688675,
         85633793,
         85913951,
         102085631,
-        85688675
+        85806527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102488461,
-    "wof:lastmodified":1449070150,
+    "wof:lastmodified":1466316068,
     "wof:name":"Cook's Barber & Beauty",
     "wof:parent_id":85806527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.198625,32.542573,-86.198625,32.542573],
-  "geometry": {"coordinates":[-86.198625,32.542573],"type":"Point"}
+  "bbox": [
+    -86.198625,
+    32.542573,
+    -86.198625,
+    32.542573
+],
+  "geometry": {"coordinates":[-86.19862500000001,32.542573],"type":"Point"}
 }

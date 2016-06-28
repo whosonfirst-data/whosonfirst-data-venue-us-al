@@ -2,13 +2,14 @@
   "id": 152648497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.609076,33.635923,-86.609076,33.635923",
     "geom:latitude":33.635923,
     "geom:longitude":-86.609076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"226 Snake Hill Rd",
     "sg:city":"Trussville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85835401,
+        85688675,
         85633793,
         85913473,
         102085481,
-        85688675
+        85835401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152648497,
-    "wof:lastmodified":1449045563,
+    "wof:lastmodified":1466319007,
     "wof:name":"Daz Originals",
     "wof:parent_id":85835401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.609076,33.635923,-86.609076,33.635923],
+  "bbox": [
+    -86.609076,
+    33.635923,
+    -86.609076,
+    33.635923
+],
   "geometry": {"coordinates":[-86.609076,33.635923],"type":"Point"}
 }

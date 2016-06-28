@@ -2,13 +2,14 @@
   "id": 152805161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.540509,33.54293,-86.540509,33.54293",
     "geom:latitude":33.54293,
     "geom:longitude":-86.540509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 Parkway Dr SE",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152805161,
-    "wof:lastmodified":1449045849,
+    "wof:lastmodified":1466320091,
     "wof:name":"Lee Barnes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.540509,33.54293,-86.540509,33.54293],
+  "bbox": [
+    -86.540509,
+    33.54293,
+    -86.540509,
+    33.54293
+],
   "geometry": {"coordinates":[-86.540509,33.54293],"type":"Point"}
 }

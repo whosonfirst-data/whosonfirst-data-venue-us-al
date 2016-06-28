@@ -2,13 +2,14 @@
   "id": 152153583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.809713,33.626505,-85.809713,33.626505",
     "geom:latitude":33.626505,
     "geom:longitude":-85.809713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1535 Hillyer Robinson Pkwy",
     "sg:city":"Anniston",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806515,
+        85688675,
         85633793,
         85914159,
         102085603,
-        85688675
+        85806515
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152153583,
-    "wof:lastmodified":1449047482,
+    "wof:lastmodified":1466314737,
     "wof:name":"Tyco Fire Protection",
     "wof:parent_id":85806515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.809713,33.626505,-85.809713,33.626505],
+  "bbox": [
+    -85.809713,
+    33.626505,
+    -85.809713,
+    33.626505
+],
   "geometry": {"coordinates":[-85.809713,33.626505],"type":"Point"}
 }

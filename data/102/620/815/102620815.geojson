@@ -2,13 +2,14 @@
   "id": 102620815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.884948,33.365024,-86.884948,33.365024",
     "geom:latitude":33.365024,
     "geom:longitude":-86.884948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"178 Bentley Ln SE",
     "sg:city":"Bessemer",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840797,
+        85688675,
         85633793,
         85914475,
         102085481,
-        85688675
+        85840797
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102620815,
-    "wof:lastmodified":1449069986,
+    "wof:lastmodified":1466317426,
     "wof:name":"Corey Plumbing Co Inc",
     "wof:parent_id":85840797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.884948,33.365024,-86.884948,33.365024],
-  "geometry": {"coordinates":[-86.884948,33.365024],"type":"Point"}
+  "bbox": [
+    -86.884948,
+    33.365024,
+    -86.884948,
+    33.365024
+],
+  "geometry": {"coordinates":[-86.88494799999999,33.365024],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152847941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.563081,34.710826,-86.563081,34.710826",
     "geom:latitude":34.710826,
     "geom:longitude":-86.563081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2702 Churchill Dr SE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818149,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85818149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152847941,
-    "wof:lastmodified":1449045988,
+    "wof:lastmodified":1466320150,
     "wof:name":"Rogers Jon G PHD",
     "wof:parent_id":85818149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.563081,34.710826,-86.563081,34.710826],
+  "bbox": [
+    -86.563081,
+    34.710826,
+    -86.563081,
+    34.710826
+],
   "geometry": {"coordinates":[-86.563081,34.710826],"type":"Point"}
 }

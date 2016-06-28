@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102497693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.839482,33.420906,-86.839482,33.420906",
     "geom:latitude":33.420906,
     "geom:longitude":-86.839482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2128 Shady Brook Ln",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085481,
-        85633793,
         85688675,
-        85834275
+        85633793,
+        85834275,
+        102085481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102497693,
-    "wof:lastmodified":1449070178,
+    "wof:lastmodified":1466316495,
     "wof:name":"Mkg Studios LLC",
     "wof:parent_id":85834275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.839482,33.420906,-86.839482,33.420906],
+  "bbox": [
+    -86.839482,
+    33.420906,
+    -86.839482,
+    33.420906
+],
   "geometry": {"coordinates":[-86.839482,33.420906],"type":"Point"}
 }

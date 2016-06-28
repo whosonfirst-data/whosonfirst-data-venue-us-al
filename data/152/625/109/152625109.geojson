@@ -2,13 +2,14 @@
   "id": 152625109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.255353,32.580913,-86.255353,32.580913",
     "geom:latitude":32.580913,
     "geom:longitude":-86.255353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Catfish Dr",
     "sg:city":"Wetumpka",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085631,
-        85633793,
         85688675,
-        85843379
+        85633793,
+        85843379,
+        102085631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152625109,
-    "wof:lastmodified":1449048966,
+    "wof:lastmodified":1466318961,
     "wof:name":"Jackson M Queen",
     "wof:parent_id":85843379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.255353,32.580913,-86.255353,32.580913],
+  "bbox": [
+    -86.255353,
+    32.580913,
+    -86.255353,
+    32.580913
+],
   "geometry": {"coordinates":[-86.255353,32.580913],"type":"Point"}
 }

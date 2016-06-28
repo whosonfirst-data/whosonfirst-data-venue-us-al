@@ -2,13 +2,14 @@
   "id": 152561345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.145552,31.891252,-85.145552,31.891252",
     "geom:latitude":31.891252,
     "geom:longitude":-85.145552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 S Eufaula Ave",
     "sg:city":"Eufaula",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152561345,
-    "wof:lastmodified":1449047577,
+    "wof:lastmodified":1466318629,
     "wof:name":"Shamblin Advertising",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.145552,31.891252,-85.145552,31.891252],
+  "bbox": [
+    -85.145552,
+    31.891252,
+    -85.145552,
+    31.891252
+],
   "geometry": {"coordinates":[-85.145552,31.891252],"type":"Point"}
 }

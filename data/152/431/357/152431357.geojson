@@ -2,13 +2,14 @@
   "id": 152431357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.060407,30.684131,-88.060407,30.684131",
     "geom:latitude":30.684131,
     "geom:longitude":-88.060407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1109 Government St",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878971,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152431357,
-    "wof:lastmodified":1449044928,
+    "wof:lastmodified":1466317995,
     "wof:name":"Sims & Sons Inc",
     "wof:parent_id":85878971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.060407,30.684131,-88.060407,30.684131],
+  "bbox": [
+    -88.060407,
+    30.684131,
+    -88.060407,
+    30.684131
+],
   "geometry": {"coordinates":[-88.060407,30.684131],"type":"Point"}
 }

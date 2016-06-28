@@ -2,13 +2,14 @@
   "id": 152432257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.7755,30.847874,-87.7755,30.847874",
     "geom:latitude":30.847874,
     "geom:longitude":-87.7755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2119 US Hwy 31",
     "sg:city":"Bay Minette",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813343,
+        85688675,
         85633793,
         85914703,
         102085469,
-        85688675
+        85813343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152432257,
-    "wof:lastmodified":1449044203,
+    "wof:lastmodified":1466318085,
     "wof:name":"Theresa's Seafood & Country",
     "wof:parent_id":85813343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.7755,30.847874,-87.7755,30.847874],
-  "geometry": {"coordinates":[-87.7755,30.847874],"type":"Point"}
+  "bbox": [
+    -87.7755,
+    30.847874,
+    -87.7755,
+    30.847874
+],
+  "geometry": {"coordinates":[-87.77549999999999,30.847874],"type":"Point"}
 }

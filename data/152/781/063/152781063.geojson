@@ -2,13 +2,14 @@
   "id": 152781063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.73735,33.54211,-86.73735,33.54211",
     "geom:latitude":33.54211,
     "geom:longitude":-86.73735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"475 Antwerp Ave",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854117,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85854117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152781063,
-    "wof:lastmodified":1449045164,
+    "wof:lastmodified":1466319739,
     "wof:name":"Neals Sign Service",
     "wof:parent_id":85854117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.73735,33.54211,-86.73735,33.54211],
-  "geometry": {"coordinates":[-86.73735,33.54211],"type":"Point"}
+  "bbox": [
+    -86.73735,
+    33.54211,
+    -86.73735,
+    33.54211
+],
+  "geometry": {"coordinates":[-86.73735000000001,33.54211],"type":"Point"}
 }

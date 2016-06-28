@@ -2,13 +2,14 @@
   "id": 152512831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.382916,31.731009,-88.382916,31.731009",
     "geom:latitude":31.731009,
     "geom:longitude":-88.382916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2857 Red Creek Rd",
     "sg:city":"Millry",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":152512831,
-    "wof:lastmodified":1449047663,
+    "wof:lastmodified":1466318410,
     "wof:name":"Horace Turner Jr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.382916,31.731009,-88.382916,31.731009],
-  "geometry": {"coordinates":[-88.382916,31.731009],"type":"Point"}
+  "bbox": [
+    -88.382916,
+    31.731009,
+    -88.382916,
+    31.731009
+],
+  "geometry": {"coordinates":[-88.38291599999999,31.731009],"type":"Point"}
 }

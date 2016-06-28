@@ -2,13 +2,14 @@
   "id": 152645491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.74108,34.681041,-86.74108,34.681041",
     "geom:latitude":34.681041,
     "geom:longitude":-86.74108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8650 Madison Blvd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831899,
+        85688675,
         85633793,
         85913593,
         102085487,
-        85688675,
+        85831899,
         85807231
     ],
     "wof:breaches":[],
@@ -62,14 +63,20 @@
         }
     ],
     "wof:id":152645491,
-    "wof:lastmodified":1449044769,
+    "wof:lastmodified":1466319293,
     "wof:name":"National Hearing Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.74108,34.681041,-86.74108,34.681041],
+  "bbox": [
+    -86.74108,
+    34.681041,
+    -86.74108,
+    34.681041
+],
   "geometry": {"coordinates":[-86.74108,34.681041],"type":"Point"}
 }

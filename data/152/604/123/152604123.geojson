@@ -2,13 +2,14 @@
   "id": 152604123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.630764,34.799735,-85.630764,34.799735",
     "geom:latitude":34.799735,
     "geom:longitude":-85.630764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1669 Co Rd 155",
     "sg:city":"Flat Rock",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85844901,
+        85688675,
         85633793,
         85897439,
         102085615,
-        85688675
+        85844901
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152604123,
-    "wof:lastmodified":1449048383,
+    "wof:lastmodified":1466318849,
     "wof:name":"Fairview Church Of God",
     "wof:parent_id":85844901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.630764,34.799735,-85.630764,34.799735],
+  "bbox": [
+    -85.630764,
+    34.799735,
+    -85.630764,
+    34.799735
+],
   "geometry": {"coordinates":[-85.630764,34.799735],"type":"Point"}
 }

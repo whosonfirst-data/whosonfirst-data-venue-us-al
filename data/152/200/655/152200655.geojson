@@ -2,13 +2,14 @@
   "id": 152200655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.401271,32.400587,-86.401271,32.400587",
     "geom:latitude":32.400587,
     "geom:longitude":-86.401271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4801 Birmingham Hwy",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856867,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85856867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152200655,
-    "wof:lastmodified":1449046159,
+    "wof:lastmodified":1466315943,
     "wof:name":"Edy's Grand Ice Cream",
     "wof:parent_id":85856867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.401271,32.400587,-86.401271,32.400587],
-  "geometry": {"coordinates":[-86.401271,32.400587],"type":"Point"}
+  "bbox": [
+    -86.401271,
+    32.400587,
+    -86.401271,
+    32.400587
+],
+  "geometry": {"coordinates":[-86.40127099999999,32.400587],"type":"Point"}
 }

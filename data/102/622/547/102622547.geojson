@@ -2,13 +2,14 @@
   "id": 102622547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.692375,33.659244,-86.692375,33.659244",
     "geom:latitude":33.659244,
     "geom:longitude":-86.692375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2816 3rd St NW",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854035,
+        85688675,
         85633793,
         85914903,
         102085481,
-        85688675
+        85854035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102622547,
-    "wof:lastmodified":1449069732,
+    "wof:lastmodified":1466317455,
     "wof:name":"Metatron LLC",
     "wof:parent_id":85854035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.692375,33.659244,-86.692375,33.659244],
+  "bbox": [
+    -86.692375,
+    33.659244,
+    -86.692375,
+    33.659244
+],
   "geometry": {"coordinates":[-86.692375,33.659244],"type":"Point"}
 }

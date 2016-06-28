@@ -2,13 +2,14 @@
   "id": 152513859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.892739,30.603904,-87.892739,30.603904",
     "geom:latitude":30.603904,
     "geom:longitude":-87.892739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1209 Daphne Ave",
     "sg:city":"Daphne",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.escoc.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827259,
+        85688675,
         85633793,
         85914695,
         102085469,
-        85688675
+        85827259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152513859,
-    "wof:lastmodified":1449047358,
+    "wof:lastmodified":1466318501,
     "wof:name":"Church Of Christ Of Eastern",
     "wof:parent_id":85827259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.892739,30.603904,-87.892739,30.603904],
-  "geometry": {"coordinates":[-87.892739,30.603904],"type":"Point"}
+  "bbox": [
+    -87.892739,
+    30.603904,
+    -87.892739,
+    30.603904
+],
+  "geometry": {"coordinates":[-87.89273900000001,30.603904],"type":"Point"}
 }

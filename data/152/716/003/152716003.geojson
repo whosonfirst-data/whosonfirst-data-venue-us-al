@@ -2,13 +2,14 @@
   "id": 152716003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.220157,32.551367,-86.220157,32.551367",
     "geom:latitude":32.551367,
     "geom:longitude":-86.220157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1251 Coosa River Pkwy",
     "sg:city":"Wetumpka",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806527,
+        85688675,
         85633793,
         85913951,
         102085631,
-        85688675
+        85806527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152716003,
-    "wof:lastmodified":1449044960,
+    "wof:lastmodified":1466319513,
     "wof:name":"Wetumpka High School",
     "wof:parent_id":85806527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.220157,32.551367,-86.220157,32.551367],
+  "bbox": [
+    -86.220157,
+    32.551367,
+    -86.220157,
+    32.551367
+],
   "geometry": {"coordinates":[-86.220157,32.551367],"type":"Point"}
 }

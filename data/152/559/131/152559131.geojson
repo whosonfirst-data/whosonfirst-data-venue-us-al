@@ -2,13 +2,14 @@
   "id": 152559131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.854004,30.239495,-87.854004,30.239495",
     "geom:latitude":30.239495,
     "geom:longitude":-87.854004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9930 State Rte 180",
     "sg:city":"Gulf Shores",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868551,
+        85688675,
         85633793,
         85914719,
         102085469,
-        85688675
+        85868551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152559131,
-    "wof:lastmodified":1449047908,
+    "wof:lastmodified":1466318620,
     "wof:name":"Meyer Real Estate",
     "wof:parent_id":85868551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.854004,30.239495,-87.854004,30.239495],
+  "bbox": [
+    -87.854004,
+    30.239495,
+    -87.854004,
+    30.239495
+],
   "geometry": {"coordinates":[-87.854004,30.239495],"type":"Point"}
 }

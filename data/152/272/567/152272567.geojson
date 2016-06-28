@@ -2,13 +2,14 @@
   "id": 152272567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.07678,30.752968,-88.07678,30.752968",
     "geom:latitude":30.752968,
     "geom:longitude":-88.07678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1751 N Wilson Ave",
     "sg:city":"Prichard",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837835,
+        85688675,
         85633793,
         85913741,
         102085585,
-        85688675
+        85837835
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152272567,
-    "wof:lastmodified":1449048605,
+    "wof:lastmodified":1466316744,
     "wof:name":"One Way Baptist Church",
     "wof:parent_id":85837835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.07678,30.752968,-88.07678,30.752968],
+  "bbox": [
+    -88.07678,
+    30.752968,
+    -88.07678,
+    30.752968
+],
   "geometry": {"coordinates":[-88.07678,30.752968],"type":"Point"}
 }

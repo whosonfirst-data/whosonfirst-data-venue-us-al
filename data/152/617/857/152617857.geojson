@@ -2,13 +2,14 @@
   "id": 152617857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.748125,34.772763,-86.748125,34.772763",
     "geom:latitude":34.772763,
     "geom:longitude":-86.748125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"931 Capshaw Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085487,
-        85633793,
         85688675,
-        85838413
+        85633793,
+        85838413,
+        102085487
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152617857,
-    "wof:lastmodified":1449044452,
+    "wof:lastmodified":1466318947,
     "wof:name":"Bug's Origin",
     "wof:parent_id":85838413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.748125,34.772763,-86.748125,34.772763],
+  "bbox": [
+    -86.748125,
+    34.772763,
+    -86.748125,
+    34.772763
+],
   "geometry": {"coordinates":[-86.748125,34.772763],"type":"Point"}
 }

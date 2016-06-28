@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102488641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.811648,33.482231,-86.811648,33.482231",
     "geom:latitude":33.482231,
     "geom:longitude":-86.811648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 Beacon Pkwy E",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.hillhouse.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821721,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85821721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102488641,
-    "wof:lastmodified":1449070155,
+    "wof:lastmodified":1466316083,
     "wof:name":"Hillhouse & Assoc LLC",
     "wof:parent_id":85821721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.811648,33.482231,-86.811648,33.482231],
-  "geometry": {"coordinates":[-86.811648,33.482231],"type":"Point"}
+  "bbox": [
+    -86.811648,
+    33.482231,
+    -86.811648,
+    33.482231
+],
+  "geometry": {"coordinates":[-86.81164800000001,33.482231],"type":"Point"}
 }

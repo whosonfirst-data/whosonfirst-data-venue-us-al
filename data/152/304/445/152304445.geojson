@@ -2,13 +2,14 @@
   "id": 152304445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.147078,30.69564,-88.147078,30.69564",
     "geom:latitude":30.69564,
     "geom:longitude":-88.147078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4513 Old Shell Rd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.shoptheholiday.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878991,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878991
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152304445,
-    "wof:lastmodified":1449047743,
+    "wof:lastmodified":1466317143,
     "wof:name":"Holiday Inc",
     "wof:parent_id":85878991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.147078,30.69564,-88.147078,30.69564],
-  "geometry": {"coordinates":[-88.147078,30.69564],"type":"Point"}
+  "bbox": [
+    -88.147078,
+    30.69564,
+    -88.147078,
+    30.69564
+],
+  "geometry": {"coordinates":[-88.14707799999999,30.69564],"type":"Point"}
 }

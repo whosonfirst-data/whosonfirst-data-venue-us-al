@@ -2,13 +2,14 @@
   "id": 152263097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.78105,33.528238,-86.78105,33.528238",
     "geom:latitude":33.528238,
     "geom:longitude":-86.78105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 38th St N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876275,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152263097,
-    "wof:lastmodified":1449048781,
+    "wof:lastmodified":1466316763,
     "wof:name":"Sunbelt Glass Inc",
     "wof:parent_id":85876275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.78105,33.528238,-86.78105,33.528238],
-  "geometry": {"coordinates":[-86.78105,33.528238],"type":"Point"}
+  "bbox": [
+    -86.78105,
+    33.528238,
+    -86.78105,
+    33.528238
+],
+  "geometry": {"coordinates":[-86.78104999999999,33.528238],"type":"Point"}
 }

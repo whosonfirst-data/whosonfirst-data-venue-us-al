@@ -2,13 +2,14 @@
   "id": 152259703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.851301,31.311187,-85.851301,31.311187",
     "geom:latitude":31.311187,
     "geom:longitude":-85.851301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 S Main St",
     "sg:city":"Enterprise",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848823,
+        85688675,
         85633793,
         85899527,
         102085699,
-        85688675
+        85848823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152259703,
-    "wof:lastmodified":1449045349,
+    "wof:lastmodified":1466316522,
     "wof:name":"Carlisle's On Main",
     "wof:parent_id":85848823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.851301,31.311187,-85.851301,31.311187],
-  "geometry": {"coordinates":[-85.851301,31.311187],"type":"Point"}
+  "bbox": [
+    -85.851301,
+    31.311187,
+    -85.851301,
+    31.311187
+],
+  "geometry": {"coordinates":[-85.85130100000001,31.311187],"type":"Point"}
 }

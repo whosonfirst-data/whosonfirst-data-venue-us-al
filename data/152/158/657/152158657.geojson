@@ -2,13 +2,14 @@
   "id": 152158657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.256816,33.171697,-86.256816,33.171697",
     "geom:latitude":33.171697,
     "geom:longitude":-86.256816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 W 3rd St",
     "sg:city":"Sylacauga",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834171,
+        85688675,
         85633793,
         85914133,
         102085517,
-        85688675
+        85834171
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152158657,
-    "wof:lastmodified":1449047376,
+    "wof:lastmodified":1466315023,
     "wof:name":"Campbell & Douglas",
     "wof:parent_id":85834171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.256816,33.171697,-86.256816,33.171697],
+  "bbox": [
+    -86.256816,
+    33.171697,
+    -86.256816,
+    33.171697
+],
   "geometry": {"coordinates":[-86.256816,33.171697],"type":"Point"}
 }

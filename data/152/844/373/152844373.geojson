@@ -2,13 +2,14 @@
   "id": 152844373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.621045,33.616348,-86.621045,33.616348",
     "geom:latitude":33.616348,
     "geom:longitude":-86.621045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 Dew Dr",
     "sg:city":"Trussville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808783,
+        85688675,
         85633793,
         85913473,
         102085481,
-        85688675
+        85808783
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152844373,
-    "wof:lastmodified":1449046285,
+    "wof:lastmodified":1466320079,
     "wof:name":"Jlm Group Inc",
     "wof:parent_id":85808783,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.621045,33.616348,-86.621045,33.616348],
+  "bbox": [
+    -86.621045,
+    33.616348,
+    -86.621045,
+    33.616348
+],
   "geometry": {"coordinates":[-86.621045,33.616348],"type":"Point"}
 }

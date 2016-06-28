@@ -2,13 +2,14 @@
   "id": 152836091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.735934,30.253941,-87.735934,30.253941",
     "geom:latitude":30.253941,
     "geom:longitude":-87.735934,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16707 State Rte 180",
     "sg:city":"Gulf Shores",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868551,
+        85688675,
         85633793,
         85914719,
         102085469,
-        85688675
+        85868551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152836091,
-    "wof:lastmodified":1449047346,
+    "wof:lastmodified":1466320012,
     "wof:name":"Lagoon Mobile Home Subdivision",
     "wof:parent_id":85868551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.735934,30.253941,-87.735934,30.253941],
+  "bbox": [
+    -87.735934,
+    30.253941,
+    -87.735934,
+    30.253941
+],
   "geometry": {"coordinates":[-87.735934,30.253941],"type":"Point"}
 }

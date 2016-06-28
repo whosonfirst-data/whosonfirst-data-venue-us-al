@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102452771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.614545,34.720046,-86.614545,34.720046",
     "geom:latitude":34.720046,
     "geom:longitude":-86.614545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3505 Governors Dr SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -33,11 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825531,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85825531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":102452771,
-    "wof:lastmodified":1449068367,
+    "wof:lastmodified":1466314794,
     "wof:name":"Interstate Battery Systems",
     "wof:parent_id":85825531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.614545,34.720046,-86.614545,34.720046],
-  "geometry": {"coordinates":[-86.614545,34.720046],"type":"Point"}
+  "bbox": [
+    -86.614545,
+    34.720046,
+    -86.614545,
+    34.720046
+],
+  "geometry": {"coordinates":[-86.61454500000001,34.720046],"type":"Point"}
 }

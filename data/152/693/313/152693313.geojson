@@ -2,13 +2,14 @@
   "id": 152693313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.87398,30.532503,-87.87398,30.532503",
     "geom:latitude":30.532503,
     "geom:longitude":-87.87398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21157 Meadow Brook Dr",
     "sg:city":"Fairhope",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854025,
+        85688675,
         85633793,
         85914707,
         102085469,
-        85688675
+        85854025
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152693313,
-    "wof:lastmodified":1449044562,
+    "wof:lastmodified":1466319312,
     "wof:name":"Peaden LLC",
     "wof:parent_id":85854025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.87398,30.532503,-87.87398,30.532503],
+  "bbox": [
+    -87.87398,
+    30.532503,
+    -87.87398,
+    30.532503
+],
   "geometry": {"coordinates":[-87.87398,30.532503],"type":"Point"}
 }

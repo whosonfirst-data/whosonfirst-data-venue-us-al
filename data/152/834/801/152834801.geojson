@@ -2,13 +2,14 @@
   "id": 152834801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.591637,34.708621,-86.591637,34.708621",
     "geom:latitude":34.708621,
     "geom:longitude":-86.591637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2607 Leeman Ferry Rd SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152834801,
-    "wof:lastmodified":1449044738,
+    "wof:lastmodified":1466320047,
     "wof:name":"Butcher Drafting Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.591637,34.708621,-86.591637,34.708621],
-  "geometry": {"coordinates":[-86.591637,34.708621],"type":"Point"}
+  "bbox": [
+    -86.591637,
+    34.708621,
+    -86.591637,
+    34.708621
+],
+  "geometry": {"coordinates":[-86.59163700000001,34.708621],"type":"Point"}
 }

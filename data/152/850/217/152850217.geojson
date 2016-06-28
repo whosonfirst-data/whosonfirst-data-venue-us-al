@@ -2,13 +2,14 @@
   "id": 152850217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.686991,34.818034,-87.686991,34.818034",
     "geom:latitude":34.818034,
     "geom:longitude":-87.686991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1224 N Pine St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848857,
+        85688675,
         85633793,
         85914011,
         102085527,
-        85688675
+        85848857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152850217,
-    "wof:lastmodified":1449046979,
+    "wof:lastmodified":1466319903,
     "wof:name":"Kennedy's Bridal & Formal",
     "wof:parent_id":85848857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.686991,34.818034,-87.686991,34.818034],
-  "geometry": {"coordinates":[-87.686991,34.818034],"type":"Point"}
+  "bbox": [
+    -87.686991,
+    34.818034,
+    -87.686991,
+    34.818034
+],
+  "geometry": {"coordinates":[-87.68699100000001,34.818034],"type":"Point"}
 }

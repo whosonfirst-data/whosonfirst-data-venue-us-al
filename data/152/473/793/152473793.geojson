@@ -2,13 +2,14 @@
   "id": 152473793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.964637,34.002702,-85.964637,34.002702",
     "geom:latitude":34.002702,
     "geom:longitude":-85.964637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1109 Hoke St",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.gcs.k12.al.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822279,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85822279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152473793,
-    "wof:lastmodified":1449045265,
+    "wof:lastmodified":1466318192,
     "wof:name":"Litchfield High School",
     "wof:parent_id":85822279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.964637,34.002702,-85.964637,34.002702],
+  "bbox": [
+    -85.964637,
+    34.002702,
+    -85.964637,
+    34.002702
+],
   "geometry": {"coordinates":[-85.964637,34.002702],"type":"Point"}
 }

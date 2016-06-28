@@ -2,13 +2,14 @@
   "id": 152758579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.595845,34.840725,-87.595845,34.840725",
     "geom:latitude":34.840725,
     "geom:longitude":-87.595845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3613 Florence Blvd",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085527,
-        85633793,
         85688675,
-        85829459
+        85633793,
+        85829459,
+        102085527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152758579,
-    "wof:lastmodified":1449045700,
+    "wof:lastmodified":1466319644,
     "wof:name":"Tractor Supply Co",
     "wof:parent_id":85829459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.595845,34.840725,-87.595845,34.840725],
+  "bbox": [
+    -87.595845,
+    34.840725,
+    -87.595845,
+    34.840725
+],
   "geometry": {"coordinates":[-87.595845,34.840725],"type":"Point"}
 }

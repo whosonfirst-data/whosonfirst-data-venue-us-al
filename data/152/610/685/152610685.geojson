@@ -2,13 +2,14 @@
   "id": 152610685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.571948,34.664693,-86.571948,34.664693",
     "geom:latitude":34.664693,
     "geom:longitude":-86.571948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7600 Memorial Pkwy SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819601,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85819601
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152610685,
-    "wof:lastmodified":1449048836,
+    "wof:lastmodified":1466318899,
     "wof:name":"Neuhart Tool Company",
     "wof:parent_id":85819601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.571948,34.664693,-86.571948,34.664693],
-  "geometry": {"coordinates":[-86.571948,34.664693],"type":"Point"}
+  "bbox": [
+    -86.571948,
+    34.664693,
+    -86.571948,
+    34.664693
+],
+  "geometry": {"coordinates":[-86.57194800000001,34.664693],"type":"Point"}
 }

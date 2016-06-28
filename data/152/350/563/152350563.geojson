@@ -2,13 +2,14 @@
   "id": 152350563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.200001,30.719529,-88.200001,30.719529",
     "geom:latitude":30.719529,
     "geom:longitude":-88.200001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6801 Overlook Rd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152350563,
-    "wof:lastmodified":1449046658,
+    "wof:lastmodified":1466317674,
     "wof:name":"Fire Station 1",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.200001,30.719529,-88.200001,30.719529],
+  "bbox": [
+    -88.200001,
+    30.719529,
+    -88.200001,
+    30.719529
+],
   "geometry": {"coordinates":[-88.200001,30.719529],"type":"Point"}
 }

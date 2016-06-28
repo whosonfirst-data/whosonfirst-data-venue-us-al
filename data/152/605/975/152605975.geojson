@@ -2,13 +2,14 @@
   "id": 152605975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.240899,32.35658,-86.240899,32.35658",
     "geom:latitude":32.35658,
     "geom:longitude":-86.240899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1342 Carmichael Way",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85839481,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85839481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152605975,
-    "wof:lastmodified":1449046560,
+    "wof:lastmodified":1466318903,
     "wof:name":"Homecorp",
     "wof:parent_id":85839481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.240899,32.35658,-86.240899,32.35658],
+  "bbox": [
+    -86.240899,
+    32.35658,
+    -86.240899,
+    32.35658
+],
   "geometry": {"coordinates":[-86.240899,32.35658],"type":"Point"}
 }

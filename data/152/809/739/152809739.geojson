@@ -2,13 +2,14 @@
   "id": 152809739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.367111,34.650031,-86.367111,34.650031",
     "geom:latitude":34.650031,
     "geom:longitude":-86.367111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 Stapler Rd",
     "sg:city":"Gurley",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878245,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152809739,
-    "wof:lastmodified":1449048081,
+    "wof:lastmodified":1466319898,
     "wof:name":"Cary L Hardee",
     "wof:parent_id":85878245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.367111,34.650031,-86.367111,34.650031],
-  "geometry": {"coordinates":[-86.367111,34.650031],"type":"Point"}
+  "bbox": [
+    -86.367111,
+    34.650031,
+    -86.367111,
+    34.650031
+],
+  "geometry": {"coordinates":[-86.36711099999999,34.650031],"type":"Point"}
 }

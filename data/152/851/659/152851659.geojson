@@ -2,13 +2,14 @@
   "id": 152851659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.5991,34.719837,-86.5991,34.719837",
     "geom:latitude":34.719837,
     "geom:longitude":-86.5991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2509 Governors Dr SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85855713,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85855713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152851659,
-    "wof:lastmodified":1449047340,
+    "wof:lastmodified":1466320153,
     "wof:name":"Bobs Gun and Pawn Shop",
     "wof:parent_id":85855713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.5991,34.719837,-86.5991,34.719837],
-  "geometry": {"coordinates":[-86.5991,34.719837],"type":"Point"}
+  "bbox": [
+    -86.5991,
+    34.719837,
+    -86.5991,
+    34.719837
+],
+  "geometry": {"coordinates":[-86.59910000000001,34.719837],"type":"Point"}
 }

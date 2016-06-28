@@ -2,13 +2,14 @@
   "id": 152129599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.895851,33.395111,-86.895851,33.395111",
     "geom:latitude":33.395111,
     "geom:longitude":-86.895851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3902 Angel Dr",
     "sg:city":"Bessemer",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840093,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85840093
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152129599,
-    "wof:lastmodified":1449048029,
+    "wof:lastmodified":1466314912,
     "wof:name":"Asset Liquidators Inc",
     "wof:parent_id":85840093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.895851,33.395111,-86.895851,33.395111],
-  "geometry": {"coordinates":[-86.895851,33.395111],"type":"Point"}
+  "bbox": [
+    -86.895851,
+    33.395111,
+    -86.895851,
+    33.395111
+],
+  "geometry": {"coordinates":[-86.89585099999999,33.395111],"type":"Point"}
 }

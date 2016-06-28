@@ -2,13 +2,14 @@
   "id": 152534083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.412355,31.240105,-85.412355,31.240105",
     "geom:latitude":31.240105,
     "geom:longitude":-85.412355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1864 Montgomery Hwy",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152534083,
-    "wof:lastmodified":1449045499,
+    "wof:lastmodified":1466318415,
     "wof:name":"MRC Mechanics Warehouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.412355,31.240105,-85.412355,31.240105],
-  "geometry": {"coordinates":[-85.412355,31.240105],"type":"Point"}
+  "bbox": [
+    -85.412355,
+    31.240105,
+    -85.412355,
+    31.240105
+],
+  "geometry": {"coordinates":[-85.41235500000001,31.240105],"type":"Point"}
 }

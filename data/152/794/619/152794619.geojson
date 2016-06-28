@@ -2,13 +2,14 @@
   "id": 152794619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.903057,30.529007,-87.903057,30.529007",
     "geom:latitude":30.529007,
     "geom:longitude":-87.903057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"462 N Section St",
     "sg:city":"Fairhope",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854025,
+        85688675,
         85633793,
         85914707,
         102085469,
-        85688675
+        85854025
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152794619,
-    "wof:lastmodified":1449046523,
+    "wof:lastmodified":1466319808,
     "wof:name":"Emz Trimz",
     "wof:parent_id":85854025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.903057,30.529007,-87.903057,30.529007],
+  "bbox": [
+    -87.903057,
+    30.529007,
+    -87.903057,
+    30.529007
+],
   "geometry": {"coordinates":[-87.903057,30.529007],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152347249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.715949,33.494227,-86.715949,33.494227",
     "geom:latitude":33.494227,
     "geom:longitude":-86.715949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3617 Oakdale Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085481,
-        85633793,
         85688675,
-        85810623
+        85633793,
+        85810623,
+        102085481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152347249,
-    "wof:lastmodified":1449046539,
+    "wof:lastmodified":1466317649,
     "wof:name":"Alloy Metal Products Inc",
     "wof:parent_id":85810623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.715949,33.494227,-86.715949,33.494227],
-  "geometry": {"coordinates":[-86.715949,33.494227],"type":"Point"}
+  "bbox": [
+    -86.715949,
+    33.494227,
+    -86.715949,
+    33.494227
+],
+  "geometry": {"coordinates":[-86.71594899999999,33.494227],"type":"Point"}
 }

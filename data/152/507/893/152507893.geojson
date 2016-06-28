@@ -2,13 +2,14 @@
   "id": 152507893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.5949,33.670709,-86.5949,33.670709",
     "geom:latitude":33.670709,
     "geom:longitude":-86.5949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5899 Trussville Clay Rd",
     "sg:city":"Trussville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85835401,
+        85688675,
         85633793,
         85913473,
         102085481,
-        85688675
+        85835401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152507893,
-    "wof:lastmodified":1449046677,
+    "wof:lastmodified":1466318394,
     "wof:name":"Family Christian Stores 403",
     "wof:parent_id":85835401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.5949,33.670709,-86.5949,33.670709],
+  "bbox": [
+    -86.5949,
+    33.670709,
+    -86.5949,
+    33.670709
+],
   "geometry": {"coordinates":[-86.5949,33.670709],"type":"Point"}
 }

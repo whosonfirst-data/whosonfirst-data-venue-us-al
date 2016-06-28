@@ -2,13 +2,14 @@
   "id": 152592707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.133881,33.995389,-86.133881,33.995389",
     "geom:latitude":33.995389,
     "geom:longitude":-86.133881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3050 US Hwy 11 S",
     "sg:city":"Attalla",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085545,
-        85633793,
         85688675,
-        85851221
+        85633793,
+        85851221,
+        102085545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152592707,
-    "wof:lastmodified":1449046955,
+    "wof:lastmodified":1466319015,
     "wof:name":"Galaxy Electronics",
     "wof:parent_id":85851221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.133881,33.995389,-86.133881,33.995389],
+  "bbox": [
+    -86.133881,
+    33.995389,
+    -86.133881,
+    33.995389
+],
   "geometry": {"coordinates":[-86.133881,33.995389],"type":"Point"}
 }

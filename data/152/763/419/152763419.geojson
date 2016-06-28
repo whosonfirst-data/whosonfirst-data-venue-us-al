@@ -2,13 +2,14 @@
   "id": 152763419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.641083,33.574132,-86.641083,33.574132",
     "geom:latitude":33.574132,
     "geom:longitude":-86.641083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2447 Alton Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831535,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85831535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":152763419,
-    "wof:lastmodified":1449048890,
+    "wof:lastmodified":1466319634,
     "wof:name":"Alton Manufacturing Co Inc",
     "wof:parent_id":85831535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.641083,33.574132,-86.641083,33.574132],
-  "geometry": {"coordinates":[-86.641083,33.574132],"type":"Point"}
+  "bbox": [
+    -86.641083,
+    33.574132,
+    -86.641083,
+    33.574132
+],
+  "geometry": {"coordinates":[-86.64108299999999,33.574132],"type":"Point"}
 }

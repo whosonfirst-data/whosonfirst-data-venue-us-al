@@ -2,13 +2,14 @@
   "id": 152767055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.00529,34.012911,-86.00529,34.012911",
     "geom:latitude":34.012911,
     "geom:longitude":-86.00529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 S 5th St",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -33,11 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822279,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85822279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":152767055,
-    "wof:lastmodified":1449045620,
+    "wof:lastmodified":1466319657,
     "wof:name":"1 Hour Express Photo One",
     "wof:parent_id":85822279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.00529,34.012911,-86.00529,34.012911],
+  "bbox": [
+    -86.00529,
+    34.012911,
+    -86.00529,
+    34.012911
+],
   "geometry": {"coordinates":[-86.00529,34.012911],"type":"Point"}
 }

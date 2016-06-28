@@ -2,13 +2,14 @@
   "id": 152810987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.968818,31.809254,-85.968818,31.809254",
     "geom:latitude":31.809254,
     "geom:longitude":-85.968818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 E Academy St",
     "sg:city":"Troy",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867313,
+        85688675,
         85633793,
         85914551,
         102085619,
-        85688675
+        85867313
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152810987,
-    "wof:lastmodified":1449045645,
+    "wof:lastmodified":1466319879,
     "wof:name":"Harrison Funeral Home",
     "wof:parent_id":85867313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.968818,31.809254,-85.968818,31.809254],
+  "bbox": [
+    -85.968818,
+    31.809254,
+    -85.968818,
+    31.809254
+],
   "geometry": {"coordinates":[-85.968818,31.809254],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152428373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.352833,32.380102,-86.352833,32.380102",
     "geom:latitude":32.380102,
     "geom:longitude":-86.352833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"551 Maxwell Blvd E",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856867,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85856867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152428373,
-    "wof:lastmodified":1449048606,
+    "wof:lastmodified":1466317962,
     "wof:name":"Communications & Info Off",
     "wof:parent_id":85856867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.352833,32.380102,-86.352833,32.380102],
+  "bbox": [
+    -86.352833,
+    32.380102,
+    -86.352833,
+    32.380102
+],
   "geometry": {"coordinates":[-86.352833,32.380102],"type":"Point"}
 }

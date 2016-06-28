@@ -2,13 +2,14 @@
   "id": 152246251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.091491,34.821236,-87.091491,34.821236",
     "geom:latitude":34.821236,
     "geom:longitude":-87.091491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12648 New Cut Rd",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829531,
+        85688675,
         85633793,
         85913543,
         102085489,
-        85688675
+        85829531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152246251,
-    "wof:lastmodified":1449044613,
+    "wof:lastmodified":1466316497,
     "wof:name":"Oakland Church of Christ Inc",
     "wof:parent_id":85829531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.091491,34.821236,-87.091491,34.821236],
+  "bbox": [
+    -87.091491,
+    34.821236,
+    -87.091491,
+    34.821236
+],
   "geometry": {"coordinates":[-87.091491,34.821236],"type":"Point"}
 }

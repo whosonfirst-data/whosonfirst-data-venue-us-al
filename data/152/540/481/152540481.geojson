@@ -2,13 +2,14 @@
   "id": 152540481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.25373,32.337225,-86.25373,32.337225",
     "geom:latitude":32.337225,
     "geom:longitude":-86.25373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3150 Mc Gehee Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879047,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152540481,
-    "wof:lastmodified":1449046129,
+    "wof:lastmodified":1466318542,
     "wof:name":"Bromberg & Co",
     "wof:parent_id":85879047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.25373,32.337225,-86.25373,32.337225],
+  "bbox": [
+    -86.25373,
+    32.337225,
+    -86.25373,
+    32.337225
+],
   "geometry": {"coordinates":[-86.25373,32.337225],"type":"Point"}
 }

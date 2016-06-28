@@ -2,13 +2,14 @@
   "id": 152824879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.852234,32.881417,-85.852234,32.881417",
     "geom:latitude":32.881417,
     "geom:longitude":-85.852234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11133 US Hwy 280",
     "sg:city":"Jacksons Gap",
     "sg:classifiers":[
@@ -28,12 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085567,
-        85633793,
         85688675,
+        85633793,
         85853455,
-        85822913,
-        85913309
+        102085567,
+        85913309,
+        85822913
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":152824879,
-    "wof:lastmodified":1449045955,
+    "wof:lastmodified":1466320116,
     "wof:name":"Lake Martin Garage Towing Tire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.852234,32.881417,-85.852234,32.881417],
+  "bbox": [
+    -85.852234,
+    32.881417,
+    -85.852234,
+    32.881417
+],
   "geometry": {"coordinates":[-85.852234,32.881417],"type":"Point"}
 }

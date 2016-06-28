@@ -2,13 +2,14 @@
   "id": 152291371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.84079,30.676703,-87.84079,30.676703",
     "geom:latitude":30.676703,
     "geom:longitude":-87.84079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10670 US Hwy 31",
     "sg:city":"Spanish Fort",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807399,
+        85688675,
         85633793,
         85914741,
         102085469,
-        85688675
+        85807399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152291371,
-    "wof:lastmodified":1449045731,
+    "wof:lastmodified":1466317217,
     "wof:name":"Advanced Transmission Inc",
     "wof:parent_id":85807399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.84079,30.676703,-87.84079,30.676703],
+  "bbox": [
+    -87.84079,
+    30.676703,
+    -87.84079,
+    30.676703
+],
   "geometry": {"coordinates":[-87.84079,30.676703],"type":"Point"}
 }

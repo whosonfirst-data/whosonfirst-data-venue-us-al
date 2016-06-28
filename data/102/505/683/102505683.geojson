@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102505683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.041925,30.683212,-88.041925,30.683212",
     "geom:latitude":30.683212,
     "geom:longitude":-88.041925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"153 Canal St",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895797,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85895797
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102505683,
-    "wof:lastmodified":1449069760,
+    "wof:lastmodified":1466316647,
     "wof:name":"Jail Busters Inc",
     "wof:parent_id":85895797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.041925,30.683212,-88.041925,30.683212],
-  "geometry": {"coordinates":[-88.041925,30.683212],"type":"Point"}
+  "bbox": [
+    -88.041925,
+    30.683212,
+    -88.041925,
+    30.683212
+],
+  "geometry": {"coordinates":[-88.04192500000001,30.683212],"type":"Point"}
 }

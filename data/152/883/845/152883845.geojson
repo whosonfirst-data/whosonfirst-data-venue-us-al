@@ -2,13 +2,14 @@
   "id": 152883845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.178576,32.554447,-86.178576,32.554447",
     "geom:latitude":32.554447,
     "geom:longitude":-86.178576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 Jeanette E Barrett Blvd",
     "sg:city":"Wetumpka",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851843,
+        85688675,
         85633793,
         85913951,
         102085631,
-        85688675
+        85851843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":152883845,
-    "wof:lastmodified":1449047827,
+    "wof:lastmodified":1466320288,
     "wof:name":"Therma Masters LLC",
     "wof:parent_id":85851843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.178576,32.554447,-86.178576,32.554447],
-  "geometry": {"coordinates":[-86.178576,32.554447],"type":"Point"}
+  "bbox": [
+    -86.178576,
+    32.554447,
+    -86.178576,
+    32.554447
+],
+  "geometry": {"coordinates":[-86.17857600000001,32.554447],"type":"Point"}
 }

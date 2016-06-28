@@ -2,13 +2,14 @@
   "id": 152338929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.56692,34.624835,-86.56692,34.624835",
     "geom:latitude":34.624835,
     "geom:longitude":-86.56692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11521 Memorial Pkwy SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85844231,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85844231
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152338929,
-    "wof:lastmodified":1449045908,
+    "wof:lastmodified":1466317558,
     "wof:name":"David Allen Body Shop",
     "wof:parent_id":85844231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.56692,34.624835,-86.56692,34.624835],
+  "bbox": [
+    -86.56692,
+    34.624835,
+    -86.56692,
+    34.624835
+],
   "geometry": {"coordinates":[-86.56692,34.624835],"type":"Point"}
 }

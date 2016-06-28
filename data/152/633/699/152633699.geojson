@@ -2,13 +2,14 @@
   "id": 152633699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.980268,34.583069,-86.980268,34.583069",
     "geom:latitude":34.583069,
     "geom:longitude":-86.980268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1514 6th Ave SE",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818653,
+        85688675,
         85633793,
         85913589,
         102085531,
-        85688675
+        85818653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":152633699,
-    "wof:lastmodified":1449048870,
+    "wof:lastmodified":1466319151,
     "wof:name":"Beach Tan Spa",
     "wof:parent_id":85818653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.980268,34.583069,-86.980268,34.583069],
+  "bbox": [
+    -86.980268,
+    34.583069,
+    -86.980268,
+    34.583069
+],
   "geometry": {"coordinates":[-86.980268,34.583069],"type":"Point"}
 }

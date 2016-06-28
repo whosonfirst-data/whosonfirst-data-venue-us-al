@@ -2,13 +2,14 @@
   "id": 152355691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.784932,33.344484,-86.784932,33.344484",
     "geom:latitude":33.344484,
     "geom:longitude":-86.784932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Cahaba Valley Pkwy N",
     "sg:city":"Pelham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85826867,
+        85688675,
         85633793,
         85914501,
         102085499,
-        85688675
+        85826867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152355691,
-    "wof:lastmodified":1449045587,
+    "wof:lastmodified":1466317642,
     "wof:name":"Crane America Services Inc",
     "wof:parent_id":85826867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.784932,33.344484,-86.784932,33.344484],
+  "bbox": [
+    -86.784932,
+    33.344484,
+    -86.784932,
+    33.344484
+],
   "geometry": {"coordinates":[-86.784932,33.344484],"type":"Point"}
 }

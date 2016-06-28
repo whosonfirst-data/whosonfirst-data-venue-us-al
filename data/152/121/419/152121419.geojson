@@ -2,13 +2,14 @@
   "id": 152121419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.566851,34.740644,-86.566851,34.740644",
     "geom:latitude":34.740644,
     "geom:longitude":-86.566851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1522 Beirne Ave NE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819449,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85819449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152121419,
-    "wof:lastmodified":1449047908,
+    "wof:lastmodified":1466314566,
     "wof:name":"Alabama Green Lawn Svc",
     "wof:parent_id":85819449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.566851,34.740644,-86.566851,34.740644],
+  "bbox": [
+    -86.566851,
+    34.740644,
+    -86.566851,
+    34.740644
+],
   "geometry": {"coordinates":[-86.566851,34.740644],"type":"Point"}
 }

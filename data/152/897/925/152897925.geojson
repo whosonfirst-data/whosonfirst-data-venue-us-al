@@ -2,13 +2,14 @@
   "id": 152897925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.720559,34.677747,-85.720559,34.677747",
     "geom:latitude":34.677747,
     "geom:longitude":-85.720559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1068 Co Rd 371",
     "sg:city":"Henagar",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85844901,
+        85688675,
         85633793,
         85897439,
         102085615,
-        85688675
+        85844901
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152897925,
-    "wof:lastmodified":1449048165,
+    "wof:lastmodified":1466320357,
     "wof:name":"Dusty Dawn Farm",
     "wof:parent_id":85844901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.720559,34.677747,-85.720559,34.677747],
-  "geometry": {"coordinates":[-85.720559,34.677747],"type":"Point"}
+  "bbox": [
+    -85.720559,
+    34.677747,
+    -85.720559,
+    34.677747
+],
+  "geometry": {"coordinates":[-85.72055899999999,34.677747],"type":"Point"}
 }

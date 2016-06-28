@@ -2,13 +2,14 @@
   "id": 152575775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.035472,31.249015,-86.035472,31.249015",
     "geom:latitude":31.249015,
     "geom:longitude":-86.035472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1032 Co Rd 636",
     "sg:city":"Elba",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848823,
+        85688675,
         85633793,
         85899527,
         102085699,
-        85688675
+        85848823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152575775,
-    "wof:lastmodified":1449045642,
+    "wof:lastmodified":1466318659,
     "wof:name":"Ray Davis Tile Installation",
     "wof:parent_id":85848823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.035472,31.249015,-86.035472,31.249015],
+  "bbox": [
+    -86.035472,
+    31.249015,
+    -86.035472,
+    31.249015
+],
   "geometry": {"coordinates":[-86.035472,31.249015],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102508673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.277544,32.417642,-86.277544,32.417642",
     "geom:latitude":32.417642,
     "geom:longitude":-86.277544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"545 E Vandiver Blvd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806939,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85806939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102508673,
-    "wof:lastmodified":1449069089,
+    "wof:lastmodified":1466316650,
     "wof:name":"Montgomery City Community Ctr",
     "wof:parent_id":85806939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.277544,32.417642,-86.277544,32.417642],
-  "geometry": {"coordinates":[-86.277544,32.417642],"type":"Point"}
+  "bbox": [
+    -86.277544,
+    32.417642,
+    -86.277544,
+    32.417642
+],
+  "geometry": {"coordinates":[-86.27754400000001,32.417642],"type":"Point"}
 }

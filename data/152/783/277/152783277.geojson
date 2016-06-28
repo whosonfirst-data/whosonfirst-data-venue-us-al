@@ -2,13 +2,14 @@
   "id": 152783277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.45002,34.875872,-86.45002,34.875872",
     "geom:latitude":34.875872,
     "geom:longitude":-86.45002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4355 Winchester Rd",
     "sg:city":"New Market",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152783277,
-    "wof:lastmodified":1449044441,
+    "wof:lastmodified":1466319749,
     "wof:name":"John D Petty Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.45002,34.875872,-86.45002,34.875872],
-  "geometry": {"coordinates":[-86.45002,34.875872],"type":"Point"}
+  "bbox": [
+    -86.45002,
+    34.875872,
+    -86.45002,
+    34.875872
+],
+  "geometry": {"coordinates":[-86.45001999999999,34.875872],"type":"Point"}
 }

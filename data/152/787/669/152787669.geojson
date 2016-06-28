@@ -2,13 +2,14 @@
   "id": 152787669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.742568,30.418202,-87.742568,30.418202",
     "geom:latitude":30.418202,
     "geom:longitude":-87.742568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13317 Co Rd 55",
     "sg:city":"Foley",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854025,
+        85688675,
         85633793,
         85914707,
         102085469,
-        85688675
+        85854025
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152787669,
-    "wof:lastmodified":1449046401,
+    "wof:lastmodified":1466319767,
     "wof:name":"Magnolia School",
     "wof:parent_id":85854025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.742568,30.418202,-87.742568,30.418202],
-  "geometry": {"coordinates":[-87.742568,30.418202],"type":"Point"}
+  "bbox": [
+    -87.742568,
+    30.418202,
+    -87.742568,
+    30.418202
+],
+  "geometry": {"coordinates":[-87.74256800000001,30.418202],"type":"Point"}
 }

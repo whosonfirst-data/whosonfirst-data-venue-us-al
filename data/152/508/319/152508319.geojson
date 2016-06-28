@@ -2,13 +2,14 @@
   "id": 152508319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.55643,33.18652,-87.55643,33.18652",
     "geom:latitude":33.18652,
     "geom:longitude":-87.55643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2725 Greensboro Ave",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152508319,
-    "wof:lastmodified":1449046891,
+    "wof:lastmodified":1466318487,
     "wof:name":"Westala Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.55643,33.18652,-87.55643,33.18652],
-  "geometry": {"coordinates":[-87.55643,33.18652],"type":"Point"}
+  "bbox": [
+    -87.55643,
+    33.18652,
+    -87.55643,
+    33.18652
+],
+  "geometry": {"coordinates":[-87.55643000000001,33.18652],"type":"Point"}
 }

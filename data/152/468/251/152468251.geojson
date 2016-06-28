@@ -2,13 +2,14 @@
   "id": 152468251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.593711,34.701584,-86.593711,34.701584",
     "geom:latitude":34.701584,
     "geom:longitude":-86.593711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2117 Metro Cir SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85841535,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85841535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152468251,
-    "wof:lastmodified":1449047607,
+    "wof:lastmodified":1466318159,
     "wof:name":"Tornado Shelters Inc",
     "wof:parent_id":85841535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.593711,34.701584,-86.593711,34.701584],
+  "bbox": [
+    -86.593711,
+    34.701584,
+    -86.593711,
+    34.701584
+],
   "geometry": {"coordinates":[-86.593711,34.701584],"type":"Point"}
 }

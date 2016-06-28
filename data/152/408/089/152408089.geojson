@@ -2,13 +2,14 @@
   "id": 152408089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.831155,34.179975,-86.831155,34.179975",
     "geom:latitude":34.179975,
     "geom:longitude":-86.831155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1115 US Hwy 278",
     "sg:city":"Cullman",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867305,
+        85688675,
         85633793,
         85914167,
         102085729,
-        85688675
+        85867305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152408089,
-    "wof:lastmodified":1449044874,
+    "wof:lastmodified":1466317878,
     "wof:name":"East Point Church Of God",
     "wof:parent_id":85867305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.831155,34.179975,-86.831155,34.179975],
+  "bbox": [
+    -86.831155,
+    34.179975,
+    -86.831155,
+    34.179975
+],
   "geometry": {"coordinates":[-86.831155,34.179975],"type":"Point"}
 }

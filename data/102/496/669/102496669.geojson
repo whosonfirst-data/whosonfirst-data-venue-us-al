@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102496669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.478659,32.598877,-85.478659,32.598877",
     "geom:latitude":32.598877,
     "geom:longitude":-85.478659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"347 Armstrong St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819999,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85819999
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102496669,
-    "wof:lastmodified":1449069800,
+    "wof:lastmodified":1466316289,
     "wof:name":"Rock Foundation",
     "wof:parent_id":85819999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.478659,32.598877,-85.478659,32.598877],
-  "geometry": {"coordinates":[-85.478659,32.598877],"type":"Point"}
+  "bbox": [
+    -85.478659,
+    32.598877,
+    -85.478659,
+    32.598877
+],
+  "geometry": {"coordinates":[-85.47865899999999,32.598877],"type":"Point"}
 }

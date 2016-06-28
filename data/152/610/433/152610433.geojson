@@ -2,13 +2,14 @@
   "id": 152610433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.206765,32.400966,-86.206765,32.400966",
     "geom:latitude":32.400966,
     "geom:longitude":-86.206765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"906 Plantation Way",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834995,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85834995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152610433,
-    "wof:lastmodified":1449048830,
+    "wof:lastmodified":1466318882,
     "wof:name":"Commserv Mobile Communications",
     "wof:parent_id":85834995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.206765,32.400966,-86.206765,32.400966],
+  "bbox": [
+    -86.206765,
+    32.400966,
+    -86.206765,
+    32.400966
+],
   "geometry": {"coordinates":[-86.206765,32.400966],"type":"Point"}
 }

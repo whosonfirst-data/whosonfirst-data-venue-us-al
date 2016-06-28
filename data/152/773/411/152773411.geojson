@@ -2,13 +2,14 @@
   "id": 152773411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.173009,34.589718,-87.173009,34.589718",
     "geom:latitude":34.589718,
     "geom:longitude":-87.173009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"340 Co Rd 379",
     "sg:city":"Trinity",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085601,
-        85633793,
         85688675,
-        85851971
+        85633793,
+        85851971,
+        102085601
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152773411,
-    "wof:lastmodified":1449044888,
+    "wof:lastmodified":1466319794,
     "wof:name":"Tilley's Paint & Repair",
     "wof:parent_id":85851971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.173009,34.589718,-87.173009,34.589718],
-  "geometry": {"coordinates":[-87.173009,34.589718],"type":"Point"}
+  "bbox": [
+    -87.173009,
+    34.589718,
+    -87.173009,
+    34.589718
+],
+  "geometry": {"coordinates":[-87.17300899999999,34.589718],"type":"Point"}
 }

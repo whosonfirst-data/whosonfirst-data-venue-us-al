@@ -2,13 +2,14 @@
   "id": 152795351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.279155,33.517182,-86.279155,33.517182",
     "geom:latitude":33.517182,
     "geom:longitude":-86.279155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 View Point Cir",
     "sg:city":"Pell City",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85826525,
+        85688675,
         85633793,
         85913409,
         102085647,
-        85688675
+        85826525
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152795351,
-    "wof:lastmodified":1449047034,
+    "wof:lastmodified":1466319820,
     "wof:name":"Landis Antique Mall",
     "wof:parent_id":85826525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.279155,33.517182,-86.279155,33.517182],
+  "bbox": [
+    -86.279155,
+    33.517182,
+    -86.279155,
+    33.517182
+],
   "geometry": {"coordinates":[-86.279155,33.517182],"type":"Point"}
 }

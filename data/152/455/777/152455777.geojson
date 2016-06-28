@@ -2,13 +2,14 @@
   "id": 152455777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.284982,32.549602,-86.284982,32.549602",
     "geom:latitude":32.549602,
     "geom:longitude":-86.284982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5130 Elmore Rd",
     "sg:city":"Wetumpka",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085631,
-        85633793,
         85688675,
-        85843379
+        85633793,
+        85843379,
+        102085631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152455777,
-    "wof:lastmodified":1449048176,
+    "wof:lastmodified":1466318216,
     "wof:name":"New Home Mssnary Baptst Church",
     "wof:parent_id":85843379,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.284982,32.549602,-86.284982,32.549602],
+  "bbox": [
+    -86.284982,
+    32.549602,
+    -86.284982,
+    32.549602
+],
   "geometry": {"coordinates":[-86.284982,32.549602],"type":"Point"}
 }

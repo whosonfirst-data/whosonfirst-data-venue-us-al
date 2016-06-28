@@ -2,13 +2,14 @@
   "id": 152728381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.015628,34.026342,-86.015628,34.026342",
     "geom:latitude":34.026342,
     "geom:longitude":-86.015628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 Spring St",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805515,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675,
+        85805515,
         85822279
     ],
     "wof:breaches":[],
@@ -60,14 +61,20 @@
         }
     ],
     "wof:id":152728381,
-    "wof:lastmodified":1449045370,
+    "wof:lastmodified":1466319538,
     "wof:name":"Lowe's Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.015628,34.026342,-86.015628,34.026342],
-  "geometry": {"coordinates":[-86.015628,34.026342],"type":"Point"}
+  "bbox": [
+    -86.015628,
+    34.026342,
+    -86.015628,
+    34.026342
+],
+  "geometry": {"coordinates":[-86.01562800000001,34.026342],"type":"Point"}
 }

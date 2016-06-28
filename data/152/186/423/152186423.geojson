@@ -2,13 +2,14 @@
   "id": 152186423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.927162,34.824364,-85.927162,34.824364",
     "geom:latitude":34.824364,
     "geom:longitude":-85.927162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Co Rd 55",
     "sg:city":"Fackler",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809451,
+        85688675,
         85633793,
         85914033,
         102085607,
-        85688675
+        85809451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152186423,
-    "wof:lastmodified":1449047915,
+    "wof:lastmodified":1466315751,
     "wof:name":"Roaches Cove Mssnry Bapt Chr",
     "wof:parent_id":85809451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.927162,34.824364,-85.927162,34.824364],
+  "bbox": [
+    -85.927162,
+    34.824364,
+    -85.927162,
+    34.824364
+],
   "geometry": {"coordinates":[-85.927162,34.824364],"type":"Point"}
 }

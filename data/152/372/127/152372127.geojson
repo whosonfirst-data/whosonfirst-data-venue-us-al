@@ -2,13 +2,14 @@
   "id": 152372127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.447965,32.456752,-86.447965,32.456752",
     "geom:latitude":32.456752,
     "geom:longitude":-86.447965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"973 S Memorial Dr",
     "sg:city":"Prattville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843041,
+        85688675,
         85633793,
         85913977,
         102085509,
-        85688675
+        85843041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152372127,
-    "wof:lastmodified":1449047104,
+    "wof:lastmodified":1466317683,
     "wof:name":"Attitudes Salon",
     "wof:parent_id":85843041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.447965,32.456752,-86.447965,32.456752],
+  "bbox": [
+    -86.447965,
+    32.456752,
+    -86.447965,
+    32.456752
+],
   "geometry": {"coordinates":[-86.447965,32.456752],"type":"Point"}
 }

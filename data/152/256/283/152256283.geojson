@@ -2,13 +2,14 @@
   "id": 152256283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.97007,33.370775,-86.97007,33.370775",
     "geom:latitude":33.370775,
     "geom:longitude":-86.97007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Belview St",
     "sg:city":"Bessemer",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152256283,
-    "wof:lastmodified":1449047813,
+    "wof:lastmodified":1466316498,
     "wof:name":"Jemison Steel Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.97007,33.370775,-86.97007,33.370775],
-  "geometry": {"coordinates":[-86.97007,33.370775],"type":"Point"}
+  "bbox": [
+    -86.97007,
+    33.370775,
+    -86.97007,
+    33.370775
+],
+  "geometry": {"coordinates":[-86.97007000000001,33.370775],"type":"Point"}
 }

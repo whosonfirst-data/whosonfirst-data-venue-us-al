@@ -2,13 +2,14 @@
   "id": 152359455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.249759,33.526153,-86.249759,33.526153",
     "geom:latitude":33.526153,
     "geom:longitude":-86.249759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1680 Funderburg Bend Rd",
     "sg:city":"Pell City",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85826525,
+        85688675,
         85633793,
         85913409,
         102085647,
-        85688675
+        85826525
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152359455,
-    "wof:lastmodified":1449044216,
+    "wof:lastmodified":1466317623,
     "wof:name":"A B Air Mechanical",
     "wof:parent_id":85826525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.249759,33.526153,-86.249759,33.526153],
+  "bbox": [
+    -86.249759,
+    33.526153,
+    -86.249759,
+    33.526153
+],
   "geometry": {"coordinates":[-86.249759,33.526153],"type":"Point"}
 }

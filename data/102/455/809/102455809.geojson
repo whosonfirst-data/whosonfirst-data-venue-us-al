@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102455809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.405412,31.255387,-85.405412,31.255387",
     "geom:latitude":31.255387,
     "geom:longitude":-85.405412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"608 Rogers Rd",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.con-way.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848307,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85848307
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102455809,
-    "wof:lastmodified":1449069772,
+    "wof:lastmodified":1466314901,
     "wof:name":"Con-Way Southern Express",
     "wof:parent_id":85848307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.405412,31.255387,-85.405412,31.255387],
+  "bbox": [
+    -85.405412,
+    31.255387,
+    -85.405412,
+    31.255387
+],
   "geometry": {"coordinates":[-85.405412,31.255387],"type":"Point"}
 }

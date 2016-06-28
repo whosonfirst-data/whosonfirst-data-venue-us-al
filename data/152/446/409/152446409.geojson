@@ -2,13 +2,14 @@
   "id": 152446409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.966591,31.803051,-85.966591,31.803051",
     "geom:latitude":31.803051,
     "geom:longitude":-85.966591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"519 S Brundidge St",
     "sg:city":"Troy",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867313,
+        85688675,
         85633793,
         85914551,
         102085619,
-        85688675
+        85867313
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152446409,
-    "wof:lastmodified":1449048524,
+    "wof:lastmodified":1466318054,
     "wof:name":"Jones Medical Supply",
     "wof:parent_id":85867313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.966591,31.803051,-85.966591,31.803051],
-  "geometry": {"coordinates":[-85.966591,31.803051],"type":"Point"}
+  "bbox": [
+    -85.966591,
+    31.803051,
+    -85.966591,
+    31.803051
+],
+  "geometry": {"coordinates":[-85.96659099999999,31.803051],"type":"Point"}
 }

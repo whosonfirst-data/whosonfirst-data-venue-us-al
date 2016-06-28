@@ -2,13 +2,14 @@
   "id": 102603489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.314228,34.336058,-86.314228,34.336058",
     "geom:latitude":34.336058,
     "geom:longitude":-86.314228,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2109 Gunter Ave",
     "sg:city":"Guntersville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829421,
+        85688675,
         85633793,
         85899833,
         102085513,
-        85688675
+        85829421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102603489,
-    "wof:lastmodified":1449069788,
+    "wof:lastmodified":1466317105,
     "wof:name":"Jr Food Market",
     "wof:parent_id":85829421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.314228,34.336058,-86.314228,34.336058],
+  "bbox": [
+    -86.314228,
+    34.336058,
+    -86.314228,
+    34.336058
+],
   "geometry": {"coordinates":[-86.314228,34.336058],"type":"Point"}
 }

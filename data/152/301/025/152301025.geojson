@@ -2,13 +2,14 @@
   "id": 152301025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.765077,33.78614,-85.765077,33.78614",
     "geom:latitude":33.78614,
     "geom:longitude":-85.765077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1475 1st Ave SW",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.aprsrehab.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817157,
+        85688675,
         85633793,
         85914293,
         102085603,
-        85688675
+        85817157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152301025,
-    "wof:lastmodified":1449045478,
+    "wof:lastmodified":1466317120,
     "wof:name":"Alabama Physical Rehab Inc",
     "wof:parent_id":85817157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.765077,33.78614,-85.765077,33.78614],
-  "geometry": {"coordinates":[-85.765077,33.78614],"type":"Point"}
+  "bbox": [
+    -85.765077,
+    33.78614,
+    -85.765077,
+    33.78614
+],
+  "geometry": {"coordinates":[-85.76507700000001,33.78614],"type":"Point"}
 }

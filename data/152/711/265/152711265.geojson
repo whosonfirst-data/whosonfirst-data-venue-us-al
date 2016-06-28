@@ -2,13 +2,14 @@
   "id": 152711265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.18742,30.545477,-88.18742,30.545477",
     "geom:latitude":30.545477,
     "geom:longitude":-88.18742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6255 Swedetown Rd",
     "sg:city":"Theodore",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878951,
+        85688675,
         85633793,
         85915075,
         102085585,
-        85688675
+        85878951
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152711265,
-    "wof:lastmodified":1449048070,
+    "wof:lastmodified":1466319398,
     "wof:name":"Theodore United Methodist Chr",
     "wof:parent_id":85878951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.18742,30.545477,-88.18742,30.545477],
+  "bbox": [
+    -88.18742,
+    30.545477,
+    -88.18742,
+    30.545477
+],
   "geometry": {"coordinates":[-88.18742,30.545477],"type":"Point"}
 }

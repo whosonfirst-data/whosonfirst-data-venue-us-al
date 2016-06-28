@@ -2,13 +2,14 @@
   "id": 152387815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.964824,33.988132,-85.964824,33.988132",
     "geom:latitude":33.988132,
     "geom:longitude":-85.964824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Spurline Dr",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822279,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85822279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":152387815,
-    "wof:lastmodified":1449048296,
+    "wof:lastmodified":1466317775,
     "wof:name":"Buffalo Rock Company",
     "wof:parent_id":85822279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.964824,33.988132,-85.964824,33.988132],
-  "geometry": {"coordinates":[-85.964824,33.988132],"type":"Point"}
+  "bbox": [
+    -85.964824,
+    33.988132,
+    -85.964824,
+    33.988132
+],
+  "geometry": {"coordinates":[-85.96482399999999,33.988132],"type":"Point"}
 }

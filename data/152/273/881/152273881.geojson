@@ -2,13 +2,14 @@
   "id": 152273881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.563467,34.772783,-86.563467,34.772783",
     "geom:latitude":34.772783,
     "geom:longitude":-86.563467,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Wholesale Ave NE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.copeplastics.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833793,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85833793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152273881,
-    "wof:lastmodified":1449046701,
+    "wof:lastmodified":1466316829,
     "wof:name":"Cope Plastics Inc",
     "wof:parent_id":85833793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.563467,34.772783,-86.563467,34.772783],
+  "bbox": [
+    -86.563467,
+    34.772783,
+    -86.563467,
+    34.772783
+],
   "geometry": {"coordinates":[-86.563467,34.772783],"type":"Point"}
 }

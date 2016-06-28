@@ -2,13 +2,14 @@
   "id": 152412713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.021407,34.343273,-86.021407,34.343273",
     "geom:latitude":34.343273,
     "geom:longitude":-86.021407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 Co Rd 28",
     "sg:city":"Geraldine",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815015,
+        85688675,
         85633793,
         85897515,
         102085615,
-        85688675
+        85815015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152412713,
-    "wof:lastmodified":1449045246,
+    "wof:lastmodified":1466318025,
     "wof:name":"Stylemaster Salon",
     "wof:parent_id":85815015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.021407,34.343273,-86.021407,34.343273],
+  "bbox": [
+    -86.021407,
+    34.343273,
+    -86.021407,
+    34.343273
+],
   "geometry": {"coordinates":[-86.021407,34.343273],"type":"Point"}
 }

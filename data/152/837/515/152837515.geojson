@@ -2,13 +2,14 @@
   "id": 152837515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.721899,33.574811,-86.721899,33.574811",
     "geom:latitude":33.574811,
     "geom:longitude":-86.721899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 85th St N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816499,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85816499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152837515,
-    "wof:lastmodified":1449045027,
+    "wof:lastmodified":1466320039,
     "wof:name":"Kleen & Dry Full Svc Laundry",
     "wof:parent_id":85816499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.721899,33.574811,-86.721899,33.574811],
-  "geometry": {"coordinates":[-86.721899,33.574811],"type":"Point"}
+  "bbox": [
+    -86.721899,
+    33.574811,
+    -86.721899,
+    33.574811
+],
+  "geometry": {"coordinates":[-86.72189899999999,33.574811],"type":"Point"}
 }

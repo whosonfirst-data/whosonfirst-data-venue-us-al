@@ -2,13 +2,14 @@
   "id": 152703491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.340275,32.668353,-85.340275,32.668353",
     "geom:latitude":32.668353,
     "geom:longitude":-85.340275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1542 Leo Ln",
     "sg:city":"Opelika",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152703491,
-    "wof:lastmodified":1449045709,
+    "wof:lastmodified":1466319370,
     "wof:name":"Road Runner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.340275,32.668353,-85.340275,32.668353],
-  "geometry": {"coordinates":[-85.340275,32.668353],"type":"Point"}
+  "bbox": [
+    -85.340275,
+    32.668353,
+    -85.340275,
+    32.668353
+],
+  "geometry": {"coordinates":[-85.34027500000001,32.668353],"type":"Point"}
 }

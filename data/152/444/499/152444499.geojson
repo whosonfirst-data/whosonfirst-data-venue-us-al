@@ -2,13 +2,14 @@
   "id": 152444499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.403467,32.966069,-85.403467,32.966069",
     "geom:latitude":32.966069,
     "geom:longitude":-85.403467,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21971 US Hwy 431",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":152444499,
-    "wof:lastmodified":1449048285,
+    "wof:lastmodified":1466318056,
     "wof:name":"Whitehouse Antique Mall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.403467,32.966069,-85.403467,32.966069],
-  "geometry": {"coordinates":[-85.403467,32.966069],"type":"Point"}
+  "bbox": [
+    -85.403467,
+    32.966069,
+    -85.403467,
+    32.966069
+],
+  "geometry": {"coordinates":[-85.40346700000001,32.966069],"type":"Point"}
 }

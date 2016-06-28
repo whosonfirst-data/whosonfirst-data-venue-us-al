@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102462245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.191179,32.55549,-86.191179,32.55549",
     "geom:latitude":32.55549,
     "geom:longitude":-86.191179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1017 Jackson Trace Rd",
     "sg:city":"Wetumpka",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851843,
+        85688675,
         85633793,
         85913951,
         102085631,
-        85688675
+        85851843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":102462245,
-    "wof:lastmodified":1449070125,
+    "wof:lastmodified":1466314974,
     "wof:name":"Sonny Livingston's Bail Bonds",
     "wof:parent_id":85851843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.191179,32.55549,-86.191179,32.55549],
-  "geometry": {"coordinates":[-86.191179,32.55549],"type":"Point"}
+  "bbox": [
+    -86.191179,
+    32.55549,
+    -86.191179,
+    32.55549
+],
+  "geometry": {"coordinates":[-86.19117900000001,32.55549],"type":"Point"}
 }

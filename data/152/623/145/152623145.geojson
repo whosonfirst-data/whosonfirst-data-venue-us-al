@@ -2,13 +2,14 @@
   "id": 152623145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.722203,34.441575,-85.722203,34.441575",
     "geom:latitude":34.441575,
     "geom:longitude":-85.722203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 Gault Ave N",
     "sg:city":"Fort Payne",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815015,
+        85688675,
         85633793,
         85897515,
         102085615,
-        85688675
+        85815015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152623145,
-    "wof:lastmodified":1449047538,
+    "wof:lastmodified":1466318937,
     "wof:name":"Locklear Sports & Antiques",
     "wof:parent_id":85815015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.722203,34.441575,-85.722203,34.441575],
-  "geometry": {"coordinates":[-85.722203,34.441575],"type":"Point"}
+  "bbox": [
+    -85.722203,
+    34.441575,
+    -85.722203,
+    34.441575
+],
+  "geometry": {"coordinates":[-85.72220299999999,34.441575],"type":"Point"}
 }

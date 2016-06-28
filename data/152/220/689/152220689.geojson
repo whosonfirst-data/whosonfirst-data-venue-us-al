@@ -2,13 +2,14 @@
   "id": 152220689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.899129,32.536781,-85.899129,32.536781",
     "geom:latitude":32.536781,
     "geom:longitude":-85.899129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Friendship Rd",
     "sg:city":"Tallassee",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827623,
+        85688675,
         85633793,
         85913291,
         102085631,
-        85688675
+        85827623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152220689,
-    "wof:lastmodified":1449048752,
+    "wof:lastmodified":1466316098,
     "wof:name":"Taters Kwik Mart Inc",
     "wof:parent_id":85827623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.899129,32.536781,-85.899129,32.536781],
+  "bbox": [
+    -85.899129,
+    32.536781,
+    -85.899129,
+    32.536781
+],
   "geometry": {"coordinates":[-85.899129,32.536781],"type":"Point"}
 }

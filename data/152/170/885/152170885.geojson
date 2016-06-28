@@ -2,13 +2,14 @@
   "id": 152170885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.971504,32.935547,-85.971504,32.935547",
     "geom:latitude":32.935547,
     "geom:longitude":-85.971504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1572 Mill Sq",
     "sg:city":"Alexander City",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840481,
+        85688675,
         85633793,
         85913363,
         102085567,
-        85688675
+        85840481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":152170885,
-    "wof:lastmodified":1449044738,
+    "wof:lastmodified":1466315609,
     "wof:name":"Tooth Masters",
     "wof:parent_id":85840481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.971504,32.935547,-85.971504,32.935547],
+  "bbox": [
+    -85.971504,
+    32.935547,
+    -85.971504,
+    32.935547
+],
   "geometry": {"coordinates":[-85.971504,32.935547],"type":"Point"}
 }

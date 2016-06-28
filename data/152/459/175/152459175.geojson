@@ -2,13 +2,14 @@
   "id": 152459175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.478866,34.757305,-86.478866,34.757305",
     "geom:latitude":34.757305,
     "geom:longitude":-86.478866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"155 Teague Rd",
     "sg:city":"Brownsboro",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85835813,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85835813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152459175,
-    "wof:lastmodified":1449046193,
+    "wof:lastmodified":1466318047,
     "wof:name":"Hurricane Chapel Missionary",
     "wof:parent_id":85835813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.478866,34.757305,-86.478866,34.757305],
+  "bbox": [
+    -86.478866,
+    34.757305,
+    -86.478866,
+    34.757305
+],
   "geometry": {"coordinates":[-86.478866,34.757305],"type":"Point"}
 }

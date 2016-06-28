@@ -2,13 +2,14 @@
   "id": 152662489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.385067,32.645592,-85.385067,32.645592",
     "geom:latitude":32.645592,
     "geom:longitude":-85.385067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 1st Ave",
     "sg:city":"Opelika",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85857153,
+        85688675,
         85633793,
         85913815,
         102085751,
-        85688675,
+        85857153,
         85819517
     ],
     "wof:breaches":[],
@@ -61,14 +62,20 @@
         }
     ],
     "wof:id":152662489,
-    "wof:lastmodified":1449047424,
+    "wof:lastmodified":1466319154,
     "wof:name":"Drs Cleaning Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.385067,32.645592,-85.385067,32.645592],
-  "geometry": {"coordinates":[-85.385067,32.645592],"type":"Point"}
+  "bbox": [
+    -85.385067,
+    32.645592,
+    -85.385067,
+    32.645592
+],
+  "geometry": {"coordinates":[-85.38506700000001,32.645592],"type":"Point"}
 }

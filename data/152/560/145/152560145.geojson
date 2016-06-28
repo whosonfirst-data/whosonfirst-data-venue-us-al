@@ -2,13 +2,14 @@
   "id": 152560145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.764508,33.913704,-85.764508,33.913704",
     "geom:latitude":33.913704,
     "geom:longitude":-85.764508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2288 Williams Rd",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817157,
+        85688675,
         85633793,
         85914293,
         102085603,
-        85688675
+        85817157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152560145,
-    "wof:lastmodified":1449047823,
+    "wof:lastmodified":1466318619,
     "wof:name":"Pruitts Trucking Co",
     "wof:parent_id":85817157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.764508,33.913704,-85.764508,33.913704],
-  "geometry": {"coordinates":[-85.764508,33.913704],"type":"Point"}
+  "bbox": [
+    -85.764508,
+    33.913704,
+    -85.764508,
+    33.913704
+],
+  "geometry": {"coordinates":[-85.76450800000001,33.913704],"type":"Point"}
 }

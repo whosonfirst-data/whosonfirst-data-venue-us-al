@@ -2,13 +2,14 @@
   "id": 152569389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.227626,32.404316,-86.227626,32.404316",
     "geom:latitude":32.404316,
     "geom:longitude":-86.227626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2536 Midpark Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813403,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85813403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152569389,
-    "wof:lastmodified":1449048731,
+    "wof:lastmodified":1466318671,
     "wof:name":"Signal Construction Co Inc",
     "wof:parent_id":85813403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.227626,32.404316,-86.227626,32.404316],
+  "bbox": [
+    -86.227626,
+    32.404316,
+    -86.227626,
+    32.404316
+],
   "geometry": {"coordinates":[-86.227626,32.404316],"type":"Point"}
 }

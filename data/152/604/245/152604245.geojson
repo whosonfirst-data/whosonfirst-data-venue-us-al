@@ -2,13 +2,14 @@
   "id": 152604245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.384107,34.655415,-86.384107,34.655415",
     "geom:latitude":34.655415,
     "geom:longitude":-86.384107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Blowing Cave Rd",
     "sg:city":"Gurley",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878245,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152604245,
-    "wof:lastmodified":1449048389,
+    "wof:lastmodified":1466318857,
     "wof:name":"Weavers Express Lube Inc",
     "wof:parent_id":85878245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.384107,34.655415,-86.384107,34.655415],
+  "bbox": [
+    -86.384107,
+    34.655415,
+    -86.384107,
+    34.655415
+],
   "geometry": {"coordinates":[-86.384107,34.655415],"type":"Point"}
 }

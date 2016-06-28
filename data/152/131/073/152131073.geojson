@@ -2,13 +2,14 @@
   "id": 152131073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.565798,32.598711,-85.565798,32.598711",
     "geom:latitude":32.598711,
     "geom:longitude":-85.565798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5321 State Rte 14",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085751,
-        85633793,
         85688675,
-        85828853
+        85633793,
+        85828853,
+        102085751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152131073,
-    "wof:lastmodified":1449045695,
+    "wof:lastmodified":1466315057,
     "wof:name":"Loachapoka Grocery",
     "wof:parent_id":85828853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.565798,32.598711,-85.565798,32.598711],
+  "bbox": [
+    -85.565798,
+    32.598711,
+    -85.565798,
+    32.598711
+],
   "geometry": {"coordinates":[-85.565798,32.598711],"type":"Point"}
 }

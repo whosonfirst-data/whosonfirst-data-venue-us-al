@@ -2,13 +2,14 @@
   "id": 152408147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.496298,34.283637,-86.496298,34.283637",
     "geom:latitude":34.283637,
     "geom:longitude":-86.496298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2276 US Hwy 231",
     "sg:city":"Arab",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867305,
+        85688675,
         85633793,
         85914167,
         102085729,
-        85688675
+        85867305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152408147,
-    "wof:lastmodified":1449044876,
+    "wof:lastmodified":1466318019,
     "wof:name":"Waddells",
     "wof:parent_id":85867305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.496298,34.283637,-86.496298,34.283637],
+  "bbox": [
+    -86.496298,
+    34.283637,
+    -86.496298,
+    34.283637
+],
   "geometry": {"coordinates":[-86.496298,34.283637],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102637753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.576619,34.746098,-86.576619,34.746098",
     "geom:latitude":34.746098,
     "geom:longitude":-86.576619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1018 Andrew Jackson Way NE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878235,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878235
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102637753,
-    "wof:lastmodified":1449067761,
+    "wof:lastmodified":1466317604,
     "wof:name":"Hill Lwnmwer Chainsaw Sls Serv",
     "wof:parent_id":85878235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.576619,34.746098,-86.576619,34.746098],
-  "geometry": {"coordinates":[-86.576619,34.746098],"type":"Point"}
+  "bbox": [
+    -86.576619,
+    34.746098,
+    -86.576619,
+    34.746098
+],
+  "geometry": {"coordinates":[-86.57661899999999,34.746098],"type":"Point"}
 }

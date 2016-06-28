@@ -2,13 +2,14 @@
   "id": 152778577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.314668,32.40062,-86.314668,32.40062",
     "geom:latitude":32.40062,
     "geom:longitude":-86.314668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1464 Furnace St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85836773,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85836773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152778577,
-    "wof:lastmodified":1449044387,
+    "wof:lastmodified":1466319739,
     "wof:name":"Capital Stockyard Cafe",
     "wof:parent_id":85836773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.314668,32.40062,-86.314668,32.40062],
+  "bbox": [
+    -86.314668,
+    32.40062,
+    -86.314668,
+    32.40062
+],
   "geometry": {"coordinates":[-86.314668,32.40062],"type":"Point"}
 }

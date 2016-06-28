@@ -2,13 +2,14 @@
   "id": 152296483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.880275,32.769536,-86.880275,32.769536",
     "geom:latitude":32.769536,
     "geom:longitude":-86.880275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6350 US Hwy 82",
     "sg:city":"Maplesville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152296483,
-    "wof:lastmodified":1449048063,
+    "wof:lastmodified":1466317070,
     "wof:name":"Maplesville Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.880275,32.769536,-86.880275,32.769536],
+  "bbox": [
+    -86.880275,
+    32.769536,
+    -86.880275,
+    32.769536
+],
   "geometry": {"coordinates":[-86.880275,32.769536],"type":"Point"}
 }

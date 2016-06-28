@@ -2,13 +2,14 @@
   "id": 152350081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.802307,33.687576,-86.802307,33.687576",
     "geom:latitude":33.687576,
     "geom:longitude":-86.802307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4155 Willow Bend Dr",
     "sg:city":"Gardendale",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152350081,
-    "wof:lastmodified":1449046659,
+    "wof:lastmodified":1466317577,
     "wof:name":"Area Lock & Key",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.802307,33.687576,-86.802307,33.687576],
+  "bbox": [
+    -86.802307,
+    33.687576,
+    -86.802307,
+    33.687576
+],
   "geometry": {"coordinates":[-86.802307,33.687576],"type":"Point"}
 }

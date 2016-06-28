@@ -2,13 +2,14 @@
   "id": 152635093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.832694,32.790647,-85.832694,32.790647",
     "geom:latitude":32.790647,
     "geom:longitude":-85.832694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Robin Rd",
     "sg:city":"Dadeville",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085567,
-        85633793,
         85688675,
-        85853455
+        85633793,
+        85853455,
+        102085567
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152635093,
-    "wof:lastmodified":1449046311,
+    "wof:lastmodified":1466318878,
     "wof:name":"Joe A Chambliss Inc",
     "wof:parent_id":85853455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.832694,32.790647,-85.832694,32.790647],
+  "bbox": [
+    -85.832694,
+    32.790647,
+    -85.832694,
+    32.790647
+],
   "geometry": {"coordinates":[-85.832694,32.790647],"type":"Point"}
 }

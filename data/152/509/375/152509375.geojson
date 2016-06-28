@@ -2,13 +2,14 @@
   "id": 152509375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.851596,33.712745,-85.851596,33.712745",
     "geom:latitude":33.712745,
     "geom:longitude":-85.851596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5117 Post Oak Rd",
     "sg:city":"Anniston",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.hcministries.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825451,
+        85688675,
         85633793,
         85915207,
         102085603,
-        85688675
+        85825451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152509375,
-    "wof:lastmodified":1449044480,
+    "wof:lastmodified":1466318366,
     "wof:name":"Hill Crest Baptist Church Inc",
     "wof:parent_id":85825451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.851596,33.712745,-85.851596,33.712745],
+  "bbox": [
+    -85.851596,
+    33.712745,
+    -85.851596,
+    33.712745
+],
   "geometry": {"coordinates":[-85.851596,33.712745],"type":"Point"}
 }

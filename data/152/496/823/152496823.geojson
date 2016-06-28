@@ -2,13 +2,14 @@
   "id": 152496823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.611257,33.921841,-85.611257,33.921841",
     "geom:latitude":33.921841,
     "geom:longitude":-85.611257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 S Center Ave",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817157,
+        85688675,
         85633793,
         85914293,
         102085603,
-        85688675
+        85817157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152496823,
-    "wof:lastmodified":1449048220,
+    "wof:lastmodified":1466318465,
     "wof:name":"Pope's Beauty Shop",
     "wof:parent_id":85817157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.611257,33.921841,-85.611257,33.921841],
-  "geometry": {"coordinates":[-85.611257,33.921841],"type":"Point"}
+  "bbox": [
+    -85.611257,
+    33.921841,
+    -85.611257,
+    33.921841
+],
+  "geometry": {"coordinates":[-85.61125699999999,33.921841],"type":"Point"}
 }

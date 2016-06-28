@@ -2,13 +2,14 @@
   "id": 102635401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.563125,33.237191,-87.563125,33.237191",
     "geom:latitude":33.237191,
     "geom:longitude":-87.563125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"736 McFarland Blvd",
     "sg:city":"Northport",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806217,
+        85688675,
         85633793,
         85914425,
         102085553,
-        85688675
+        85806217
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102635401,
-    "wof:lastmodified":1449068806,
+    "wof:lastmodified":1466317669,
     "wof:name":"Home Med Inc",
     "wof:parent_id":85806217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.563125,33.237191,-87.563125,33.237191],
+  "bbox": [
+    -87.563125,
+    33.237191,
+    -87.563125,
+    33.237191
+],
   "geometry": {"coordinates":[-87.563125,33.237191],"type":"Point"}
 }

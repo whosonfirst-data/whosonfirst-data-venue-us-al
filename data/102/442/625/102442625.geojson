@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102442625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.855394,31.327636,-85.855394,31.327636",
     "geom:latitude":31.327636,
     "geom:longitude":-85.855394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"248 Forrest Ave",
     "sg:city":"Enterprise",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825461,
+        85688675,
         85633793,
         85899527,
         102085699,
-        85688675
+        85825461
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102442625,
-    "wof:lastmodified":1449068821,
+    "wof:lastmodified":1466314412,
     "wof:name":"Mark Bowden",
     "wof:parent_id":85825461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.855394,31.327636,-85.855394,31.327636],
+  "bbox": [
+    -85.855394,
+    31.327636,
+    -85.855394,
+    31.327636
+],
   "geometry": {"coordinates":[-85.855394,31.327636],"type":"Point"}
 }

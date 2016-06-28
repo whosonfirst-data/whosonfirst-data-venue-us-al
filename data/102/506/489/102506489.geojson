@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102506489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.585757,34.760679,-86.585757,34.760679",
     "geom:latitude":34.760679,
     "geom:longitude":-86.585757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"632 Dawson Ter NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811925,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85811925
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102506489,
-    "wof:lastmodified":1449067819,
+    "wof:lastmodified":1466316754,
     "wof:name":"Special K Kennel",
     "wof:parent_id":85811925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.585757,34.760679,-86.585757,34.760679],
+  "bbox": [
+    -86.585757,
+    34.760679,
+    -86.585757,
+    34.760679
+],
   "geometry": {"coordinates":[-86.585757,34.760679],"type":"Point"}
 }

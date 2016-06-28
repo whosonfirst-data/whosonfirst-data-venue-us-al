@@ -2,13 +2,14 @@
   "id": 152585763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.841456,33.514052,-86.841456,33.514052",
     "geom:latitude":33.514052,
     "geom:longitude":-86.841456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 8th Ave W",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.jcceo.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85849097,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85849097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152585763,
-    "wof:lastmodified":1449047375,
+    "wof:lastmodified":1466318789,
     "wof:name":"Headstart Central Office",
     "wof:parent_id":85849097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.841456,33.514052,-86.841456,33.514052],
-  "geometry": {"coordinates":[-86.841456,33.514052],"type":"Point"}
+  "bbox": [
+    -86.841456,
+    33.514052,
+    -86.841456,
+    33.514052
+],
+  "geometry": {"coordinates":[-86.84145599999999,33.514052],"type":"Point"}
 }

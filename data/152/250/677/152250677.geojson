@@ -2,13 +2,14 @@
   "id": 152250677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.160412,32.940776,-87.160412,32.940776",
     "geom:latitude":32.940776,
     "geom:longitude":-87.160412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2627 Main St",
     "sg:city":"Brent",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152250677,
-    "wof:lastmodified":1449046940,
+    "wof:lastmodified":1466316558,
     "wof:name":"Brent Heating & Cooling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.160412,32.940776,-87.160412,32.940776],
-  "geometry": {"coordinates":[-87.160412,32.940776],"type":"Point"}
+  "bbox": [
+    -87.160412,
+    32.940776,
+    -87.160412,
+    32.940776
+],
+  "geometry": {"coordinates":[-87.16041199999999,32.940776],"type":"Point"}
 }

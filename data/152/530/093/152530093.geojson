@@ -2,13 +2,14 @@
   "id": 152530093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.739716,34.139336,-86.739716,34.139336",
     "geom:latitude":34.139336,
     "geom:longitude":-86.739716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5199 Co Rd 703",
     "sg:city":"Cullman",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867305,
+        85688675,
         85633793,
         85914167,
         102085729,
-        85688675
+        85867305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152530093,
-    "wof:lastmodified":1449046761,
+    "wof:lastmodified":1466318533,
     "wof:name":"A Touch Of Hollywood",
     "wof:parent_id":85867305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.739716,34.139336,-86.739716,34.139336],
+  "bbox": [
+    -86.739716,
+    34.139336,
+    -86.739716,
+    34.139336
+],
   "geometry": {"coordinates":[-86.739716,34.139336],"type":"Point"}
 }

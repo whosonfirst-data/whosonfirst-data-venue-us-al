@@ -2,13 +2,14 @@
   "id": 152562693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.497942,32.59627,-86.497942,32.59627",
     "geom:latitude":32.59627,
     "geom:longitude":-86.497942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2109 Co Rd 59",
     "sg:city":"Prattville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831059,
+        85688675,
         85633793,
         85913977,
         102085509,
-        85688675
+        85831059
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152562693,
-    "wof:lastmodified":1449046749,
+    "wof:lastmodified":1466318670,
     "wof:name":"Camp Tukabatchee",
     "wof:parent_id":85831059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.497942,32.59627,-86.497942,32.59627],
-  "geometry": {"coordinates":[-86.497942,32.59627],"type":"Point"}
+  "bbox": [
+    -86.497942,
+    32.59627,
+    -86.497942,
+    32.59627
+],
+  "geometry": {"coordinates":[-86.49794199999999,32.59627],"type":"Point"}
 }

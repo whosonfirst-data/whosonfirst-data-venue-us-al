@@ -2,13 +2,14 @@
   "id": 152713237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.259616,31.485186,-87.259616,31.485186",
     "geom:latitude":31.485186,
     "geom:longitude":-87.259616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5420 Drewry Rd",
     "sg:city":"Monroeville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":152713237,
-    "wof:lastmodified":1449048484,
+    "wof:lastmodified":1466319397,
     "wof:name":"Barnes Wholesale Cars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.259616,31.485186,-87.259616,31.485186],
-  "geometry": {"coordinates":[-87.259616,31.485186],"type":"Point"}
+  "bbox": [
+    -87.259616,
+    31.485186,
+    -87.259616,
+    31.485186
+],
+  "geometry": {"coordinates":[-87.25961599999999,31.485186],"type":"Point"}
 }

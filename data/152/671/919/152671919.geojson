@@ -2,13 +2,14 @@
   "id": 152671919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.107923,34.012863,-86.107923,34.012863",
     "geom:latitude":34.012863,
     "geom:longitude":-86.107923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1206 6th St SW",
     "sg:city":"Attalla",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085545,
-        85633793,
         85688675,
-        85851221
+        85633793,
+        85851221,
+        102085545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152671919,
-    "wof:lastmodified":1449045360,
+    "wof:lastmodified":1466319223,
     "wof:name":"Norma J Shaw",
     "wof:parent_id":85851221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.107923,34.012863,-86.107923,34.012863],
+  "bbox": [
+    -86.107923,
+    34.012863,
+    -86.107923,
+    34.012863
+],
   "geometry": {"coordinates":[-86.107923,34.012863],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152887223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.474048,30.373877,-87.474048,30.373877",
     "geom:latitude":30.373877,
     "geom:longitude":-87.474048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10427 Fox Ln",
     "sg:city":"Lillian",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868551,
+        85688675,
         85633793,
         85914719,
         102085469,
-        85688675
+        85868551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152887223,
-    "wof:lastmodified":1449048005,
+    "wof:lastmodified":1466320259,
     "wof:name":"Dream Style Designs Inc",
     "wof:parent_id":85868551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.474048,30.373877,-87.474048,30.373877],
+  "bbox": [
+    -87.474048,
+    30.373877,
+    -87.474048,
+    30.373877
+],
   "geometry": {"coordinates":[-87.474048,30.373877],"type":"Point"}
 }

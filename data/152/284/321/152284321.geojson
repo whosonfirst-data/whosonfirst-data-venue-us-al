@@ -2,13 +2,14 @@
   "id": 152284321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.583489,34.732763,-86.583489,34.732763",
     "geom:latitude":34.732763,
     "geom:longitude":-86.583489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 Clinton Ave E",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878241,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878241
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152284321,
-    "wof:lastmodified":1449047168,
+    "wof:lastmodified":1466316928,
     "wof:name":"Anglin & Associates PA",
     "wof:parent_id":85878241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.583489,34.732763,-86.583489,34.732763],
+  "bbox": [
+    -86.583489,
+    34.732763,
+    -86.583489,
+    34.732763
+],
   "geometry": {"coordinates":[-86.583489,34.732763],"type":"Point"}
 }

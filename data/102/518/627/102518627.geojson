@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102518627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.380817,32.383911,-86.380817,32.383911",
     "geom:latitude":32.383911,
     "geom:longitude":-86.380817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3630 Birmingham Hwy",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879057,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102518627,
-    "wof:lastmodified":1449069110,
+    "wof:lastmodified":1466317016,
     "wof:name":"Bobby's Used Cars",
     "wof:parent_id":85879057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.380817,32.383911,-86.380817,32.383911],
-  "geometry": {"coordinates":[-86.380817,32.383911],"type":"Point"}
+  "bbox": [
+    -86.380817,
+    32.383911,
+    -86.380817,
+    32.383911
+],
+  "geometry": {"coordinates":[-86.38081699999999,32.383911],"type":"Point"}
 }

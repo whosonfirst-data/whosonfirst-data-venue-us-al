@@ -2,13 +2,14 @@
   "id": 152135191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.003483,34.016523,-86.003483,34.016523",
     "geom:latitude":34.016523,
     "geom:longitude":-86.003483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"560 W Meighan Blvd",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822279,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85822279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152135191,
-    "wof:lastmodified":1449046081,
+    "wof:lastmodified":1466315280,
     "wof:name":"C & E Mitchell Accounting Svc",
     "wof:parent_id":85822279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.003483,34.016523,-86.003483,34.016523],
+  "bbox": [
+    -86.003483,
+    34.016523,
+    -86.003483,
+    34.016523
+],
   "geometry": {"coordinates":[-86.003483,34.016523],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152489219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.421291,33.333261,-86.421291,33.333261",
     "geom:latitude":33.333261,
     "geom:longitude":-86.421291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"78 Pineview St",
     "sg:city":"Harpersville",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85841999
+        85633793,
+        85841999,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152489219,
-    "wof:lastmodified":1449046829,
+    "wof:lastmodified":1466318246,
     "wof:name":"Grace Community On Riverchase",
     "wof:parent_id":85841999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.421291,33.333261,-86.421291,33.333261],
+  "bbox": [
+    -86.421291,
+    33.333261,
+    -86.421291,
+    33.333261
+],
   "geometry": {"coordinates":[-86.421291,33.333261],"type":"Point"}
 }

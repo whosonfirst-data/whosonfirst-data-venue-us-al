@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102447293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.861286,33.505114,-86.861286,33.505114",
     "geom:latitude":33.505114,
     "geom:longitude":-86.861286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 3rd Ave W",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847929,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85847929
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102447293,
-    "wof:lastmodified":1449069494,
+    "wof:lastmodified":1466314468,
     "wof:name":"City Motor Supply Inc",
     "wof:parent_id":85847929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.861286,33.505114,-86.861286,33.505114],
-  "geometry": {"coordinates":[-86.861286,33.505114],"type":"Point"}
+  "bbox": [
+    -86.861286,
+    33.505114,
+    -86.861286,
+    33.505114
+],
+  "geometry": {"coordinates":[-86.86128600000001,33.505114],"type":"Point"}
 }

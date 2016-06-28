@@ -2,13 +2,14 @@
   "id": 152536037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.973189,31.806171,-85.973189,31.806171",
     "geom:latitude":31.806171,
     "geom:longitude":-85.973189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Williams St",
     "sg:city":"Troy",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867313,
+        85688675,
         85633793,
         85914551,
         102085619,
-        85688675
+        85867313
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152536037,
-    "wof:lastmodified":1449047056,
+    "wof:lastmodified":1466318675,
     "wof:name":"Thad Yancey Jr",
     "wof:parent_id":85867313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.973189,31.806171,-85.973189,31.806171],
+  "bbox": [
+    -85.973189,
+    31.806171,
+    -85.973189,
+    31.806171
+],
   "geometry": {"coordinates":[-85.973189,31.806171],"type":"Point"}
 }

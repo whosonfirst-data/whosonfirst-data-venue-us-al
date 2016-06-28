@@ -2,13 +2,14 @@
   "id": 152421343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.571599,34.92546,-86.571599,34.92546",
     "geom:latitude":34.92546,
     "geom:longitude":-86.571599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Bledsoe Rd",
     "sg:city":"Hazel Green",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152421343,
-    "wof:lastmodified":1449047231,
+    "wof:lastmodified":1466318063,
     "wof:name":"Hazel Green Auto Salvage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.571599,34.92546,-86.571599,34.92546],
-  "geometry": {"coordinates":[-86.571599,34.92546],"type":"Point"}
+  "bbox": [
+    -86.571599,
+    34.92546,
+    -86.571599,
+    34.92546
+],
+  "geometry": {"coordinates":[-86.57159900000001,34.92546],"type":"Point"}
 }

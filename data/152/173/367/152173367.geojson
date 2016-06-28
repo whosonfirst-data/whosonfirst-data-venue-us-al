@@ -2,13 +2,14 @@
   "id": 152173367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.498706,32.575342,-85.498706,32.575342",
     "geom:latitude":32.575342,
     "geom:longitude":-85.498706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1717 S College St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858229,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85858229
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152173367,
-    "wof:lastmodified":1449045196,
+    "wof:lastmodified":1466315626,
     "wof:name":"Wal-Mart",
     "wof:parent_id":85858229,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.498706,32.575342,-85.498706,32.575342],
+  "bbox": [
+    -85.498706,
+    32.575342,
+    -85.498706,
+    32.575342
+],
   "geometry": {"coordinates":[-85.498706,32.575342],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152618505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.783293,34.310559,-85.783293,34.310559",
     "geom:latitude":34.310559,
     "geom:longitude":-85.783293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"181 Co Rd 55",
     "sg:city":"Fort Payne",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815015,
+        85688675,
         85633793,
         85897515,
         102085615,
-        85688675
+        85815015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152618505,
-    "wof:lastmodified":1449047178,
+    "wof:lastmodified":1466318916,
     "wof:name":"Bobos Service Inc",
     "wof:parent_id":85815015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.783293,34.310559,-85.783293,34.310559],
+  "bbox": [
+    -85.783293,
+    34.310559,
+    -85.783293,
+    34.310559
+],
   "geometry": {"coordinates":[-85.783293,34.310559],"type":"Point"}
 }

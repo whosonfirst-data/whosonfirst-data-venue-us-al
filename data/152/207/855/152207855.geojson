@@ -2,13 +2,14 @@
   "id": 152207855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.458872,32.513551,-86.458872,32.513551",
     "geom:latitude":32.513551,
     "geom:longitude":-86.458872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Edgefield Manor",
     "sg:city":"Prattville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831059,
+        85688675,
         85633793,
         85913977,
         102085509,
-        85688675
+        85831059
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152207855,
-    "wof:lastmodified":1449047531,
+    "wof:lastmodified":1466316114,
     "wof:name":"Shepherds Beauty Hut",
     "wof:parent_id":85831059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.458872,32.513551,-86.458872,32.513551],
+  "bbox": [
+    -86.458872,
+    32.513551,
+    -86.458872,
+    32.513551
+],
   "geometry": {"coordinates":[-86.458872,32.513551],"type":"Point"}
 }

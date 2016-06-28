@@ -2,13 +2,14 @@
   "id": 152337671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.85371,33.669816,-86.85371,33.669816",
     "geom:latitude":33.669816,
     "geom:longitude":-86.85371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2668 Mount Olive Rd",
     "sg:city":"Mount Olive",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152337671,
-    "wof:lastmodified":1449046469,
+    "wof:lastmodified":1466317543,
     "wof:name":"Bella Ciao Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.85371,33.669816,-86.85371,33.669816],
-  "geometry": {"coordinates":[-86.85371,33.669816],"type":"Point"}
+  "bbox": [
+    -86.85371,
+    33.669816,
+    -86.85371,
+    33.669816
+],
+  "geometry": {"coordinates":[-86.85371000000001,33.669816],"type":"Point"}
 }

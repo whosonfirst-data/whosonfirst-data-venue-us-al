@@ -2,13 +2,14 @@
   "id": 152572433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.411811,34.757062,-86.411811,34.757062",
     "geom:latitude":34.757062,
     "geom:longitude":-86.411811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Anna Kathryn Dr",
     "sg:city":"Gurley",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878245,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152572433,
-    "wof:lastmodified":1449047126,
+    "wof:lastmodified":1466318698,
     "wof:name":"Pearsall Landscaping",
     "wof:parent_id":85878245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.411811,34.757062,-86.411811,34.757062],
+  "bbox": [
+    -86.411811,
+    34.757062,
+    -86.411811,
+    34.757062
+],
   "geometry": {"coordinates":[-86.411811,34.757062],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152812135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.837586,32.521494,-87.837586,32.521494",
     "geom:latitude":32.521494,
     "geom:longitude":-87.837586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 N Walnut Ave",
     "sg:city":"Demopolis",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85804415,
+        85688675,
         85633793,
         85899613,
         102085423,
-        85688675
+        85804415
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152812135,
-    "wof:lastmodified":1449044420,
+    "wof:lastmodified":1466319887,
     "wof:name":"Church Aflame Wrld Outrch Mins",
     "wof:parent_id":85804415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.837586,32.521494,-87.837586,32.521494],
+  "bbox": [
+    -87.837586,
+    32.521494,
+    -87.837586,
+    32.521494
+],
   "geometry": {"coordinates":[-87.837586,32.521494],"type":"Point"}
 }

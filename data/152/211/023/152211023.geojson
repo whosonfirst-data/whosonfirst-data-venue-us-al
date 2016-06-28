@@ -2,13 +2,14 @@
   "id": 152211023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.090751,30.674909,-88.090751,30.674909",
     "geom:latitude":30.674909,
     "geom:longitude":-88.090751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 Glenwood St",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878957,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878957
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152211023,
-    "wof:lastmodified":1449045434,
+    "wof:lastmodified":1466316103,
     "wof:name":"Mh 3 Printing LLC",
     "wof:parent_id":85878957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.090751,30.674909,-88.090751,30.674909],
+  "bbox": [
+    -88.090751,
+    30.674909,
+    -88.090751,
+    30.674909
+],
   "geometry": {"coordinates":[-88.090751,30.674909],"type":"Point"}
 }

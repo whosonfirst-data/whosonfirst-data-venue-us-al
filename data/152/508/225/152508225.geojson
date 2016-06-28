@@ -2,13 +2,14 @@
   "id": 152508225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.133705,30.684068,-88.133705,30.684068",
     "geom:latitude":30.684068,
     "geom:longitude":-88.133705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Claridge Rd E",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878977,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152508225,
-    "wof:lastmodified":1449046893,
+    "wof:lastmodified":1466318486,
     "wof:name":"Etched Art LLC",
     "wof:parent_id":85878977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.133705,30.684068,-88.133705,30.684068],
-  "geometry": {"coordinates":[-88.133705,30.684068],"type":"Point"}
+  "bbox": [
+    -88.133705,
+    30.684068,
+    -88.133705,
+    30.684068
+],
+  "geometry": {"coordinates":[-88.13370500000001,30.684068],"type":"Point"}
 }

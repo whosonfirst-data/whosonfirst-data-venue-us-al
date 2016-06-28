@@ -2,13 +2,14 @@
   "id": 152238957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.305797,34.342528,-86.305797,34.342528",
     "geom:latitude":34.342528,
     "geom:longitude":-86.305797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1628 Blount Ave",
     "sg:city":"Guntersville",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.safetyinfo.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850331,
+        85688675,
         85633793,
         85899833,
         102085513,
-        85688675
+        85850331
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152238957,
-    "wof:lastmodified":1449046038,
+    "wof:lastmodified":1466316405,
     "wof:name":"Gunter & Assoc Inc",
     "wof:parent_id":85850331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.305797,34.342528,-86.305797,34.342528],
+  "bbox": [
+    -86.305797,
+    34.342528,
+    -86.305797,
+    34.342528
+],
   "geometry": {"coordinates":[-86.305797,34.342528],"type":"Point"}
 }

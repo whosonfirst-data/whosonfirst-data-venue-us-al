@@ -2,13 +2,14 @@
   "id": 152563613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.836159,33.511742,-86.836159,33.511742",
     "geom:latitude":33.511742,
     "geom:longitude":-86.836159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"517 Center St N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85849097,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85849097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152563613,
-    "wof:lastmodified":1449044364,
+    "wof:lastmodified":1466318668,
     "wof:name":"Thirgood Memorial Cme Church",
     "wof:parent_id":85849097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.836159,33.511742,-86.836159,33.511742],
-  "geometry": {"coordinates":[-86.836159,33.511742],"type":"Point"}
+  "bbox": [
+    -86.836159,
+    33.511742,
+    -86.836159,
+    33.511742
+],
+  "geometry": {"coordinates":[-86.83615899999999,33.511742],"type":"Point"}
 }

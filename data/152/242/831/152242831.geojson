@@ -2,13 +2,14 @@
   "id": 152242831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.714622,34.743458,-86.714622,34.743458",
     "geom:latitude":34.743458,
     "geom:longitude":-86.714622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1604 Slaughter Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85826841,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85826841
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152242831,
-    "wof:lastmodified":1449048378,
+    "wof:lastmodified":1466316378,
     "wof:name":"Spirit Made Steel Dojo",
     "wof:parent_id":85826841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.714622,34.743458,-86.714622,34.743458],
-  "geometry": {"coordinates":[-86.714622,34.743458],"type":"Point"}
+  "bbox": [
+    -86.714622,
+    34.743458,
+    -86.714622,
+    34.743458
+],
+  "geometry": {"coordinates":[-86.71462200000001,34.743458],"type":"Point"}
 }

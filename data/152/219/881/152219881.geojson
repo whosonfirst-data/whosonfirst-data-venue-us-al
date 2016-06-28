@@ -2,13 +2,14 @@
   "id": 152219881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.466844,32.447752,-86.466844,32.447752",
     "geom:latitude":32.447752,
     "geom:longitude":-86.466844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 Selma Hwy",
     "sg:city":"Prattville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858019,
+        85688675,
         85633793,
         85913977,
         102085509,
-        85688675
+        85858019
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152219881,
-    "wof:lastmodified":1449048727,
+    "wof:lastmodified":1466316181,
     "wof:name":"Hunting Ridge Church Of God",
     "wof:parent_id":85858019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.466844,32.447752,-86.466844,32.447752],
-  "geometry": {"coordinates":[-86.466844,32.447752],"type":"Point"}
+  "bbox": [
+    -86.466844,
+    32.447752,
+    -86.466844,
+    32.447752
+],
+  "geometry": {"coordinates":[-86.46684399999999,32.447752],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102465167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.996411,34.602628,-86.996411,34.602628",
     "geom:latitude":34.602628,
     "geom:longitude":-86.996411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 7th Ave SW",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85855353,
+        85688675,
         85633793,
         85913589,
         102085531,
-        85688675
+        85855353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102465167,
-    "wof:lastmodified":1449069409,
+    "wof:lastmodified":1466315038,
     "wof:name":"Saint Stephens P B Church",
     "wof:parent_id":85855353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.996411,34.602628,-86.996411,34.602628],
-  "geometry": {"coordinates":[-86.996411,34.602628],"type":"Point"}
+  "bbox": [
+    -86.996411,
+    34.602628,
+    -86.996411,
+    34.602628
+],
+  "geometry": {"coordinates":[-86.99641099999999,34.602628],"type":"Point"}
 }

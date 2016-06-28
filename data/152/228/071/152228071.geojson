@@ -2,13 +2,14 @@
   "id": 152228071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.329913,32.359666,-86.329913,32.359666",
     "geom:latitude":32.359666,
     "geom:longitude":-86.329913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1469 Mobile Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856867,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85856867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152228071,
-    "wof:lastmodified":1449045749,
+    "wof:lastmodified":1466316294,
     "wof:name":"House Abndance Holiness Church",
     "wof:parent_id":85856867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.329913,32.359666,-86.329913,32.359666],
+  "bbox": [
+    -86.329913,
+    32.359666,
+    -86.329913,
+    32.359666
+],
   "geometry": {"coordinates":[-86.329913,32.359666],"type":"Point"}
 }

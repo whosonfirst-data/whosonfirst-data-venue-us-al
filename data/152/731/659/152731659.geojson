@@ -2,13 +2,14 @@
   "id": 152731659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.568184,30.414361,-87.568184,30.414361",
     "geom:latitude":30.414361,
     "geom:longitude":-87.568184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26800 US Hwy 98",
     "sg:city":"Elberta",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868551,
+        85688675,
         85633793,
         85914719,
         102085469,
-        85688675
+        85868551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152731659,
-    "wof:lastmodified":1449048402,
+    "wof:lastmodified":1466319357,
     "wof:name":"Elberta Mini Warehouses",
     "wof:parent_id":85868551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.568184,30.414361,-87.568184,30.414361],
+  "bbox": [
+    -87.568184,
+    30.414361,
+    -87.568184,
+    30.414361
+],
   "geometry": {"coordinates":[-87.568184,30.414361],"type":"Point"}
 }

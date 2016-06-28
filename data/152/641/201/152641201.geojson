@@ -2,13 +2,14 @@
   "id": 152641201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.843593,33.295181,-86.843593,33.295181",
     "geom:latitude":33.295181,
     "geom:longitude":-86.843593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5270 Helena Rd",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851743,
+        85688675,
         85633793,
         85914471,
         102085499,
-        85688675
+        85851743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152641201,
-    "wof:lastmodified":1449047813,
+    "wof:lastmodified":1466319283,
     "wof:name":"Renaissance Day Spa",
     "wof:parent_id":85851743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.843593,33.295181,-86.843593,33.295181],
+  "bbox": [
+    -86.843593,
+    33.295181,
+    -86.843593,
+    33.295181
+],
   "geometry": {"coordinates":[-86.843593,33.295181],"type":"Point"}
 }

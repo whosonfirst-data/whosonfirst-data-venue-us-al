@@ -2,13 +2,14 @@
   "id": 102620253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.25976,32.337644,-86.25976,32.337644",
     "geom:latitude":32.337644,
     "geom:longitude":-86.25976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3030 Mc Gehee Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.moodyhardware.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879045,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102620253,
-    "wof:lastmodified":1449069987,
+    "wof:lastmodified":1466317362,
     "wof:name":"D W Moody True Value Hardware",
     "wof:parent_id":85879045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.25976,32.337644,-86.25976,32.337644],
+  "bbox": [
+    -86.25976,
+    32.337644,
+    -86.25976,
+    32.337644
+],
   "geometry": {"coordinates":[-86.25976,32.337644],"type":"Point"}
 }

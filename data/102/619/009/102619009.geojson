@@ -2,13 +2,14 @@
   "id": 102619009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.695146,33.512535,-86.695146,33.512535",
     "geom:latitude":33.512535,
     "geom:longitude":-86.695146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3516 Branch Mill Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -25,10 +26,10 @@
     "sg:website":"www.benefitsavvy.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085481,
-        85633793,
         85688675,
-        85810623
+        85633793,
+        85810623,
+        102085481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102619009,
-    "wof:lastmodified":1449068251,
+    "wof:lastmodified":1466317304,
     "wof:name":"Benefit Concepts Inc",
     "wof:parent_id":85810623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.695146,33.512535,-86.695146,33.512535],
-  "geometry": {"coordinates":[-86.695146,33.512535],"type":"Point"}
+  "bbox": [
+    -86.695146,
+    33.512535,
+    -86.695146,
+    33.512535
+],
+  "geometry": {"coordinates":[-86.69514599999999,33.512535],"type":"Point"}
 }

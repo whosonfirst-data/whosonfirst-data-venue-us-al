@@ -2,13 +2,14 @@
   "id": 152286073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.57668,34.743459,-86.57668,34.743459",
     "geom:latitude":34.743459,
     "geom:longitude":-86.57668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 Andrew Jackson Way NE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819449,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85819449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152286073,
-    "wof:lastmodified":1449045505,
+    "wof:lastmodified":1466316863,
     "wof:name":"Nami Huntsville",
     "wof:parent_id":85819449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.57668,34.743459,-86.57668,34.743459],
+  "bbox": [
+    -86.57668,
+    34.743459,
+    -86.57668,
+    34.743459
+],
   "geometry": {"coordinates":[-86.57668,34.743459],"type":"Point"}
 }

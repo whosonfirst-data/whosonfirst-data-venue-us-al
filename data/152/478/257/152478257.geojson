@@ -2,13 +2,14 @@
   "id": 152478257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.682037,34.822703,-87.682037,34.822703",
     "geom:latitude":34.822703,
     "geom:longitude":-87.682037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1533 N Wood Ave",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848857,
+        85688675,
         85633793,
         85914011,
         102085527,
-        85688675
+        85848857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152478257,
-    "wof:lastmodified":1449044445,
+    "wof:lastmodified":1466318215,
     "wof:name":"Ray On The Spot",
     "wof:parent_id":85848857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.682037,34.822703,-87.682037,34.822703],
-  "geometry": {"coordinates":[-87.682037,34.822703],"type":"Point"}
+  "bbox": [
+    -87.682037,
+    34.822703,
+    -87.682037,
+    34.822703
+],
+  "geometry": {"coordinates":[-87.68203699999999,34.822703],"type":"Point"}
 }

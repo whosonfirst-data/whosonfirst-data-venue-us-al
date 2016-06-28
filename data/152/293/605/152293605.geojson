@@ -2,13 +2,14 @@
   "id": 152293605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.57928,32.811227,-86.57928,32.811227",
     "geom:latitude":32.811227,
     "geom:longitude":-86.57928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2101 Holiday Inn Dr",
     "sg:city":"Clanton",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818833,
+        85688675,
         85633793,
         85914219,
         102085653,
-        85688675
+        85818833
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152293605,
-    "wof:lastmodified":1449045210,
+    "wof:lastmodified":1466317075,
     "wof:name":"Palm Harbor Homes",
     "wof:parent_id":85818833,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.57928,32.811227,-86.57928,32.811227],
+  "bbox": [
+    -86.57928,
+    32.811227,
+    -86.57928,
+    32.811227
+],
   "geometry": {"coordinates":[-86.57928,32.811227],"type":"Point"}
 }

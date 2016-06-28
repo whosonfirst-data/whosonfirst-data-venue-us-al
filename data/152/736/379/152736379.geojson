@@ -2,13 +2,14 @@
   "id": 152736379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.859319,33.509639,-86.859319,33.509639",
     "geom:latitude":33.509639,
     "geom:longitude":-86.859319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"521 14th St W",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840057,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85840057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152736379,
-    "wof:lastmodified":1449048859,
+    "wof:lastmodified":1466319585,
     "wof:name":"F J Harris Rev",
     "wof:parent_id":85840057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.859319,33.509639,-86.859319,33.509639],
+  "bbox": [
+    -86.859319,
+    33.509639,
+    -86.859319,
+    33.509639
+],
   "geometry": {"coordinates":[-86.859319,33.509639],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102520171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.937438,34.777216,-86.937438,34.777216",
     "geom:latitude":34.777216,
     "geom:longitude":-86.937438,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Whitfield Dr",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811513,
+        85688675,
         85633793,
         85913543,
         102085489,
-        85688675
+        85811513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102520171,
-    "wof:lastmodified":1449068589,
+    "wof:lastmodified":1466317080,
     "wof:name":"Valley Appliance",
     "wof:parent_id":85811513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.937438,34.777216,-86.937438,34.777216],
+  "bbox": [
+    -86.937438,
+    34.777216,
+    -86.937438,
+    34.777216
+],
   "geometry": {"coordinates":[-86.937438,34.777216],"type":"Point"}
 }

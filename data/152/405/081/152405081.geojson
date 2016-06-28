@@ -2,13 +2,14 @@
   "id": 152405081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.666553,33.436531,-86.666553,33.436531",
     "geom:latitude":33.436531,
     "geom:longitude":-86.666553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3145 Brook Highland Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85833411
+        85633793,
+        85833411,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152405081,
-    "wof:lastmodified":1449048536,
+    "wof:lastmodified":1466317843,
     "wof:name":"Brook Hills Early Learning Ctr",
     "wof:parent_id":85833411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.666553,33.436531,-86.666553,33.436531],
-  "geometry": {"coordinates":[-86.666553,33.436531],"type":"Point"}
+  "bbox": [
+    -86.666553,
+    33.436531,
+    -86.666553,
+    33.436531
+],
+  "geometry": {"coordinates":[-86.66655299999999,33.436531],"type":"Point"}
 }

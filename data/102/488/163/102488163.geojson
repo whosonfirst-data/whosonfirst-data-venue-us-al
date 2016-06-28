@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102488163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.451518,32.473446,-86.451518,32.473446",
     "geom:latitude":32.473446,
     "geom:longitude":-86.451518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Woodley Ave",
     "sg:city":"Prattville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.smsi.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843041,
+        85688675,
         85633793,
         85913977,
         102085509,
-        85688675
+        85843041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102488163,
-    "wof:lastmodified":1449070155,
+    "wof:lastmodified":1466316054,
     "wof:name":"Southern Micro Systems",
     "wof:parent_id":85843041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.451518,32.473446,-86.451518,32.473446],
-  "geometry": {"coordinates":[-86.451518,32.473446],"type":"Point"}
+  "bbox": [
+    -86.451518,
+    32.473446,
+    -86.451518,
+    32.473446
+],
+  "geometry": {"coordinates":[-86.45151799999999,32.473446],"type":"Point"}
 }

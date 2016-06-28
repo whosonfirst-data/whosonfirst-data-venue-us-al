@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102463843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.907401,33.47235,-86.907401,33.47235",
     "geom:latitude":33.47235,
     "geom:longitude":-86.907401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"717 Greenbriar Rd",
     "sg:city":"Fairfield",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818187,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85818187
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102463843,
-    "wof:lastmodified":1449069470,
+    "wof:lastmodified":1466315124,
     "wof:name":"Eddie W Perry",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.907401,33.47235,-86.907401,33.47235],
-  "geometry": {"coordinates":[-86.907401,33.47235],"type":"Point"}
+  "bbox": [
+    -86.907401,
+    33.47235,
+    -86.907401,
+    33.47235
+],
+  "geometry": {"coordinates":[-86.90740099999999,33.47235],"type":"Point"}
 }

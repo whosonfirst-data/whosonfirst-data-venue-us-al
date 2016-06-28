@@ -2,13 +2,14 @@
   "id": 152150225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.346459,32.360313,-86.346459,32.360313",
     "geom:latitude":32.360313,
     "geom:longitude":-86.346459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Turner Blvd",
     "sg:city":"Maxwell Afb",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85832931,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85832931
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152150225,
-    "wof:lastmodified":1449044350,
+    "wof:lastmodified":1466314549,
     "wof:name":"Capitol Construction Co",
     "wof:parent_id":85832931,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.346459,32.360313,-86.346459,32.360313],
+  "bbox": [
+    -86.346459,
+    32.360313,
+    -86.346459,
+    32.360313
+],
   "geometry": {"coordinates":[-86.346459,32.360313],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152123299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.720773,33.573842,-86.720773,33.573842",
     "geom:latitude":33.573842,
     "geom:longitude":-86.720773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8427 1st Ave N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816499,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85816499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152123299,
-    "wof:lastmodified":1449045687,
+    "wof:lastmodified":1466315464,
     "wof:name":"Tackle Box Inc",
     "wof:parent_id":85816499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.720773,33.573842,-86.720773,33.573842],
-  "geometry": {"coordinates":[-86.720773,33.573842],"type":"Point"}
+  "bbox": [
+    -86.720773,
+    33.573842,
+    -86.720773,
+    33.573842
+],
+  "geometry": {"coordinates":[-86.72077299999999,33.573842],"type":"Point"}
 }

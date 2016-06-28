@@ -2,13 +2,14 @@
   "id": 152604671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.702371,34.732279,-87.702371,34.732279",
     "geom:latitude":34.732279,
     "geom:longitude":-87.702371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 E 5th St",
     "sg:city":"Tuscumbia",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852605,
+        85688675,
         85633793,
         85897447,
         102085625,
-        85688675
+        85852605
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152604671,
-    "wof:lastmodified":1449048383,
+    "wof:lastmodified":1466318884,
     "wof:name":"Hall Pharmacies",
     "wof:parent_id":85852605,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.702371,34.732279,-87.702371,34.732279],
+  "bbox": [
+    -87.702371,
+    34.732279,
+    -87.702371,
+    34.732279
+],
   "geometry": {"coordinates":[-87.702371,34.732279],"type":"Point"}
 }

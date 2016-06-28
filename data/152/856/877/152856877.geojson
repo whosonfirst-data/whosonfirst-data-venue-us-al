@@ -2,13 +2,14 @@
   "id": 152856877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.591996,34.695803,-86.591996,34.695803",
     "geom:latitude":34.695803,
     "geom:longitude":-86.591996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3120 Leeman Ferry Rd SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85841535,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85841535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152856877,
-    "wof:lastmodified":1449045610,
+    "wof:lastmodified":1466320350,
     "wof:name":"Fowler Sod Farm",
     "wof:parent_id":85841535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.591996,34.695803,-86.591996,34.695803],
-  "geometry": {"coordinates":[-86.591996,34.695803],"type":"Point"}
+  "bbox": [
+    -86.591996,
+    34.695803,
+    -86.591996,
+    34.695803
+],
+  "geometry": {"coordinates":[-86.59199599999999,34.695803],"type":"Point"}
 }

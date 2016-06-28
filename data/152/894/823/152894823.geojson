@@ -2,13 +2,14 @@
   "id": 152894823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.520838,30.30229,-87.520838,30.30229",
     "geom:latitude":30.30229,
     "geom:longitude":-87.520838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5319 Pompano Ave",
     "sg:city":"Orange Beach",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868551,
+        85688675,
         85633793,
         85914719,
         102085469,
-        85688675
+        85868551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152894823,
-    "wof:lastmodified":1449046217,
+    "wof:lastmodified":1466320314,
     "wof:name":"Ringo On Location",
     "wof:parent_id":85868551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.520838,30.30229,-87.520838,30.30229],
+  "bbox": [
+    -87.520838,
+    30.30229,
+    -87.520838,
+    30.30229
+],
   "geometry": {"coordinates":[-87.520838,30.30229],"type":"Point"}
 }

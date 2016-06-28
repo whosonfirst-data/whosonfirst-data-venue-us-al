@@ -2,13 +2,14 @@
   "id": 152793619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.994248,33.876714,-86.994248,33.876714",
     "geom:latitude":33.876714,
     "geom:longitude":-86.994248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1546 Co Rd 6",
     "sg:city":"Bremen",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867305,
+        85688675,
         85633793,
         85914167,
         102085729,
-        85688675
+        85867305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152793619,
-    "wof:lastmodified":1449046842,
+    "wof:lastmodified":1466319856,
     "wof:name":"W Cates Logging Inc",
     "wof:parent_id":85867305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.994248,33.876714,-86.994248,33.876714],
+  "bbox": [
+    -86.994248,
+    33.876714,
+    -86.994248,
+    33.876714
+],
   "geometry": {"coordinates":[-86.994248,33.876714],"type":"Point"}
 }

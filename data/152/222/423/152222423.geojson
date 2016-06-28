@@ -2,13 +2,14 @@
   "id": 152222423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.185742,32.477017,-86.185742,32.477017",
     "geom:latitude":32.477017,
     "geom:longitude":-86.185742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4471 Jasmine Hill Rd",
     "sg:city":"Wetumpka",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827347,
+        85688675,
         85633793,
         85915121,
         102085631,
-        85688675
+        85827347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152222423,
-    "wof:lastmodified":1449047386,
+    "wof:lastmodified":1466316194,
     "wof:name":"Blue Ridge Baptist Church",
     "wof:parent_id":85827347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.185742,32.477017,-86.185742,32.477017],
+  "bbox": [
+    -86.185742,
+    32.477017,
+    -86.185742,
+    32.477017
+],
   "geometry": {"coordinates":[-86.185742,32.477017],"type":"Point"}
 }

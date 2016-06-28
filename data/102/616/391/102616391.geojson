@@ -2,13 +2,14 @@
   "id": 102616391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.897447,33.513507,-86.897447,33.513507",
     "geom:latitude":33.513507,
     "geom:longitude":-86.897447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 19th St",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818187,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85818187
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102616391,
-    "wof:lastmodified":1449069570,
+    "wof:lastmodified":1466317333,
     "wof:name":"Bernie's Hats & Accessories",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.897447,33.513507,-86.897447,33.513507],
+  "bbox": [
+    -86.897447,
+    33.513507,
+    -86.897447,
+    33.513507
+],
   "geometry": {"coordinates":[-86.897447,33.513507],"type":"Point"}
 }

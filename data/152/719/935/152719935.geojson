@@ -2,13 +2,14 @@
   "id": 152719935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.576607,34.743352,-86.576607,34.743352",
     "geom:latitude":34.743352,
     "geom:longitude":-86.576607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 Andrew Jackson Way NE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -35,11 +36,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819449,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85819449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":152719935,
-    "wof:lastmodified":1449044902,
+    "wof:lastmodified":1466319440,
     "wof:name":"Letha's Framemakers Etc",
     "wof:parent_id":85819449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.576607,34.743352,-86.576607,34.743352],
+  "bbox": [
+    -86.576607,
+    34.743352,
+    -86.576607,
+    34.743352
+],
   "geometry": {"coordinates":[-86.576607,34.743352],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152728597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.156303,31.870829,-85.156303,31.870829",
     "geom:latitude":31.870829,
     "geom:longitude":-85.156303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1605 S Eufaula Ave",
     "sg:city":"Eufaula",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152728597,
-    "wof:lastmodified":1449045372,
+    "wof:lastmodified":1466319486,
     "wof:name":"Shiva",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.156303,31.870829,-85.156303,31.870829],
-  "geometry": {"coordinates":[-85.156303,31.870829],"type":"Point"}
+  "bbox": [
+    -85.156303,
+    31.870829,
+    -85.156303,
+    31.870829
+],
+  "geometry": {"coordinates":[-85.15630299999999,31.870829],"type":"Point"}
 }

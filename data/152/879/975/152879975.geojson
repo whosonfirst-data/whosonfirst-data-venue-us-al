@@ -2,13 +2,14 @@
   "id": 152879975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.902664,30.603085,-87.902664,30.603085",
     "geom:latitude":30.603085,
     "geom:longitude":-87.902664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1710 Main St",
     "sg:city":"Daphne",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827259,
+        85688675,
         85633793,
         85914695,
         102085469,
-        85688675
+        85827259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152879975,
-    "wof:lastmodified":1449044337,
+    "wof:lastmodified":1466320261,
     "wof:name":"Allen & Allen Accountants",
     "wof:parent_id":85827259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.902664,30.603085,-87.902664,30.603085],
+  "bbox": [
+    -87.902664,
+    30.603085,
+    -87.902664,
+    30.603085
+],
   "geometry": {"coordinates":[-87.902664,30.603085],"type":"Point"}
 }

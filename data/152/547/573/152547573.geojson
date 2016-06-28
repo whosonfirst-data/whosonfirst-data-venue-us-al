@@ -2,13 +2,14 @@
   "id": 152547573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.546911,33.167513,-87.546911,33.167513",
     "geom:latitude":33.167513,
     "geom:longitude":-87.546911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4250 Old Greensboro Rd",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152547573,
-    "wof:lastmodified":1449044777,
+    "wof:lastmodified":1466318595,
     "wof:name":"Hollywood 16 Theaters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.546911,33.167513,-87.546911,33.167513],
-  "geometry": {"coordinates":[-87.546911,33.167513],"type":"Point"}
+  "bbox": [
+    -87.546911,
+    33.167513,
+    -87.546911,
+    33.167513
+],
+  "geometry": {"coordinates":[-87.54691099999999,33.167513],"type":"Point"}
 }

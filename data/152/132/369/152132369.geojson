@@ -2,13 +2,14 @@
   "id": 152132369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.302933,31.220741,-85.302933,31.220741",
     "geom:latitude":31.220741,
     "geom:longitude":-85.302933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"440 Olaff Rd",
     "sg:city":"Cowarts",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847911,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85847911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152132369,
-    "wof:lastmodified":1449046570,
+    "wof:lastmodified":1466315168,
     "wof:name":"Roundabout Plantation",
     "wof:parent_id":85847911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.302933,31.220741,-85.302933,31.220741],
+  "bbox": [
+    -85.302933,
+    31.220741,
+    -85.302933,
+    31.220741
+],
   "geometry": {"coordinates":[-85.302933,31.220741],"type":"Point"}
 }

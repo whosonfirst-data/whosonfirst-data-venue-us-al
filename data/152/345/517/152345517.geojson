@@ -2,13 +2,14 @@
   "id": 152345517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.850275,31.315351,-85.850275,31.315351",
     "geom:latitude":31.315351,
     "geom:longitude":-85.850275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 E Grubbs St",
     "sg:city":"Enterprise",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848823,
+        85688675,
         85633793,
         85899527,
         102085699,
-        85688675
+        85848823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152345517,
-    "wof:lastmodified":1449048557,
+    "wof:lastmodified":1466317649,
     "wof:name":"Letitia L Myers",
     "wof:parent_id":85848823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.850275,31.315351,-85.850275,31.315351],
+  "bbox": [
+    -85.850275,
+    31.315351,
+    -85.850275,
+    31.315351
+],
   "geometry": {"coordinates":[-85.850275,31.315351],"type":"Point"}
 }

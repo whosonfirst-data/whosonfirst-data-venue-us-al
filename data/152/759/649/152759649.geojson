@@ -2,13 +2,14 @@
   "id": 152759649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.878952,33.213512,-86.878952,33.213512",
     "geom:latitude":33.213512,
     "geom:longitude":-86.878952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Camelia Ln",
     "sg:city":"Maylene",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85839361,
+        85688675,
         85633793,
         85914487,
         102085499,
-        85688675
+        85839361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152759649,
-    "wof:lastmodified":1449048960,
+    "wof:lastmodified":1466319648,
     "wof:name":"Ceramic Art Tile Co",
     "wof:parent_id":85839361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.878952,33.213512,-86.878952,33.213512],
+  "bbox": [
+    -86.878952,
+    33.213512,
+    -86.878952,
+    33.213512
+],
   "geometry": {"coordinates":[-86.878952,33.213512],"type":"Point"}
 }

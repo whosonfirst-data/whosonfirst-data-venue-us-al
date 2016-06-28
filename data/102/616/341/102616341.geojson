@@ -2,13 +2,14 @@
   "id": 102616341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.570826,33.315705,-87.570826,33.315705",
     "geom:latitude":33.315705,
     "geom:longitude":-87.570826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11311 Ash Rd",
     "sg:city":"Northport",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":102616341,
-    "wof:lastmodified":1449069571,
+    "wof:lastmodified":1466317402,
     "wof:name":"Baker & Son",
     "wof:parent_id":85688675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.570826,33.315705,-87.570826,33.315705],
+  "bbox": [
+    -87.570826,
+    33.315705,
+    -87.570826,
+    33.315705
+],
   "geometry": {"coordinates":[-87.570826,33.315705],"type":"Point"}
 }

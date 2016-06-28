@@ -2,13 +2,14 @@
   "id": 102619471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.583622,34.603579,-86.583622,34.603579",
     "geom:latitude":34.603579,
     "geom:longitude":-86.583622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2550 Bonnie Oaks Dr SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822793,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85822793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102619471,
-    "wof:lastmodified":1449068249,
+    "wof:lastmodified":1466317323,
     "wof:name":"Beams Lawn Care",
     "wof:parent_id":85822793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.583622,34.603579,-86.583622,34.603579],
-  "geometry": {"coordinates":[-86.583622,34.603579],"type":"Point"}
+  "bbox": [
+    -86.583622,
+    34.603579,
+    -86.583622,
+    34.603579
+],
+  "geometry": {"coordinates":[-86.58362200000001,34.603579],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152571077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.084365,30.677744,-88.084365,30.677744",
     "geom:latitude":30.677744,
     "geom:longitude":-88.084365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1872 Airport Blvd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878975,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878975
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152571077,
-    "wof:lastmodified":1449047453,
+    "wof:lastmodified":1466318690,
     "wof:name":"World Martial Arts Training",
     "wof:parent_id":85878975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.084365,30.677744,-88.084365,30.677744],
-  "geometry": {"coordinates":[-88.084365,30.677744],"type":"Point"}
+  "bbox": [
+    -88.084365,
+    30.677744,
+    -88.084365,
+    30.677744
+],
+  "geometry": {"coordinates":[-88.08436500000001,30.677744],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152693473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.058852,32.464109,-85.058852,32.464109",
     "geom:latitude":32.464109,
     "geom:longitude":-85.058852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Wommack Rd",
     "sg:city":"Phenix City",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822949,
+        85688675,
         85633793,
         85913715,
         102085697,
-        85688675
+        85822949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152693473,
-    "wof:lastmodified":1449044562,
+    "wof:lastmodified":1466319368,
     "wof:name":"King Tile Company",
     "wof:parent_id":85822949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.058852,32.464109,-85.058852,32.464109],
+  "bbox": [
+    -85.058852,
+    32.464109,
+    -85.058852,
+    32.464109
+],
   "geometry": {"coordinates":[-85.058852,32.464109],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152638771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.890097,34.521499,-86.890097,34.521499",
     "geom:latitude":34.521499,
     "geom:longitude":-86.890097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"613 State Rte 67",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085531,
-        85633793,
         85688675,
-        85808557
+        85633793,
+        85808557,
+        102085531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152638771,
-    "wof:lastmodified":1449044554,
+    "wof:lastmodified":1466319076,
     "wof:name":"Total Kustoms",
     "wof:parent_id":85808557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.890097,34.521499,-86.890097,34.521499],
+  "bbox": [
+    -86.890097,
+    34.521499,
+    -86.890097,
+    34.521499
+],
   "geometry": {"coordinates":[-86.890097,34.521499],"type":"Point"}
 }

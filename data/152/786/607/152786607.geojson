@@ -2,13 +2,14 @@
   "id": 152786607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.43551,30.414451,-87.43551,30.414451",
     "geom:latitude":30.414451,
     "geom:longitude":-87.43551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34724 E Barclay Ave",
     "sg:city":"Lillian",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868551,
+        85688675,
         85633793,
         85914719,
         102085469,
-        85688675
+        85868551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152786607,
-    "wof:lastmodified":1449044902,
+    "wof:lastmodified":1466319750,
     "wof:name":"Fireman Pest Control",
     "wof:parent_id":85868551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.43551,30.414451,-87.43551,30.414451],
-  "geometry": {"coordinates":[-87.43551,30.414451],"type":"Point"}
+  "bbox": [
+    -87.43551,
+    30.414451,
+    -87.43551,
+    30.414451
+],
+  "geometry": {"coordinates":[-87.43550999999999,30.414451],"type":"Point"}
 }

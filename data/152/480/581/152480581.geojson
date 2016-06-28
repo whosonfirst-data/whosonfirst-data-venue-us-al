@@ -2,13 +2,14 @@
   "id": 152480581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.895285,30.603907,-87.895285,30.603907",
     "geom:latitude":30.603907,
     "geom:longitude":-87.895285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"903 Daphne Ave",
     "sg:city":"Daphne",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827259,
+        85688675,
         85633793,
         85914695,
         102085469,
-        85688675
+        85827259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152480581,
-    "wof:lastmodified":1449045812,
+    "wof:lastmodified":1466318235,
     "wof:name":"Pars Cleaning & Laundry Svc",
     "wof:parent_id":85827259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.895285,30.603907,-87.895285,30.603907],
+  "bbox": [
+    -87.895285,
+    30.603907,
+    -87.895285,
+    30.603907
+],
   "geometry": {"coordinates":[-87.895285,30.603907],"type":"Point"}
 }

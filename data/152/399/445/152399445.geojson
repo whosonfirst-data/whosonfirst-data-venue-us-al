@@ -2,13 +2,14 @@
   "id": 152399445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.565502,30.294306,-87.565502,30.294306",
     "geom:latitude":30.294306,
     "geom:longitude":-87.565502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27011 Canal Rd",
     "sg:city":"Orange Beach",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868551,
+        85688675,
         85633793,
         85914719,
         102085469,
-        85688675
+        85868551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152399445,
-    "wof:lastmodified":1449045123,
+    "wof:lastmodified":1466317842,
     "wof:name":"Jones Canvas & Interiors",
     "wof:parent_id":85868551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.565502,30.294306,-87.565502,30.294306],
+  "bbox": [
+    -87.565502,
+    30.294306,
+    -87.565502,
+    30.294306
+],
   "geometry": {"coordinates":[-87.565502,30.294306],"type":"Point"}
 }

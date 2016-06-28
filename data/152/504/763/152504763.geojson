@@ -2,13 +2,14 @@
   "id": 152504763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.671731,30.48002,-87.671731,30.48002",
     "geom:latitude":30.48002,
     "geom:longitude":-87.671731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20687 Fred Dugger Rd",
     "sg:city":"Summerdale",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854025,
+        85688675,
         85633793,
         85914707,
         102085469,
-        85688675
+        85854025
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152504763,
-    "wof:lastmodified":1449045118,
+    "wof:lastmodified":1466318366,
     "wof:name":"Jener Enterprises",
     "wof:parent_id":85854025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.671731,30.48002,-87.671731,30.48002],
-  "geometry": {"coordinates":[-87.671731,30.48002],"type":"Point"}
+  "bbox": [
+    -87.671731,
+    30.48002,
+    -87.671731,
+    30.48002
+],
+  "geometry": {"coordinates":[-87.67173099999999,30.48002],"type":"Point"}
 }

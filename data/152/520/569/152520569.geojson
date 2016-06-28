@@ -2,13 +2,14 @@
   "id": 152520569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.604958,34.791813,-86.604958,34.791813",
     "geom:latitude":34.791813,
     "geom:longitude":-86.604958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4036 Knollbrook Dr NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85810627,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85810627
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152520569,
-    "wof:lastmodified":1449045833,
+    "wof:lastmodified":1466318429,
     "wof:name":"Starnes Mechanical",
     "wof:parent_id":85810627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.604958,34.791813,-86.604958,34.791813],
+  "bbox": [
+    -86.604958,
+    34.791813,
+    -86.604958,
+    34.791813
+],
   "geometry": {"coordinates":[-86.604958,34.791813],"type":"Point"}
 }

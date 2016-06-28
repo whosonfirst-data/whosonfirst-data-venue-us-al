@@ -2,13 +2,14 @@
   "id": 152505161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.701692,32.531677,-86.701692,32.531677",
     "geom:latitude":32.531677,
     "geom:longitude":-86.701692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1278 Co Rd 19 N",
     "sg:city":"Prattville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152505161,
-    "wof:lastmodified":1449048157,
+    "wof:lastmodified":1466318343,
     "wof:name":"Gentry Sand & Gravel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.701692,32.531677,-86.701692,32.531677],
-  "geometry": {"coordinates":[-86.701692,32.531677],"type":"Point"}
+  "bbox": [
+    -86.701692,
+    32.531677,
+    -86.701692,
+    32.531677
+],
+  "geometry": {"coordinates":[-86.70169199999999,32.531677],"type":"Point"}
 }

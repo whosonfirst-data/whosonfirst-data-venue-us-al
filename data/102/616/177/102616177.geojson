@@ -2,13 +2,14 @@
   "id": 102616177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.488535,33.929248,-86.488535,33.929248",
     "geom:latitude":33.929248,
     "geom:longitude":-86.488535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 Industrial Park Rd",
     "sg:city":"Oneonta",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102616177,
-    "wof:lastmodified":1449069572,
+    "wof:lastmodified":1466317323,
     "wof:name":"Alumco",
     "wof:parent_id":85913893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.488535,33.929248,-86.488535,33.929248],
+  "bbox": [
+    -86.488535,
+    33.929248,
+    -86.488535,
+    33.929248
+],
   "geometry": {"coordinates":[-86.488535,33.929248],"type":"Point"}
 }

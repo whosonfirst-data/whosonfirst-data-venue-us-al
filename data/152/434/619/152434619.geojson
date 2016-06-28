@@ -2,13 +2,14 @@
   "id": 152434619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.546849,34.617538,-86.546849,34.617538",
     "geom:latitude":34.617538,
     "geom:longitude":-86.546849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1016 Shiloh St",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152434619,
-    "wof:lastmodified":1449045303,
+    "wof:lastmodified":1466317996,
     "wof:name":"Bob Kaczmarek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.546849,34.617538,-86.546849,34.617538],
-  "geometry": {"coordinates":[-86.546849,34.617538],"type":"Point"}
+  "bbox": [
+    -86.546849,
+    34.617538,
+    -86.546849,
+    34.617538
+],
+  "geometry": {"coordinates":[-86.54684899999999,34.617538],"type":"Point"}
 }

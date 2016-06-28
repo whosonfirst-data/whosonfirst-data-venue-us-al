@@ -2,13 +2,14 @@
   "id": 152490911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.562434,33.213463,-87.562434,33.213463",
     "geom:latitude":33.213463,
     "geom:longitude":-87.562434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 19th Ave",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152490911,
-    "wof:lastmodified":1449048458,
+    "wof:lastmodified":1466318164,
     "wof:name":"US Housing Authority",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.562434,33.213463,-87.562434,33.213463],
+  "bbox": [
+    -87.562434,
+    33.213463,
+    -87.562434,
+    33.213463
+],
   "geometry": {"coordinates":[-87.562434,33.213463],"type":"Point"}
 }

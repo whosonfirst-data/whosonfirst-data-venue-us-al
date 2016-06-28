@@ -2,13 +2,14 @@
   "id": 152831141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.516196,33.197225,-87.516196,33.197225",
     "geom:latitude":33.197225,
     "geom:longitude":-87.516196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 Veterans Memorial Pkwy",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152831141,
-    "wof:lastmodified":1449047013,
+    "wof:lastmodified":1466319847,
     "wof:name":"Humane Society Of West Al",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.516196,33.197225,-87.516196,33.197225],
-  "geometry": {"coordinates":[-87.516196,33.197225],"type":"Point"}
+  "bbox": [
+    -87.516196,
+    33.197225,
+    -87.516196,
+    33.197225
+],
+  "geometry": {"coordinates":[-87.51619599999999,33.197225],"type":"Point"}
 }

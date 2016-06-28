@@ -2,13 +2,14 @@
   "id": 152122181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.030903,34.024294,-86.030903,34.024294",
     "geom:latitude":34.024294,
     "geom:longitude":-86.030903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 W Meighan Blvd",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.gadsdenlighting.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805515,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85805515
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152122181,
-    "wof:lastmodified":1449046931,
+    "wof:lastmodified":1466314585,
     "wof:name":"Gadsden Lighting Showroom",
     "wof:parent_id":85805515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.030903,34.024294,-86.030903,34.024294],
+  "bbox": [
+    -86.030903,
+    34.024294,
+    -86.030903,
+    34.024294
+],
   "geometry": {"coordinates":[-86.030903,34.024294],"type":"Point"}
 }

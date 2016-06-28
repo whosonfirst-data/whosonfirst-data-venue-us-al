@@ -2,13 +2,14 @@
   "id": 152297069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.166479,32.372068,-86.166479,32.372068",
     "geom:latitude":32.372068,
     "geom:longitude":-86.166479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7336 Glen Chase Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885419,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85885419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152297069,
-    "wof:lastmodified":1449047239,
+    "wof:lastmodified":1466317045,
     "wof:name":"Integrated Sign Systems",
     "wof:parent_id":85885419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.166479,32.372068,-86.166479,32.372068],
+  "bbox": [
+    -86.166479,
+    32.372068,
+    -86.166479,
+    32.372068
+],
   "geometry": {"coordinates":[-86.166479,32.372068],"type":"Point"}
 }

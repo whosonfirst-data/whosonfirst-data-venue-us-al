@@ -2,13 +2,14 @@
   "id": 152160015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.761531,34.790202,-86.761531,34.790202",
     "geom:latitude":34.790202,
     "geom:longitude":-86.761531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 Water Oak Ct",
     "sg:city":"Harvest",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085487,
-        85633793,
         85688675,
-        85838413
+        85633793,
+        85838413,
+        102085487
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152160015,
-    "wof:lastmodified":1449048183,
+    "wof:lastmodified":1466315101,
     "wof:name":"Greenskeeper",
     "wof:parent_id":85838413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.761531,34.790202,-86.761531,34.790202],
-  "geometry": {"coordinates":[-86.761531,34.790202],"type":"Point"}
+  "bbox": [
+    -86.761531,
+    34.790202,
+    -86.761531,
+    34.790202
+],
+  "geometry": {"coordinates":[-86.76153100000001,34.790202],"type":"Point"}
 }

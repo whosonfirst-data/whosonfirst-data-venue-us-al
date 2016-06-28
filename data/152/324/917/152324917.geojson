@@ -2,13 +2,14 @@
   "id": 152324917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.194927,34.26903,-86.194927,34.26903",
     "geom:latitude":34.26903,
     "geom:longitude":-86.194927,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6170 US Hwy 431",
     "sg:city":"Albertville",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152324917,
-    "wof:lastmodified":1449047002,
+    "wof:lastmodified":1466317353,
     "wof:name":"Alabama Catalog Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.194927,34.26903,-86.194927,34.26903],
-  "geometry": {"coordinates":[-86.194927,34.26903],"type":"Point"}
+  "bbox": [
+    -86.194927,
+    34.26903,
+    -86.194927,
+    34.26903
+],
+  "geometry": {"coordinates":[-86.19492700000001,34.26903],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152764283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.737428,34.353019,-85.737428,34.353019",
     "geom:latitude":34.353019,
     "geom:longitude":-85.737428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3310 Co Rd 81",
     "sg:city":"Fort Payne",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815015,
+        85688675,
         85633793,
         85897515,
         102085615,
-        85688675
+        85815015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152764283,
-    "wof:lastmodified":1449048699,
+    "wof:lastmodified":1466319625,
     "wof:name":"Ruhama Baptist Church",
     "wof:parent_id":85815015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.737428,34.353019,-85.737428,34.353019],
-  "geometry": {"coordinates":[-85.737428,34.353019],"type":"Point"}
+  "bbox": [
+    -85.737428,
+    34.353019,
+    -85.737428,
+    34.353019
+],
+  "geometry": {"coordinates":[-85.73742799999999,34.353019],"type":"Point"}
 }

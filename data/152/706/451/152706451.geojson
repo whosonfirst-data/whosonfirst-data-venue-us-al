@@ -2,13 +2,14 @@
   "id": 152706451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.582842,34.720028,-86.582842,34.720028",
     "geom:latitude":34.720028,
     "geom:longitude":-86.582842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 Governors Dr SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878239,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878239
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":152706451,
-    "wof:lastmodified":1449044631,
+    "wof:lastmodified":1466319369,
     "wof:name":"Mc Abee Medical Inc",
     "wof:parent_id":85878239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.582842,34.720028,-86.582842,34.720028],
+  "bbox": [
+    -86.582842,
+    34.720028,
+    -86.582842,
+    34.720028
+],
   "geometry": {"coordinates":[-86.582842,34.720028],"type":"Point"}
 }

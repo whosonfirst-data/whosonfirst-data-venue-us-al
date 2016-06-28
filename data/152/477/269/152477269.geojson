@@ -2,13 +2,14 @@
   "id": 152477269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.209367,32.364146,-86.209367,32.364146",
     "geom:latitude":32.364146,
     "geom:longitude":-86.209367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 Holloway Park",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809571,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85809571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152477269,
-    "wof:lastmodified":1449045105,
+    "wof:lastmodified":1466318214,
     "wof:name":"Hospice Of Montgomery",
     "wof:parent_id":85809571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.209367,32.364146,-86.209367,32.364146],
+  "bbox": [
+    -86.209367,
+    32.364146,
+    -86.209367,
+    32.364146
+],
   "geometry": {"coordinates":[-86.209367,32.364146],"type":"Point"}
 }

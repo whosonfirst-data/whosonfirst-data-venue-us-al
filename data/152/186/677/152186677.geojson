@@ -2,13 +2,14 @@
   "id": 152186677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.176878,32.345999,-86.176878,32.345999",
     "geom:latitude":32.345999,
     "geom:longitude":-86.176878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6728 Taylor Ct",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85823517,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85823517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152186677,
-    "wof:lastmodified":1449047915,
+    "wof:lastmodified":1466315764,
     "wof:name":"Bruce Maddox Law Offices",
     "wof:parent_id":85823517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.176878,32.345999,-86.176878,32.345999],
+  "bbox": [
+    -86.176878,
+    32.345999,
+    -86.176878,
+    32.345999
+],
   "geometry": {"coordinates":[-86.176878,32.345999],"type":"Point"}
 }

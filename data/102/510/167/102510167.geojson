@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102510167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.542842,33.127803,-87.542842,33.127803",
     "geom:latitude":33.127803,
     "geom:longitude":-87.542842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Patriot Pkwy",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -25,10 +26,10 @@
     "sg:website":"www.hillcresthigh.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085553,
-        85633793,
         85688675,
-        85851887
+        85633793,
+        85851887,
+        102085553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102510167,
-    "wof:lastmodified":1449069185,
+    "wof:lastmodified":1466316607,
     "wof:name":"Hillcrest High School",
     "wof:parent_id":85851887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.542842,33.127803,-87.542842,33.127803],
-  "geometry": {"coordinates":[-87.542842,33.127803],"type":"Point"}
+  "bbox": [
+    -87.542842,
+    33.127803,
+    -87.542842,
+    33.127803
+],
+  "geometry": {"coordinates":[-87.54284199999999,33.127803],"type":"Point"}
 }

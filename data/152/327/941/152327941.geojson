@@ -2,13 +2,14 @@
   "id": 152327941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.144348,33.238933,-87.144348,33.238933",
     "geom:latitude":33.238933,
     "geom:longitude":-87.144348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11763 Giles Rd",
     "sg:city":"Woodstock",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851363,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85851363
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152327941,
-    "wof:lastmodified":1449044654,
+    "wof:lastmodified":1466317374,
     "wof:name":"Mc Kinney Wrecker Svc",
     "wof:parent_id":85851363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.144348,33.238933,-87.144348,33.238933],
-  "geometry": {"coordinates":[-87.144348,33.238933],"type":"Point"}
+  "bbox": [
+    -87.144348,
+    33.238933,
+    -87.144348,
+    33.238933
+],
+  "geometry": {"coordinates":[-87.14434799999999,33.238933],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152302513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.62874,34.732647,-86.62874,34.732647",
     "geom:latitude":34.732647,
     "geom:longitude":-86.62874,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Roll Tide Ln NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85846449,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85846449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152302513,
-    "wof:lastmodified":1449045869,
+    "wof:lastmodified":1466317147,
     "wof:name":"Dashun Detective Agency",
     "wof:parent_id":85846449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.62874,34.732647,-86.62874,34.732647],
-  "geometry": {"coordinates":[-86.62874,34.732647],"type":"Point"}
+  "bbox": [
+    -86.62874,
+    34.732647,
+    -86.62874,
+    34.732647
+],
+  "geometry": {"coordinates":[-86.62873999999999,34.732647],"type":"Point"}
 }

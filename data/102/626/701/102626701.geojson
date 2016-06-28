@@ -2,13 +2,14 @@
   "id": 102626701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.480311,33.829556,-86.480311,33.829556",
     "geom:latitude":33.829556,
     "geom:longitude":-86.480311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Bailey Dr",
     "sg:city":"Springville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":102626701,
-    "wof:lastmodified":1449070212,
+    "wof:lastmodified":1466317472,
     "wof:name":"Hilltop Tractor Svc",
     "wof:parent_id":85688675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.480311,33.829556,-86.480311,33.829556],
+  "bbox": [
+    -86.480311,
+    33.829556,
+    -86.480311,
+    33.829556
+],
   "geometry": {"coordinates":[-86.480311,33.829556],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152602483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.104744,32.464804,-86.104744,32.464804",
     "geom:latitude":32.464804,
     "geom:longitude":-86.104744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1915 Emerald Mountain Pkwy",
     "sg:city":"Wetumpka",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827347,
+        85688675,
         85633793,
         85915121,
         102085631,
-        85688675
+        85827347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152602483,
-    "wof:lastmodified":1449046477,
+    "wof:lastmodified":1466318872,
     "wof:name":"Precision Image",
     "wof:parent_id":85827347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.104744,32.464804,-86.104744,32.464804],
+  "bbox": [
+    -86.104744,
+    32.464804,
+    -86.104744,
+    32.464804
+],
   "geometry": {"coordinates":[-86.104744,32.464804],"type":"Point"}
 }

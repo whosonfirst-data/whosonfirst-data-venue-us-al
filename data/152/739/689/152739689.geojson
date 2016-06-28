@@ -2,13 +2,14 @@
   "id": 152739689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.853144,33.279109,-86.853144,33.279109",
     "geom:latitude":33.279109,
     "geom:longitude":-86.853144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2818 North Dr",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845631,
+        85688675,
         85633793,
         85914471,
         102085499,
-        85688675
+        85845631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152739689,
-    "wof:lastmodified":1449046265,
+    "wof:lastmodified":1466319539,
     "wof:name":"Cribbs Industrial Svc",
     "wof:parent_id":85845631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.853144,33.279109,-86.853144,33.279109],
+  "bbox": [
+    -86.853144,
+    33.279109,
+    -86.853144,
+    33.279109
+],
   "geometry": {"coordinates":[-86.853144,33.279109],"type":"Point"}
 }

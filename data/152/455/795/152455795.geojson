@@ -2,13 +2,14 @@
   "id": 152455795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.888706,33.487032,-86.888706,33.487032",
     "geom:latitude":33.487032,
     "geom:longitude":-86.888706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1565 Bessemer Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85832747,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85832747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152455795,
-    "wof:lastmodified":1449048175,
+    "wof:lastmodified":1466318216,
     "wof:name":"Beauty Masters",
     "wof:parent_id":85832747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.888706,33.487032,-86.888706,33.487032],
+  "bbox": [
+    -86.888706,
+    33.487032,
+    -86.888706,
+    33.487032
+],
   "geometry": {"coordinates":[-86.888706,33.487032],"type":"Point"}
 }

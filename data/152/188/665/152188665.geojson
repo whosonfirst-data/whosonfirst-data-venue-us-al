@@ -2,13 +2,14 @@
   "id": 152188665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.179722,33.353784,-86.179722,33.353784",
     "geom:latitude":33.353784,
     "geom:longitude":-86.179722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24479 Co Rd 21",
     "sg:city":"Talladega",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085517,
-        85633793,
         85688675,
-        85849013
+        85633793,
+        85849013,
+        102085517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152188665,
-    "wof:lastmodified":1449046596,
+    "wof:lastmodified":1466315765,
     "wof:name":"Mid-Way TV",
     "wof:parent_id":85849013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.179722,33.353784,-86.179722,33.353784],
+  "bbox": [
+    -86.179722,
+    33.353784,
+    -86.179722,
+    33.353784
+],
   "geometry": {"coordinates":[-86.179722,33.353784],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152400175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.480333,32.606626,-85.480333,32.606626",
     "geom:latitude":32.606626,
     "geom:longitude":-85.480333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 E Magnolia Ave",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809707,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85809707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":152400175,
-    "wof:lastmodified":1449044759,
+    "wof:lastmodified":1466317829,
     "wof:name":"Cameragraphics Inc",
     "wof:parent_id":85809707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.480333,32.606626,-85.480333,32.606626],
+  "bbox": [
+    -85.480333,
+    32.606626,
+    -85.480333,
+    32.606626
+],
   "geometry": {"coordinates":[-85.480333,32.606626],"type":"Point"}
 }

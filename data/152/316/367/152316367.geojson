@@ -2,13 +2,14 @@
   "id": 152316367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.767507,33.373472,-86.767507,33.373472",
     "geom:latitude":33.373472,
     "geom:longitude":-86.767507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1008 Lake Winds Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853353,
+        85688675,
         85633793,
         85914511,
         102085499,
-        85688675
+        85853353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152316367,
-    "wof:lastmodified":1449047428,
+    "wof:lastmodified":1466317377,
     "wof:name":"Van Kampen Group Inc",
     "wof:parent_id":85853353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.767507,33.373472,-86.767507,33.373472],
-  "geometry": {"coordinates":[-86.767507,33.373472],"type":"Point"}
+  "bbox": [
+    -86.767507,
+    33.373472,
+    -86.767507,
+    33.373472
+],
+  "geometry": {"coordinates":[-86.76750699999999,33.373472],"type":"Point"}
 }

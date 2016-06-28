@@ -2,13 +2,14 @@
   "id": 152845105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.428664,31.252676,-85.428664,31.252676",
     "geom:latitude":31.252676,
     "geom:longitude":-85.428664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3201 Montgomery Hwy",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851339,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85851339
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152845105,
-    "wof:lastmodified":1449045058,
+    "wof:lastmodified":1466320066,
     "wof:name":"Alabama Post Adption Cnnection",
     "wof:parent_id":85851339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.428664,31.252676,-85.428664,31.252676],
+  "bbox": [
+    -85.428664,
+    31.252676,
+    -85.428664,
+    31.252676
+],
   "geometry": {"coordinates":[-85.428664,31.252676],"type":"Point"}
 }

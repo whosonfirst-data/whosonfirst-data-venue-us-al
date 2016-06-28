@@ -2,13 +2,14 @@
   "id": 152838797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.680662,34.747726,-87.680662,34.747726",
     "geom:latitude":34.747726,
     "geom:longitude":-87.680662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"414 Cox Blvd",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816399,
+        85688675,
         85633793,
         85897481,
         102085625,
-        85688675
+        85816399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152838797,
-    "wof:lastmodified":1449044867,
+    "wof:lastmodified":1466320054,
     "wof:name":"Self Service Storage Inc",
     "wof:parent_id":85816399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.680662,34.747726,-87.680662,34.747726],
+  "bbox": [
+    -87.680662,
+    34.747726,
+    -87.680662,
+    34.747726
+],
   "geometry": {"coordinates":[-87.680662,34.747726],"type":"Point"}
 }

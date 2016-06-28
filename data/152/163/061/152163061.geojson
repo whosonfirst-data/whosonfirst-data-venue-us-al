@@ -2,13 +2,14 @@
   "id": 152163061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.815983,33.245042,-86.815983,33.245042",
     "geom:latitude":33.245042,
     "geom:longitude":-86.815983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 1st St N",
     "sg:city":"Alabaster",
     "sg:classifiers":[
@@ -29,12 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
+        85633793,
         85853623,
-        85847439,
-        85914487
+        102085499,
+        85914487,
+        85847439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,14 +61,20 @@
         }
     ],
     "wof:id":152163061,
-    "wof:lastmodified":1449048807,
+    "wof:lastmodified":1466315284,
     "wof:name":"Auto Color Company Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.815983,33.245042,-86.815983,33.245042],
+  "bbox": [
+    -86.815983,
+    33.245042,
+    -86.815983,
+    33.245042
+],
   "geometry": {"coordinates":[-86.815983,33.245042],"type":"Point"}
 }

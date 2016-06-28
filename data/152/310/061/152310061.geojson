@@ -2,13 +2,14 @@
   "id": 152310061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.276907,30.764039,-88.276907,30.764039",
     "geom:latitude":30.764039,
     "geom:longitude":-88.276907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9990 Wulff Rd",
     "sg:city":"Semmes",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085585,
-        85633793,
         85688675,
-        85878987
+        85633793,
+        85878987,
+        102085585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152310061,
-    "wof:lastmodified":1449047146,
+    "wof:lastmodified":1466317081,
     "wof:name":"Gengo Electric",
     "wof:parent_id":85878987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.276907,30.764039,-88.276907,30.764039],
-  "geometry": {"coordinates":[-88.276907,30.764039],"type":"Point"}
+  "bbox": [
+    -88.276907,
+    30.764039,
+    -88.276907,
+    30.764039
+],
+  "geometry": {"coordinates":[-88.27690699999999,30.764039],"type":"Point"}
 }

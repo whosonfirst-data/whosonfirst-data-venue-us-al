@@ -2,13 +2,14 @@
   "id": 152899453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.579259,34.562309,-86.579259,34.562309",
     "geom:latitude":34.562309,
     "geom:longitude":-86.579259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"569 US Hwy 231",
     "sg:city":"Laceys Spring",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822793,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85822793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152899453,
-    "wof:lastmodified":1449048688,
+    "wof:lastmodified":1466320337,
     "wof:name":"Laceys Spring Gulf",
     "wof:parent_id":85822793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.579259,34.562309,-86.579259,34.562309],
-  "geometry": {"coordinates":[-86.579259,34.562309],"type":"Point"}
+  "bbox": [
+    -86.579259,
+    34.562309,
+    -86.579259,
+    34.562309
+],
+  "geometry": {"coordinates":[-86.57925899999999,34.562309],"type":"Point"}
 }

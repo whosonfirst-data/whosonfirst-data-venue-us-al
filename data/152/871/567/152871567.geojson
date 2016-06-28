@@ -2,13 +2,14 @@
   "id": 152871567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.299225,32.326355,-86.299225,32.326355",
     "geom:latitude":32.326355,
     "geom:longitude":-86.299225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 E South Blvd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152871567,
-    "wof:lastmodified":1449045828,
+    "wof:lastmodified":1466320211,
     "wof:name":"Fox Unlimited Barber & Style",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.299225,32.326355,-86.299225,32.326355],
-  "geometry": {"coordinates":[-86.299225,32.326355],"type":"Point"}
+  "bbox": [
+    -86.299225,
+    32.326355,
+    -86.299225,
+    32.326355
+],
+  "geometry": {"coordinates":[-86.29922500000001,32.326355],"type":"Point"}
 }

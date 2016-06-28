@@ -2,13 +2,14 @@
   "id": 152480587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.708533,33.561463,-86.708533,33.561463",
     "geom:latitude":33.561463,
     "geom:longitude":-86.708533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8133 10th Ave S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829527,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85829527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152480587,
-    "wof:lastmodified":1449045811,
+    "wof:lastmodified":1466318320,
     "wof:name":"Franklin Tate Ministries",
     "wof:parent_id":85829527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.708533,33.561463,-86.708533,33.561463],
+  "bbox": [
+    -86.708533,
+    33.561463,
+    -86.708533,
+    33.561463
+],
   "geometry": {"coordinates":[-86.708533,33.561463],"type":"Point"}
 }

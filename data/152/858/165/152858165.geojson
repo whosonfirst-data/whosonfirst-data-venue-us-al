@@ -2,13 +2,14 @@
   "id": 152858165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.414885,32.632498,-85.414885,32.632498",
     "geom:latitude":32.632498,
     "geom:longitude":-85.414885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2401 1st Ave",
     "sg:city":"Opelika",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819517,
+        85688675,
         85633793,
         85913815,
         102085751,
-        85688675
+        85819517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152858165,
-    "wof:lastmodified":1449044765,
+    "wof:lastmodified":1466320355,
     "wof:name":"Midsouth Construction",
     "wof:parent_id":85819517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.414885,32.632498,-85.414885,32.632498],
+  "bbox": [
+    -85.414885,
+    32.632498,
+    -85.414885,
+    32.632498
+],
   "geometry": {"coordinates":[-85.414885,32.632498],"type":"Point"}
 }

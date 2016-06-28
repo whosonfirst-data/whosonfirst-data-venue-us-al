@@ -2,13 +2,14 @@
   "id": 152882241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.179934,32.381621,-86.179934,32.381621",
     "geom:latitude":32.381621,
     "geom:longitude":-86.179934,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Brown Springs Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834671,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85834671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152882241,
-    "wof:lastmodified":1449045136,
+    "wof:lastmodified":1466320387,
     "wof:name":"ABC Store",
     "wof:parent_id":85834671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.179934,32.381621,-86.179934,32.381621],
+  "bbox": [
+    -86.179934,
+    32.381621,
+    -86.179934,
+    32.381621
+],
   "geometry": {"coordinates":[-86.179934,32.381621],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102456293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.734457,33.460231,-86.734457,33.460231",
     "geom:latitude":33.460231,
     "geom:longitude":-86.734457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3125 Green Valley Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802339,
+        85688675,
         85633793,
         85914483,
         102085481,
-        85688675
+        85802339
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102456293,
-    "wof:lastmodified":1449068492,
+    "wof:lastmodified":1466314850,
     "wof:name":"Phillip D Morgan",
     "wof:parent_id":85802339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.734457,33.460231,-86.734457,33.460231],
-  "geometry": {"coordinates":[-86.734457,33.460231],"type":"Point"}
+  "bbox": [
+    -86.734457,
+    33.460231,
+    -86.734457,
+    33.460231
+],
+  "geometry": {"coordinates":[-86.73445700000001,33.460231],"type":"Point"}
 }

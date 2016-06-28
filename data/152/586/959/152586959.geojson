@@ -2,13 +2,14 @@
   "id": 152586959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.261481,32.363808,-86.261481,32.363808",
     "geom:latitude":32.363808,
     "geom:longitude":-86.261481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3275 Fairfax Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85823265,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85823265
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152586959,
-    "wof:lastmodified":1449048393,
+    "wof:lastmodified":1466318798,
     "wof:name":"Walker Electric",
     "wof:parent_id":85823265,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.261481,32.363808,-86.261481,32.363808],
+  "bbox": [
+    -86.261481,
+    32.363808,
+    -86.261481,
+    32.363808
+],
   "geometry": {"coordinates":[-86.261481,32.363808],"type":"Point"}
 }

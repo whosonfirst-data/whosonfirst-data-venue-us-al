@@ -2,13 +2,14 @@
   "id": 152860335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.425043,33.426888,-86.425043,33.426888",
     "geom:latitude":33.426888,
     "geom:longitude":-86.425043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"60 Rose Rd",
     "sg:city":"Vincent",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85841999
+        85633793,
+        85841999,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152860335,
-    "wof:lastmodified":1449046372,
+    "wof:lastmodified":1466320371,
     "wof:name":"Howard Construction",
     "wof:parent_id":85841999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.425043,33.426888,-86.425043,33.426888],
+  "bbox": [
+    -86.425043,
+    33.426888,
+    -86.425043,
+    33.426888
+],
   "geometry": {"coordinates":[-86.425043,33.426888],"type":"Point"}
 }

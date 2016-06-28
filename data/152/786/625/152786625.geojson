@@ -2,13 +2,14 @@
   "id": 152786625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.781862,33.471181,-86.781862,33.471181",
     "geom:latitude":33.471181,
     "geom:longitude":-86.781862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3507 Old Montgomery Hwy",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850365,
+        85688675,
         85633793,
         85914847,
         102085481,
-        85688675
+        85850365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152786625,
-    "wof:lastmodified":1449044909,
+    "wof:lastmodified":1466319750,
     "wof:name":"Lee Alan Co",
     "wof:parent_id":85850365,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.781862,33.471181,-86.781862,33.471181],
+  "bbox": [
+    -86.781862,
+    33.471181,
+    -86.781862,
+    33.471181
+],
   "geometry": {"coordinates":[-86.781862,33.471181],"type":"Point"}
 }

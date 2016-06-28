@@ -2,13 +2,14 @@
   "id": 152425549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.847465,33.272171,-86.847465,33.272171",
     "geom:latitude":33.272171,
     "geom:longitude":-86.847465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2307 Kala St",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845631,
+        85688675,
         85633793,
         85914471,
         102085499,
-        85688675
+        85845631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152425549,
-    "wof:lastmodified":1449045941,
+    "wof:lastmodified":1466318079,
     "wof:name":"JD Mith & Sons",
     "wof:parent_id":85845631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.847465,33.272171,-86.847465,33.272171],
+  "bbox": [
+    -86.847465,
+    33.272171,
+    -86.847465,
+    33.272171
+],
   "geometry": {"coordinates":[-86.847465,33.272171],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152301669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.171452,32.338816,-86.171452,32.338816",
     "geom:latitude":32.338816,
     "geom:longitude":-86.171452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8129 Vaughn Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879051,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152301669,
-    "wof:lastmodified":1449045474,
+    "wof:lastmodified":1466317159,
     "wof:name":"Bella",
     "wof:parent_id":85879051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.171452,32.338816,-86.171452,32.338816],
+  "bbox": [
+    -86.171452,
+    32.338816,
+    -86.171452,
+    32.338816
+],
   "geometry": {"coordinates":[-86.171452,32.338816],"type":"Point"}
 }

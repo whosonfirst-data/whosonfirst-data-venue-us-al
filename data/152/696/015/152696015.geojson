@@ -2,13 +2,14 @@
   "id": 152696015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.851387,33.505468,-86.851387,33.505468",
     "geom:latitude":33.505468,
     "geom:longitude":-86.851387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1016 3rd Ave W",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817999,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85817999
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152696015,
-    "wof:lastmodified":1449044644,
+    "wof:lastmodified":1466319327,
     "wof:name":"General Holding Insurance",
     "wof:parent_id":85817999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.851387,33.505468,-86.851387,33.505468],
+  "bbox": [
+    -86.851387,
+    33.505468,
+    -86.851387,
+    33.505468
+],
   "geometry": {"coordinates":[-86.851387,33.505468],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152620283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.241073,32.338298,-86.241073,32.338298",
     "geom:latitude":32.338298,
     "geom:longitude":-86.241073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4419 Liztame Dr",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807237,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85807237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152620283,
-    "wof:lastmodified":1449048518,
+    "wof:lastmodified":1466318939,
     "wof:name":"Mary S Wilson",
     "wof:parent_id":85807237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.241073,32.338298,-86.241073,32.338298],
+  "bbox": [
+    -86.241073,
+    32.338298,
+    -86.241073,
+    32.338298
+],
   "geometry": {"coordinates":[-86.241073,32.338298],"type":"Point"}
 }

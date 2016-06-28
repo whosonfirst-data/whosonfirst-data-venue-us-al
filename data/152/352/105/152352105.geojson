@@ -2,13 +2,14 @@
   "id": 152352105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.687303,33.611577,-86.687303,33.611577",
     "geom:latitude":33.611577,
     "geom:longitude":-86.687303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9933 Parkway E",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854035,
+        85688675,
         85633793,
         85914903,
         102085481,
-        85688675
+        85854035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152352105,
-    "wof:lastmodified":1449047139,
+    "wof:lastmodified":1466317591,
     "wof:name":"Crown Central",
     "wof:parent_id":85854035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.687303,33.611577,-86.687303,33.611577],
+  "bbox": [
+    -86.687303,
+    33.611577,
+    -86.687303,
+    33.611577
+],
   "geometry": {"coordinates":[-86.687303,33.611577],"type":"Point"}
 }

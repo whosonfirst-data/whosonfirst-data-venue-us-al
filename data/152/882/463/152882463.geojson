@@ -2,13 +2,14 @@
   "id": 152882463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.694687,33.6328,-86.694687,33.6328",
     "geom:latitude":33.6328,
     "geom:longitude":-86.694687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1717 4th Pl NW",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851413,
+        85688675,
         85633793,
         85914903,
         102085481,
-        85688675
+        85851413
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152882463,
-    "wof:lastmodified":1449045137,
+    "wof:lastmodified":1466320389,
     "wof:name":"Animal Control Experts",
     "wof:parent_id":85851413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.694687,33.6328,-86.694687,33.6328],
+  "bbox": [
+    -86.694687,
+    33.6328,
+    -86.694687,
+    33.6328
+],
   "geometry": {"coordinates":[-86.694687,33.6328],"type":"Point"}
 }

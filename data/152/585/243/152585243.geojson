@@ -2,13 +2,14 @@
   "id": 152585243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.886789,30.568183,-87.886789,30.568183",
     "geom:latitude":30.568183,
     "geom:longitude":-87.886789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Chestnut Ridge",
     "sg:city":"Fairhope",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847563,
+        85688675,
         85633793,
         85914707,
         102085469,
-        85688675
+        85847563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152585243,
-    "wof:lastmodified":1449047370,
+    "wof:lastmodified":1466318770,
     "wof:name":"Focus Two Inc",
     "wof:parent_id":85847563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.886789,30.568183,-87.886789,30.568183],
-  "geometry": {"coordinates":[-87.886789,30.568183],"type":"Point"}
+  "bbox": [
+    -87.886789,
+    30.568183,
+    -87.886789,
+    30.568183
+],
+  "geometry": {"coordinates":[-87.88678899999999,30.568183],"type":"Point"}
 }

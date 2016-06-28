@@ -2,13 +2,14 @@
   "id": 119124185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.166974,32.348885,-86.166974,32.348885",
     "geom:latitude":32.348885,
     "geom:longitude":-86.166974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2007 Halcyon Blvd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85823517,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85823517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":119124185,
-    "wof:lastmodified":1449043332,
+    "wof:lastmodified":1466314334,
     "wof:name":"Tom Graham",
     "wof:parent_id":85823517,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.166974,32.348885,-86.166974,32.348885],
+  "bbox": [
+    -86.166974,
+    32.348885,
+    -86.166974,
+    32.348885
+],
   "geometry": {"coordinates":[-86.166974,32.348885],"type":"Point"}
 }

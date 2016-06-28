@@ -2,13 +2,14 @@
   "id": 152670203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.583594,34.732878,-86.583594,34.732878",
     "geom:latitude":34.732878,
     "geom:longitude":-86.583594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 Clinton Ave E",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878241,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878241
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152670203,
-    "wof:lastmodified":1449044996,
+    "wof:lastmodified":1466319176,
     "wof:name":"Echota RES Scnce Applctons LLC",
     "wof:parent_id":85878241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.583594,34.732878,-86.583594,34.732878],
-  "geometry": {"coordinates":[-86.583594,34.732878],"type":"Point"}
+  "bbox": [
+    -86.583594,
+    34.732878,
+    -86.583594,
+    34.732878
+],
+  "geometry": {"coordinates":[-86.58359400000001,34.732878],"type":"Point"}
 }

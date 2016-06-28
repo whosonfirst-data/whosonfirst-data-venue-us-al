@@ -2,13 +2,14 @@
   "id": 152299457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.28235,30.909964,-88.28235,30.909964",
     "geom:latitude":30.909964,
     "geom:longitude":-88.28235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10151 Lawrence Byrd Rd",
     "sg:city":"Chunchula",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085585,
-        85633793,
         85688675,
-        85878987
+        85633793,
+        85878987,
+        102085585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152299457,
-    "wof:lastmodified":1449045469,
+    "wof:lastmodified":1466317065,
     "wof:name":"Vinyl De Signs",
     "wof:parent_id":85878987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.28235,30.909964,-88.28235,30.909964],
-  "geometry": {"coordinates":[-88.28235,30.909964],"type":"Point"}
+  "bbox": [
+    -88.28235,
+    30.909964,
+    -88.28235,
+    30.909964
+],
+  "geometry": {"coordinates":[-88.28234999999999,30.909964],"type":"Point"}
 }

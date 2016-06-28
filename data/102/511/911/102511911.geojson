@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102511911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.714774,33.485905,-86.714774,33.485905",
     "geom:latitude":33.485905,
     "geom:longitude":-86.714774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3608 Chaumont Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085481,
-        85633793,
         85688675,
-        85810623
+        85633793,
+        85810623,
+        102085481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102511911,
-    "wof:lastmodified":1449068881,
+    "wof:lastmodified":1466316858,
     "wof:name":"Dillards Flooring Designs",
     "wof:parent_id":85810623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.714774,33.485905,-86.714774,33.485905],
-  "geometry": {"coordinates":[-86.714774,33.485905],"type":"Point"}
+  "bbox": [
+    -86.714774,
+    33.485905,
+    -86.714774,
+    33.485905
+],
+  "geometry": {"coordinates":[-86.71477400000001,33.485905],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102622231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.296244,32.371636,-86.296244,32.371636",
     "geom:latitude":32.371636,
     "geom:longitude":-86.296244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 S Jackson St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879037,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102622231,
-    "wof:lastmodified":1449069732,
+    "wof:lastmodified":1466317440,
     "wof:name":"Malden Brothers Barber Shop",
     "wof:parent_id":85879037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.296244,32.371636,-86.296244,32.371636],
+  "bbox": [
+    -86.296244,
+    32.371636,
+    -86.296244,
+    32.371636
+],
   "geometry": {"coordinates":[-86.296244,32.371636],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152384793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.832347,33.471465,-86.832347,33.471465",
     "geom:latitude":33.471465,
     "geom:longitude":-86.832347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"244 Goodwin Crest Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817409,
+        85688675,
         85633793,
         85914847,
         102085481,
-        85688675
+        85817409
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152384793,
-    "wof:lastmodified":1449044881,
+    "wof:lastmodified":1466317813,
     "wof:name":"Tdm Research & Communication",
     "wof:parent_id":85817409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.832347,33.471465,-86.832347,33.471465],
+  "bbox": [
+    -86.832347,
+    33.471465,
+    -86.832347,
+    33.471465
+],
   "geometry": {"coordinates":[-86.832347,33.471465],"type":"Point"}
 }

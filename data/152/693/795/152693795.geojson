@@ -2,13 +2,14 @@
   "id": 152693795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.616398,33.958479,-85.616398,33.958479",
     "geom:latitude":33.958479,
     "geom:longitude":-85.616398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24089 State Rte 9",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817157,
+        85688675,
         85633793,
         85914293,
         102085603,
-        85688675
+        85817157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152693795,
-    "wof:lastmodified":1449044563,
+    "wof:lastmodified":1466319372,
     "wof:name":"Berry Animal Clinic",
     "wof:parent_id":85817157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.616398,33.958479,-85.616398,33.958479],
+  "bbox": [
+    -85.616398,
+    33.958479,
+    -85.616398,
+    33.958479
+],
   "geometry": {"coordinates":[-85.616398,33.958479],"type":"Point"}
 }

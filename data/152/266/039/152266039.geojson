@@ -2,13 +2,14 @@
   "id": 152266039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.302337,34.325553,-86.302337,34.325553",
     "geom:latitude":34.325553,
     "geom:longitude":-86.302337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7004 Val Monte Dr",
     "sg:city":"Guntersville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85823365,
+        85688675,
         85633793,
         85899833,
         102085513,
-        85688675
+        85823365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152266039,
-    "wof:lastmodified":1449044439,
+    "wof:lastmodified":1466316773,
     "wof:name":"Top of River Restaurant",
     "wof:parent_id":85823365,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.302337,34.325553,-86.302337,34.325553],
-  "geometry": {"coordinates":[-86.302337,34.325553],"type":"Point"}
+  "bbox": [
+    -86.302337,
+    34.325553,
+    -86.302337,
+    34.325553
+],
+  "geometry": {"coordinates":[-86.30233699999999,34.325553],"type":"Point"}
 }

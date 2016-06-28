@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102466307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.578133,34.624009,-86.578133,34.624009",
     "geom:latitude":34.624009,
     "geom:longitude":-86.578133,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2201 Manchester Cir SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85844231,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85844231
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102466307,
-    "wof:lastmodified":1449068499,
+    "wof:lastmodified":1466315140,
     "wof:name":"Qnet Consulting Inc",
     "wof:parent_id":85844231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.578133,34.624009,-86.578133,34.624009],
-  "geometry": {"coordinates":[-86.578133,34.624009],"type":"Point"}
+  "bbox": [
+    -86.578133,
+    34.624009,
+    -86.578133,
+    34.624009
+],
+  "geometry": {"coordinates":[-86.57813299999999,34.624009],"type":"Point"}
 }

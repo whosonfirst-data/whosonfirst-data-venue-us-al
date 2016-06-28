@@ -2,13 +2,14 @@
   "id": 152387953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.588179,33.542812,-86.588179,33.542812",
     "geom:latitude":33.542812,
     "geom:longitude":-86.588179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 Parkway Dr SW",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847425,
+        85688675,
         85633793,
         85913477,
         102085481,
-        85688675
+        85847425
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152387953,
-    "wof:lastmodified":1449048295,
+    "wof:lastmodified":1466317655,
     "wof:name":"Leeds Interstate Chevron",
     "wof:parent_id":85847425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.588179,33.542812,-86.588179,33.542812],
+  "bbox": [
+    -86.588179,
+    33.542812,
+    -86.588179,
+    33.542812
+],
   "geometry": {"coordinates":[-86.588179,33.542812],"type":"Point"}
 }

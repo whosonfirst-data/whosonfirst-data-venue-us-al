@@ -2,13 +2,14 @@
   "id": 152529351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.716513,33.515729,-86.716513,33.515729",
     "geom:latitude":33.515729,
     "geom:longitude":-86.716513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2407 Manassas Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850695,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85850695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152529351,
-    "wof:lastmodified":1449046336,
+    "wof:lastmodified":1466318543,
     "wof:name":"Coupon Lady",
     "wof:parent_id":85850695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.716513,33.515729,-86.716513,33.515729],
-  "geometry": {"coordinates":[-86.716513,33.515729],"type":"Point"}
+  "bbox": [
+    -86.716513,
+    33.515729,
+    -86.716513,
+    33.515729
+],
+  "geometry": {"coordinates":[-86.71651300000001,33.515729],"type":"Point"}
 }

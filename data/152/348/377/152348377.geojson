@@ -2,13 +2,14 @@
   "id": 152348377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.566081,33.485249,-86.566081,33.485249",
     "geom:latitude":33.485249,
     "geom:longitude":-86.566081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9782 Co Rd 41",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85833411
+        85633793,
+        85833411,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152348377,
-    "wof:lastmodified":1449044493,
+    "wof:lastmodified":1466317567,
     "wof:name":"Custom Wood Craft",
     "wof:parent_id":85833411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.566081,33.485249,-86.566081,33.485249],
+  "bbox": [
+    -86.566081,
+    33.485249,
+    -86.566081,
+    33.485249
+],
   "geometry": {"coordinates":[-86.566081,33.485249],"type":"Point"}
 }

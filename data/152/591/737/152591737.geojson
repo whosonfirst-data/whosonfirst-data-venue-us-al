@@ -2,13 +2,14 @@
   "id": 152591737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.873596,34.207843,-86.873596,34.207843",
     "geom:latitude":34.207843,
     "geom:longitude":-86.873596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3259 Old Hwy 157",
     "sg:city":"Cullman",
     "sg:classifiers":[
@@ -30,10 +31,10 @@
     "sg:website":"www.rbpinc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085729,
-        85633793,
         85688675,
-        85867309
+        85633793,
+        85867309,
+        102085729
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152591737,
-    "wof:lastmodified":1449046772,
+    "wof:lastmodified":1466318785,
     "wof:name":"Riley Business Products Inc",
     "wof:parent_id":85867309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.873596,34.207843,-86.873596,34.207843],
-  "geometry": {"coordinates":[-86.873596,34.207843],"type":"Point"}
+  "bbox": [
+    -86.873596,
+    34.207843,
+    -86.873596,
+    34.207843
+],
+  "geometry": {"coordinates":[-86.87359600000001,34.207843],"type":"Point"}
 }

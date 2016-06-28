@@ -2,13 +2,14 @@
   "id": 152458697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.31255,32.380979,-86.31255,32.380979",
     "geom:latitude":32.380979,
     "geom:longitude":-86.31255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 Commerce St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879037,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152458697,
-    "wof:lastmodified":1449047587,
+    "wof:lastmodified":1466318234,
     "wof:name":"Beasley Allen Crow Methvin",
     "wof:parent_id":85879037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.31255,32.380979,-86.31255,32.380979],
+  "bbox": [
+    -86.31255,
+    32.380979,
+    -86.31255,
+    32.380979
+],
   "geometry": {"coordinates":[-86.31255,32.380979],"type":"Point"}
 }

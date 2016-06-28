@@ -2,13 +2,14 @@
   "id": 152805017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.579276,30.545892,-87.579276,30.545892",
     "geom:latitude":30.545892,
     "geom:longitude":-87.579276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26212 Joe Foley Rd",
     "sg:city":"Robertsdale",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":152805017,
-    "wof:lastmodified":1449045850,
+    "wof:lastmodified":1466319865,
     "wof:name":"End Of The Road",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.579276,30.545892,-87.579276,30.545892],
-  "geometry": {"coordinates":[-87.579276,30.545892],"type":"Point"}
+  "bbox": [
+    -87.579276,
+    30.545892,
+    -87.579276,
+    30.545892
+],
+  "geometry": {"coordinates":[-87.57927599999999,30.545892],"type":"Point"}
 }

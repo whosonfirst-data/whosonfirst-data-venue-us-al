@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102500333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.588244,34.730349,-86.588244,34.730349",
     "geom:latitude":34.730349,
     "geom:longitude":-86.588244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Clinton Ave W",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878237,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102500333,
-    "wof:lastmodified":1449068388,
+    "wof:lastmodified":1466316483,
     "wof:name":"Steven H Deerman CPA",
     "wof:parent_id":85878237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.588244,34.730349,-86.588244,34.730349],
+  "bbox": [
+    -86.588244,
+    34.730349,
+    -86.588244,
+    34.730349
+],
   "geometry": {"coordinates":[-86.588244,34.730349],"type":"Point"}
 }

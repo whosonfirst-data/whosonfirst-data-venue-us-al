@@ -2,13 +2,14 @@
   "id": 119133879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.741744,34.719919,-86.741744,34.719919",
     "geom:latitude":34.719919,
     "geom:longitude":-86.741744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"650 Hughes Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845785,
+        85688675,
         85633793,
         85913593,
         102085487,
-        85688675
+        85845785
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":119133879,
-    "wof:lastmodified":1449043048,
+    "wof:lastmodified":1466315465,
     "wof:name":"Bob Jones High School",
     "wof:parent_id":85845785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.741744,34.719919,-86.741744,34.719919],
+  "bbox": [
+    -86.741744,
+    34.719919,
+    -86.741744,
+    34.719919
+],
   "geometry": {"coordinates":[-86.741744,34.719919],"type":"Point"}
 }

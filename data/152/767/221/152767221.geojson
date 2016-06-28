@@ -2,13 +2,14 @@
   "id": 152767221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.157714,33.23382,-87.157714,33.23382",
     "geom:latitude":33.23382,
     "geom:longitude":-87.157714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20578 Faynell Cir",
     "sg:city":"Woodstock",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851363,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85851363
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152767221,
-    "wof:lastmodified":1449045620,
+    "wof:lastmodified":1466319668,
     "wof:name":"Southern Cross Transportation",
     "wof:parent_id":85851363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.157714,33.23382,-87.157714,33.23382],
+  "bbox": [
+    -87.157714,
+    33.23382,
+    -87.157714,
+    33.23382
+],
   "geometry": {"coordinates":[-87.157714,33.23382],"type":"Point"}
 }

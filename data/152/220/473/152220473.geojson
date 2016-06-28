@@ -2,13 +2,14 @@
   "id": 152220473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.390834,31.235282,-85.390834,31.235282",
     "geom:latitude":31.235282,
     "geom:longitude":-85.390834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 E Stough St",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852069,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85852069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152220473,
-    "wof:lastmodified":1449048750,
+    "wof:lastmodified":1466316090,
     "wof:name":"Stough Street Grocery",
     "wof:parent_id":85852069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.390834,31.235282,-85.390834,31.235282],
+  "bbox": [
+    -85.390834,
+    31.235282,
+    -85.390834,
+    31.235282
+],
   "geometry": {"coordinates":[-85.390834,31.235282],"type":"Point"}
 }

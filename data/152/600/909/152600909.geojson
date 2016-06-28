@@ -2,13 +2,14 @@
   "id": 152600909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.037493,34.769549,-87.037493,34.769549",
     "geom:latitude":34.769549,
     "geom:longitude":-87.037493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15960 Ham Rd",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829531,
+        85688675,
         85633793,
         85913543,
         102085489,
-        85688675
+        85829531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152600909,
-    "wof:lastmodified":1449044729,
+    "wof:lastmodified":1466318875,
     "wof:name":"Hams Custom Woodworks",
     "wof:parent_id":85829531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.037493,34.769549,-87.037493,34.769549],
+  "bbox": [
+    -87.037493,
+    34.769549,
+    -87.037493,
+    34.769549
+],
   "geometry": {"coordinates":[-87.037493,34.769549],"type":"Point"}
 }

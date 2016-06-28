@@ -2,13 +2,14 @@
   "id": 152754319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.649408,34.752409,-87.649408,34.752409",
     "geom:latitude":34.752409,
     "geom:longitude":-87.649408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 Edison Ave",
     "sg:city":"Muscle Shoals",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816399,
+        85688675,
         85633793,
         85897481,
         102085625,
-        85688675
+        85816399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152754319,
-    "wof:lastmodified":1449047324,
+    "wof:lastmodified":1466319728,
     "wof:name":"Holiday Trailer Court",
     "wof:parent_id":85816399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.649408,34.752409,-87.649408,34.752409],
-  "geometry": {"coordinates":[-87.649408,34.752409],"type":"Point"}
+  "bbox": [
+    -87.649408,
+    34.752409,
+    -87.649408,
+    34.752409
+],
+  "geometry": {"coordinates":[-87.64940799999999,34.752409],"type":"Point"}
 }

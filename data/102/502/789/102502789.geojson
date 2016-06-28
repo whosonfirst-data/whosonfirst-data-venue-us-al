@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102502789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.610048,34.749554,-86.610048,34.749554",
     "geom:latitude":34.749554,
     "geom:longitude":-86.610048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2006 Pulaski Pike NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85839083,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85839083
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102502789,
-    "wof:lastmodified":1449068869,
+    "wof:lastmodified":1466316677,
     "wof:name":"Grace Tropical",
     "wof:parent_id":85839083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.610048,34.749554,-86.610048,34.749554],
-  "geometry": {"coordinates":[-86.610048,34.749554],"type":"Point"}
+  "bbox": [
+    -86.610048,
+    34.749554,
+    -86.610048,
+    34.749554
+],
+  "geometry": {"coordinates":[-86.61004800000001,34.749554],"type":"Point"}
 }

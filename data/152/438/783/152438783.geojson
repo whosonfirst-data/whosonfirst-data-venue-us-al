@@ -2,13 +2,14 @@
   "id": 152438783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.779348,33.52816,-86.779348,33.52816",
     "geom:latitude":33.52816,
     "geom:longitude":-86.779348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4000 4th Ter N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876275,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152438783,
-    "wof:lastmodified":1449045869,
+    "wof:lastmodified":1466318109,
     "wof:name":"Modine Aftermarket Holdings",
     "wof:parent_id":85876275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.779348,33.52816,-86.779348,33.52816],
+  "bbox": [
+    -86.779348,
+    33.52816,
+    -86.779348,
+    33.52816
+],
   "geometry": {"coordinates":[-86.779348,33.52816],"type":"Point"}
 }

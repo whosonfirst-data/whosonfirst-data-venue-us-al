@@ -2,13 +2,14 @@
   "id": 152339893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.154325,30.370016,-88.154325,30.370016",
     "geom:latitude":30.370016,
     "geom:longitude":-88.154325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15375 Delta Port Blvd",
     "sg:city":"Coden",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152339893,
-    "wof:lastmodified":1449046378,
+    "wof:lastmodified":1466317552,
     "wof:name":"Morgan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.154325,30.370016,-88.154325,30.370016],
+  "bbox": [
+    -88.154325,
+    30.370016,
+    -88.154325,
+    30.370016
+],
   "geometry": {"coordinates":[-88.154325,30.370016],"type":"Point"}
 }

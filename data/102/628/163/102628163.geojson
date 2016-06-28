@@ -2,13 +2,14 @@
   "id": 102628163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.61196,34.75408,-86.61196,34.75408",
     "geom:latitude":34.75408,
     "geom:longitude":-86.61196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2510 Pulaski Pike NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809309,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85809309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102628163,
-    "wof:lastmodified":1449069718,
+    "wof:lastmodified":1466317439,
     "wof:name":"Roy H Mc Cray DDS",
     "wof:parent_id":85809309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.61196,34.75408,-86.61196,34.75408],
+  "bbox": [
+    -86.61196,
+    34.75408,
+    -86.61196,
+    34.75408
+],
   "geometry": {"coordinates":[-86.61196,34.75408],"type":"Point"}
 }

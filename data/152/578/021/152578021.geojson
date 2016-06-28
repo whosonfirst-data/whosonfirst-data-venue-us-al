@@ -2,13 +2,14 @@
   "id": 152578021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.571946,34.79285,-86.571946,34.79285",
     "geom:latitude":34.79285,
     "geom:longitude":-86.571946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Winchester Rd NE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.luckyhydraulics.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833383,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85833383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152578021,
-    "wof:lastmodified":1449045464,
+    "wof:lastmodified":1466318742,
     "wof:name":"Lucky Hydraulics Inc",
     "wof:parent_id":85833383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.571946,34.79285,-86.571946,34.79285],
+  "bbox": [
+    -86.571946,
+    34.79285,
+    -86.571946,
+    34.79285
+],
   "geometry": {"coordinates":[-86.571946,34.79285],"type":"Point"}
 }

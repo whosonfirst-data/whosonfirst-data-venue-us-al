@@ -2,13 +2,14 @@
   "id": 152362601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.351162,31.21299,-85.351162,31.21299",
     "geom:latitude":31.21299,
     "geom:longitude":-85.351162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 Melrose Ln",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847911,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85847911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152362601,
-    "wof:lastmodified":1449047286,
+    "wof:lastmodified":1466317631,
     "wof:name":"Wayne Horne",
     "wof:parent_id":85847911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.351162,31.21299,-85.351162,31.21299],
+  "bbox": [
+    -85.351162,
+    31.21299,
+    -85.351162,
+    31.21299
+],
   "geometry": {"coordinates":[-85.351162,31.21299],"type":"Point"}
 }

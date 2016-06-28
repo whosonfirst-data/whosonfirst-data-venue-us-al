@@ -2,13 +2,14 @@
   "id": 152814439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.111774,30.683899,-88.111774,30.683899",
     "geom:latitude":30.683899,
     "geom:longitude":-88.111774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2919 S Sherwood Dr",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878965,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152814439,
-    "wof:lastmodified":1449045151,
+    "wof:lastmodified":1466319910,
     "wof:name":"Ms Rans Inc",
     "wof:parent_id":85878965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.111774,30.683899,-88.111774,30.683899],
+  "bbox": [
+    -88.111774,
+    30.683899,
+    -88.111774,
+    30.683899
+],
   "geometry": {"coordinates":[-88.111774,30.683899],"type":"Point"}
 }

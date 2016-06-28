@@ -2,13 +2,14 @@
   "id": 152429497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.683766,30.405233,-87.683766,30.405233",
     "geom:latitude":30.405233,
     "geom:longitude":-87.683766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 E Orange Ave",
     "sg:city":"Foley",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868551,
+        85688675,
         85633793,
         85914719,
         102085469,
-        85688675
+        85868551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152429497,
-    "wof:lastmodified":1449048676,
+    "wof:lastmodified":1466318001,
     "wof:name":"Ashleys Tea Room",
     "wof:parent_id":85868551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.683766,30.405233,-87.683766,30.405233],
-  "geometry": {"coordinates":[-87.683766,30.405233],"type":"Point"}
+  "bbox": [
+    -87.683766,
+    30.405233,
+    -87.683766,
+    30.405233
+],
+  "geometry": {"coordinates":[-87.68376600000001,30.405233],"type":"Point"}
 }

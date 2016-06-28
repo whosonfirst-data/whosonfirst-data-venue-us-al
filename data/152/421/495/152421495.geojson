@@ -2,13 +2,14 @@
   "id": 152421495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.041099,32.675733,-86.041099,32.675733",
     "geom:latitude":32.675733,
     "geom:longitude":-86.041099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"726 Old Avant Rd",
     "sg:city":"Eclectic",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827623,
+        85688675,
         85633793,
         85913291,
         102085631,
-        85688675
+        85827623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152421495,
-    "wof:lastmodified":1449047230,
+    "wof:lastmodified":1466317966,
     "wof:name":"E F Haynie Construction",
     "wof:parent_id":85827623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.041099,32.675733,-86.041099,32.675733],
+  "bbox": [
+    -86.041099,
+    32.675733,
+    -86.041099,
+    32.675733
+],
   "geometry": {"coordinates":[-86.041099,32.675733],"type":"Point"}
 }

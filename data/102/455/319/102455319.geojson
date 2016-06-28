@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102455319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.698673,34.759063,-87.698673,34.759063",
     "geom:latitude":34.759063,
     "geom:longitude":-87.698673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 N Montgomery Ave",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858837,
+        85688675,
         85633793,
         85897473,
         102085625,
-        85688675
+        85858837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102455319,
-    "wof:lastmodified":1449069767,
+    "wof:lastmodified":1466314802,
     "wof:name":"Sheffield Billards",
     "wof:parent_id":85858837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.698673,34.759063,-87.698673,34.759063],
+  "bbox": [
+    -87.698673,
+    34.759063,
+    -87.698673,
+    34.759063
+],
   "geometry": {"coordinates":[-87.698673,34.759063],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152488875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.595441,32.987619,-87.595441,32.987619",
     "geom:latitude":32.987619,
     "geom:longitude":-87.595441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"990 Co Rd 67",
     "sg:city":"Moundville",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":152488875,
-    "wof:lastmodified":1449048796,
+    "wof:lastmodified":1466318280,
     "wof:name":"Perry's Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.595441,32.987619,-87.595441,32.987619],
-  "geometry": {"coordinates":[-87.595441,32.987619],"type":"Point"}
+  "bbox": [
+    -87.595441,
+    32.987619,
+    -87.595441,
+    32.987619
+],
+  "geometry": {"coordinates":[-87.59544099999999,32.987619],"type":"Point"}
 }

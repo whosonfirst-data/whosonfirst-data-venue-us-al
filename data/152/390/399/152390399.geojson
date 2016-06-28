@@ -2,13 +2,14 @@
   "id": 152390399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.902516,34.445079,-85.902516,34.445079",
     "geom:latitude":34.445079,
     "geom:longitude":-85.902516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 Traylor St E",
     "sg:city":"Fyffe",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815015,
+        85688675,
         85633793,
         85897515,
         102085615,
-        85688675
+        85815015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152390399,
-    "wof:lastmodified":1449048936,
+    "wof:lastmodified":1466317962,
     "wof:name":"Thurmon McDaniel",
     "wof:parent_id":85815015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.902516,34.445079,-85.902516,34.445079],
-  "geometry": {"coordinates":[-85.902516,34.445079],"type":"Point"}
+  "bbox": [
+    -85.902516,
+    34.445079,
+    -85.902516,
+    34.445079
+],
+  "geometry": {"coordinates":[-85.90251600000001,34.445079],"type":"Point"}
 }

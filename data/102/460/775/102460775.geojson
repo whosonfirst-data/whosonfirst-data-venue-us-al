@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102460775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.615064,33.561179,-86.615064,33.561179",
     "geom:latitude":33.561179,
     "geom:longitude":-86.615064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6244 Amber Hills Rd",
     "sg:city":"Trussville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831535,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85831535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102460775,
-    "wof:lastmodified":1449070060,
+    "wof:lastmodified":1466315040,
     "wof:name":"Castle One",
     "wof:parent_id":85831535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.615064,33.561179,-86.615064,33.561179],
+  "bbox": [
+    -86.615064,
+    33.561179,
+    -86.615064,
+    33.561179
+],
   "geometry": {"coordinates":[-86.615064,33.561179],"type":"Point"}
 }

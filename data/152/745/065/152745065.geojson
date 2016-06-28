@@ -2,13 +2,14 @@
   "id": 152745065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.837854,33.212078,-86.837854,33.212078",
     "geom:latitude":33.212078,
     "geom:longitude":-86.837854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Primrose Dr",
     "sg:city":"Alabaster",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85839361,
+        85688675,
         85633793,
         85914487,
         102085499,
-        85688675
+        85839361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152745065,
-    "wof:lastmodified":1449048714,
+    "wof:lastmodified":1466319687,
     "wof:name":"Bartons Greenhouse & Nursery",
     "wof:parent_id":85839361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.837854,33.212078,-86.837854,33.212078],
-  "geometry": {"coordinates":[-86.837854,33.212078],"type":"Point"}
+  "bbox": [
+    -86.837854,
+    33.212078,
+    -86.837854,
+    33.212078
+],
+  "geometry": {"coordinates":[-86.83785399999999,33.212078],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102507917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.545667,34.639981,-86.545667,34.639981",
     "geom:latitude":34.639981,
     "geom:longitude":-86.545667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9604 Todd Mill Rd SE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854899,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85854899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102507917,
-    "wof:lastmodified":1449068989,
+    "wof:lastmodified":1466316702,
     "wof:name":"Design By Ardis",
     "wof:parent_id":85854899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.545667,34.639981,-86.545667,34.639981],
-  "geometry": {"coordinates":[-86.545667,34.639981],"type":"Point"}
+  "bbox": [
+    -86.545667,
+    34.639981,
+    -86.545667,
+    34.639981
+],
+  "geometry": {"coordinates":[-86.54566699999999,34.639981],"type":"Point"}
 }

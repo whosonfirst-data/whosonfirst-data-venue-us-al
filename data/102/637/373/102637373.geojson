@@ -2,13 +2,14 @@
   "id": 102637373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.679008,34.765257,-87.679008,34.765257",
     "geom:latitude":34.765257,
     "geom:longitude":-87.679008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1109 E 32nd St",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848135,
+        85688675,
         85633793,
         85897473,
         102085625,
-        85688675
+        85848135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102637373,
-    "wof:lastmodified":1449067762,
+    "wof:lastmodified":1466317596,
     "wof:name":"Healing Station",
     "wof:parent_id":85848135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.679008,34.765257,-87.679008,34.765257],
+  "bbox": [
+    -87.679008,
+    34.765257,
+    -87.679008,
+    34.765257
+],
   "geometry": {"coordinates":[-87.679008,34.765257],"type":"Point"}
 }

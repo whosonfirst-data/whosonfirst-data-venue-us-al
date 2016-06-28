@@ -2,13 +2,14 @@
   "id": 102637285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.981652,34.591769,-86.981652,34.591769",
     "geom:latitude":34.591769,
     "geom:longitude":-86.981652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1025 5th Ave SE",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.regionsibs.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848819,
+        85688675,
         85633793,
         85913589,
         102085531,
-        85688675
+        85848819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102637285,
-    "wof:lastmodified":1449067761,
+    "wof:lastmodified":1466317595,
     "wof:name":"Regions Interstate Billing Svc",
     "wof:parent_id":85848819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.981652,34.591769,-86.981652,34.591769],
+  "bbox": [
+    -86.981652,
+    34.591769,
+    -86.981652,
+    34.591769
+],
   "geometry": {"coordinates":[-86.981652,34.591769],"type":"Point"}
 }

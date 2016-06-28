@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102449341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.552997,34.653261,-86.552997,34.653261",
     "geom:latitude":34.653261,
     "geom:longitude":-86.552997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"722 Bluewood Dr",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854899,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85854899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102449341,
-    "wof:lastmodified":1449070007,
+    "wof:lastmodified":1466314578,
     "wof:name":"Test & Analysis Services",
     "wof:parent_id":85854899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.552997,34.653261,-86.552997,34.653261],
+  "bbox": [
+    -86.552997,
+    34.653261,
+    -86.552997,
+    34.653261
+],
   "geometry": {"coordinates":[-86.552997,34.653261],"type":"Point"}
 }

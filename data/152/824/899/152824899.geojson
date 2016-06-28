@@ -2,13 +2,14 @@
   "id": 152824899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.570504,34.66501,-86.570504,34.66501",
     "geom:latitude":34.66501,
     "geom:longitude":-86.570504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"348 Drury Ln SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.homebuddies.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819601,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85819601
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152824899,
-    "wof:lastmodified":1449045960,
+    "wof:lastmodified":1466320116,
     "wof:name":"Home Buddies",
     "wof:parent_id":85819601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.570504,34.66501,-86.570504,34.66501],
+  "bbox": [
+    -86.570504,
+    34.66501,
+    -86.570504,
+    34.66501
+],
   "geometry": {"coordinates":[-86.570504,34.66501],"type":"Point"}
 }

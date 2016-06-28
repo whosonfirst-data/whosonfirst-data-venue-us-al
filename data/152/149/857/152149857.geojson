@@ -2,13 +2,14 @@
   "id": 152149857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.618968,34.740518,-86.618968,34.740518",
     "geom:latitude":34.740518,
     "geom:longitude":-86.618968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1105 Chestnut Rd NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85846449,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85846449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152149857,
-    "wof:lastmodified":1449044303,
+    "wof:lastmodified":1466314529,
     "wof:name":"Gold Key Kelly Robert Fra",
     "wof:parent_id":85846449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.618968,34.740518,-86.618968,34.740518],
+  "bbox": [
+    -86.618968,
+    34.740518,
+    -86.618968,
+    34.740518
+],
   "geometry": {"coordinates":[-86.618968,34.740518],"type":"Point"}
 }

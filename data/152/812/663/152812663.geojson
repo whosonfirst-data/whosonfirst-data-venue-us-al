@@ -2,13 +2,14 @@
   "id": 152812663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.68972,34.761711,-86.68972,34.761711",
     "geom:latitude":34.761711,
     "geom:longitude":-86.68972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1721 Weymouth Ln NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85826841,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85826841
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152812663,
-    "wof:lastmodified":1449044421,
+    "wof:lastmodified":1466319921,
     "wof:name":"Emil Jovanov",
     "wof:parent_id":85826841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.68972,34.761711,-86.68972,34.761711],
-  "geometry": {"coordinates":[-86.68972,34.761711],"type":"Point"}
+  "bbox": [
+    -86.68972,
+    34.761711,
+    -86.68972,
+    34.761711
+],
+  "geometry": {"coordinates":[-86.68971999999999,34.761711],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102631921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.853878,33.717517,-85.853878,33.717517",
     "geom:latitude":33.717517,
     "geom:longitude":-85.853878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1215 Wildoak Dr",
     "sg:city":"Anniston",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102631921,
-    "wof:lastmodified":1449068521,
+    "wof:lastmodified":1466317543,
     "wof:name":"Blackwood Enterprises",
     "wof:parent_id":85915207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.853878,33.717517,-85.853878,33.717517],
-  "geometry": {"coordinates":[-85.853878,33.717517],"type":"Point"}
+  "bbox": [
+    -85.853878,
+    33.717517,
+    -85.853878,
+    33.717517
+],
+  "geometry": {"coordinates":[-85.85387799999999,33.717517],"type":"Point"}
 }

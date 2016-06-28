@@ -2,13 +2,14 @@
   "id": 152794789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.545919,33.199103,-87.545919,33.199103",
     "geom:latitude":33.199103,
     "geom:longitude":-87.545919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"638 15th St",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816279,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85816279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152794789,
-    "wof:lastmodified":1449046524,
+    "wof:lastmodified":1466319739,
     "wof:name":"Haven Tattoo & Body Piercing",
     "wof:parent_id":85816279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.545919,33.199103,-87.545919,33.199103],
+  "bbox": [
+    -87.545919,
+    33.199103,
+    -87.545919,
+    33.199103
+],
   "geometry": {"coordinates":[-87.545919,33.199103],"type":"Point"}
 }

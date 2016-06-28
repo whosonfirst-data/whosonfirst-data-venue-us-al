@@ -2,13 +2,14 @@
   "id": 152136917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.706762,34.750334,-87.706762,34.750334",
     "geom:latitude":34.750334,
     "geom:longitude":-87.706762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1015 W Montgomery Ave",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85832153,
+        85688675,
         85633793,
         85897447,
         102085625,
-        85688675
+        85832153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152136917,
-    "wof:lastmodified":1449048839,
+    "wof:lastmodified":1466315332,
     "wof:name":"D F Moss",
     "wof:parent_id":85832153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.706762,34.750334,-87.706762,34.750334],
+  "bbox": [
+    -87.706762,
+    34.750334,
+    -87.706762,
+    34.750334
+],
   "geometry": {"coordinates":[-87.706762,34.750334],"type":"Point"}
 }

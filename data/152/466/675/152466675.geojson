@@ -2,13 +2,14 @@
   "id": 152466675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.563301,34.851343,-86.563301,34.851343",
     "geom:latitude":34.851343,
     "geom:longitude":-86.563301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"295 Meridianville Bottom Rd",
     "sg:city":"Meridianville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85810031,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85810031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152466675,
-    "wof:lastmodified":1449045685,
+    "wof:lastmodified":1466318182,
     "wof:name":"Tammy Bryant",
     "wof:parent_id":85810031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.563301,34.851343,-86.563301,34.851343],
+  "bbox": [
+    -86.563301,
+    34.851343,
+    -86.563301,
+    34.851343
+],
   "geometry": {"coordinates":[-86.563301,34.851343],"type":"Point"}
 }

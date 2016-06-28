@@ -2,13 +2,14 @@
   "id": 152258655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.264863,34.256827,-86.264863,34.256827",
     "geom:latitude":34.256827,
     "geom:longitude":-86.264863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"73 Frazier Rd",
     "sg:city":"Albertville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152258655,
-    "wof:lastmodified":1449047971,
+    "wof:lastmodified":1466316743,
     "wof:name":"Town & Country Roofing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.264863,34.256827,-86.264863,34.256827],
-  "geometry": {"coordinates":[-86.264863,34.256827],"type":"Point"}
+  "bbox": [
+    -86.264863,
+    34.256827,
+    -86.264863,
+    34.256827
+],
+  "geometry": {"coordinates":[-86.26486300000001,34.256827],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152152091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.133501,32.379409,-86.133501,32.379409",
     "geom:latitude":32.379409,
     "geom:longitude":-86.133501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Wiltshire Dr",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803631,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85803631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152152091,
-    "wof:lastmodified":1449047851,
+    "wof:lastmodified":1466314652,
     "wof:name":"H & H Steel Supply",
     "wof:parent_id":85803631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.133501,32.379409,-86.133501,32.379409],
+  "bbox": [
+    -86.133501,
+    32.379409,
+    -86.133501,
+    32.379409
+],
   "geometry": {"coordinates":[-86.133501,32.379409],"type":"Point"}
 }

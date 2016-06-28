@@ -2,13 +2,14 @@
   "id": 152230627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.99301,33.95366,-85.99301,33.95366",
     "geom:latitude":33.95366,
     "geom:longitude":-85.99301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"386 Chrislyn Dr",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":152230627,
-    "wof:lastmodified":1449047734,
+    "wof:lastmodified":1466316330,
     "wof:name":"Signal One",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.99301,33.95366,-85.99301,33.95366],
+  "bbox": [
+    -85.99301,
+    33.95366,
+    -85.99301,
+    33.95366
+],
   "geometry": {"coordinates":[-85.99301,33.95366],"type":"Point"}
 }

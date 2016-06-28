@@ -2,13 +2,14 @@
   "id": 152639291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.0707,32.468007,-85.0707,32.468007",
     "geom:latitude":32.468007,
     "geom:longitude":-85.0707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3793 US Hwy 80",
     "sg:city":"Phenix City",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822949,
+        85688675,
         85633793,
         85913715,
         102085697,
-        85688675
+        85822949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152639291,
-    "wof:lastmodified":1449048883,
+    "wof:lastmodified":1466319055,
     "wof:name":"Whiterock Assembly Of God Chr",
     "wof:parent_id":85822949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.0707,32.468007,-85.0707,32.468007],
+  "bbox": [
+    -85.0707,
+    32.468007,
+    -85.0707,
+    32.468007
+],
   "geometry": {"coordinates":[-85.0707,32.468007],"type":"Point"}
 }

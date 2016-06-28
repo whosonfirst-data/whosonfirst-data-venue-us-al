@@ -2,13 +2,14 @@
   "id": 152676251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.526254,33.190301,-87.526254,33.190301",
     "geom:latitude":33.190301,
     "geom:longitude":-87.526254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2120 McFarland Blvd E",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152676251,
-    "wof:lastmodified":1449047254,
+    "wof:lastmodified":1466319241,
     "wof:name":"Doug's Beauty Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.526254,33.190301,-87.526254,33.190301],
-  "geometry": {"coordinates":[-87.526254,33.190301],"type":"Point"}
+  "bbox": [
+    -87.526254,
+    33.190301,
+    -87.526254,
+    33.190301
+],
+  "geometry": {"coordinates":[-87.52625399999999,33.190301],"type":"Point"}
 }

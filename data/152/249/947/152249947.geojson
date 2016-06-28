@@ -2,13 +2,14 @@
   "id": 152249947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.398596,31.253403,-85.398596,31.253403",
     "geom:latitude":31.253403,
     "geom:longitude":-85.398596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4101 Ross Clark Cir",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859419,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85859419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152249947,
-    "wof:lastmodified":1449044538,
+    "wof:lastmodified":1466316569,
     "wof:name":"Northside Annex",
     "wof:parent_id":85859419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.398596,31.253403,-85.398596,31.253403],
+  "bbox": [
+    -85.398596,
+    31.253403,
+    -85.398596,
+    31.253403
+],
   "geometry": {"coordinates":[-85.398596,31.253403],"type":"Point"}
 }

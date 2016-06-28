@@ -2,13 +2,14 @@
   "id": 152740293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.124741,30.663037,-88.124741,30.663037",
     "geom:latitude":30.663037,
     "geom:longitude":-88.124741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3351 Cottage Hill Rd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807453,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85807453
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152740293,
-    "wof:lastmodified":1449046406,
+    "wof:lastmodified":1466319548,
     "wof:name":"Action Automotive Center Inc",
     "wof:parent_id":85807453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.124741,30.663037,-88.124741,30.663037],
+  "bbox": [
+    -88.124741,
+    30.663037,
+    -88.124741,
+    30.663037
+],
   "geometry": {"coordinates":[-88.124741,30.663037],"type":"Point"}
 }

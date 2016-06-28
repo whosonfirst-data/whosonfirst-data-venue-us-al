@@ -2,13 +2,14 @@
   "id": 152662043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.573169,33.220187,-87.573169,33.220187",
     "geom:latitude":33.220187,
     "geom:longitude":-87.573169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1408 6th St",
     "sg:city":"Northport",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805585,
+        85688675,
         85633793,
         85914425,
         102085553,
-        85688675
+        85805585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152662043,
-    "wof:lastmodified":1449047425,
+    "wof:lastmodified":1466319145,
     "wof:name":"Solid Rock Prmtive Bptst Chrch",
     "wof:parent_id":85805585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.573169,33.220187,-87.573169,33.220187],
-  "geometry": {"coordinates":[-87.573169,33.220187],"type":"Point"}
+  "bbox": [
+    -87.573169,
+    33.220187,
+    -87.573169,
+    33.220187
+],
+  "geometry": {"coordinates":[-87.57316899999999,33.220187],"type":"Point"}
 }

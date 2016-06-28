@@ -2,13 +2,14 @@
   "id": 152779611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.723695,33.52712,-86.723695,33.52712",
     "geom:latitude":33.52712,
     "geom:longitude":-86.723695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5324 Oporto Madrid Blvd S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850695,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85850695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152779611,
-    "wof:lastmodified":1449045016,
+    "wof:lastmodified":1466319631,
     "wof:name":"Tuesday Morning 184",
     "wof:parent_id":85850695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.723695,33.52712,-86.723695,33.52712],
-  "geometry": {"coordinates":[-86.723695,33.52712],"type":"Point"}
+  "bbox": [
+    -86.723695,
+    33.52712,
+    -86.723695,
+    33.52712
+],
+  "geometry": {"coordinates":[-86.72369500000001,33.52712],"type":"Point"}
 }

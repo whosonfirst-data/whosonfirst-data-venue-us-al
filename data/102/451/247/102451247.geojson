@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102451247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.29472,32.396198,-86.29472,32.396198",
     "geom:latitude":32.396198,
     "geom:longitude":-86.29472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 N Decatur St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879043,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102451247,
-    "wof:lastmodified":1449068817,
+    "wof:lastmodified":1466314642,
     "wof:name":"Platinum Cuts",
     "wof:parent_id":85879043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.29472,32.396198,-86.29472,32.396198],
+  "bbox": [
+    -86.29472,
+    32.396198,
+    -86.29472,
+    32.396198
+],
   "geometry": {"coordinates":[-86.29472,32.396198],"type":"Point"}
 }

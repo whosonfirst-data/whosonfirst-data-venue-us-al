@@ -2,13 +2,14 @@
   "id": 152290587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.085949,30.734516,-88.085949,30.734516",
     "geom:latitude":30.734516,
     "geom:longitude":-88.085949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"324 Church St",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837835,
+        85688675,
         85633793,
         85913741,
         102085585,
-        85688675
+        85837835
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152290587,
-    "wof:lastmodified":1449046299,
+    "wof:lastmodified":1466316939,
     "wof:name":"New Christian Sprng Missionary",
     "wof:parent_id":85837835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.085949,30.734516,-88.085949,30.734516],
+  "bbox": [
+    -88.085949,
+    30.734516,
+    -88.085949,
+    30.734516
+],
   "geometry": {"coordinates":[-88.085949,30.734516],"type":"Point"}
 }

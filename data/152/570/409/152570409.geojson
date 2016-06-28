@@ -2,13 +2,14 @@
   "id": 152570409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.723731,32.91927,-85.723731,32.91927",
     "geom:latitude":32.91927,
     "geom:longitude":-85.723731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1767 Griffin Shoals Rd",
     "sg:city":"Dadeville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848983,
+        85688675,
         85633793,
         85913327,
         102085567,
-        85688675
+        85848983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152570409,
-    "wof:lastmodified":1449047036,
+    "wof:lastmodified":1466318669,
     "wof:name":"Gary Ingram Grading & Paving",
     "wof:parent_id":85848983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.723731,32.91927,-85.723731,32.91927],
+  "bbox": [
+    -85.723731,
+    32.91927,
+    -85.723731,
+    32.91927
+],
   "geometry": {"coordinates":[-85.723731,32.91927],"type":"Point"}
 }

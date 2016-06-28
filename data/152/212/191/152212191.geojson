@@ -2,13 +2,14 @@
   "id": 152212191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.613522,33.923392,-85.613522,33.923392",
     "geom:latitude":33.923392,
     "geom:longitude":-85.613522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 N Main St",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817157,
+        85688675,
         85633793,
         85914293,
         102085603,
-        85688675
+        85817157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152212191,
-    "wof:lastmodified":1449047289,
+    "wof:lastmodified":1466316004,
     "wof:name":"Piedmont Public Library",
     "wof:parent_id":85817157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.613522,33.923392,-85.613522,33.923392],
+  "bbox": [
+    -85.613522,
+    33.923392,
+    -85.613522,
+    33.923392
+],
   "geometry": {"coordinates":[-85.613522,33.923392],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152663029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.091592,34.416807,-87.091592,34.416807",
     "geom:latitude":34.416807,
     "geom:longitude":-87.091592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9235 Danville Rd",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152663029,
-    "wof:lastmodified":1449047700,
+    "wof:lastmodified":1466319315,
     "wof:name":"Danville High School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.091592,34.416807,-87.091592,34.416807],
-  "geometry": {"coordinates":[-87.091592,34.416807],"type":"Point"}
+  "bbox": [
+    -87.091592,
+    34.416807,
+    -87.091592,
+    34.416807
+],
+  "geometry": {"coordinates":[-87.09159200000001,34.416807],"type":"Point"}
 }

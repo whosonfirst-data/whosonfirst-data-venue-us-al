@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102486453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.33016,32.356746,-86.33016,32.356746",
     "geom:latitude":32.356746,
     "geom:longitude":-86.33016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 Jordan St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879039,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102486453,
-    "wof:lastmodified":1449069082,
+    "wof:lastmodified":1466315674,
     "wof:name":"Grace Baptist Missionary Churc",
     "wof:parent_id":85879039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.33016,32.356746,-86.33016,32.356746],
-  "geometry": {"coordinates":[-86.33016,32.356746],"type":"Point"}
+  "bbox": [
+    -86.33016,
+    32.356746,
+    -86.33016,
+    32.356746
+],
+  "geometry": {"coordinates":[-86.33016000000001,32.356746],"type":"Point"}
 }

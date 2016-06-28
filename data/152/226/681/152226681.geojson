@@ -2,13 +2,14 @@
   "id": 152226681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.910566,30.639977,-87.910566,30.639977",
     "geom:latitude":30.639977,
     "geom:longitude":-87.910566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28119 N Main St",
     "sg:city":"Daphne",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840537,
+        85688675,
         85633793,
         85914695,
         102085469,
-        85688675
+        85840537
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152226681,
-    "wof:lastmodified":1449047651,
+    "wof:lastmodified":1466316183,
     "wof:name":"Smith C Anne DMD P C",
     "wof:parent_id":85840537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.910566,30.639977,-87.910566,30.639977],
+  "bbox": [
+    -87.910566,
+    30.639977,
+    -87.910566,
+    30.639977
+],
   "geometry": {"coordinates":[-87.910566,30.639977],"type":"Point"}
 }

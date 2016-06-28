@@ -2,13 +2,14 @@
   "id": 152132737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.295815,32.317419,-86.295815,32.317419",
     "geom:latitude":32.317419,
     "geom:longitude":-86.295815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1863 Coral Ln",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842989,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85842989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152132737,
-    "wof:lastmodified":1449046566,
+    "wof:lastmodified":1466315210,
     "wof:name":"Thomas Manor",
     "wof:parent_id":85842989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.295815,32.317419,-86.295815,32.317419],
+  "bbox": [
+    -86.295815,
+    32.317419,
+    -86.295815,
+    32.317419
+],
   "geometry": {"coordinates":[-86.295815,32.317419],"type":"Point"}
 }

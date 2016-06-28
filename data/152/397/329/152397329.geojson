@@ -2,13 +2,14 @@
   "id": 152397329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.254546,32.365226,-86.254546,32.365226",
     "geom:latitude":32.365226,
     "geom:longitude":-86.254546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1134 Karen Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829475,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85829475
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152397329,
-    "wof:lastmodified":1449046151,
+    "wof:lastmodified":1466317838,
     "wof:name":"Parts Today Montgomery L L C",
     "wof:parent_id":85829475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.254546,32.365226,-86.254546,32.365226],
+  "bbox": [
+    -86.254546,
+    32.365226,
+    -86.254546,
+    32.365226
+],
   "geometry": {"coordinates":[-86.254546,32.365226],"type":"Point"}
 }

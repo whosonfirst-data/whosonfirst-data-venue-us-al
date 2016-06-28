@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102497203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.752194,33.540461,-86.752194,33.540461",
     "geom:latitude":33.540461,
     "geom:longitude":-86.752194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5500 1st Ave N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858829,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85858829
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102497203,
-    "wof:lastmodified":1449070180,
+    "wof:lastmodified":1466316467,
     "wof:name":"Josh",
     "wof:parent_id":85858829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.752194,33.540461,-86.752194,33.540461],
+  "bbox": [
+    -86.752194,
+    33.540461,
+    -86.752194,
+    33.540461
+],
   "geometry": {"coordinates":[-86.752194,33.540461],"type":"Point"}
 }

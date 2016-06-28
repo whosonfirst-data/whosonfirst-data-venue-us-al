@@ -2,13 +2,14 @@
   "id": 152579389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.83353,33.607532,-85.83353,33.607532",
     "geom:latitude":33.607532,
     "geom:longitude":-85.83353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 Hamric Dr E",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827499,
+        85688675,
         85633793,
         85914159,
         102085603,
-        85688675
+        85827499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152579389,
-    "wof:lastmodified":1449045777,
+    "wof:lastmodified":1466318754,
     "wof:name":"Oxford Building Inspector",
     "wof:parent_id":85827499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.83353,33.607532,-85.83353,33.607532],
+  "bbox": [
+    -85.83353,
+    33.607532,
+    -85.83353,
+    33.607532
+],
   "geometry": {"coordinates":[-85.83353,33.607532],"type":"Point"}
 }

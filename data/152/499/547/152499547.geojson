@@ -2,13 +2,14 @@
   "id": 152499547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.871111,33.516277,-86.871111,33.516277",
     "geom:latitude":33.516277,
     "geom:longitude":-86.871111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1125 Roberts Industrial Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847929,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85847929
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152499547,
-    "wof:lastmodified":1449045184,
+    "wof:lastmodified":1466318234,
     "wof:name":"Industrial Chemicals Inc",
     "wof:parent_id":85847929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.871111,33.516277,-86.871111,33.516277],
+  "bbox": [
+    -86.871111,
+    33.516277,
+    -86.871111,
+    33.516277
+],
   "geometry": {"coordinates":[-86.871111,33.516277],"type":"Point"}
 }

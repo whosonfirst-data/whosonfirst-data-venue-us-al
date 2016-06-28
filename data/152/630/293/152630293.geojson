@@ -2,13 +2,14 @@
   "id": 152630293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.47803,34.755462,-86.47803,34.755462",
     "geom:latitude":34.755462,
     "geom:longitude":-86.47803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"739 Wall Rd",
     "sg:city":"Brownsboro",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.gp-llc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85835813,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85835813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152630293,
-    "wof:lastmodified":1449045963,
+    "wof:lastmodified":1466318993,
     "wof:name":"General Products LLC",
     "wof:parent_id":85835813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.47803,34.755462,-86.47803,34.755462],
+  "bbox": [
+    -86.47803,
+    34.755462,
+    -86.47803,
+    34.755462
+],
   "geometry": {"coordinates":[-86.47803,34.755462],"type":"Point"}
 }

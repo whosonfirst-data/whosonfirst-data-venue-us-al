@@ -2,13 +2,14 @@
   "id": 152288519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.747281,33.389611,-86.747281,33.389611",
     "geom:latitude":33.389611,
     "geom:longitude":-86.747281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"245 Marwood Ln",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85826093
+        85633793,
+        85826093,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152288519,
-    "wof:lastmodified":1449044795,
+    "wof:lastmodified":1466316907,
     "wof:name":"Lane Mulberry Designs",
     "wof:parent_id":85826093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.747281,33.389611,-86.747281,33.389611],
+  "bbox": [
+    -86.747281,
+    33.389611,
+    -86.747281,
+    33.389611
+],
   "geometry": {"coordinates":[-86.747281,33.389611],"type":"Point"}
 }

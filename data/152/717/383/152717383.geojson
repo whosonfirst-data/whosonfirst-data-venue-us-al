@@ -2,13 +2,14 @@
   "id": 152717383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.057377,30.681881,-88.057377,30.681881",
     "geom:latitude":30.681881,
     "geom:longitude":-88.057377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 Chatham St",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865465,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85865465
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152717383,
-    "wof:lastmodified":1449044416,
+    "wof:lastmodified":1466319406,
     "wof:name":"Twelve Oaks Historical Home",
     "wof:parent_id":85865465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.057377,30.681881,-88.057377,30.681881],
+  "bbox": [
+    -88.057377,
+    30.681881,
+    -88.057377,
+    30.681881
+],
   "geometry": {"coordinates":[-88.057377,30.681881],"type":"Point"}
 }

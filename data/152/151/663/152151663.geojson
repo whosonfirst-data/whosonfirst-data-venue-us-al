@@ -2,13 +2,14 @@
   "id": 152151663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.793025,34.696852,-85.793025,34.696852",
     "geom:latitude":34.696852,
     "geom:longitude":-85.793025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3113 Co Rd 60",
     "sg:city":"Pisgah",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809451,
+        85688675,
         85633793,
         85914033,
         102085607,
-        85688675
+        85809451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152151663,
-    "wof:lastmodified":1449044346,
+    "wof:lastmodified":1466314626,
     "wof:name":"Laney Camuel",
     "wof:parent_id":85809451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.793025,34.696852,-85.793025,34.696852],
+  "bbox": [
+    -85.793025,
+    34.696852,
+    -85.793025,
+    34.696852
+],
   "geometry": {"coordinates":[-85.793025,34.696852],"type":"Point"}
 }

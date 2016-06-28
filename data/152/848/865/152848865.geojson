@@ -2,13 +2,14 @@
   "id": 152848865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.575603,34.637466,-86.575603,34.637466",
     "geom:latitude":34.637466,
     "geom:longitude":-86.575603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2042 Rosebury Ln SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825687,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85825687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152848865,
-    "wof:lastmodified":1449044957,
+    "wof:lastmodified":1466320103,
     "wof:name":"Gibson Construction",
     "wof:parent_id":85825687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.575603,34.637466,-86.575603,34.637466],
+  "bbox": [
+    -86.575603,
+    34.637466,
+    -86.575603,
+    34.637466
+],
   "geometry": {"coordinates":[-86.575603,34.637466],"type":"Point"}
 }

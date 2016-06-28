@@ -2,13 +2,14 @@
   "id": 152863619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.813977,33.254674,-86.813977,33.254674",
     "geom:latitude":33.254674,
     "geom:longitude":-86.813977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1022 1st St N",
     "sg:city":"Alabaster",
     "sg:classifiers":[
@@ -28,13 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828267,
+        85688675,
         85633793,
         85914501,
         102085499,
-        85688675,
-        85847439,
-        85914487
+        85828267,
+        85914487,
+        85847439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,14 +62,20 @@
         }
     ],
     "wof:id":152863619,
-    "wof:lastmodified":1449047488,
+    "wof:lastmodified":1466320187,
     "wof:name":"Cardiovascular Associates PC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.813977,33.254674,-86.813977,33.254674],
-  "geometry": {"coordinates":[-86.813977,33.254674],"type":"Point"}
+  "bbox": [
+    -86.813977,
+    33.254674,
+    -86.813977,
+    33.254674
+],
+  "geometry": {"coordinates":[-86.81397699999999,33.254674],"type":"Point"}
 }

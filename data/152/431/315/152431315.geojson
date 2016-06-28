@@ -2,13 +2,14 @@
   "id": 152431315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.578127,33.640858,-86.578127,33.640858",
     "geom:latitude":33.640858,
     "geom:longitude":-86.578127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7309 Gadsden Hwy",
     "sg:city":"Trussville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152431315,
-    "wof:lastmodified":1449044927,
+    "wof:lastmodified":1466318085,
     "wof:name":"Medical Resources Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.578127,33.640858,-86.578127,33.640858],
-  "geometry": {"coordinates":[-86.578127,33.640858],"type":"Point"}
+  "bbox": [
+    -86.578127,
+    33.640858,
+    -86.578127,
+    33.640858
+],
+  "geometry": {"coordinates":[-86.57812699999999,33.640858],"type":"Point"}
 }

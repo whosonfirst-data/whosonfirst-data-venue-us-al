@@ -2,13 +2,14 @@
   "id": 152155285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.288686,32.341521,-86.288686,32.341521",
     "geom:latitude":32.341521,
     "geom:longitude":-86.288686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3591 Bankhead Ave",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879045,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152155285,
-    "wof:lastmodified":1449048106,
+    "wof:lastmodified":1466314834,
     "wof:name":"Coley Design",
     "wof:parent_id":85879045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.288686,32.341521,-86.288686,32.341521],
+  "bbox": [
+    -86.288686,
+    32.341521,
+    -86.288686,
+    32.341521
+],
   "geometry": {"coordinates":[-86.288686,32.341521],"type":"Point"}
 }

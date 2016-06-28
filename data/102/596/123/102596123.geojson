@@ -2,13 +2,14 @@
   "id": 102596123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.398357,31.227985,-85.398357,31.227985",
     "geom:latitude":31.227985,
     "geom:longitude":-85.398357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 W Burdeshaw St",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852069,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85852069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102596123,
-    "wof:lastmodified":1449068982,
+    "wof:lastmodified":1466317180,
     "wof:name":"Dothan Crown & Bridge",
     "wof:parent_id":85852069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.398357,31.227985,-85.398357,31.227985],
+  "bbox": [
+    -85.398357,
+    31.227985,
+    -85.398357,
+    31.227985
+],
   "geometry": {"coordinates":[-85.398357,31.227985],"type":"Point"}
 }

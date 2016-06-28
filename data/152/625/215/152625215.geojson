@@ -2,13 +2,14 @@
   "id": 152625215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.645711,33.738911,-86.645711,33.738911",
     "geom:latitude":33.738911,
     "geom:longitude":-86.645711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8341 N Valley Rd",
     "sg:city":"Pinson",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152625215,
-    "wof:lastmodified":1449048968,
+    "wof:lastmodified":1466318965,
     "wof:name":"BP Datapro Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.645711,33.738911,-86.645711,33.738911],
-  "geometry": {"coordinates":[-86.645711,33.738911],"type":"Point"}
+  "bbox": [
+    -86.645711,
+    33.738911,
+    -86.645711,
+    33.738911
+],
+  "geometry": {"coordinates":[-86.64571100000001,33.738911],"type":"Point"}
 }

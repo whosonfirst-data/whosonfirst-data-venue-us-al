@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102485753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.999147,34.571268,-86.999147,34.571268",
     "geom:latitude":34.571268,
     "geom:longitude":-86.999147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"826 Bradley St SW",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848819,
+        85688675,
         85633793,
         85913589,
         102085531,
-        85688675
+        85848819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102485753,
-    "wof:lastmodified":1449069213,
+    "wof:lastmodified":1466315808,
     "wof:name":"LA Hacienda",
     "wof:parent_id":85848819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.999147,34.571268,-86.999147,34.571268],
-  "geometry": {"coordinates":[-86.999147,34.571268],"type":"Point"}
+  "bbox": [
+    -86.999147,
+    34.571268,
+    -86.999147,
+    34.571268
+],
+  "geometry": {"coordinates":[-86.99914699999999,34.571268],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102450037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.862776,33.505029,-86.862776,33.505029",
     "geom:latitude":33.505029,
     "geom:longitude":-86.862776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1511 3rd Ave W",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847929,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85847929
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102450037,
-    "wof:lastmodified":1449069795,
+    "wof:lastmodified":1466314545,
     "wof:name":"3rd Ave Splash N Dash",
     "wof:parent_id":85847929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.862776,33.505029,-86.862776,33.505029],
+  "bbox": [
+    -86.862776,
+    33.505029,
+    -86.862776,
+    33.505029
+],
   "geometry": {"coordinates":[-86.862776,33.505029],"type":"Point"}
 }

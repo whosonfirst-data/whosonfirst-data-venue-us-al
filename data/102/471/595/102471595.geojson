@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102471595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.752969,33.104394,-86.752969,33.104394",
     "geom:latitude":33.104394,
     "geom:longitude":-86.752969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8156 US Hwy 31",
     "sg:city":"Calera",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85849529
+        85633793,
+        85849529,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102471595,
-    "wof:lastmodified":1449068734,
+    "wof:lastmodified":1466315329,
     "wof:name":"Tacos Light",
     "wof:parent_id":85849529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.752969,33.104394,-86.752969,33.104394],
-  "geometry": {"coordinates":[-86.752969,33.104394],"type":"Point"}
+  "bbox": [
+    -86.752969,
+    33.104394,
+    -86.752969,
+    33.104394
+],
+  "geometry": {"coordinates":[-86.75296899999999,33.104394],"type":"Point"}
 }

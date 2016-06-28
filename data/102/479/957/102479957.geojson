@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102479957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.68187,33.427168,-86.68187,33.427168",
     "geom:latitude":33.427168,
     "geom:longitude":-86.68187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2091 Stone Brook Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85833411
+        85633793,
+        85833411,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102479957,
-    "wof:lastmodified":1449069448,
+    "wof:lastmodified":1466315093,
     "wof:name":"Willowbrook Creations Inc",
     "wof:parent_id":85833411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.68187,33.427168,-86.68187,33.427168],
+  "bbox": [
+    -86.68187,
+    33.427168,
+    -86.68187,
+    33.427168
+],
   "geometry": {"coordinates":[-86.68187,33.427168],"type":"Point"}
 }

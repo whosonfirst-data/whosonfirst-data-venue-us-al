@@ -2,13 +2,14 @@
   "id": 152798845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.847186,33.279881,-86.847186,33.279881",
     "geom:latitude":33.279881,
     "geom:longitude":-86.847186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Helena Market Pl",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845631,
+        85688675,
         85633793,
         85914471,
         102085499,
-        85688675
+        85845631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152798845,
-    "wof:lastmodified":1449045163,
+    "wof:lastmodified":1466319994,
     "wof:name":"Strength Outdoors",
     "wof:parent_id":85845631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.847186,33.279881,-86.847186,33.279881],
-  "geometry": {"coordinates":[-86.847186,33.279881],"type":"Point"}
+  "bbox": [
+    -86.847186,
+    33.279881,
+    -86.847186,
+    33.279881
+],
+  "geometry": {"coordinates":[-86.84718599999999,33.279881],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152273193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.99118,34.562345,-86.99118,34.562345",
     "geom:latitude":34.562345,
     "geom:longitude":-86.99118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2691 Sandlin Rd SW",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803997,
+        85688675,
         85633793,
         85913589,
         102085531,
-        85688675,
+        85803997,
         85848819
     ],
     "wof:breaches":[],
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":152273193,
-    "wof:lastmodified":1449046698,
+    "wof:lastmodified":1466316823,
     "wof:name":"New South Federal Savings Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.99118,34.562345,-86.99118,34.562345],
+  "bbox": [
+    -86.99118,
+    34.562345,
+    -86.99118,
+    34.562345
+],
   "geometry": {"coordinates":[-86.99118,34.562345],"type":"Point"}
 }

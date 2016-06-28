@@ -2,13 +2,14 @@
   "id": 152727927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.456967,33.189377,-87.456967,33.189377",
     "geom:latitude":33.189377,
     "geom:longitude":-87.456967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6008 University Blvd E",
     "sg:city":"Cottondale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851363,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85851363
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152727927,
-    "wof:lastmodified":1449045008,
+    "wof:lastmodified":1466319551,
     "wof:name":"A-Tugco Inc",
     "wof:parent_id":85851363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.456967,33.189377,-87.456967,33.189377],
-  "geometry": {"coordinates":[-87.456967,33.189377],"type":"Point"}
+  "bbox": [
+    -87.456967,
+    33.189377,
+    -87.456967,
+    33.189377
+],
+  "geometry": {"coordinates":[-87.45696700000001,33.189377],"type":"Point"}
 }

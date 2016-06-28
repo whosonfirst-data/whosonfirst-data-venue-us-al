@@ -2,13 +2,14 @@
   "id": 152531265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.437852,30.408686,-87.437852,30.408686",
     "geom:latitude":30.408686,
     "geom:longitude":-87.437852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34488 US Hwy 98",
     "sg:city":"Lillian",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868551,
+        85688675,
         85633793,
         85914719,
         102085469,
-        85688675
+        85868551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":152531265,
-    "wof:lastmodified":1449045384,
+    "wof:lastmodified":1466318538,
     "wof:name":"National Auto Title Pawn",
     "wof:parent_id":85868551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.437852,30.408686,-87.437852,30.408686],
-  "geometry": {"coordinates":[-87.437852,30.408686],"type":"Point"}
+  "bbox": [
+    -87.437852,
+    30.408686,
+    -87.437852,
+    30.408686
+],
+  "geometry": {"coordinates":[-87.43785200000001,30.408686],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102626607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.45191,32.580183,-85.45191,32.580183",
     "geom:latitude":32.580183,
     "geom:longitude":-85.45191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1535 Crossing Way",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858697,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85858697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102626607,
-    "wof:lastmodified":1449070210,
+    "wof:lastmodified":1466317468,
     "wof:name":"Polo Construction Co Llc",
     "wof:parent_id":85858697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.45191,32.580183,-85.45191,32.580183],
+  "bbox": [
+    -85.45191,
+    32.580183,
+    -85.45191,
+    32.580183
+],
   "geometry": {"coordinates":[-85.45191,32.580183],"type":"Point"}
 }

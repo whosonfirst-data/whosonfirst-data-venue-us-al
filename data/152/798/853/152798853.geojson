@@ -2,13 +2,14 @@
   "id": 152798853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.921031,34.462887,-85.921031,34.462887",
     "geom:latitude":34.462887,
     "geom:longitude":-85.921031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1322 Traylor St W",
     "sg:city":"Fyffe",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815015,
+        85688675,
         85633793,
         85897515,
         102085615,
-        85688675
+        85815015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152798853,
-    "wof:lastmodified":1449045161,
+    "wof:lastmodified":1466319995,
     "wof:name":"Lb McFall Welding Supply",
     "wof:parent_id":85815015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.921031,34.462887,-85.921031,34.462887],
+  "bbox": [
+    -85.921031,
+    34.462887,
+    -85.921031,
+    34.462887
+],
   "geometry": {"coordinates":[-85.921031,34.462887],"type":"Point"}
 }

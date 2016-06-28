@@ -2,13 +2,14 @@
   "id": 152322207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.147667,32.465765,-86.147667,32.465765",
     "geom:latitude":32.465765,
     "geom:longitude":-86.147667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Home Place Rd",
     "sg:city":"Wetumpka",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827347,
+        85688675,
         85633793,
         85915121,
         102085631,
-        85688675
+        85827347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152322207,
-    "wof:lastmodified":1449044238,
+    "wof:lastmodified":1466317321,
     "wof:name":"Precision Metalworking & Fab",
     "wof:parent_id":85827347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.147667,32.465765,-86.147667,32.465765],
+  "bbox": [
+    -86.147667,
+    32.465765,
+    -86.147667,
+    32.465765
+],
   "geometry": {"coordinates":[-86.147667,32.465765],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102602117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.986455,33.366477,-86.986455,33.366477",
     "geom:latitude":33.366477,
     "geom:longitude":-86.986455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50 High School Dr",
     "sg:city":"Bessemer",
     "sg:classifiers":[
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":102602117,
-    "wof:lastmodified":1449068906,
+    "wof:lastmodified":1466317061,
     "wof:name":"Bessemer Area Vocational Schl",
     "wof:parent_id":85688675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.986455,33.366477,-86.986455,33.366477],
-  "geometry": {"coordinates":[-86.986455,33.366477],"type":"Point"}
+  "bbox": [
+    -86.986455,
+    33.366477,
+    -86.986455,
+    33.366477
+],
+  "geometry": {"coordinates":[-86.98645500000001,33.366477],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119119809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.683188,34.713249,-86.683188,34.713249",
     "geom:latitude":34.713249,
     "geom:longitude":-86.683188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7047 Old Madison Pike NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -31,10 +32,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085487,
-        85633793,
         85688675,
-        85817803
+        85633793,
+        85817803,
+        102085487
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":119119809,
-    "wof:lastmodified":1449042778,
+    "wof:lastmodified":1466314487,
     "wof:name":"ARINC Incorporated",
     "wof:parent_id":85817803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.683188,34.713249,-86.683188,34.713249],
+  "bbox": [
+    -86.683188,
+    34.713249,
+    -86.683188,
+    34.713249
+],
   "geometry": {"coordinates":[-86.683188,34.713249],"type":"Point"}
 }

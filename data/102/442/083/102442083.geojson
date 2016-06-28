@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102442083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.681581,34.815382,-87.681581,34.815382",
     "geom:latitude":34.815382,
     "geom:longitude":-87.681581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 Gilbert Ct",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848857,
+        85688675,
         85633793,
         85914011,
         102085527,
-        85688675
+        85848857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102442083,
-    "wof:lastmodified":1449068820,
+    "wof:lastmodified":1466315300,
     "wof:name":"Mailsouth",
     "wof:parent_id":85848857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.681581,34.815382,-87.681581,34.815382],
-  "geometry": {"coordinates":[-87.681581,34.815382],"type":"Point"}
+  "bbox": [
+    -87.681581,
+    34.815382,
+    -87.681581,
+    34.815382
+],
+  "geometry": {"coordinates":[-87.68158099999999,34.815382],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 119135535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.792954,33.48084,-86.792954,33.48084",
     "geom:latitude":33.48084,
     "geom:longitude":-86.792954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1728 28th Ave S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845971,
+        85688675,
         85633793,
         85914847,
         102085481,
-        85688675
+        85845971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":119135535,
-    "wof:lastmodified":1449041786,
+    "wof:lastmodified":1466314712,
     "wof:name":"Gentlemen's Quarters Salon-Men",
     "wof:parent_id":85845971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.792954,33.48084,-86.792954,33.48084],
-  "geometry": {"coordinates":[-86.792954,33.48084],"type":"Point"}
+  "bbox": [
+    -86.792954,
+    33.48084,
+    -86.792954,
+    33.48084
+],
+  "geometry": {"coordinates":[-86.79295399999999,33.48084],"type":"Point"}
 }

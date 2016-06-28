@@ -2,13 +2,14 @@
   "id": 152133265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.296105,32.313432,-86.296105,32.313432",
     "geom:latitude":32.313432,
     "geom:longitude":-86.296105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4521 Norman Bridge Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842989,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85842989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152133265,
-    "wof:lastmodified":1449048119,
+    "wof:lastmodified":1466315187,
     "wof:name":"Varner Woodwork",
     "wof:parent_id":85842989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.296105,32.313432,-86.296105,32.313432],
+  "bbox": [
+    -86.296105,
+    32.313432,
+    -86.296105,
+    32.313432
+],
   "geometry": {"coordinates":[-86.296105,32.313432],"type":"Point"}
 }

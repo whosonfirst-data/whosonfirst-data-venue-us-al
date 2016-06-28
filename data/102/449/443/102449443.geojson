@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102449443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.956256,33.404103,-86.956256,33.404103",
     "geom:latitude":33.404103,
     "geom:longitude":-86.956256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 19th St N",
     "sg:city":"Bessemer",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807371,
+        85688675,
         85633793,
         85914885,
         102085481,
-        85688675
+        85807371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102449443,
-    "wof:lastmodified":1449070006,
+    "wof:lastmodified":1466314599,
     "wof:name":"Bessemer Glass Industries",
     "wof:parent_id":85807371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.956256,33.404103,-86.956256,33.404103],
+  "bbox": [
+    -86.956256,
+    33.404103,
+    -86.956256,
+    33.404103
+],
   "geometry": {"coordinates":[-86.956256,33.404103],"type":"Point"}
 }

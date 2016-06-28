@@ -2,13 +2,14 @@
   "id": 152622965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.063979,30.670078,-88.063979,30.670078",
     "geom:latitude":30.670078,
     "geom:longitude":-88.063979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"860 Owens St",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878947,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878947
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152622965,
-    "wof:lastmodified":1449048077,
+    "wof:lastmodified":1466318978,
     "wof:name":"Mobile Fire Training Div",
     "wof:parent_id":85878947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.063979,30.670078,-88.063979,30.670078],
+  "bbox": [
+    -88.063979,
+    30.670078,
+    -88.063979,
+    30.670078
+],
   "geometry": {"coordinates":[-88.063979,30.670078],"type":"Point"}
 }

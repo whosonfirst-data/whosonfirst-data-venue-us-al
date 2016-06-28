@@ -2,13 +2,14 @@
   "id": 152217885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.83684,33.215277,-86.83684,33.215277",
     "geom:latitude":33.215277,
     "geom:longitude":-86.83684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1615 Kent Dairy Rd",
     "sg:city":"Alabaster",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85839361,
+        85688675,
         85633793,
         85914487,
         102085499,
-        85688675
+        85839361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152217885,
-    "wof:lastmodified":1449048642,
+    "wof:lastmodified":1466316123,
     "wof:name":"Southern Dance Arts",
     "wof:parent_id":85839361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.83684,33.215277,-86.83684,33.215277],
+  "bbox": [
+    -86.83684,
+    33.215277,
+    -86.83684,
+    33.215277
+],
   "geometry": {"coordinates":[-86.83684,33.215277],"type":"Point"}
 }

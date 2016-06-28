@@ -2,13 +2,14 @@
   "id": 152612741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.999485,34.348541,-86.999485,34.348541",
     "geom:latitude":34.348541,
     "geom:longitude":-86.999485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2880 W Lacon Rd",
     "sg:city":"Falkville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851807,
+        85688675,
         85633793,
         85914103,
         102085531,
-        85688675
+        85851807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152612741,
-    "wof:lastmodified":1449046354,
+    "wof:lastmodified":1466318920,
     "wof:name":"Chiminy Crickets",
     "wof:parent_id":85851807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.999485,34.348541,-86.999485,34.348541],
-  "geometry": {"coordinates":[-86.999485,34.348541],"type":"Point"}
+  "bbox": [
+    -86.999485,
+    34.348541,
+    -86.999485,
+    34.348541
+],
+  "geometry": {"coordinates":[-86.99948500000001,34.348541],"type":"Point"}
 }

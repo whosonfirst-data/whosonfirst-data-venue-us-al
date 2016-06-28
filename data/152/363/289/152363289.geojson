@@ -2,13 +2,14 @@
   "id": 152363289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.58196,34.701657,-86.58196,34.701657",
     "geom:latitude":34.701657,
     "geom:longitude":-86.58196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"416 Westburg Ave",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818149,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85818149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152363289,
-    "wof:lastmodified":1449048361,
+    "wof:lastmodified":1466317538,
     "wof:name":"Delta G Frat",
     "wof:parent_id":85818149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.58196,34.701657,-86.58196,34.701657],
+  "bbox": [
+    -86.58196,
+    34.701657,
+    -86.58196,
+    34.701657
+],
   "geometry": {"coordinates":[-86.58196,34.701657],"type":"Point"}
 }

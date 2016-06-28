@@ -2,13 +2,14 @@
   "id": 152130971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.540832,33.1582,-87.540832,33.1582",
     "geom:latitude":33.1582,
     "geom:longitude":-87.540832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5860 Old Montgomery Hwy",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152130971,
-    "wof:lastmodified":1449045897,
+    "wof:lastmodified":1466315067,
     "wof:name":"Conway Truck Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.540832,33.1582,-87.540832,33.1582],
-  "geometry": {"coordinates":[-87.540832,33.1582],"type":"Point"}
+  "bbox": [
+    -87.540832,
+    33.1582,
+    -87.540832,
+    33.1582
+],
+  "geometry": {"coordinates":[-87.54083199999999,33.1582],"type":"Point"}
 }

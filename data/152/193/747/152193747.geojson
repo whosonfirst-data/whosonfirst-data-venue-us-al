@@ -2,13 +2,14 @@
   "id": 152193747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.113231,33.446321,-86.113231,33.446321",
     "geom:latitude":33.446321,
     "geom:longitude":-86.113231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Talladega Downs",
     "sg:city":"Talladega",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85835139,
+        85688675,
         85633793,
         85914129,
         102085517,
-        85688675
+        85835139
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152193747,
-    "wof:lastmodified":1449045053,
+    "wof:lastmodified":1466315971,
     "wof:name":"Shoe Dept",
     "wof:parent_id":85835139,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.113231,33.446321,-86.113231,33.446321],
+  "bbox": [
+    -86.113231,
+    33.446321,
+    -86.113231,
+    33.446321
+],
   "geometry": {"coordinates":[-86.113231,33.446321],"type":"Point"}
 }

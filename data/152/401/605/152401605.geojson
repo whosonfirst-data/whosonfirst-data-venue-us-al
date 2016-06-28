@@ -2,13 +2,14 @@
   "id": 152401605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.272428,32.381554,-86.272428,32.381554",
     "geom:latitude":32.381554,
     "geom:longitude":-86.272428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"59 Federal Dr",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809389,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85809389
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152401605,
-    "wof:lastmodified":1449048233,
+    "wof:lastmodified":1466317851,
     "wof:name":"Razor Cuts",
     "wof:parent_id":85809389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.272428,32.381554,-86.272428,32.381554],
+  "bbox": [
+    -86.272428,
+    32.381554,
+    -86.272428,
+    32.381554
+],
   "geometry": {"coordinates":[-86.272428,32.381554],"type":"Point"}
 }

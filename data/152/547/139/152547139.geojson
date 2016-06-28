@@ -2,13 +2,14 @@
   "id": 152547139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.012966,34.576373,-87.012966,34.576373",
     "geom:latitude":34.576373,
     "geom:longitude":-87.012966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1715 Edgewood St SW",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848819,
+        85688675,
         85633793,
         85913589,
         102085531,
-        85688675
+        85848819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152547139,
-    "wof:lastmodified":1449044773,
+    "wof:lastmodified":1466318570,
     "wof:name":"Emerald Green Builders Inc",
     "wof:parent_id":85848819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.012966,34.576373,-87.012966,34.576373],
-  "geometry": {"coordinates":[-87.012966,34.576373],"type":"Point"}
+  "bbox": [
+    -87.012966,
+    34.576373,
+    -87.012966,
+    34.576373
+],
+  "geometry": {"coordinates":[-87.01296600000001,34.576373],"type":"Point"}
 }

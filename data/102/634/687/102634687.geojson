@@ -2,13 +2,14 @@
   "id": 102634687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.438843,30.409378,-87.438843,30.409378",
     "geom:latitude":30.409378,
     "geom:longitude":-87.438843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34463 US Hwy 98",
     "sg:city":"Lillian",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102634687,
-    "wof:lastmodified":1449068916,
+    "wof:lastmodified":1466317570,
     "wof:name":"Lillian Medical Clinic",
     "wof:parent_id":85688675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.438843,30.409378,-87.438843,30.409378],
-  "geometry": {"coordinates":[-87.438843,30.409378],"type":"Point"}
+  "bbox": [
+    -87.438843,
+    30.409378,
+    -87.438843,
+    30.409378
+],
+  "geometry": {"coordinates":[-87.43884300000001,30.409378],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102601579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.435072,31.204024,-85.435072,31.204024",
     "geom:latitude":31.204024,
     "geom:longitude":-85.435072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1765 Honeysuckle Rd",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102601579,
-    "wof:lastmodified":1449068849,
+    "wof:lastmodified":1466317047,
     "wof:name":"Honeysuckle Childcare & Prschl",
     "wof:parent_id":85899531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.435072,31.204024,-85.435072,31.204024],
-  "geometry": {"coordinates":[-85.435072,31.204024],"type":"Point"}
+  "bbox": [
+    -85.435072,
+    31.204024,
+    -85.435072,
+    31.204024
+],
+  "geometry": {"coordinates":[-85.43507200000001,31.204024],"type":"Point"}
 }

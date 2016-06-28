@@ -2,13 +2,14 @@
   "id": 152799115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.8058,33.293587,-86.8058,33.293587",
     "geom:latitude":33.293587,
     "geom:longitude":-86.8058,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1013 Yeager Pkwy",
     "sg:city":"Pelham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.shelbycrossings.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828267,
+        85688675,
         85633793,
         85914501,
         102085499,
-        85688675
+        85828267
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152799115,
-    "wof:lastmodified":1449048917,
+    "wof:lastmodified":1466319776,
     "wof:name":"Church At Shelby Crossings",
     "wof:parent_id":85828267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.8058,33.293587,-86.8058,33.293587],
+  "bbox": [
+    -86.8058,
+    33.293587,
+    -86.8058,
+    33.293587
+],
   "geometry": {"coordinates":[-86.8058,33.293587],"type":"Point"}
 }

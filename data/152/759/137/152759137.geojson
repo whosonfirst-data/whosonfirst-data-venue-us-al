@@ -2,13 +2,14 @@
   "id": 152759137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.691781,32.423154,-85.691781,32.423154",
     "geom:latitude":32.423154,
     "geom:longitude":-85.691781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 N Elm St",
     "sg:city":"Tuskegee",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152759137,
-    "wof:lastmodified":1449048965,
+    "wof:lastmodified":1466319618,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.691781,32.423154,-85.691781,32.423154],
-  "geometry": {"coordinates":[-85.691781,32.423154],"type":"Point"}
+  "bbox": [
+    -85.691781,
+    32.423154,
+    -85.691781,
+    32.423154
+],
+  "geometry": {"coordinates":[-85.69178100000001,32.423154],"type":"Point"}
 }

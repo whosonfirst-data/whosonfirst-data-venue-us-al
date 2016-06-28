@@ -2,13 +2,14 @@
   "id": 102627807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.632534,33.610371,-86.632534,33.610371",
     "geom:latitude":33.610371,
     "geom:longitude":-86.632534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3580 Vann Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852855,
+        85688675,
         85633793,
         85913473,
         102085481,
-        85688675
+        85852855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":102627807,
-    "wof:lastmodified":1449070260,
+    "wof:lastmodified":1466317489,
     "wof:name":"Bob Smith Construction Inc",
     "wof:parent_id":85852855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.632534,33.610371,-86.632534,33.610371],
-  "geometry": {"coordinates":[-86.632534,33.610371],"type":"Point"}
+  "bbox": [
+    -86.632534,
+    33.610371,
+    -86.632534,
+    33.610371
+],
+  "geometry": {"coordinates":[-86.63253400000001,33.610371],"type":"Point"}
 }

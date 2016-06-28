@@ -2,13 +2,14 @@
   "id": 102606367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.845188,34.866793,-86.845188,34.866793",
     "geom:latitude":34.866793,
     "geom:longitude":-86.845188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21057 State Rte 251",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":102606367,
-    "wof:lastmodified":1449068173,
+    "wof:lastmodified":1466317249,
     "wof:name":"Roto-Rooter",
     "wof:parent_id":85688675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.845188,34.866793,-86.845188,34.866793],
-  "geometry": {"coordinates":[-86.845188,34.866793],"type":"Point"}
+  "bbox": [
+    -86.845188,
+    34.866793,
+    -86.845188,
+    34.866793
+],
+  "geometry": {"coordinates":[-86.84518799999999,34.866793],"type":"Point"}
 }

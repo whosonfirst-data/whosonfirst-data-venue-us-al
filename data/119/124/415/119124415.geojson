@@ -2,13 +2,14 @@
   "id": 119124415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.542205,33.206084,-87.542205,33.206084",
     "geom:latitude":33.206084,
     "geom:longitude":-87.542205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"911 5th Ave",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809431,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85809431
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":119124415,
-    "wof:lastmodified":1449043334,
+    "wof:lastmodified":1466314340,
     "wof:name":"University Lutheran Church",
     "wof:parent_id":85809431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.542205,33.206084,-87.542205,33.206084],
+  "bbox": [
+    -87.542205,
+    33.206084,
+    -87.542205,
+    33.206084
+],
   "geometry": {"coordinates":[-87.542205,33.206084],"type":"Point"}
 }

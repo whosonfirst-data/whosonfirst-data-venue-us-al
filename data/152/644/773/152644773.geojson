@@ -2,13 +2,14 @@
   "id": 152644773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.46539,32.608924,-85.46539,32.608924",
     "geom:latitude":32.608924,
     "geom:longitude":-85.46539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 E Glenn Ave",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819999,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85819999
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152644773,
-    "wof:lastmodified":1449046947,
+    "wof:lastmodified":1466319003,
     "wof:name":"Elaine's Crafts & Florist",
     "wof:parent_id":85819999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.46539,32.608924,-85.46539,32.608924],
+  "bbox": [
+    -85.46539,
+    32.608924,
+    -85.46539,
+    32.608924
+],
   "geometry": {"coordinates":[-85.46539,32.608924],"type":"Point"}
 }

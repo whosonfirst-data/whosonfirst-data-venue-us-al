@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102505117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.816758,33.435236,-86.816758,33.435236",
     "geom:latitude":33.435236,
     "geom:longitude":-86.816758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2156 Kent Way",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803351,
+        85688675,
         85633793,
         85914483,
         102085481,
-        85688675
+        85803351
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102505117,
-    "wof:lastmodified":1449069763,
+    "wof:lastmodified":1466316546,
     "wof:name":"Get It In Writing LLC",
     "wof:parent_id":85803351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.816758,33.435236,-86.816758,33.435236],
-  "geometry": {"coordinates":[-86.816758,33.435236],"type":"Point"}
+  "bbox": [
+    -86.816758,
+    33.435236,
+    -86.816758,
+    33.435236
+],
+  "geometry": {"coordinates":[-86.81675799999999,33.435236],"type":"Point"}
 }

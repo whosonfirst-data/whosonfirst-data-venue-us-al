@@ -2,13 +2,14 @@
   "id": 152299261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.248332,32.384008,-86.248332,32.384008",
     "geom:latitude":32.384008,
     "geom:longitude":-86.248332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Cecil Ln",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813403,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85813403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152299261,
-    "wof:lastmodified":1449045468,
+    "wof:lastmodified":1466317054,
     "wof:name":"Winter Coleman",
     "wof:parent_id":85813403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.248332,32.384008,-86.248332,32.384008],
+  "bbox": [
+    -86.248332,
+    32.384008,
+    -86.248332,
+    32.384008
+],
   "geometry": {"coordinates":[-86.248332,32.384008],"type":"Point"}
 }

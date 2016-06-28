@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102441257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.860379,33.500216,-86.860379,33.500216",
     "geom:latitude":33.500216,
     "geom:longitude":-86.860379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1421 Lomb Ave",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817999,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85817999
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102441257,
-    "wof:lastmodified":1449067979,
+    "wof:lastmodified":1466314333,
     "wof:name":"Rutledge Heating & Cooling",
     "wof:parent_id":85817999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.860379,33.500216,-86.860379,33.500216],
-  "geometry": {"coordinates":[-86.860379,33.500216],"type":"Point"}
+  "bbox": [
+    -86.860379,
+    33.500216,
+    -86.860379,
+    33.500216
+],
+  "geometry": {"coordinates":[-86.86037899999999,33.500216],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102461879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.696218,33.395275,-86.696218,33.395275",
     "geom:latitude":33.395275,
     "geom:longitude":-86.696218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5467 Dover Cliff Cir",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85833411
+        85633793,
+        85833411,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102461879,
-    "wof:lastmodified":1449068691,
+    "wof:lastmodified":1466315101,
     "wof:name":"Ageless Music",
     "wof:parent_id":85833411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.696218,33.395275,-86.696218,33.395275],
+  "bbox": [
+    -86.696218,
+    33.395275,
+    -86.696218,
+    33.395275
+],
   "geometry": {"coordinates":[-86.696218,33.395275],"type":"Point"}
 }

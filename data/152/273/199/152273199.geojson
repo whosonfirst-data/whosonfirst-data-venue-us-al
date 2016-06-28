@@ -2,13 +2,14 @@
   "id": 152273199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.513576,31.011035,-87.513576,31.011035",
     "geom:latitude":31.011035,
     "geom:longitude":-87.513576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1508 Grubbs St",
     "sg:city":"Atmore",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843687,
+        85688675,
         85633793,
         85899775,
         102085735,
-        85688675
+        85843687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152273199,
-    "wof:lastmodified":1449046699,
+    "wof:lastmodified":1466316824,
     "wof:name":"Jones & Morgan Heating & Air",
     "wof:parent_id":85843687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.513576,31.011035,-87.513576,31.011035],
+  "bbox": [
+    -87.513576,
+    31.011035,
+    -87.513576,
+    31.011035
+],
   "geometry": {"coordinates":[-87.513576,31.011035],"type":"Point"}
 }

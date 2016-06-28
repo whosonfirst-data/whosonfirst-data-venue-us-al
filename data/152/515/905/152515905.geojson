@@ -2,13 +2,14 @@
   "id": 152515905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.09744,32.361144,-86.09744,32.361144",
     "geom:latitude":32.361144,
     "geom:longitude":-86.09744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"450 Pike Rd",
     "sg:city":"Pike Road",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":152515905,
-    "wof:lastmodified":1449045363,
+    "wof:lastmodified":1466318403,
     "wof:name":"Murdock Chapel A M E",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.09744,32.361144,-86.09744,32.361144],
-  "geometry": {"coordinates":[-86.09744,32.361144],"type":"Point"}
+  "bbox": [
+    -86.09744,
+    32.361144,
+    -86.09744,
+    32.361144
+],
+  "geometry": {"coordinates":[-86.09744000000001,32.361144],"type":"Point"}
 }

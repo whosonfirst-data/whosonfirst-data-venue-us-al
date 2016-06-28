@@ -2,13 +2,14 @@
   "id": 152647175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.718102,33.509165,-86.718102,33.509165",
     "geom:latitude":33.509165,
     "geom:longitude":-86.718102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4400 Fair Oaks Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.mtnbrook.k12.al.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850695,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85850695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152647175,
-    "wof:lastmodified":1449046498,
+    "wof:lastmodified":1466319067,
     "wof:name":"Cherokee Bend Elementary Schl",
     "wof:parent_id":85850695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.718102,33.509165,-86.718102,33.509165],
+  "bbox": [
+    -86.718102,
+    33.509165,
+    -86.718102,
+    33.509165
+],
   "geometry": {"coordinates":[-86.718102,33.509165],"type":"Point"}
 }

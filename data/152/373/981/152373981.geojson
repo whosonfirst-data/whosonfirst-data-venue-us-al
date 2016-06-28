@@ -2,13 +2,14 @@
   "id": 152373981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.749142,34.785112,-86.749142,34.785112",
     "geom:latitude":34.785112,
     "geom:longitude":-86.749142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6917 Wall Triana Hwy",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085487,
-        85633793,
         85688675,
-        85838413
+        85633793,
+        85838413,
+        102085487
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152373981,
-    "wof:lastmodified":1449046699,
+    "wof:lastmodified":1466317688,
     "wof:name":"Affordable Window Fashions",
     "wof:parent_id":85838413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.749142,34.785112,-86.749142,34.785112],
-  "geometry": {"coordinates":[-86.749142,34.785112],"type":"Point"}
+  "bbox": [
+    -86.749142,
+    34.785112,
+    -86.749142,
+    34.785112
+],
+  "geometry": {"coordinates":[-86.74914200000001,34.785112],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152510721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.828465,33.682215,-87.828465,33.682215",
     "geom:latitude":33.682215,
     "geom:longitude":-87.828465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"316 3rd St SE",
     "sg:city":"Fayette",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152510721,
-    "wof:lastmodified":1449047081,
+    "wof:lastmodified":1466318361,
     "wof:name":"Arc Of Fayette Lamar County",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.828465,33.682215,-87.828465,33.682215],
-  "geometry": {"coordinates":[-87.828465,33.682215],"type":"Point"}
+  "bbox": [
+    -87.828465,
+    33.682215,
+    -87.828465,
+    33.682215
+],
+  "geometry": {"coordinates":[-87.82846499999999,33.682215],"type":"Point"}
 }

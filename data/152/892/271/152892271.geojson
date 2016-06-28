@@ -2,13 +2,14 @@
   "id": 152892271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.533606,33.652733,-85.533606,33.652733",
     "geom:latitude":33.652733,
     "geom:longitude":-85.533606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4936 State Rte 46",
     "sg:city":"Heflin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152892271,
-    "wof:lastmodified":1449044991,
+    "wof:lastmodified":1466320288,
     "wof:name":"East Heflin Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.533606,33.652733,-85.533606,33.652733],
-  "geometry": {"coordinates":[-85.533606,33.652733],"type":"Point"}
+  "bbox": [
+    -85.533606,
+    33.652733,
+    -85.533606,
+    33.652733
+],
+  "geometry": {"coordinates":[-85.53360600000001,33.652733],"type":"Point"}
 }

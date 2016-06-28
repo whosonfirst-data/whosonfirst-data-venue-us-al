@@ -2,13 +2,14 @@
   "id": 152253879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.448224,32.622859,-85.448224,32.622859",
     "geom:latitude":32.622859,
     "geom:longitude":-85.448224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1971 E University Dr",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852419,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85852419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152253879,
-    "wof:lastmodified":1449048348,
+    "wof:lastmodified":1466316682,
     "wof:name":"Clothes Rack The",
     "wof:parent_id":85852419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.448224,32.622859,-85.448224,32.622859],
+  "bbox": [
+    -85.448224,
+    32.622859,
+    -85.448224,
+    32.622859
+],
   "geometry": {"coordinates":[-85.448224,32.622859],"type":"Point"}
 }

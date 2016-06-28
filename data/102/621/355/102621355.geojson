@@ -2,13 +2,14 @@
   "id": 102621355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.21941,32.336016,-86.21941,32.336016",
     "geom:latitude":32.336016,
     "geom:longitude":-86.21941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5847 Carriage Brook Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821317,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85821317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102621355,
-    "wof:lastmodified":1449069893,
+    "wof:lastmodified":1466317456,
     "wof:name":"Magic Step Daycare",
     "wof:parent_id":85821317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.21941,32.336016,-86.21941,32.336016],
+  "bbox": [
+    -86.21941,
+    32.336016,
+    -86.21941,
+    32.336016
+],
   "geometry": {"coordinates":[-86.21941,32.336016],"type":"Point"}
 }

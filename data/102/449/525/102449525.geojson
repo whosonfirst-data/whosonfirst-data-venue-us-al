@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102449525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.890908,30.549892,-87.890908,30.549892",
     "geom:latitude":30.549892,
     "geom:longitude":-87.890908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2211 US Hwy 98",
     "sg:city":"Daphne",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847563,
+        85688675,
         85633793,
         85914707,
         102085469,
-        85688675
+        85847563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102449525,
-    "wof:lastmodified":1449070005,
+    "wof:lastmodified":1466315463,
     "wof:name":"First Gulf Bank",
     "wof:parent_id":85847563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.890908,30.549892,-87.890908,30.549892],
+  "bbox": [
+    -87.890908,
+    30.549892,
+    -87.890908,
+    30.549892
+],
   "geometry": {"coordinates":[-87.890908,30.549892],"type":"Point"}
 }

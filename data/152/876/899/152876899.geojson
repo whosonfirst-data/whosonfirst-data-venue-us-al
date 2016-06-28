@@ -2,13 +2,14 @@
   "id": 152876899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.974488,34.459333,-85.974488,34.459333",
     "geom:latitude":34.459333,
     "geom:longitude":-85.974488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10491 Co Rd 50",
     "sg:city":"Fyffe",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815015,
+        85688675,
         85633793,
         85897515,
         102085615,
-        85688675
+        85815015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152876899,
-    "wof:lastmodified":1449045241,
+    "wof:lastmodified":1466320258,
     "wof:name":"Berry S Trucking",
     "wof:parent_id":85815015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.974488,34.459333,-85.974488,34.459333],
-  "geometry": {"coordinates":[-85.974488,34.459333],"type":"Point"}
+  "bbox": [
+    -85.974488,
+    34.459333,
+    -85.974488,
+    34.459333
+],
+  "geometry": {"coordinates":[-85.97448799999999,34.459333],"type":"Point"}
 }

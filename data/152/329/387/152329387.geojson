@@ -2,13 +2,14 @@
   "id": 152329387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.100763,34.013398,-86.100763,34.013398",
     "geom:latitude":34.013398,
     "geom:longitude":-86.100763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"511 3rd St SW",
     "sg:city":"Attalla",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085545,
-        85633793,
         85688675,
-        85851221
+        85633793,
+        85851221,
+        102085545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152329387,
-    "wof:lastmodified":1449045586,
+    "wof:lastmodified":1466317359,
     "wof:name":"Roper Construction Co",
     "wof:parent_id":85851221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.100763,34.013398,-86.100763,34.013398],
+  "bbox": [
+    -86.100763,
+    34.013398,
+    -86.100763,
+    34.013398
+],
   "geometry": {"coordinates":[-86.100763,34.013398],"type":"Point"}
 }

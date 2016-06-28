@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102507803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.760331,33.431044,-86.760331,33.431044",
     "geom:latitude":33.431044,
     "geom:longitude":-86.760331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3736 Shady Cove Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856691,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85856691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102507803,
-    "wof:lastmodified":1449068989,
+    "wof:lastmodified":1466316683,
     "wof:name":"Trinity Actrial Consulting LLC",
     "wof:parent_id":85856691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.760331,33.431044,-86.760331,33.431044],
-  "geometry": {"coordinates":[-86.760331,33.431044],"type":"Point"}
+  "bbox": [
+    -86.760331,
+    33.431044,
+    -86.760331,
+    33.431044
+],
+  "geometry": {"coordinates":[-86.76033099999999,33.431044],"type":"Point"}
 }

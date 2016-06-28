@@ -2,13 +2,14 @@
   "id": 152371429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.614189,33.939008,-85.614189,33.939008",
     "geom:latitude":33.939008,
     "geom:longitude":-85.614189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22766 State Rte 9",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817157,
+        85688675,
         85633793,
         85914293,
         102085603,
-        85688675
+        85817157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152371429,
-    "wof:lastmodified":1449047891,
+    "wof:lastmodified":1466317688,
     "wof:name":"Smith Plumbing & Supplies",
     "wof:parent_id":85817157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.614189,33.939008,-85.614189,33.939008],
+  "bbox": [
+    -85.614189,
+    33.939008,
+    -85.614189,
+    33.939008
+],
   "geometry": {"coordinates":[-85.614189,33.939008],"type":"Point"}
 }

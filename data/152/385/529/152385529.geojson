@@ -2,13 +2,14 @@
   "id": 152385529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.046659,30.694977,-88.046659,30.694977",
     "geom:latitude":30.694977,
     "geom:longitude":-88.046659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"254 State St",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.mhsolaw.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895795,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85895795
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152385529,
-    "wof:lastmodified":1449047043,
+    "wof:lastmodified":1466317814,
     "wof:name":"Miller Hamilton Snider & Odom",
     "wof:parent_id":85895795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.046659,30.694977,-88.046659,30.694977],
-  "geometry": {"coordinates":[-88.046659,30.694977],"type":"Point"}
+  "bbox": [
+    -88.046659,
+    30.694977,
+    -88.046659,
+    30.694977
+],
+  "geometry": {"coordinates":[-88.04665900000001,30.694977],"type":"Point"}
 }

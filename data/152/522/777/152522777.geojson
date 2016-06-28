@@ -2,13 +2,14 @@
   "id": 152522777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.505171,34.630947,-86.505171,34.630947",
     "geom:latitude":34.630947,
     "geom:longitude":-86.505171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"162 Walter Bird Dr",
     "sg:city":"Owens Cross Roads",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807141,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85807141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152522777,
-    "wof:lastmodified":1449046510,
+    "wof:lastmodified":1466318454,
     "wof:name":"Service Supply Co",
     "wof:parent_id":85807141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.505171,34.630947,-86.505171,34.630947],
+  "bbox": [
+    -86.505171,
+    34.630947,
+    -86.505171,
+    34.630947
+],
   "geometry": {"coordinates":[-86.505171,34.630947],"type":"Point"}
 }

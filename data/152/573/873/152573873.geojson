@@ -2,13 +2,14 @@
   "id": 152573873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.675415,34.799241,-87.675415,34.799241",
     "geom:latitude":34.799241,
     "geom:longitude":-87.675415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 S Court St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848857,
+        85688675,
         85633793,
         85914011,
         102085527,
-        85688675
+        85848857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152573873,
-    "wof:lastmodified":1449047712,
+    "wof:lastmodified":1466318566,
     "wof:name":"First Southern Bancshares Inc",
     "wof:parent_id":85848857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.675415,34.799241,-87.675415,34.799241],
+  "bbox": [
+    -87.675415,
+    34.799241,
+    -87.675415,
+    34.799241
+],
   "geometry": {"coordinates":[-87.675415,34.799241],"type":"Point"}
 }

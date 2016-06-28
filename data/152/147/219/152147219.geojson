@@ -2,13 +2,14 @@
   "id": 152147219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.788555,30.723675,-87.788555,30.723675",
     "geom:latitude":30.723675,
     "geom:longitude":-87.788555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33975 State Rte 59",
     "sg:city":"Loxley",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807399,
+        85688675,
         85633793,
         85914741,
         102085469,
-        85688675
+        85807399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152147219,
-    "wof:lastmodified":1449048422,
+    "wof:lastmodified":1466315448,
     "wof:name":"Ealum Drywall & Construction",
     "wof:parent_id":85807399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.788555,30.723675,-87.788555,30.723675],
+  "bbox": [
+    -87.788555,
+    30.723675,
+    -87.788555,
+    30.723675
+],
   "geometry": {"coordinates":[-87.788555,30.723675],"type":"Point"}
 }

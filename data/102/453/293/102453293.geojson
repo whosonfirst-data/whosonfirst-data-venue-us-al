@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102453293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.503239,34.324303,-86.503239,34.324303",
     "geom:latitude":34.324303,
     "geom:longitude":-86.503239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"545 N Brindlee Mountain Pkwy",
     "sg:city":"Arab",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837211,
+        85688675,
         85633793,
         85913243,
         102085513,
-        85688675
+        85837211
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102453293,
-    "wof:lastmodified":1449069598,
+    "wof:lastmodified":1466314733,
     "wof:name":"Lemons Construction & Dev",
     "wof:parent_id":85837211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.503239,34.324303,-86.503239,34.324303],
-  "geometry": {"coordinates":[-86.503239,34.324303],"type":"Point"}
+  "bbox": [
+    -86.503239,
+    34.324303,
+    -86.503239,
+    34.324303
+],
+  "geometry": {"coordinates":[-86.50323899999999,34.324303],"type":"Point"}
 }

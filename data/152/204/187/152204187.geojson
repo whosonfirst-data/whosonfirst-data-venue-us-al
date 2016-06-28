@@ -2,13 +2,14 @@
   "id": 152204187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.299727,32.346748,-86.299727,32.346748",
     "geom:latitude":32.346748,
     "geom:longitude":-86.299727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3382 Norman Bridge Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811507,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85811507
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152204187,
-    "wof:lastmodified":1449049028,
+    "wof:lastmodified":1466315980,
     "wof:name":"Georgia Intl Wholesalers",
     "wof:parent_id":85811507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.299727,32.346748,-86.299727,32.346748],
+  "bbox": [
+    -86.299727,
+    32.346748,
+    -86.299727,
+    32.346748
+],
   "geometry": {"coordinates":[-86.299727,32.346748],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152407079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.013502,32.429705,-85.013502,32.429705",
     "geom:latitude":32.429705,
     "geom:longitude":-85.013502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2007 S Seale Rd",
     "sg:city":"Phenix City",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821167,
+        85688675,
         85633793,
         85913715,
         102085697,
-        85688675
+        85821167
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152407079,
-    "wof:lastmodified":1449046873,
+    "wof:lastmodified":1466318018,
     "wof:name":"Seale Road Baptist Church",
     "wof:parent_id":85821167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.013502,32.429705,-85.013502,32.429705],
+  "bbox": [
+    -85.013502,
+    32.429705,
+    -85.013502,
+    32.429705
+],
   "geometry": {"coordinates":[-85.013502,32.429705],"type":"Point"}
 }

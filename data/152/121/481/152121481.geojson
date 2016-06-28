@@ -2,13 +2,14 @@
   "id": 152121481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.17637,34.793656,-87.17637,34.793656",
     "geom:latitude":34.793656,
     "geom:longitude":-87.17637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8162 Magic Brook Way",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829531,
+        85688675,
         85633793,
         85913543,
         102085489,
-        85688675
+        85829531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152121481,
-    "wof:lastmodified":1449047907,
+    "wof:lastmodified":1466314573,
     "wof:name":"Ralph Brooks Dairy",
     "wof:parent_id":85829531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.17637,34.793656,-87.17637,34.793656],
-  "geometry": {"coordinates":[-87.17637,34.793656],"type":"Point"}
+  "bbox": [
+    -87.17637,
+    34.793656,
+    -87.17637,
+    34.793656
+],
+  "geometry": {"coordinates":[-87.17637000000001,34.793656],"type":"Point"}
 }

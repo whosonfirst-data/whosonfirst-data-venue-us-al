@@ -2,13 +2,14 @@
   "id": 102616643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.561501,34.664457,-86.561501,34.664457",
     "geom:latitude":34.664457,
     "geom:longitude":-86.561501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 Sherwood Dr SE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85830495,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85830495
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102616643,
-    "wof:lastmodified":1449069572,
+    "wof:lastmodified":1466317345,
     "wof:name":"Harley Hope",
     "wof:parent_id":85830495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.561501,34.664457,-86.561501,34.664457],
-  "geometry": {"coordinates":[-86.561501,34.664457],"type":"Point"}
+  "bbox": [
+    -86.561501,
+    34.664457,
+    -86.561501,
+    34.664457
+],
+  "geometry": {"coordinates":[-86.56150100000001,34.664457],"type":"Point"}
 }

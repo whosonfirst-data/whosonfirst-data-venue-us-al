@@ -2,13 +2,14 @@
   "id": 152331665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.640222,33.420485,-86.640222,33.420485",
     "geom:latitude":33.420485,
     "geom:longitude":-86.640222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4017 Milner Way",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85833411
+        85633793,
+        85833411,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152331665,
-    "wof:lastmodified":1449047110,
+    "wof:lastmodified":1466317297,
     "wof:name":"Anywhere Under The Sun Travel",
     "wof:parent_id":85833411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.640222,33.420485,-86.640222,33.420485],
-  "geometry": {"coordinates":[-86.640222,33.420485],"type":"Point"}
+  "bbox": [
+    -86.640222,
+    33.420485,
+    -86.640222,
+    33.420485
+],
+  "geometry": {"coordinates":[-86.64022199999999,33.420485],"type":"Point"}
 }

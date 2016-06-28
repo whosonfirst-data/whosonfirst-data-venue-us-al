@@ -2,13 +2,14 @@
   "id": 152333837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.198862,32.386766,-86.198862,32.386766",
     "geom:latitude":32.386766,
     "geom:longitude":-86.198862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"290 N Burbank Dr",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.yoshukai.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829705,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85829705
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152333837,
-    "wof:lastmodified":1449048595,
+    "wof:lastmodified":1466317603,
     "wof:name":"Us Yoshukai Karate",
     "wof:parent_id":85829705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.198862,32.386766,-86.198862,32.386766],
-  "geometry": {"coordinates":[-86.198862,32.386766],"type":"Point"}
+  "bbox": [
+    -86.198862,
+    32.386766,
+    -86.198862,
+    32.386766
+],
+  "geometry": {"coordinates":[-86.19886200000001,32.386766],"type":"Point"}
 }

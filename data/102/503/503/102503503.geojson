@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102503503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.828148,33.639441,-85.828148,33.639441",
     "geom:latitude":33.639441,
     "geom:longitude":-85.828148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 E G St",
     "sg:city":"Anniston",
     "sg:classifiers":[
@@ -33,11 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840061,
+        85688675,
         85633793,
         85914281,
         102085603,
-        85688675
+        85840061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":102503503,
-    "wof:lastmodified":1449070221,
+    "wof:lastmodified":1466316615,
     "wof:name":"Fence Place The",
     "wof:parent_id":85840061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.828148,33.639441,-85.828148,33.639441],
+  "bbox": [
+    -85.828148,
+    33.639441,
+    -85.828148,
+    33.639441
+],
   "geometry": {"coordinates":[-85.828148,33.639441],"type":"Point"}
 }

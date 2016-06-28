@@ -2,13 +2,14 @@
   "id": 152777559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.625722,34.965697,-85.625722,34.965697",
     "geom:latitude":34.965697,
     "geom:longitude":-85.625722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7703 State Rte 73",
     "sg:city":"Bryant",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085607,
-        85633793,
         85688675,
-        85804739
+        85633793,
+        85804739,
+        102085607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152777559,
-    "wof:lastmodified":1449046746,
+    "wof:lastmodified":1466319735,
     "wof:name":"Color Craft Frames",
     "wof:parent_id":85804739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.625722,34.965697,-85.625722,34.965697],
+  "bbox": [
+    -85.625722,
+    34.965697,
+    -85.625722,
+    34.965697
+],
   "geometry": {"coordinates":[-85.625722,34.965697],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152550983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.559794,34.640619,-86.559794,34.640619",
     "geom:latitude":34.640619,
     "geom:longitude":-86.559794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11028 Jean Rd SE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854899,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85854899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152550983,
-    "wof:lastmodified":1449046803,
+    "wof:lastmodified":1466318610,
     "wof:name":"Vino Nuevo Ministry",
     "wof:parent_id":85854899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.559794,34.640619,-86.559794,34.640619],
+  "bbox": [
+    -86.559794,
+    34.640619,
+    -86.559794,
+    34.640619
+],
   "geometry": {"coordinates":[-86.559794,34.640619],"type":"Point"}
 }

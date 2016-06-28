@@ -2,13 +2,14 @@
   "id": 152386421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.62097,33.904384,-86.62097,33.904384",
     "geom:latitude":33.904384,
     "geom:longitude":-86.62097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30191 State Rte 79",
     "sg:city":"Locust Fork",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085667,
-        85633793,
         85688675,
-        85819523
+        85633793,
+        85819523,
+        102085667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152386421,
-    "wof:lastmodified":1449046733,
+    "wof:lastmodified":1466317751,
     "wof:name":"Frank's Garage & Tires",
     "wof:parent_id":85819523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.62097,33.904384,-86.62097,33.904384],
+  "bbox": [
+    -86.62097,
+    33.904384,
+    -86.62097,
+    33.904384
+],
   "geometry": {"coordinates":[-86.62097,33.904384],"type":"Point"}
 }

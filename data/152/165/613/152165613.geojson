@@ -2,13 +2,14 @@
   "id": 152165613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.467388,33.211761,-86.467388,33.211761",
     "geom:latitude":33.211761,
     "geom:longitude":-86.467388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2605 Hebb Rd",
     "sg:city":"Wilsonville",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85841999
+        85633793,
+        85841999,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152165613,
-    "wof:lastmodified":1449048908,
+    "wof:lastmodified":1466315426,
     "wof:name":"Betsy Griffin",
     "wof:parent_id":85841999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.467388,33.211761,-86.467388,33.211761],
+  "bbox": [
+    -86.467388,
+    33.211761,
+    -86.467388,
+    33.211761
+],
   "geometry": {"coordinates":[-86.467388,33.211761],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152748859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.819941,33.474451,-86.819941,33.474451",
     "geom:latitude":33.474451,
     "geom:longitude":-86.819941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 Rockhurst Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821721,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85821721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152748859,
-    "wof:lastmodified":1449047767,
+    "wof:lastmodified":1466319596,
     "wof:name":"A 24 Hour Door Svc",
     "wof:parent_id":85821721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.819941,33.474451,-86.819941,33.474451],
+  "bbox": [
+    -86.819941,
+    33.474451,
+    -86.819941,
+    33.474451
+],
   "geometry": {"coordinates":[-86.819941,33.474451],"type":"Point"}
 }

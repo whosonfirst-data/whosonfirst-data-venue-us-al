@@ -2,13 +2,14 @@
   "id": 152439251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.675221,33.904,-85.675221,33.904",
     "geom:latitude":33.904,
     "geom:longitude":-85.675221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4416 Possum Trot Rd",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817157,
+        85688675,
         85633793,
         85914293,
         102085603,
-        85688675
+        85817157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152439251,
-    "wof:lastmodified":1449045574,
+    "wof:lastmodified":1466317896,
     "wof:name":"J & B Body Shop",
     "wof:parent_id":85817157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.675221,33.904,-85.675221,33.904],
-  "geometry": {"coordinates":[-85.675221,33.904],"type":"Point"}
+  "bbox": [
+    -85.675221,
+    33.904,
+    -85.675221,
+    33.904
+],
+  "geometry": {"coordinates":[-85.67522099999999,33.904],"type":"Point"}
 }

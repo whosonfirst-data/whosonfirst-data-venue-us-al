@@ -2,13 +2,14 @@
   "id": 152333587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.817157,33.553526,-86.817157,33.553526",
     "geom:latitude":33.553526,
     "geom:longitude":-86.817157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3114 27th St N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837367,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85837367
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152333587,
-    "wof:lastmodified":1449048595,
+    "wof:lastmodified":1466317601,
     "wof:name":"World of Our Own",
     "wof:parent_id":85837367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.817157,33.553526,-86.817157,33.553526],
-  "geometry": {"coordinates":[-86.817157,33.553526],"type":"Point"}
+  "bbox": [
+    -86.817157,
+    33.553526,
+    -86.817157,
+    33.553526
+],
+  "geometry": {"coordinates":[-86.81715699999999,33.553526],"type":"Point"}
 }

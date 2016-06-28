@@ -2,13 +2,14 @@
   "id": 152144041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.125974,33.615621,-86.125974,33.615621",
     "geom:latitude":33.615621,
     "geom:longitude":-86.125974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Lock 4 Rd",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085517,
-        85633793,
         85688675,
-        85849013
+        85633793,
+        85849013,
+        102085517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152144041,
-    "wof:lastmodified":1449047681,
+    "wof:lastmodified":1466315387,
     "wof:name":"God's Care House",
     "wof:parent_id":85849013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.125974,33.615621,-86.125974,33.615621],
+  "bbox": [
+    -86.125974,
+    33.615621,
+    -86.125974,
+    33.615621
+],
   "geometry": {"coordinates":[-86.125974,33.615621],"type":"Point"}
 }

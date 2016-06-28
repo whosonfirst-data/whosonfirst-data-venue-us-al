@@ -2,13 +2,14 @@
   "id": 152740905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.471451,32.458045,-86.471451,32.458045",
     "geom:latitude":32.458045,
     "geom:longitude":-86.471451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 First St",
     "sg:city":"Prattville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85826521,
+        85688675,
         85633793,
         85913977,
         102085509,
-        85688675
+        85826521
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152740905,
-    "wof:lastmodified":1449046407,
+    "wof:lastmodified":1466319677,
     "wof:name":"Brown's Country Cooking",
     "wof:parent_id":85826521,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.471451,32.458045,-86.471451,32.458045],
+  "bbox": [
+    -86.471451,
+    32.458045,
+    -86.471451,
+    32.458045
+],
   "geometry": {"coordinates":[-86.471451,32.458045],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152524271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.692665,33.845578,-86.692665,33.845578",
     "geom:latitude":33.845578,
     "geom:longitude":-86.692665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2322 Reid School House Rd",
     "sg:city":"Trafford",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085667,
-        85633793,
         85688675,
-        85819523
+        85633793,
+        85819523,
+        102085667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152524271,
-    "wof:lastmodified":1449044242,
+    "wof:lastmodified":1466318435,
     "wof:name":"County Line Quarry",
     "wof:parent_id":85819523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.692665,33.845578,-86.692665,33.845578],
-  "geometry": {"coordinates":[-86.692665,33.845578],"type":"Point"}
+  "bbox": [
+    -86.692665,
+    33.845578,
+    -86.692665,
+    33.845578
+],
+  "geometry": {"coordinates":[-86.69266500000001,33.845578],"type":"Point"}
 }

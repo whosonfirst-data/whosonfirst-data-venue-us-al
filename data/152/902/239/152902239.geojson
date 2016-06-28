@@ -2,13 +2,14 @@
   "id": 152902239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.82493,33.411091,-86.82493,33.411091",
     "geom:latitude":33.411091,
     "geom:longitude":-86.82493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2604 Greenmont Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805457,
+        85688675,
         85633793,
         85914475,
         102085481,
-        85688675
+        85805457
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152902239,
-    "wof:lastmodified":1449047721,
+    "wof:lastmodified":1466320332,
     "wof:name":"Birmingham Pressure Washing",
     "wof:parent_id":85805457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.82493,33.411091,-86.82493,33.411091],
-  "geometry": {"coordinates":[-86.82493,33.411091],"type":"Point"}
+  "bbox": [
+    -86.82493,
+    33.411091,
+    -86.82493,
+    33.411091
+],
+  "geometry": {"coordinates":[-86.82492999999999,33.411091],"type":"Point"}
 }

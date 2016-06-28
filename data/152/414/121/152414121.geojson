@@ -2,13 +2,14 @@
   "id": 152414121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.109902,30.747235,-88.109902,30.747235",
     "geom:latitude":30.747235,
     "geom:longitude":-88.109902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1221 S Atmore Ave",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85857413,
+        85688675,
         85633793,
         85913741,
         102085585,
-        85688675
+        85857413
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152414121,
-    "wof:lastmodified":1449046468,
+    "wof:lastmodified":1466317897,
     "wof:name":"K Nobles Trucking",
     "wof:parent_id":85857413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.109902,30.747235,-88.109902,30.747235],
-  "geometry": {"coordinates":[-88.109902,30.747235],"type":"Point"}
+  "bbox": [
+    -88.109902,
+    30.747235,
+    -88.109902,
+    30.747235
+],
+  "geometry": {"coordinates":[-88.10990200000001,30.747235],"type":"Point"}
 }

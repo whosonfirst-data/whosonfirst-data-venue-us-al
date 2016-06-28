@@ -2,13 +2,14 @@
   "id": 152393905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.250674,34.51808,-87.250674,34.51808",
     "geom:latitude":34.51808,
     "geom:longitude":-87.250674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2394 Co Rd 170",
     "sg:city":"Moulton",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085601,
-        85633793,
         85688675,
-        85851971
+        85633793,
+        85851971,
+        102085601
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152393905,
-    "wof:lastmodified":1449045754,
+    "wof:lastmodified":1466317811,
     "wof:name":"Quality Woodcrafts",
     "wof:parent_id":85851971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.250674,34.51808,-87.250674,34.51808],
+  "bbox": [
+    -87.250674,
+    34.51808,
+    -87.250674,
+    34.51808
+],
   "geometry": {"coordinates":[-87.250674,34.51808],"type":"Point"}
 }

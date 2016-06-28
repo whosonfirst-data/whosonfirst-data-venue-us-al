@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102477153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.670348,34.769712,-87.670348,34.769712",
     "geom:latitude":34.769712,
     "geom:longitude":-87.670348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1714 Wall St",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     "sg:website":"www.aemsco.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848135,
+        85688675,
         85633793,
         85897473,
         102085625,
-        85688675
+        85848135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":102477153,
-    "wof:lastmodified":1449068222,
+    "wof:lastmodified":1466314539,
     "wof:name":"Alabama Electric Motor Svcs",
     "wof:parent_id":85848135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.670348,34.769712,-87.670348,34.769712],
+  "bbox": [
+    -87.670348,
+    34.769712,
+    -87.670348,
+    34.769712
+],
   "geometry": {"coordinates":[-87.670348,34.769712],"type":"Point"}
 }

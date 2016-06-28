@@ -2,13 +2,14 @@
   "id": 152181371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.549987,33.6957,-86.549987,33.6957",
     "geom:latitude":33.6957,
     "geom:longitude":-86.549987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6883 Advent Cir",
     "sg:city":"Trussville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85804121,
+        85688675,
         85633793,
         85914899,
         102085481,
-        85688675
+        85804121
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152181371,
-    "wof:lastmodified":1449047136,
+    "wof:lastmodified":1466315683,
     "wof:name":"Lab Check Inc",
     "wof:parent_id":85804121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.549987,33.6957,-86.549987,33.6957],
+  "bbox": [
+    -86.549987,
+    33.6957,
+    -86.549987,
+    33.6957
+],
   "geometry": {"coordinates":[-86.549987,33.6957],"type":"Point"}
 }

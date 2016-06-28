@@ -2,13 +2,14 @@
   "id": 152678969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.339989,32.364625,-86.339989,32.364625",
     "geom:latitude":32.364625,
     "geom:longitude":-86.339989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"883 Day Street Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856867,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675,
+        85856867,
         85832931
     ],
     "wof:breaches":[],
@@ -60,14 +61,20 @@
         }
     ],
     "wof:id":152678969,
-    "wof:lastmodified":1449046536,
+    "wof:lastmodified":1466319278,
     "wof:name":"Washington Park Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.339989,32.364625,-86.339989,32.364625],
+  "bbox": [
+    -86.339989,
+    32.364625,
+    -86.339989,
+    32.364625
+],
   "geometry": {"coordinates":[-86.339989,32.364625],"type":"Point"}
 }

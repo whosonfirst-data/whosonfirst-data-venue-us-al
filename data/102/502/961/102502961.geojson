@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102502961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.71952,33.537023,-86.71952,33.537023",
     "geom:latitude":33.537023,
     "geom:longitude":-86.71952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5601 Oporto Madrid Blvd S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850695,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85850695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102502961,
-    "wof:lastmodified":1449068872,
+    "wof:lastmodified":1466316707,
     "wof:name":"Lawson Field Stadium",
     "wof:parent_id":85850695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.71952,33.537023,-86.71952,33.537023],
+  "bbox": [
+    -86.71952,
+    33.537023,
+    -86.71952,
+    33.537023
+],
   "geometry": {"coordinates":[-86.71952,33.537023],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152491033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.284953,32.419551,-86.284953,32.419551",
     "geom:latitude":32.419551,
     "geom:longitude":-86.284953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3300 Lower Wetumpka Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85810909,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85810909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152491033,
-    "wof:lastmodified":1449044208,
+    "wof:lastmodified":1466318173,
     "wof:name":"Banks Unique Thrift Store",
     "wof:parent_id":85810909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.284953,32.419551,-86.284953,32.419551],
+  "bbox": [
+    -86.284953,
+    32.419551,
+    -86.284953,
+    32.419551
+],
   "geometry": {"coordinates":[-86.284953,32.419551],"type":"Point"}
 }

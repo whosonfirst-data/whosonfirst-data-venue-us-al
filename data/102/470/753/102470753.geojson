@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102470753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.796697,33.444875,-86.796697,33.444875",
     "geom:latitude":33.444875,
     "geom:longitude":-86.796697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1860 Cedarwood Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834905,
+        85688675,
         85633793,
         85914483,
         102085481,
-        85688675
+        85834905
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102470753,
-    "wof:lastmodified":1449068371,
+    "wof:lastmodified":1466315324,
     "wof:name":"Feh Illustration",
     "wof:parent_id":85834905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.796697,33.444875,-86.796697,33.444875],
-  "geometry": {"coordinates":[-86.796697,33.444875],"type":"Point"}
+  "bbox": [
+    -86.796697,
+    33.444875,
+    -86.796697,
+    33.444875
+],
+  "geometry": {"coordinates":[-86.79669699999999,33.444875],"type":"Point"}
 }

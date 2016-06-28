@@ -2,13 +2,14 @@
   "id": 152393621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.129079,30.65112,-88.129079,30.65112",
     "geom:latitude":30.65112,
     "geom:longitude":-88.129079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3715 Lakeside Ct",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152393621,
-    "wof:lastmodified":1449045755,
+    "wof:lastmodified":1466317806,
     "wof:name":"Landlink",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.129079,30.65112,-88.129079,30.65112],
+  "bbox": [
+    -88.129079,
+    30.65112,
+    -88.129079,
+    30.65112
+],
   "geometry": {"coordinates":[-88.129079,30.65112],"type":"Point"}
 }

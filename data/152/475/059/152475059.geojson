@@ -2,13 +2,14 @@
   "id": 152475059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.067841,34.322413,-86.067841,34.322413",
     "geom:latitude":34.322413,
     "geom:longitude":-86.067841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46139 State Rte 75",
     "sg:city":"Crossville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815015,
+        85688675,
         85633793,
         85897515,
         102085615,
-        85688675
+        85815015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152475059,
-    "wof:lastmodified":1449046230,
+    "wof:lastmodified":1466318198,
     "wof:name":"Classic Shear",
     "wof:parent_id":85815015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.067841,34.322413,-86.067841,34.322413],
+  "bbox": [
+    -86.067841,
+    34.322413,
+    -86.067841,
+    34.322413
+],
   "geometry": {"coordinates":[-86.067841,34.322413],"type":"Point"}
 }

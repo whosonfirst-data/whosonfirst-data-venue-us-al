@@ -2,13 +2,14 @@
   "id": 152178547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.650821,30.297579,-87.650821,30.297579",
     "geom:latitude":30.297579,
     "geom:longitude":-87.650821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21907 Cotton Creek Dr",
     "sg:city":"Gulf Shores",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868551,
+        85688675,
         85633793,
         85914719,
         102085469,
-        85688675
+        85868551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152178547,
-    "wof:lastmodified":1449047615,
+    "wof:lastmodified":1466315682,
     "wof:name":"Gulf Shores Exterminating Co",
     "wof:parent_id":85868551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.650821,30.297579,-87.650821,30.297579],
-  "geometry": {"coordinates":[-87.650821,30.297579],"type":"Point"}
+  "bbox": [
+    -87.650821,
+    30.297579,
+    -87.650821,
+    30.297579
+],
+  "geometry": {"coordinates":[-87.65082099999999,30.297579],"type":"Point"}
 }

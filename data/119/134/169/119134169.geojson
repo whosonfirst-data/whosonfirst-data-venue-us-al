@@ -2,13 +2,14 @@
   "id": 119134169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.312688,34.338062,-86.312688,34.338062",
     "geom:latitude":34.338062,
     "geom:longitude":-86.312688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2011 Gunter Ave",
     "sg:city":"Guntersville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829421,
+        85688675,
         85633793,
         85899833,
         102085513,
-        85688675
+        85829421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":119134169,
-    "wof:lastmodified":1449043406,
+    "wof:lastmodified":1466314623,
     "wof:name":"Griffith Discount Pharmacy",
     "wof:parent_id":85829421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.312688,34.338062,-86.312688,34.338062],
-  "geometry": {"coordinates":[-86.312688,34.338062],"type":"Point"}
+  "bbox": [
+    -86.312688,
+    34.338062,
+    -86.312688,
+    34.338062
+],
+  "geometry": {"coordinates":[-86.31268799999999,34.338062],"type":"Point"}
 }

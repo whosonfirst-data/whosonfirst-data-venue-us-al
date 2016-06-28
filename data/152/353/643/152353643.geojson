@@ -2,13 +2,14 @@
   "id": 152353643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.282279,32.315618,-86.282279,32.315618",
     "geom:latitude":32.315618,
     "geom:longitude":-86.282279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1225 Bassett Dr",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842989,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85842989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152353643,
-    "wof:lastmodified":1449045632,
+    "wof:lastmodified":1466317766,
     "wof:name":"Evangelize World Ministries",
     "wof:parent_id":85842989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.282279,32.315618,-86.282279,32.315618],
+  "bbox": [
+    -86.282279,
+    32.315618,
+    -86.282279,
+    32.315618
+],
   "geometry": {"coordinates":[-86.282279,32.315618],"type":"Point"}
 }

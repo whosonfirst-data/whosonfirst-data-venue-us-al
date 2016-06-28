@@ -2,13 +2,14 @@
   "id": 152390825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.011012,33.453601,-87.011012,33.453601",
     "geom:latitude":33.453601,
     "geom:longitude":-87.011012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"99 Florence St",
     "sg:city":"Bessemer",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":152390825,
-    "wof:lastmodified":1449048937,
+    "wof:lastmodified":1466317976,
     "wof:name":"Ken's Tires & Wheels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.011012,33.453601,-87.011012,33.453601],
-  "geometry": {"coordinates":[-87.011012,33.453601],"type":"Point"}
+  "bbox": [
+    -87.011012,
+    33.453601,
+    -87.011012,
+    33.453601
+],
+  "geometry": {"coordinates":[-87.01101199999999,33.453601],"type":"Point"}
 }

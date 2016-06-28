@@ -2,13 +2,14 @@
   "id": 152644265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.110081,30.699327,-88.110081,30.699327",
     "geom:latitude":30.699327,
     "geom:longitude":-88.110081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2950 Spring Hill Ave",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879003,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85879003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152644265,
-    "wof:lastmodified":1449046952,
+    "wof:lastmodified":1466319049,
     "wof:name":"ECD Program",
     "wof:parent_id":85879003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.110081,30.699327,-88.110081,30.699327],
-  "geometry": {"coordinates":[-88.110081,30.699327],"type":"Point"}
+  "bbox": [
+    -88.110081,
+    30.699327,
+    -88.110081,
+    30.699327
+],
+  "geometry": {"coordinates":[-88.11008099999999,30.699327],"type":"Point"}
 }

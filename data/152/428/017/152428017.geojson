@@ -2,13 +2,14 @@
   "id": 152428017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.612445,33.939752,-85.612445,33.939752",
     "geom:latitude":33.939752,
     "geom:longitude":-85.612445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"73 Vine St",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817157,
+        85688675,
         85633793,
         85914293,
         102085603,
-        85688675
+        85817157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152428017,
-    "wof:lastmodified":1449048607,
+    "wof:lastmodified":1466317798,
     "wof:name":"Goshen United Methodist Church",
     "wof:parent_id":85817157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.612445,33.939752,-85.612445,33.939752],
-  "geometry": {"coordinates":[-85.612445,33.939752],"type":"Point"}
+  "bbox": [
+    -85.612445,
+    33.939752,
+    -85.612445,
+    33.939752
+],
+  "geometry": {"coordinates":[-85.61244499999999,33.939752],"type":"Point"}
 }

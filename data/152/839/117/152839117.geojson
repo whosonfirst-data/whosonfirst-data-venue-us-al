@@ -2,13 +2,14 @@
   "id": 152839117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.015307,32.457366,-85.015307,32.457366",
     "geom:latitude":32.457366,
     "geom:longitude":-85.015307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1610 7th St",
     "sg:city":"Phenix City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152839117,
-    "wof:lastmodified":1449047074,
+    "wof:lastmodified":1466320016,
     "wof:name":"Stephen Smith Rev",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.015307,32.457366,-85.015307,32.457366],
-  "geometry": {"coordinates":[-85.015307,32.457366],"type":"Point"}
+  "bbox": [
+    -85.015307,
+    32.457366,
+    -85.015307,
+    32.457366
+],
+  "geometry": {"coordinates":[-85.01530700000001,32.457366],"type":"Point"}
 }

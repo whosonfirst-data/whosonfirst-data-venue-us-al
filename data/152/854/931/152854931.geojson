@@ -2,13 +2,14 @@
   "id": 152854931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.585044,34.742715,-86.585044,34.742715",
     "geom:latitude":34.742715,
     "geom:longitude":-86.585044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1021 Meridian St N",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878235,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878235
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152854931,
-    "wof:lastmodified":1449048747,
+    "wof:lastmodified":1466320042,
     "wof:name":"Mullins Special Occasions",
     "wof:parent_id":85878235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.585044,34.742715,-86.585044,34.742715],
+  "bbox": [
+    -86.585044,
+    34.742715,
+    -86.585044,
+    34.742715
+],
   "geometry": {"coordinates":[-86.585044,34.742715],"type":"Point"}
 }

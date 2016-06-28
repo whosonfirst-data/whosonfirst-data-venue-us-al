@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102505937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.858398,31.317656,-85.858398,31.317656",
     "geom:latitude":31.317656,
     "geom:longitude":-85.858398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 W Watts St",
     "sg:city":"Enterprise",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837695,
+        85688675,
         85633793,
         85899527,
         102085699,
-        85688675
+        85837695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":102505937,
-    "wof:lastmodified":1449069761,
+    "wof:lastmodified":1466316698,
     "wof:name":"Anderson's Peanuts",
     "wof:parent_id":85837695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.858398,31.317656,-85.858398,31.317656],
-  "geometry": {"coordinates":[-85.858398,31.317656],"type":"Point"}
+  "bbox": [
+    -85.858398,
+    31.317656,
+    -85.858398,
+    31.317656
+],
+  "geometry": {"coordinates":[-85.85839799999999,31.317656],"type":"Point"}
 }

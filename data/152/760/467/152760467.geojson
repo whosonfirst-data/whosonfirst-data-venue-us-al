@@ -2,13 +2,14 @@
   "id": 152760467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.485929,31.220653,-85.485929,31.220653",
     "geom:latitude":31.220653,
     "geom:longitude":-85.485929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 S Brannon Stand Rd",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805317,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85805317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152760467,
-    "wof:lastmodified":1449048741,
+    "wof:lastmodified":1466319638,
     "wof:name":"Highlands Elementary",
     "wof:parent_id":85805317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.485929,31.220653,-85.485929,31.220653],
+  "bbox": [
+    -85.485929,
+    31.220653,
+    -85.485929,
+    31.220653
+],
   "geometry": {"coordinates":[-85.485929,31.220653],"type":"Point"}
 }

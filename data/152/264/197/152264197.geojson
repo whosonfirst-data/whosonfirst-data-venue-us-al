@@ -2,13 +2,14 @@
   "id": 152264197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.834714,33.276876,-86.834714,33.276876",
     "geom:latitude":33.276876,
     "geom:longitude":-86.834714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1963 Riva Ridge Rd",
     "sg:city":"Helena",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845631,
+        85688675,
         85633793,
         85914471,
         102085499,
-        85688675
+        85845631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152264197,
-    "wof:lastmodified":1449047300,
+    "wof:lastmodified":1466316780,
     "wof:name":"Tile By Dave",
     "wof:parent_id":85845631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.834714,33.276876,-86.834714,33.276876],
-  "geometry": {"coordinates":[-86.834714,33.276876],"type":"Point"}
+  "bbox": [
+    -86.834714,
+    33.276876,
+    -86.834714,
+    33.276876
+],
+  "geometry": {"coordinates":[-86.83471400000001,33.276876],"type":"Point"}
 }

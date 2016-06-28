@@ -2,13 +2,14 @@
   "id": 152269539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.416319,31.212789,-85.416319,31.212789",
     "geom:latitude":31.212789,
     "geom:longitude":-85.416319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1420 Hartford Hwy",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85846119,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85846119
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152269539,
-    "wof:lastmodified":1449047205,
+    "wof:lastmodified":1466316888,
     "wof:name":"Brown's Locksmith Svc",
     "wof:parent_id":85846119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.416319,31.212789,-85.416319,31.212789],
+  "bbox": [
+    -85.416319,
+    31.212789,
+    -85.416319,
+    31.212789
+],
   "geometry": {"coordinates":[-85.416319,31.212789],"type":"Point"}
 }

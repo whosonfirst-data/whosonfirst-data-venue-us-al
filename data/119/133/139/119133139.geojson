@@ -2,13 +2,14 @@
   "id": 119133139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.280921,32.38648,-86.280921,32.38648",
     "geom:latitude":32.38648,
     "geom:longitude":-86.280921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1912 Upper Wetumpka Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809389,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85809389
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":119133139,
-    "wof:lastmodified":1449043048,
+    "wof:lastmodified":1466314619,
     "wof:name":"Pruitt's Automotive",
     "wof:parent_id":85809389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.280921,32.38648,-86.280921,32.38648],
-  "geometry": {"coordinates":[-86.280921,32.38648],"type":"Point"}
+  "bbox": [
+    -86.280921,
+    32.38648,
+    -86.280921,
+    32.38648
+],
+  "geometry": {"coordinates":[-86.28092100000001,32.38648],"type":"Point"}
 }

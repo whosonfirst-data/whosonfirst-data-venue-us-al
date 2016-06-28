@@ -2,13 +2,14 @@
   "id": 152746393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.57668,33.235558,-87.57668,33.235558",
     "geom:latitude":33.235558,
     "geom:longitude":-87.57668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2804 Lurleen B Wallace Blvd",
     "sg:city":"Northport",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806217,
+        85688675,
         85633793,
         85914425,
         102085553,
-        85688675
+        85806217
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152746393,
-    "wof:lastmodified":1449044244,
+    "wof:lastmodified":1466319566,
     "wof:name":"Care First Home Health",
     "wof:parent_id":85806217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.57668,33.235558,-87.57668,33.235558],
+  "bbox": [
+    -87.57668,
+    33.235558,
+    -87.57668,
+    33.235558
+],
   "geometry": {"coordinates":[-87.57668,33.235558],"type":"Point"}
 }

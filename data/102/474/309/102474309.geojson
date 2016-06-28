@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102474309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.687157,33.611916,-86.687157,33.611916",
     "geom:latitude":33.611916,
     "geom:longitude":-86.687157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9917 Parkway E",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085481,
-        85633793,
         85688675,
-        85816403
+        85633793,
+        85816403,
+        102085481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102474309,
-    "wof:lastmodified":1449067882,
+    "wof:lastmodified":1466315373,
     "wof:name":"Parkway Express",
     "wof:parent_id":85816403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.687157,33.611916,-86.687157,33.611916],
+  "bbox": [
+    -86.687157,
+    33.611916,
+    -86.687157,
+    33.611916
+],
   "geometry": {"coordinates":[-86.687157,33.611916],"type":"Point"}
 }

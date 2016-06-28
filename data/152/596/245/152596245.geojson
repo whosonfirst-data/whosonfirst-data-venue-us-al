@@ -2,13 +2,14 @@
   "id": 152596245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.230649,32.359227,-86.230649,32.359227",
     "geom:latitude":32.359227,
     "geom:longitude":-86.230649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4232 Carmichael Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152596245,
-    "wof:lastmodified":1449046672,
+    "wof:lastmodified":1466318809,
     "wof:name":"Cat Clinic Of Montgomery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.230649,32.359227,-86.230649,32.359227],
+  "bbox": [
+    -86.230649,
+    32.359227,
+    -86.230649,
+    32.359227
+],
   "geometry": {"coordinates":[-86.230649,32.359227],"type":"Point"}
 }

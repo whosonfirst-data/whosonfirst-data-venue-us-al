@@ -2,13 +2,14 @@
   "id": 152497541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.533453,34.799822,-86.533453,34.799822",
     "geom:latitude":34.799822,
     "geom:longitude":-86.533453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Dominion Cir",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833793,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85833793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152497541,
-    "wof:lastmodified":1449048840,
+    "wof:lastmodified":1466318455,
     "wof:name":"Thermal Barriers Ltd Inc",
     "wof:parent_id":85833793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.533453,34.799822,-86.533453,34.799822],
-  "geometry": {"coordinates":[-86.533453,34.799822],"type":"Point"}
+  "bbox": [
+    -86.533453,
+    34.799822,
+    -86.533453,
+    34.799822
+],
+  "geometry": {"coordinates":[-86.53345299999999,34.799822],"type":"Point"}
 }

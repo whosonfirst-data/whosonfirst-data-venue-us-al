@@ -2,13 +2,14 @@
   "id": 152507039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.967289,34.819631,-86.967289,34.819631",
     "geom:latitude":34.819631,
     "geom:longitude":-86.967289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1806 Wilkinson St",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85829531,
+        85688675,
         85633793,
         85913543,
         102085489,
-        85688675
+        85829531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152507039,
-    "wof:lastmodified":1449046677,
+    "wof:lastmodified":1466318349,
     "wof:name":"Bechtel Power Corporation",
     "wof:parent_id":85829531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.967289,34.819631,-86.967289,34.819631],
-  "geometry": {"coordinates":[-86.967289,34.819631],"type":"Point"}
+  "bbox": [
+    -86.967289,
+    34.819631,
+    -86.967289,
+    34.819631
+],
+  "geometry": {"coordinates":[-86.96728899999999,34.819631],"type":"Point"}
 }

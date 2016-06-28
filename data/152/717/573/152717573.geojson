@@ -2,13 +2,14 @@
   "id": 152717573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.186147,33.344237,-86.186147,33.344237",
     "geom:latitude":33.344237,
     "geom:longitude":-86.186147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24303 Co Rd 21",
     "sg:city":"Talladega",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085517,
-        85633793,
         85688675,
-        85849013
+        85633793,
+        85849013,
+        102085517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152717573,
-    "wof:lastmodified":1449044419,
+    "wof:lastmodified":1466319419,
     "wof:name":"Red Barn Country Store",
     "wof:parent_id":85849013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.186147,33.344237,-86.186147,33.344237],
-  "geometry": {"coordinates":[-86.186147,33.344237],"type":"Point"}
+  "bbox": [
+    -86.186147,
+    33.344237,
+    -86.186147,
+    33.344237
+],
+  "geometry": {"coordinates":[-86.18614700000001,33.344237],"type":"Point"}
 }

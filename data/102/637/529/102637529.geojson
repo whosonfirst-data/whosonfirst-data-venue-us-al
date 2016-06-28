@@ -2,13 +2,14 @@
   "id": 102637529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.799016,32.301197,-87.799016,32.301197",
     "geom:latitude":32.301197,
     "geom:longitude":-87.799016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 4th Ave",
     "sg:city":"Linden",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102637529,
-    "wof:lastmodified":1449067763,
+    "wof:lastmodified":1466317412,
     "wof:name":"Stemwinders",
     "wof:parent_id":85899603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.799016,32.301197,-87.799016,32.301197],
-  "geometry": {"coordinates":[-87.799016,32.301197],"type":"Point"}
+  "bbox": [
+    -87.799016,
+    32.301197,
+    -87.799016,
+    32.301197
+],
+  "geometry": {"coordinates":[-87.79901599999999,32.301197],"type":"Point"}
 }

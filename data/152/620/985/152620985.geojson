@@ -2,13 +2,14 @@
   "id": 152620985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.413376,31.247453,-85.413376,31.247453",
     "geom:latitude":31.247453,
     "geom:longitude":-85.413376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1504 Virwood Dr",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851339,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85851339
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152620985,
-    "wof:lastmodified":1449048524,
+    "wof:lastmodified":1466318979,
     "wof:name":"Advantage Building Pdts LLC",
     "wof:parent_id":85851339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.413376,31.247453,-85.413376,31.247453],
+  "bbox": [
+    -85.413376,
+    31.247453,
+    -85.413376,
+    31.247453
+],
   "geometry": {"coordinates":[-85.413376,31.247453],"type":"Point"}
 }

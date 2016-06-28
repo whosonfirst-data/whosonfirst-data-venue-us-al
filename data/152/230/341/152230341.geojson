@@ -2,13 +2,14 @@
   "id": 152230341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.21793,33.248278,-86.21793,33.248278",
     "geom:latitude":33.248278,
     "geom:longitude":-86.21793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16040 Co Rd 21",
     "sg:city":"Sylacauga",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834171,
+        85688675,
         85633793,
         85914133,
         102085517,
-        85688675
+        85834171
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152230341,
-    "wof:lastmodified":1449047733,
+    "wof:lastmodified":1466316400,
     "wof:name":"Randall D Hall",
     "wof:parent_id":85834171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.21793,33.248278,-86.21793,33.248278],
+  "bbox": [
+    -86.21793,
+    33.248278,
+    -86.21793,
+    33.248278
+],
   "geometry": {"coordinates":[-86.21793,33.248278],"type":"Point"}
 }

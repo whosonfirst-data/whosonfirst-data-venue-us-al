@@ -2,13 +2,14 @@
   "id": 152232483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.674857,30.406472,-87.674857,30.406472",
     "geom:latitude":30.406472,
     "geom:longitude":-87.674857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 E Laurel Ave",
     "sg:city":"Foley",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.baldwincountyonline.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868551,
+        85688675,
         85633793,
         85914719,
         102085469,
-        85688675
+        85868551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152232483,
-    "wof:lastmodified":1449045795,
+    "wof:lastmodified":1466316349,
     "wof:name":"BALDWINCOUNTYONLINE.COM",
     "wof:parent_id":85868551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.674857,30.406472,-87.674857,30.406472],
+  "bbox": [
+    -87.674857,
+    30.406472,
+    -87.674857,
+    30.406472
+],
   "geometry": {"coordinates":[-87.674857,30.406472],"type":"Point"}
 }

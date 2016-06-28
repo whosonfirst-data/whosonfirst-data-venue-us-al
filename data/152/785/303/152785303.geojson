@@ -2,13 +2,14 @@
   "id": 152785303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.411369,32.459844,-86.411369,32.459844",
     "geom:latitude":32.459844,
     "geom:longitude":-86.411369,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2277 Cobbs Ford Rd",
     "sg:city":"Prattville",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840001,
+        85688675,
         85633793,
         85913977,
         102085509,
-        85688675
+        85840001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152785303,
-    "wof:lastmodified":1449048123,
+    "wof:lastmodified":1466319749,
     "wof:name":"Enterprise Rent-A-Car Company",
     "wof:parent_id":85840001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.411369,32.459844,-86.411369,32.459844],
-  "geometry": {"coordinates":[-86.411369,32.459844],"type":"Point"}
+  "bbox": [
+    -86.411369,
+    32.459844,
+    -86.411369,
+    32.459844
+],
+  "geometry": {"coordinates":[-86.41136899999999,32.459844],"type":"Point"}
 }

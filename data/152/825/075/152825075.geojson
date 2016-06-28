@@ -2,13 +2,14 @@
   "id": 152825075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.225926,30.685107,-88.225926,30.685107",
     "geom:latitude":30.685107,
     "geom:longitude":-88.225926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7873 Schillinger Park W",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85841857,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85841857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152825075,
-    "wof:lastmodified":1449044474,
+    "wof:lastmodified":1466319967,
     "wof:name":"Haas Davis Fine Meats Inc",
     "wof:parent_id":85841857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.225926,30.685107,-88.225926,30.685107],
+  "bbox": [
+    -88.225926,
+    30.685107,
+    -88.225926,
+    30.685107
+],
   "geometry": {"coordinates":[-88.225926,30.685107],"type":"Point"}
 }

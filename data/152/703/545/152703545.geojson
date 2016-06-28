@@ -2,13 +2,14 @@
   "id": 152703545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.574976,34.761354,-86.574976,34.761354",
     "geom:latitude":34.761354,
     "geom:longitude":-86.574976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2908 Meridian St N",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811925,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85811925
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152703545,
-    "wof:lastmodified":1449045708,
+    "wof:lastmodified":1466319502,
     "wof:name":"High Fashion Salon",
     "wof:parent_id":85811925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.574976,34.761354,-86.574976,34.761354],
-  "geometry": {"coordinates":[-86.574976,34.761354],"type":"Point"}
+  "bbox": [
+    -86.574976,
+    34.761354,
+    -86.574976,
+    34.761354
+],
+  "geometry": {"coordinates":[-86.57497600000001,34.761354],"type":"Point"}
 }

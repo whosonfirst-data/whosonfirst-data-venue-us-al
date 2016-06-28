@@ -2,13 +2,14 @@
   "id": 152654295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.494943,34.331669,-86.494943,34.331669",
     "geom:latitude":34.331669,
     "geom:longitude":-86.494943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Brookwood Cir NE",
     "sg:city":"Arab",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837211,
+        85688675,
         85633793,
         85913243,
         102085513,
-        85688675,
+        85837211,
         85817629
     ],
     "wof:breaches":[],
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":152654295,
-    "wof:lastmodified":1449045858,
+    "wof:lastmodified":1466319103,
     "wof:name":"Joseph H Stephenson Rev",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.494943,34.331669,-86.494943,34.331669],
-  "geometry": {"coordinates":[-86.494943,34.331669],"type":"Point"}
+  "bbox": [
+    -86.494943,
+    34.331669,
+    -86.494943,
+    34.331669
+],
+  "geometry": {"coordinates":[-86.49494300000001,34.331669],"type":"Point"}
 }

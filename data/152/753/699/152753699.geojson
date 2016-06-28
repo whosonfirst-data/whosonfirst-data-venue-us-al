@@ -2,13 +2,14 @@
   "id": 152753699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.054476,30.696459,-88.054476,30.696459",
     "geom:latitude":30.696459,
     "geom:longitude":-88.054476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"566 Beauregard St",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85895795,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85895795
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152753699,
-    "wof:lastmodified":1449044846,
+    "wof:lastmodified":1466319630,
     "wof:name":"Industrial Electric Supply Co",
     "wof:parent_id":85895795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.054476,30.696459,-88.054476,30.696459],
-  "geometry": {"coordinates":[-88.054476,30.696459],"type":"Point"}
+  "bbox": [
+    -88.054476,
+    30.696459,
+    -88.054476,
+    30.696459
+],
+  "geometry": {"coordinates":[-88.05447599999999,30.696459],"type":"Point"}
 }

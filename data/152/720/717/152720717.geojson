@@ -2,13 +2,14 @@
   "id": 152720717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.656167,33.866892,-86.656167,33.866892",
     "geom:latitude":33.866892,
     "geom:longitude":-86.656167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26661 State Rte 79",
     "sg:city":"Trafford",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085667,
-        85633793,
         85688675,
-        85819523
+        85633793,
+        85819523,
+        102085667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152720717,
-    "wof:lastmodified":1449045395,
+    "wof:lastmodified":1466319443,
     "wof:name":"Dyar Signs",
     "wof:parent_id":85819523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.656167,33.866892,-86.656167,33.866892],
+  "bbox": [
+    -86.656167,
+    33.866892,
+    -86.656167,
+    33.866892
+],
   "geometry": {"coordinates":[-86.656167,33.866892],"type":"Point"}
 }

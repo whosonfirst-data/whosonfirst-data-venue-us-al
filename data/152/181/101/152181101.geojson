@@ -2,13 +2,14 @@
   "id": 152181101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.286498,32.371226,-86.286498,32.371226",
     "geom:latitude":32.371226,
     "geom:longitude":-86.286498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1620 Forest Ave",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -33,11 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809389,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85809389
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":152181101,
-    "wof:lastmodified":1449047134,
+    "wof:lastmodified":1466315601,
     "wof:name":"R & H Supply Co Inc",
     "wof:parent_id":85809389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.286498,32.371226,-86.286498,32.371226],
-  "geometry": {"coordinates":[-86.286498,32.371226],"type":"Point"}
+  "bbox": [
+    -86.286498,
+    32.371226,
+    -86.286498,
+    32.371226
+],
+  "geometry": {"coordinates":[-86.28649799999999,32.371226],"type":"Point"}
 }

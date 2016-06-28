@@ -2,13 +2,14 @@
   "id": 152500607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.815691,33.246984,-86.815691,33.246984",
     "geom:latitude":33.246984,
     "geom:longitude":-86.815691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 1st St N",
     "sg:city":"Alabaster",
     "sg:classifiers":[
@@ -27,13 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828267,
+        85688675,
         85633793,
         85914501,
         102085499,
-        85688675,
-        85847439,
-        85914487
+        85828267,
+        85914487,
+        85847439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,14 +61,20 @@
         }
     ],
     "wof:id":152500607,
-    "wof:lastmodified":1449045444,
+    "wof:lastmodified":1466318337,
     "wof:name":"Bordenca & Williams",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.815691,33.246984,-86.815691,33.246984],
+  "bbox": [
+    -86.815691,
+    33.246984,
+    -86.815691,
+    33.246984
+],
   "geometry": {"coordinates":[-86.815691,33.246984],"type":"Point"}
 }

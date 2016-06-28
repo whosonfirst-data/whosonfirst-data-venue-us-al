@@ -2,13 +2,14 @@
   "id": 152312881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.796371,33.500591,-86.796371,33.500591",
     "geom:latitude":33.500591,
     "geom:longitude":-86.796371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1116 20th St S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876277,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152312881,
-    "wof:lastmodified":1449046636,
+    "wof:lastmodified":1466317356,
     "wof:name":"Legacy Group LLC",
     "wof:parent_id":85876277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.796371,33.500591,-86.796371,33.500591],
-  "geometry": {"coordinates":[-86.796371,33.500591],"type":"Point"}
+  "bbox": [
+    -86.796371,
+    33.500591,
+    -86.796371,
+    33.500591
+],
+  "geometry": {"coordinates":[-86.79637099999999,33.500591],"type":"Point"}
 }

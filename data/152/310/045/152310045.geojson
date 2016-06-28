@@ -2,13 +2,14 @@
   "id": 152310045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.782221,33.517314,-86.782221,33.517314",
     "geom:latitude":33.517314,
     "geom:longitude":-86.782221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3300 5th Ave S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.americanpipe.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876275,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152310045,
-    "wof:lastmodified":1449047147,
+    "wof:lastmodified":1466317080,
     "wof:name":"American Pipe & Supply Co",
     "wof:parent_id":85876275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.782221,33.517314,-86.782221,33.517314],
-  "geometry": {"coordinates":[-86.782221,33.517314],"type":"Point"}
+  "bbox": [
+    -86.782221,
+    33.517314,
+    -86.782221,
+    33.517314
+],
+  "geometry": {"coordinates":[-86.78222100000001,33.517314],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152461221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.263303,33.471034,-86.263303,33.471034",
     "geom:latitude":33.471034,
     "geom:longitude":-86.263303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 Griffitt Bend Rd",
     "sg:city":"Talladega",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085517,
-        85633793,
         85688675,
-        85849013
+        85633793,
+        85849013,
+        102085517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152461221,
-    "wof:lastmodified":1449046047,
+    "wof:lastmodified":1466318265,
     "wof:name":"Sunrise Nursery",
     "wof:parent_id":85849013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.263303,33.471034,-86.263303,33.471034],
-  "geometry": {"coordinates":[-86.263303,33.471034],"type":"Point"}
+  "bbox": [
+    -86.263303,
+    33.471034,
+    -86.263303,
+    33.471034
+],
+  "geometry": {"coordinates":[-86.26330299999999,33.471034],"type":"Point"}
 }

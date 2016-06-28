@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102509655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.500566,34.679058,-86.500566,34.679058",
     "geom:latitude":34.679058,
     "geom:longitude":-86.500566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"373 Old Big Cove Rd",
     "sg:city":"Brownsboro",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878245,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102509655,
-    "wof:lastmodified":1449067879,
+    "wof:lastmodified":1466316516,
     "wof:name":"Charles Moore",
     "wof:parent_id":85878245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.500566,34.679058,-86.500566,34.679058],
-  "geometry": {"coordinates":[-86.500566,34.679058],"type":"Point"}
+  "bbox": [
+    -86.500566,
+    34.679058,
+    -86.500566,
+    34.679058
+],
+  "geometry": {"coordinates":[-86.50056600000001,34.679058],"type":"Point"}
 }

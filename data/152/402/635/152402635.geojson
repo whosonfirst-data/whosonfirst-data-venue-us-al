@@ -2,13 +2,14 @@
   "id": 152402635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.37788,34.690255,-86.37788,34.690255",
     "geom:latitude":34.690255,
     "geom:longitude":-86.37788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 3rd St",
     "sg:city":"Gurley",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878245,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152402635,
-    "wof:lastmodified":1449045783,
+    "wof:lastmodified":1466317856,
     "wof:name":"Madison County Recrtl Ctr",
     "wof:parent_id":85878245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.37788,34.690255,-86.37788,34.690255],
+  "bbox": [
+    -86.37788,
+    34.690255,
+    -86.37788,
+    34.690255
+],
   "geometry": {"coordinates":[-86.37788,34.690255],"type":"Point"}
 }

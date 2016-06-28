@@ -2,13 +2,14 @@
   "id": 152301145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.708094,33.421994,-86.708094,33.421994",
     "geom:latitude":33.421994,
     "geom:longitude":-86.708094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"195 Inverness Pkwy",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     "sg:website":"www.aladdincleaners.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85826983
+        85633793,
+        85826983,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152301145,
-    "wof:lastmodified":1449045475,
+    "wof:lastmodified":1466317128,
     "wof:name":"Aladdin Cleaners & Laundry",
     "wof:parent_id":85826983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.708094,33.421994,-86.708094,33.421994],
+  "bbox": [
+    -86.708094,
+    33.421994,
+    -86.708094,
+    33.421994
+],
   "geometry": {"coordinates":[-86.708094,33.421994],"type":"Point"}
 }

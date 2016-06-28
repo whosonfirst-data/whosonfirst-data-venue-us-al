@@ -2,13 +2,14 @@
   "id": 152126205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.174614,30.570905,-88.174614,30.570905",
     "geom:latitude":30.570905,
     "geom:longitude":-88.174614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5751 Larue Steiner Rd",
     "sg:city":"Theodore",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.heatexchanger.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852259,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85852259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152126205,
-    "wof:lastmodified":1449046010,
+    "wof:lastmodified":1466314757,
     "wof:name":"Alabama Heat Exchangers",
     "wof:parent_id":85852259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.174614,30.570905,-88.174614,30.570905],
-  "geometry": {"coordinates":[-88.174614,30.570905],"type":"Point"}
+  "bbox": [
+    -88.174614,
+    30.570905,
+    -88.174614,
+    30.570905
+],
+  "geometry": {"coordinates":[-88.17461400000001,30.570905],"type":"Point"}
 }

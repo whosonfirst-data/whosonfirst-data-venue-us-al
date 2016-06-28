@@ -2,13 +2,14 @@
   "id": 152486987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.587048,34.578626,-85.587048,34.578626",
     "geom:latitude":34.578626,
     "geom:longitude":-85.587048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5951 State Rte 117",
     "sg:city":"Mentone",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85844901,
+        85688675,
         85633793,
         85897439,
         102085615,
-        85688675
+        85844901
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152486987,
-    "wof:lastmodified":1449046878,
+    "wof:lastmodified":1466318336,
     "wof:name":"Dessie's",
     "wof:parent_id":85844901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.587048,34.578626,-85.587048,34.578626],
+  "bbox": [
+    -85.587048,
+    34.578626,
+    -85.587048,
+    34.578626
+],
   "geometry": {"coordinates":[-85.587048,34.578626],"type":"Point"}
 }

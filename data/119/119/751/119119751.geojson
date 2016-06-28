@@ -2,13 +2,14 @@
   "id": 119119751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.426046,31.214,-85.426046,31.214",
     "geom:latitude":31.214,
     "geom:longitude":-85.426046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2442 Fortner St",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85846119,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85846119
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":119119751,
-    "wof:lastmodified":1449042776,
+    "wof:lastmodified":1466314422,
     "wof:name":"Alterations Etc",
     "wof:parent_id":85846119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.426046,31.214,-85.426046,31.214],
+  "bbox": [
+    -85.426046,
+    31.214,
+    -85.426046,
+    31.214
+],
   "geometry": {"coordinates":[-85.426046,31.214],"type":"Point"}
 }

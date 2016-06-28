@@ -2,13 +2,14 @@
   "id": 152720645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.016922,34.027006,-86.016922,34.027006",
     "geom:latitude":34.027006,
     "geom:longitude":-86.016922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 N 11th St",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805515,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85805515
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152720645,
-    "wof:lastmodified":1449045397,
+    "wof:lastmodified":1466319443,
     "wof:name":"Word Of Life Outreach Ministry",
     "wof:parent_id":85805515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.016922,34.027006,-86.016922,34.027006],
-  "geometry": {"coordinates":[-86.016922,34.027006],"type":"Point"}
+  "bbox": [
+    -86.016922,
+    34.027006,
+    -86.016922,
+    34.027006
+],
+  "geometry": {"coordinates":[-86.01692199999999,34.027006],"type":"Point"}
 }

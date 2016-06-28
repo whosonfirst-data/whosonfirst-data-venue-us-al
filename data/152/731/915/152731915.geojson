@@ -2,13 +2,14 @@
   "id": 152731915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.622153,34.532665,-86.622153,34.532665",
     "geom:latitude":34.532665,
     "geom:longitude":-86.622153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Lang Rd",
     "sg:city":"Laceys Spring",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822793,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85822793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152731915,
-    "wof:lastmodified":1449048410,
+    "wof:lastmodified":1466319493,
     "wof:name":"Chop Chop Lawn Service",
     "wof:parent_id":85822793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.622153,34.532665,-86.622153,34.532665],
+  "bbox": [
+    -86.622153,
+    34.532665,
+    -86.622153,
+    34.532665
+],
   "geometry": {"coordinates":[-86.622153,34.532665],"type":"Point"}
 }

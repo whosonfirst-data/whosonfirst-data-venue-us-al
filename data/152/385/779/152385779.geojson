@@ -2,13 +2,14 @@
   "id": 152385779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.886457,30.489761,-87.886457,30.489761",
     "geom:latitude":30.489761,
     "geom:longitude":-87.886457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18191 S Greeno Rd",
     "sg:city":"Fairhope",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854025,
+        85688675,
         85633793,
         85914707,
         102085469,
-        85688675
+        85854025
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152385779,
-    "wof:lastmodified":1449047044,
+    "wof:lastmodified":1466317817,
     "wof:name":"Circle Of Light For Women",
     "wof:parent_id":85854025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.886457,30.489761,-87.886457,30.489761],
-  "geometry": {"coordinates":[-87.886457,30.489761],"type":"Point"}
+  "bbox": [
+    -87.886457,
+    30.489761,
+    -87.886457,
+    30.489761
+],
+  "geometry": {"coordinates":[-87.88645699999999,30.489761],"type":"Point"}
 }

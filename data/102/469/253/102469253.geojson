@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102469253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.834144,33.607304,-85.834144,33.607304",
     "geom:latitude":33.607304,
     "geom:longitude":-85.834144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Hamric Dr E",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827499,
+        85688675,
         85633793,
         85914159,
         102085603,
-        85688675
+        85827499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102469253,
-    "wof:lastmodified":1449070269,
+    "wof:lastmodified":1466315184,
     "wof:name":"Miller Funeral Home",
     "wof:parent_id":85827499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.834144,33.607304,-85.834144,33.607304],
-  "geometry": {"coordinates":[-85.834144,33.607304],"type":"Point"}
+  "bbox": [
+    -85.834144,
+    33.607304,
+    -85.834144,
+    33.607304
+],
+  "geometry": {"coordinates":[-85.83414399999999,33.607304],"type":"Point"}
 }

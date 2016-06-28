@@ -2,13 +2,14 @@
   "id": 152728823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.846491,31.347972,-85.846491,31.347972",
     "geom:latitude":31.347972,
     "geom:longitude":-85.846491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 Oakwood Dr",
     "sg:city":"Enterprise",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848185,
+        85688675,
         85633793,
         85899527,
         102085699,
-        85688675
+        85848185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152728823,
-    "wof:lastmodified":1449045372,
+    "wof:lastmodified":1466319493,
     "wof:name":"Rhoades Trailers Sales Inc",
     "wof:parent_id":85848185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.846491,31.347972,-85.846491,31.347972],
+  "bbox": [
+    -85.846491,
+    31.347972,
+    -85.846491,
+    31.347972
+],
   "geometry": {"coordinates":[-85.846491,31.347972],"type":"Point"}
 }

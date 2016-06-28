@@ -2,13 +2,14 @@
   "id": 152893599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.799715,32.707956,-85.799715,32.707956",
     "geom:latitude":32.707956,
     "geom:longitude":-85.799715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7791 State Rte 50",
     "sg:city":"Dadeville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848983,
+        85688675,
         85633793,
         85913327,
         102085567,
-        85688675
+        85848983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152893599,
-    "wof:lastmodified":1449048045,
+    "wof:lastmodified":1466320394,
     "wof:name":"Walnut Hill Water Authority",
     "wof:parent_id":85848983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.799715,32.707956,-85.799715,32.707956],
-  "geometry": {"coordinates":[-85.799715,32.707956],"type":"Point"}
+  "bbox": [
+    -85.799715,
+    32.707956,
+    -85.799715,
+    32.707956
+],
+  "geometry": {"coordinates":[-85.79971500000001,32.707956],"type":"Point"}
 }

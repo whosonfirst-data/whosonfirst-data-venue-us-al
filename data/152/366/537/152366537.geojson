@@ -2,13 +2,14 @@
   "id": 152366537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.881697,33.108682,-86.881697,33.108682",
     "geom:latitude":33.108682,
     "geom:longitude":-86.881697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"495 Co Rd 10",
     "sg:city":"Montevallo",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85839361,
+        85688675,
         85633793,
         85914487,
         102085499,
-        85688675
+        85839361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152366537,
-    "wof:lastmodified":1449047672,
+    "wof:lastmodified":1466317784,
     "wof:name":"Mt Sinai Worship Ctr",
     "wof:parent_id":85839361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.881697,33.108682,-86.881697,33.108682],
+  "bbox": [
+    -86.881697,
+    33.108682,
+    -86.881697,
+    33.108682
+],
   "geometry": {"coordinates":[-86.881697,33.108682],"type":"Point"}
 }

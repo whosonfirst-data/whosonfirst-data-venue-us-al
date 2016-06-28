@@ -2,13 +2,14 @@
   "id": 152390613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.825635,31.575326,-85.825635,31.575326",
     "geom:latitude":31.575326,
     "geom:longitude":-85.825635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1070 Co Rd 109",
     "sg:city":"Brundidge",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837695,
+        85688675,
         85633793,
         85899527,
         102085699,
-        85688675
+        85837695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152390613,
-    "wof:lastmodified":1449048940,
+    "wof:lastmodified":1466317969,
     "wof:name":"Johnston Trucking LLC",
     "wof:parent_id":85837695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.825635,31.575326,-85.825635,31.575326],
-  "geometry": {"coordinates":[-85.825635,31.575326],"type":"Point"}
+  "bbox": [
+    -85.825635,
+    31.575326,
+    -85.825635,
+    31.575326
+],
+  "geometry": {"coordinates":[-85.82563500000001,31.575326],"type":"Point"}
 }

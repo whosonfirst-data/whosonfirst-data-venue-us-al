@@ -2,13 +2,14 @@
   "id": 102620585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.653298,33.396528,-86.653298,33.396528",
     "geom:latitude":33.396528,
     "geom:longitude":-86.653298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 Highland Lakes Trl",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102620585,
-    "wof:lastmodified":1449069987,
+    "wof:lastmodified":1466317374,
     "wof:name":"James Handley Enterprises",
     "wof:parent_id":85915311,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.653298,33.396528,-86.653298,33.396528],
-  "geometry": {"coordinates":[-86.653298,33.396528],"type":"Point"}
+  "bbox": [
+    -86.653298,
+    33.396528,
+    -86.653298,
+    33.396528
+],
+  "geometry": {"coordinates":[-86.65329800000001,33.396528],"type":"Point"}
 }

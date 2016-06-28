@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102512315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.742524,33.539575,-86.742524,33.539575",
     "geom:latitude":33.539575,
     "geom:longitude":-86.742524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6017 5th Ct S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858829,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85858829
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102512315,
-    "wof:lastmodified":1449069553,
+    "wof:lastmodified":1466316905,
     "wof:name":"Birmingham Bus Doctor",
     "wof:parent_id":85858829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.742524,33.539575,-86.742524,33.539575],
+  "bbox": [
+    -86.742524,
+    33.539575,
+    -86.742524,
+    33.539575
+],
   "geometry": {"coordinates":[-86.742524,33.539575],"type":"Point"}
 }

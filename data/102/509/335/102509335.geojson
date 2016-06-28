@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102509335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.643957,34.723757,-86.643957,34.723757",
     "geom:latitude":34.723757,
     "geom:longitude":-86.643957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Sparkman Dr NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822763,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85822763
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102509335,
-    "wof:lastmodified":1449067879,
+    "wof:lastmodified":1466316489,
     "wof:name":"Uah Library",
     "wof:parent_id":85822763,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.643957,34.723757,-86.643957,34.723757],
+  "bbox": [
+    -86.643957,
+    34.723757,
+    -86.643957,
+    34.723757
+],
   "geometry": {"coordinates":[-86.643957,34.723757],"type":"Point"}
 }

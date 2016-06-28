@@ -2,13 +2,14 @@
   "id": 152187441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.980863,34.578213,-86.980863,34.578213",
     "geom:latitude":34.578213,
     "geom:longitude":-86.980863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"520 14th St SE",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818653,
+        85688675,
         85633793,
         85913589,
         102085531,
-        85688675
+        85818653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152187441,
-    "wof:lastmodified":1449044991,
+    "wof:lastmodified":1466315754,
     "wof:name":"Med Access Transportation",
     "wof:parent_id":85818653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.980863,34.578213,-86.980863,34.578213],
+  "bbox": [
+    -86.980863,
+    34.578213,
+    -86.980863,
+    34.578213
+],
   "geometry": {"coordinates":[-86.980863,34.578213],"type":"Point"}
 }

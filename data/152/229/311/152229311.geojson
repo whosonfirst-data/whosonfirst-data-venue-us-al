@@ -2,13 +2,14 @@
   "id": 152229311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.70526,34.768849,-87.70526,34.768849",
     "geom:latitude":34.768849,
     "geom:longitude":-87.70526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Alabama Ave",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858837,
+        85688675,
         85633793,
         85897473,
         102085625,
-        85688675
+        85858837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152229311,
-    "wof:lastmodified":1449047983,
+    "wof:lastmodified":1466316301,
     "wof:name":"Cypress Moon Productions Inc",
     "wof:parent_id":85858837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.70526,34.768849,-87.70526,34.768849],
+  "bbox": [
+    -87.70526,
+    34.768849,
+    -87.70526,
+    34.768849
+],
   "geometry": {"coordinates":[-87.70526,34.768849],"type":"Point"}
 }

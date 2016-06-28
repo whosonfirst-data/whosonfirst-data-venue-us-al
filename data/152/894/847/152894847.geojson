@@ -2,13 +2,14 @@
   "id": 152894847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.789217,33.375332,-86.789217,33.375332",
     "geom:latitude":33.375332,
     "geom:longitude":-86.789217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1733 River Haven Ln",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858879,
+        85688675,
         85633793,
         85914475,
         102085481,
-        85688675
+        85858879
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152894847,
-    "wof:lastmodified":1449046216,
+    "wof:lastmodified":1466320316,
     "wof:name":"Shelby Machine & Tool Inc",
     "wof:parent_id":85858879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.789217,33.375332,-86.789217,33.375332],
-  "geometry": {"coordinates":[-86.789217,33.375332],"type":"Point"}
+  "bbox": [
+    -86.789217,
+    33.375332,
+    -86.789217,
+    33.375332
+],
+  "geometry": {"coordinates":[-86.78921699999999,33.375332],"type":"Point"}
 }

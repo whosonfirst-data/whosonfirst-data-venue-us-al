@@ -2,13 +2,14 @@
   "id": 152889403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.316013,32.35173,-86.316013,32.35173",
     "geom:latitude":32.35173,
     "geom:longitude":-86.316013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"542 W Fairview Ave",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879039,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":152889403,
-    "wof:lastmodified":1449044199,
+    "wof:lastmodified":1466320293,
     "wof:name":"Titlemax Montgomery 3",
     "wof:parent_id":85879039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.316013,32.35173,-86.316013,32.35173],
+  "bbox": [
+    -86.316013,
+    32.35173,
+    -86.316013,
+    32.35173
+],
   "geometry": {"coordinates":[-86.316013,32.35173],"type":"Point"}
 }

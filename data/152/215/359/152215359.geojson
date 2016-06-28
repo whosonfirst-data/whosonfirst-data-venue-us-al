@@ -2,13 +2,14 @@
   "id": 152215359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.949963,32.943787,-85.949963,32.943787",
     "geom:latitude":32.943787,
     "geom:longitude":-85.949963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 Franklin St",
     "sg:city":"Alexander City",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840481,
+        85688675,
         85633793,
         85913363,
         102085567,
-        85688675
+        85840481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152215359,
-    "wof:lastmodified":1449048115,
+    "wof:lastmodified":1466316068,
     "wof:name":"Southern Patient Care",
     "wof:parent_id":85840481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.949963,32.943787,-85.949963,32.943787],
+  "bbox": [
+    -85.949963,
+    32.943787,
+    -85.949963,
+    32.943787
+],
   "geometry": {"coordinates":[-85.949963,32.943787],"type":"Point"}
 }

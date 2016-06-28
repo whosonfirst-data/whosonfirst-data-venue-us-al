@@ -2,13 +2,14 @@
   "id": 152758041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.590922,33.240102,-87.590922,33.240102",
     "geom:latitude":33.240102,
     "geom:longitude":-87.590922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3385 McFarland Blvd",
     "sg:city":"Northport",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806217,
+        85688675,
         85633793,
         85914425,
         102085553,
-        85688675
+        85806217
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152758041,
-    "wof:lastmodified":1449045701,
+    "wof:lastmodified":1466319611,
     "wof:name":"Southern Jewelry & Pawn Inc",
     "wof:parent_id":85806217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.590922,33.240102,-87.590922,33.240102],
-  "geometry": {"coordinates":[-87.590922,33.240102],"type":"Point"}
+  "bbox": [
+    -87.590922,
+    33.240102,
+    -87.590922,
+    33.240102
+],
+  "geometry": {"coordinates":[-87.59092200000001,33.240102],"type":"Point"}
 }

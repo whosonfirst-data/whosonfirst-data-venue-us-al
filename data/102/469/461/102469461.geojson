@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102469461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.531905,34.771457,-86.531905,34.771457",
     "geom:latitude":34.771457,
     "geom:longitude":-86.531905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"271 Old Gurley Rd NE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833793,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85833793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102469461,
-    "wof:lastmodified":1449070266,
+    "wof:lastmodified":1466315226,
     "wof:name":"B & D Floor Service",
     "wof:parent_id":85833793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.531905,34.771457,-86.531905,34.771457],
-  "geometry": {"coordinates":[-86.531905,34.771457],"type":"Point"}
+  "bbox": [
+    -86.531905,
+    34.771457,
+    -86.531905,
+    34.771457
+],
+  "geometry": {"coordinates":[-86.53190499999999,34.771457],"type":"Point"}
 }

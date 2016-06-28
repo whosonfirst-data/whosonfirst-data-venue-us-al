@@ -2,13 +2,14 @@
   "id": 152756859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.943993,32.921275,-85.943993,32.921275",
     "geom:latitude":32.921275,
     "geom:longitude":-85.943993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1068 Airport Dr",
     "sg:city":"Alexander City",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085567,
-        85633793,
         85688675,
-        85853455
+        85633793,
+        85853455,
+        102085567
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152756859,
-    "wof:lastmodified":1449047067,
+    "wof:lastmodified":1466319608,
     "wof:name":"Alexander City Vet Clinic",
     "wof:parent_id":85853455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.943993,32.921275,-85.943993,32.921275],
-  "geometry": {"coordinates":[-85.943993,32.921275],"type":"Point"}
+  "bbox": [
+    -85.943993,
+    32.921275,
+    -85.943993,
+    32.921275
+],
+  "geometry": {"coordinates":[-85.94399300000001,32.921275],"type":"Point"}
 }

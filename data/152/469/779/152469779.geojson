@@ -2,13 +2,14 @@
   "id": 152469779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.444287,34.315102,-86.444287,34.315102",
     "geom:latitude":34.315102,
     "geom:longitude":-86.444287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3160 Brashiers Chapel Rd",
     "sg:city":"Arab",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837211,
+        85688675,
         85633793,
         85913243,
         102085513,
-        85688675
+        85837211
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152469779,
-    "wof:lastmodified":1449049011,
+    "wof:lastmodified":1466318284,
     "wof:name":"Williamson Bill Repair Service",
     "wof:parent_id":85837211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.444287,34.315102,-86.444287,34.315102],
+  "bbox": [
+    -86.444287,
+    34.315102,
+    -86.444287,
+    34.315102
+],
   "geometry": {"coordinates":[-86.444287,34.315102],"type":"Point"}
 }

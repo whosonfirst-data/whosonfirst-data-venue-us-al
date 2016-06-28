@@ -2,13 +2,14 @@
   "id": 152799671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.08947,30.767221,-88.08947,30.767221",
     "geom:latitude":30.767221,
     "geom:longitude":-88.08947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"258 W Lee St",
     "sg:city":"Chickasaw",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837835,
+        85688675,
         85633793,
         85913741,
         102085585,
-        85688675
+        85837835
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152799671,
-    "wof:lastmodified":1449048920,
+    "wof:lastmodified":1466319786,
     "wof:name":"Applelicious Gourmet Apples",
     "wof:parent_id":85837835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.08947,30.767221,-88.08947,30.767221],
-  "geometry": {"coordinates":[-88.08947,30.767221],"type":"Point"}
+  "bbox": [
+    -88.08947,
+    30.767221,
+    -88.08947,
+    30.767221
+],
+  "geometry": {"coordinates":[-88.08947000000001,30.767221],"type":"Point"}
 }

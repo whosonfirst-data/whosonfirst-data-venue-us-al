@@ -2,13 +2,14 @@
   "id": 152552269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.51061,32.602814,-85.51061,32.602814",
     "geom:latitude":32.602814,
     "geom:longitude":-85.51061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1510 Pumphrey Ave",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851115,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85851115
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152552269,
-    "wof:lastmodified":1449046245,
+    "wof:lastmodified":1466318578,
     "wof:name":"Health Data Inc",
     "wof:parent_id":85851115,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.51061,32.602814,-85.51061,32.602814],
+  "bbox": [
+    -85.51061,
+    32.602814,
+    -85.51061,
+    32.602814
+],
   "geometry": {"coordinates":[-85.51061,32.602814],"type":"Point"}
 }

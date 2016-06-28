@@ -2,13 +2,14 @@
   "id": 102634161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.956667,32.936703,-85.956667,32.936703",
     "geom:latitude":32.936703,
     "geom:longitude":-85.956667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"77 Russell Rd",
     "sg:city":"Alexander City",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840481,
+        85688675,
         85633793,
         85913363,
         102085567,
-        85688675
+        85840481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102634161,
-    "wof:lastmodified":1449068917,
+    "wof:lastmodified":1466317561,
     "wof:name":"Alexander City Water Dept",
     "wof:parent_id":85840481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.956667,32.936703,-85.956667,32.936703],
+  "bbox": [
+    -85.956667,
+    32.936703,
+    -85.956667,
+    32.936703
+],
   "geometry": {"coordinates":[-85.956667,32.936703],"type":"Point"}
 }

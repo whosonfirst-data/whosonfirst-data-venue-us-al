@@ -2,13 +2,14 @@
   "id": 152150767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.308697,32.361971,-86.308697,32.361971",
     "geom:latitude":32.361971,
     "geom:longitude":-86.308697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1128 S Court St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879039,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85879039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152150767,
-    "wof:lastmodified":1449044351,
+    "wof:lastmodified":1466314580,
     "wof:name":"Haardt Properties Inc",
     "wof:parent_id":85879039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.308697,32.361971,-86.308697,32.361971],
+  "bbox": [
+    -86.308697,
+    32.361971,
+    -86.308697,
+    32.361971
+],
   "geometry": {"coordinates":[-86.308697,32.361971],"type":"Point"}
 }

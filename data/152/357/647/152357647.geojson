@@ -2,13 +2,14 @@
   "id": 152357647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.009947,34.016242,-86.009947,34.016242",
     "geom:latitude":34.016242,
     "geom:longitude":-86.009947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"750 1 St Ave",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822279,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85822279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":152357647,
-    "wof:lastmodified":1449048357,
+    "wof:lastmodified":1466317769,
     "wof:name":"AAA Gilchrest Bail Bonds",
     "wof:parent_id":85822279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.009947,34.016242,-86.009947,34.016242],
+  "bbox": [
+    -86.009947,
+    34.016242,
+    -86.009947,
+    34.016242
+],
   "geometry": {"coordinates":[-86.009947,34.016242],"type":"Point"}
 }

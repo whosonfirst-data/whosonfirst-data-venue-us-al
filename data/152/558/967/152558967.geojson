@@ -2,13 +2,14 @@
   "id": 152558967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.261173,33.174444,-86.261173,33.174444",
     "geom:latitude":33.174444,
     "geom:longitude":-86.261173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"413 Oakland Ave",
     "sg:city":"Sylacauga",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834171,
+        85688675,
         85633793,
         85914133,
         102085517,
-        85688675
+        85834171
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152558967,
-    "wof:lastmodified":1449045558,
+    "wof:lastmodified":1466318661,
     "wof:name":"Dick Waters Construction",
     "wof:parent_id":85834171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.261173,33.174444,-86.261173,33.174444],
+  "bbox": [
+    -86.261173,
+    33.174444,
+    -86.261173,
+    33.174444
+],
   "geometry": {"coordinates":[-86.261173,33.174444],"type":"Point"}
 }

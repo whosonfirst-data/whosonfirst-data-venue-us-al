@@ -2,13 +2,14 @@
   "id": 152133707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.467218,33.03596,-85.467218,33.03596",
     "geom:latitude":33.03596,
     "geom:longitude":-85.467218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2112 Co Rd 153",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":152133707,
-    "wof:lastmodified":1449048124,
+    "wof:lastmodified":1466315242,
     "wof:name":"Adams Logging Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.467218,33.03596,-85.467218,33.03596],
+  "bbox": [
+    -85.467218,
+    33.03596,
+    -85.467218,
+    33.03596
+],
   "geometry": {"coordinates":[-85.467218,33.03596],"type":"Point"}
 }

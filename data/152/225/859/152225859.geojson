@@ -2,13 +2,14 @@
   "id": 152225859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.684427,33.433078,-86.684427,33.433078",
     "geom:latitude":33.433078,
     "geom:longitude":-86.684427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3071 Somerset Trce",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85833411
+        85633793,
+        85833411,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152225859,
-    "wof:lastmodified":1449045745,
+    "wof:lastmodified":1466316319,
     "wof:name":"Colours By Sue Hoffman",
     "wof:parent_id":85833411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.684427,33.433078,-86.684427,33.433078],
+  "bbox": [
+    -86.684427,
+    33.433078,
+    -86.684427,
+    33.433078
+],
   "geometry": {"coordinates":[-86.684427,33.433078],"type":"Point"}
 }

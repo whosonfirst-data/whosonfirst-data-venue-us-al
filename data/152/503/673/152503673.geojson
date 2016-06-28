@@ -2,13 +2,14 @@
   "id": 152503673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.749244,34.792814,-86.749244,34.792814",
     "geom:latitude":34.792814,
     "geom:longitude":-86.749244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7142 Wall Triana Hwy",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085487,
-        85633793,
         85688675,
-        85838413
+        85633793,
+        85838413,
+        102085487
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152503673,
-    "wof:lastmodified":1449048908,
+    "wof:lastmodified":1466318367,
     "wof:name":"Weaver Backhoe & Trencher Work",
     "wof:parent_id":85838413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.749244,34.792814,-86.749244,34.792814],
+  "bbox": [
+    -86.749244,
+    34.792814,
+    -86.749244,
+    34.792814
+],
   "geometry": {"coordinates":[-86.749244,34.792814],"type":"Point"}
 }

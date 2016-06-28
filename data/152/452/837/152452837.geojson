@@ -2,13 +2,14 @@
   "id": 152452837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.776243,33.524399,-86.776243,33.524399",
     "geom:latitude":33.524399,
     "geom:longitude":-86.776243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 40th St S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876275,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152452837,
-    "wof:lastmodified":1449045380,
+    "wof:lastmodified":1466318090,
     "wof:name":"Mt Lebanon Baptist Church",
     "wof:parent_id":85876275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.776243,33.524399,-86.776243,33.524399],
-  "geometry": {"coordinates":[-86.776243,33.524399],"type":"Point"}
+  "bbox": [
+    -86.776243,
+    33.524399,
+    -86.776243,
+    33.524399
+],
+  "geometry": {"coordinates":[-86.77624299999999,33.524399],"type":"Point"}
 }

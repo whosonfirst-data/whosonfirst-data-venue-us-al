@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102466507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.071259,30.814697,-88.071259,30.814697",
     "geom:latitude":30.814697,
     "geom:longitude":-88.071259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"319 Saraland Blvd S",
     "sg:city":"Saraland",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085469,
-        85633793,
         85688675,
-        85878983
+        85633793,
+        85878983,
+        102085469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102466507,
-    "wof:lastmodified":1449068498,
+    "wof:lastmodified":1466315180,
     "wof:name":"Discount Automotive & Towing",
     "wof:parent_id":85878983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.071259,30.814697,-88.071259,30.814697],
+  "bbox": [
+    -88.071259,
+    30.814697,
+    -88.071259,
+    30.814697
+],
   "geometry": {"coordinates":[-88.071259,30.814697],"type":"Point"}
 }

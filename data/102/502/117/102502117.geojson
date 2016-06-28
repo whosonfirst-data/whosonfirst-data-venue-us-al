@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102502117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.590669,34.797,-86.590669,34.797",
     "geom:latitude":34.797,
     "geom:longitude":-86.590669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6104 Belgrade Dr NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85810627,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85810627
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102502117,
-    "wof:lastmodified":1449068871,
+    "wof:lastmodified":1466316547,
     "wof:name":"Larry E Steele",
     "wof:parent_id":85810627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.590669,34.797,-86.590669,34.797],
-  "geometry": {"coordinates":[-86.590669,34.797],"type":"Point"}
+  "bbox": [
+    -86.590669,
+    34.797,
+    -86.590669,
+    34.797
+],
+  "geometry": {"coordinates":[-86.59066900000001,34.797],"type":"Point"}
 }

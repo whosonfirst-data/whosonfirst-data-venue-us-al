@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102489639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.795394,33.398644,-86.795394,33.398644",
     "geom:latitude":33.398644,
     "geom:longitude":-86.795394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2120 Larchmont Cir",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085481,
-        85633793,
         85688675,
-        85834951
+        85633793,
+        85834951,
+        102085481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102489639,
-    "wof:lastmodified":1449069061,
+    "wof:lastmodified":1466315987,
     "wof:name":"Exterminator",
     "wof:parent_id":85834951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.795394,33.398644,-86.795394,33.398644],
+  "bbox": [
+    -86.795394,
+    33.398644,
+    -86.795394,
+    33.398644
+],
   "geometry": {"coordinates":[-86.795394,33.398644],"type":"Point"}
 }

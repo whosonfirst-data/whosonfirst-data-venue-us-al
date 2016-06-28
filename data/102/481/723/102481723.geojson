@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102481723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.802632,33.31412,-86.802632,33.31412",
     "geom:latitude":33.31412,
     "geom:longitude":-86.802632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"151 Corporate Way",
     "sg:city":"Pelham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85826867,
+        85688675,
         85633793,
         85914501,
         102085499,
-        85688675
+        85826867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102481723,
-    "wof:lastmodified":1449069866,
+    "wof:lastmodified":1466315444,
     "wof:name":"TKM Cabinets",
     "wof:parent_id":85826867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.802632,33.31412,-86.802632,33.31412],
+  "bbox": [
+    -86.802632,
+    33.31412,
+    -86.802632,
+    33.31412
+],
   "geometry": {"coordinates":[-86.802632,33.31412],"type":"Point"}
 }

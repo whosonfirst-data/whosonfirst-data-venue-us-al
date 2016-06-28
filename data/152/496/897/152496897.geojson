@@ -2,13 +2,14 @@
   "id": 152496897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.88176,33.334233,-86.88176,33.334233",
     "geom:latitude":33.334233,
     "geom:longitude":-86.88176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1464 Eden Ridge Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840797,
+        85688675,
         85633793,
         85914475,
         102085481,
-        85688675
+        85840797
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152496897,
-    "wof:lastmodified":1449048221,
+    "wof:lastmodified":1466318466,
     "wof:name":"Mustard Seeds",
     "wof:parent_id":85840797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.88176,33.334233,-86.88176,33.334233],
+  "bbox": [
+    -86.88176,
+    33.334233,
+    -86.88176,
+    33.334233
+],
   "geometry": {"coordinates":[-86.88176,33.334233],"type":"Point"}
 }

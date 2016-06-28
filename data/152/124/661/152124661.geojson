@@ -2,13 +2,14 @@
   "id": 152124661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.513729,32.659307,-86.513729,32.659307",
     "geom:latitude":32.659307,
     "geom:longitude":-86.513729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"296 Co Rd 68 W",
     "sg:city":"Deatsville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831059,
+        85688675,
         85633793,
         85913977,
         102085509,
-        85688675
+        85831059
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152124661,
-    "wof:lastmodified":1449048563,
+    "wof:lastmodified":1466314730,
     "wof:name":"Lee Edwards & Assoc",
     "wof:parent_id":85831059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.513729,32.659307,-86.513729,32.659307],
+  "bbox": [
+    -86.513729,
+    32.659307,
+    -86.513729,
+    32.659307
+],
   "geometry": {"coordinates":[-86.513729,32.659307],"type":"Point"}
 }

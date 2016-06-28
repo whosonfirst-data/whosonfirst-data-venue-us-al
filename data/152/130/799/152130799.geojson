@@ -2,13 +2,14 @@
   "id": 152130799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.791928,33.537266,-86.791928,33.537266",
     "geom:latitude":33.537266,
     "geom:longitude":-86.791928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1143 Vanderbilt Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85838531,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85838531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152130799,
-    "wof:lastmodified":1449045898,
+    "wof:lastmodified":1466315047,
     "wof:name":"McWane Coal Sales Co Inc",
     "wof:parent_id":85838531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.791928,33.537266,-86.791928,33.537266],
+  "bbox": [
+    -86.791928,
+    33.537266,
+    -86.791928,
+    33.537266
+],
   "geometry": {"coordinates":[-86.791928,33.537266],"type":"Point"}
 }

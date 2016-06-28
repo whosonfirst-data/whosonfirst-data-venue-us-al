@@ -2,13 +2,14 @@
   "id": 152366677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.349268,34.373026,-86.349268,34.373026",
     "geom:latitude":34.373026,
     "geom:longitude":-86.349268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Mallard Dr",
     "sg:city":"Guntersville",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085513,
-        85633793,
         85688675,
-        85849079
+        85633793,
+        85849079,
+        102085513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152366677,
-    "wof:lastmodified":1449047673,
+    "wof:lastmodified":1466317785,
     "wof:name":"Brazelton Drug Inc",
     "wof:parent_id":85849079,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.349268,34.373026,-86.349268,34.373026],
+  "bbox": [
+    -86.349268,
+    34.373026,
+    -86.349268,
+    34.373026
+],
   "geometry": {"coordinates":[-86.349268,34.373026],"type":"Point"}
 }

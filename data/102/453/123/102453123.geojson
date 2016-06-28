@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102453123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.692327,34.819282,-87.692327,34.819282",
     "geom:latitude":34.819282,
     "geom:longitude":-87.692327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"508 W Cleveland Ave",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848857,
+        85688675,
         85633793,
         85914011,
         102085527,
-        85688675
+        85848857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102453123,
-    "wof:lastmodified":1449069597,
+    "wof:lastmodified":1466314700,
     "wof:name":"Tri Cities Bonding Inc",
     "wof:parent_id":85848857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.692327,34.819282,-87.692327,34.819282],
-  "geometry": {"coordinates":[-87.692327,34.819282],"type":"Point"}
+  "bbox": [
+    -87.692327,
+    34.819282,
+    -87.692327,
+    34.819282
+],
+  "geometry": {"coordinates":[-87.69232700000001,34.819282],"type":"Point"}
 }

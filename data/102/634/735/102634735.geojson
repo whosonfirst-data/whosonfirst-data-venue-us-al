@@ -2,13 +2,14 @@
   "id": 102634735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.598762,34.745297,-86.598762,34.745297",
     "geom:latitude":34.745297,
     "geom:longitude":-86.598762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"715 Arcadia Cir NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809309,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85809309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102634735,
-    "wof:lastmodified":1449068922,
+    "wof:lastmodified":1466317570,
     "wof:name":"Vortek LLC",
     "wof:parent_id":85809309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.598762,34.745297,-86.598762,34.745297],
-  "geometry": {"coordinates":[-86.598762,34.745297],"type":"Point"}
+  "bbox": [
+    -86.598762,
+    34.745297,
+    -86.598762,
+    34.745297
+],
+  "geometry": {"coordinates":[-86.59876199999999,34.745297],"type":"Point"}
 }

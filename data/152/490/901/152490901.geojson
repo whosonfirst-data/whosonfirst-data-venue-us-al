@@ -2,13 +2,14 @@
   "id": 152490901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.676447,34.797567,-87.676447,34.797567",
     "geom:latitude":34.797567,
     "geom:longitude":-87.676447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 W Alabama St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848857,
+        85688675,
         85633793,
         85914011,
         102085527,
-        85688675
+        85848857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152490901,
-    "wof:lastmodified":1449048456,
+    "wof:lastmodified":1466318164,
     "wof:name":"White Lynn Collins & Assoc Inc",
     "wof:parent_id":85848857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.676447,34.797567,-87.676447,34.797567],
+  "bbox": [
+    -87.676447,
+    34.797567,
+    -87.676447,
+    34.797567
+],
   "geometry": {"coordinates":[-87.676447,34.797567],"type":"Point"}
 }

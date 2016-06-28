@@ -2,13 +2,14 @@
   "id": 152407311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.897486,33.606725,-86.897486,33.606725",
     "geom:latitude":33.606725,
     "geom:longitude":-86.897486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2905 Cherry Ave",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -35,11 +36,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820003,
+        85688675,
         85633793,
         85914875,
         102085481,
-        85688675
+        85820003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":152407311,
-    "wof:lastmodified":1449046866,
+    "wof:lastmodified":1466317886,
     "wof:name":"Cherry Avenue Towing & Salvage",
     "wof:parent_id":85820003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.897486,33.606725,-86.897486,33.606725],
+  "bbox": [
+    -86.897486,
+    33.606725,
+    -86.897486,
+    33.606725
+],
   "geometry": {"coordinates":[-86.897486,33.606725],"type":"Point"}
 }

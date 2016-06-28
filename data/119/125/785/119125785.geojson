@@ -2,13 +2,14 @@
   "id": 119125785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.566696,34.469444,-86.566696,34.469444",
     "geom:latitude":34.469444,
     "geom:longitude":-86.566696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4372 US Hwy 231",
     "sg:city":"Union Grove",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":119125785,
-    "wof:lastmodified":1449043470,
+    "wof:lastmodified":1466314375,
     "wof:name":"Raceway Service Station",
     "wof:parent_id":85688675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.566696,34.469444,-86.566696,34.469444],
-  "geometry": {"coordinates":[-86.566696,34.469444],"type":"Point"}
+  "bbox": [
+    -86.566696,
+    34.469444,
+    -86.566696,
+    34.469444
+],
+  "geometry": {"coordinates":[-86.56669599999999,34.469444],"type":"Point"}
 }

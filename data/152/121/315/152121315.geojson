@@ -2,13 +2,14 @@
   "id": 152121315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.430475,32.628653,-85.430475,32.628653",
     "geom:latitude":32.628653,
     "geom:longitude":-85.430475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 Airport Rd",
     "sg:city":"Opelika",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850579,
+        85688675,
         85633793,
         85913815,
         102085751,
-        85688675
+        85850579
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152121315,
-    "wof:lastmodified":1449047907,
+    "wof:lastmodified":1466314557,
     "wof:name":"Capital Asset Strategies",
     "wof:parent_id":85850579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.430475,32.628653,-85.430475,32.628653],
+  "bbox": [
+    -85.430475,
+    32.628653,
+    -85.430475,
+    32.628653
+],
   "geometry": {"coordinates":[-85.430475,32.628653],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102483229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.091879,30.665618,-88.091879,30.665618",
     "geom:latitude":30.665618,
     "geom:longitude":-88.091879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"712 Euclid Ave",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878957,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878957
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102483229,
-    "wof:lastmodified":1449069668,
+    "wof:lastmodified":1466315577,
     "wof:name":"ALC Power Wash",
     "wof:parent_id":85878957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.091879,30.665618,-88.091879,30.665618],
-  "geometry": {"coordinates":[-88.091879,30.665618],"type":"Point"}
+  "bbox": [
+    -88.091879,
+    30.665618,
+    -88.091879,
+    30.665618
+],
+  "geometry": {"coordinates":[-88.09187900000001,30.665618],"type":"Point"}
 }

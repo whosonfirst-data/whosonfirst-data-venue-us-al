@@ -2,13 +2,14 @@
   "id": 152158901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.972409,33.97909,-85.972409,33.97909",
     "geom:latitude":33.97909,
     "geom:longitude":-85.972409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1822 Arizona St",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822279,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85822279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152158901,
-    "wof:lastmodified":1449047378,
+    "wof:lastmodified":1466315039,
     "wof:name":"By Design",
     "wof:parent_id":85822279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.972409,33.97909,-85.972409,33.97909],
+  "bbox": [
+    -85.972409,
+    33.97909,
+    -85.972409,
+    33.97909
+],
   "geometry": {"coordinates":[-85.972409,33.97909],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152715039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.710067,30.55438,-87.710067,30.55438",
     "geom:latitude":30.55438,
     "geom:longitude":-87.710067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18389 Pennsylvania St",
     "sg:city":"Robertsdale",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847563,
+        85688675,
         85633793,
         85914707,
         102085469,
-        85688675
+        85847563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152715039,
-    "wof:lastmodified":1449047993,
+    "wof:lastmodified":1466319387,
     "wof:name":"Green Acres School Of Dance",
     "wof:parent_id":85847563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.710067,30.55438,-87.710067,30.55438],
+  "bbox": [
+    -87.710067,
+    30.55438,
+    -87.710067,
+    30.55438
+],
   "geometry": {"coordinates":[-87.710067,30.55438],"type":"Point"}
 }

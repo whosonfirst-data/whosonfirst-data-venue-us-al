@@ -2,13 +2,14 @@
   "id": 152690099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.72287,33.461004,-86.72287,33.461004",
     "geom:latitude":33.461004,
     "geom:longitude":-86.72287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3409 East Ln",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802339,
+        85688675,
         85633793,
         85914483,
         102085481,
-        85688675
+        85802339
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152690099,
-    "wof:lastmodified":1449046749,
+    "wof:lastmodified":1466319102,
     "wof:name":"Guy Nerd",
     "wof:parent_id":85802339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.72287,33.461004,-86.72287,33.461004],
+  "bbox": [
+    -86.72287,
+    33.461004,
+    -86.72287,
+    33.461004
+],
   "geometry": {"coordinates":[-86.72287,33.461004],"type":"Point"}
 }

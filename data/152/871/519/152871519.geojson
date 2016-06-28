@@ -2,13 +2,14 @@
   "id": 152871519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.107201,30.703713,-88.107201,30.703713",
     "geom:latitude":30.703713,
     "geom:longitude":-88.107201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2756 Nall St",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879003,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85879003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152871519,
-    "wof:lastmodified":1449045828,
+    "wof:lastmodified":1466320207,
     "wof:name":"PACE International Union",
     "wof:parent_id":85879003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.107201,30.703713,-88.107201,30.703713],
+  "bbox": [
+    -88.107201,
+    30.703713,
+    -88.107201,
+    30.703713
+],
   "geometry": {"coordinates":[-88.107201,30.703713],"type":"Point"}
 }

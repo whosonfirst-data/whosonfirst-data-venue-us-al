@@ -2,13 +2,14 @@
   "id": 152452193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.60465,34.845889,-87.60465,34.845889",
     "geom:latitude":34.845889,
     "geom:longitude":-87.60465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3449 Kolbe Ln",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":152452193,
-    "wof:lastmodified":1449045380,
+    "wof:lastmodified":1466318081,
     "wof:name":"Thomas Predmore",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.60465,34.845889,-87.60465,34.845889],
-  "geometry": {"coordinates":[-87.60465,34.845889],"type":"Point"}
+  "bbox": [
+    -87.60465,
+    34.845889,
+    -87.60465,
+    34.845889
+],
+  "geometry": {"coordinates":[-87.60465000000001,34.845889],"type":"Point"}
 }

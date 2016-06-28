@@ -2,13 +2,14 @@
   "id": 152626289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.611257,33.921857,-85.611257,33.921857",
     "geom:latitude":33.921857,
     "geom:longitude":-85.611257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 S Center Ave",
     "sg:city":"Piedmont",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817157,
+        85688675,
         85633793,
         85914293,
         102085603,
-        85688675
+        85817157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152626289,
-    "wof:lastmodified":1449048904,
+    "wof:lastmodified":1466318974,
     "wof:name":"Tri Staffing",
     "wof:parent_id":85817157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.611257,33.921857,-85.611257,33.921857],
-  "geometry": {"coordinates":[-85.611257,33.921857],"type":"Point"}
+  "bbox": [
+    -85.611257,
+    33.921857,
+    -85.611257,
+    33.921857
+],
+  "geometry": {"coordinates":[-85.61125699999999,33.921857],"type":"Point"}
 }

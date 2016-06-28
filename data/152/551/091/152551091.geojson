@@ -2,13 +2,14 @@
   "id": 152551091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.203871,30.50961,-88.203871,30.50961",
     "geom:latitude":30.50961,
     "geom:longitude":-88.203871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6911 Williamsburg Ct",
     "sg:city":"Irvington",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152551091,
-    "wof:lastmodified":1449045229,
+    "wof:lastmodified":1466318570,
     "wof:name":"Jefferson Tax Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.203871,30.50961,-88.203871,30.50961],
-  "geometry": {"coordinates":[-88.203871,30.50961],"type":"Point"}
+  "bbox": [
+    -88.203871,
+    30.50961,
+    -88.203871,
+    30.50961
+],
+  "geometry": {"coordinates":[-88.20387100000001,30.50961],"type":"Point"}
 }

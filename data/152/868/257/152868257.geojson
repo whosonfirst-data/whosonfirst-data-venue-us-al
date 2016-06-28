@@ -2,13 +2,14 @@
   "id": 152868257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.724876,34.090157,-86.724876,34.090157",
     "geom:latitude":34.090157,
     "geom:longitude":-86.724876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12881 Co Rd 747",
     "sg:city":"Hanceville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867305,
+        85688675,
         85633793,
         85914167,
         102085729,
-        85688675
+        85867305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152868257,
-    "wof:lastmodified":1449044504,
+    "wof:lastmodified":1466320171,
     "wof:name":"Saint Therese Guest House",
     "wof:parent_id":85867305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.724876,34.090157,-86.724876,34.090157],
-  "geometry": {"coordinates":[-86.724876,34.090157],"type":"Point"}
+  "bbox": [
+    -86.724876,
+    34.090157,
+    -86.724876,
+    34.090157
+],
+  "geometry": {"coordinates":[-86.72487599999999,34.090157],"type":"Point"}
 }

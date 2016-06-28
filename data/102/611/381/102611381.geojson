@@ -2,13 +2,14 @@
   "id": 102611381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.837462,32.503347,-87.837462,32.503347",
     "geom:latitude":32.503347,
     "geom:longitude":-87.837462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1203 Mason Ridge Dr",
     "sg:city":"Demopolis",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85804415,
+        85688675,
         85633793,
         85899613,
         102085423,
-        85688675
+        85804415
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102611381,
-    "wof:lastmodified":1449069674,
+    "wof:lastmodified":1466317277,
     "wof:name":"James Dreading MD",
     "wof:parent_id":85804415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.837462,32.503347,-87.837462,32.503347],
+  "bbox": [
+    -87.837462,
+    32.503347,
+    -87.837462,
+    32.503347
+],
   "geometry": {"coordinates":[-87.837462,32.503347],"type":"Point"}
 }

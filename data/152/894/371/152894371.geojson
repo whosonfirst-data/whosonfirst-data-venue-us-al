@@ -2,13 +2,14 @@
   "id": 152894371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.596762,30.267274,-87.596762,30.267274",
     "geom:latitude":30.267274,
     "geom:longitude":-87.596762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25042 Perdido Beach Blvd",
     "sg:city":"Orange Beach",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868551,
+        85688675,
         85633793,
         85914719,
         102085469,
-        85688675
+        85868551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152894371,
-    "wof:lastmodified":1449046218,
+    "wof:lastmodified":1466320294,
     "wof:name":"Pinkerton Financial Corp",
     "wof:parent_id":85868551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.596762,30.267274,-87.596762,30.267274],
+  "bbox": [
+    -87.596762,
+    30.267274,
+    -87.596762,
+    30.267274
+],
   "geometry": {"coordinates":[-87.596762,30.267274],"type":"Point"}
 }

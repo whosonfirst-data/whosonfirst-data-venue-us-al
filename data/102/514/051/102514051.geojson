@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102514051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.527734,32.597045,-85.527734,32.597045",
     "geom:latitude":32.597045,
     "geom:longitude":-85.527734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1955 McMillan St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     "sg:website":"www.smcsouth.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851115,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85851115
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":102514051,
-    "wof:lastmodified":1449068958,
+    "wof:lastmodified":1466316958,
     "wof:name":"SMC South",
     "wof:parent_id":85851115,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.527734,32.597045,-85.527734,32.597045],
+  "bbox": [
+    -85.527734,
+    32.597045,
+    -85.527734,
+    32.597045
+],
   "geometry": {"coordinates":[-85.527734,32.597045],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152420055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.07105,32.453169,-85.07105,32.453169",
     "geom:latitude":32.453169,
     "geom:longitude":-85.07105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Orphan Woods",
     "sg:city":"Phenix City",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":152420055,
-    "wof:lastmodified":1449046520,
+    "wof:lastmodified":1466317939,
     "wof:name":"Doctors Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.07105,32.453169,-85.07105,32.453169],
+  "bbox": [
+    -85.07105,
+    32.453169,
+    -85.07105,
+    32.453169
+],
   "geometry": {"coordinates":[-85.07105,32.453169],"type":"Point"}
 }

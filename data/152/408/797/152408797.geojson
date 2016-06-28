@@ -2,13 +2,14 @@
   "id": 152408797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.551122,33.243069,-87.551122,33.243069",
     "geom:latitude":33.243069,
     "geom:longitude":-87.551122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3914 Watermelon Rd",
     "sg:city":"Northport",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152408797,
-    "wof:lastmodified":1449044877,
+    "wof:lastmodified":1466317916,
     "wof:name":"Stpaul Fire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.551122,33.243069,-87.551122,33.243069],
-  "geometry": {"coordinates":[-87.551122,33.243069],"type":"Point"}
+  "bbox": [
+    -87.551122,
+    33.243069,
+    -87.551122,
+    33.243069
+],
+  "geometry": {"coordinates":[-87.55112200000001,33.243069],"type":"Point"}
 }

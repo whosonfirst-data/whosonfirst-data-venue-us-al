@@ -2,13 +2,14 @@
   "id": 152438995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.42766,33.662054,-86.42766,33.662054",
     "geom:latitude":33.662054,
     "geom:longitude":-86.42766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11549 US Hwy 411",
     "sg:city":"Branchville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807031,
+        85688675,
         85633793,
         85913421,
         102085647,
-        85688675
+        85807031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152438995,
-    "wof:lastmodified":1449045874,
+    "wof:lastmodified":1466318113,
     "wof:name":"Willie's Garage",
     "wof:parent_id":85807031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.42766,33.662054,-86.42766,33.662054],
+  "bbox": [
+    -86.42766,
+    33.662054,
+    -86.42766,
+    33.662054
+],
   "geometry": {"coordinates":[-86.42766,33.662054],"type":"Point"}
 }

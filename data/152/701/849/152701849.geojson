@@ -2,13 +2,14 @@
   "id": 152701849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.848002,34.158073,-86.848002,34.158073",
     "geom:latitude":34.158073,
     "geom:longitude":-86.848002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1715 Main Ave SW",
     "sg:city":"Cullman",
     "sg:classifiers":[
@@ -35,11 +36,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867305,
+        85688675,
         85633793,
         85914167,
         102085729,
-        85688675
+        85867305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":152701849,
-    "wof:lastmodified":1449047949,
+    "wof:lastmodified":1466319499,
     "wof:name":"Wittichen Supply Co",
     "wof:parent_id":85867305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.848002,34.158073,-86.848002,34.158073],
-  "geometry": {"coordinates":[-86.848002,34.158073],"type":"Point"}
+  "bbox": [
+    -86.848002,
+    34.158073,
+    -86.848002,
+    34.158073
+],
+  "geometry": {"coordinates":[-86.84800199999999,34.158073],"type":"Point"}
 }

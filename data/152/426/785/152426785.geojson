@@ -2,13 +2,14 @@
   "id": 152426785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.870213,31.342083,-85.870213,31.342083",
     "geom:latitude":31.342083,
     "geom:longitude":-85.870213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1413 N Main St",
     "sg:city":"Enterprise",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848823,
+        85688675,
         85633793,
         85899527,
         102085699,
-        85688675
+        85848823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152426785,
-    "wof:lastmodified":1449045288,
+    "wof:lastmodified":1466317973,
     "wof:name":"Tidwell & Sims Heating & Coolg",
     "wof:parent_id":85848823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.870213,31.342083,-85.870213,31.342083],
-  "geometry": {"coordinates":[-85.870213,31.342083],"type":"Point"}
+  "bbox": [
+    -85.870213,
+    31.342083,
+    -85.870213,
+    31.342083
+],
+  "geometry": {"coordinates":[-85.87021300000001,31.342083],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102633179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.173981,30.692634,-88.173981,30.692634",
     "geom:latitude":30.692634,
     "geom:longitude":-88.173981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 N University Blvd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.jrayshoes.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885417,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85885417
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102633179,
-    "wof:lastmodified":1449070196,
+    "wof:lastmodified":1466317635,
     "wof:name":"J-Ray Shoes",
     "wof:parent_id":85885417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.173981,30.692634,-88.173981,30.692634],
+  "bbox": [
+    -88.173981,
+    30.692634,
+    -88.173981,
+    30.692634
+],
   "geometry": {"coordinates":[-88.173981,30.692634],"type":"Point"}
 }

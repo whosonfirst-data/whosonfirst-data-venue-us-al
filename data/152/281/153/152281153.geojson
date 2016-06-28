@@ -2,13 +2,14 @@
   "id": 152281153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.537886,33.200739,-87.537886,33.200739",
     "geom:latitude":33.200739,
     "geom:longitude":-87.537886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 14th St",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819951,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85819951
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152281153,
-    "wof:lastmodified":1449048217,
+    "wof:lastmodified":1466316952,
     "wof:name":"Unemployment Tax Office",
     "wof:parent_id":85819951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.537886,33.200739,-87.537886,33.200739],
+  "bbox": [
+    -87.537886,
+    33.200739,
+    -87.537886,
+    33.200739
+],
   "geometry": {"coordinates":[-87.537886,33.200739],"type":"Point"}
 }

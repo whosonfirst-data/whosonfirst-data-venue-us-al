@@ -2,13 +2,14 @@
   "id": 152352331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.687068,34.818788,-87.687068,34.818788",
     "geom:latitude":34.818788,
     "geom:longitude":-87.687068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1346 N Pine St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848857,
+        85688675,
         85633793,
         85914011,
         102085527,
-        85688675
+        85848857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152352331,
-    "wof:lastmodified":1449047140,
+    "wof:lastmodified":1466317410,
     "wof:name":"Chazz Package Store",
     "wof:parent_id":85848857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.687068,34.818788,-87.687068,34.818788],
+  "bbox": [
+    -87.687068,
+    34.818788,
+    -87.687068,
+    34.818788
+],
   "geometry": {"coordinates":[-87.687068,34.818788],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152850887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.77973,30.864618,-87.77973,30.864618",
     "geom:latitude":30.864618,
     "geom:longitude":-87.77973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 Rain Dr",
     "sg:city":"Bay Minette",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813343,
+        85688675,
         85633793,
         85914703,
         102085469,
-        85688675
+        85813343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152850887,
-    "wof:lastmodified":1449046980,
+    "wof:lastmodified":1466319942,
     "wof:name":"Rainview Apartments",
     "wof:parent_id":85813343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.77973,30.864618,-87.77973,30.864618],
+  "bbox": [
+    -87.77973,
+    30.864618,
+    -87.77973,
+    30.864618
+],
   "geometry": {"coordinates":[-87.77973,30.864618],"type":"Point"}
 }

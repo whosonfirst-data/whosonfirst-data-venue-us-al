@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102464555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.904323,30.519087,-87.904323,30.519087",
     "geom:latitude":30.519087,
     "geom:longitude":-87.904323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 Fels Ave",
     "sg:city":"Fairhope",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831925,
+        85688675,
         85633793,
         85914707,
         102085469,
-        85688675
+        85831925
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102464555,
-    "wof:lastmodified":1449068431,
+    "wof:lastmodified":1466315111,
     "wof:name":"BES Inc",
     "wof:parent_id":85831925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.904323,30.519087,-87.904323,30.519087],
-  "geometry": {"coordinates":[-87.904323,30.519087],"type":"Point"}
+  "bbox": [
+    -87.904323,
+    30.519087,
+    -87.904323,
+    30.519087
+],
+  "geometry": {"coordinates":[-87.90432300000001,30.519087],"type":"Point"}
 }

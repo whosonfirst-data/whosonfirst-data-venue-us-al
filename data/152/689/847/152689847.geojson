@@ -2,13 +2,14 @@
   "id": 152689847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.066504,30.66661,-88.066504,30.66661",
     "geom:latitude":30.66661,
     "geom:longitude":-88.066504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 Baltimore St",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878947,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878947
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152689847,
-    "wof:lastmodified":1449048138,
+    "wof:lastmodified":1466319086,
     "wof:name":"First Baptist Church",
     "wof:parent_id":85878947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.066504,30.66661,-88.066504,30.66661],
-  "geometry": {"coordinates":[-88.066504,30.66661],"type":"Point"}
+  "bbox": [
+    -88.066504,
+    30.66661,
+    -88.066504,
+    30.66661
+],
+  "geometry": {"coordinates":[-88.06650399999999,30.66661],"type":"Point"}
 }

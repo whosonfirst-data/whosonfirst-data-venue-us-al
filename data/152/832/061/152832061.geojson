@@ -2,13 +2,14 @@
   "id": 152832061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.533003,32.590055,-87.533003,32.590055",
     "geom:latitude":32.590055,
     "geom:longitude":-87.533003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8448 State Rte 61",
     "sg:city":"Newbern",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152832061,
-    "wof:lastmodified":1449044313,
+    "wof:lastmodified":1466320011,
     "wof:name":"Auburn Rural Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.533003,32.590055,-87.533003,32.590055],
-  "geometry": {"coordinates":[-87.533003,32.590055],"type":"Point"}
+  "bbox": [
+    -87.533003,
+    32.590055,
+    -87.533003,
+    32.590055
+],
+  "geometry": {"coordinates":[-87.53300299999999,32.590055],"type":"Point"}
 }

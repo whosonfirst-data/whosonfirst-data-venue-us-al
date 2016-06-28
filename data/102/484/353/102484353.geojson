@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102484353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.486021,34.664535,-86.486021,34.664535",
     "geom:latitude":34.664535,
     "geom:longitude":-86.486021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6467 US Hwy 431",
     "sg:city":"Owens Cross Rds",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878245,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102484353,
-    "wof:lastmodified":1449070054,
+    "wof:lastmodified":1466315757,
     "wof:name":"Secure Plus",
     "wof:parent_id":85878245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.486021,34.664535,-86.486021,34.664535],
-  "geometry": {"coordinates":[-86.486021,34.664535],"type":"Point"}
+  "bbox": [
+    -86.486021,
+    34.664535,
+    -86.486021,
+    34.664535
+],
+  "geometry": {"coordinates":[-86.48602099999999,34.664535],"type":"Point"}
 }

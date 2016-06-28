@@ -2,13 +2,14 @@
   "id": 102629225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.571812,34.934325,-86.571812,34.934325",
     "geom:latitude":34.934325,
     "geom:longitude":-86.571812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14311 US Hwy 431",
     "sg:city":"Hazel Green",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":102629225,
-    "wof:lastmodified":1449069624,
+    "wof:lastmodified":1466317446,
     "wof:name":"Spencer Oil Company",
     "wof:parent_id":85915387,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.571812,34.934325,-86.571812,34.934325],
-  "geometry": {"coordinates":[-86.571812,34.934325],"type":"Point"}
+  "bbox": [
+    -86.571812,
+    34.934325,
+    -86.571812,
+    34.934325
+],
+  "geometry": {"coordinates":[-86.57181199999999,34.934325],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152616039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.612011,33.606499,-86.612011,33.606499",
     "geom:latitude":33.606499,
     "geom:longitude":-86.612011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"615 Mermont Dr",
     "sg:city":"Trussville",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852733,
+        85688675,
         85633793,
         85913473,
         102085481,
-        85688675
+        85852733
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152616039,
-    "wof:lastmodified":1449047700,
+    "wof:lastmodified":1466318906,
     "wof:name":"Sawmill Controls Inc",
     "wof:parent_id":85852733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.612011,33.606499,-86.612011,33.606499],
+  "bbox": [
+    -86.612011,
+    33.606499,
+    -86.612011,
+    33.606499
+],
   "geometry": {"coordinates":[-86.612011,33.606499],"type":"Point"}
 }

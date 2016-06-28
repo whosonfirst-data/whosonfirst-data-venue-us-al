@@ -2,13 +2,14 @@
   "id": 152281101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.777706,33.789365,-85.777706,33.789365",
     "geom:latitude":33.789365,
     "geom:longitude":-85.777706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 George Douthit Dr SW",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":152281101,
-    "wof:lastmodified":1449048212,
+    "wof:lastmodified":1466316865,
     "wof:name":"Jacksonville High School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.777706,33.789365,-85.777706,33.789365],
-  "geometry": {"coordinates":[-85.777706,33.789365],"type":"Point"}
+  "bbox": [
+    -85.777706,
+    33.789365,
+    -85.777706,
+    33.789365
+],
+  "geometry": {"coordinates":[-85.77770599999999,33.789365],"type":"Point"}
 }

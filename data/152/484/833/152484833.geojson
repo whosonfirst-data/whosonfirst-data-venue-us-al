@@ -2,13 +2,14 @@
   "id": 152484833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.675538,34.406245,-85.675538,34.406245",
     "geom:latitude":34.406245,
     "geom:longitude":-85.675538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1004 Co Rd 261",
     "sg:city":"Fort Payne",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834595,
+        85688675,
         85633793,
         85897515,
         102085615,
-        85688675
+        85834595
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152484833,
-    "wof:lastmodified":1449048650,
+    "wof:lastmodified":1466318272,
     "wof:name":"Griggs Tax Service",
     "wof:parent_id":85834595,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.675538,34.406245,-85.675538,34.406245],
+  "bbox": [
+    -85.675538,
+    34.406245,
+    -85.675538,
+    34.406245
+],
   "geometry": {"coordinates":[-85.675538,34.406245],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152613347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.13214,34.040286,-86.13214,34.040286",
     "geom:latitude":34.040286,
     "geom:longitude":-86.13214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14510 US Hwy 278 W",
     "sg:city":"Attalla",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085545,
-        85633793,
         85688675,
-        85851221
+        85633793,
+        85851221,
+        102085545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152613347,
-    "wof:lastmodified":1449046460,
+    "wof:lastmodified":1466318920,
     "wof:name":"J & J Garage",
     "wof:parent_id":85851221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.13214,34.040286,-86.13214,34.040286],
-  "geometry": {"coordinates":[-86.13214,34.040286],"type":"Point"}
+  "bbox": [
+    -86.13214,
+    34.040286,
+    -86.13214,
+    34.040286
+],
+  "geometry": {"coordinates":[-86.13214000000001,34.040286],"type":"Point"}
 }

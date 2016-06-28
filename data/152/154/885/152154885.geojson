@@ -2,13 +2,14 @@
   "id": 152154885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.204699,30.6756,-88.204699,30.6756",
     "geom:latitude":30.6756,
     "geom:longitude":-88.204699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6905 Providence Estates Ct",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878993,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878993
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152154885,
-    "wof:lastmodified":1449048956,
+    "wof:lastmodified":1466314811,
     "wof:name":"Jim Hilton & Associates",
     "wof:parent_id":85878993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.204699,30.6756,-88.204699,30.6756],
-  "geometry": {"coordinates":[-88.204699,30.6756],"type":"Point"}
+  "bbox": [
+    -88.204699,
+    30.6756,
+    -88.204699,
+    30.6756
+],
+  "geometry": {"coordinates":[-88.20469900000001,30.6756],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152634053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.265946,31.90515,-88.265946,31.90515",
     "geom:latitude":31.90515,
     "geom:longitude":-88.265946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"778 Lucas Rd",
     "sg:city":"Toxey",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822759,
+        85688675,
         85633793,
         85899781,
         102085727,
-        85688675
+        85822759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152634053,
-    "wof:lastmodified":1449046511,
+    "wof:lastmodified":1466318820,
     "wof:name":"Methodist Prdsten Wmbrly Chrch",
     "wof:parent_id":85822759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.265946,31.90515,-88.265946,31.90515],
+  "bbox": [
+    -88.265946,
+    31.90515,
+    -88.265946,
+    31.90515
+],
   "geometry": {"coordinates":[-88.265946,31.90515],"type":"Point"}
 }

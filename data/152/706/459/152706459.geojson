@@ -2,13 +2,14 @@
   "id": 152706459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.050996,33.919249,-86.050996,33.919249",
     "geom:latitude":33.919249,
     "geom:longitude":-86.050996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2446 Waid Cir N",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -33,10 +34,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085545,
-        85633793,
         85688675,
-        85839341
+        85633793,
+        85839341,
+        102085545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152706459,
-    "wof:lastmodified":1449044631,
+    "wof:lastmodified":1466319369,
     "wof:name":"SKF USA Inc",
     "wof:parent_id":85839341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.050996,33.919249,-86.050996,33.919249],
+  "bbox": [
+    -86.050996,
+    33.919249,
+    -86.050996,
+    33.919249
+],
   "geometry": {"coordinates":[-86.050996,33.919249],"type":"Point"}
 }

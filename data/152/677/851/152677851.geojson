@@ -2,13 +2,14 @@
   "id": 152677851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.068421,31.41367,-86.068421,31.41367",
     "geom:latitude":31.41367,
     "geom:longitude":-86.068421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"617 Davis St",
     "sg:city":"Elba",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837695,
+        85688675,
         85633793,
         85899527,
         102085699,
-        85688675
+        85837695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152677851,
-    "wof:lastmodified":1449045973,
+    "wof:lastmodified":1466319273,
     "wof:name":"First Baptist Youth House",
     "wof:parent_id":85837695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.068421,31.41367,-86.068421,31.41367],
+  "bbox": [
+    -86.068421,
+    31.41367,
+    -86.068421,
+    31.41367
+],
   "geometry": {"coordinates":[-86.068421,31.41367],"type":"Point"}
 }

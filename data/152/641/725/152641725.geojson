@@ -2,13 +2,14 @@
   "id": 152641725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.480009,33.601144,-86.480009,33.601144",
     "geom:latitude":33.601144,
     "geom:longitude":-86.480009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3515 Moody Pkwy",
     "sg:city":"Moody",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807031,
+        85688675,
         85633793,
         85913421,
         102085647,
-        85688675
+        85807031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152641725,
-    "wof:lastmodified":1449047806,
+    "wof:lastmodified":1466319292,
     "wof:name":"James M Leith",
     "wof:parent_id":85807031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.480009,33.601144,-86.480009,33.601144],
+  "bbox": [
+    -86.480009,
+    33.601144,
+    -86.480009,
+    33.601144
+],
   "geometry": {"coordinates":[-86.480009,33.601144],"type":"Point"}
 }

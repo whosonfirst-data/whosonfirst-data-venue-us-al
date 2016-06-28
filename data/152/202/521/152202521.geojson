@@ -2,13 +2,14 @@
   "id": 152202521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.214134,31.159694,-85.214134,31.159694",
     "geom:latitude":31.159694,
     "geom:longitude":-85.214134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"260 McDaniel Rd",
     "sg:city":"Ashford",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847911,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85847911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152202521,
-    "wof:lastmodified":1449048321,
+    "wof:lastmodified":1466315939,
     "wof:name":"Ricky Carroll Rev",
     "wof:parent_id":85847911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.214134,31.159694,-85.214134,31.159694],
+  "bbox": [
+    -85.214134,
+    31.159694,
+    -85.214134,
+    31.159694
+],
   "geometry": {"coordinates":[-85.214134,31.159694],"type":"Point"}
 }

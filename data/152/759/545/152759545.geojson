@@ -2,13 +2,14 @@
   "id": 152759545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.275901,32.412784,-86.275901,32.412784",
     "geom:latitude":32.412784,
     "geom:longitude":-86.275901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"543 Broadway St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85810909,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85810909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152759545,
-    "wof:lastmodified":1449048959,
+    "wof:lastmodified":1466319641,
     "wof:name":"Cable Contractors",
     "wof:parent_id":85810909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.275901,32.412784,-86.275901,32.412784],
+  "bbox": [
+    -86.275901,
+    32.412784,
+    -86.275901,
+    32.412784
+],
   "geometry": {"coordinates":[-86.275901,32.412784],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102504989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.609705,34.695438,-86.609705,34.695438",
     "geom:latitude":34.695438,
     "geom:longitude":-86.609705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3906 Hillcrest Ct SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85810591,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85810591
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102504989,
-    "wof:lastmodified":1449068238,
+    "wof:lastmodified":1466316706,
     "wof:name":"Jo Ann's Alterations-Draperies",
     "wof:parent_id":85810591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.609705,34.695438,-86.609705,34.695438],
-  "geometry": {"coordinates":[-86.609705,34.695438],"type":"Point"}
+  "bbox": [
+    -86.609705,
+    34.695438,
+    -86.609705,
+    34.695438
+],
+  "geometry": {"coordinates":[-86.60970500000001,34.695438],"type":"Point"}
 }

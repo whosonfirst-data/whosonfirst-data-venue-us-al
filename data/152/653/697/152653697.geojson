@@ -2,13 +2,14 @@
   "id": 152653697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.233869,32.35987,-86.233869,32.35987",
     "geom:latitude":32.35987,
     "geom:longitude":-86.233869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4145 Wall St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809571,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85809571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152653697,
-    "wof:lastmodified":1449044635,
+    "wof:lastmodified":1466319126,
     "wof:name":"Corvel",
     "wof:parent_id":85809571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.233869,32.35987,-86.233869,32.35987],
+  "bbox": [
+    -86.233869,
+    32.35987,
+    -86.233869,
+    32.35987
+],
   "geometry": {"coordinates":[-86.233869,32.35987],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152785663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.385538,32.648312,-85.385538,32.648312",
     "geom:latitude":32.648312,
     "geom:longitude":-85.385538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 N 11th St",
     "sg:city":"Opelika",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85857153,
+        85688675,
         85633793,
         85913815,
         102085751,
-        85688675,
+        85857153,
         85819517
     ],
     "wof:breaches":[],
@@ -61,14 +62,20 @@
         }
     ],
     "wof:id":152785663,
-    "wof:lastmodified":1449048128,
+    "wof:lastmodified":1466319822,
     "wof:name":"Mc Carley Paint & Wallcovering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.385538,32.648312,-85.385538,32.648312],
+  "bbox": [
+    -85.385538,
+    32.648312,
+    -85.385538,
+    32.648312
+],
   "geometry": {"coordinates":[-85.385538,32.648312],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152544549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.556485,34.747635,-86.556485,34.747635",
     "geom:latitude":34.747635,
     "geom:longitude":-86.556485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2212 Bide A Wee Dr NE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813599,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85813599
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152544549,
-    "wof:lastmodified":1449048896,
+    "wof:lastmodified":1466318587,
     "wof:name":"A H & Assoc",
     "wof:parent_id":85813599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.556485,34.747635,-86.556485,34.747635],
+  "bbox": [
+    -86.556485,
+    34.747635,
+    -86.556485,
+    34.747635
+],
   "geometry": {"coordinates":[-86.556485,34.747635],"type":"Point"}
 }

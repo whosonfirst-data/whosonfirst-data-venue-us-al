@@ -2,13 +2,14 @@
   "id": 152123879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.729471,34.664001,-86.729471,34.664001",
     "geom:latitude":34.664001,
     "geom:longitude":-86.729471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"439 Sussex Dr SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.conagrafoods.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831899,
+        85688675,
         85633793,
         85913593,
         102085487,
-        85688675,
+        85831899,
         85807231
     ],
     "wof:breaches":[],
@@ -60,14 +61,20 @@
         }
     ],
     "wof:id":152123879,
-    "wof:lastmodified":1449045687,
+    "wof:lastmodified":1466314705,
     "wof:name":"Pilgrim's Pride Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.729471,34.664001,-86.729471,34.664001],
+  "bbox": [
+    -86.729471,
+    34.664001,
+    -86.729471,
+    34.664001
+],
   "geometry": {"coordinates":[-86.729471,34.664001],"type":"Point"}
 }

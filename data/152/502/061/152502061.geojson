@@ -2,13 +2,14 @@
   "id": 152502061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.856273,33.500101,-86.856273,33.500101",
     "geom:latitude":33.500101,
     "geom:longitude":-86.856273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1133 Lomb Ave SW",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817999,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85817999
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152502061,
-    "wof:lastmodified":1449046428,
+    "wof:lastmodified":1466318474,
     "wof:name":"Gibson Discount Pharmacy",
     "wof:parent_id":85817999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.856273,33.500101,-86.856273,33.500101],
+  "bbox": [
+    -86.856273,
+    33.500101,
+    -86.856273,
+    33.500101
+],
   "geometry": {"coordinates":[-86.856273,33.500101],"type":"Point"}
 }

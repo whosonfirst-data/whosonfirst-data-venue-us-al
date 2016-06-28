@@ -2,13 +2,14 @@
   "id": 152222111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.345263,34.361286,-86.345263,34.361286",
     "geom:latitude":34.361286,
     "geom:longitude":-86.345263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3374 State Rte 69",
     "sg:city":"Guntersville",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085513,
-        85633793,
         85688675,
-        85849079
+        85633793,
+        85849079,
+        102085513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152222111,
-    "wof:lastmodified":1449047389,
+    "wof:lastmodified":1466316114,
     "wof:name":"Guntersville Boat Mart Inc",
     "wof:parent_id":85849079,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.345263,34.361286,-86.345263,34.361286],
+  "bbox": [
+    -86.345263,
+    34.361286,
+    -86.345263,
+    34.361286
+],
   "geometry": {"coordinates":[-86.345263,34.361286],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152242545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.773563,33.483765,-86.773563,33.483765",
     "geom:latitude":33.483765,
     "geom:longitude":-86.773563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2350 Montevallo Rd S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854765,
+        85688675,
         85633793,
         85914807,
         102085481,
-        85688675
+        85854765
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":152242545,
-    "wof:lastmodified":1449048378,
+    "wof:lastmodified":1466316441,
     "wof:name":"Brookhill Condominium Owners",
     "wof:parent_id":85854765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.773563,33.483765,-86.773563,33.483765],
+  "bbox": [
+    -86.773563,
+    33.483765,
+    -86.773563,
+    33.483765
+],
   "geometry": {"coordinates":[-86.773563,33.483765],"type":"Point"}
 }

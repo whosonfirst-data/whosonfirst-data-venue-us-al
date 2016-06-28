@@ -2,13 +2,14 @@
   "id": 152440787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.209233,32.512497,-86.209233,32.512497",
     "geom:latitude":32.512497,
     "geom:longitude":-86.209233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"190 Fort Toulouse Rd",
     "sg:city":"Wetumpka",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806527,
+        85688675,
         85633793,
         85913951,
         102085631,
-        85688675
+        85806527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152440787,
-    "wof:lastmodified":1449045951,
+    "wof:lastmodified":1466318117,
     "wof:name":"Southern Builders",
     "wof:parent_id":85806527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.209233,32.512497,-86.209233,32.512497],
+  "bbox": [
+    -86.209233,
+    32.512497,
+    -86.209233,
+    32.512497
+],
   "geometry": {"coordinates":[-86.209233,32.512497],"type":"Point"}
 }

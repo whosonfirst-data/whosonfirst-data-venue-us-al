@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102468539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.720047,33.539802,-86.720047,33.539802",
     "geom:latitude":33.539802,
     "geom:longitude":-86.720047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6416 Oporto Madrid Blvd S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850695,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85850695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102468539,
-    "wof:lastmodified":1449069530,
+    "wof:lastmodified":1466315201,
     "wof:name":"Century Paint & Body Shop",
     "wof:parent_id":85850695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.720047,33.539802,-86.720047,33.539802],
-  "geometry": {"coordinates":[-86.720047,33.539802],"type":"Point"}
+  "bbox": [
+    -86.720047,
+    33.539802,
+    -86.720047,
+    33.539802
+],
+  "geometry": {"coordinates":[-86.72004699999999,33.539802],"type":"Point"}
 }

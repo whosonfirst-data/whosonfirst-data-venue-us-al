@@ -2,13 +2,14 @@
   "id": 152831679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.980131,33.996226,-85.980131,33.996226",
     "geom:latitude":33.996226,
     "geom:longitude":-85.980131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1304 E Broad St",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822279,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85822279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152831679,
-    "wof:lastmodified":1449047015,
+    "wof:lastmodified":1466320006,
     "wof:name":"Trendsetta Beauty Salons",
     "wof:parent_id":85822279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.980131,33.996226,-85.980131,33.996226],
+  "bbox": [
+    -85.980131,
+    33.996226,
+    -85.980131,
+    33.996226
+],
   "geometry": {"coordinates":[-85.980131,33.996226],"type":"Point"}
 }

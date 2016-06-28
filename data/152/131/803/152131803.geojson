@@ -2,13 +2,14 @@
   "id": 152131803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.221,32.371832,-86.221,32.371832",
     "geom:latitude":32.371832,
     "geom:longitude":-86.221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"662 Hillsboro Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809571,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85809571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152131803,
-    "wof:lastmodified":1449045700,
+    "wof:lastmodified":1466315137,
     "wof:name":"Fbj Forestry Services Inc",
     "wof:parent_id":85809571,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.221,32.371832,-86.221,32.371832],
+  "bbox": [
+    -86.221,
+    32.371832,
+    -86.221,
+    32.371832
+],
   "geometry": {"coordinates":[-86.221,32.371832],"type":"Point"}
 }

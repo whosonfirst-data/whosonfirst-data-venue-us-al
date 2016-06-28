@@ -2,13 +2,14 @@
   "id": 152257645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.816138,33.551466,-86.816138,33.551466",
     "geom:latitude":33.551466,
     "geom:longitude":-86.816138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2927 27th St N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837367,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85837367
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152257645,
-    "wof:lastmodified":1449045665,
+    "wof:lastmodified":1466316815,
     "wof:name":"Fashion Shoe Center",
     "wof:parent_id":85837367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.816138,33.551466,-86.816138,33.551466],
+  "bbox": [
+    -86.816138,
+    33.551466,
+    -86.816138,
+    33.551466
+],
   "geometry": {"coordinates":[-86.816138,33.551466],"type":"Point"}
 }

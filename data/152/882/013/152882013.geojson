@@ -2,13 +2,14 @@
   "id": 152882013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.802652,33.227315,-86.802652,33.227315",
     "geom:latitude":33.227315,
     "geom:longitude":-86.802652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"227 1st St S",
     "sg:city":"Alabaster",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85853623
+        85633793,
+        85853623,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152882013,
-    "wof:lastmodified":1449045135,
+    "wof:lastmodified":1466320239,
     "wof:name":"Diabetes & Endocrinology Assoc",
     "wof:parent_id":85853623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.802652,33.227315,-86.802652,33.227315],
-  "geometry": {"coordinates":[-86.802652,33.227315],"type":"Point"}
+  "bbox": [
+    -86.802652,
+    33.227315,
+    -86.802652,
+    33.227315
+],
+  "geometry": {"coordinates":[-86.80265199999999,33.227315],"type":"Point"}
 }

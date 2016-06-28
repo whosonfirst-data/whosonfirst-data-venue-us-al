@@ -2,13 +2,14 @@
   "id": 102616025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.823222,31.325198,-85.823222,31.325198",
     "geom:latitude":31.325198,
     "geom:longitude":-85.823222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 Rucker Blvd",
     "sg:city":"Enterprise",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102616025,
-    "wof:lastmodified":1449069572,
+    "wof:lastmodified":1466317312,
     "wof:name":"Enterprise Chevrolet Inc",
     "wof:parent_id":85899527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.823222,31.325198,-85.823222,31.325198],
+  "bbox": [
+    -85.823222,
+    31.325198,
+    -85.823222,
+    31.325198
+],
   "geometry": {"coordinates":[-85.823222,31.325198],"type":"Point"}
 }

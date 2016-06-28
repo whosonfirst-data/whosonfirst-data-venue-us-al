@@ -2,13 +2,14 @@
   "id": 152204719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.766002,33.527368,-86.766002,33.527368",
     "geom:latitude":33.527368,
     "geom:longitude":-86.766002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4425 3rd Ave S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -37,11 +38,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815977,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85815977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,14 +61,20 @@
         }
     ],
     "wof:id":152204719,
-    "wof:lastmodified":1449049027,
+    "wof:lastmodified":1466315989,
     "wof:name":"By Design Woodworking LLC",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.766002,33.527368,-86.766002,33.527368],
+  "bbox": [
+    -86.766002,
+    33.527368,
+    -86.766002,
+    33.527368
+],
   "geometry": {"coordinates":[-86.766002,33.527368],"type":"Point"}
 }

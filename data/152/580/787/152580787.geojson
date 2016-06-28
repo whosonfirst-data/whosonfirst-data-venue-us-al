@@ -2,13 +2,14 @@
   "id": 152580787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.739667,33.568995,-86.739667,33.568995",
     "geom:latitude":33.568995,
     "geom:longitude":-86.739667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4800 69th St N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816499,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85816499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152580787,
-    "wof:lastmodified":1449047413,
+    "wof:lastmodified":1466318766,
     "wof:name":"AmSouth",
     "wof:parent_id":85816499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.739667,33.568995,-86.739667,33.568995],
+  "bbox": [
+    -86.739667,
+    33.568995,
+    -86.739667,
+    33.568995
+],
   "geometry": {"coordinates":[-86.739667,33.568995],"type":"Point"}
 }

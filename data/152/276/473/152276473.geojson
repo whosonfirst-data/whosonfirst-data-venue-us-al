@@ -2,13 +2,14 @@
   "id": 152276473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.043782,30.687362,-88.043782,30.687362",
     "geom:latitude":30.687362,
     "geom:longitude":-88.043782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"151 S Claiborne St",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878959,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152276473,
-    "wof:lastmodified":1449044461,
+    "wof:lastmodified":1466316932,
     "wof:name":"Neighbourhood Hsing Programme",
     "wof:parent_id":85878959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.043782,30.687362,-88.043782,30.687362],
-  "geometry": {"coordinates":[-88.043782,30.687362],"type":"Point"}
+  "bbox": [
+    -88.043782,
+    30.687362,
+    -88.043782,
+    30.687362
+],
+  "geometry": {"coordinates":[-88.04378199999999,30.687362],"type":"Point"}
 }

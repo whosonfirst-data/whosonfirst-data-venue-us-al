@@ -2,13 +2,14 @@
   "id": 152499557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.617216,34.576576,-85.617216,34.576576",
     "geom:latitude":34.576576,
     "geom:longitude":-85.617216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Dean Rd",
     "sg:city":"Valley Head",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85844901,
+        85688675,
         85633793,
         85897439,
         102085615,
-        85688675
+        85844901
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152499557,
-    "wof:lastmodified":1449045185,
+    "wof:lastmodified":1466318234,
     "wof:name":"Earth Moving Services",
     "wof:parent_id":85844901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.617216,34.576576,-85.617216,34.576576],
+  "bbox": [
+    -85.617216,
+    34.576576,
+    -85.617216,
+    34.576576
+],
   "geometry": {"coordinates":[-85.617216,34.576576],"type":"Point"}
 }

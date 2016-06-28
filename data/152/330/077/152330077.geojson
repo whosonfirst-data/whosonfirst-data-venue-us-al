@@ -2,13 +2,14 @@
   "id": 152330077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.870747,33.523266,-86.870747,33.523266",
     "geom:latitude":33.523266,
     "geom:longitude":-86.870747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2708 Republic Blvd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152330077,
-    "wof:lastmodified":1449046604,
+    "wof:lastmodified":1466317358,
     "wof:name":"Custom Installation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.870747,33.523266,-86.870747,33.523266],
-  "geometry": {"coordinates":[-86.870747,33.523266],"type":"Point"}
+  "bbox": [
+    -86.870747,
+    33.523266,
+    -86.870747,
+    33.523266
+],
+  "geometry": {"coordinates":[-86.87074699999999,33.523266],"type":"Point"}
 }

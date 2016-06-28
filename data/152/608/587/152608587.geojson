@@ -2,13 +2,14 @@
   "id": 152608587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.823402,33.534181,-86.823402,33.534181",
     "geom:latitude":33.534181,
     "geom:longitude":-86.823402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1735 18th St N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876271,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876271
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152608587,
-    "wof:lastmodified":1449046288,
+    "wof:lastmodified":1466318880,
     "wof:name":"Christ Temple Afm Church",
     "wof:parent_id":85876271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.823402,33.534181,-86.823402,33.534181],
+  "bbox": [
+    -86.823402,
+    33.534181,
+    -86.823402,
+    33.534181
+],
   "geometry": {"coordinates":[-86.823402,33.534181],"type":"Point"}
 }

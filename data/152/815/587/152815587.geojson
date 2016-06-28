@@ -2,13 +2,14 @@
   "id": 152815587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.942315,33.429337,-86.942315,33.429337",
     "geom:latitude":33.429337,
     "geom:longitude":-86.942315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4025 Bessemer Super Hwy",
     "sg:city":"Bessemer",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152815587,
-    "wof:lastmodified":1449046546,
+    "wof:lastmodified":1466320100,
     "wof:name":"Middlebrooks Truck & Equipment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.942315,33.429337,-86.942315,33.429337],
-  "geometry": {"coordinates":[-86.942315,33.429337],"type":"Point"}
+  "bbox": [
+    -86.942315,
+    33.429337,
+    -86.942315,
+    33.429337
+],
+  "geometry": {"coordinates":[-86.94231499999999,33.429337],"type":"Point"}
 }

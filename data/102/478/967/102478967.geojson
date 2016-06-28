@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102478967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.700977,33.651315,-86.700977,33.651315",
     "geom:latitude":33.651315,
     "geom:longitude":-86.700977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2500 6th St NW",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854035,
+        85688675,
         85633793,
         85914903,
         102085481,
-        85688675
+        85854035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102478967,
-    "wof:lastmodified":1449067850,
+    "wof:lastmodified":1466314903,
     "wof:name":"Jones Office Decor & Supply",
     "wof:parent_id":85854035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.700977,33.651315,-86.700977,33.651315],
-  "geometry": {"coordinates":[-86.700977,33.651315],"type":"Point"}
+  "bbox": [
+    -86.700977,
+    33.651315,
+    -86.700977,
+    33.651315
+],
+  "geometry": {"coordinates":[-86.70097699999999,33.651315],"type":"Point"}
 }

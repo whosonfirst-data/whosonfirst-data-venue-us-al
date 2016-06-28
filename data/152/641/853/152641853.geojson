@@ -2,13 +2,14 @@
   "id": 152641853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.329591,34.022889,-86.329591,34.022889",
     "geom:latitude":34.022889,
     "geom:longitude":-86.329591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7482 Robbins Rd",
     "sg:city":"Altoona",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085545,
-        85633793,
         85688675,
-        85851221
+        85633793,
+        85851221,
+        102085545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152641853,
-    "wof:lastmodified":1449047807,
+    "wof:lastmodified":1466319086,
     "wof:name":"Loftis Manufacturing Co Inc",
     "wof:parent_id":85851221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.329591,34.022889,-86.329591,34.022889],
-  "geometry": {"coordinates":[-86.329591,34.022889],"type":"Point"}
+  "bbox": [
+    -86.329591,
+    34.022889,
+    -86.329591,
+    34.022889
+],
+  "geometry": {"coordinates":[-86.32959099999999,34.022889],"type":"Point"}
 }

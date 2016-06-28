@@ -2,13 +2,14 @@
   "id": 152641545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.560488,30.421836,-87.560488,30.421836",
     "geom:latitude":30.421836,
     "geom:longitude":-87.560488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27107 Schoen Rd",
     "sg:city":"Elberta",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868551,
+        85688675,
         85633793,
         85914719,
         102085469,
-        85688675
+        85868551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152641545,
-    "wof:lastmodified":1449047806,
+    "wof:lastmodified":1466319068,
     "wof:name":"Sweet Home Farm",
     "wof:parent_id":85868551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.560488,30.421836,-87.560488,30.421836],
-  "geometry": {"coordinates":[-87.560488,30.421836],"type":"Point"}
+  "bbox": [
+    -87.560488,
+    30.421836,
+    -87.560488,
+    30.421836
+],
+  "geometry": {"coordinates":[-87.56048800000001,30.421836],"type":"Point"}
 }

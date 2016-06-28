@@ -2,13 +2,14 @@
   "id": 152520503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.231456,30.657336,-88.231456,30.657336",
     "geom:latitude":30.657336,
     "geom:longitude":-88.231456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8015 Saint Jude Cir N",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152520503,
-    "wof:lastmodified":1449045834,
+    "wof:lastmodified":1466318426,
     "wof:name":"Brady Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.231456,30.657336,-88.231456,30.657336],
-  "geometry": {"coordinates":[-88.231456,30.657336],"type":"Point"}
+  "bbox": [
+    -88.231456,
+    30.657336,
+    -88.231456,
+    30.657336
+],
+  "geometry": {"coordinates":[-88.23145599999999,30.657336],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152595553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.90994,32.544622,-85.90994,32.544622",
     "geom:latitude":32.544622,
     "geom:longitude":-85.90994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"910 Gilmer Ave",
     "sg:city":"Tallassee",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827623,
+        85688675,
         85633793,
         85913291,
         102085631,
-        85688675
+        85827623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152595553,
-    "wof:lastmodified":1449048468,
+    "wof:lastmodified":1466318819,
     "wof:name":"Sheila C's Burger Barn",
     "wof:parent_id":85827623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.90994,32.544622,-85.90994,32.544622],
-  "geometry": {"coordinates":[-85.90994,32.544622],"type":"Point"}
+  "bbox": [
+    -85.90994,
+    32.544622,
+    -85.90994,
+    32.544622
+],
+  "geometry": {"coordinates":[-85.90994000000001,32.544622],"type":"Point"}
 }

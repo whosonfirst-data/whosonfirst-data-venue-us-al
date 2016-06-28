@@ -2,13 +2,14 @@
   "id": 152523275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.120825,34.235655,-86.120825,34.235655",
     "geom:latitude":34.235655,
     "geom:longitude":-86.120825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13795 State Rte 168",
     "sg:city":"Boaz",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85830981,
+        85688675,
         85633793,
         85899833,
         102085513,
-        85688675
+        85830981
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152523275,
-    "wof:lastmodified":1449046964,
+    "wof:lastmodified":1466318509,
     "wof:name":"AAA Motors Inc",
     "wof:parent_id":85830981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.120825,34.235655,-86.120825,34.235655],
+  "bbox": [
+    -86.120825,
+    34.235655,
+    -86.120825,
+    34.235655
+],
   "geometry": {"coordinates":[-86.120825,34.235655],"type":"Point"}
 }

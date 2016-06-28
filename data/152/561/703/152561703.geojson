@@ -2,13 +2,14 @@
   "id": 152561703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.69227,33.733512,-85.69227,33.733512",
     "geom:latitude":33.733512,
     "geom:longitude":-85.69227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10724 Choccolocco Rd",
     "sg:city":"Anniston",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817157,
+        85688675,
         85633793,
         85914293,
         102085603,
-        85688675
+        85817157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152561703,
-    "wof:lastmodified":1449047574,
+    "wof:lastmodified":1466318632,
     "wof:name":"Shockley Trucking Co",
     "wof:parent_id":85817157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.69227,33.733512,-85.69227,33.733512],
-  "geometry": {"coordinates":[-85.69227,33.733512],"type":"Point"}
+  "bbox": [
+    -85.69227,
+    33.733512,
+    -85.69227,
+    33.733512
+],
+  "geometry": {"coordinates":[-85.69226999999999,33.733512],"type":"Point"}
 }

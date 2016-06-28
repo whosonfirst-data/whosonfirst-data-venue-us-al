@@ -2,13 +2,14 @@
   "id": 152540493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.612342,34.712272,-86.612342,34.712272",
     "geom:latitude":34.712272,
     "geom:longitude":-86.612342,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3310 Bob Wallace Ave SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825531,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85825531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152540493,
-    "wof:lastmodified":1449046128,
+    "wof:lastmodified":1466318542,
     "wof:name":"Lee's Tailoring & Menswear",
     "wof:parent_id":85825531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.612342,34.712272,-86.612342,34.712272],
+  "bbox": [
+    -86.612342,
+    34.712272,
+    -86.612342,
+    34.712272
+],
   "geometry": {"coordinates":[-86.612342,34.712272],"type":"Point"}
 }

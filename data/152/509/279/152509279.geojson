@@ -2,13 +2,14 @@
   "id": 152509279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.624101,34.715939,-86.624101,34.715939",
     "geom:latitude":34.715939,
     "geom:longitude":-86.624101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4105 9th Ave SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856995,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85856995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152509279,
-    "wof:lastmodified":1449044486,
+    "wof:lastmodified":1466318488,
     "wof:name":"Be Ja Beauty Salon",
     "wof:parent_id":85856995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.624101,34.715939,-86.624101,34.715939],
+  "bbox": [
+    -86.624101,
+    34.715939,
+    -86.624101,
+    34.715939
+],
   "geometry": {"coordinates":[-86.624101,34.715939],"type":"Point"}
 }

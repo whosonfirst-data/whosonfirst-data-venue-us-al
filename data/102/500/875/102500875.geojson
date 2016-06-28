@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102500875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.104042,30.692812,-88.104042,30.692812",
     "geom:latitude":30.692812,
     "geom:longitude":-88.104042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2657 Old Shell Rd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879003,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85879003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102500875,
-    "wof:lastmodified":1449068388,
+    "wof:lastmodified":1466316461,
     "wof:name":"Rainwater Radiators Inc",
     "wof:parent_id":85879003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.104042,30.692812,-88.104042,30.692812],
-  "geometry": {"coordinates":[-88.104042,30.692812],"type":"Point"}
+  "bbox": [
+    -88.104042,
+    30.692812,
+    -88.104042,
+    30.692812
+],
+  "geometry": {"coordinates":[-88.10404200000001,30.692812],"type":"Point"}
 }

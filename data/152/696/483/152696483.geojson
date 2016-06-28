@@ -2,13 +2,14 @@
   "id": 152696483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.951969,33.598991,-86.951969,33.598991",
     "geom:latitude":33.598991,
     "geom:longitude":-86.951969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4723 Main St",
     "sg:city":"Adamsville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820003,
+        85688675,
         85633793,
         85914875,
         102085481,
-        85688675
+        85820003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152696483,
-    "wof:lastmodified":1449044646,
+    "wof:lastmodified":1466319239,
     "wof:name":"D & J Steel Fab & Supply",
     "wof:parent_id":85820003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.951969,33.598991,-86.951969,33.598991],
-  "geometry": {"coordinates":[-86.951969,33.598991],"type":"Point"}
+  "bbox": [
+    -86.951969,
+    33.598991,
+    -86.951969,
+    33.598991
+],
+  "geometry": {"coordinates":[-86.95196900000001,33.598991],"type":"Point"}
 }

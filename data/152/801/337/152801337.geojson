@@ -2,13 +2,14 @@
   "id": 152801337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.853649,33.414825,-86.853649,33.414825",
     "geom:latitude":33.414825,
     "geom:longitude":-86.853649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"730 Shades Crest Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -31,10 +32,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085481,
-        85633793,
         85688675,
-        85834275
+        85633793,
+        85834275,
+        102085481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152801337,
-    "wof:lastmodified":1449048104,
+    "wof:lastmodified":1466319802,
     "wof:name":"Carpet Warehouse Inc",
     "wof:parent_id":85834275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.853649,33.414825,-86.853649,33.414825],
+  "bbox": [
+    -86.853649,
+    33.414825,
+    -86.853649,
+    33.414825
+],
   "geometry": {"coordinates":[-86.853649,33.414825],"type":"Point"}
 }

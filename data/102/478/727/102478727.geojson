@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102478727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.192632,30.531766,-88.192632,30.531766",
     "geom:latitude":30.531766,
     "geom:longitude":-88.192632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6485 US Hwy 90",
     "sg:city":"Theodore",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878951,
+        85688675,
         85633793,
         85915075,
         102085585,
-        85688675
+        85878951
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102478727,
-    "wof:lastmodified":1449067849,
+    "wof:lastmodified":1466314854,
     "wof:name":"Main Event Club",
     "wof:parent_id":85878951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.192632,30.531766,-88.192632,30.531766],
+  "bbox": [
+    -88.192632,
+    30.531766,
+    -88.192632,
+    30.531766
+],
   "geometry": {"coordinates":[-88.192632,30.531766],"type":"Point"}
 }

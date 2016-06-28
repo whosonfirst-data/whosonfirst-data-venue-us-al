@@ -2,13 +2,14 @@
   "id": 152873859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.020516,32.744521,-86.020516,32.744521",
     "geom:latitude":32.744521,
     "geom:longitude":-86.020516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2700 Real Island Rd",
     "sg:city":"Equality",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827623,
+        85688675,
         85633793,
         85913291,
         102085631,
-        85688675
+        85827623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152873859,
-    "wof:lastmodified":1449045269,
+    "wof:lastmodified":1466320228,
     "wof:name":"Real Island Marina & Campgrnd",
     "wof:parent_id":85827623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.020516,32.744521,-86.020516,32.744521],
+  "bbox": [
+    -86.020516,
+    32.744521,
+    -86.020516,
+    32.744521
+],
   "geometry": {"coordinates":[-86.020516,32.744521],"type":"Point"}
 }

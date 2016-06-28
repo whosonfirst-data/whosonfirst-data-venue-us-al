@@ -2,13 +2,14 @@
   "id": 152449107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.577735,34.717612,-86.577735,34.717612",
     "geom:latitude":34.717612,
     "geom:longitude":-86.577735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2107 Whitesburg Dr S",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878239,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878239
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152449107,
-    "wof:lastmodified":1449048579,
+    "wof:lastmodified":1466318041,
     "wof:name":"Whitesburg Cleaners & Laundry",
     "wof:parent_id":85878239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.577735,34.717612,-86.577735,34.717612],
+  "bbox": [
+    -86.577735,
+    34.717612,
+    -86.577735,
+    34.717612
+],
   "geometry": {"coordinates":[-86.577735,34.717612],"type":"Point"}
 }

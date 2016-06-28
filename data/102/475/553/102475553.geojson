@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102475553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.664286,33.406484,-86.664286,33.406484",
     "geom:latitude":33.406484,
     "geom:longitude":-86.664286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5511 US Hwy 280",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     "sg:website":"www.hometownmortgageonline.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85833411
+        85633793,
+        85833411,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102475553,
-    "wof:lastmodified":1449068766,
+    "wof:lastmodified":1466315540,
     "wof:name":"Hometown Mortgage Svc",
     "wof:parent_id":85833411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.664286,33.406484,-86.664286,33.406484],
+  "bbox": [
+    -86.664286,
+    33.406484,
+    -86.664286,
+    33.406484
+],
   "geometry": {"coordinates":[-86.664286,33.406484],"type":"Point"}
 }

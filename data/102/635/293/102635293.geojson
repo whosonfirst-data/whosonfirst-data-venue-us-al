@@ -2,13 +2,14 @@
   "id": 102635293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.455126,34.673023,-86.455126,34.673023",
     "geom:latitude":34.673023,
     "geom:longitude":-86.455126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3204 Cove Lake Rd SE",
     "sg:city":"Owens Cross Roads",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878245,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102635293,
-    "wof:lastmodified":1449068800,
+    "wof:lastmodified":1466317667,
     "wof:name":"Alternative Solutions Inc",
     "wof:parent_id":85878245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.455126,34.673023,-86.455126,34.673023],
-  "geometry": {"coordinates":[-86.455126,34.673023],"type":"Point"}
+  "bbox": [
+    -86.455126,
+    34.673023,
+    -86.455126,
+    34.673023
+],
+  "geometry": {"coordinates":[-86.45512600000001,34.673023],"type":"Point"}
 }

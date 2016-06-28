@@ -2,13 +2,14 @@
   "id": 152349195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.435289,32.632231,-85.435289,32.632231",
     "geom:latitude":32.632231,
     "geom:longitude":-85.435289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3702 Pepperell Pkwy",
     "sg:city":"Opelika",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.charterbank.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850579,
+        85688675,
         85633793,
         85913815,
         102085751,
-        85688675
+        85850579
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152349195,
-    "wof:lastmodified":1449046055,
+    "wof:lastmodified":1466317579,
     "wof:name":"Charter Bank",
     "wof:parent_id":85850579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.435289,32.632231,-85.435289,32.632231],
+  "bbox": [
+    -85.435289,
+    32.632231,
+    -85.435289,
+    32.632231
+],
   "geometry": {"coordinates":[-85.435289,32.632231],"type":"Point"}
 }

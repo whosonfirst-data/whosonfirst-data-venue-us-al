@@ -2,13 +2,14 @@
   "id": 152263895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.24201,32.328669,-86.24201,32.328669",
     "geom:latitude":32.328669,
     "geom:longitude":-86.24201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3641 Mc Gehee Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152263895,
-    "wof:lastmodified":1449048781,
+    "wof:lastmodified":1466316771,
     "wof:name":"Joe Hudsons Collision Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.24201,32.328669,-86.24201,32.328669],
-  "geometry": {"coordinates":[-86.24201,32.328669],"type":"Point"}
+  "bbox": [
+    -86.24201,
+    32.328669,
+    -86.24201,
+    32.328669
+],
+  "geometry": {"coordinates":[-86.24200999999999,32.328669],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152266597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.888896,34.368734,-86.888896,34.368734",
     "geom:latitude":34.368734,
     "geom:longitude":-86.888896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42 E Woods Pvt Dr",
     "sg:city":"Falkville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851807,
+        85688675,
         85633793,
         85914103,
         102085531,
-        85688675
+        85851807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152266597,
-    "wof:lastmodified":1449044439,
+    "wof:lastmodified":1466316791,
     "wof:name":"Signal One",
     "wof:parent_id":85851807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.888896,34.368734,-86.888896,34.368734],
+  "bbox": [
+    -86.888896,
+    34.368734,
+    -86.888896,
+    34.368734
+],
   "geometry": {"coordinates":[-86.888896,34.368734],"type":"Point"}
 }

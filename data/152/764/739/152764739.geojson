@@ -2,13 +2,14 @@
   "id": 152764739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.92321,33.505833,-86.92321,33.505833",
     "geom:latitude":33.505833,
     "geom:longitude":-86.92321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4529 7th Ave",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818869,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85818869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152764739,
-    "wof:lastmodified":1449048704,
+    "wof:lastmodified":1466319653,
     "wof:name":"Wylam Phillips 66 Service Stn",
     "wof:parent_id":85818869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.92321,33.505833,-86.92321,33.505833],
+  "bbox": [
+    -86.92321,
+    33.505833,
+    -86.92321,
+    33.505833
+],
   "geometry": {"coordinates":[-86.92321,33.505833],"type":"Point"}
 }

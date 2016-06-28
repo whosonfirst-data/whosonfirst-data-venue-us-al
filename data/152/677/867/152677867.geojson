@@ -2,13 +2,14 @@
   "id": 152677867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.724011,34.439163,-85.724011,34.439163",
     "geom:latitude":34.439163,
     "geom:longitude":-85.724011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 3rd St SE",
     "sg:city":"Fort Payne",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.libnat.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85815015,
+        85688675,
         85633793,
         85897515,
         102085615,
-        85688675
+        85815015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152677867,
-    "wof:lastmodified":1449045974,
+    "wof:lastmodified":1466319274,
     "wof:name":"Liberty National",
     "wof:parent_id":85815015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.724011,34.439163,-85.724011,34.439163],
+  "bbox": [
+    -85.724011,
+    34.439163,
+    -85.724011,
+    34.439163
+],
   "geometry": {"coordinates":[-85.724011,34.439163],"type":"Point"}
 }

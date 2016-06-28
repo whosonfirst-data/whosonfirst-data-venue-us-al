@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102481789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.511935,33.212612,-87.511935,33.212612",
     "geom:latitude":33.212612,
     "geom:longitude":-87.511935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2032 4th St E",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854575,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85854575
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102481789,
-    "wof:lastmodified":1449069867,
+    "wof:lastmodified":1466315453,
     "wof:name":"J & R Soul Cafe",
     "wof:parent_id":85854575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.511935,33.212612,-87.511935,33.212612],
-  "geometry": {"coordinates":[-87.511935,33.212612],"type":"Point"}
+  "bbox": [
+    -87.511935,
+    33.212612,
+    -87.511935,
+    33.212612
+],
+  "geometry": {"coordinates":[-87.51193499999999,33.212612],"type":"Point"}
 }

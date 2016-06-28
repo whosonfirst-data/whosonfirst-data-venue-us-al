@@ -2,13 +2,14 @@
   "id": 152409419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.064731,30.683101,-88.064731,30.683101",
     "geom:latitude":30.683101,
     "geom:longitude":-88.064731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 S Georgia Ave",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878971,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152409419,
-    "wof:lastmodified":1449046209,
+    "wof:lastmodified":1466317895,
     "wof:name":"McKean Contracting Inc",
     "wof:parent_id":85878971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.064731,30.683101,-88.064731,30.683101],
-  "geometry": {"coordinates":[-88.064731,30.683101],"type":"Point"}
+  "bbox": [
+    -88.064731,
+    30.683101,
+    -88.064731,
+    30.683101
+],
+  "geometry": {"coordinates":[-88.06473099999999,30.683101],"type":"Point"}
 }

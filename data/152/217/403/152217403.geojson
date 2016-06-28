@@ -2,13 +2,14 @@
   "id": 152217403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.952751,32.517923,-85.952751,32.517923",
     "geom:latitude":32.517923,
     "geom:longitude":-85.952751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1442 Dark Corners Rd",
     "sg:city":"Tallassee",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827623,
+        85688675,
         85633793,
         85913291,
         102085631,
-        85688675
+        85827623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152217403,
-    "wof:lastmodified":1449048643,
+    "wof:lastmodified":1466316028,
     "wof:name":"Robert Lambert Racing LLC",
     "wof:parent_id":85827623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.952751,32.517923,-85.952751,32.517923],
-  "geometry": {"coordinates":[-85.952751,32.517923],"type":"Point"}
+  "bbox": [
+    -85.952751,
+    32.517923,
+    -85.952751,
+    32.517923
+],
+  "geometry": {"coordinates":[-85.95275100000001,32.517923],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102499053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.597282,34.722011,-86.597282,34.722011",
     "geom:latitude":34.722011,
     "geom:longitude":-86.597282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"227 Binford Dr SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85855713,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85855713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102499053,
-    "wof:lastmodified":1449068254,
+    "wof:lastmodified":1466316575,
     "wof:name":"Twametra Robertson",
     "wof:parent_id":85855713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.597282,34.722011,-86.597282,34.722011],
-  "geometry": {"coordinates":[-86.597282,34.722011],"type":"Point"}
+  "bbox": [
+    -86.597282,
+    34.722011,
+    -86.597282,
+    34.722011
+],
+  "geometry": {"coordinates":[-86.59728200000001,34.722011],"type":"Point"}
 }

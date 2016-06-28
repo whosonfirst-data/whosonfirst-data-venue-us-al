@@ -2,13 +2,14 @@
   "id": 152483333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.202446,30.524078,-88.202446,30.524078",
     "geom:latitude":30.524078,
     "geom:longitude":-88.202446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8511 Padgett Switch Rd",
     "sg:city":"Irvington",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152483333,
-    "wof:lastmodified":1449047938,
+    "wof:lastmodified":1466318247,
     "wof:name":"Southern Stamping Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.202446,30.524078,-88.202446,30.524078],
-  "geometry": {"coordinates":[-88.202446,30.524078],"type":"Point"}
+  "bbox": [
+    -88.202446,
+    30.524078,
+    -88.202446,
+    30.524078
+],
+  "geometry": {"coordinates":[-88.20244599999999,30.524078],"type":"Point"}
 }

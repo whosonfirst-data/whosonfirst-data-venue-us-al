@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102474825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.839599,33.466573,-86.839599,33.466573",
     "geom:latitude":33.466573,
     "geom:longitude":-86.839599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"95 Robert Jemison Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817409,
+        85688675,
         85633793,
         85914847,
         102085481,
-        85688675
+        85817409
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102474825,
-    "wof:lastmodified":1449067882,
+    "wof:lastmodified":1466315466,
     "wof:name":"International Auto Sales",
     "wof:parent_id":85817409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.839599,33.466573,-86.839599,33.466573],
-  "geometry": {"coordinates":[-86.839599,33.466573],"type":"Point"}
+  "bbox": [
+    -86.839599,
+    33.466573,
+    -86.839599,
+    33.466573
+],
+  "geometry": {"coordinates":[-86.83959900000001,33.466573],"type":"Point"}
 }

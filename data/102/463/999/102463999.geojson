@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102463999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.189766,30.640266,-88.189766,30.640266",
     "geom:latitude":30.640266,
     "geom:longitude":-88.189766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6366 Cottage Hill Rd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809629,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85809629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102463999,
-    "wof:lastmodified":1449069475,
+    "wof:lastmodified":1466315155,
     "wof:name":"Tuesday Morning Inc",
     "wof:parent_id":85809629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.189766,30.640266,-88.189766,30.640266],
-  "geometry": {"coordinates":[-88.189766,30.640266],"type":"Point"}
+  "bbox": [
+    -88.189766,
+    30.640266,
+    -88.189766,
+    30.640266
+],
+  "geometry": {"coordinates":[-88.18976600000001,30.640266],"type":"Point"}
 }

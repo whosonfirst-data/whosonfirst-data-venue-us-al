@@ -2,13 +2,14 @@
   "id": 152458217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.806596,33.223045,-86.806596,33.223045",
     "geom:latitude":33.223045,
     "geom:longitude":-86.806596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1152 Old US Hwy 31",
     "sg:city":"Alabaster",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     "sg:website":"www.cheneylime.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85853623
+        85633793,
+        85853623,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152458217,
-    "wof:lastmodified":1449047587,
+    "wof:lastmodified":1466318223,
     "wof:name":"Cheney Lime & Cement Co",
     "wof:parent_id":85853623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.806596,33.223045,-86.806596,33.223045],
+  "bbox": [
+    -86.806596,
+    33.223045,
+    -86.806596,
+    33.223045
+],
   "geometry": {"coordinates":[-86.806596,33.223045],"type":"Point"}
 }

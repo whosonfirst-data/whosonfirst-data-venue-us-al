@@ -2,13 +2,14 @@
   "id": 102632273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.432509,31.222295,-85.432509,31.222295",
     "geom:latitude":31.222295,
     "geom:longitude":-85.432509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3011 Ross Clark Cir",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85846119,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85846119
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102632273,
-    "wof:lastmodified":1449069306,
+    "wof:lastmodified":1466317505,
     "wof:name":"D & D Investments Inc",
     "wof:parent_id":85846119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.432509,31.222295,-85.432509,31.222295],
+  "bbox": [
+    -85.432509,
+    31.222295,
+    -85.432509,
+    31.222295
+],
   "geometry": {"coordinates":[-85.432509,31.222295],"type":"Point"}
 }

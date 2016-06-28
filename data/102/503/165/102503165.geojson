@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102503165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.58851,34.748639,-86.58851,34.748639",
     "geom:latitude":34.748639,
     "geom:longitude":-86.58851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1330 Washington St NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878235,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878235
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102503165,
-    "wof:lastmodified":1449070221,
+    "wof:lastmodified":1466316556,
     "wof:name":"Joe N Lampley",
     "wof:parent_id":85878235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.58851,34.748639,-86.58851,34.748639],
+  "bbox": [
+    -86.58851,
+    34.748639,
+    -86.58851,
+    34.748639
+],
   "geometry": {"coordinates":[-86.58851,34.748639],"type":"Point"}
 }

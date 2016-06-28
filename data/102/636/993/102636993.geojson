@@ -2,13 +2,14 @@
   "id": 102636993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.538212,34.604764,-86.538212,34.604764",
     "geom:latitude":34.604764,
     "geom:longitude":-86.538212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1208 Chesterfield Rd SE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820451,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85820451
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":102636993,
-    "wof:lastmodified":1449068715,
+    "wof:lastmodified":1466317403,
     "wof:name":"Cole Mechanical",
     "wof:parent_id":85820451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.538212,34.604764,-86.538212,34.604764],
+  "bbox": [
+    -86.538212,
+    34.604764,
+    -86.538212,
+    34.604764
+],
   "geometry": {"coordinates":[-86.538212,34.604764],"type":"Point"}
 }

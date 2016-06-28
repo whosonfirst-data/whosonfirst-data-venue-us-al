@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102515511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.69816,33.628546,-86.69816,33.628546",
     "geom:latitude":33.628546,
     "geom:longitude":-86.69816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1625 5th Pl NW",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854035,
+        85688675,
         85633793,
         85914903,
         102085481,
-        85688675
+        85854035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":102515511,
-    "wof:lastmodified":1449068355,
+    "wof:lastmodified":1466317001,
     "wof:name":"Berry Boyz",
     "wof:parent_id":85854035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.69816,33.628546,-86.69816,33.628546],
+  "bbox": [
+    -86.69816,
+    33.628546,
+    -86.69816,
+    33.628546
+],
   "geometry": {"coordinates":[-86.69816,33.628546],"type":"Point"}
 }

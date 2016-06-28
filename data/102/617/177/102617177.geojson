@@ -2,13 +2,14 @@
   "id": 102617177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.551336,34.314681,-86.551336,34.314681",
     "geom:latitude":34.314681,
     "geom:longitude":-86.551336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"95 Mockingbird Rd",
     "sg:city":"Arab",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":102617177,
-    "wof:lastmodified":1449067858,
+    "wof:lastmodified":1466317238,
     "wof:name":"Donald C King",
     "wof:parent_id":85688675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.551336,34.314681,-86.551336,34.314681],
-  "geometry": {"coordinates":[-86.551336,34.314681],"type":"Point"}
+  "bbox": [
+    -86.551336,
+    34.314681,
+    -86.551336,
+    34.314681
+],
+  "geometry": {"coordinates":[-86.55133600000001,34.314681],"type":"Point"}
 }

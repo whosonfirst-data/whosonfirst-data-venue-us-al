@@ -2,13 +2,14 @@
   "id": 152324187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.615275,33.617567,-86.615275,33.617567",
     "geom:latitude":33.617567,
     "geom:longitude":-86.615275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"936 US Hwy 11",
     "sg:city":"Trussville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808783,
+        85688675,
         85633793,
         85913473,
         102085481,
-        85688675
+        85808783
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152324187,
-    "wof:lastmodified":1449047000,
+    "wof:lastmodified":1466317318,
     "wof:name":"Argo Presbyterian Church",
     "wof:parent_id":85808783,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.615275,33.617567,-86.615275,33.617567],
+  "bbox": [
+    -86.615275,
+    33.617567,
+    -86.615275,
+    33.617567
+],
   "geometry": {"coordinates":[-86.615275,33.617567],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152720161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.287573,32.879569,-87.287573,32.879569",
     "geom:latitude":32.879569,
     "geom:longitude":-87.287573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1643 Peach Orchard Rd",
     "sg:city":"Brent",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152720161,
-    "wof:lastmodified":1449045397,
+    "wof:lastmodified":1466319441,
     "wof:name":"Rogers Logging Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.287573,32.879569,-87.287573,32.879569],
-  "geometry": {"coordinates":[-87.287573,32.879569],"type":"Point"}
+  "bbox": [
+    -87.287573,
+    32.879569,
+    -87.287573,
+    32.879569
+],
+  "geometry": {"coordinates":[-87.28757299999999,32.879569],"type":"Point"}
 }

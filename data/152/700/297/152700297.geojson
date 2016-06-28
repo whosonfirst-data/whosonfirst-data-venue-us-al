@@ -2,13 +2,14 @@
   "id": 152700297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.3986,33.911257,-86.3986,33.911257",
     "geom:latitude":33.911257,
     "geom:longitude":-86.3986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1460 Co Hwy 20",
     "sg:city":"Oneonta",
     "sg:classifiers":[
@@ -33,10 +34,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085667,
-        85633793,
         85688675,
-        85819523
+        85633793,
+        85819523,
+        102085667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152700297,
-    "wof:lastmodified":1449048516,
+    "wof:lastmodified":1466319482,
     "wof:name":"David Moores Shop",
     "wof:parent_id":85819523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.3986,33.911257,-86.3986,33.911257],
+  "bbox": [
+    -86.3986,
+    33.911257,
+    -86.3986,
+    33.911257
+],
   "geometry": {"coordinates":[-86.3986,33.911257],"type":"Point"}
 }

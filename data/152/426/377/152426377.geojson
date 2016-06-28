@@ -2,13 +2,14 @@
   "id": 152426377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.761314,33.382456,-86.761314,33.382456",
     "geom:latitude":33.382456,
     "geom:longitude":-86.761314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4515 Southlake Pkwy",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85858213
+        85633793,
+        85858213,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152426377,
-    "wof:lastmodified":1449045288,
+    "wof:lastmodified":1466317957,
     "wof:name":"Schaeffer Eye Center",
     "wof:parent_id":85858213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.761314,33.382456,-86.761314,33.382456],
+  "bbox": [
+    -86.761314,
+    33.382456,
+    -86.761314,
+    33.382456
+],
   "geometry": {"coordinates":[-86.761314,33.382456],"type":"Point"}
 }

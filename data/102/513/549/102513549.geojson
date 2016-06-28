@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102513549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.130158,30.65868,-88.130158,30.65868",
     "geom:latitude":30.65868,
     "geom:longitude":-88.130158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"712 Lakeside Dr",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.gulfcasters.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807453,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85807453
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102513549,
-    "wof:lastmodified":1449069372,
+    "wof:lastmodified":1466316998,
     "wof:name":"Casters & Equipment",
     "wof:parent_id":85807453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.130158,30.65868,-88.130158,30.65868],
-  "geometry": {"coordinates":[-88.130158,30.65868],"type":"Point"}
+  "bbox": [
+    -88.130158,
+    30.65868,
+    -88.130158,
+    30.65868
+],
+  "geometry": {"coordinates":[-88.13015799999999,30.65868],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152596907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.573474,34.699254,-86.573474,34.699254",
     "geom:latitude":34.699254,
     "geom:longitude":-86.573474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 Quincy Dr SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818149,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85818149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152596907,
-    "wof:lastmodified":1449046672,
+    "wof:lastmodified":1466319019,
     "wof:name":"Blue & Gray Rifle & Pisto",
     "wof:parent_id":85818149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.573474,34.699254,-86.573474,34.699254],
+  "bbox": [
+    -86.573474,
+    34.699254,
+    -86.573474,
+    34.699254
+],
   "geometry": {"coordinates":[-86.573474,34.699254],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 102622763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.198495,32.377227,-86.198495,32.377227",
     "geom:latitude":32.377227,
     "geom:longitude":-86.198495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6016 Meridan Ln",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834995,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85834995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102622763,
-    "wof:lastmodified":1449069735,
+    "wof:lastmodified":1466317473,
     "wof:name":"White Mobile Home Service",
     "wof:parent_id":85834995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.198495,32.377227,-86.198495,32.377227],
-  "geometry": {"coordinates":[-86.198495,32.377227],"type":"Point"}
+  "bbox": [
+    -86.198495,
+    32.377227,
+    -86.198495,
+    32.377227
+],
+  "geometry": {"coordinates":[-86.19849499999999,32.377227],"type":"Point"}
 }

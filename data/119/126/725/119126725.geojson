@@ -2,13 +2,14 @@
   "id": 119126725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.610177,34.745117,-86.610177,34.745117",
     "geom:latitude":34.745117,
     "geom:longitude":-86.610177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 Chester St NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85839083,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85839083
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":119126725,
-    "wof:lastmodified":1449041756,
+    "wof:lastmodified":1466314391,
     "wof:name":"Ancient & Accepted Scotti",
     "wof:parent_id":85839083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.610177,34.745117,-86.610177,34.745117],
-  "geometry": {"coordinates":[-86.610177,34.745117],"type":"Point"}
+  "bbox": [
+    -86.610177,
+    34.745117,
+    -86.610177,
+    34.745117
+],
+  "geometry": {"coordinates":[-86.61017699999999,34.745117],"type":"Point"}
 }

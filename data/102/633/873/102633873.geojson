@@ -2,13 +2,14 @@
   "id": 102633873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.871068,33.5234,-86.871068,33.5234",
     "geom:latitude":33.5234,
     "geom:longitude":-86.871068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2748 Republic Blvd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847929,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85847929
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102633873,
-    "wof:lastmodified":1449070189,
+    "wof:lastmodified":1466317548,
     "wof:name":"Secured Data of America Inc",
     "wof:parent_id":85847929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.871068,33.5234,-86.871068,33.5234],
-  "geometry": {"coordinates":[-86.871068,33.5234],"type":"Point"}
+  "bbox": [
+    -86.871068,
+    33.5234,
+    -86.871068,
+    33.5234
+],
+  "geometry": {"coordinates":[-86.87106799999999,33.5234],"type":"Point"}
 }

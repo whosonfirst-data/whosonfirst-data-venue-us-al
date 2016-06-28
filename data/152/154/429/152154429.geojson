@@ -2,13 +2,14 @@
   "id": 152154429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.591659,34.705121,-86.591659,34.705121",
     "geom:latitude":34.705121,
     "geom:longitude":-86.591659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3050 Leeman Ferry Rd SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152154429,
-    "wof:lastmodified":1449048958,
+    "wof:lastmodified":1466314785,
     "wof:name":"Bentley Mazda",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.591659,34.705121,-86.591659,34.705121],
-  "geometry": {"coordinates":[-86.591659,34.705121],"type":"Point"}
+  "bbox": [
+    -86.591659,
+    34.705121,
+    -86.591659,
+    34.705121
+],
+  "geometry": {"coordinates":[-86.59165900000001,34.705121],"type":"Point"}
 }

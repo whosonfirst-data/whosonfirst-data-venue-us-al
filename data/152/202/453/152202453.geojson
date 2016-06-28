@@ -2,13 +2,14 @@
   "id": 152202453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.299225,32.322007,-86.299225,32.322007",
     "geom:latitude":32.322007,
     "geom:longitude":-86.299225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4230 Norman Bridge Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152202453,
-    "wof:lastmodified":1449048321,
+    "wof:lastmodified":1466315935,
     "wof:name":"Abraham Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.299225,32.322007,-86.299225,32.322007],
-  "geometry": {"coordinates":[-86.299225,32.322007],"type":"Point"}
+  "bbox": [
+    -86.299225,
+    32.322007,
+    -86.299225,
+    32.322007
+],
+  "geometry": {"coordinates":[-86.29922500000001,32.322007],"type":"Point"}
 }

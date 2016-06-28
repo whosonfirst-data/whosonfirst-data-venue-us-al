@@ -2,13 +2,14 @@
   "id": 152331169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.239157,32.340902,-86.239157,32.340902",
     "geom:latitude":32.340902,
     "geom:longitude":-86.239157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2289 Semmes Dr",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152331169,
-    "wof:lastmodified":1449047110,
+    "wof:lastmodified":1466317272,
     "wof:name":"Keller Heckman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.239157,32.340902,-86.239157,32.340902],
-  "geometry": {"coordinates":[-86.239157,32.340902],"type":"Point"}
+  "bbox": [
+    -86.239157,
+    32.340902,
+    -86.239157,
+    32.340902
+],
+  "geometry": {"coordinates":[-86.23915700000001,32.340902],"type":"Point"}
 }

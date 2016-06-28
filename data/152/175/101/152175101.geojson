@@ -2,13 +2,14 @@
   "id": 152175101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.288891,32.35198,-86.288891,32.35198",
     "geom:latitude":32.35198,
     "geom:longitude":-86.288891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1104 E Fairview Ave",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.1048jazzandblues.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811493,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85811493
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152175101,
-    "wof:lastmodified":1449047503,
+    "wof:lastmodified":1466315638,
     "wof:name":"Ten Fortyeight Jazz & Blues",
     "wof:parent_id":85811493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.288891,32.35198,-86.288891,32.35198],
-  "geometry": {"coordinates":[-86.288891,32.35198],"type":"Point"}
+  "bbox": [
+    -86.288891,
+    32.35198,
+    -86.288891,
+    32.35198
+],
+  "geometry": {"coordinates":[-86.28889100000001,32.35198],"type":"Point"}
 }

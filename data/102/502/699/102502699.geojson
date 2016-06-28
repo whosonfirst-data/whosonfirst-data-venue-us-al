@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102502699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.272263,32.367368,-86.272263,32.367368",
     "geom:latitude":32.367368,
     "geom:longitude":-86.272263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2767 Chestnut St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.aisalabama.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85823265,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85823265
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":102502699,
-    "wof:lastmodified":1449068868,
+    "wof:lastmodified":1466316658,
     "wof:name":"Alabama Industrial Svc Co",
     "wof:parent_id":85823265,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.272263,32.367368,-86.272263,32.367368],
+  "bbox": [
+    -86.272263,
+    32.367368,
+    -86.272263,
+    32.367368
+],
   "geometry": {"coordinates":[-86.272263,32.367368],"type":"Point"}
 }

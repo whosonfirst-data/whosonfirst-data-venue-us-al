@@ -2,13 +2,14 @@
   "id": 152411821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.171519,32.374711,-86.171519,32.374711",
     "geom:latitude":32.374711,
     "geom:longitude":-86.171519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"495 Taylor Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885419,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85885419
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152411821,
-    "wof:lastmodified":1449044514,
+    "wof:lastmodified":1466317888,
     "wof:name":"Ob-Gyn Assoc Of Montgomery",
     "wof:parent_id":85885419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.171519,32.374711,-86.171519,32.374711],
+  "bbox": [
+    -86.171519,
+    32.374711,
+    -86.171519,
+    32.374711
+],
   "geometry": {"coordinates":[-86.171519,32.374711],"type":"Point"}
 }

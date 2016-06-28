@@ -2,13 +2,14 @@
   "id": 152790647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.663799,33.21549,-86.663799,33.21549",
     "geom:latitude":33.21549,
     "geom:longitude":-86.663799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4463 Joinertown Rd",
     "sg:city":"Columbiana",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825591,
+        85688675,
         85633793,
         85914497,
         102085499,
-        85688675
+        85825591
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152790647,
-    "wof:lastmodified":1449047840,
+    "wof:lastmodified":1466319796,
     "wof:name":"Connell Flooring",
     "wof:parent_id":85825591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.663799,33.21549,-86.663799,33.21549],
+  "bbox": [
+    -86.663799,
+    33.21549,
+    -86.663799,
+    33.21549
+],
   "geometry": {"coordinates":[-86.663799,33.21549],"type":"Point"}
 }

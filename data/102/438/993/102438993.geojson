@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102438993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.80043,33.394216,-86.80043,33.394216",
     "geom:latitude":33.394216,
     "geom:longitude":-86.80043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2061 Patton Chapel Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858879,
+        85688675,
         85633793,
         85914475,
         102085481,
-        85688675
+        85858879
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102438993,
-    "wof:lastmodified":1449068604,
+    "wof:lastmodified":1466314722,
     "wof:name":"St Peter Apostle",
     "wof:parent_id":85858879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.80043,33.394216,-86.80043,33.394216],
-  "geometry": {"coordinates":[-86.80043,33.394216],"type":"Point"}
+  "bbox": [
+    -86.80043,
+    33.394216,
+    -86.80043,
+    33.394216
+],
+  "geometry": {"coordinates":[-86.80043000000001,33.394216],"type":"Point"}
 }

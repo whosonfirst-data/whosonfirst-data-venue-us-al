@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102515945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.781621,33.47953,-86.781621,33.47953",
     "geom:latitude":33.47953,
     "geom:longitude":-86.781621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"223 Poinciana Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85845971,
+        85688675,
         85633793,
         85914847,
         102085481,
-        85688675
+        85845971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102515945,
-    "wof:lastmodified":1449068350,
+    "wof:lastmodified":1466317028,
     "wof:name":"Documentary Depot",
     "wof:parent_id":85845971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.781621,33.47953,-86.781621,33.47953],
+  "bbox": [
+    -86.781621,
+    33.47953,
+    -86.781621,
+    33.47953
+],
   "geometry": {"coordinates":[-86.781621,33.47953],"type":"Point"}
 }

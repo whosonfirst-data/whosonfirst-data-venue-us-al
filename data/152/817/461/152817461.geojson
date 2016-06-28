@@ -2,13 +2,14 @@
   "id": 152817461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.67491,34.523328,-85.67491,34.523328",
     "geom:latitude":34.523328,
     "geom:longitude":-85.67491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1428 68th St NW",
     "sg:city":"Fort Payne",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834595,
+        85688675,
         85633793,
         85897515,
         102085615,
-        85688675
+        85834595
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152817461,
-    "wof:lastmodified":1449048016,
+    "wof:lastmodified":1466319945,
     "wof:name":"Tim Kerns Cattle Farm",
     "wof:parent_id":85834595,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.67491,34.523328,-85.67491,34.523328],
+  "bbox": [
+    -85.67491,
+    34.523328,
+    -85.67491,
+    34.523328
+],
   "geometry": {"coordinates":[-85.67491,34.523328],"type":"Point"}
 }

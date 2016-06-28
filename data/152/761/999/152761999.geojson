@@ -2,13 +2,14 @@
   "id": 152761999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.832225,31.307846,-85.832225,31.307846",
     "geom:latitude":31.307846,
     "geom:longitude":-85.832225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1315 E Park Ave",
     "sg:city":"Enterprise",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152761999,
-    "wof:lastmodified":1449047819,
+    "wof:lastmodified":1466319668,
     "wof:name":"Enterprise Inland Sun Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.832225,31.307846,-85.832225,31.307846],
-  "geometry": {"coordinates":[-85.832225,31.307846],"type":"Point"}
+  "bbox": [
+    -85.832225,
+    31.307846,
+    -85.832225,
+    31.307846
+],
+  "geometry": {"coordinates":[-85.83222499999999,31.307846],"type":"Point"}
 }

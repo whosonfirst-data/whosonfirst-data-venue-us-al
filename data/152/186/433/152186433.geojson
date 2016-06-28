@@ -2,13 +2,14 @@
   "id": 152186433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.579169,34.74502,-86.579169,34.74502",
     "geom:latitude":34.74502,
     "geom:longitude":-86.579169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"414 Stevens Ave NE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878235,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878235
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152186433,
-    "wof:lastmodified":1449047915,
+    "wof:lastmodified":1466315752,
     "wof:name":"Purdy McGee Painting and Contr",
     "wof:parent_id":85878235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.579169,34.74502,-86.579169,34.74502],
-  "geometry": {"coordinates":[-86.579169,34.74502],"type":"Point"}
+  "bbox": [
+    -86.579169,
+    34.74502,
+    -86.579169,
+    34.74502
+],
+  "geometry": {"coordinates":[-86.57916899999999,34.74502],"type":"Point"}
 }

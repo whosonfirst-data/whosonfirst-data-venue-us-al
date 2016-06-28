@@ -2,13 +2,14 @@
   "id": 152537749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.818253,33.523417,-86.818253,33.523417",
     "geom:latitude":33.523417,
     "geom:longitude":-86.818253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1614 11th Ave N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820315,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85820315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":152537749,
-    "wof:lastmodified":1449045428,
+    "wof:lastmodified":1466318547,
     "wof:name":"Flora Mc Ghee Charm School",
     "wof:parent_id":85820315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.818253,33.523417,-86.818253,33.523417],
+  "bbox": [
+    -86.818253,
+    33.523417,
+    -86.818253,
+    33.523417
+],
   "geometry": {"coordinates":[-86.818253,33.523417],"type":"Point"}
 }

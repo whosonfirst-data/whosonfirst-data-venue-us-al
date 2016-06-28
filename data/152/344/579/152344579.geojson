@@ -2,13 +2,14 @@
   "id": 152344579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.893881,30.555245,-87.893881,30.555245",
     "geom:latitude":30.555245,
     "geom:longitude":-87.893881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7525 Assunta Ct",
     "sg:city":"Fairhope",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.garney.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847563,
+        85688675,
         85633793,
         85914707,
         102085469,
-        85688675
+        85847563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152344579,
-    "wof:lastmodified":1449044530,
+    "wof:lastmodified":1466317539,
     "wof:name":"Garney Co Inc",
     "wof:parent_id":85847563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.893881,30.555245,-87.893881,30.555245],
-  "geometry": {"coordinates":[-87.893881,30.555245],"type":"Point"}
+  "bbox": [
+    -87.893881,
+    30.555245,
+    -87.893881,
+    30.555245
+],
+  "geometry": {"coordinates":[-87.89388099999999,30.555245],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102453519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.60601,34.71241,-86.60601,34.71241",
     "geom:latitude":34.71241,
     "geom:longitude":-86.60601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3015 12th Ave SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85855713,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85855713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102453519,
-    "wof:lastmodified":1449069598,
+    "wof:lastmodified":1466314779,
     "wof:name":"Bob Wallace Appl Warehouse",
     "wof:parent_id":85855713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.60601,34.71241,-86.60601,34.71241],
+  "bbox": [
+    -86.60601,
+    34.71241,
+    -86.60601,
+    34.71241
+],
   "geometry": {"coordinates":[-86.60601,34.71241],"type":"Point"}
 }

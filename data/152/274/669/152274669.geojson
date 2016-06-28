@@ -2,13 +2,14 @@
   "id": 152274669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.798532,33.602213,-86.798532,33.602213",
     "geom:latitude":33.602213,
     "geom:longitude":-86.798532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1012 Decatur Hwy",
     "sg:city":"Fultondale",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152274669,
-    "wof:lastmodified":1449044867,
+    "wof:lastmodified":1466316855,
     "wof:name":"Global Coffee Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.798532,33.602213,-86.798532,33.602213],
-  "geometry": {"coordinates":[-86.798532,33.602213],"type":"Point"}
+  "bbox": [
+    -86.798532,
+    33.602213,
+    -86.798532,
+    33.602213
+],
+  "geometry": {"coordinates":[-86.79853199999999,33.602213],"type":"Point"}
 }

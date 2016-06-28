@@ -2,13 +2,14 @@
   "id": 152398421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.850734,31.327008,-85.850734,31.327008",
     "geom:latitude":31.327008,
     "geom:longitude":-85.850734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Heath",
     "sg:city":"Enterprise",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.stlukeonline.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825461,
+        85688675,
         85633793,
         85899527,
         102085699,
-        85688675
+        85825461
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152398421,
-    "wof:lastmodified":1449044675,
+    "wof:lastmodified":1466317839,
     "wof:name":"St Luke United Methodist Chr",
     "wof:parent_id":85825461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.850734,31.327008,-85.850734,31.327008],
+  "bbox": [
+    -85.850734,
+    31.327008,
+    -85.850734,
+    31.327008
+],
   "geometry": {"coordinates":[-85.850734,31.327008],"type":"Point"}
 }

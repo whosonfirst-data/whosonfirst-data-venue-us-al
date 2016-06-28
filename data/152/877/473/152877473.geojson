@@ -2,13 +2,14 @@
   "id": 152877473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.886092,34.526594,-86.886092,34.526594",
     "geom:latitude":34.526594,
     "geom:longitude":-86.886092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"326 Skidmore Rd",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085531,
-        85633793,
         85688675,
-        85808557
+        85633793,
+        85808557,
+        102085531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152877473,
-    "wof:lastmodified":1449047541,
+    "wof:lastmodified":1466320239,
     "wof:name":"Priceville Fire Prevention & S",
     "wof:parent_id":85808557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.886092,34.526594,-86.886092,34.526594],
+  "bbox": [
+    -86.886092,
+    34.526594,
+    -86.886092,
+    34.526594
+],
   "geometry": {"coordinates":[-86.886092,34.526594],"type":"Point"}
 }

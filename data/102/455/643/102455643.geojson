@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102455643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.828067,33.518826,-86.828067,33.518826",
     "geom:latitude":33.518826,
     "geom:longitude":-86.828067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"508 10th Ter N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85849097,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85849097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102455643,
-    "wof:lastmodified":1449069771,
+    "wof:lastmodified":1466314868,
     "wof:name":"Home Baking",
     "wof:parent_id":85849097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.828067,33.518826,-86.828067,33.518826],
+  "bbox": [
+    -86.828067,
+    33.518826,
+    -86.828067,
+    33.518826
+],
   "geometry": {"coordinates":[-86.828067,33.518826],"type":"Point"}
 }

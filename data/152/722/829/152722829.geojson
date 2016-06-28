@@ -2,13 +2,14 @@
   "id": 152722829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.975546,32.9488,-85.975546,32.9488",
     "geom:latitude":32.9488,
     "geom:longitude":-85.975546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 Washington St",
     "sg:city":"Alexander City",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840481,
+        85688675,
         85633793,
         85913363,
         102085567,
-        85688675
+        85840481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152722829,
-    "wof:lastmodified":1449045933,
+    "wof:lastmodified":1466319478,
     "wof:name":"Lynch Lawn Service",
     "wof:parent_id":85840481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.975546,32.9488,-85.975546,32.9488],
-  "geometry": {"coordinates":[-85.975546,32.9488],"type":"Point"}
+  "bbox": [
+    -85.975546,
+    32.9488,
+    -85.975546,
+    32.9488
+],
+  "geometry": {"coordinates":[-85.97554599999999,32.9488],"type":"Point"}
 }

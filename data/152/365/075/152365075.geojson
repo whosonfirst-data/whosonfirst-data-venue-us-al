@@ -2,13 +2,14 @@
   "id": 152365075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.670031,33.619799,-86.670031,33.619799",
     "geom:latitude":33.619799,
     "geom:longitude":-86.670031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"812 Springlake Cir NE",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085481,
-        85633793,
         85688675,
-        85816403
+        85633793,
+        85816403,
+        102085481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152365075,
-    "wof:lastmodified":1449045046,
+    "wof:lastmodified":1466317777,
     "wof:name":"Coker Appliance Service",
     "wof:parent_id":85816403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.670031,33.619799,-86.670031,33.619799],
-  "geometry": {"coordinates":[-86.670031,33.619799],"type":"Point"}
+  "bbox": [
+    -86.670031,
+    33.619799,
+    -86.670031,
+    33.619799
+],
+  "geometry": {"coordinates":[-86.67003099999999,33.619799],"type":"Point"}
 }

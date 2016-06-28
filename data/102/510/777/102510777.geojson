@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102510777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.578026,33.201324,-87.578026,33.201324",
     "geom:latitude":33.201324,
     "geom:longitude":-87.578026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3205 10th St",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085553,
-        85633793,
         85688675,
-        85812491
+        85633793,
+        85812491,
+        102085553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":102510777,
-    "wof:lastmodified":1449069185,
+    "wof:lastmodified":1466316712,
     "wof:name":"Tracy's Westend Diner",
     "wof:parent_id":85812491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.578026,33.201324,-87.578026,33.201324],
-  "geometry": {"coordinates":[-87.578026,33.201324],"type":"Point"}
+  "bbox": [
+    -87.578026,
+    33.201324,
+    -87.578026,
+    33.201324
+],
+  "geometry": {"coordinates":[-87.57802599999999,33.201324],"type":"Point"}
 }

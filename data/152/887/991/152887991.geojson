@@ -2,13 +2,14 @@
   "id": 152887991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.539538,34.785213,-86.539538,34.785213",
     "geom:latitude":34.785213,
     "geom:longitude":-86.539538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"850 Chase Rd NE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833793,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85833793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152887991,
-    "wof:lastmodified":1449048006,
+    "wof:lastmodified":1466320269,
     "wof:name":"Coppersmith Inc",
     "wof:parent_id":85833793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.539538,34.785213,-86.539538,34.785213],
-  "geometry": {"coordinates":[-86.539538,34.785213],"type":"Point"}
+  "bbox": [
+    -86.539538,
+    34.785213,
+    -86.539538,
+    34.785213
+],
+  "geometry": {"coordinates":[-86.53953799999999,34.785213],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102466139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.760899,33.786681,-85.760899,33.786681",
     "geom:latitude":33.786681,
     "geom:longitude":-85.760899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1628 Pelham Rd S",
     "sg:city":"Jacksonville",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805945,
+        85688675,
         85633793,
         85914293,
         102085603,
-        85688675
+        85805945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102466139,
-    "wof:lastmodified":1449068498,
+    "wof:lastmodified":1466315104,
     "wof:name":"Jacksonville Auto Sales",
     "wof:parent_id":85805945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.760899,33.786681,-85.760899,33.786681],
-  "geometry": {"coordinates":[-85.760899,33.786681],"type":"Point"}
+  "bbox": [
+    -85.760899,
+    33.786681,
+    -85.760899,
+    33.786681
+],
+  "geometry": {"coordinates":[-85.76089899999999,33.786681],"type":"Point"}
 }

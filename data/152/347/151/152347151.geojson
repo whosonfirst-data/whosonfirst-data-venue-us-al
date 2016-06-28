@@ -2,13 +2,14 @@
   "id": 152347151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.611762,34.73529,-86.611762,34.73529",
     "geom:latitude":34.73529,
     "geom:longitude":-86.611762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2805 University Dr NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851965,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85851965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152347151,
-    "wof:lastmodified":1449046539,
+    "wof:lastmodified":1466317646,
     "wof:name":"A-1 Quik Cash Advance Co",
     "wof:parent_id":85851965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.611762,34.73529,-86.611762,34.73529],
+  "bbox": [
+    -86.611762,
+    34.73529,
+    -86.611762,
+    34.73529
+],
   "geometry": {"coordinates":[-86.611762,34.73529],"type":"Point"}
 }

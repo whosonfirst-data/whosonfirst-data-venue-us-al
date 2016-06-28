@@ -2,13 +2,14 @@
   "id": 152124457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.408971,33.624304,-86.408971,33.624304",
     "geom:latitude":33.624304,
     "geom:longitude":-86.408971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4025 Kelly Creek Rd",
     "sg:city":"Odenville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807031,
+        85688675,
         85633793,
         85913421,
         102085647,
-        85688675
+        85807031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152124457,
-    "wof:lastmodified":1449048560,
+    "wof:lastmodified":1466314709,
     "wof:name":"Bald Rock Mountain Farm",
     "wof:parent_id":85807031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.408971,33.624304,-86.408971,33.624304],
-  "geometry": {"coordinates":[-86.408971,33.624304],"type":"Point"}
+  "bbox": [
+    -86.408971,
+    33.624304,
+    -86.408971,
+    33.624304
+],
+  "geometry": {"coordinates":[-86.40897099999999,33.624304],"type":"Point"}
 }

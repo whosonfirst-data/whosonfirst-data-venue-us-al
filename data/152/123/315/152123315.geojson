@@ -2,13 +2,14 @@
   "id": 152123315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.910439,30.668482,-87.910439,30.668482",
     "geom:latitude":30.668482,
     "geom:longitude":-87.910439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6510 Spanish Fort Blvd",
     "sg:city":"Spanish Fort",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85807399,
+        85688675,
         85633793,
         85914741,
         102085469,
-        85688675
+        85807399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152123315,
-    "wof:lastmodified":1449045689,
+    "wof:lastmodified":1466314641,
     "wof:name":"Allball and Cleaners",
     "wof:parent_id":85807399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.910439,30.668482,-87.910439,30.668482],
+  "bbox": [
+    -87.910439,
+    30.668482,
+    -87.910439,
+    30.668482
+],
   "geometry": {"coordinates":[-87.910439,30.668482],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152887803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.024724,30.946727,-88.024724,30.946727",
     "geom:latitude":30.946727,
     "geom:longitude":-88.024724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11875 US Hwy 43",
     "sg:city":"Axis",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085469,
-        85633793,
         85688675,
-        85878983
+        85633793,
+        85878983,
+        102085469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152887803,
-    "wof:lastmodified":1449048007,
+    "wof:lastmodified":1466320267,
     "wof:name":"Trimjoist Corp",
     "wof:parent_id":85878983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.024724,30.946727,-88.024724,30.946727],
-  "geometry": {"coordinates":[-88.024724,30.946727],"type":"Point"}
+  "bbox": [
+    -88.024724,
+    30.946727,
+    -88.024724,
+    30.946727
+],
+  "geometry": {"coordinates":[-88.02472400000001,30.946727],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152700767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.382111,31.371801,-87.382111,31.371801",
     "geom:latitude":31.371801,
     "geom:longitude":-87.382111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5581 Butler St",
     "sg:city":"Frisco City",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152700767,
-    "wof:lastmodified":1449048516,
+    "wof:lastmodified":1466319492,
     "wof:name":"Frank & Muriel Kinsey",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.382111,31.371801,-87.382111,31.371801],
-  "geometry": {"coordinates":[-87.382111,31.371801],"type":"Point"}
+  "bbox": [
+    -87.382111,
+    31.371801,
+    -87.382111,
+    31.371801
+],
+  "geometry": {"coordinates":[-87.38211099999999,31.371801],"type":"Point"}
 }

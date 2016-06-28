@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102472529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.672246,34.772617,-87.672246,34.772617",
     "geom:latitude":34.772617,
     "geom:longitude":-87.672246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4100 Hatch Blvd",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848135,
+        85688675,
         85633793,
         85897473,
         102085625,
-        85688675
+        85848135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102472529,
-    "wof:lastmodified":1449067983,
+    "wof:lastmodified":1466315344,
     "wof:name":"For Your Health",
     "wof:parent_id":85848135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.672246,34.772617,-87.672246,34.772617],
+  "bbox": [
+    -87.672246,
+    34.772617,
+    -87.672246,
+    34.772617
+],
   "geometry": {"coordinates":[-87.672246,34.772617],"type":"Point"}
 }

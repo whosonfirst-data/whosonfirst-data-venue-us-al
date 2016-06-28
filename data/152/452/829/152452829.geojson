@@ -2,13 +2,14 @@
   "id": 152452829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.286521,34.304678,-86.286521,34.304678",
     "geom:latitude":34.304678,
     "geom:longitude":-86.286521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12091 US Hwy 431",
     "sg:city":"Guntersville",
     "sg:classifiers":[
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":152452829,
-    "wof:lastmodified":1449045383,
+    "wof:lastmodified":1466318004,
     "wof:name":"Payne & Payne Enterprise Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.286521,34.304678,-86.286521,34.304678],
-  "geometry": {"coordinates":[-86.286521,34.304678],"type":"Point"}
+  "bbox": [
+    -86.286521,
+    34.304678,
+    -86.286521,
+    34.304678
+],
+  "geometry": {"coordinates":[-86.28652099999999,34.304678],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152186795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.003092,34.587639,-87.003092,34.587639",
     "geom:latitude":34.587639,
     "geom:longitude":-87.003092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1206 Freemont St SW",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848819,
+        85688675,
         85633793,
         85913589,
         102085531,
-        85688675
+        85848819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152186795,
-    "wof:lastmodified":1449047914,
+    "wof:lastmodified":1466315770,
     "wof:name":"Truly Blesses Organization Inc",
     "wof:parent_id":85848819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.003092,34.587639,-87.003092,34.587639],
+  "bbox": [
+    -87.003092,
+    34.587639,
+    -87.003092,
+    34.587639
+],
   "geometry": {"coordinates":[-87.003092,34.587639],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152438803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.627275,33.607018,-86.627275,33.607018",
     "geom:latitude":33.607018,
     "geom:longitude":-86.627275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3556 Mary Taylor Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852855,
+        85688675,
         85633793,
         85913473,
         102085481,
-        85688675
+        85852855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152438803,
-    "wof:lastmodified":1449045871,
+    "wof:lastmodified":1466318110,
     "wof:name":"Consolidated Power Supply 65",
     "wof:parent_id":85852855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.627275,33.607018,-86.627275,33.607018],
+  "bbox": [
+    -86.627275,
+    33.607018,
+    -86.627275,
+    33.607018
+],
   "geometry": {"coordinates":[-86.627275,33.607018],"type":"Point"}
 }

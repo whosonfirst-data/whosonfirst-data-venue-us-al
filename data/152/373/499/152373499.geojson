@@ -2,13 +2,14 @@
   "id": 152373499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.278624,34.481874,-87.278624,34.481874",
     "geom:latitude":34.481874,
     "geom:longitude":-87.278624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15324 Court St",
     "sg:city":"Moulton",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085601,
-        85633793,
         85688675,
-        85851971
+        85633793,
+        85851971,
+        102085601
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152373499,
-    "wof:lastmodified":1449046692,
+    "wof:lastmodified":1466317684,
     "wof:name":"Consolidated Concepts Inc",
     "wof:parent_id":85851971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.278624,34.481874,-87.278624,34.481874],
-  "geometry": {"coordinates":[-87.278624,34.481874],"type":"Point"}
+  "bbox": [
+    -87.278624,
+    34.481874,
+    -87.278624,
+    34.481874
+],
+  "geometry": {"coordinates":[-87.27862399999999,34.481874],"type":"Point"}
 }

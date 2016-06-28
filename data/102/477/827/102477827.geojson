@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102477827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.045493,30.692452,-88.045493,30.692452",
     "geom:latitude":30.692452,
     "geom:longitude":-88.045493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"52 N Jackson St",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.pageandjones.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878959,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85878959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102477827,
-    "wof:lastmodified":1449068220,
+    "wof:lastmodified":1466315477,
     "wof:name":"Page & Jones Inc",
     "wof:parent_id":85878959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.045493,30.692452,-88.045493,30.692452],
-  "geometry": {"coordinates":[-88.045493,30.692452],"type":"Point"}
+  "bbox": [
+    -88.045493,
+    30.692452,
+    -88.045493,
+    30.692452
+],
+  "geometry": {"coordinates":[-88.04549299999999,30.692452],"type":"Point"}
 }

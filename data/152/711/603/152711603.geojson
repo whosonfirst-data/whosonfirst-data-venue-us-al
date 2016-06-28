@@ -2,13 +2,14 @@
   "id": 152711603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.584504,33.200957,-87.584504,33.200957",
     "geom:latitude":33.200957,
     "geom:longitude":-87.584504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3618 Stillman Blvd",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085553,
-        85633793,
         85688675,
-        85812491
+        85633793,
+        85812491,
+        102085553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152711603,
-    "wof:lastmodified":1449048075,
+    "wof:lastmodified":1466319417,
     "wof:name":"Le-Shiek",
     "wof:parent_id":85812491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.584504,33.200957,-87.584504,33.200957],
+  "bbox": [
+    -87.584504,
+    33.200957,
+    -87.584504,
+    33.200957
+],
   "geometry": {"coordinates":[-87.584504,33.200957],"type":"Point"}
 }

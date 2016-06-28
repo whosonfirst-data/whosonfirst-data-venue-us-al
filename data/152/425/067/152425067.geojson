@@ -2,13 +2,14 @@
   "id": 152425067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.486103,32.630988,-85.486103,32.630988",
     "geom:latitude":32.630988,
     "geom:longitude":-85.486103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1237 Juniper Dr",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152425067,
-    "wof:lastmodified":1449045940,
+    "wof:lastmodified":1466317951,
     "wof:name":"ASAP Word Processing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.486103,32.630988,-85.486103,32.630988],
+  "bbox": [
+    -85.486103,
+    32.630988,
+    -85.486103,
+    32.630988
+],
   "geometry": {"coordinates":[-85.486103,32.630988],"type":"Point"}
 }

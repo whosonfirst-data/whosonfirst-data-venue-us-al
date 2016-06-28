@@ -2,13 +2,14 @@
   "id": 152682587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.473957,33.22419,-86.473957,33.22419",
     "geom:latitude":33.22419,
     "geom:longitude":-86.473957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"647 Brothers Ave",
     "sg:city":"Wilsonville",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085499,
-        85633793,
         85688675,
-        85841999
+        85633793,
+        85841999,
+        102085499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152682587,
-    "wof:lastmodified":1449045113,
+    "wof:lastmodified":1466319331,
     "wof:name":"Flanagan Construction Co",
     "wof:parent_id":85841999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.473957,33.22419,-86.473957,33.22419],
+  "bbox": [
+    -86.473957,
+    33.22419,
+    -86.473957,
+    33.22419
+],
   "geometry": {"coordinates":[-86.473957,33.22419],"type":"Point"}
 }

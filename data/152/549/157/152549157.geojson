@@ -2,13 +2,14 @@
   "id": 152549157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.241835,32.38217,-86.241835,32.38217",
     "geom:latitude":32.38217,
     "geom:longitude":-86.241835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4041 Atlanta Hwy",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813403,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85813403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152549157,
-    "wof:lastmodified":1449045573,
+    "wof:lastmodified":1466318574,
     "wof:name":"Olan Mills Portrait Studios",
     "wof:parent_id":85813403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.241835,32.38217,-86.241835,32.38217],
-  "geometry": {"coordinates":[-86.241835,32.38217],"type":"Point"}
+  "bbox": [
+    -86.241835,
+    32.38217,
+    -86.241835,
+    32.38217
+],
+  "geometry": {"coordinates":[-86.24183499999999,32.38217],"type":"Point"}
 }

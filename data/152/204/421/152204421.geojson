@@ -2,13 +2,14 @@
   "id": 152204421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.977721,33.995156,-85.977721,33.995156",
     "geom:latitude":33.995156,
     "geom:longitude":-85.977721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1409 Stroud Ave",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822279,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85822279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152204421,
-    "wof:lastmodified":1449049030,
+    "wof:lastmodified":1466315879,
     "wof:name":"Aoh Church of God Inc",
     "wof:parent_id":85822279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.977721,33.995156,-85.977721,33.995156],
+  "bbox": [
+    -85.977721,
+    33.995156,
+    -85.977721,
+    33.995156
+],
   "geometry": {"coordinates":[-85.977721,33.995156],"type":"Point"}
 }

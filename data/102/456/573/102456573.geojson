@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102456573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.628937,34.740584,-86.628937,34.740584",
     "geom:latitude":34.740584,
     "geom:longitude":-86.628937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4620 Commercial Dr NW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85846449,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85846449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102456573,
-    "wof:lastmodified":1449068497,
+    "wof:lastmodified":1466314908,
     "wof:name":"Geo Solutions",
     "wof:parent_id":85846449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.628937,34.740584,-86.628937,34.740584],
-  "geometry": {"coordinates":[-86.628937,34.740584],"type":"Point"}
+  "bbox": [
+    -86.628937,
+    34.740584,
+    -86.628937,
+    34.740584
+],
+  "geometry": {"coordinates":[-86.62893699999999,34.740584],"type":"Point"}
 }

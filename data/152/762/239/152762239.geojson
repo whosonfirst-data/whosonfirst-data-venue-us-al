@@ -2,13 +2,14 @@
   "id": 152762239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.351147,32.37173,-86.351147,32.37173",
     "geom:latitude":32.37173,
     "geom:longitude":-86.351147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Selfridge St",
     "sg:city":"Maxwell Afb",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856867,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675,
+        85856867,
         85832931
     ],
     "wof:breaches":[],
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":152762239,
-    "wof:lastmodified":1449047559,
+    "wof:lastmodified":1466319624,
     "wof:name":"Maxwell Service Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.351147,32.37173,-86.351147,32.37173],
+  "bbox": [
+    -86.351147,
+    32.37173,
+    -86.351147,
+    32.37173
+],
   "geometry": {"coordinates":[-86.351147,32.37173],"type":"Point"}
 }

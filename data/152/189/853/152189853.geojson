@@ -2,13 +2,14 @@
   "id": 152189853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.971598,32.930245,-85.971598,32.930245",
     "geom:latitude":32.930245,
     "geom:longitude":-85.971598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Alison Dr",
     "sg:city":"Alexander City",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840481,
+        85688675,
         85633793,
         85913363,
         102085567,
-        85688675
+        85840481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152189853,
-    "wof:lastmodified":1449047564,
+    "wof:lastmodified":1466315793,
     "wof:name":"Alacare Home Health & Hospice",
     "wof:parent_id":85840481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.971598,32.930245,-85.971598,32.930245],
+  "bbox": [
+    -85.971598,
+    32.930245,
+    -85.971598,
+    32.930245
+],
   "geometry": {"coordinates":[-85.971598,32.930245],"type":"Point"}
 }

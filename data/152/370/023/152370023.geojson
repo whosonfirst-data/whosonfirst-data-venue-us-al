@@ -2,13 +2,14 @@
   "id": 152370023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.852358,31.31481,-85.852358,31.31481",
     "geom:latitude":31.31481,
     "geom:longitude":-85.852358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 S Edwards St",
     "sg:city":"Enterprise",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848823,
+        85688675,
         85633793,
         85899527,
         102085699,
-        85688675
+        85848823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152370023,
-    "wof:lastmodified":1449046824,
+    "wof:lastmodified":1466317794,
     "wof:name":"Oliver Charles Orthodontist PC",
     "wof:parent_id":85848823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.852358,31.31481,-85.852358,31.31481],
+  "bbox": [
+    -85.852358,
+    31.31481,
+    -85.852358,
+    31.31481
+],
   "geometry": {"coordinates":[-85.852358,31.31481],"type":"Point"}
 }

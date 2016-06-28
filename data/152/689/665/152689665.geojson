@@ -2,13 +2,14 @@
   "id": 152689665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.664117,33.484508,-86.664117,33.484508",
     "geom:latitude":33.484508,
     "geom:longitude":-86.664117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1077 Lake Colony Ln",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085481,
-        85633793,
         85688675,
-        85807947
+        85633793,
+        85807947,
+        102085481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152689665,
-    "wof:lastmodified":1449048140,
+    "wof:lastmodified":1466319078,
     "wof:name":"Plantation House Designs",
     "wof:parent_id":85807947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.664117,33.484508,-86.664117,33.484508],
+  "bbox": [
+    -86.664117,
+    33.484508,
+    -86.664117,
+    33.484508
+],
   "geometry": {"coordinates":[-86.664117,33.484508],"type":"Point"}
 }

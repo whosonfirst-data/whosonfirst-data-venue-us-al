@@ -2,13 +2,14 @@
   "id": 152619397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.854711,33.240842,-86.854711,33.240842",
     "geom:latitude":33.240842,
     "geom:longitude":-86.854711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7265 Co Rd 17",
     "sg:city":"Maylene",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847439,
+        85688675,
         85633793,
         85914487,
         102085499,
-        85688675
+        85847439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152619397,
-    "wof:lastmodified":1449045138,
+    "wof:lastmodified":1466318947,
     "wof:name":"Ctr Bikes Corp",
     "wof:parent_id":85847439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.854711,33.240842,-86.854711,33.240842],
-  "geometry": {"coordinates":[-86.854711,33.240842],"type":"Point"}
+  "bbox": [
+    -86.854711,
+    33.240842,
+    -86.854711,
+    33.240842
+],
+  "geometry": {"coordinates":[-86.85471099999999,33.240842],"type":"Point"}
 }

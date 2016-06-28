@@ -2,13 +2,14 @@
   "id": 152731351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.296884,34.354173,-86.296884,34.354173",
     "geom:latitude":34.354173,
     "geom:longitude":-86.296884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 Gunter Ave",
     "sg:city":"Guntersville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850331,
+        85688675,
         85633793,
         85899833,
         102085513,
-        85688675
+        85850331
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152731351,
-    "wof:lastmodified":1449048406,
+    "wof:lastmodified":1466319482,
     "wof:name":"Randy R Simpson DDS",
     "wof:parent_id":85850331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.296884,34.354173,-86.296884,34.354173],
-  "geometry": {"coordinates":[-86.296884,34.354173],"type":"Point"}
+  "bbox": [
+    -86.296884,
+    34.354173,
+    -86.296884,
+    34.354173
+],
+  "geometry": {"coordinates":[-86.29688400000001,34.354173],"type":"Point"}
 }

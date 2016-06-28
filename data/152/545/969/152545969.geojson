@@ -2,13 +2,14 @@
   "id": 152545969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.835975,33.663653,-85.835975,33.663653",
     "geom:latitude":33.663653,
     "geom:longitude":-85.835975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"532 W 15th St",
     "sg:city":"Anniston",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840061,
+        85688675,
         85633793,
         85914281,
         102085603,
-        85688675
+        85840061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152545969,
-    "wof:lastmodified":1449045405,
+    "wof:lastmodified":1466318613,
     "wof:name":"Miracle Revival Temple",
     "wof:parent_id":85840061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.835975,33.663653,-85.835975,33.663653],
+  "bbox": [
+    -85.835975,
+    33.663653,
+    -85.835975,
+    33.663653
+],
   "geometry": {"coordinates":[-85.835975,33.663653],"type":"Point"}
 }

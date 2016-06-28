@@ -2,13 +2,14 @@
   "id": 152580239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.233477,32.738225,-85.233477,32.738225",
     "geom:latitude":32.738225,
     "geom:longitude":-85.233477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Lee Road 268",
     "sg:city":"Cusseta",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152580239,
-    "wof:lastmodified":1449047413,
+    "wof:lastmodified":1466318992,
     "wof:name":"Old Path Christian Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.233477,32.738225,-85.233477,32.738225],
-  "geometry": {"coordinates":[-85.233477,32.738225],"type":"Point"}
+  "bbox": [
+    -85.233477,
+    32.738225,
+    -85.233477,
+    32.738225
+],
+  "geometry": {"coordinates":[-85.23347699999999,32.738225],"type":"Point"}
 }

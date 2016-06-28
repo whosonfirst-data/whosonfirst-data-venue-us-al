@@ -2,13 +2,14 @@
   "id": 152605555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.833291,33.467149,-86.833291,33.467149",
     "geom:latitude":33.467149,
     "geom:longitude":-86.833291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Summit Pkwy",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -33,11 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817409,
+        85688675,
         85633793,
         85914847,
         102085481,
-        85688675
+        85817409
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":152605555,
-    "wof:lastmodified":1449046559,
+    "wof:lastmodified":1466318876,
     "wof:name":"Lehe Planning LLC",
     "wof:parent_id":85817409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.833291,33.467149,-86.833291,33.467149],
+  "bbox": [
+    -86.833291,
+    33.467149,
+    -86.833291,
+    33.467149
+],
   "geometry": {"coordinates":[-86.833291,33.467149],"type":"Point"}
 }

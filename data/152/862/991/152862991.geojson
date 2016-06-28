@@ -2,13 +2,14 @@
   "id": 152862991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.543097,33.19455,-87.543097,33.19455",
     "geom:latitude":33.19455,
     "geom:longitude":-87.543097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 Hackberry Ln",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152862991,
-    "wof:lastmodified":1449049007,
+    "wof:lastmodified":1466320205,
     "wof:name":"Alabama Map & Data Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.543097,33.19455,-87.543097,33.19455],
+  "bbox": [
+    -87.543097,
+    33.19455,
+    -87.543097,
+    33.19455
+],
   "geometry": {"coordinates":[-87.543097,33.19455],"type":"Point"}
 }

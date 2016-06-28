@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102443603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.518886,32.540619,-85.518886,32.540619",
     "geom:latitude":32.540619,
     "geom:longitude":-85.518886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"537 Co Rd 10",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85846969,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85846969
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102443603,
-    "wof:lastmodified":1449069726,
+    "wof:lastmodified":1466314430,
     "wof:name":"Habistats Inc",
     "wof:parent_id":85846969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.518886,32.540619,-85.518886,32.540619],
-  "geometry": {"coordinates":[-85.518886,32.540619],"type":"Point"}
+  "bbox": [
+    -85.518886,
+    32.540619,
+    -85.518886,
+    32.540619
+],
+  "geometry": {"coordinates":[-85.51888599999999,32.540619],"type":"Point"}
 }

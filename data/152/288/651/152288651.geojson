@@ -2,13 +2,14 @@
   "id": 152288651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.670668,34.772546,-87.670668,34.772546",
     "geom:latitude":34.772546,
     "geom:longitude":-87.670668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4600 Hatch Blvd",
     "sg:city":"Sheffield",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848135,
+        85688675,
         85633793,
         85897473,
         102085625,
-        85688675
+        85848135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152288651,
-    "wof:lastmodified":1449044795,
+    "wof:lastmodified":1466316991,
     "wof:name":"Army Reserve",
     "wof:parent_id":85848135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.670668,34.772546,-87.670668,34.772546],
-  "geometry": {"coordinates":[-87.670668,34.772546],"type":"Point"}
+  "bbox": [
+    -87.670668,
+    34.772546,
+    -87.670668,
+    34.772546
+],
+  "geometry": {"coordinates":[-87.67066800000001,34.772546],"type":"Point"}
 }

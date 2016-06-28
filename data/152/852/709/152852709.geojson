@@ -2,13 +2,14 @@
   "id": 152852709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.370211,31.211688,-85.370211,31.211688",
     "geom:latitude":31.211688,
     "geom:longitude":-85.370211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1403 Alexander Dr",
     "sg:city":"Dothan",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847911,
+        85688675,
         85633793,
         85899531,
         102085441,
-        85688675
+        85847911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152852709,
-    "wof:lastmodified":1449048127,
+    "wof:lastmodified":1466320111,
     "wof:name":"Bennett Chantel",
     "wof:parent_id":85847911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.370211,31.211688,-85.370211,31.211688],
+  "bbox": [
+    -85.370211,
+    31.211688,
+    -85.370211,
+    31.211688
+],
   "geometry": {"coordinates":[-85.370211,31.211688],"type":"Point"}
 }

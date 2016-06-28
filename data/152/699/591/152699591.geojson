@@ -2,13 +2,14 @@
   "id": 152699591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.790909,33.534582,-86.790909,33.534582",
     "geom:latitude":33.534582,
     "geom:longitude":-86.790909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3521 Richard Arrington Jr Blvd N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85838531,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85838531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152699591,
-    "wof:lastmodified":1449044937,
+    "wof:lastmodified":1466319347,
     "wof:name":"Etowah Chemical Sales & Svc",
     "wof:parent_id":85838531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.790909,33.534582,-86.790909,33.534582],
+  "bbox": [
+    -86.790909,
+    33.534582,
+    -86.790909,
+    33.534582
+],
   "geometry": {"coordinates":[-86.790909,33.534582],"type":"Point"}
 }

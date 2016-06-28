@@ -2,13 +2,14 @@
   "id": 152543805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.781298,33.49474,-86.781298,33.49474",
     "geom:latitude":33.49474,
     "geom:longitude":-86.781298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2031 Cahaba Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876275,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85876275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152543805,
-    "wof:lastmodified":1449045206,
+    "wof:lastmodified":1466318564,
     "wof:name":"Ciao Italian Restaurant",
     "wof:parent_id":85876275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.781298,33.49474,-86.781298,33.49474],
-  "geometry": {"coordinates":[-86.781298,33.49474],"type":"Point"}
+  "bbox": [
+    -86.781298,
+    33.49474,
+    -86.781298,
+    33.49474
+],
+  "geometry": {"coordinates":[-86.78129800000001,33.49474],"type":"Point"}
 }

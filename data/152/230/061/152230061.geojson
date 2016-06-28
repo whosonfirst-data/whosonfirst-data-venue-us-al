@@ -2,13 +2,14 @@
   "id": 152230061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.80352,33.420657,-86.80352,33.420657",
     "geom:latitude":33.420657,
     "geom:longitude":-86.80352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2664 Southbury Cir",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840369,
+        85688675,
         85633793,
         85914483,
         102085481,
-        85688675
+        85840369
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152230061,
-    "wof:lastmodified":1449047734,
+    "wof:lastmodified":1466316318,
     "wof:name":"Sandcoast Rentals LLC",
     "wof:parent_id":85840369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.80352,33.420657,-86.80352,33.420657],
-  "geometry": {"coordinates":[-86.80352,33.420657],"type":"Point"}
+  "bbox": [
+    -86.80352,
+    33.420657,
+    -86.80352,
+    33.420657
+],
+  "geometry": {"coordinates":[-86.80352000000001,33.420657],"type":"Point"}
 }

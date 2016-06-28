@@ -2,13 +2,14 @@
   "id": 152875267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.090675,30.577342,-88.090675,30.577342",
     "geom:latitude":30.577342,
     "geom:longitude":-88.090675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1950 Riverforest Dr",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -30,10 +31,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085585,
-        85633793,
         85688675,
-        85878941
+        85633793,
+        85878941,
+        102085585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152875267,
-    "wof:lastmodified":1449047741,
+    "wof:lastmodified":1466320221,
     "wof:name":"Km Paper Pro Inc",
     "wof:parent_id":85878941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.090675,30.577342,-88.090675,30.577342],
+  "bbox": [
+    -88.090675,
+    30.577342,
+    -88.090675,
+    30.577342
+],
   "geometry": {"coordinates":[-88.090675,30.577342],"type":"Point"}
 }

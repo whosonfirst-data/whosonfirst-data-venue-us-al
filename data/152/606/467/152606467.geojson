@@ -2,13 +2,14 @@
   "id": 152606467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.122103,30.698548,-88.122103,30.698548",
     "geom:latitude":30.698548,
     "geom:longitude":-88.122103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 Furr St",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879003,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85879003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152606467,
-    "wof:lastmodified":1449045021,
+    "wof:lastmodified":1466318868,
     "wof:name":"A-A-P Distributors",
     "wof:parent_id":85879003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.122103,30.698548,-88.122103,30.698548],
+  "bbox": [
+    -88.122103,
+    30.698548,
+    -88.122103,
+    30.698548
+],
   "geometry": {"coordinates":[-88.122103,30.698548],"type":"Point"}
 }

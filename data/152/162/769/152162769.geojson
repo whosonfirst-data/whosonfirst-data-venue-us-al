@@ -2,13 +2,14 @@
   "id": 152162769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.967991,34.009411,-85.967991,34.009411",
     "geom:latitude":34.009411,
     "geom:longitude":-85.967991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"901 Goodyear Ave",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822279,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85822279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152162769,
-    "wof:lastmodified":1449048243,
+    "wof:lastmodified":1466315265,
     "wof:name":"CED Mental Health Ctr",
     "wof:parent_id":85822279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.967991,34.009411,-85.967991,34.009411],
+  "bbox": [
+    -85.967991,
+    34.009411,
+    -85.967991,
+    34.009411
+],
   "geometry": {"coordinates":[-85.967991,34.009411],"type":"Point"}
 }

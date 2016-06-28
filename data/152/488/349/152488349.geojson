@@ -2,13 +2,14 @@
   "id": 152488349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.738101,34.682265,-86.738101,34.682265",
     "geom:latitude":34.682265,
     "geom:longitude":-86.738101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8540 US Hwy 72 Alt",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831899,
+        85688675,
         85633793,
         85913593,
         102085487,
-        85688675,
+        85831899,
         85807231
     ],
     "wof:breaches":[],
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":152488349,
-    "wof:lastmodified":1449048794,
+    "wof:lastmodified":1466318255,
     "wof:name":"Brook Thrift Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.738101,34.682265,-86.738101,34.682265],
+  "bbox": [
+    -86.738101,
+    34.682265,
+    -86.738101,
+    34.682265
+],
   "geometry": {"coordinates":[-86.738101,34.682265],"type":"Point"}
 }

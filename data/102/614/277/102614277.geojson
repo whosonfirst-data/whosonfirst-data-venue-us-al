@@ -2,13 +2,14 @@
   "id": 102614277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.576811,34.720089,-86.576811,34.720089",
     "geom:latitude":34.720089,
     "geom:longitude":-86.576811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 US Hwy 431",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878239,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878239
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102614277,
-    "wof:lastmodified":1449070273,
+    "wof:lastmodified":1466317296,
     "wof:name":"Cecily & Me",
     "wof:parent_id":85878239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.576811,34.720089,-86.576811,34.720089],
-  "geometry": {"coordinates":[-86.576811,34.720089],"type":"Point"}
+  "bbox": [
+    -86.576811,
+    34.720089,
+    -86.576811,
+    34.720089
+],
+  "geometry": {"coordinates":[-86.57681100000001,34.720089],"type":"Point"}
 }

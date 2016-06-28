@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102504639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.214436,30.705885,-88.214436,30.705885",
     "geom:latitude":30.705885,
     "geom:longitude":-88.214436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7379 Zeigler Blvd",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085585,
-        85633793,
         85688675,
-        85825595
+        85633793,
+        85825595,
+        102085585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102504639,
-    "wof:lastmodified":1449068238,
+    "wof:lastmodified":1466316638,
     "wof:name":"Lawnmower Bone Yard",
     "wof:parent_id":85825595,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.214436,30.705885,-88.214436,30.705885],
-  "geometry": {"coordinates":[-88.214436,30.705885],"type":"Point"}
+  "bbox": [
+    -88.214436,
+    30.705885,
+    -88.214436,
+    30.705885
+],
+  "geometry": {"coordinates":[-88.21443600000001,30.705885],"type":"Point"}
 }

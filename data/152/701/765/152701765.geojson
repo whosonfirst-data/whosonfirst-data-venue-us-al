@@ -2,13 +2,14 @@
   "id": 152701765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.473829,32.474182,-86.473829,32.474182",
     "geom:latitude":32.474182,
     "geom:longitude":-86.473829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"760 N Court St",
     "sg:city":"Prattville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831059,
+        85688675,
         85633793,
         85913977,
         102085509,
-        85688675
+        85831059
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152701765,
-    "wof:lastmodified":1449047950,
+    "wof:lastmodified":1466319495,
     "wof:name":"R&G Cleaning Services",
     "wof:parent_id":85831059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.473829,32.474182,-86.473829,32.474182],
-  "geometry": {"coordinates":[-86.473829,32.474182],"type":"Point"}
+  "bbox": [
+    -86.473829,
+    32.474182,
+    -86.473829,
+    32.474182
+],
+  "geometry": {"coordinates":[-86.47382899999999,32.474182],"type":"Point"}
 }

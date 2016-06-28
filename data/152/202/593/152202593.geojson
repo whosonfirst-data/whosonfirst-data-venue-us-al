@@ -2,13 +2,14 @@
   "id": 152202593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.920892,33.505741,-86.920892,33.505741",
     "geom:latitude":33.505741,
     "geom:longitude":-86.920892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4312 7th Ave",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818869,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85818869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152202593,
-    "wof:lastmodified":1449048320,
+    "wof:lastmodified":1466315943,
     "wof:name":"American Wholesale Distrs",
     "wof:parent_id":85818869,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.920892,33.505741,-86.920892,33.505741],
-  "geometry": {"coordinates":[-86.920892,33.505741],"type":"Point"}
+  "bbox": [
+    -86.920892,
+    33.505741,
+    -86.920892,
+    33.505741
+],
+  "geometry": {"coordinates":[-86.92089199999999,33.505741],"type":"Point"}
 }

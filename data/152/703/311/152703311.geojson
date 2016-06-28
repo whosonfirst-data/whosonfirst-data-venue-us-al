@@ -2,13 +2,14 @@
   "id": 152703311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.797621,33.605717,-86.797621,33.605717",
     "geom:latitude":33.605717,
     "geom:longitude":-86.797621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1312 Stouts Rd",
     "sg:city":"Fultondale",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152703311,
-    "wof:lastmodified":1449045708,
+    "wof:lastmodified":1466319501,
     "wof:name":"Dunn Automotive Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.797621,33.605717,-86.797621,33.605717],
-  "geometry": {"coordinates":[-86.797621,33.605717],"type":"Point"}
+  "bbox": [
+    -86.797621,
+    33.605717,
+    -86.797621,
+    33.605717
+],
+  "geometry": {"coordinates":[-86.79762100000001,33.605717],"type":"Point"}
 }

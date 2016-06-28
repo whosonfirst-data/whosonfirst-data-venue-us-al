@@ -2,13 +2,14 @@
   "id": 152834087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.009335,34.574434,-87.009335,34.574434",
     "geom:latitude":34.574434,
     "geom:longitude":-87.009335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2008 Danville Rd SW",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -33,11 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848819,
+        85688675,
         85633793,
         85913589,
         102085531,
-        85688675
+        85848819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":152834087,
-    "wof:lastmodified":1449044730,
+    "wof:lastmodified":1466320013,
     "wof:name":"Money Service Center",
     "wof:parent_id":85848819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.009335,34.574434,-87.009335,34.574434],
-  "geometry": {"coordinates":[-87.009335,34.574434],"type":"Point"}
+  "bbox": [
+    -87.009335,
+    34.574434,
+    -87.009335,
+    34.574434
+],
+  "geometry": {"coordinates":[-87.00933499999999,34.574434],"type":"Point"}
 }

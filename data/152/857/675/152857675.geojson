@@ -2,13 +2,14 @@
   "id": 152857675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.250785,30.469428,-88.250785,30.469428",
     "geom:latitude":30.469428,
     "geom:longitude":-88.250785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10650 Beverly Rd",
     "sg:city":"Irvington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152857675,
-    "wof:lastmodified":1449047293,
+    "wof:lastmodified":1466320155,
     "wof:name":"Dn Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.250785,30.469428,-88.250785,30.469428],
-  "geometry": {"coordinates":[-88.250785,30.469428],"type":"Point"}
+  "bbox": [
+    -88.250785,
+    30.469428,
+    -88.250785,
+    30.469428
+],
+  "geometry": {"coordinates":[-88.25078499999999,30.469428],"type":"Point"}
 }

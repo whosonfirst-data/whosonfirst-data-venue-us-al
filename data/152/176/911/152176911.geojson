@@ -2,13 +2,14 @@
   "id": 152176911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.494278,34.297188,-86.494278,34.297188",
     "geom:latitude":34.297188,
     "geom:longitude":-86.494278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Co Rd 1843",
     "sg:city":"Arab",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867305,
+        85688675,
         85633793,
         85914167,
         102085729,
-        85688675
+        85867305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152176911,
-    "wof:lastmodified":1449047317,
+    "wof:lastmodified":1466315647,
     "wof:name":"Flack Farmline Distributor",
     "wof:parent_id":85867305,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.494278,34.297188,-86.494278,34.297188],
-  "geometry": {"coordinates":[-86.494278,34.297188],"type":"Point"}
+  "bbox": [
+    -86.494278,
+    34.297188,
+    -86.494278,
+    34.297188
+],
+  "geometry": {"coordinates":[-86.49427799999999,34.297188],"type":"Point"}
 }

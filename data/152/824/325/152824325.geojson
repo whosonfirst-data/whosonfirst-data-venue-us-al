@@ -2,13 +2,14 @@
   "id": 152824325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.077987,34.175049,-86.077987,34.175049",
     "geom:latitude":34.175049,
     "geom:longitude":-86.077987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4000 Sardis Rd",
     "sg:city":"Boaz",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802495,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675
+        85802495
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152824325,
-    "wof:lastmodified":1449045957,
+    "wof:lastmodified":1466319975,
     "wof:name":"4-Way Express",
     "wof:parent_id":85802495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.077987,34.175049,-86.077987,34.175049],
-  "geometry": {"coordinates":[-86.077987,34.175049],"type":"Point"}
+  "bbox": [
+    -86.077987,
+    34.175049,
+    -86.077987,
+    34.175049
+],
+  "geometry": {"coordinates":[-86.07798699999999,34.175049],"type":"Point"}
 }

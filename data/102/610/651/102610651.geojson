@@ -2,13 +2,14 @@
   "id": 102610651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.41747,32.432114,-86.41747,32.432114",
     "geom:latitude":32.432114,
     "geom:longitude":-86.41747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1657 US Hwy 31",
     "sg:city":"Prattville",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847317,
+        85688675,
         85633793,
         85913977,
         102085631,
-        85688675
+        85847317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102610651,
-    "wof:lastmodified":1449070177,
+    "wof:lastmodified":1466317286,
     "wof:name":"Central Station Club",
     "wof:parent_id":85847317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.41747,32.432114,-86.41747,32.432114],
-  "geometry": {"coordinates":[-86.41747,32.432114],"type":"Point"}
+  "bbox": [
+    -86.41747,
+    32.432114,
+    -86.41747,
+    32.432114
+],
+  "geometry": {"coordinates":[-86.41746999999999,32.432114],"type":"Point"}
 }

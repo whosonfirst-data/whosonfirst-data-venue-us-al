@@ -2,13 +2,14 @@
   "id": 152670811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.799722,33.500308,-86.799722,33.500308",
     "geom:latitude":33.500308,
     "geom:longitude":-86.799722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1025 18th St S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819533,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675,
+        85819533,
         85876277
     ],
     "wof:breaches":[],
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":152670811,
-    "wof:lastmodified":1449044996,
+    "wof:lastmodified":1466319210,
     "wof:name":"Immunogenetics Lab",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.799722,33.500308,-86.799722,33.500308],
+  "bbox": [
+    -86.799722,
+    33.500308,
+    -86.799722,
+    33.500308
+],
   "geometry": {"coordinates":[-86.799722,33.500308],"type":"Point"}
 }

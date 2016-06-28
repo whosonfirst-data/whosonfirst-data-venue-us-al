@@ -2,13 +2,14 @@
   "id": 152784219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.007536,33.523068,-87.007536,33.523068",
     "geom:latitude":33.523068,
     "geom:longitude":-87.007536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5060 Birmingport Rd",
     "sg:city":"Mulga",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825091,
+        85688675,
         85633793,
         85914793,
         102085481,
-        85688675
+        85825091
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152784219,
-    "wof:lastmodified":1449047383,
+    "wof:lastmodified":1466319746,
     "wof:name":"Early Construction",
     "wof:parent_id":85825091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.007536,33.523068,-87.007536,33.523068],
+  "bbox": [
+    -87.007536,
+    33.523068,
+    -87.007536,
+    33.523068
+],
   "geometry": {"coordinates":[-87.007536,33.523068],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102494959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.490018,32.586414,-85.490018,32.586414",
     "geom:latitude":32.586414,
     "geom:longitude":-85.490018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1081 S Donahue Dr",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -33,11 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858615,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85858615
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":102494959,
-    "wof:lastmodified":1449069928,
+    "wof:lastmodified":1466316370,
     "wof:name":"Pesticide Residue Laboratory",
     "wof:parent_id":85858615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.490018,32.586414,-85.490018,32.586414],
-  "geometry": {"coordinates":[-85.490018,32.586414],"type":"Point"}
+  "bbox": [
+    -85.490018,
+    32.586414,
+    -85.490018,
+    32.586414
+],
+  "geometry": {"coordinates":[-85.49001800000001,32.586414],"type":"Point"}
 }

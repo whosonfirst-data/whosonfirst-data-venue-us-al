@@ -2,13 +2,14 @@
   "id": 152831671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.114396,30.672123,-88.114396,30.672123",
     "geom:latitude":30.672123,
     "geom:longitude":-88.114396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"319 S Sage Ave",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808003,
+        85688675,
         85633793,
         85913749,
         102085585,
-        85688675
+        85808003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152831671,
-    "wof:lastmodified":1449047013,
+    "wof:lastmodified":1466320006,
     "wof:name":"Beltone Adlogy Hearing Aid Ctr",
     "wof:parent_id":85808003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.114396,30.672123,-88.114396,30.672123],
+  "bbox": [
+    -88.114396,
+    30.672123,
+    -88.114396,
+    30.672123
+],
   "geometry": {"coordinates":[-88.114396,30.672123],"type":"Point"}
 }

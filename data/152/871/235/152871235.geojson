@@ -2,13 +2,14 @@
   "id": 152871235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.572747,33.206386,-87.572747,33.206386",
     "geom:latitude":33.206386,
     "geom:longitude":-87.572747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2715 7th St",
     "sg:city":"Tuscaloosa",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816127,
+        85688675,
         85633793,
         85914453,
         102085553,
-        85688675
+        85816127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152871235,
-    "wof:lastmodified":1449045826,
+    "wof:lastmodified":1466320189,
     "wof:name":"Scott Ward Veron Architects",
     "wof:parent_id":85816127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.572747,33.206386,-87.572747,33.206386],
-  "geometry": {"coordinates":[-87.572747,33.206386],"type":"Point"}
+  "bbox": [
+    -87.572747,
+    33.206386,
+    -87.572747,
+    33.206386
+],
+  "geometry": {"coordinates":[-87.57274700000001,33.206386],"type":"Point"}
 }

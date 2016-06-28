@@ -2,13 +2,14 @@
   "id": 152892847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.042681,30.851446,-88.042681,30.851446",
     "geom:latitude":30.851446,
     "geom:longitude":-88.042681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 E Orange Ave",
     "sg:city":"Satsuma",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085469,
-        85633793,
         85688675,
-        85878983
+        85633793,
+        85878983,
+        102085469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152892847,
-    "wof:lastmodified":1449044985,
+    "wof:lastmodified":1466320320,
     "wof:name":"Winters Marina",
     "wof:parent_id":85878983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.042681,30.851446,-88.042681,30.851446],
+  "bbox": [
+    -88.042681,
+    30.851446,
+    -88.042681,
+    30.851446
+],
   "geometry": {"coordinates":[-88.042681,30.851446],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152133411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.715499,33.517597,-86.715499,33.517597",
     "geom:latitude":33.517597,
     "geom:longitude":-86.715499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"537 Elder St",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850695,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85850695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152133411,
-    "wof:lastmodified":1449048117,
+    "wof:lastmodified":1466315205,
     "wof:name":"Ctc Capital",
     "wof:parent_id":85850695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.715499,33.517597,-86.715499,33.517597],
-  "geometry": {"coordinates":[-86.715499,33.517597],"type":"Point"}
+  "bbox": [
+    -86.715499,
+    33.517597,
+    -86.715499,
+    33.517597
+],
+  "geometry": {"coordinates":[-86.71549899999999,33.517597],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152272275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.326678,32.369469,-86.326678,32.369469",
     "geom:latitude":32.369469,
     "geom:longitude":-86.326678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2003 Day St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856867,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85856867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152272275,
-    "wof:lastmodified":1449048603,
+    "wof:lastmodified":1466316808,
     "wof:name":"Mr P's Used Tires",
     "wof:parent_id":85856867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.326678,32.369469,-86.326678,32.369469],
+  "bbox": [
+    -86.326678,
+    32.369469,
+    -86.326678,
+    32.369469
+],
   "geometry": {"coordinates":[-86.326678,32.369469],"type":"Point"}
 }

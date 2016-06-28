@@ -2,13 +2,14 @@
   "id": 152654583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.451028,32.465326,-86.451028,32.465326",
     "geom:latitude":32.465326,
     "geom:longitude":-86.451028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 N Memorial Dr",
     "sg:city":"Prattville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85843041,
+        85688675,
         85633793,
         85913977,
         102085509,
-        85688675
+        85843041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152654583,
-    "wof:lastmodified":1449045857,
+    "wof:lastmodified":1466319121,
     "wof:name":"Factory Connection",
     "wof:parent_id":85843041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.451028,32.465326,-86.451028,32.465326],
-  "geometry": {"coordinates":[-86.451028,32.465326],"type":"Point"}
+  "bbox": [
+    -86.451028,
+    32.465326,
+    -86.451028,
+    32.465326
+],
+  "geometry": {"coordinates":[-86.45102799999999,32.465326],"type":"Point"}
 }

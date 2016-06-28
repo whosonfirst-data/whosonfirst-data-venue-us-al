@@ -2,13 +2,14 @@
   "id": 152756659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.809382,33.514175,-86.809382,33.514175",
     "geom:latitude":33.514175,
     "geom:longitude":-86.809382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"228 18th St N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820315,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85820315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152756659,
-    "wof:lastmodified":1449047064,
+    "wof:lastmodified":1466319607,
     "wof:name":"Frazier Center",
     "wof:parent_id":85820315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.809382,33.514175,-86.809382,33.514175],
+  "bbox": [
+    -86.809382,
+    33.514175,
+    -86.809382,
+    33.514175
+],
   "geometry": {"coordinates":[-86.809382,33.514175],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152262415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.467355,34.313463,-86.467355,34.313463",
     "geom:latitude":34.313463,
     "geom:longitude":-86.467355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"335 14th Pl SE",
     "sg:city":"Arab",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.just4funn.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837211,
+        85688675,
         85633793,
         85913243,
         102085513,
-        85688675
+        85837211
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152262415,
-    "wof:lastmodified":1449047161,
+    "wof:lastmodified":1466316676,
     "wof:name":"Just 4 Fun LLC",
     "wof:parent_id":85837211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.467355,34.313463,-86.467355,34.313463],
+  "bbox": [
+    -86.467355,
+    34.313463,
+    -86.467355,
+    34.313463
+],
   "geometry": {"coordinates":[-86.467355,34.313463],"type":"Point"}
 }

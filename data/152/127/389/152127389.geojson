@@ -2,13 +2,14 @@
   "id": 152127389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.2353,32.415201,-86.2353,32.415201",
     "geom:latitude":32.415201,
     "geom:longitude":-86.2353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2379 Cong W L Dickinson Dr",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827567,
+        85688675,
         85633793,
         85913947,
         102085733,
-        85688675
+        85827567
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152127389,
-    "wof:lastmodified":1449048549,
+    "wof:lastmodified":1466314824,
     "wof:name":"Family Tax and Bookkeeping Svc",
     "wof:parent_id":85827567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.2353,32.415201,-86.2353,32.415201],
+  "bbox": [
+    -86.2353,
+    32.415201,
+    -86.2353,
+    32.415201
+],
   "geometry": {"coordinates":[-86.2353,32.415201],"type":"Point"}
 }

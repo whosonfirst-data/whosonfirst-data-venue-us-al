@@ -2,13 +2,14 @@
   "id": 102631035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.584957,34.742429,-86.584957,34.742429",
     "geom:latitude":34.742429,
     "geom:longitude":-86.584957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"908 Meridian St N",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878235,
+        85688675,
         85633793,
         85913601,
         102085487,
-        85688675
+        85878235
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102631035,
-    "wof:lastmodified":1449068527,
+    "wof:lastmodified":1466317478,
     "wof:name":"Pros The",
     "wof:parent_id":85878235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.584957,34.742429,-86.584957,34.742429],
+  "bbox": [
+    -86.584957,
+    34.742429,
+    -86.584957,
+    34.742429
+],
   "geometry": {"coordinates":[-86.584957,34.742429],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152168703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.634713,34.701106,-87.634713,34.701106",
     "geom:latitude":34.701106,
     "geom:longitude":-87.634713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5255 Wilson Dam Hwy",
     "sg:city":"Tuscumbia",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85816399,
+        85688675,
         85633793,
         85897481,
         102085625,
-        85688675
+        85816399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152168703,
-    "wof:lastmodified":1449046713,
+    "wof:lastmodified":1466315571,
     "wof:name":"Heil Environmental Industries",
     "wof:parent_id":85816399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.634713,34.701106,-87.634713,34.701106],
+  "bbox": [
+    -87.634713,
+    34.701106,
+    -87.634713,
+    34.701106
+],
   "geometry": {"coordinates":[-87.634713,34.701106],"type":"Point"}
 }

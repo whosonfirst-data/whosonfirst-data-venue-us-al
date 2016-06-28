@@ -2,13 +2,14 @@
   "id": 152815429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.378466,32.647619,-85.378466,32.647619",
     "geom:latitude":32.647619,
     "geom:longitude":-85.378466,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 S 8th St",
     "sg:city":"Opelika",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85857153,
+        85688675,
         85633793,
         85913815,
         102085751,
-        85688675,
+        85857153,
         85819517
     ],
     "wof:breaches":[],
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":152815429,
-    "wof:lastmodified":1449046547,
+    "wof:lastmodified":1466319938,
     "wof:name":"Antiquables",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.378466,32.647619,-85.378466,32.647619],
+  "bbox": [
+    -85.378466,
+    32.647619,
+    -85.378466,
+    32.647619
+],
   "geometry": {"coordinates":[-85.378466,32.647619],"type":"Point"}
 }

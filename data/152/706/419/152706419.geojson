@@ -2,13 +2,14 @@
   "id": 152706419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.016714,34.038528,-86.016714,34.038528",
     "geom:latitude":34.038528,
     "geom:longitude":-86.016714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Irby Blvd",
     "sg:city":"Gadsden",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805515,
+        85688675,
         85633793,
         85914359,
         102085545,
-        85688675,
+        85805515,
         85802495
     ],
     "wof:breaches":[],
@@ -63,14 +64,20 @@
         }
     ],
     "wof:id":152706419,
-    "wof:lastmodified":1449044634,
+    "wof:lastmodified":1466319369,
     "wof:name":"A E Sanders Construction Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.016714,34.038528,-86.016714,34.038528],
-  "geometry": {"coordinates":[-86.016714,34.038528],"type":"Point"}
+  "bbox": [
+    -86.016714,
+    34.038528,
+    -86.016714,
+    34.038528
+],
+  "geometry": {"coordinates":[-86.01671399999999,34.038528],"type":"Point"}
 }

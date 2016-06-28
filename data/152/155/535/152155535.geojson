@@ -2,13 +2,14 @@
   "id": 152155535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.587004,31.831709,-86.587004,31.831709",
     "geom:latitude":31.831709,
     "geom:longitude":-86.587004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2198 Luverne Hwy",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152155535,
-    "wof:lastmodified":1449048106,
+    "wof:lastmodified":1466314849,
     "wof:name":"Watson Animal Clinic Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.587004,31.831709,-86.587004,31.831709],
-  "geometry": {"coordinates":[-86.587004,31.831709],"type":"Point"}
+  "bbox": [
+    -86.587004,
+    31.831709,
+    -86.587004,
+    31.831709
+],
+  "geometry": {"coordinates":[-86.58700399999999,31.831709],"type":"Point"}
 }

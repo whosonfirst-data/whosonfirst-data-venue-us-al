@@ -2,13 +2,14 @@
   "id": 152874041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.504707,32.537579,-85.504707,32.537579",
     "geom:latitude":32.537579,
     "geom:longitude":-85.504707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"845 Co Rd 10",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85846969,
+        85688675,
         85633793,
         85913825,
         102085751,
-        85688675
+        85846969
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152874041,
-    "wof:lastmodified":1449048620,
+    "wof:lastmodified":1466320201,
     "wof:name":"Dubose Mobile Homes",
     "wof:parent_id":85846969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.504707,32.537579,-85.504707,32.537579],
+  "bbox": [
+    -85.504707,
+    32.537579,
+    -85.504707,
+    32.537579
+],
   "geometry": {"coordinates":[-85.504707,32.537579],"type":"Point"}
 }
