@@ -2,14 +2,20 @@
   "id": 152434033,
   "type": "Feature",
   "properties": {
+    "addr:full":"3635 Lorna Rd Birmingham AL 35216",
+    "addr:housenumber":"3635",
+    "addr:postcode":"35216",
+    "addr:street":"Lorna Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.796605,33.381484,-86.796605,33.381484",
     "geom:latitude":33.381484,
     "geom:longitude":-86.796605,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3635 Lorna Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -31,19 +37,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
         85858879
     ],
+    "wof:brand_id":1125151261,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1kwd64eVMZMnPc5OvnIxcW_33.381484_-86.796605@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"cb77c1363d7b79a81f0856db91bd68d9",
+    "wof:geomhash":"227e39f3e39df994a5ee3f657ce2d131",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":152434033,
-    "wof:lastmodified":1466317987,
+    "wof:lastmodified":1510699356,
     "wof:name":"Express Oil Change",
     "wof:parent_id":85858879,
     "wof:placetype":"venue",

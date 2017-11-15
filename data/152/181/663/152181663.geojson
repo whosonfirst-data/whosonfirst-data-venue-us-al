@@ -2,9 +2,14 @@
   "id": 152181663,
   "type": "Feature",
   "properties": {
+    "addr:full":"602 19th St Birmingham AL 35218",
+    "addr:housenumber":"602",
+    "addr:postcode":"35218",
+    "addr:street":"19Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.895307,33.512328,-86.895307,33.512328",
     "geom:latitude":33.512328,
     "geom:longitude":-86.895307,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"cc01398ac97a01ed983d9de3817071e2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152181663,
-    "wof:lastmodified":1466315689,
+    "wof:lastmodified":1491887269,
     "wof:name":"Tuxedo Junction Ensley Jazz Ce",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

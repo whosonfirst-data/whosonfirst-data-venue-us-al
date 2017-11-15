@@ -2,9 +2,14 @@
   "id": 152832493,
   "type": "Feature",
   "properties": {
+    "addr:full":"3819 43rd Ave N Birmingham AL 35217",
+    "addr:housenumber":"3819",
+    "addr:postcode":"35217",
+    "addr:street":"43Rd Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.782747,33.56494,-86.782747,33.56494",
     "geom:latitude":33.56494,
     "geom:longitude":-86.782747,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"001b27bdd84a627704d2b01747688002",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152832493,
-    "wof:lastmodified":1466320035,
+    "wof:lastmodified":1491930577,
     "wof:name":"Gray Express Charter Service",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",

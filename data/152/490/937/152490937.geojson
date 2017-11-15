@@ -2,9 +2,14 @@
   "id": 152490937,
   "type": "Feature",
   "properties": {
+    "addr:full":"2706 Cahaba Rd Birmingham AL 35223",
+    "addr:housenumber":"2706",
+    "addr:postcode":"35223",
+    "addr:street":"Cahaba Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.773639,33.483592,-86.773639,33.483592",
     "geom:latitude":33.483592,
     "geom:longitude":-86.773639,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914807,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"f9446659b42cc6f138c9465fa0dcd740",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914807,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152490937,
-    "wof:lastmodified":1466318166,
+    "wof:lastmodified":1491932283,
     "wof:name":"Petite Shop Inc",
     "wof:parent_id":85854765,
     "wof:placetype":"venue",

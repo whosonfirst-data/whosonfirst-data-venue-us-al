@@ -2,9 +2,14 @@
   "id": 152813973,
   "type": "Feature",
   "properties": {
+    "addr:full":"1667 Rex Lake Rd Leeds AL 35094",
+    "addr:housenumber":"1667",
+    "addr:postcode":"35094",
+    "addr:street":"Rex Lake Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.617218,33.508416,-86.617218,33.508416",
     "geom:latitude":33.508416,
     "geom:longitude":-86.617218,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"c2fcda9cf142679285ee16badb677b83",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152813973,
-    "wof:lastmodified":1466319940,
+    "wof:lastmodified":1491922693,
     "wof:name":"Mordecais Plumbing & Gas Svc",
     "wof:parent_id":85804755,
     "wof:placetype":"venue",

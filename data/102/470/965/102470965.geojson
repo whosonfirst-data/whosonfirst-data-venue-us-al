@@ -2,9 +2,14 @@
   "id": 102470965,
   "type": "Feature",
   "properties": {
+    "addr:full":"3101 27th Ave N Birmingham AL 35207",
+    "addr:housenumber":"3101",
+    "addr:postcode":"35207",
+    "addr:street":"27Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.802354,33.549597,-86.802354,33.549597",
     "geom:latitude":33.549597,
     "geom:longitude":-86.802354,
@@ -29,10 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
-        85876271
+        420510367,
+        85838531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,18 +49,28 @@
     "wof:geomhash":"eee6bafb66b9cdc16f050218576ee93f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
-            "neighbourhood_id":85876271,
+            "neighbourhood_id":420510367,
+            "region_id":85688675,
+            "venue_id":102470965
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85838531,
             "region_id":85688675,
             "venue_id":102470965
         }
     ],
     "wof:id":102470965,
-    "wof:lastmodified":1466315364,
+    "wof:lastmodified":1491885653,
     "wof:name":"D C Warehouse",
-    "wof:parent_id":85876271,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

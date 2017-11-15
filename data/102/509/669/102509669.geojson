@@ -2,9 +2,14 @@
   "id": 102509669,
   "type": "Feature",
   "properties": {
+    "addr:full":"2330 2nd Ave S Birmingham AL 35233",
+    "addr:housenumber":"2330",
+    "addr:postcode":"35233",
+    "addr:street":"2Nd Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.798138,33.513374,-86.798138,33.513374",
     "geom:latitude":33.513374,
     "geom:longitude":-86.798138,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -44,6 +50,7 @@
     "wof:geomhash":"34ba69175fe8f1ac65ee872ada550ba2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":102509669,
-    "wof:lastmodified":1466316738,
+    "wof:lastmodified":1491921756,
     "wof:name":"Irwin Brothers Remodeling",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

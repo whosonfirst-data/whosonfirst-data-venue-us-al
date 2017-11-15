@@ -2,9 +2,14 @@
   "id": 102514053,
   "type": "Feature",
   "properties": {
+    "addr:full":"2124 7th Ave N Birmingham AL 35203",
+    "addr:housenumber":"2124",
+    "addr:postcode":"35203",
+    "addr:street":"7Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.807284,33.521645,-86.807284,33.521645",
     "geom:latitude":33.521645,
     "geom:longitude":-86.807284,
@@ -26,10 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
-        85876273
+        85831933
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +45,19 @@
     "wof:geomhash":"e71099ac7d8baed13c1f410514d28bbd",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
-            "neighbourhood_id":85876273,
+            "neighbourhood_id":85831933,
             "region_id":85688675,
             "venue_id":102514053
         }
     ],
     "wof:id":102514053,
-    "wof:lastmodified":1466316872,
+    "wof:lastmodified":1491895412,
     "wof:name":"Honorable John C Calhoun",
-    "wof:parent_id":85876273,
+    "wof:parent_id":85831933,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

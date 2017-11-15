@@ -2,9 +2,14 @@
   "id": 152176765,
   "type": "Feature",
   "properties": {
+    "addr:full":"1145 44th St N Birmingham AL 35212",
+    "addr:housenumber":"1145",
+    "addr:postcode":"35212",
+    "addr:street":"44Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.77231,33.543811,-86.77231,33.543811",
     "geom:latitude":33.543811,
     "geom:longitude":-86.77231,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"51122cee88cc1827822928cf54b86092",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152176765,
-    "wof:lastmodified":1466315646,
+    "wof:lastmodified":1491930594,
     "wof:name":"Parker Memorial Baptist Church",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",

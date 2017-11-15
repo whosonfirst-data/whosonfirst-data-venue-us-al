@@ -2,9 +2,14 @@
   "id": 102461423,
   "type": "Feature",
   "properties": {
+    "addr:full":"2144 Tyler Rd Birmingham AL 35226",
+    "addr:housenumber":"2144",
+    "addr:postcode":"35226",
+    "addr:street":"Tyler Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.845107,33.419359,-86.845107,33.419359",
     "geom:latitude":33.419359,
     "geom:longitude":-86.845107,
@@ -30,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
-        85834275,
-        102085481
+        85914475,
+        102085481,
+        420510371,
+        85834275
     ],
     "wof:brand_id":420573891,
     "wof:breaches":[],
@@ -43,6 +51,15 @@
     "wof:geomhash":"3ab2709c0362b856b2d3eab6cf19a702",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914475,
+            "neighbourhood_id":420510371,
+            "region_id":85688675,
+            "venue_id":102461423
+        },
+        {
             "country_id":85633793,
             "county_id":102085481,
             "neighbourhood_id":85834275,
@@ -51,9 +68,9 @@
         }
     ],
     "wof:id":102461423,
-    "wof:lastmodified":1466315009,
+    "wof:lastmodified":1491895357,
     "wof:name":"Rite Aid",
-    "wof:parent_id":85834275,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

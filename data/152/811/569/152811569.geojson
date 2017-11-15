@@ -2,9 +2,14 @@
   "id": 152811569,
   "type": "Feature",
   "properties": {
+    "addr:full":"1603 19th St Birmingham AL 35218",
+    "addr:housenumber":"1603",
+    "addr:postcode":"35218",
+    "addr:street":"19Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.886925,33.510391,-86.886925,33.510391",
     "geom:latitude":33.510391,
     "geom:longitude":-86.886925,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"bcfbab4bcfb7916321fb134cef1ae21a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152811569,
-    "wof:lastmodified":1466319912,
+    "wof:lastmodified":1491887257,
     "wof:name":"Superior Style Shop",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

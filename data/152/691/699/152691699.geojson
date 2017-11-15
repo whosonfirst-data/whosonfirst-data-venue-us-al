@@ -2,9 +2,14 @@
   "id": 152691699,
   "type": "Feature",
   "properties": {
+    "addr:full":"16 49th St S Birmingham AL 35222",
+    "addr:housenumber":"16",
+    "addr:postcode":"35222",
+    "addr:street":"49Th St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.760904,33.532662,-86.760904,33.532662",
     "geom:latitude":33.532662,
     "geom:longitude":-86.760904,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -44,6 +50,7 @@
     "wof:geomhash":"e3cbae52136a470a40c2cdbfad283a99",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":152691699,
-    "wof:lastmodified":1466319315,
+    "wof:lastmodified":1491930594,
     "wof:name":"Jim House & Assoc Inc",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",

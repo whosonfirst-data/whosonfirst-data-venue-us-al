@@ -2,9 +2,14 @@
   "id": 102452659,
   "type": "Feature",
   "properties": {
+    "addr:full":"604 S Sanders Rd Birmingham AL 35226",
+    "addr:housenumber":"604",
+    "addr:postcode":"35226",
+    "addr:street":"S Sanders Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.834592,33.409479,-86.834592,33.409479",
     "geom:latitude":33.409479,
     "geom:longitude":-86.834592,
@@ -29,10 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
-        85805457
+        85828169
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,18 +48,19 @@
     "wof:geomhash":"c4f106bacbfaeb4ec26afe13e7cdc491",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
-            "neighbourhood_id":85805457,
+            "neighbourhood_id":85828169,
             "region_id":85688675,
             "venue_id":102452659
         }
     ],
     "wof:id":102452659,
-    "wof:lastmodified":1466314772,
+    "wof:lastmodified":1491898829,
     "wof:name":"Romar Construction",
-    "wof:parent_id":85805457,
+    "wof:parent_id":85828169,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

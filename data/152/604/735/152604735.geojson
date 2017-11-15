@@ -2,9 +2,14 @@
   "id": 152604735,
   "type": "Feature",
   "properties": {
+    "addr:full":"2208 7th Ave S Birmingham AL 35233",
+    "addr:housenumber":"2208",
+    "addr:postcode":"35233",
+    "addr:street":"7Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.795854,33.507846,-86.795854,33.507846",
     "geom:latitude":33.507846,
     "geom:longitude":-86.795854,
@@ -30,11 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
-        85819533,
-        85876277
+        85876277,
+        85819533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,26 +50,28 @@
     "wof:geomhash":"7b4e445617ceff821d9069b8a6f2d12e",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102085481,
-            "locality_id":85914465,
-            "neighbourhood_id":85819533,
-            "region_id":85688675,
-            "venue_id":152604735
-        },
-        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
             "neighbourhood_id":85876277,
             "region_id":85688675,
             "venue_id":152604735
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85819533,
+            "region_id":85688675,
+            "venue_id":152604735
         }
     ],
     "wof:id":152604735,
-    "wof:lastmodified":1466318888,
+    "wof:lastmodified":1491914531,
     "wof:name":"Visions Inc Corporate",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

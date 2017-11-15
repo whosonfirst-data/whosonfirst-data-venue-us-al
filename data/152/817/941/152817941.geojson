@@ -2,9 +2,14 @@
   "id": 152817941,
   "type": "Feature",
   "properties": {
+    "addr:full":"1910 1st Ave N Birmingham AL 35210",
+    "addr:housenumber":"1910",
+    "addr:postcode":"35210",
+    "addr:street":"1St Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.707722,33.53892,-86.707722,33.53892",
     "geom:latitude":33.53892,
     "geom:longitude":-86.707722,
@@ -26,8 +31,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
-        85914465,
+        85914835,
         102085481,
         85819529
     ],
@@ -39,16 +45,17 @@
     "wof:geomhash":"79118f98949b802858738a109af5d886",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
-            "locality_id":85914465,
+            "locality_id":85914835,
             "neighbourhood_id":85819529,
             "region_id":85688675,
             "venue_id":152817941
         }
     ],
     "wof:id":152817941,
-    "wof:lastmodified":1466319970,
+    "wof:lastmodified":1491905253,
     "wof:name":"Whistle Stop Treasure Shop",
     "wof:parent_id":85819529,
     "wof:placetype":"venue",

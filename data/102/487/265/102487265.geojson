@@ -2,9 +2,14 @@
   "id": 102487265,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 20th St N Birmingham AL 35203",
+    "addr:housenumber":"2",
+    "addr:postcode":"35203",
+    "addr:street":"20Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.805246,33.513821,-86.805246,33.513821",
     "geom:latitude":33.513821,
     "geom:longitude":-86.805246,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"8922024f23bc609a7420d33ce632d2bc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":102487265,
-    "wof:lastmodified":1466315845,
+    "wof:lastmodified":1491921705,
     "wof:name":"Michael E Gedgodas",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

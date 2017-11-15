@@ -2,9 +2,14 @@
   "id": 152230927,
   "type": "Feature",
   "properties": {
+    "addr:full":"445 Shades Crest Rd Birmingham AL 35226",
+    "addr:housenumber":"445",
+    "addr:postcode":"35226",
+    "addr:street":"Shades Crest Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.859916,33.39831,-86.859916,33.39831",
     "geom:latitude":33.39831,
     "geom:longitude":-86.859916,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
@@ -43,6 +49,7 @@
     "wof:geomhash":"68c249901ae1960668f51447eb4e94cd",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":152230927,
-    "wof:lastmodified":1466316412,
+    "wof:lastmodified":1491898828,
     "wof:name":"Hufhams Carpet Service",
     "wof:parent_id":85828169,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 152848239,
   "type": "Feature",
   "properties": {
+    "addr:full":"3212 Cahaba Heights Rd Birmingham AL 35243",
+    "addr:housenumber":"3212",
+    "addr:postcode":"35243",
+    "addr:street":"Cahaba Heights Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.729724,33.454185,-86.729724,33.454185",
     "geom:latitude":33.454185,
     "geom:longitude":-86.729724,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"d32509ccb8224c95578eae2ed63b1692",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152848239,
-    "wof:lastmodified":1466320140,
+    "wof:lastmodified":1491897866,
     "wof:name":"Cahaba Heights Child Dev Ctr",
     "wof:parent_id":85856691,
     "wof:placetype":"venue",

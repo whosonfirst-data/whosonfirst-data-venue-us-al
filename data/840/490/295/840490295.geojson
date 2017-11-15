@@ -2,9 +2,14 @@
   "id": 840490295,
   "type": "Feature",
   "properties": {
+    "addr:full":"1508 4th Ave S Birmingham AL 35233",
+    "addr:housenumber":"1508",
+    "addr:postcode":"35233",
+    "addr:street":"4Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.808909,33.505814,-86.808909,33.505814",
     "geom:latitude":33.505814,
     "geom:longitude":-86.808909,
@@ -34,8 +39,8 @@
         85633793,
         85914465,
         102085481,
-        85819533,
-        85876277
+        85876277,
+        85819533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,7 +55,7 @@
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
-            "neighbourhood_id":85819533,
+            "neighbourhood_id":85876277,
             "region_id":85688675,
             "venue_id":840490295
         },
@@ -59,15 +64,15 @@
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
-            "neighbourhood_id":85876277,
+            "neighbourhood_id":85819533,
             "region_id":85688675,
             "venue_id":840490295
         }
     ],
     "wof:id":840490295,
-    "wof:lastmodified":1466316190,
+    "wof:lastmodified":1491914544,
     "wof:name":"US Government",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

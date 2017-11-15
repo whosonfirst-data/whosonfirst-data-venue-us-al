@@ -2,9 +2,14 @@
   "id": 102444969,
   "type": "Feature",
   "properties": {
+    "addr:full":"2213 1st Ave S Birmingham AL 35210",
+    "addr:housenumber":"2213",
+    "addr:postcode":"35210",
+    "addr:street":"1St Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.703548,33.540311,-86.703548,33.540311",
     "geom:latitude":33.540311,
     "geom:longitude":-86.703548,
@@ -31,12 +36,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
-        85914465,
-        102085481,
-        85819529,
         85914835,
-        85851139
+        102085481,
+        85819529
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,26 +50,19 @@
     "wof:geomhash":"8a50f077382cb00f88bb07c0314bc9a5",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102085481,
-            "locality_id":85914465,
-            "neighbourhood_id":85819529,
-            "region_id":85688675,
-            "venue_id":102444969
-        },
-        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914835,
-            "neighbourhood_id":85851139,
+            "neighbourhood_id":85819529,
             "region_id":85688675,
             "venue_id":102444969
         }
     ],
     "wof:id":102444969,
-    "wof:lastmodified":1466314504,
+    "wof:lastmodified":1491905253,
     "wof:name":"Interiors By Kathy Harris",
-    "wof:parent_id":-1,
+    "wof:parent_id":85819529,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

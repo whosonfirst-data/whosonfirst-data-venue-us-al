@@ -2,9 +2,14 @@
   "id": 102459777,
   "type": "Feature",
   "properties": {
+    "addr:full":"2725 4th Ave S Birmingham AL 35233",
+    "addr:housenumber":"2725",
+    "addr:postcode":"35233",
+    "addr:street":"4Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.79129,33.514083,-86.79129,33.514083",
     "geom:latitude":33.514083,
     "geom:longitude":-86.79129,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -43,6 +49,7 @@
     "wof:geomhash":"e81509cbf42f30bc625a88215b9e9b5b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":102459777,
-    "wof:lastmodified":1466315034,
+    "wof:lastmodified":1491921691,
     "wof:name":"Skidmore Signs",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

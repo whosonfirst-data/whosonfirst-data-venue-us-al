@@ -2,9 +2,14 @@
   "id": 102451861,
   "type": "Feature",
   "properties": {
+    "addr:full":"5811 Rime Village Birmingham AL 35216",
+    "addr:housenumber":"5811",
+    "addr:postcode":"35216",
+    "addr:street":"Rime Village",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.791456,33.380245,-86.791456,33.380245",
     "geom:latitude":33.380245,
     "geom:longitude":-86.791456,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"149d87a8b1885013a1c02c0bf28d0cd9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":102451861,
-    "wof:lastmodified":1466314759,
+    "wof:lastmodified":1491927130,
     "wof:name":"Espen Entertainment",
     "wof:parent_id":85858879,
     "wof:placetype":"venue",

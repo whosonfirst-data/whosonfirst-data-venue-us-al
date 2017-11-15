@@ -2,9 +2,14 @@
   "id": 152298771,
   "type": "Feature",
   "properties": {
+    "addr:full":"2424 4th Ave S Birmingham AL 35233",
+    "addr:housenumber":"2424",
+    "addr:postcode":"35233",
+    "addr:street":"4Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.795471,33.512253,-86.795471,33.512253",
     "geom:latitude":33.512253,
     "geom:longitude":-86.795471,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"9104c065abc37309cd908ea6da4b1fe3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152298771,
-    "wof:lastmodified":1466317088,
+    "wof:lastmodified":1491921693,
     "wof:name":"Ritz Camera",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 102606487,
   "type": "Feature",
   "properties": {
+    "addr:full":"4512 11th Ave N Birmingham AL 35212",
+    "addr:housenumber":"4512",
+    "addr:postcode":"35212",
+    "addr:street":"11Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.768311,33.544634,-86.768311,33.544634",
     "geom:latitude":33.544634,
     "geom:longitude":-86.768311,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"ec37c24a0d515a8309d7d8aa13b4e5a0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":102606487,
-    "wof:lastmodified":1466317250,
+    "wof:lastmodified":1491930589,
     "wof:name":"Fred's Appliance Svc & Sales",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",

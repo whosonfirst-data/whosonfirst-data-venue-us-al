@@ -2,9 +2,14 @@
   "id": 152867653,
   "type": "Feature",
   "properties": {
+    "addr:full":"2220 Highland Ave Birmingham AL 35210",
+    "addr:housenumber":"2220",
+    "addr:postcode":"35210",
+    "addr:street":"Highland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.707221,33.54433,-86.707221,33.54433",
     "geom:latitude":33.54433,
     "geom:longitude":-86.707221,
@@ -31,8 +36,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
-        85914465,
+        85914835,
         102085481,
         85819529
     ],
@@ -44,16 +50,17 @@
     "wof:geomhash":"679c9125288a2e9174713d1feb9b0d48",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
-            "locality_id":85914465,
+            "locality_id":85914835,
             "neighbourhood_id":85819529,
             "region_id":85688675,
             "venue_id":152867653
         }
     ],
     "wof:id":152867653,
-    "wof:lastmodified":1466320193,
+    "wof:lastmodified":1491905255,
     "wof:name":"Home Professionals",
     "wof:parent_id":85819529,
     "wof:placetype":"venue",

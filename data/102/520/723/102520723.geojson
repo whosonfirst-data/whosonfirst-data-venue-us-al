@@ -2,9 +2,14 @@
   "id": 102520723,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 18th St SW Birmingham AL 35211",
+    "addr:housenumber":"1",
+    "addr:postcode":"35211",
+    "addr:street":"18Th St Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.86688,33.494588,-86.86688,33.494588",
     "geom:latitude":33.494588,
     "geom:longitude":-86.86688,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"f3967b2d876c6febc7d605a9e3936172",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":102520723,
-    "wof:lastmodified":1466317172,
+    "wof:lastmodified":1491887267,
     "wof:name":"Ice Palace",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

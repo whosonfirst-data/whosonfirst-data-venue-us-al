@@ -2,14 +2,20 @@
   "id": 102516549,
   "type": "Feature",
   "properties": {
+    "addr:full":"2821 2nd Ave S Birmingham AL 35233",
+    "addr:housenumber":"2821",
+    "addr:postcode":"35233",
+    "addr:street":"2Nd Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.791129,33.516582,-86.791129,33.516582",
     "geom:latitude":33.516582,
     "geom:longitude":-86.791129,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2821 2nd Ave S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -30,19 +36,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
         85876269
     ],
+    "wof:brand_id":1125159587,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1KsjaUHdJoQDmXe9MW6nv1_33.516582_-86.791129@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"b5260b243c6b7be873b3114bad73791b",
+    "wof:geomhash":"c4474604bde922415b47caf45d7f1036",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":102516549,
-    "wof:lastmodified":1466316912,
+    "wof:lastmodified":1510699284,
     "wof:name":"Illuminations",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

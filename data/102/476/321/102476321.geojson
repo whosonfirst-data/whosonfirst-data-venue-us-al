@@ -2,9 +2,14 @@
   "id": 102476321,
   "type": "Feature",
   "properties": {
+    "addr:full":"3501 1st Ave N Birmingham AL 35222",
+    "addr:housenumber":"3501",
+    "addr:postcode":"35222",
+    "addr:street":"1St Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.785207,33.524254,-86.785207,33.524254",
     "geom:latitude":33.524254,
     "geom:longitude":-86.785207,
@@ -30,10 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
-        85876269
+        85876269,
+        85876275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +50,28 @@
     "wof:geomhash":"b710bb0c22a2864f0e7d83e96ee4ab5a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
             "neighbourhood_id":85876269,
             "region_id":85688675,
             "venue_id":102476321
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85876275,
+            "region_id":85688675,
+            "venue_id":102476321
         }
     ],
     "wof:id":102476321,
-    "wof:lastmodified":1466314373,
+    "wof:lastmodified":1491921729,
     "wof:name":"Damsky Paper Co",
-    "wof:parent_id":85876269,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 102516531,
   "type": "Feature",
   "properties": {
+    "addr:full":"2216 31st St Birmingham AL 35208",
+    "addr:housenumber":"2216",
+    "addr:postcode":"35208",
+    "addr:street":"31St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.877734,33.498405,-86.877734,33.498405",
     "geom:latitude":33.498405,
     "geom:longitude":-86.877734,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"8a9fc9265259d351e325f488b9b79bdb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":102516531,
-    "wof:lastmodified":1466316911,
+    "wof:lastmodified":1491887260,
     "wof:name":"Duncan's Den Barber Shop",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

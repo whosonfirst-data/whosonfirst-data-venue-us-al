@@ -2,9 +2,14 @@
   "id": 102460771,
   "type": "Feature",
   "properties": {
+    "addr:full":"2017 Morris Ave Birmingham AL 35203",
+    "addr:housenumber":"2017",
+    "addr:postcode":"35203",
+    "addr:street":"Morris Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.804002,33.514318,-86.804002,33.514318",
     "geom:latitude":33.514318,
     "geom:longitude":-86.804002,
@@ -35,6 +40,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -48,6 +54,7 @@
     "wof:geomhash":"c367fbef20b8f4b16ae7dec7d44294d5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":102460771,
-    "wof:lastmodified":1466315039,
+    "wof:lastmodified":1491921712,
     "wof:name":"Kinetic Communications LLP",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

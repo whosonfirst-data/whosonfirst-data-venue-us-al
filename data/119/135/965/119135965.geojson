@@ -2,9 +2,14 @@
   "id": 119135965,
   "type": "Feature",
   "properties": {
+    "addr:full":"2429 Carraway Blvd Birmingham AL 35234",
+    "addr:housenumber":"2429",
+    "addr:postcode":"35234",
+    "addr:street":"Carraway Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.814935,33.544519,-86.814935,33.544519",
     "geom:latitude":33.544519,
     "geom:longitude":-86.814935,
@@ -26,10 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
-        85838531
+        85837367
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +45,19 @@
     "wof:geomhash":"4907af5dd7c90d16ecb791939e2ee982",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
-            "neighbourhood_id":85838531,
+            "neighbourhood_id":85837367,
             "region_id":85688675,
             "venue_id":119135965
         }
     ],
     "wof:id":119135965,
-    "wof:lastmodified":1466314731,
+    "wof:lastmodified":1491929447,
     "wof:name":"North Birmingham Chevron",
-    "wof:parent_id":85838531,
+    "wof:parent_id":85837367,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

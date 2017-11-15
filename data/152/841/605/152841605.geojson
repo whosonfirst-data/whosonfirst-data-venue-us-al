@@ -2,9 +2,14 @@
   "id": 152841605,
   "type": "Feature",
   "properties": {
+    "addr:full":"1200 2nd Ave S Birmingham AL 35233",
+    "addr:housenumber":"1200",
+    "addr:postcode":"35233",
+    "addr:street":"2Nd Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.812984,33.506264,-86.812984,33.506264",
     "geom:latitude":33.506264,
     "geom:longitude":-86.812984,
@@ -32,9 +37,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
+        85876277,
+        85820315,
         85819533
     ],
     "wof:breaches":[],
@@ -45,6 +53,25 @@
     "wof:geomhash":"031ba5e8ad4775eaf13d190ea538611a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85876277,
+            "region_id":85688675,
+            "venue_id":152841605
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85820315,
+            "region_id":85688675,
+            "venue_id":152841605
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -54,9 +81,9 @@
         }
     ],
     "wof:id":152841605,
-    "wof:lastmodified":1466320138,
+    "wof:lastmodified":1491914564,
     "wof:name":"HESCO Inc",
-    "wof:parent_id":85819533,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

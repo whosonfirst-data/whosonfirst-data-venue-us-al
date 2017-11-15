@@ -2,9 +2,14 @@
   "id": 102464651,
   "type": "Feature",
   "properties": {
+    "addr:full":"2300 Montevallo Rd Birmingham AL 35223",
+    "addr:housenumber":"",
+    "addr:postcode":"2300;35223",
+    "addr:street":"Montevallo Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.773348,33.483857,-86.773348,33.483857",
     "geom:latitude":33.483857,
     "geom:longitude":-86.773348,
@@ -30,10 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
-        85914465,
+        85914807,
         102085481,
-        85876275
+        85854765
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +49,19 @@
     "wof:geomhash":"6967b02d25be1f92d2e90c7c87b47aea",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
-            "locality_id":85914465,
-            "neighbourhood_id":85876275,
+            "locality_id":85914807,
+            "neighbourhood_id":85854765,
             "region_id":85688675,
             "venue_id":102464651
         }
     ],
     "wof:id":102464651,
-    "wof:lastmodified":1466315130,
+    "wof:lastmodified":1491932278,
     "wof:name":"Mac Clary Construction Co",
-    "wof:parent_id":85876275,
+    "wof:parent_id":85854765,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

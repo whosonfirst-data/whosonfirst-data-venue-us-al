@@ -2,9 +2,14 @@
   "id": 152767937,
   "type": "Feature",
   "properties": {
+    "addr:full":"3730 Lorna Rd Birmingham AL 35216",
+    "addr:housenumber":"3730",
+    "addr:postcode":"35216",
+    "addr:street":"Lorna Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.80135,33.37844,-86.80135,33.37844",
     "geom:latitude":33.37844,
     "geom:longitude":-86.80135,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"80ac65c4ca9e6ab43204f3d84d7dd999",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152767937,
-    "wof:lastmodified":1466319681,
+    "wof:lastmodified":1491927101,
     "wof:name":"Nail Fever",
     "wof:parent_id":85858879,
     "wof:placetype":"venue",

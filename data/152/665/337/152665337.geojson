@@ -2,9 +2,14 @@
   "id": 152665337,
   "type": "Feature",
   "properties": {
+    "addr:full":"908 39th St N Birmingham AL 35222",
+    "addr:housenumber":"908",
+    "addr:postcode":"35222",
+    "addr:street":"39Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.782222,33.538516,-86.782222,33.538516",
     "geom:latitude":33.538516,
     "geom:longitude":-86.782222,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"6139567830f795660eb1f9a9a0662387",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152665337,
-    "wof:lastmodified":1466319185,
+    "wof:lastmodified":1491930588,
     "wof:name":"Best Costume Jewelry",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",

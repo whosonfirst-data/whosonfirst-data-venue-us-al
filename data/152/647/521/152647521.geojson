@@ -2,9 +2,14 @@
   "id": 152647521,
   "type": "Feature",
   "properties": {
+    "addr:full":"3500 Colonnade Pkwy Birmingham AL 35243",
+    "addr:housenumber":"3500",
+    "addr:postcode":"35243",
+    "addr:street":"Colonnade Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.729924,33.436961,-86.729924,33.436961",
     "geom:latitude":33.436961,
     "geom:longitude":-86.729924,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"eba519b6bf28a29413bc2d9505c9a5a3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152647521,
-    "wof:lastmodified":1466319087,
+    "wof:lastmodified":1491897905,
     "wof:name":"Colonnade",
     "wof:parent_id":85856691,
     "wof:placetype":"venue",

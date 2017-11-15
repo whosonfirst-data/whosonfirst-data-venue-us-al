@@ -2,9 +2,14 @@
   "id": 152800571,
   "type": "Feature",
   "properties": {
+    "addr:full":"2508 29th Pl Ensley Birmingham AL 35208",
+    "addr:housenumber":"2508",
+    "addr:postcode":"35208",
+    "addr:street":"29Th Pl Ensley",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.873936,33.501883,-86.873936,33.501883",
     "geom:latitude":33.501883,
     "geom:longitude":-86.873936,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"ff5b631b05f7d64a4b75f024af665645",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152800571,
-    "wof:lastmodified":1466320002,
+    "wof:lastmodified":1491887275,
     "wof:name":"Office Park Alterations",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

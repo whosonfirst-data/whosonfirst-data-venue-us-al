@@ -2,14 +2,20 @@
   "id": 152829987,
   "type": "Feature",
   "properties": {
+    "addr:full":"3301 3rd Ave S Birmingham AL 35222",
+    "addr:housenumber":"3301",
+    "addr:postcode":"35222",
+    "addr:street":"3Rd Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.783461,33.519118,-86.783461,33.519118",
     "geom:latitude":33.519118,
     "geom:longitude":-86.783461,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3301 3rd Ave S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -32,19 +38,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
         85876269
     ],
+    "wof:brand_id":1125152677,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4H33Altu061y6cMuoSfaEG_33.519118_-86.783461@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"5968aa3a86221086a10f0159ea5eda82",
+    "wof:geomhash":"4ee78be1d326ae1b063a28b8f67b75fa",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":152829987,
-    "wof:lastmodified":1466320018,
+    "wof:lastmodified":1510697145,
     "wof:name":"Siemens Energy & Automation",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 152479173,
   "type": "Feature",
   "properties": {
+    "addr:full":"2825 35th Ave N Birmingham AL 35207",
+    "addr:housenumber":"2825",
+    "addr:postcode":"35207",
+    "addr:street":"35Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.816804,33.557517,-86.816804,33.557517",
     "geom:latitude":33.557517,
     "geom:longitude":-86.816804,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"e713c9ecc1e3aa26f6095d7db1271a6d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152479173,
-    "wof:lastmodified":1466318212,
+    "wof:lastmodified":1491929438,
     "wof:name":"Hall Tire Services Company",
     "wof:parent_id":85837367,
     "wof:placetype":"venue",

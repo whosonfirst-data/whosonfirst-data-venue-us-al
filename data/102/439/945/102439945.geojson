@@ -2,9 +2,14 @@
   "id": 102439945,
   "type": "Feature",
   "properties": {
+    "addr:full":"4908 Powell Ave S Birmingham AL 35222",
+    "addr:housenumber":"4908",
+    "addr:postcode":"35222",
+    "addr:street":"Powell Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.787753,33.520415,-86.787753,33.520415",
     "geom:latitude":33.520415,
     "geom:longitude":-86.787753,
@@ -33,6 +38,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -46,6 +52,7 @@
     "wof:geomhash":"ec486bad2681ac0bec9269195563ae7c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":102439945,
-    "wof:lastmodified":1466314479,
+    "wof:lastmodified":1491921691,
     "wof:name":"Lawler Foundry Corp",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

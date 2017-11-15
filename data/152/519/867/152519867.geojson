@@ -2,9 +2,14 @@
   "id": 152519867,
   "type": "Feature",
   "properties": {
+    "addr:full":"4734 Powell Ave S Birmingham AL 35222",
+    "addr:housenumber":"4734",
+    "addr:postcode":"35222",
+    "addr:street":"Powell Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.787597,33.520507,-86.787597,33.520507",
     "geom:latitude":33.520507,
     "geom:longitude":-86.787597,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"64cdf88216ccc35b6b08d5b188d891fe",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152519867,
-    "wof:lastmodified":1466318442,
+    "wof:lastmodified":1491921690,
     "wof:name":"Bigcamocom",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

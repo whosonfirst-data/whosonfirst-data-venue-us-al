@@ -2,9 +2,14 @@
   "id": 102514063,
   "type": "Feature",
   "properties": {
+    "addr:full":"5736 Lake Side Rd Leeds AL 35094",
+    "addr:housenumber":"5736",
+    "addr:postcode":"35094",
+    "addr:street":"Lake Side Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.62866,33.500415,-86.62866,33.500415",
     "geom:latitude":33.500415,
     "geom:longitude":-86.62866,
@@ -31,9 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633793,
         85688675,
-        102085481
+        102191575,
+        85633793,
+        85914465,
+        102085481,
+        85804755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,16 +51,19 @@
     "wof:geomhash":"338545ef46473282d768883847bdfaa6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85804755,
             "region_id":85688675,
             "venue_id":102514063
         }
     ],
     "wof:id":102514063,
-    "wof:lastmodified":1466316873,
+    "wof:lastmodified":1491922692,
     "wof:name":"Druquest",
-    "wof:parent_id":-1,
+    "wof:parent_id":85804755,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

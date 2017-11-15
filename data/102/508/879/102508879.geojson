@@ -2,9 +2,14 @@
   "id": 102508879,
   "type": "Feature",
   "properties": {
+    "addr:full":"2608 32nd Ave N Birmingham AL 35207",
+    "addr:housenumber":"2608",
+    "addr:postcode":"35207",
+    "addr:street":"32Nd Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.817462,33.554206,-86.817462,33.554206",
     "geom:latitude":33.554206,
     "geom:longitude":-86.817462,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -44,6 +50,7 @@
     "wof:geomhash":"dc5520c30369459dfd61dce4006f427f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":102508879,
-    "wof:lastmodified":1466316690,
+    "wof:lastmodified":1491929446,
     "wof:name":"Ed's Lock & Key",
     "wof:parent_id":85837367,
     "wof:placetype":"venue",

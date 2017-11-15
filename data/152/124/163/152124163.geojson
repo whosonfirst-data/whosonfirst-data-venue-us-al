@@ -2,9 +2,14 @@
   "id": 152124163,
   "type": "Feature",
   "properties": {
+    "addr:full":"2819 Jefferson Ave SW Birmingham AL 35211",
+    "addr:housenumber":"2819",
+    "addr:postcode":"35211",
+    "addr:street":"Jefferson Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.879701,33.472476,-86.879701,33.472476",
     "geom:latitude":33.472476,
     "geom:longitude":-86.879701,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"b87d0017973384870f43629109494130",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152124163,
-    "wof:lastmodified":1466314678,
+    "wof:lastmodified":1491887286,
     "wof:name":"BJs Day Care",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

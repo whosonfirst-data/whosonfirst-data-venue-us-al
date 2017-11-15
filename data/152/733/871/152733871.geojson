@@ -2,9 +2,14 @@
   "id": 152733871,
   "type": "Feature",
   "properties": {
+    "addr:full":"944 18th St S Birmingham AL 35205",
+    "addr:housenumber":"944",
+    "addr:postcode":"35205",
+    "addr:street":"18Th St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.800533,33.501284,-86.800533,33.501284",
     "geom:latitude":33.501284,
     "geom:longitude":-86.800533,
@@ -26,11 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
-        85819533,
-        85876277
+        85876277,
+        85819533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,26 +46,28 @@
     "wof:geomhash":"e924a48bec219109b57bad98a5747b95",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102085481,
-            "locality_id":85914465,
-            "neighbourhood_id":85819533,
-            "region_id":85688675,
-            "venue_id":152733871
-        },
-        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
             "neighbourhood_id":85876277,
             "region_id":85688675,
             "venue_id":152733871
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85819533,
+            "region_id":85688675,
+            "venue_id":152733871
         }
     ],
     "wof:id":152733871,
-    "wof:lastmodified":1466319559,
+    "wof:lastmodified":1491914568,
     "wof:name":"Alamed",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

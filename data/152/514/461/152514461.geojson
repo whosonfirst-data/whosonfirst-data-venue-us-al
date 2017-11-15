@@ -2,9 +2,14 @@
   "id": 152514461,
   "type": "Feature",
   "properties": {
+    "addr:full":"504 Jefferson Blvd Birmingham AL 35217",
+    "addr:housenumber":"504",
+    "addr:postcode":"35217",
+    "addr:street":"Jefferson Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.783157,33.568228,-86.783157,33.568228",
     "geom:latitude":33.568228,
     "geom:longitude":-86.783157,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"3392147db1a5781e1b6cb21c68913982",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152514461,
-    "wof:lastmodified":1466318496,
+    "wof:lastmodified":1491930580,
     "wof:name":"Le's Convenience Store",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",

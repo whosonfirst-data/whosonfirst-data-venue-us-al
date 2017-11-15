@@ -2,9 +2,14 @@
   "id": 152418731,
   "type": "Feature",
   "properties": {
+    "addr:full":"3716 Lorna Rd Birmingham AL 35216",
+    "addr:housenumber":"3716",
+    "addr:postcode":"35216",
+    "addr:street":"Lorna Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.79962,33.379675,-86.79962,33.379675",
     "geom:latitude":33.379675,
     "geom:longitude":-86.79962,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"6fefd1b775346d1eecefd07c6167bd7d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152418731,
-    "wof:lastmodified":1466317931,
+    "wof:lastmodified":1491927102,
     "wof:name":"Elizabeth Annes Heirloom Sew",
     "wof:parent_id":85858879,
     "wof:placetype":"venue",

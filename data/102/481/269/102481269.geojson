@@ -2,9 +2,14 @@
   "id": 102481269,
   "type": "Feature",
   "properties": {
+    "addr:full":"3627 Cedarbrook Trl Birmingham AL 35216",
+    "addr:housenumber":"3627",
+    "addr:postcode":"35216",
+    "addr:street":"Cedarbrook Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.791805,33.381864,-86.791805,33.381864",
     "geom:latitude":33.381864,
     "geom:longitude":-86.791805,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"54d504aeaa12b44c8b85622d9cebbacb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":102481269,
-    "wof:lastmodified":1466315357,
+    "wof:lastmodified":1491927122,
     "wof:name":"Cedarbrook Apartments",
     "wof:parent_id":85858879,
     "wof:placetype":"venue",

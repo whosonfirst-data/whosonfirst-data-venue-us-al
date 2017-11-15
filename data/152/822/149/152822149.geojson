@@ -2,9 +2,14 @@
   "id": 152822149,
   "type": "Feature",
   "properties": {
+    "addr:full":"2930 4th Ave S Birmingham AL 35233",
+    "addr:housenumber":"2930",
+    "addr:postcode":"35233",
+    "addr:street":"4Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.788722,33.51548,-86.788722,33.51548",
     "geom:latitude":33.51548,
     "geom:longitude":-86.788722,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"dda3cd746aec22a4c06a11eb903686c5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152822149,
-    "wof:lastmodified":1466320100,
+    "wof:lastmodified":1491921692,
     "wof:name":"Williamson Imported Parts Co",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

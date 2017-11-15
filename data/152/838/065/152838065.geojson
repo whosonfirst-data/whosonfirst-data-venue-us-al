@@ -2,9 +2,14 @@
   "id": 152838065,
   "type": "Feature",
   "properties": {
+    "addr:full":"812 18th Way SW Birmingham AL 35211",
+    "addr:housenumber":"812",
+    "addr:postcode":"35211",
+    "addr:street":"18Th Way Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.867179,33.481427,-86.867179,33.481427",
     "geom:latitude":33.481427,
     "geom:longitude":-86.867179,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"0d586f1f59f24cd863f6c7bff8e7522d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152838065,
-    "wof:lastmodified":1466320011,
+    "wof:lastmodified":1491887257,
     "wof:name":"Eureka Family Center",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

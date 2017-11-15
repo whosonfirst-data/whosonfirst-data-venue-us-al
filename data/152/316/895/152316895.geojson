@@ -2,9 +2,14 @@
   "id": 152316895,
   "type": "Feature",
   "properties": {
+    "addr:full":"3642 Lorna Rd Birmingham AL 35216",
+    "addr:housenumber":"3642",
+    "addr:postcode":"35216",
+    "addr:street":"Lorna Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.794865,33.382562,-86.794865,33.382562",
     "geom:latitude":33.382562,
     "geom:longitude":-86.794865,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"6572d022a25f96550a224d3c8508245a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152316895,
-    "wof:lastmodified":1466317286,
+    "wof:lastmodified":1491927116,
     "wof:name":"Classic Cleaners",
     "wof:parent_id":85858879,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 102619825,
   "type": "Feature",
   "properties": {
+    "addr:full":"1150 10th Ave S Birmingham AL 35294",
+    "addr:housenumber":"1150",
+    "addr:postcode":"35294",
+    "addr:street":"10Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.808032,33.496232,-86.808032,33.496232",
     "geom:latitude":33.496232,
     "geom:longitude":-86.808032,
@@ -30,9 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
+        85813175,
         85819533
     ],
     "wof:breaches":[],
@@ -43,6 +50,16 @@
     "wof:geomhash":"b247afe3092577416a664c934377d4e1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85813175,
+            "region_id":85688675,
+            "venue_id":102619825
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -52,9 +69,9 @@
         }
     ],
     "wof:id":102619825,
-    "wof:lastmodified":1466317406,
+    "wof:lastmodified":1491914539,
     "wof:name":"University Alabama Cmpt Ctr",
-    "wof:parent_id":85819533,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 152135411,
   "type": "Feature",
   "properties": {
+    "addr:full":"4200 Vanderbilt Rd Birmingham AL 35217",
+    "addr:housenumber":"4200",
+    "addr:postcode":"35217",
+    "addr:street":"Vanderbilt Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.783466,33.564092,-86.783466,33.564092",
     "geom:latitude":33.564092,
     "geom:longitude":-86.783466,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -46,6 +52,7 @@
     "wof:geomhash":"596a1051afa3582f91e4335ac99085e3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":152135411,
-    "wof:lastmodified":1466315293,
+    "wof:lastmodified":1491930565,
     "wof:name":"Budget Truck Rental",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",

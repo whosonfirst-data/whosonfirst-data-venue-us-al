@@ -2,9 +2,14 @@
   "id": 102473177,
   "type": "Feature",
   "properties": {
+    "addr:full":"4901 1st Ave N Birmingham AL 35222",
+    "addr:housenumber":"4901",
+    "addr:postcode":"35222",
+    "addr:street":"1St Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.760989,33.535615,-86.760989,33.535615",
     "geom:latitude":33.535615,
     "geom:longitude":-86.760989,
@@ -26,9 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
+        85815977,
         85858829
     ],
     "wof:breaches":[],
@@ -39,6 +46,16 @@
     "wof:geomhash":"d2cf23c8c021330f91927c3a960b7c88",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85815977,
+            "region_id":85688675,
+            "venue_id":102473177
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,9 +65,9 @@
         }
     ],
     "wof:id":102473177,
-    "wof:lastmodified":1466315303,
+    "wof:lastmodified":1491930569,
     "wof:name":"Baseemah Taxi Svc",
-    "wof:parent_id":85858829,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

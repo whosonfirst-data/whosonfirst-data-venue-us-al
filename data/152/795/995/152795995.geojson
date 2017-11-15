@@ -2,9 +2,14 @@
   "id": 152795995,
   "type": "Feature",
   "properties": {
+    "addr:full":"1808 30th St N Birmingham AL 35234",
+    "addr:housenumber":"1808",
+    "addr:postcode":"35234",
+    "addr:street":"30Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.807348,33.543277,-86.807348,33.543277",
     "geom:latitude":33.543277,
     "geom:longitude":-86.807348,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"2fe1376e12e7fad532740cd7f01116b5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152795995,
-    "wof:lastmodified":1466319829,
+    "wof:lastmodified":1491885656,
     "wof:name":"Wholesale Wood",
     "wof:parent_id":85838531,
     "wof:placetype":"venue",

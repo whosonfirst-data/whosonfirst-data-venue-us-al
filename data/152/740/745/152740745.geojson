@@ -2,9 +2,14 @@
   "id": 152740745,
   "type": "Feature",
   "properties": {
+    "addr:full":"2719 4th Ave S Birmingham AL 35233",
+    "addr:housenumber":"2719",
+    "addr:postcode":"35233",
+    "addr:street":"4Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.79122,33.514123,-86.79122,33.514123",
     "geom:latitude":33.514123,
     "geom:longitude":-86.79122,
@@ -38,6 +43,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -51,6 +57,7 @@
     "wof:geomhash":"1ff4cf2bd5b2656353d76fed20681360",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":152740745,
-    "wof:lastmodified":1466319676,
+    "wof:lastmodified":1491921723,
     "wof:name":"Burnham's Fine Cabinetry",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

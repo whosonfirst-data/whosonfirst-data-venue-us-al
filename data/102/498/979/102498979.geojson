@@ -2,9 +2,14 @@
   "id": 102498979,
   "type": "Feature",
   "properties": {
+    "addr:full":"3080 State Rte 150 Birmingham AL 35244",
+    "addr:housenumber":"3080",
+    "addr:postcode":"35244",
+    "addr:street":"State Rte 150",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.807086,33.375572,-86.807086,33.375572",
     "geom:latitude":33.375572,
     "geom:longitude":-86.807086,
@@ -26,12 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
-        85858879,
-        102085499,
-        85802401
+        85858879
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,26 +45,19 @@
     "wof:geomhash":"b364dd5d48c5ecd82025cc50d50839ef",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
             "neighbourhood_id":85858879,
             "region_id":85688675,
             "venue_id":102498979
-        },
-        {
-            "country_id":85633793,
-            "county_id":102085499,
-            "locality_id":85914475,
-            "neighbourhood_id":85802401,
-            "region_id":85688675,
-            "venue_id":102498979
         }
     ],
     "wof:id":102498979,
-    "wof:lastmodified":1466316459,
+    "wof:lastmodified":1491927120,
     "wof:name":"The Pink Tulip",
-    "wof:parent_id":-1,
+    "wof:parent_id":85858879,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 102445039,
   "type": "Feature",
   "properties": {
+    "addr:full":"2318 2nd Ave N Birmingham AL 35203",
+    "addr:housenumber":"2318",
+    "addr:postcode":"35203",
+    "addr:street":"2Nd Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.801045,33.517944,-86.801045,33.517944",
     "geom:latitude":33.517944,
     "geom:longitude":-86.801045,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"7e9621495d18e8be1f6c720fe055232c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":102445039,
-    "wof:lastmodified":1466314321,
+    "wof:lastmodified":1491921716,
     "wof:name":"FDSK German Culture Club",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

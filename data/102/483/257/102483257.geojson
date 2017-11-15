@@ -2,9 +2,14 @@
   "id": 102483257,
   "type": "Feature",
   "properties": {
+    "addr:full":"4030 40th Ter N Birmingham AL 35217",
+    "addr:housenumber":"4030",
+    "addr:postcode":"35217",
+    "addr:street":"40Th Ter N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.777148,33.562328,-86.777148,33.562328",
     "geom:latitude":33.562328,
     "geom:longitude":-86.777148,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"2626377d446d63ef0b6bbd4df41ad764",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":102483257,
-    "wof:lastmodified":1466315636,
+    "wof:lastmodified":1491930589,
     "wof:name":"Inglenook Baptist Church",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",

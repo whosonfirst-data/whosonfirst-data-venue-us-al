@@ -2,9 +2,14 @@
   "id": 102466895,
   "type": "Feature",
   "properties": {
+    "addr:full":"4221 Dolly Ridge Rd Birmingham AL 35243",
+    "addr:housenumber":"4221",
+    "addr:postcode":"35243",
+    "addr:street":"Dolly Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.740836,33.450332,-86.740836,33.450332",
     "geom:latitude":33.450332,
     "geom:longitude":-86.740836,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -43,6 +49,7 @@
     "wof:geomhash":"719bde75c5bbad2d384df7d6cf8c8654",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":102466895,
-    "wof:lastmodified":1466315260,
+    "wof:lastmodified":1491897896,
     "wof:name":"Homecare Plus",
     "wof:parent_id":85856691,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 102476613,
   "type": "Feature",
   "properties": {
+    "addr:full":"3586 Cedar Creek Cir Trussville AL 35173",
+    "addr:housenumber":"3586",
+    "addr:postcode":"35173",
+    "addr:street":"Cedar Creek Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.627023,33.609669,-86.627023,33.609669",
     "geom:latitude":33.609669,
     "geom:longitude":-86.627023,
@@ -29,10 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85913473,
         102085481,
-        85852855
+        85852855,
+        85852733
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,18 +49,27 @@
     "wof:geomhash":"8e79d9621fe294666d39435c87a3bc6f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85913473,
             "neighbourhood_id":85852855,
             "region_id":85688675,
             "venue_id":102476613
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85913473,
+            "neighbourhood_id":85852733,
+            "region_id":85688675,
+            "venue_id":102476613
         }
     ],
     "wof:id":102476613,
-    "wof:lastmodified":1466314434,
+    "wof:lastmodified":1491928880,
     "wof:name":"Complete Cleaners",
-    "wof:parent_id":85852855,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 102473459,
   "type": "Feature",
   "properties": {
+    "addr:full":"3011 31st Ave N Birmingham AL 35207",
+    "addr:housenumber":"3011",
+    "addr:postcode":"35207",
+    "addr:street":"31St Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.805978,33.554085,-86.805978,33.554085",
     "geom:latitude":33.554085,
     "geom:longitude":-86.805978,
@@ -29,10 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
-        85876271
+        85837367
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,18 +48,19 @@
     "wof:geomhash":"33c7630d536c6a0dcd9bec0bf01c61c9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
-            "neighbourhood_id":85876271,
+            "neighbourhood_id":85837367,
             "region_id":85688675,
             "venue_id":102473459
         }
     ],
     "wof:id":102473459,
-    "wof:lastmodified":1466315360,
+    "wof:lastmodified":1491929436,
     "wof:name":"Rice Cleaning Service",
-    "wof:parent_id":85876271,
+    "wof:parent_id":85837367,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

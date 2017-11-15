@@ -2,9 +2,14 @@
   "id": 152716999,
   "type": "Feature",
   "properties": {
+    "addr:full":"4967 Horst Hill Rd Birmingham AL 35210",
+    "addr:housenumber":"4967",
+    "addr:postcode":"35210",
+    "addr:street":"Horst Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.65935,33.523154,-86.65935,33.523154",
     "geom:latitude":33.523154,
     "geom:longitude":-86.65935,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"9b772518b6987c4613599ca4987ca22c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152716999,
-    "wof:lastmodified":1466319518,
+    "wof:lastmodified":1491922692,
     "wof:name":"Cheer Tech Inc",
     "wof:parent_id":85804755,
     "wof:placetype":"venue",

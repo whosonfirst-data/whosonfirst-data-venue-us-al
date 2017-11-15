@@ -2,9 +2,14 @@
   "id": 102441585,
   "type": "Feature",
   "properties": {
+    "addr:full":"3728 Lorna Rd Birmingham AL 35216",
+    "addr:housenumber":"3728",
+    "addr:postcode":"35216",
+    "addr:street":"Lorna Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.801363,33.37843,-86.801363,33.37843",
     "geom:latitude":33.37843,
     "geom:longitude":-86.801363,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"2afc37689a9d97302428485030debfc5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":102441585,
-    "wof:lastmodified":1466314401,
+    "wof:lastmodified":1491927114,
     "wof:name":"Shoe Inn",
     "wof:parent_id":85858879,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 102520487,
   "type": "Feature",
   "properties": {
+    "addr:full":"1817 Crestwood Blvd Irondale AL 35210",
+    "addr:housenumber":"1817",
+    "addr:postcode":"35210",
+    "addr:street":"Crestwood Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.703132,33.533229,-86.703132,33.533229",
     "geom:latitude":33.533229,
     "geom:longitude":-86.703132,
@@ -29,10 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914835,
         102085481,
-        85851139
+        85819529
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,18 +48,19 @@
     "wof:geomhash":"6ed1824540ab5f23afaae5288ff946a0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914835,
-            "neighbourhood_id":85851139,
+            "neighbourhood_id":85819529,
             "region_id":85688675,
             "venue_id":102520487
         }
     ],
     "wof:id":102520487,
-    "wof:lastmodified":1466317130,
+    "wof:lastmodified":1491905255,
     "wof:name":"Amvets Post 3517",
-    "wof:parent_id":85851139,
+    "wof:parent_id":85819529,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 152892431,
   "type": "Feature",
   "properties": {
+    "addr:full":"2328 Bluff Rd Birmingham AL 35226",
+    "addr:housenumber":"2328",
+    "addr:postcode":"35226",
+    "addr:street":"Bluff Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.844712,33.408944,-86.844712,33.408944",
     "geom:latitude":33.408944,
     "geom:longitude":-86.844712,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"694ef94dc883838c247be91ced8de8ca",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152892431,
-    "wof:lastmodified":1466320298,
+    "wof:lastmodified":1491898827,
     "wof:name":"Baker Roofing",
     "wof:parent_id":85828169,
     "wof:placetype":"venue",

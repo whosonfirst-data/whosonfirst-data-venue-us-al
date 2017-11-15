@@ -2,9 +2,14 @@
   "id": 152328829,
   "type": "Feature",
   "properties": {
+    "addr:full":"4711 4th Ave S Birmingham AL 35222",
+    "addr:housenumber":"4711",
+    "addr:postcode":"35222",
+    "addr:street":"4Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.76031,33.528882,-86.76031,33.528882",
     "geom:latitude":33.528882,
     "geom:longitude":-86.76031,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"b04f40171f7552560795fdada0d707db",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152328829,
-    "wof:lastmodified":1466317423,
+    "wof:lastmodified":1491930573,
     "wof:name":"Unique Fashions & Things",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",

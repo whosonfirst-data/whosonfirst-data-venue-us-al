@@ -2,9 +2,14 @@
   "id": 152595157,
   "type": "Feature",
   "properties": {
+    "addr:full":"1908 Tall Timbers Dr Birmingham AL 35226",
+    "addr:housenumber":"1908",
+    "addr:postcode":"35226",
+    "addr:street":"Tall Timbers Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.811151,33.385704,-86.811151,33.385704",
     "geom:latitude":33.385704,
     "geom:longitude":-86.811151,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"463558a86d9cd81c99e497677b5a12f8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152595157,
-    "wof:lastmodified":1466318798,
+    "wof:lastmodified":1491902296,
     "wof:name":"Thomason Rick Plbg Htg & Coolg",
     "wof:parent_id":85842589,
     "wof:placetype":"venue",

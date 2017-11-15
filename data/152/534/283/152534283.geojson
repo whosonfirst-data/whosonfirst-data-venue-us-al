@@ -2,9 +2,14 @@
   "id": 152534283,
   "type": "Feature",
   "properties": {
+    "addr:full":"4412 43rd Ave N Birmingham AL 35217",
+    "addr:housenumber":"4412",
+    "addr:postcode":"35217",
+    "addr:street":"43Rd Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.769249,33.564277,-86.769249,33.564277",
     "geom:latitude":33.564277,
     "geom:longitude":-86.769249,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -43,6 +49,7 @@
     "wof:geomhash":"ed08a2e6011be2ac50fe4a07255cc1e6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":152534283,
-    "wof:lastmodified":1466318426,
+    "wof:lastmodified":1491930577,
     "wof:name":"Goudy Photography",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",

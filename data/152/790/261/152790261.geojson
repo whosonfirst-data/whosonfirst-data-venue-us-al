@@ -2,9 +2,14 @@
   "id": 152790261,
   "type": "Feature",
   "properties": {
+    "addr:full":"3026 Avenue W Birmingham AL 35208",
+    "addr:housenumber":"3026",
+    "addr:postcode":"35208",
+    "addr:street":"Avenue W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.878124,33.499177,-86.878124,33.499177",
     "geom:latitude":33.499177,
     "geom:longitude":-86.878124,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"d2faf4ddfc4add385d9bfea54d59cb03",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152790261,
-    "wof:lastmodified":1466319838,
+    "wof:lastmodified":1491887295,
     "wof:name":"Spencer Vctor R Attrney At Law",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

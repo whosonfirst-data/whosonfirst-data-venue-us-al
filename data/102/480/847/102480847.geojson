@@ -2,9 +2,14 @@
   "id": 102480847,
   "type": "Feature",
   "properties": {
+    "addr:full":"911 Alton Pkwy Birmingham AL 35210",
+    "addr:housenumber":"911",
+    "addr:postcode":"35210",
+    "addr:street":"Alton Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.646626,33.580837,-86.646626,33.580837",
     "geom:latitude":33.580837,
     "geom:longitude":-86.646626,
@@ -25,10 +30,12 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85914465,
-        85633793,
         85688675,
-        102085481
+        102191575,
+        85633793,
+        85913473,
+        102085481,
+        85852855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +45,19 @@
     "wof:geomhash":"00b8dc03a846d9e9be727ee139381aa7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
-            "locality_id":85914465,
+            "locality_id":85913473,
+            "neighbourhood_id":85852855,
             "region_id":85688675,
             "venue_id":102480847
         }
     ],
     "wof:id":102480847,
-    "wof:lastmodified":1466315275,
+    "wof:lastmodified":1491928882,
     "wof:name":"Scenic Property Management",
-    "wof:parent_id":-1,
+    "wof:parent_id":85852855,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

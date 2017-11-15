@@ -2,9 +2,14 @@
   "id": 102602865,
   "type": "Feature",
   "properties": {
+    "addr:full":"2504 Woodmeadow Pl Birmingham AL 35216",
+    "addr:housenumber":"2504",
+    "addr:postcode":"35216",
+    "addr:street":"Woodmeadow Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.798967,33.386313,-86.798967,33.386313",
     "geom:latitude":33.386313,
     "geom:longitude":-86.798967,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"66ca5acba5aeed1e47c16b494d1f49f1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":102602865,
-    "wof:lastmodified":1466317083,
+    "wof:lastmodified":1491927117,
     "wof:name":"J&S Partners Inc",
     "wof:parent_id":85858879,
     "wof:placetype":"venue",

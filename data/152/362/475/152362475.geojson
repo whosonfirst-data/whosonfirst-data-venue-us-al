@@ -2,9 +2,14 @@
   "id": 152362475,
   "type": "Feature",
   "properties": {
+    "addr:full":"2117 Ave H Birmingham AL 35218",
+    "addr:housenumber":"",
+    "addr:postcode":"35218",
+    "addr:street":"2117 Ave H",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.89531,33.509417,-86.89531,33.509417",
     "geom:latitude":33.509417,
     "geom:longitude":-86.89531,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"0bd2f3a5f1b21fc1b8c43c40349d3fe2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152362475,
-    "wof:lastmodified":1466317492,
+    "wof:lastmodified":1491887289,
     "wof:name":"Agape",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

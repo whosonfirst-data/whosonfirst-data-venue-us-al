@@ -2,9 +2,14 @@
   "id": 152486495,
   "type": "Feature",
   "properties": {
+    "addr:full":"1520 N Huron Pl Birmingham AL 35224",
+    "addr:housenumber":"1520",
+    "addr:postcode":"35224",
+    "addr:street":"N Huron Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.921266,33.530437,-86.921266,33.530437",
     "geom:latitude":33.530437,
     "geom:longitude":-86.921266,
@@ -29,8 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688675,
+        102191575,
         85633793,
-        85688675
+        85914465,
+        102085481,
+        85818187
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +49,19 @@
     "wof:geomhash":"56d5c2370f2dd3a46092b33a29b33a29",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85818187,
             "region_id":85688675,
             "venue_id":152486495
         }
     ],
     "wof:id":152486495,
-    "wof:lastmodified":1466318258,
+    "wof:lastmodified":1491887282,
     "wof:name":"King's Construction",
-    "wof:parent_id":-1,
+    "wof:parent_id":85818187,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

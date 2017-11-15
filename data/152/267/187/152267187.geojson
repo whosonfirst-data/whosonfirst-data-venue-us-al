@@ -2,9 +2,14 @@
   "id": 152267187,
   "type": "Feature",
   "properties": {
+    "addr:full":"1616 6th Ave S Birmingham AL 35222",
+    "addr:housenumber":"1616",
+    "addr:postcode":"35222",
+    "addr:street":"6Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.805093,33.504971,-86.805093,33.504971",
     "geom:latitude":33.504971,
     "geom:longitude":-86.805093,
@@ -29,11 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
-        85819533,
-        85876277
+        85876277,
+        85819533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,26 +49,28 @@
     "wof:geomhash":"bb0fddf70a52fbbbbfd1970041d2e5fc",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102085481,
-            "locality_id":85914465,
-            "neighbourhood_id":85819533,
-            "region_id":85688675,
-            "venue_id":152267187
-        },
-        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
             "neighbourhood_id":85876277,
             "region_id":85688675,
             "venue_id":152267187
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85819533,
+            "region_id":85688675,
+            "venue_id":152267187
         }
     ],
     "wof:id":152267187,
-    "wof:lastmodified":1466316861,
+    "wof:lastmodified":1491914543,
     "wof:name":"University of Alabama",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

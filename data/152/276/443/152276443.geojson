@@ -2,9 +2,14 @@
   "id": 152276443,
   "type": "Feature",
   "properties": {
+    "addr:full":"1919 Bessemer Rd Birmingham AL 35208",
+    "addr:housenumber":"1919",
+    "addr:postcode":"35208",
+    "addr:street":"Bessemer Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.884058,33.491174,-86.884058,33.491174",
     "geom:latitude":33.491174,
     "geom:longitude":-86.884058,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"0ef584fef777cbb5add74822e89d3f53",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152276443,
-    "wof:lastmodified":1466316931,
+    "wof:lastmodified":1491887266,
     "wof:name":"Central Park Beauty Salon",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 102485533,
   "type": "Feature",
   "properties": {
+    "addr:full":"3201 27th Ave N Birmingham AL 35207",
+    "addr:housenumber":"3201",
+    "addr:postcode":"35207",
+    "addr:street":"27Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.80413,33.549569,-86.80413,33.549569",
     "geom:latitude":33.549569,
     "geom:longitude":-86.80413,
@@ -30,10 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
-        85876271
+        85838531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +49,19 @@
     "wof:geomhash":"ee359133a695ec23a1a4aa80c6d12f82",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
-            "neighbourhood_id":85876271,
+            "neighbourhood_id":85838531,
             "region_id":85688675,
             "venue_id":102485533
         }
     ],
     "wof:id":102485533,
-    "wof:lastmodified":1466315791,
+    "wof:lastmodified":1491885656,
     "wof:name":"Alco Machine Co Inc",
-    "wof:parent_id":85876271,
+    "wof:parent_id":85838531,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

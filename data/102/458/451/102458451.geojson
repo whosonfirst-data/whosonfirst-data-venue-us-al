@@ -2,9 +2,14 @@
   "id": 102458451,
   "type": "Feature",
   "properties": {
+    "addr:full":"2206 31st St Birmingham AL 35208",
+    "addr:housenumber":"2206",
+    "addr:postcode":"35208",
+    "addr:street":"31St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.877665,33.498441,-86.877665,33.498441",
     "geom:latitude":33.498441,
     "geom:longitude":-86.877665,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"5843c9e42a634f73cf3a4a7c74d93da6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":102458451,
-    "wof:lastmodified":1466315506,
+    "wof:lastmodified":1491887297,
     "wof:name":"A & I Lady & Children Fashion",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

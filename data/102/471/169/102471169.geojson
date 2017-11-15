@@ -2,9 +2,14 @@
   "id": 102471169,
   "type": "Feature",
   "properties": {
+    "addr:full":"1945 Bessemer Rd Birmingham AL 35208",
+    "addr:housenumber":"1945",
+    "addr:postcode":"35208",
+    "addr:street":"Bessemer Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.883285,33.491754,-86.883285,33.491754",
     "geom:latitude":33.491754,
     "geom:longitude":-86.883285,
@@ -32,10 +37,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
-        85832747
+        85818187
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +51,19 @@
     "wof:geomhash":"6680026567b4d46b46c87a6ff9a3402b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
-            "neighbourhood_id":85832747,
+            "neighbourhood_id":85818187,
             "region_id":85688675,
             "venue_id":102471169
         }
     ],
     "wof:id":102471169,
-    "wof:lastmodified":1466315247,
+    "wof:lastmodified":1491887288,
     "wof:name":"Blockbuster Video",
-    "wof:parent_id":85832747,
+    "wof:parent_id":85818187,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 152842083,
   "type": "Feature",
   "properties": {
+    "addr:full":"2920 Lomb Ave Birmingham AL 35208",
+    "addr:housenumber":"",
+    "addr:postcode":"2920;35208",
+    "addr:street":"Lomb Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.868104,33.500574,-86.868104,33.500574",
     "geom:latitude":33.500574,
     "geom:longitude":-86.868104,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"a201e828ac7a0afa9dbb0bad484f6f14",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152842083,
-    "wof:lastmodified":1466320037,
+    "wof:lastmodified":1491887291,
     "wof:name":"Rev F V Walker",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

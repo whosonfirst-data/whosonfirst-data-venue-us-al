@@ -2,9 +2,14 @@
   "id": 152426891,
   "type": "Feature",
   "properties": {
+    "addr:full":"8 50th St N Birmingham AL 35212",
+    "addr:housenumber":"8",
+    "addr:postcode":"35212",
+    "addr:street":"50Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.760538,33.53477,-86.760538,33.53477",
     "geom:latitude":33.53477,
     "geom:longitude":-86.760538,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -43,6 +49,7 @@
     "wof:geomhash":"c179701632d11defee76dd0496f12a62",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":152426891,
-    "wof:lastmodified":1466318081,
+    "wof:lastmodified":1491930578,
     "wof:name":"Johnson's Home Repair",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",

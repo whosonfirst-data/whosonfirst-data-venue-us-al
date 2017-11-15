@@ -2,9 +2,14 @@
   "id": 152894847,
   "type": "Feature",
   "properties": {
+    "addr:full":"1733 River Haven Ln Birmingham AL 35244",
+    "addr:housenumber":"1733",
+    "addr:postcode":"35244",
+    "addr:street":"River Haven Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.789217,33.375332,-86.789217,33.375332",
     "geom:latitude":33.375332,
     "geom:longitude":-86.789217,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"69a4c0d4003e10e8ec91f62f91d54274",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152894847,
-    "wof:lastmodified":1466320316,
+    "wof:lastmodified":1491927118,
     "wof:name":"Shelby Machine & Tool Inc",
     "wof:parent_id":85858879,
     "wof:placetype":"venue",

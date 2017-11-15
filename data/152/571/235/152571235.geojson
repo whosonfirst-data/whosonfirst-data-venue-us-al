@@ -2,9 +2,14 @@
   "id": 152571235,
   "type": "Feature",
   "properties": {
+    "addr:full":"429 Cloudland Dr Birmingham AL 35226",
+    "addr:housenumber":"429",
+    "addr:postcode":"35226",
+    "addr:street":"Cloudland Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.848571,33.404412,-86.848571,33.404412",
     "geom:latitude":33.404412,
     "geom:longitude":-86.848571,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"d4bec42490254c1180091987a0b90694",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152571235,
-    "wof:lastmodified":1466318739,
+    "wof:lastmodified":1491898827,
     "wof:name":"St Albans Episcopal Church",
     "wof:parent_id":85828169,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 152735197,
   "type": "Feature",
   "properties": {
+    "addr:full":"4347 Morris Ave Birmingham AL 35222",
+    "addr:housenumber":"4347",
+    "addr:postcode":"35222",
+    "addr:street":"Morris Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.769247,33.531057,-86.769247,33.531057",
     "geom:latitude":33.531057,
     "geom:longitude":-86.769247,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"a8655af6521eb97fa788d60010d7b345",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152735197,
-    "wof:lastmodified":1466319408,
+    "wof:lastmodified":1491930569,
     "wof:name":"Clutch Exchange",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",

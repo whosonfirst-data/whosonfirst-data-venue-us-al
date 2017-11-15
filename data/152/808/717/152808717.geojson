@@ -2,9 +2,14 @@
   "id": 152808717,
   "type": "Feature",
   "properties": {
+    "addr:full":"3541 W Lakeside Dr Birmingham AL 35243",
+    "addr:housenumber":"3541",
+    "addr:postcode":"35243",
+    "addr:street":"W Lakeside Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.725376,33.442305,-86.725376,33.442305",
     "geom:latitude":33.442305,
     "geom:longitude":-86.725376,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"e3eafd48fd8d23e56a108f22d31df8ba",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152808717,
-    "wof:lastmodified":1466319904,
+    "wof:lastmodified":1491897884,
     "wof:name":"Rams LLC",
     "wof:parent_id":85856691,
     "wof:placetype":"venue",

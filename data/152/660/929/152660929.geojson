@@ -2,9 +2,14 @@
   "id": 152660929,
   "type": "Feature",
   "properties": {
+    "addr:full":"2616 31st Ave N Birmingham AL 35207",
+    "addr:housenumber":"2616",
+    "addr:postcode":"35207",
+    "addr:street":"31St Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.817144,33.553183,-86.817144,33.553183",
     "geom:latitude":33.553183,
     "geom:longitude":-86.817144,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"13ddfd961bae16be2e703bcd021d5e66",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152660929,
-    "wof:lastmodified":1466319169,
+    "wof:lastmodified":1491929435,
     "wof:name":"Arrow Cleaners",
     "wof:parent_id":85837367,
     "wof:placetype":"venue",

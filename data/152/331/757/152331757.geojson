@@ -2,9 +2,14 @@
   "id": 152331757,
   "type": "Feature",
   "properties": {
+    "addr:full":"501 Minor Pkwy Birmingham AL 35224",
+    "addr:housenumber":"501",
+    "addr:postcode":"35224",
+    "addr:street":"Minor Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.915443,33.521875,-86.915443,33.521875",
     "geom:latitude":33.521875,
     "geom:longitude":-86.915443,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -44,6 +50,7 @@
     "wof:geomhash":"daa7ec2c284f267c2d8ffcb347c7ccd3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":152331757,
-    "wof:lastmodified":1466317383,
+    "wof:lastmodified":1491887258,
     "wof:name":"Charlie's Go-Go",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 102459273,
   "type": "Feature",
   "properties": {
+    "addr:full":"2915 3rd Ave N Birmingham AL 35203",
+    "addr:housenumber":"2915",
+    "addr:postcode":"35203",
+    "addr:street":"3Rd Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.794444,33.522146,-86.794444,33.522146",
     "geom:latitude":33.522146,
     "geom:longitude":-86.794444,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"65124131de92e2935923b20a04d4fbb6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":102459273,
-    "wof:lastmodified":1466314937,
+    "wof:lastmodified":1491921730,
     "wof:name":"R & W Wholesale Flowers",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 102445755,
   "type": "Feature",
   "properties": {
+    "addr:full":"2821 2nd Ave S Birmingham AL 35233",
+    "addr:housenumber":"2821",
+    "addr:postcode":"35233",
+    "addr:street":"2Nd Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.791129,33.516582,-86.791129,33.516582",
     "geom:latitude":33.516582,
     "geom:longitude":-86.791129,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -43,6 +49,7 @@
     "wof:geomhash":"b5260b243c6b7be873b3114bad73791b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":102445755,
-    "wof:lastmodified":1466314468,
+    "wof:lastmodified":1491921748,
     "wof:name":"Prentiss Douthit Design & Advg",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

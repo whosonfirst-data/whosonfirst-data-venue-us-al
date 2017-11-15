@@ -2,9 +2,14 @@
   "id": 152847489,
   "type": "Feature",
   "properties": {
+    "addr:full":"712 18th St Birmingham AL 35218",
+    "addr:housenumber":"712",
+    "addr:postcode":"35218",
+    "addr:street":"18Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.893659,33.512711,-86.893659,33.512711",
     "geom:latitude":33.512711,
     "geom:longitude":-86.893659,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"67d2ce5ca857a5a1282eff1c1461cdfc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152847489,
-    "wof:lastmodified":1466320090,
+    "wof:lastmodified":1491887263,
     "wof:name":"Maurice Rogers Attorney",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

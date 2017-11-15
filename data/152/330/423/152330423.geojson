@@ -2,9 +2,14 @@
   "id": 152330423,
   "type": "Feature",
   "properties": {
+    "addr:full":"14 41st St N Birmingham AL 35222",
+    "addr:housenumber":"14",
+    "addr:postcode":"35222",
+    "addr:street":"41St St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.776888,33.528165,-86.776888,33.528165",
     "geom:latitude":33.528165,
     "geom:longitude":-86.776888,
@@ -34,10 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85914465,
-        85633793,
         85688675,
-        102085481
+        102191575,
+        85633793,
+        85914465,
+        102085481,
+        85876275,
+        85815977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +55,28 @@
     "wof:geomhash":"a9b2028b2fca3ffd5eea03a4ba74a9ff",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
+            "neighbourhood_id":85876275,
+            "region_id":85688675,
+            "venue_id":152330423
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85815977,
             "region_id":85688675,
             "venue_id":152330423
         }
     ],
     "wof:id":152330423,
-    "wof:lastmodified":1466317365,
+    "wof:lastmodified":1491930573,
     "wof:name":"Atchison Tile Distributing Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

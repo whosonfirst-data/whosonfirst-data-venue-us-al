@@ -2,9 +2,14 @@
   "id": 152739827,
   "type": "Feature",
   "properties": {
+    "addr:full":"2016 10th Ave S Birmingham AL 35205",
+    "addr:housenumber":"2016",
+    "addr:postcode":"35205",
+    "addr:street":"10Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.796032,33.50259,-86.796032,33.50259",
     "geom:latitude":33.50259,
     "geom:longitude":-86.796032,
@@ -26,11 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
-        85819533,
-        85876277
+        85876277,
+        85819533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,26 +46,28 @@
     "wof:geomhash":"737c2d0f563656924d83267bccaa8d36",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102085481,
-            "locality_id":85914465,
-            "neighbourhood_id":85819533,
-            "region_id":85688675,
-            "venue_id":152739827
-        },
-        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
             "neighbourhood_id":85876277,
             "region_id":85688675,
             "venue_id":152739827
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85819533,
+            "region_id":85688675,
+            "venue_id":152739827
         }
     ],
     "wof:id":152739827,
-    "wof:lastmodified":1466319542,
+    "wof:lastmodified":1491914565,
     "wof:name":"David Anderson DMD",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

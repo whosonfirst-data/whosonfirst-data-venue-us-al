@@ -2,9 +2,14 @@
   "id": 152337001,
   "type": "Feature",
   "properties": {
+    "addr:full":"5100 Cahaba River Rd Birmingham AL 35243",
+    "addr:housenumber":"5100",
+    "addr:postcode":"35243",
+    "addr:street":"Cahaba River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.723746,33.429876,-86.723746,33.429876",
     "geom:latitude":33.429876,
     "geom:longitude":-86.723746,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -43,6 +49,7 @@
     "wof:geomhash":"277757debb1dae607e219b9165b02e38",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":152337001,
-    "wof:lastmodified":1466317638,
+    "wof:lastmodified":1491897867,
     "wof:name":"Elmo Glenn Paving Co",
     "wof:parent_id":85856691,
     "wof:placetype":"venue",

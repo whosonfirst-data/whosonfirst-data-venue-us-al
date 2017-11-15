@@ -2,9 +2,14 @@
   "id": 102508609,
   "type": "Feature",
   "properties": {
+    "addr:full":"4245 1st Ave N Birmingham AL 35222",
+    "addr:housenumber":"4245",
+    "addr:postcode":"35222",
+    "addr:street":"1St Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.773075,33.529701,-86.773075,33.529701",
     "geom:latitude":33.529701,
     "geom:longitude":-86.773075,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"43daa6aa8f287f5cabb5a8cc841e45b1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":102508609,
-    "wof:lastmodified":1466316636,
+    "wof:lastmodified":1491930588,
     "wof:name":"Etheridge Brothers Barber",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",

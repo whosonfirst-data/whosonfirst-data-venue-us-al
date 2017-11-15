@@ -2,9 +2,14 @@
   "id": 152696409,
   "type": "Feature",
   "properties": {
+    "addr:full":"1529 Carraway Blvd Birmingham AL 35234",
+    "addr:housenumber":"1529",
+    "addr:postcode":"35234",
+    "addr:street":"Carraway Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.808921,33.535417,-86.808921,33.535417",
     "geom:latitude":33.535417,
     "geom:longitude":-86.808921,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -43,6 +49,7 @@
     "wof:geomhash":"0fe50bed9212add399520fef782c3ef7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":152696409,
-    "wof:lastmodified":1466319329,
+    "wof:lastmodified":1491885655,
     "wof:name":"Alabama Cardiovascular Group",
     "wof:parent_id":85838531,
     "wof:placetype":"venue",

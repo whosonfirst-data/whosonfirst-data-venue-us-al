@@ -2,9 +2,14 @@
   "id": 102503935,
   "type": "Feature",
   "properties": {
+    "addr:full":"2201 24th Ave N Birmingham AL 35234",
+    "addr:housenumber":"2201",
+    "addr:postcode":"35234",
+    "addr:street":"24Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.819334,33.543397,-86.819334,33.543397",
     "geom:latitude":33.543397,
     "geom:longitude":-86.819334,
@@ -31,9 +36,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
+        85837367,
         85876271
     ],
     "wof:breaches":[],
@@ -44,6 +51,16 @@
     "wof:geomhash":"5339cae197bcedff872698df6d5b728f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85837367,
+            "region_id":85688675,
+            "venue_id":102503935
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -53,9 +70,9 @@
         }
     ],
     "wof:id":102503935,
-    "wof:lastmodified":1466316696,
+    "wof:lastmodified":1491929451,
     "wof:name":"Alabama Brick Delivery Inc",
-    "wof:parent_id":85876271,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

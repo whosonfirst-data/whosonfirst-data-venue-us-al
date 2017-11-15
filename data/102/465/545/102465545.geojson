@@ -2,9 +2,14 @@
   "id": 102465545,
   "type": "Feature",
   "properties": {
+    "addr:full":"1205 Water St Birmingham AL 35217",
+    "addr:housenumber":"1205",
+    "addr:postcode":"35217",
+    "addr:street":"Water St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.784459,33.569512,-86.784459,33.569512",
     "geom:latitude":33.569512,
     "geom:longitude":-86.784459,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"dca14b5b49f0aeff9a30157a4aea856a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":102465545,
-    "wof:lastmodified":1466315114,
+    "wof:lastmodified":1491930571,
     "wof:name":"Sweats Sales",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",

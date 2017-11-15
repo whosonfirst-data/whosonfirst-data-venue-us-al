@@ -2,9 +2,14 @@
   "id": 152704513,
   "type": "Feature",
   "properties": {
+    "addr:full":"3333 27th Ave N Birmingham AL 35207",
+    "addr:housenumber":"3333",
+    "addr:postcode":"35207",
+    "addr:street":"27Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.800113,33.549479,-86.800113,33.549479",
     "geom:latitude":33.549479,
     "geom:longitude":-86.800113,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"16c4823de6b809e0d941aad914e6eb7d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152704513,
-    "wof:lastmodified":1466319375,
+    "wof:lastmodified":1491885652,
     "wof:name":"Birmingham Envmtl Clearing Hse",
     "wof:parent_id":85838531,
     "wof:placetype":"venue",

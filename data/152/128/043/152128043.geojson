@@ -2,9 +2,14 @@
   "id": 152128043,
   "type": "Feature",
   "properties": {
+    "addr:full":"852 44th St N Birmingham AL 35212",
+    "addr:housenumber":"852",
+    "addr:postcode":"35212",
+    "addr:street":"44Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.772307,33.537186,-86.772307,33.537186",
     "geom:latitude":33.537186,
     "geom:longitude":-86.772307,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"4b534a3037673b8b988369ddb24f9688",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152128043,
-    "wof:lastmodified":1466314803,
+    "wof:lastmodified":1491930574,
     "wof:name":"Maranathan Family Learning Ctr",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",

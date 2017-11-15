@@ -2,9 +2,14 @@
   "id": 152887379,
   "type": "Feature",
   "properties": {
+    "addr:full":"2408 Canterbury Rd Birmingham AL 35223",
+    "addr:housenumber":"2408",
+    "addr:postcode":"35223",
+    "addr:street":"Canterbury Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.772536,33.483584,-86.772536,33.483584",
     "geom:latitude":33.483584,
     "geom:longitude":-86.772536,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914807,
         102085481,
@@ -45,6 +51,7 @@
     "wof:geomhash":"f22435ac15eb8e93f39ab636b7db2d5d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914807,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":152887379,
-    "wof:lastmodified":1466320263,
+    "wof:lastmodified":1491932286,
     "wof:name":"Timeless Interiors Inc",
     "wof:parent_id":85854765,
     "wof:placetype":"venue",

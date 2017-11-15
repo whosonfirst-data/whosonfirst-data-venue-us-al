@@ -2,9 +2,14 @@
   "id": 152880487,
   "type": "Feature",
   "properties": {
+    "addr:full":"1325 44th St N Birmingham AL 35212",
+    "addr:housenumber":"1325",
+    "addr:postcode":"35212",
+    "addr:street":"44Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.772236,33.547549,-86.772236,33.547549",
     "geom:latitude":33.547549,
     "geom:longitude":-86.772236,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"e15e13521100272f1fd043679d8c92b8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152880487,
-    "wof:lastmodified":1466320242,
+    "wof:lastmodified":1491930583,
     "wof:name":"Faith Tabernacle Delivera",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",

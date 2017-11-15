@@ -2,9 +2,14 @@
   "id": 152289699,
   "type": "Feature",
   "properties": {
+    "addr:full":"1637 Pearson Ave SW Birmingham AL 35211",
+    "addr:housenumber":"1637",
+    "addr:postcode":"35211",
+    "addr:street":"Pearson Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.86149,33.48651,-86.86149,33.48651",
     "geom:latitude":33.48651,
     "geom:longitude":-86.86149,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -44,6 +50,7 @@
     "wof:geomhash":"d2bdd5f83cd9bf8d5727e6ce8ae7cf3c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":152289699,
-    "wof:lastmodified":1466317184,
+    "wof:lastmodified":1491887295,
     "wof:name":"Birmingham Works For Youth",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

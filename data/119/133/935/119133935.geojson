@@ -2,9 +2,14 @@
   "id": 119133935,
   "type": "Feature",
   "properties": {
+    "addr:full":"1145 Gadsden Hwy Birmingham AL 35235",
+    "addr:housenumber":"1145",
+    "addr:postcode":"35235",
+    "addr:street":"Gadsden Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.658407,33.587068,-86.658407,33.587068",
     "geom:latitude":33.587068,
     "geom:longitude":-86.658407,
@@ -26,10 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
-        85914465,
+        85913473,
         102085481,
-        85804001
+        85852855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +45,19 @@
     "wof:geomhash":"ce3e26d9072d28a82c2b3ed31e8e400b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
-            "locality_id":85914465,
-            "neighbourhood_id":85804001,
+            "locality_id":85913473,
+            "neighbourhood_id":85852855,
             "region_id":85688675,
             "venue_id":119133935
         }
     ],
     "wof:id":119133935,
-    "wof:lastmodified":1466314654,
+    "wof:lastmodified":1491928878,
     "wof:name":"Dianne's Arcade",
-    "wof:parent_id":85804001,
+    "wof:parent_id":85852855,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

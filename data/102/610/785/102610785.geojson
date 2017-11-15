@@ -2,9 +2,14 @@
   "id": 102610785,
   "type": "Feature",
   "properties": {
+    "addr:full":"1913 Ave F Birmingham AL 35218",
+    "addr:housenumber":"",
+    "addr:postcode":"35218",
+    "addr:street":"1913 Ave F",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.895829,33.51253,-86.895829,33.51253",
     "geom:latitude":33.51253,
     "geom:longitude":-86.895829,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"4f73d8df3aefe07730efba82a179e626",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":102610785,
-    "wof:lastmodified":1466317291,
+    "wof:lastmodified":1491887272,
     "wof:name":"Abundant Life Delvrnc Chrch",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

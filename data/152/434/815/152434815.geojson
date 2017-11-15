@@ -2,9 +2,14 @@
   "id": 152434815,
   "type": "Feature",
   "properties": {
+    "addr:full":"800 25th St Birmingham AL 35218",
+    "addr:housenumber":"800",
+    "addr:postcode":"35218",
+    "addr:street":"25Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.897264,33.50611,-86.897264,33.50611",
     "geom:latitude":33.50611,
     "geom:longitude":-86.897264,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"3acd2fb5400f42d109b253536710a5c2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152434815,
-    "wof:lastmodified":1466317817,
+    "wof:lastmodified":1491887275,
     "wof:name":"Chambers Consulting Ltd",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

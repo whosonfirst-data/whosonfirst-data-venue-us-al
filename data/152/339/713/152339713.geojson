@@ -2,9 +2,14 @@
   "id": 152339713,
   "type": "Feature",
   "properties": {
+    "addr:full":"1400 Alabama St Birmingham AL 35217",
+    "addr:housenumber":"1400",
+    "addr:postcode":"35217",
+    "addr:street":"Alabama St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.779506,33.571937,-86.779506,33.571937",
     "geom:latitude":33.571937,
     "geom:longitude":-86.779506,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"3c91f6418aed9363bc5412b8293ed499",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152339713,
-    "wof:lastmodified":1466317543,
+    "wof:lastmodified":1491930591,
     "wof:name":"Boyles Baptist Church",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",

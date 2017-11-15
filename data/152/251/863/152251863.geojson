@@ -2,9 +2,14 @@
   "id": 152251863,
   "type": "Feature",
   "properties": {
+    "addr:full":"2642 Rillwood Rd Birmingham AL 35243",
+    "addr:housenumber":"2642",
+    "addr:postcode":"35243",
+    "addr:street":"Rillwood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.749999,33.435943,-86.749999,33.435943",
     "geom:latitude":33.435943,
     "geom:longitude":-86.749999,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"fc00d8f611a8870545f49ffa6be44b0e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152251863,
-    "wof:lastmodified":1466316626,
+    "wof:lastmodified":1491897872,
     "wof:name":"A1 Independent Consulting",
     "wof:parent_id":85856691,
     "wof:placetype":"venue",

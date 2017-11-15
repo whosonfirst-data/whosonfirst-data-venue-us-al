@@ -2,9 +2,14 @@
   "id": 152188091,
   "type": "Feature",
   "properties": {
+    "addr:full":"2730 Eastern Valley Rd Leeds AL 35094",
+    "addr:housenumber":"2730",
+    "addr:postcode":"35094",
+    "addr:street":"Eastern Valley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.608467,33.495647,-86.608467,33.495647",
     "geom:latitude":33.495647,
     "geom:longitude":-86.608467,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"5838d016f42c4079006a0f0872df0257",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152188091,
-    "wof:lastmodified":1466315734,
+    "wof:lastmodified":1491922694,
     "wof:name":"Dreamweaver Stables",
     "wof:parent_id":85804755,
     "wof:placetype":"venue",

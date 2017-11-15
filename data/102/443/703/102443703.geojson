@@ -2,9 +2,14 @@
   "id": 102443703,
   "type": "Feature",
   "properties": {
+    "addr:full":"2501 30th St Birmingham AL 35208",
+    "addr:housenumber":"2501",
+    "addr:postcode":"35208",
+    "addr:street":"30Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.872864,33.50139,-86.872864,33.50139",
     "geom:latitude":33.50139,
     "geom:longitude":-86.872864,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"7ec304d6ce8c6d040f8ce28681d3b56a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":102443703,
-    "wof:lastmodified":1466314451,
+    "wof:lastmodified":1491887297,
     "wof:name":"Church Of Christ At Fair Park",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

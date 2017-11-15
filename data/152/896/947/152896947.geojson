@@ -2,9 +2,14 @@
   "id": 152896947,
   "type": "Feature",
   "properties": {
+    "addr:full":"2808 30th St Birmingham AL 35208",
+    "addr:housenumber":"2808",
+    "addr:postcode":"35208",
+    "addr:street":"30Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.868414,33.502742,-86.868414,33.502742",
     "geom:latitude":33.502742,
     "geom:longitude":-86.868414,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"95d597615f0d27eb5e912c722128c790",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152896947,
-    "wof:lastmodified":1466320309,
+    "wof:lastmodified":1491887290,
     "wof:name":"Chiropractic Clinic",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 152566337,
   "type": "Feature",
   "properties": {
+    "addr:full":"3300 Galleria Cir Birmingham AL 35244",
+    "addr:housenumber":"3300",
+    "addr:postcode":"35244",
+    "addr:street":"Galleria Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.807862,33.381266,-86.807862,33.381266",
     "geom:latitude":33.381266,
     "geom:longitude":-86.807862,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"2625b9e0d8e28c5b5d14dd64860c458c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152566337,
-    "wof:lastmodified":1466318656,
+    "wof:lastmodified":1491927115,
     "wof:name":"Big 10 Tires",
     "wof:parent_id":85858879,
     "wof:placetype":"venue",

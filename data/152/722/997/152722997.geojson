@@ -2,9 +2,14 @@
   "id": 152722997,
   "type": "Feature",
   "properties": {
+    "addr:full":"2734 Cahaba Rd Mountain Brook AL 35223",
+    "addr:housenumber":"2734",
+    "addr:postcode":"35223",
+    "addr:street":"Cahaba Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.773662,33.483698,-86.773662,33.483698",
     "geom:latitude":33.483698,
     "geom:longitude":-86.773662,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914807,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"a9f7dedc9cdeb1c1078d5c02c118bfde",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914807,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152722997,
-    "wof:lastmodified":1466319485,
+    "wof:lastmodified":1491932286,
     "wof:name":"Denman-Crosby",
     "wof:parent_id":85854765,
     "wof:placetype":"venue",

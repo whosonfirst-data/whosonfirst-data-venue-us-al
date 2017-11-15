@@ -2,9 +2,14 @@
   "id": 102463835,
   "type": "Feature",
   "properties": {
+    "addr:full":"3254 Cahaba Heights Rd Birmingham AL 35243",
+    "addr:housenumber":"3254",
+    "addr:postcode":"35243",
+    "addr:street":"Cahaba Heights Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.72705,33.454121,-86.72705,33.454121",
     "geom:latitude":33.454121,
     "geom:longitude":-86.72705,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"75782f0bdee0c98deb8cdccf06afb684",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":102463835,
-    "wof:lastmodified":1466315122,
+    "wof:lastmodified":1491897896,
     "wof:name":"McCoys Wholesale Market",
     "wof:parent_id":85856691,
     "wof:placetype":"venue",

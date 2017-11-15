@@ -2,9 +2,14 @@
   "id": 152337615,
   "type": "Feature",
   "properties": {
+    "addr:full":"3121 6th Ave N Birmingham AL 35203",
+    "addr:housenumber":"3121",
+    "addr:postcode":"35203",
+    "addr:street":"6Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.792766,33.526846,-86.792766,33.526846",
     "geom:latitude":33.526846,
     "geom:longitude":-86.792766,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"0e952fb25dcb6671a936ae2c92d6ad9a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152337615,
-    "wof:lastmodified":1466317540,
+    "wof:lastmodified":1491921729,
     "wof:name":"Empire Automotive Network",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

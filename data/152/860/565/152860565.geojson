@@ -2,9 +2,14 @@
   "id": 152860565,
   "type": "Feature",
   "properties": {
+    "addr:full":"901 15th St S Birmingham AL 35205",
+    "addr:housenumber":"901",
+    "addr:postcode":"35205",
+    "addr:street":"15Th St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.804656,33.499328,-86.804656,33.499328",
     "geom:latitude":33.499328,
     "geom:longitude":-86.804656,
@@ -29,11 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
-        85819533,
-        85813175
+        85813175,
+        85819533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,26 +49,28 @@
     "wof:geomhash":"5c675875cf8cb7b633d809322f0dfc1a",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102085481,
-            "locality_id":85914465,
-            "neighbourhood_id":85819533,
-            "region_id":85688675,
-            "venue_id":152860565
-        },
-        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
             "neighbourhood_id":85813175,
             "region_id":85688675,
             "venue_id":152860565
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85819533,
+            "region_id":85688675,
+            "venue_id":152860565
         }
     ],
     "wof:id":152860565,
-    "wof:lastmodified":1466320372,
+    "wof:lastmodified":1491914531,
     "wof:name":"Office of Comm Studies",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

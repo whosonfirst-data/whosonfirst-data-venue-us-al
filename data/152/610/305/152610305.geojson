@@ -2,9 +2,14 @@
   "id": 152610305,
   "type": "Feature",
   "properties": {
+    "addr:full":"405 Cloudland Dr Birmingham AL 35226",
+    "addr:housenumber":"405",
+    "addr:postcode":"35226",
+    "addr:street":"Cloudland Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.847851,33.40439,-86.847851,33.40439",
     "geom:latitude":33.40439,
     "geom:longitude":-86.847851,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"67c34826d4951cb883343eb1a2b3e010",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152610305,
-    "wof:lastmodified":1466318875,
+    "wof:lastmodified":1491898827,
     "wof:name":"Home Pet Care Inc",
     "wof:parent_id":85828169,
     "wof:placetype":"venue",

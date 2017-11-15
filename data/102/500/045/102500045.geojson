@@ -2,14 +2,20 @@
   "id": 102500045,
   "type": "Feature",
   "properties": {
+    "addr:full":"2300 Riverchase Galleria Birmingham AL 35244",
+    "addr:housenumber":"2300",
+    "addr:postcode":"35244",
+    "addr:street":"Riverchase Galleria",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.811054,33.378577,-86.811054,33.378577",
     "geom:latitude":33.378577,
     "geom:longitude":-86.811054,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2300 Riverchase Galleria",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,19 +35,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
         85858879
     ],
+    "wof:brand_id":1125154533,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wqePDnNhnmC4XIPYpVVUH_33.378577_-86.811054@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"4c6322088672b315a401cccd358a169b",
+    "wof:geomhash":"03371676c675fea3418a756570732e7f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":102500045,
-    "wof:lastmodified":1466316463,
+    "wof:lastmodified":1510693201,
     "wof:name":"J C Penney Portrait Studio",
     "wof:parent_id":85858879,
     "wof:placetype":"venue",

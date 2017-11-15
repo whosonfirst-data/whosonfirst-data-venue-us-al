@@ -2,9 +2,14 @@
   "id": 152738715,
   "type": "Feature",
   "properties": {
+    "addr:full":"203 20th St N Birmingham AL 35203",
+    "addr:housenumber":"203",
+    "addr:postcode":"35203",
+    "addr:street":"20Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.806498,33.51587,-86.806498,33.51587",
     "geom:latitude":33.51587,
     "geom:longitude":-86.806498,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"ac406345fbba89ee31e3baebb08548f7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152738715,
-    "wof:lastmodified":1466319446,
+    "wof:lastmodified":1491921703,
     "wof:name":"Clip Joint",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

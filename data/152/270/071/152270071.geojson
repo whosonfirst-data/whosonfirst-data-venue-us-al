@@ -2,9 +2,14 @@
   "id": 152270071,
   "type": "Feature",
   "properties": {
+    "addr:full":"716 Richard Arrington Jr Blvd N Birmingham AL 35203",
+    "addr:housenumber":"716",
+    "addr:postcode":"35203",
+    "addr:street":"Richard Arrington Jr Blvd N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.809046,33.522001,-86.809046,33.522001",
     "geom:latitude":33.522001,
     "geom:longitude":-86.809046,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"ee2131c6e954185c2c8750755ad1a656",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152270071,
-    "wof:lastmodified":1466316793,
+    "wof:lastmodified":1491895410,
     "wof:name":"Court Administrators Office",
     "wof:parent_id":85831933,
     "wof:placetype":"venue",

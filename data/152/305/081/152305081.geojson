@@ -2,9 +2,14 @@
   "id": 152305081,
   "type": "Feature",
   "properties": {
+    "addr:full":"2610 29th Ave N Birmingham AL 35207",
+    "addr:housenumber":"2610",
+    "addr:postcode":"35207",
+    "addr:street":"29Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.81625,33.551245,-86.81625,33.551245",
     "geom:latitude":33.551245,
     "geom:longitude":-86.81625,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"d3354321cdd689d52263aa8acff828b2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152305081,
-    "wof:lastmodified":1466317123,
+    "wof:lastmodified":1491929446,
     "wof:name":"Joyful News Christian Church",
     "wof:parent_id":85837367,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 152652835,
   "type": "Feature",
   "properties": {
+    "addr:full":"2807 2nd Ave S Birmingham AL 35233",
+    "addr:housenumber":"2807",
+    "addr:postcode":"35233",
+    "addr:street":"2Nd Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.790953,33.516673,-86.790953,33.516673",
     "geom:latitude":33.516673,
     "geom:longitude":-86.790953,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"14c693daa81fc80b195395f03926c0a9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152652835,
-    "wof:lastmodified":1466319133,
+    "wof:lastmodified":1491921737,
     "wof:name":"Bridges Antiques",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

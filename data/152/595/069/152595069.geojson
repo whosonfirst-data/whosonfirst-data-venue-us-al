@@ -2,9 +2,14 @@
   "id": 152595069,
   "type": "Feature",
   "properties": {
+    "addr:full":"1929 Bessemer Rd Birmingham AL 35208",
+    "addr:housenumber":"1929",
+    "addr:postcode":"35208",
+    "addr:street":"Bessemer Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.882774,33.492223,-86.882774,33.492223",
     "geom:latitude":33.492223,
     "geom:longitude":-86.882774,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -44,6 +50,7 @@
     "wof:geomhash":"3b27209dd5ff6b6745ad1819047f9d8b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":152595069,
-    "wof:lastmodified":1466318793,
+    "wof:lastmodified":1491887272,
     "wof:name":"A & W Specialty Shop",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

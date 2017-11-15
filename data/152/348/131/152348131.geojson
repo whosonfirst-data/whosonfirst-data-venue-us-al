@@ -2,9 +2,14 @@
   "id": 152348131,
   "type": "Feature",
   "properties": {
+    "addr:full":"3443 Colonnade Pkwy Birmingham AL 35243",
+    "addr:housenumber":"3443",
+    "addr:postcode":"35243",
+    "addr:street":"Colonnade Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.73339,33.434811,-86.73339,33.434811",
     "geom:latitude":33.434811,
     "geom:longitude":-86.73339,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -45,6 +51,7 @@
     "wof:geomhash":"89ac2b5db9beaaf9f439005201ceebc9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":152348131,
-    "wof:lastmodified":1466317383,
+    "wof:lastmodified":1491897872,
     "wof:name":"Countrywide Home Loans",
     "wof:parent_id":85856691,
     "wof:placetype":"venue",

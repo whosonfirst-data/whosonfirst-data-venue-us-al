@@ -2,14 +2,20 @@
   "id": 152445377,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 28th St N Birmingham AL 35203",
+    "addr:housenumber":"200",
+    "addr:postcode":"35203",
+    "addr:street":"28Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.795949,33.521524,-86.795949,33.521524",
     "geom:latitude":33.521524,
     "geom:longitude":-86.795949,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"200 28th St N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -26,19 +32,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
         85876269
     ],
+    "wof:brand_id":1125151207,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3SirU5puUam18rVHXDY1fr_33.521524_-86.795949@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"d862c8c61069dc58d26e6ec71158b07d",
+    "wof:geomhash":"1d8471b52607ecf40598b2afb6412aba",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":152445377,
-    "wof:lastmodified":1466318055,
+    "wof:lastmodified":1510613191,
     "wof:name":"ABC Supply Co",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

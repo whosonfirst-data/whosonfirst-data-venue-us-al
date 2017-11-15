@@ -2,9 +2,14 @@
   "id": 152127511,
   "type": "Feature",
   "properties": {
+    "addr:full":"2027 1st Ave N Birmingham AL 35203",
+    "addr:housenumber":"2027",
+    "addr:postcode":"35203",
+    "addr:street":"1St Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.805668,33.514443,-86.805668,33.514443",
     "geom:latitude":33.514443,
     "geom:longitude":-86.805668,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"93df82a3f200c641a7c749d9ed2663ae",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152127511,
-    "wof:lastmodified":1466314837,
+    "wof:lastmodified":1491921757,
     "wof:name":"Bighead Towing",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

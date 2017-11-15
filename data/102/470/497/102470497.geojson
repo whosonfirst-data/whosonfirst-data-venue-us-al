@@ -2,9 +2,14 @@
   "id": 102470497,
   "type": "Feature",
   "properties": {
+    "addr:full":"1420 Gadsden Hwy Birmingham AL 35235",
+    "addr:housenumber":"1420",
+    "addr:postcode":"35235",
+    "addr:street":"Gadsden Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.646381,33.595718,-86.646381,33.595718",
     "geom:latitude":33.595718,
     "geom:longitude":-86.646381,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85913473,
         102085481,
@@ -45,6 +51,7 @@
     "wof:geomhash":"377380798c43d37e9d81bde901cb4881",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85913473,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":102470497,
-    "wof:lastmodified":1466315273,
+    "wof:lastmodified":1491928871,
     "wof:name":"Fitness Together Trussville",
     "wof:parent_id":85852855,
     "wof:placetype":"venue",

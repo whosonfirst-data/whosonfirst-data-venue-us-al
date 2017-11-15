@@ -2,9 +2,14 @@
   "id": 102517123,
   "type": "Feature",
   "properties": {
+    "addr:full":"4924 1st Ave N Birmingham AL 35222",
+    "addr:housenumber":"4924",
+    "addr:postcode":"35222",
+    "addr:street":"1St Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.761262,33.535543,-86.761262,33.535543",
     "geom:latitude":33.535543,
     "geom:longitude":-86.761262,
@@ -26,10 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
-        85858829
+        85815977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +45,19 @@
     "wof:geomhash":"5df26ee3181ebd41896456055b546c1b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
-            "neighbourhood_id":85858829,
+            "neighbourhood_id":85815977,
             "region_id":85688675,
             "venue_id":102517123
         }
     ],
     "wof:id":102517123,
-    "wof:lastmodified":1466317031,
+    "wof:lastmodified":1491930582,
     "wof:name":"Alabama Pest Control Inc",
-    "wof:parent_id":85858829,
+    "wof:parent_id":85815977,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

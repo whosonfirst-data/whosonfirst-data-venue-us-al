@@ -2,9 +2,14 @@
   "id": 152159519,
   "type": "Feature",
   "properties": {
+    "addr:full":"1901 32nd Ave N Birmingham AL 35207",
+    "addr:housenumber":"1901",
+    "addr:postcode":"35207",
+    "addr:street":"32Nd Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.827461,33.55119,-86.827461,33.55119",
     "geom:latitude":33.55119,
     "geom:longitude":-86.827461,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"79acad35b56f36cf22b729525ef5d313",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152159519,
-    "wof:lastmodified":1466315075,
+    "wof:lastmodified":1491929443,
     "wof:name":"K J's Wings & Bar-B-Que",
     "wof:parent_id":85837367,
     "wof:placetype":"venue",

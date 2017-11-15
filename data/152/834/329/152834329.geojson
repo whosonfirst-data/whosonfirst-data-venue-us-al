@@ -2,9 +2,14 @@
   "id": 152834329,
   "type": "Feature",
   "properties": {
+    "addr:full":"4413 Richard Arrington Jr Blvd N Birmingham AL 35212",
+    "addr:housenumber":"4413",
+    "addr:postcode":"35212",
+    "addr:street":"Richard Arrington Jr Blvd N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.769615,33.542722,-86.769615,33.542722",
     "geom:latitude":33.542722,
     "geom:longitude":-86.769615,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"1049acc8d513ef086a12a4ff533ffb57",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152834329,
-    "wof:lastmodified":1466320134,
+    "wof:lastmodified":1491930564,
     "wof:name":"Prince of Peace Kinderversity",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",

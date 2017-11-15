@@ -2,9 +2,14 @@
   "id": 152279553,
   "type": "Feature",
   "properties": {
+    "addr:full":"1820 Polo Ct Birmingham AL 35226",
+    "addr:housenumber":"1820",
+    "addr:postcode":"35226",
+    "addr:street":"Polo Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.813754,33.390104,-86.813754,33.390104",
     "geom:latitude":33.390104,
     "geom:longitude":-86.813754,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"d99828947e40903cce6401d5648d378f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152279553,
-    "wof:lastmodified":1466316837,
+    "wof:lastmodified":1491902296,
     "wof:name":"Harris Construction System",
     "wof:parent_id":85842589,
     "wof:placetype":"venue",

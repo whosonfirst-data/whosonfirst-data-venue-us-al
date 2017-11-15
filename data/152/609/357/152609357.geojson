@@ -2,9 +2,14 @@
   "id": 152609357,
   "type": "Feature",
   "properties": {
+    "addr:full":"316 Farley Dr Birmingham AL 35226",
+    "addr:housenumber":"316",
+    "addr:postcode":"35226",
+    "addr:street":"Farley Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.851076,33.393767,-86.851076,33.393767",
     "geom:latitude":33.393767,
     "geom:longitude":-86.851076,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"e169809fe9b53de8dbd889e135056aef",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152609357,
-    "wof:lastmodified":1466318863,
+    "wof:lastmodified":1491898828,
     "wof:name":"Lareco Main Corp",
     "wof:parent_id":85828169,
     "wof:placetype":"venue",

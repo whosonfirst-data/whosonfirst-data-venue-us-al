@@ -2,9 +2,14 @@
   "id": 152607423,
   "type": "Feature",
   "properties": {
+    "addr:full":"3800 Colonnade Pkwy Birmingham AL 35243",
+    "addr:housenumber":"3800",
+    "addr:postcode":"35243",
+    "addr:street":"Colonnade Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.731489,33.43506,-86.731489,33.43506",
     "geom:latitude":33.43506,
     "geom:longitude":-86.731489,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -43,6 +49,7 @@
     "wof:geomhash":"4e5ab8287d1076a1ef3eaf74c97a28b1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":152607423,
-    "wof:lastmodified":1466318869,
+    "wof:lastmodified":1491897901,
     "wof:name":"Appleton Mortgage Corp",
     "wof:parent_id":85856691,
     "wof:placetype":"venue",

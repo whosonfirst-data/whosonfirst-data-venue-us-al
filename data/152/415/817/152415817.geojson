@@ -2,9 +2,14 @@
   "id": 152415817,
   "type": "Feature",
   "properties": {
+    "addr:full":"1919 3rd Ave N Birmingham AL 35203",
+    "addr:housenumber":"1919",
+    "addr:postcode":"35203",
+    "addr:street":"3Rd Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.807141,33.516082,-86.807141,33.516082",
     "geom:latitude":33.516082,
     "geom:longitude":-86.807141,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"0c72cbedfd5f800b0af185d7e6937f6a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152415817,
-    "wof:lastmodified":1466318027,
+    "wof:lastmodified":1491921737,
     "wof:name":"Vishawn Salon",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

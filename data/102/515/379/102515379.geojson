@@ -2,9 +2,14 @@
   "id": 102515379,
   "type": "Feature",
   "properties": {
+    "addr:full":"3240 Cahaba Heights Rd Birmingham AL 35243",
+    "addr:housenumber":"3240",
+    "addr:postcode":"35243",
+    "addr:street":"Cahaba Heights Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.728802,33.454163,-86.728802,33.454163",
     "geom:latitude":33.454163,
     "geom:longitude":-86.728802,
@@ -33,6 +38,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -46,6 +52,7 @@
     "wof:geomhash":"ef0c7ddd70cc7bc77e021a5a0e8ff188",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":102515379,
-    "wof:lastmodified":1466316910,
+    "wof:lastmodified":1491897871,
     "wof:name":"Cox Pools Inc",
     "wof:parent_id":85856691,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 152328835,
   "type": "Feature",
   "properties": {
+    "addr:full":"4108 10th Ave N Birmingham AL 35212",
+    "addr:housenumber":"4108",
+    "addr:postcode":"35212",
+    "addr:street":"10Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.776296,33.540324,-86.776296,33.540324",
     "geom:latitude":33.540324,
     "geom:longitude":-86.776296,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"9f946d50ca025e7cc26c61d90b0fb3db",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152328835,
-    "wof:lastmodified":1466317423,
+    "wof:lastmodified":1491930565,
     "wof:name":"Jones Brothers Barber Shop",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",

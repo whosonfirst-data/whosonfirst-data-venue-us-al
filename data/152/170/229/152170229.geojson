@@ -2,9 +2,14 @@
   "id": 152170229,
   "type": "Feature",
   "properties": {
+    "addr:full":"412 Rime Village Birmingham AL 35216",
+    "addr:housenumber":"412",
+    "addr:postcode":"35216",
+    "addr:street":"Rime Village",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.79131,33.380281,-86.79131,33.380281",
     "geom:latitude":33.380281,
     "geom:longitude":-86.79131,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
@@ -44,6 +50,7 @@
     "wof:geomhash":"7fd9abfb595438098a51a7cc64a8fa6f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":152170229,
-    "wof:lastmodified":1466315545,
+    "wof:lastmodified":1491927115,
     "wof:name":"A & A Brick & Block",
     "wof:parent_id":85858879,
     "wof:placetype":"venue",

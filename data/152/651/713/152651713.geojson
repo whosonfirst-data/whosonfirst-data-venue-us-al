@@ -2,9 +2,14 @@
   "id": 152651713,
   "type": "Feature",
   "properties": {
+    "addr:full":"2021 3rd Ave S Birmingham AL 35210",
+    "addr:housenumber":"2021",
+    "addr:postcode":"35210",
+    "addr:street":"3Rd Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.704664,33.537239,-86.704664,33.537239",
     "geom:latitude":33.537239,
     "geom:longitude":-86.704664,
@@ -30,8 +35,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
-        85914465,
+        85914835,
         102085481,
         85819529
     ],
@@ -43,16 +49,17 @@
     "wof:geomhash":"712c1ed4a9167d3343e4670931c9915e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
-            "locality_id":85914465,
+            "locality_id":85914835,
             "neighbourhood_id":85819529,
             "region_id":85688675,
             "venue_id":152651713
         }
     ],
     "wof:id":152651713,
-    "wof:lastmodified":1466319125,
+    "wof:lastmodified":1491905245,
     "wof:name":"Happy Catering Co",
     "wof:parent_id":85819529,
     "wof:placetype":"venue",

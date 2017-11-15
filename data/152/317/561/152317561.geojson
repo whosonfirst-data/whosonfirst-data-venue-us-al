@@ -2,9 +2,14 @@
   "id": 152317561,
   "type": "Feature",
   "properties": {
+    "addr:full":"304 Tutwiler Dr Trussville AL 35173",
+    "addr:housenumber":"304",
+    "addr:postcode":"35173",
+    "addr:street":"Tutwiler Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.630235,33.613406,-86.630235,33.613406",
     "geom:latitude":33.613406,
     "geom:longitude":-86.630235,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85913473,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"0499a1401aa151e33deb287c2954f4e0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85913473,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152317561,
-    "wof:lastmodified":1466317380,
+    "wof:lastmodified":1491928878,
     "wof:name":"Spurrier Building Corp",
     "wof:parent_id":85852855,
     "wof:placetype":"venue",

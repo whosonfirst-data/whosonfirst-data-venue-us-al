@@ -2,9 +2,14 @@
   "id": 152350439,
   "type": "Feature",
   "properties": {
+    "addr:full":"2830 Culver Rd Birmingham AL 35223",
+    "addr:housenumber":"2830",
+    "addr:postcode":"35223",
+    "addr:street":"Culver Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.771938,33.483518,-86.771938,33.483518",
     "geom:latitude":33.483518,
     "geom:longitude":-86.771938,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914807,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"14e3dadf8876793dfe9e14d5b0eb1be1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914807,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152350439,
-    "wof:lastmodified":1466317588,
+    "wof:lastmodified":1491932284,
     "wof:name":"Pac N Ship",
     "wof:parent_id":85854765,
     "wof:placetype":"venue",

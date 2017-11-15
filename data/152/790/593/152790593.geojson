@@ -2,9 +2,14 @@
   "id": 152790593,
   "type": "Feature",
   "properties": {
+    "addr:full":"1856 Bessemer Rd Birmingham AL 35208",
+    "addr:housenumber":"1856",
+    "addr:postcode":"35208",
+    "addr:street":"Bessemer Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.8846,33.491011,-86.8846,33.491011",
     "geom:latitude":33.491011,
     "geom:longitude":-86.8846,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -44,6 +50,7 @@
     "wof:geomhash":"113c63c888fcefc1ed277334550726ae",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":152790593,
-    "wof:lastmodified":1466319848,
+    "wof:lastmodified":1491887287,
     "wof:name":"Afac Construction",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

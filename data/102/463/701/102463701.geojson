@@ -2,9 +2,14 @@
   "id": 102463701,
   "type": "Feature",
   "properties": {
+    "addr:full":"2274 S Sherrlyn Dr Birmingham AL 35226",
+    "addr:housenumber":"2274",
+    "addr:postcode":"35226",
+    "addr:street":"S Sherrlyn Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.837107,33.412295,-86.837107,33.412295",
     "geom:latitude":33.412295,
     "geom:longitude":-86.837107,
@@ -29,10 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
-        85805457
+        85828169
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,18 +48,19 @@
     "wof:geomhash":"2f4d81a6429afa29d7cc53917530ace7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
-            "neighbourhood_id":85805457,
+            "neighbourhood_id":85828169,
             "region_id":85688675,
             "venue_id":102463701
         }
     ],
     "wof:id":102463701,
-    "wof:lastmodified":1466315095,
+    "wof:lastmodified":1491898828,
     "wof:name":"Anykey Small Business Services",
-    "wof:parent_id":85805457,
+    "wof:parent_id":85828169,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

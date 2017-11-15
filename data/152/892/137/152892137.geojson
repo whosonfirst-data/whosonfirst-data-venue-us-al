@@ -2,9 +2,14 @@
   "id": 152892137,
   "type": "Feature",
   "properties": {
+    "addr:full":"3308 Mountainside Rd Birmingham AL 35243",
+    "addr:housenumber":"3308",
+    "addr:postcode":"35243",
+    "addr:street":"Mountainside Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.721015,33.458419,-86.721015,33.458419",
     "geom:latitude":33.458419,
     "geom:longitude":-86.721015,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"0bab09014655437f7fb0e16912bf756e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152892137,
-    "wof:lastmodified":1466320279,
+    "wof:lastmodified":1491897866,
     "wof:name":"Greenspann Landscaping Inc",
     "wof:parent_id":85856691,
     "wof:placetype":"venue",

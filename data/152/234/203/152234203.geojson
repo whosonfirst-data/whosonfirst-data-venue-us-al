@@ -2,9 +2,14 @@
   "id": 152234203,
   "type": "Feature",
   "properties": {
+    "addr:full":"2121 4th Ave S Birmingham AL 35210",
+    "addr:housenumber":"2121",
+    "addr:postcode":"35210",
+    "addr:street":"4Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.702744,33.537151,-86.702744,33.537151",
     "geom:latitude":33.537151,
     "geom:longitude":-86.702744,
@@ -32,8 +37,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
-        85914465,
+        85914835,
         102085481,
         85819529
     ],
@@ -45,16 +51,17 @@
     "wof:geomhash":"4b220c38f03c6536992923c6f153d6d1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
-            "locality_id":85914465,
+            "locality_id":85914835,
             "neighbourhood_id":85819529,
             "region_id":85688675,
             "venue_id":152234203
         }
     ],
     "wof:id":152234203,
-    "wof:lastmodified":1466316279,
+    "wof:lastmodified":1491905249,
     "wof:name":"Harris Phil Photography",
     "wof:parent_id":85819529,
     "wof:placetype":"venue",

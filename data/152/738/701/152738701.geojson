@@ -2,9 +2,14 @@
   "id": 152738701,
   "type": "Feature",
   "properties": {
+    "addr:full":"2625 2nd Ave N Birmingham AL 35203",
+    "addr:housenumber":"2625",
+    "addr:postcode":"35203",
+    "addr:street":"2Nd Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.796958,33.519732,-86.796958,33.519732",
     "geom:latitude":33.519732,
     "geom:longitude":-86.796958,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"b986c7cb791c00666232121195498e37",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152738701,
-    "wof:lastmodified":1466319445,
+    "wof:lastmodified":1491921743,
     "wof:name":"Nuncies Music Company Inc",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

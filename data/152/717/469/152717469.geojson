@@ -2,9 +2,14 @@
   "id": 152717469,
   "type": "Feature",
   "properties": {
+    "addr:full":"1201 11th Ave S Birmingham AL 35205",
+    "addr:housenumber":"1201",
+    "addr:postcode":"35205",
+    "addr:street":"11Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.806018,33.496001,-86.806018,33.496001",
     "geom:latitude":33.496001,
     "geom:longitude":-86.806018,
@@ -29,11 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
-        85819533,
-        85813175
+        85813175,
+        85819533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,26 +49,28 @@
     "wof:geomhash":"66814d689c242dcbe23b8d0452eb1f95",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102085481,
-            "locality_id":85914465,
-            "neighbourhood_id":85819533,
-            "region_id":85688675,
-            "venue_id":152717469
-        },
-        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
             "neighbourhood_id":85813175,
             "region_id":85688675,
             "venue_id":152717469
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85819533,
+            "region_id":85688675,
+            "venue_id":152717469
         }
     ],
     "wof:id":152717469,
-    "wof:lastmodified":1466319413,
+    "wof:lastmodified":1491914547,
     "wof:name":"Databank Business Svc Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

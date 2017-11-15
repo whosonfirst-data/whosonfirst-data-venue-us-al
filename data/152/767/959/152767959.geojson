@@ -2,9 +2,14 @@
   "id": 152767959,
   "type": "Feature",
   "properties": {
+    "addr:full":"4036 29th St N Birmingham AL 35207",
+    "addr:housenumber":"4036",
+    "addr:postcode":"35207",
+    "addr:street":"29Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.811555,33.563926,-86.811555,33.563926",
     "geom:latitude":33.563926,
     "geom:longitude":-86.811555,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"4d43f4d6da1b7ac17abb09b86e090a51",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152767959,
-    "wof:lastmodified":1466319681,
+    "wof:lastmodified":1491929449,
     "wof:name":"Fairmount Laundry",
     "wof:parent_id":85837367,
     "wof:placetype":"venue",

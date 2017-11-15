@@ -2,9 +2,14 @@
   "id": 152891303,
   "type": "Feature",
   "properties": {
+    "addr:full":"4954 Horst Hill Rd Birmingham AL 35210",
+    "addr:housenumber":"4954",
+    "addr:postcode":"35210",
+    "addr:street":"Horst Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.660629,33.521982,-86.660629,33.521982",
     "geom:latitude":33.521982,
     "geom:longitude":-86.660629,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"0181924a7f28a621ad768b6a8985bffc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152891303,
-    "wof:lastmodified":1466320287,
+    "wof:lastmodified":1491922692,
     "wof:name":"Boneyard Bikes Inc",
     "wof:parent_id":85804755,
     "wof:placetype":"venue",

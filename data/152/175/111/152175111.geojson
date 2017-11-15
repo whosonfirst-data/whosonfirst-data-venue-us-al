@@ -2,9 +2,14 @@
   "id": 152175111,
   "type": "Feature",
   "properties": {
+    "addr:full":"2201 Morris Ave Birmingham AL 35203",
+    "addr:housenumber":"2201",
+    "addr:postcode":"35203",
+    "addr:street":"Morris Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.80111,33.5158,-86.80111,33.5158",
     "geom:latitude":33.5158,
     "geom:longitude":-86.80111,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"c1a6281d83eaa8f7149b5621b00b90c6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152175111,
-    "wof:lastmodified":1466315639,
+    "wof:lastmodified":1491921746,
     "wof:name":"Hunt Thomas A Jr AIA",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

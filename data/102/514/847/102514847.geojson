@@ -2,9 +2,14 @@
   "id": 102514847,
   "type": "Feature",
   "properties": {
+    "addr:full":"3125 43rd Ave N Birmingham AL 35207",
+    "addr:housenumber":"3125",
+    "addr:postcode":"35207",
+    "addr:street":"43Rd Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.805353,33.567382,-86.805353,33.567382",
     "geom:latitude":33.567382,
     "geom:longitude":-86.805353,
@@ -29,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85914465,
-        85633793,
         85688675,
-        102085481
+        102191575,
+        85633793,
+        85914465,
+        102085481,
+        85837367
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,19 @@
     "wof:geomhash":"c11eaa6999648c79e2ce84499302d7c0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
+            "neighbourhood_id":85837367,
             "region_id":85688675,
             "venue_id":102514847
         }
     ],
     "wof:id":102514847,
-    "wof:lastmodified":1466316961,
+    "wof:lastmodified":1491929440,
     "wof:name":"Birmingham Housing Authority",
-    "wof:parent_id":-1,
+    "wof:parent_id":85837367,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

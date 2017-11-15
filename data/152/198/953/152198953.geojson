@@ -2,9 +2,14 @@
   "id": 152198953,
   "type": "Feature",
   "properties": {
+    "addr:full":"1901 33rd Ave N Birmingham AL 35207",
+    "addr:housenumber":"1901",
+    "addr:postcode":"35207",
+    "addr:street":"33Rd Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.827872,33.552178,-86.827872,33.552178",
     "geom:latitude":33.552178,
     "geom:longitude":-86.827872,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"1f783f3f1990537a471ecefad2bc8f1d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152198953,
-    "wof:lastmodified":1466315958,
+    "wof:lastmodified":1491929435,
     "wof:name":"Jolly Food Mart 5",
     "wof:parent_id":85837367,
     "wof:placetype":"venue",

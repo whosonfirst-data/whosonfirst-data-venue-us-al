@@ -2,14 +2,20 @@
   "id": 152713591,
   "type": "Feature",
   "properties": {
+    "addr:full":"4965 Horst Hill Rd Irondale AL 35210",
+    "addr:housenumber":"4965",
+    "addr:postcode":"35210",
+    "addr:street":"Horst Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.6593,33.523263,-86.6593,33.523263",
     "geom:latitude":33.523263,
     "geom:longitude":-86.6593,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4965 Horst Hill Rd",
     "sg:city":"Irondale",
     "sg:classifiers":[
@@ -29,19 +35,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
         85804755
     ],
+    "wof:brand_id":1125159143,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1qzXDWBhXTw7sWpAUTJVtA_33.523263_-86.659300@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"df310d72cf3aeca3a0c33a355958cc87",
+    "wof:geomhash":"8d093b495d1d6c7611ed4a94dcf55cdd",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":152713591,
-    "wof:lastmodified":1466319416,
+    "wof:lastmodified":1510698656,
     "wof:name":"American Lenders Svc Co",
     "wof:parent_id":85804755,
     "wof:placetype":"venue",

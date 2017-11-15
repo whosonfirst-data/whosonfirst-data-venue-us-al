@@ -2,9 +2,14 @@
   "id": 152894471,
   "type": "Feature",
   "properties": {
+    "addr:full":"2301 Morris Ave Birmingham AL 35203",
+    "addr:housenumber":"2301",
+    "addr:postcode":"35203",
+    "addr:street":"Morris Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.799743,33.516453,-86.799743,33.516453",
     "geom:latitude":33.516453,
     "geom:longitude":-86.799743,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"5f0e8ab0c6e4d5f60edacb68cd5c2ff0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152894471,
-    "wof:lastmodified":1466320299,
+    "wof:lastmodified":1491921736,
     "wof:name":"Gary C Young Atty",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

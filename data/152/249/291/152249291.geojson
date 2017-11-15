@@ -2,9 +2,14 @@
   "id": 152249291,
   "type": "Feature",
   "properties": {
+    "addr:full":"1945 Patton Chapel Rd Birmingham AL 35226",
+    "addr:housenumber":"1945",
+    "addr:postcode":"35226",
+    "addr:street":"Patton Chapel Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.809429,33.389459,-86.809429,33.389459",
     "geom:latitude":33.389459,
     "geom:longitude":-86.809429,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"d83a5160d61f25182ca62350cf4d42a9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152249291,
-    "wof:lastmodified":1466316530,
+    "wof:lastmodified":1491902297,
     "wof:name":"McCain Carpet and Flooring",
     "wof:parent_id":85842589,
     "wof:placetype":"venue",

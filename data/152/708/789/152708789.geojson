@@ -2,9 +2,14 @@
   "id": 152708789,
   "type": "Feature",
   "properties": {
+    "addr:full":"524 23rd St N Birmingham AL 35203",
+    "addr:housenumber":"524",
+    "addr:postcode":"35203",
+    "addr:street":"23Rd St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.804307,33.520346,-86.804307,33.520346",
     "geom:latitude":33.520346,
     "geom:longitude":-86.804307,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -43,6 +49,7 @@
     "wof:geomhash":"830973eb7eb5c2995b1ec829a46d7ade",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":152708789,
-    "wof:lastmodified":1466319410,
+    "wof:lastmodified":1491921760,
     "wof:name":"Central Parking System",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

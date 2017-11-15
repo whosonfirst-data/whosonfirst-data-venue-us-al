@@ -2,9 +2,14 @@
   "id": 152402671,
   "type": "Feature",
   "properties": {
+    "addr:full":"4914 Cahaba River Rd Birmingham AL 35243",
+    "addr:housenumber":"4914",
+    "addr:postcode":"35243",
+    "addr:street":"Cahaba River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.728054,33.428059,-86.728054,33.428059",
     "geom:latitude":33.428059,
     "geom:longitude":-86.728054,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"1dac3cca7738133f0ff2ebdfcd46212a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152402671,
-    "wof:lastmodified":1466317858,
+    "wof:lastmodified":1491897870,
     "wof:name":"Callahan Law Firm",
     "wof:parent_id":85856691,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 152865861,
   "type": "Feature",
   "properties": {
+    "addr:full":"1264 Gadsden Hwy Birmingham AL 35235",
+    "addr:housenumber":"1264",
+    "addr:postcode":"35235",
+    "addr:street":"Gadsden Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.652154,33.591117,-86.652154,33.591117",
     "geom:latitude":33.591117,
     "geom:longitude":-86.652154,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85913473,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"9e19dedd7f9ae0c93d44b0842b0f05b8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85913473,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152865861,
-    "wof:lastmodified":1466320205,
+    "wof:lastmodified":1491928872,
     "wof:name":"Churchs Heating & Cooling",
     "wof:parent_id":85852855,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 152771339,
   "type": "Feature",
   "properties": {
+    "addr:full":"1701 Avenue E Birmingham AL 35218",
+    "addr:housenumber":"1701",
+    "addr:postcode":"35218",
+    "addr:street":"Avenue E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.896239,33.514035,-86.896239,33.514035",
     "geom:latitude":33.514035,
     "geom:longitude":-86.896239,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"2f09d88c8d0dadd4ac4687d12e0b96b0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152771339,
-    "wof:lastmodified":1466319786,
+    "wof:lastmodified":1491887268,
     "wof:name":"Economy Moving",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

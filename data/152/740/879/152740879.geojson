@@ -2,9 +2,14 @@
   "id": 152740879,
   "type": "Feature",
   "properties": {
+    "addr:full":"2693 Alta Glen Dr Birmingham AL 35243",
+    "addr:housenumber":"",
+    "addr:postcode":"2693;35243",
+    "addr:street":"Alta Glen Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.747718,33.432772,-86.747718,33.432772",
     "geom:latitude":33.432772,
     "geom:longitude":-86.747718,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"a58797928450b3b3e2b15471c8bd5289",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152740879,
-    "wof:lastmodified":1466319677,
+    "wof:lastmodified":1491897897,
     "wof:name":"Clark/Bardes Consulting",
     "wof:parent_id":85856691,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 152250227,
   "type": "Feature",
   "properties": {
+    "addr:full":"2727 Alta Vw Birmingham AL 35243",
+    "addr:housenumber":"2727",
+    "addr:postcode":"35243",
+    "addr:street":"Vw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.744734,33.434574,-86.744734,33.434574",
     "geom:latitude":33.434574,
     "geom:longitude":-86.744734,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"8e9ccb8e677808662980049bbe5d1561",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152250227,
-    "wof:lastmodified":1466316532,
+    "wof:lastmodified":1491897869,
     "wof:name":"Ever After Flower Preservation",
     "wof:parent_id":85856691,
     "wof:placetype":"venue",

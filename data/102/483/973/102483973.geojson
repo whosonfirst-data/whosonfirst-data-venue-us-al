@@ -2,9 +2,14 @@
   "id": 102483973,
   "type": "Feature",
   "properties": {
+    "addr:full":"3908 28th Way N Birmingham AL 35207",
+    "addr:housenumber":"3908",
+    "addr:postcode":"35207",
+    "addr:street":"28Th Way N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.816179,33.563003,-86.816179,33.563003",
     "geom:latitude":33.563003,
     "geom:longitude":-86.816179,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -44,6 +50,7 @@
     "wof:geomhash":"ca85963ab1549c82f71d5acd9bdc6c7c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":102483973,
-    "wof:lastmodified":1466315623,
+    "wof:lastmodified":1491929439,
     "wof:name":"Alabama Freight Inc",
     "wof:parent_id":85837367,
     "wof:placetype":"venue",

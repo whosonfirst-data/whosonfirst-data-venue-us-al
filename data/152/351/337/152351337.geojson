@@ -2,9 +2,14 @@
   "id": 152351337,
   "type": "Feature",
   "properties": {
+    "addr:full":"1682 Montgomery Hwy Birmingham AL 35216",
+    "addr:housenumber":"1682",
+    "addr:postcode":"35216",
+    "addr:street":"Montgomery Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.806407,33.391303,-86.806407,33.391303",
     "geom:latitude":33.391303,
     "geom:longitude":-86.806407,
@@ -25,10 +30,13 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85914475,
-        85633793,
         85688675,
-        102085481
+        102191575,
+        85633793,
+        85914475,
+        102085481,
+        420510409,
+        85842589
     ],
     "wof:brand_id":420573917,
     "wof:breaches":[],
@@ -39,17 +47,28 @@
     "wof:geomhash":"c878f22675d0667be5f691a0d9145246",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
+            "neighbourhood_id":420510409,
+            "region_id":85688675,
+            "venue_id":152351337
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914475,
+            "neighbourhood_id":85842589,
             "region_id":85688675,
             "venue_id":152351337
         }
     ],
     "wof:id":152351337,
-    "wof:lastmodified":1466317581,
+    "wof:lastmodified":1491902298,
     "wof:name":"AFLAC",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

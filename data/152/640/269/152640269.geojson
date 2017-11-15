@@ -2,9 +2,14 @@
   "id": 152640269,
   "type": "Feature",
   "properties": {
+    "addr:full":"924 41st St N Birmingham AL 35222",
+    "addr:housenumber":"924",
+    "addr:postcode":"35222",
+    "addr:street":"41St St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.776853,33.539107,-86.776853,33.539107",
     "geom:latitude":33.539107,
     "geom:longitude":-86.776853,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -43,6 +49,7 @@
     "wof:geomhash":"b5b319cbb1885661c94dc41fefbd307a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":152640269,
-    "wof:lastmodified":1466319057,
+    "wof:lastmodified":1491930590,
     "wof:name":"New Generation Christian Minis",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",

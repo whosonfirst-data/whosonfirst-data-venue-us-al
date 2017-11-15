@@ -2,9 +2,14 @@
   "id": 152754431,
   "type": "Feature",
   "properties": {
+    "addr:full":"3026 Ensley 5 Points W Ave Birmingham AL 35208",
+    "addr:housenumber":"3026;5",
+    "addr:postcode":"35208",
+    "addr:street":"Ensley;W Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.879432,33.498824,-86.879432,33.498824",
     "geom:latitude":33.498824,
     "geom:longitude":-86.879432,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"c83ecaf84c5d9dc5d94ed7a8b98b32aa",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152754431,
-    "wof:lastmodified":1466319613,
+    "wof:lastmodified":1491887284,
     "wof:name":"Firm-Compassion The Willie",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

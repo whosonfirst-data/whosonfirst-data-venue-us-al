@@ -2,9 +2,14 @@
   "id": 152818741,
   "type": "Feature",
   "properties": {
+    "addr:full":"4005 Colony Park Dr Birmingham AL 35243",
+    "addr:housenumber":"4005",
+    "addr:postcode":"35243",
+    "addr:street":"Colony Park Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.729967,33.428758,-86.729967,33.428758",
     "geom:latitude":33.428758,
     "geom:longitude":-86.729967,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"3120329da4e93c4571156505f595157a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152818741,
-    "wof:lastmodified":1466319956,
+    "wof:lastmodified":1491897900,
     "wof:name":"A1 Handy Services",
     "wof:parent_id":85856691,
     "wof:placetype":"venue",

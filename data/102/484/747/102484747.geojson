@@ -2,9 +2,14 @@
   "id": 102484747,
   "type": "Feature",
   "properties": {
+    "addr:full":"3400 26th St N Birmingham AL 35207",
+    "addr:housenumber":"3400",
+    "addr:postcode":"35207",
+    "addr:street":"26Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.819851,33.556211,-86.819851,33.556211",
     "geom:latitude":33.556211,
     "geom:longitude":-86.819851,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -43,6 +49,7 @@
     "wof:geomhash":"d0381271ceaad0ca69a3ad8b4cf4a586",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":102484747,
-    "wof:lastmodified":1466315866,
+    "wof:lastmodified":1491929439,
     "wof:name":"Hair Mania",
     "wof:parent_id":85837367,
     "wof:placetype":"venue",

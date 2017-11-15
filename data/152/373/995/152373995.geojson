@@ -2,9 +2,14 @@
   "id": 152373995,
   "type": "Feature",
   "properties": {
+    "addr:full":"2602 Kingsridge Dr Birmingham AL 35243",
+    "addr:housenumber":"2602",
+    "addr:postcode":"35243",
+    "addr:street":"Kingsridge Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.742836,33.440844,-86.742836,33.440844",
     "geom:latitude":33.440844,
     "geom:longitude":-86.742836,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"9420499cd9f72452da805856fb49943f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152373995,
-    "wof:lastmodified":1466317688,
+    "wof:lastmodified":1491897873,
     "wof:name":"Peoplesmart LLC",
     "wof:parent_id":85856691,
     "wof:placetype":"venue",

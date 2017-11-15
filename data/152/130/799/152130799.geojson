@@ -2,9 +2,14 @@
   "id": 152130799,
   "type": "Feature",
   "properties": {
+    "addr:full":"1143 Vanderbilt Rd Birmingham AL 35234",
+    "addr:housenumber":"1143",
+    "addr:postcode":"35234",
+    "addr:street":"Vanderbilt Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.791928,33.537266,-86.791928,33.537266",
     "geom:latitude":33.537266,
     "geom:longitude":-86.791928,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"c14c856df0e77e81686887e10bda096b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152130799,
-    "wof:lastmodified":1466315047,
+    "wof:lastmodified":1491885651,
     "wof:name":"McWane Coal Sales Co Inc",
     "wof:parent_id":85838531,
     "wof:placetype":"venue",

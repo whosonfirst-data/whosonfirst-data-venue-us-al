@@ -2,14 +2,20 @@
   "id": 102450489,
   "type": "Feature",
   "properties": {
+    "addr:full":"517 35th St N Birmingham AL 35222",
+    "addr:housenumber":"517",
+    "addr:postcode":"35222",
+    "addr:street":"35Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.786334,33.531197,-86.786334,33.531197",
     "geom:latitude":33.531197,
     "geom:longitude":-86.786334,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"517 35th St N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -31,19 +37,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
         85876269
     ],
+    "wof:brand_id":1125152413,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_23CPoE1uTYsIBwwA0LzD7m_33.531197_-86.786334@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"8b249af15c0136b6c74ff01205da73d9",
+    "wof:geomhash":"1f624bd246919cba7c8c13a4cc7d3be6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":102450489,
-    "wof:lastmodified":1466314637,
+    "wof:lastmodified":1510694882,
     "wof:name":"Loomis Fargo & Co",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

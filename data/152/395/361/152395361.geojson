@@ -2,9 +2,14 @@
   "id": 152395361,
   "type": "Feature",
   "properties": {
+    "addr:full":"2014 6th Ave N Birmingham AL 35203",
+    "addr:housenumber":"2014",
+    "addr:postcode":"35203",
+    "addr:street":"6Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.807724,33.519892,-86.807724,33.519892",
     "geom:latitude":33.519892,
     "geom:longitude":-86.807724,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"91a11a5257d9a5c568b4f664a3da4f2a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152395361,
-    "wof:lastmodified":1466317835,
+    "wof:lastmodified":1491921713,
     "wof:name":"Law Office Frier Richard C",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

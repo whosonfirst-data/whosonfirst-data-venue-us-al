@@ -2,9 +2,14 @@
   "id": 102478795,
   "type": "Feature",
   "properties": {
+    "addr:full":"2159 Old Rocky Ridge Rd Birmingham AL 35216",
+    "addr:housenumber":"2159",
+    "addr:postcode":"35216",
+    "addr:street":"Old Rocky Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.789832,33.389361,-86.789832,33.389361",
     "geom:latitude":33.389361,
     "geom:longitude":-86.789832,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"2f3d6269fdb13640c415e52a4be54c69",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":102478795,
-    "wof:lastmodified":1466314868,
+    "wof:lastmodified":1491927106,
     "wof:name":"Bradley-Branch Realty Inc",
     "wof:parent_id":85858879,
     "wof:placetype":"venue",

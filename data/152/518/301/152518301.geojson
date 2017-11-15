@@ -2,14 +2,20 @@
   "id": 152518301,
   "type": "Feature",
   "properties": {
+    "addr:full":"1400 Norfolk Southern Dr S Birmingham AL 35210",
+    "addr:housenumber":"1400",
+    "addr:postcode":"35210",
+    "addr:street":"Norfolk Southern Dr S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.701016,33.544464,-86.701016,33.544464",
     "geom:latitude":33.544464,
     "geom:longitude":-86.701016,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1400 Norfolk Southern Dr S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -30,29 +36,32 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
-        85914465,
+        85914835,
         102085481,
         85819529
     ],
+    "wof:brand_id":1125157685,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6BQhd6yCAdlDtPAc4ovWTD_33.544464_-86.701016@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"0f90779a7d76597ccdbdc54f6da5bc02",
+    "wof:geomhash":"0af41f6a72eecbc6136313fa2fcb228f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
-            "locality_id":85914465,
+            "locality_id":85914835,
             "neighbourhood_id":85819529,
             "region_id":85688675,
             "venue_id":152518301
         }
     ],
     "wof:id":152518301,
-    "wof:lastmodified":1466318420,
+    "wof:lastmodified":1510699513,
     "wof:name":"Norfolk Southern",
     "wof:parent_id":85819529,
     "wof:placetype":"venue",

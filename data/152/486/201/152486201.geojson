@@ -2,9 +2,14 @@
   "id": 152486201,
   "type": "Feature",
   "properties": {
+    "addr:full":"1200 19th St SW Birmingham AL 35211",
+    "addr:housenumber":"1200",
+    "addr:postcode":"35211",
+    "addr:street":"19Th St Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.868318,33.474615,-86.868318,33.474615",
     "geom:latitude":33.474615,
     "geom:longitude":-86.868318,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -44,6 +50,7 @@
     "wof:geomhash":"43a41c61d9c1eb568caad98d1e528e9c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":152486201,
-    "wof:lastmodified":1466318323,
+    "wof:lastmodified":1491887259,
     "wof:name":"Swad Trucking Co Inc",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

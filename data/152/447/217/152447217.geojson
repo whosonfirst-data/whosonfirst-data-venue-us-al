@@ -2,9 +2,14 @@
   "id": 152447217,
   "type": "Feature",
   "properties": {
+    "addr:full":"1812 1st Ave N Birmingham AL 35210",
+    "addr:housenumber":"1812",
+    "addr:postcode":"35210",
+    "addr:street":"1St Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.708539,33.538454,-86.708539,33.538454",
     "geom:latitude":33.538454,
     "geom:longitude":-86.708539,
@@ -31,8 +36,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
-        85914465,
+        85914835,
         102085481,
         85819529
     ],
@@ -44,16 +50,17 @@
     "wof:geomhash":"a9e8d603676398945848c51ff57611b6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
-            "locality_id":85914465,
+            "locality_id":85914835,
             "neighbourhood_id":85819529,
             "region_id":85688675,
             "venue_id":152447217
         }
     ],
     "wof:id":152447217,
-    "wof:lastmodified":1466318119,
+    "wof:lastmodified":1491905251,
     "wof:name":"A/C Air Care",
     "wof:parent_id":85819529,
     "wof:placetype":"venue",

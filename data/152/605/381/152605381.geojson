@@ -2,9 +2,14 @@
   "id": 152605381,
   "type": "Feature",
   "properties": {
+    "addr:full":"2100 Data Park Cir Birmingham AL 35244",
+    "addr:housenumber":"2100",
+    "addr:postcode":"35244",
+    "addr:street":"Data Park Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.798082,33.378797,-86.798082,33.378797",
     "geom:latitude":33.378797,
     "geom:longitude":-86.798082,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"bfb79983736589977cca677b02407842",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152605381,
-    "wof:lastmodified":1466318865,
+    "wof:lastmodified":1491927129,
     "wof:name":"Birmingham Restaurant Group",
     "wof:parent_id":85858879,
     "wof:placetype":"venue",

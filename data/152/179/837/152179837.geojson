@@ -2,14 +2,20 @@
   "id": 152179837,
   "type": "Feature",
   "properties": {
+    "addr:full":"2040 Bessemer Rd Birmingham AL 35208",
+    "addr:housenumber":"2040",
+    "addr:postcode":"35208",
+    "addr:street":"Bessemer Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.881232,33.493584,-86.881232,33.493584",
     "geom:latitude":33.493584,
     "geom:longitude":-86.881232,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2040 Bessemer Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,19 +35,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
         85818187
     ],
+    "wof:brand_id":1125151779,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1KPz0uAUMFraN01PYNO8X6_33.493584_-86.881232@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"b500c62690b6ffa1b74cc4347564f667",
+    "wof:geomhash":"95a13168f1e2ee18096539cc9afc7fec",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":152179837,
-    "wof:lastmodified":1466315809,
+    "wof:lastmodified":1510696080,
     "wof:name":"EZ Pawn Inc",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 102497395,
   "type": "Feature",
   "properties": {
+    "addr:full":"1901 1st Ave S Irondale AL 35210",
+    "addr:housenumber":"1901",
+    "addr:postcode":"35210",
+    "addr:street":"1St Ave S Irondale",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.708342,33.53786,-86.708342,33.53786",
     "geom:latitude":33.53786,
     "geom:longitude":-86.708342,
@@ -29,8 +34,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
-        85914465,
+        85914835,
         102085481,
         85819529
     ],
@@ -42,16 +48,17 @@
     "wof:geomhash":"70841633044ac8bf48a7c7a2dec1568f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
-            "locality_id":85914465,
+            "locality_id":85914835,
             "neighbourhood_id":85819529,
             "region_id":85688675,
             "venue_id":102497395
         }
     ],
     "wof:id":102497395,
-    "wof:lastmodified":1466316478,
+    "wof:lastmodified":1491905246,
     "wof:name":"Avid Companies",
     "wof:parent_id":85819529,
     "wof:placetype":"venue",

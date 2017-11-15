@@ -2,14 +2,20 @@
   "id": 152161807,
   "type": "Feature",
   "properties": {
+    "addr:full":"1887 Edwards Lake Rd Birmingham AL 35235",
+    "addr:housenumber":"1887",
+    "addr:postcode":"35235",
+    "addr:street":"Edwards Lake Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.652911,33.601363,-86.652911,33.601363",
     "geom:latitude":33.601363,
     "geom:longitude":-86.652911,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1887 Edwards Lake Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,19 +35,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85913473,
         102085481,
         85852855
     ],
+    "wof:brand_id":1125155643,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4QSpkvg9V4twwLBSLJEVbg_33.601363_-86.652911@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"e882242843901eeb45e9f3a0f20c4960",
+    "wof:geomhash":"337b8fe092ed06a69c43d256bda15dde",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85913473,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":152161807,
-    "wof:lastmodified":1466315212,
+    "wof:lastmodified":1510697976,
     "wof:name":"Nationsrent Inc",
     "wof:parent_id":85852855,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 152694393,
   "type": "Feature",
   "properties": {
+    "addr:full":"4660 Caldwell Mill Rd Birmingham AL 35243",
+    "addr:housenumber":"4660",
+    "addr:postcode":"35243",
+    "addr:street":"Caldwell Mill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.735701,33.426592,-86.735701,33.426592",
     "geom:latitude":33.426592,
     "geom:longitude":-86.735701,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"e6afcf52c7aab10efed75605d9bed278",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152694393,
-    "wof:lastmodified":1466319310,
+    "wof:lastmodified":1491897898,
     "wof:name":"Sonrise Health Ministry Inc",
     "wof:parent_id":85856691,
     "wof:placetype":"venue",

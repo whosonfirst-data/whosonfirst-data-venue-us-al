@@ -2,9 +2,14 @@
   "id": 102599773,
   "type": "Feature",
   "properties": {
+    "addr:full":"1021 19th St S Birmingham AL 35233",
+    "addr:housenumber":"1021",
+    "addr:postcode":"35233",
+    "addr:street":"19Th St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.79827,33.500928,-86.79827,33.500928",
     "geom:latitude":33.500928,
     "geom:longitude":-86.79827,
@@ -31,9 +36,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
+        85876277,
         85819533
     ],
     "wof:breaches":[],
@@ -44,6 +51,16 @@
     "wof:geomhash":"7fc074dc418c54746c20624502b869cf",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85876277,
+            "region_id":85688675,
+            "venue_id":102599773
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -53,9 +70,9 @@
         }
     ],
     "wof:id":102599773,
-    "wof:lastmodified":1466317295,
+    "wof:lastmodified":1491914554,
     "wof:name":"Raphael J Thornton DMD/PC",
-    "wof:parent_id":85819533,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

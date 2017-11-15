@@ -2,9 +2,14 @@
   "id": 152259493,
   "type": "Feature",
   "properties": {
+    "addr:full":"2027 2nd Ave N Birmingham AL 35203",
+    "addr:housenumber":"2027",
+    "addr:postcode":"35203",
+    "addr:street":"2Nd Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.805169,33.515806,-86.805169,33.515806",
     "geom:latitude":33.515806,
     "geom:longitude":-86.805169,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -44,6 +50,7 @@
     "wof:geomhash":"dc8e135e9ae5d143227ebfe14617c9aa",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":152259493,
-    "wof:lastmodified":1466316740,
+    "wof:lastmodified":1491921722,
     "wof:name":"Document Outsourcing Inc",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

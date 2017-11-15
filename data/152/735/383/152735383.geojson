@@ -2,9 +2,14 @@
   "id": 152735383,
   "type": "Feature",
   "properties": {
+    "addr:full":"4631 Decatur Hwy Birmingham AL 35207",
+    "addr:housenumber":"4631",
+    "addr:postcode":"35207",
+    "addr:street":"Decatur Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.810136,33.57206,-86.810136,33.57206",
     "geom:latitude":33.57206,
     "geom:longitude":-86.810136,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"70902a72d6650ccabd3741b535aab5fd",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152735383,
-    "wof:lastmodified":1466319420,
+    "wof:lastmodified":1491929436,
     "wof:name":"Jody's Place",
     "wof:parent_id":85837367,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 102469325,
   "type": "Feature",
   "properties": {
+    "addr:full":"4757 1st Ave N Birmingham AL 35222",
+    "addr:housenumber":"4757",
+    "addr:postcode":"35222",
+    "addr:street":"1St Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.763558,33.534306,-86.763558,33.534306",
     "geom:latitude":33.534306,
     "geom:longitude":-86.763558,
@@ -33,10 +38,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
-        85858829
+        85815977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,18 +52,19 @@
     "wof:geomhash":"a00974cb44b2d77c8c3c8473118c3cc3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
-            "neighbourhood_id":85858829,
+            "neighbourhood_id":85815977,
             "region_id":85688675,
             "venue_id":102469325
         }
     ],
     "wof:id":102469325,
-    "wof:lastmodified":1466315199,
+    "wof:lastmodified":1491930593,
     "wof:name":"Vulcan Plumbing & Heating Co",
-    "wof:parent_id":85858829,
+    "wof:parent_id":85815977,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 102598311,
   "type": "Feature",
   "properties": {
+    "addr:full":"423 20th St S Birmingham AL 35210",
+    "addr:housenumber":"423",
+    "addr:postcode":"35210",
+    "addr:street":"20Th St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.704088,33.535594,-86.704088,33.535594",
     "geom:latitude":33.535594,
     "geom:longitude":-86.704088,
@@ -29,11 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914835,
         102085481,
-        85851139,
-        85914465,
         85819529
     ],
     "wof:breaches":[],
@@ -44,26 +48,19 @@
     "wof:geomhash":"00f30e393c2746facbfb420398f8e1f6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914835,
-            "neighbourhood_id":85851139,
-            "region_id":85688675,
-            "venue_id":102598311
-        },
-        {
-            "country_id":85633793,
-            "county_id":102085481,
-            "locality_id":85914465,
             "neighbourhood_id":85819529,
             "region_id":85688675,
             "venue_id":102598311
         }
     ],
     "wof:id":102598311,
-    "wof:lastmodified":1466317211,
+    "wof:lastmodified":1491905252,
     "wof:name":"Clicks J Rockeffellers",
-    "wof:parent_id":-1,
+    "wof:parent_id":85819529,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

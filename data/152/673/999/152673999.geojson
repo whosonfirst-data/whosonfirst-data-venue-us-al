@@ -2,9 +2,14 @@
   "id": 152673999,
   "type": "Feature",
   "properties": {
+    "addr:full":"3420 Far Hill Cir Birmingham AL 35243",
+    "addr:housenumber":"3420",
+    "addr:postcode":"35243",
+    "addr:street":"Far Hill Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.719421,33.458462,-86.719421,33.458462",
     "geom:latitude":33.458462,
     "geom:longitude":-86.719421,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"349ab589d86ce4baf6a885285dc286a5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152673999,
-    "wof:lastmodified":1466319230,
+    "wof:lastmodified":1491897881,
     "wof:name":"Timeplus Payroll Services",
     "wof:parent_id":85856691,
     "wof:placetype":"venue",

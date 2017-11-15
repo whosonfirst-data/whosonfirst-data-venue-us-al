@@ -2,9 +2,14 @@
   "id": 152336265,
   "type": "Feature",
   "properties": {
+    "addr:full":"920 18th St N Birmingham AL 35203",
+    "addr:housenumber":"920",
+    "addr:postcode":"35203",
+    "addr:street":"18Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.815196,33.522962,-86.815196,33.522962",
     "geom:latitude":33.522962,
     "geom:longitude":-86.815196,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85914465,
-        85633793,
         85688675,
-        102085481
+        102191575,
+        85633793,
+        85914465,
+        102085481,
+        85876273,
+        85820315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +49,28 @@
     "wof:geomhash":"14cf89d125883387f164513aba8cdb3a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
+            "neighbourhood_id":85876273,
+            "region_id":85688675,
+            "venue_id":152336265
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85820315,
             "region_id":85688675,
             "venue_id":152336265
         }
     ],
     "wof:id":152336265,
-    "wof:lastmodified":1466317376,
+    "wof:lastmodified":1491932662,
     "wof:name":"C & R Pallets Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

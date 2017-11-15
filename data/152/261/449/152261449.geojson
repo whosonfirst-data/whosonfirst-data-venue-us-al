@@ -2,9 +2,14 @@
   "id": 152261449,
   "type": "Feature",
   "properties": {
+    "addr:full":"2121 3rd Ave N Birmingham AL 35203",
+    "addr:housenumber":"2121",
+    "addr:postcode":"35203",
+    "addr:street":"3Rd Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.804346,33.517412,-86.804346,33.517412",
     "geom:latitude":33.517412,
     "geom:longitude":-86.804346,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -44,6 +50,7 @@
     "wof:geomhash":"b25e533b9f079c99bb85ad51e4a09583",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":152261449,
-    "wof:lastmodified":1466316756,
+    "wof:lastmodified":1491921717,
     "wof:name":"Raburn & Company LLP",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

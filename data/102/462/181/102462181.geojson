@@ -2,9 +2,14 @@
   "id": 102462181,
   "type": "Feature",
   "properties": {
+    "addr:full":"3411 Colonnade Pkwy Birmingham AL 35243",
+    "addr:housenumber":"3411",
+    "addr:postcode":"35243",
+    "addr:street":"Colonnade Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.73376,33.434817,-86.73376,33.434817",
     "geom:latitude":33.434817,
     "geom:longitude":-86.73376,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"b6ac6a04f09337bd991200b59f309d9a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":102462181,
-    "wof:lastmodified":1466314961,
+    "wof:lastmodified":1491897902,
     "wof:name":"Beauty World Hair Salon",
     "wof:parent_id":85856691,
     "wof:placetype":"venue",

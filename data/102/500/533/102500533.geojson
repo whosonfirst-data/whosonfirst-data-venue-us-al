@@ -2,9 +2,14 @@
   "id": 102500533,
   "type": "Feature",
   "properties": {
+    "addr:full":"1804 Crestwood Blvd Birmingham AL 35210",
+    "addr:housenumber":"1804",
+    "addr:postcode":"35210",
+    "addr:street":"Crestwood Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.704168,33.532868,-86.704168,33.532868",
     "geom:latitude":33.532868,
     "geom:longitude":-86.704168,
@@ -30,10 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
-        85914465,
+        85914835,
         102085481,
-        85850695
+        85819529
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +49,19 @@
     "wof:geomhash":"e6f054e7765a71e517cf5d80edff8555",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
-            "locality_id":85914465,
-            "neighbourhood_id":85850695,
+            "locality_id":85914835,
+            "neighbourhood_id":85819529,
             "region_id":85688675,
             "venue_id":102500533
         }
     ],
     "wof:id":102500533,
-    "wof:lastmodified":1466316497,
+    "wof:lastmodified":1491905254,
     "wof:name":"Sneaky Petes Hot Dogs",
-    "wof:parent_id":85850695,
+    "wof:parent_id":85819529,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 152867687,
   "type": "Feature",
   "properties": {
+    "addr:full":"2719 Ave H Birmingham AL 35218",
+    "addr:housenumber":"2719",
+    "addr:postcode":"35218",
+    "addr:street":"Ave H",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.899237,33.504414,-86.899237,33.504414",
     "geom:latitude":33.504414,
     "geom:longitude":-86.899237,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -43,6 +49,7 @@
     "wof:geomhash":"d4fc35daa8440500e7d3dd0b821ebba5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":152867687,
-    "wof:lastmodified":1466320195,
+    "wof:lastmodified":1491887270,
     "wof:name":"Drive Today Used Auto Sales",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

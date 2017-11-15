@@ -2,9 +2,14 @@
   "id": 102459811,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 19th St N Birmingham AL 35234",
+    "addr:housenumber":"200",
+    "addr:postcode":"35234",
+    "addr:street":"19Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.807994,33.515152,-86.807994,33.515152",
     "geom:latitude":33.515152,
     "geom:longitude":-86.807994,
@@ -29,10 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
-        85820315
+        85876269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,18 +48,19 @@
     "wof:geomhash":"9af8746bb3c5894c51cea5102ebf8769",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
-            "neighbourhood_id":85820315,
+            "neighbourhood_id":85876269,
             "region_id":85688675,
             "venue_id":102459811
         }
     ],
     "wof:id":102459811,
-    "wof:lastmodified":1466315041,
+    "wof:lastmodified":1491921705,
     "wof:name":"Mc Wane Center",
-    "wof:parent_id":85820315,
+    "wof:parent_id":85876269,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

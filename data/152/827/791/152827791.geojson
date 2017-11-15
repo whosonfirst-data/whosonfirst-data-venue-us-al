@@ -2,9 +2,14 @@
   "id": 152827791,
   "type": "Feature",
   "properties": {
+    "addr:full":"1523 19th St Birmingham AL 35218",
+    "addr:housenumber":"1523",
+    "addr:postcode":"35218",
+    "addr:street":"19Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.889041,33.510494,-86.889041,33.510494",
     "geom:latitude":33.510494,
     "geom:longitude":-86.889041,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"6cd7dce37e31d6dad1faeb3c55861a8f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152827791,
-    "wof:lastmodified":1466319984,
+    "wof:lastmodified":1491887268,
     "wof:name":"Carter's Barber Shop",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

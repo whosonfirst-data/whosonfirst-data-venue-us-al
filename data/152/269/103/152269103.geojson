@@ -2,9 +2,14 @@
   "id": 152269103,
   "type": "Feature",
   "properties": {
+    "addr:full":"2520 30th Ave N Birmingham AL 35207",
+    "addr:housenumber":"2520",
+    "addr:postcode":"35207",
+    "addr:street":"30Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.818303,33.551763,-86.818303,33.551763",
     "geom:latitude":33.551763,
     "geom:longitude":-86.818303,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"71802b6c109e4b127410e067361e67d5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152269103,
-    "wof:lastmodified":1466316791,
+    "wof:lastmodified":1491929449,
     "wof:name":"Angel's Love",
     "wof:parent_id":85837367,
     "wof:placetype":"venue",

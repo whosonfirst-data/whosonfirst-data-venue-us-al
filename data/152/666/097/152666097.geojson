@@ -2,9 +2,14 @@
   "id": 152666097,
   "type": "Feature",
   "properties": {
+    "addr:full":"2213 Morris Ave Birmingham AL 35203",
+    "addr:housenumber":"2213",
+    "addr:postcode":"35203",
+    "addr:street":"Morris Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.801213,33.515655,-86.801213,33.515655",
     "geom:latitude":33.515655,
     "geom:longitude":-86.801213,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"d53777ea457e10919d28619cd109b880",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152666097,
-    "wof:lastmodified":1466319171,
+    "wof:lastmodified":1491921745,
     "wof:name":"Davis Dorin Curtis & Neil PC",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

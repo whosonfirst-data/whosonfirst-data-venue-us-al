@@ -2,9 +2,14 @@
   "id": 152138993,
   "type": "Feature",
   "properties": {
+    "addr:full":"1893 Alabama Ave SW Birmingham AL 35211",
+    "addr:housenumber":"1893",
+    "addr:postcode":"35211",
+    "addr:street":"Alabama Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.868406,33.491074,-86.868406,33.491074",
     "geom:latitude":33.491074,
     "geom:longitude":-86.868406,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -44,6 +50,7 @@
     "wof:geomhash":"3bd80b073ae5e2350ae30b5645e5de18",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":152138993,
-    "wof:lastmodified":1466315383,
+    "wof:lastmodified":1491887287,
     "wof:name":"Red Kw Trucking",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

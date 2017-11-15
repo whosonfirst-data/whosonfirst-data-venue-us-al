@@ -2,9 +2,14 @@
   "id": 152123627,
   "type": "Feature",
   "properties": {
+    "addr:full":"2828 Norwood Blvd Birmingham AL 35234",
+    "addr:housenumber":"2828",
+    "addr:postcode":"35234",
+    "addr:street":"Norwood Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.806644,33.539121,-86.806644,33.539121",
     "geom:latitude":33.539121,
     "geom:longitude":-86.806644,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"c1a9aa36a1452a330bd864e40166f000",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152123627,
-    "wof:lastmodified":1466314677,
+    "wof:lastmodified":1491885660,
     "wof:name":"Dubs & Beat",
     "wof:parent_id":85838531,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 152840537,
   "type": "Feature",
   "properties": {
+    "addr:full":"4265 1st Ave N Birmingham AL 35222",
+    "addr:housenumber":"4265",
+    "addr:postcode":"35222",
+    "addr:street":"1St Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.773578,33.52942,-86.773578,33.52942",
     "geom:latitude":33.52942,
     "geom:longitude":-86.773578,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"2450bd29053d5633197f02f5e5029c20",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152840537,
-    "wof:lastmodified":1466320064,
+    "wof:lastmodified":1491930580,
     "wof:name":"Kingdom Kare Child Dev Ctr",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",

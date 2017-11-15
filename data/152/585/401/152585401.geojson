@@ -2,9 +2,14 @@
   "id": 152585401,
   "type": "Feature",
   "properties": {
+    "addr:full":"577 24th St Birmingham AL 35218",
+    "addr:housenumber":"577",
+    "addr:postcode":"35218",
+    "addr:street":"24Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.900066,33.508811,-86.900066,33.508811",
     "geom:latitude":33.508811,
     "geom:longitude":-86.900066,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"498f320424a1b7baf3ab280eb36d1d86",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152585401,
-    "wof:lastmodified":1466318777,
+    "wof:lastmodified":1491887293,
     "wof:name":"Tiny Footsteps To Fame Learnin",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

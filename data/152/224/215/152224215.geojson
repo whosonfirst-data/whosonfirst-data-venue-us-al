@@ -2,9 +2,14 @@
   "id": 152224215,
   "type": "Feature",
   "properties": {
+    "addr:full":"700 18th St S Birmingham AL 35294",
+    "addr:housenumber":"700",
+    "addr:postcode":"35294",
+    "addr:street":"18Th St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.801909,33.503344,-86.801909,33.503344",
     "geom:latitude":33.503344,
     "geom:longitude":-86.801909,
@@ -26,11 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
-        85819533,
-        85813175
+        85813175,
+        85819533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,26 +46,28 @@
     "wof:geomhash":"a33464a0665eccf36d2d6b22adcd5fd7",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102085481,
-            "locality_id":85914465,
-            "neighbourhood_id":85819533,
-            "region_id":85688675,
-            "venue_id":152224215
-        },
-        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
             "neighbourhood_id":85813175,
             "region_id":85688675,
             "venue_id":152224215
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85819533,
+            "region_id":85688675,
+            "venue_id":152224215
         }
     ],
     "wof:id":152224215,
-    "wof:lastmodified":1466316148,
+    "wof:lastmodified":1491914568,
     "wof:name":"Callahan Eye Foundation Hosp",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

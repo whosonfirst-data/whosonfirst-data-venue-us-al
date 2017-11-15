@@ -2,9 +2,14 @@
   "id": 102501147,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 14th St S Birmingham AL 35205",
+    "addr:housenumber":"1",
+    "addr:postcode":"35205",
+    "addr:street":"14Th St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.812644,33.508426,-86.812644,33.508426",
     "geom:latitude":33.508426,
     "geom:longitude":-86.812644,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -43,6 +49,7 @@
     "wof:geomhash":"b30683666031d16d70dd8dc0172a4863",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,6 +58,7 @@
             "venue_id":102501147
         },
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -60,9 +68,9 @@
         }
     ],
     "wof:id":102501147,
-    "wof:lastmodified":1466316550,
+    "wof:lastmodified":1491914537,
     "wof:name":"Flamingos On A Schtick",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 152150429,
   "type": "Feature",
   "properties": {
+    "addr:full":"2670 Eastern Valley Rd Leeds AL 35094",
+    "addr:housenumber":"2670",
+    "addr:postcode":"35094",
+    "addr:street":"Eastern Valley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.60611,33.49779,-86.60611,33.49779",
     "geom:latitude":33.49779,
     "geom:longitude":-86.60611,
@@ -27,6 +32,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -40,6 +46,7 @@
     "wof:geomhash":"b782fbd4c2f36c1bede0f5760776092b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":152150429,
-    "wof:lastmodified":1466314561,
+    "wof:lastmodified":1491922694,
     "wof:name":"Alabama Wildlife Relocators",
     "wof:parent_id":85804755,
     "wof:placetype":"venue",

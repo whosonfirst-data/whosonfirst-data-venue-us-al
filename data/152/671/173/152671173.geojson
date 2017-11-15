@@ -2,9 +2,14 @@
   "id": 152671173,
   "type": "Feature",
   "properties": {
+    "addr:full":"2400 29th Ave N Birmingham AL 35207",
+    "addr:housenumber":"2400",
+    "addr:postcode":"35207",
+    "addr:street":"29Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.819037,33.550354,-86.819037,33.550354",
     "geom:latitude":33.550354,
     "geom:longitude":-86.819037,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"25e515a354765e0167b178dd037dc6c8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152671173,
-    "wof:lastmodified":1466319175,
+    "wof:lastmodified":1491929440,
     "wof:name":"Food Fair",
     "wof:parent_id":85837367,
     "wof:placetype":"venue",

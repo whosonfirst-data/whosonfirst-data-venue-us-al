@@ -2,9 +2,14 @@
   "id": 152826427,
   "type": "Feature",
   "properties": {
+    "addr:full":"205 32nd St S Birmingham AL 35233",
+    "addr:housenumber":"205",
+    "addr:postcode":"35233",
+    "addr:street":"32Nd St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.786489,33.518323,-86.786489,33.518323",
     "geom:latitude":33.518323,
     "geom:longitude":-86.786489,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -43,6 +49,7 @@
     "wof:geomhash":"954367b546161a8ce145b2cafb80f86a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":152826427,
-    "wof:lastmodified":1466319980,
+    "wof:lastmodified":1491921740,
     "wof:name":"Birmingham AIDS Outreach",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

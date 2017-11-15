@@ -2,9 +2,14 @@
   "id": 152611049,
   "type": "Feature",
   "properties": {
+    "addr:full":"2131 Carraway Blvd Birmingham AL 35234",
+    "addr:housenumber":"2131",
+    "addr:postcode":"35234",
+    "addr:street":"Carraway Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.813113,33.5416,-86.813113,33.5416",
     "geom:latitude":33.5416,
     "geom:longitude":-86.813113,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"37459ce7dfc0446f7e28f7be96255121",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152611049,
-    "wof:lastmodified":1466318883,
+    "wof:lastmodified":1491885658,
     "wof:name":"Customer Care Car Wash",
     "wof:parent_id":85838531,
     "wof:placetype":"venue",

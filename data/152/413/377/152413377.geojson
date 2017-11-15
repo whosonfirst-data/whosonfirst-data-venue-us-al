@@ -2,9 +2,14 @@
   "id": 152413377,
   "type": "Feature",
   "properties": {
+    "addr:full":"2113 Old Rocky Ridge Rd Birmingham AL 35216",
+    "addr:housenumber":"2113",
+    "addr:postcode":"35216",
+    "addr:street":"Old Rocky Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.795299,33.388812,-86.795299,33.388812",
     "geom:latitude":33.388812,
     "geom:longitude":-86.795299,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"e3268029018454ac3259c74e47707242",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152413377,
-    "wof:lastmodified":1466317914,
+    "wof:lastmodified":1491927130,
     "wof:name":"Worry Free Comfort Systems",
     "wof:parent_id":85858879,
     "wof:placetype":"venue",

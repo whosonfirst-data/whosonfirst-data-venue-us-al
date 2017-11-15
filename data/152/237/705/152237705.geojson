@@ -2,9 +2,14 @@
   "id": 152237705,
   "type": "Feature",
   "properties": {
+    "addr:full":"3000 27th St N Birmingham AL 35207",
+    "addr:housenumber":"3000",
+    "addr:postcode":"35207",
+    "addr:street":"27Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.816916,33.553182,-86.816916,33.553182",
     "geom:latitude":33.553182,
     "geom:longitude":-86.816916,
@@ -34,6 +39,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -47,6 +53,7 @@
     "wof:geomhash":"0058877e93c4a451667d7f6b35d2ed66",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":152237705,
-    "wof:lastmodified":1466316465,
+    "wof:lastmodified":1491929436,
     "wof:name":"Esquire Styles",
     "wof:parent_id":85837367,
     "wof:placetype":"venue",

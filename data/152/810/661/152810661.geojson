@@ -2,14 +2,20 @@
   "id": 152810661,
   "type": "Feature",
   "properties": {
+    "addr:full":"3419 Colonnade Pkwy Birmingham AL 35243",
+    "addr:housenumber":"3419",
+    "addr:postcode":"35243",
+    "addr:street":"Colonnade Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.733668,33.434816,-86.733668,33.434816",
     "geom:latitude":33.434816,
     "geom:longitude":-86.733668,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3419 Colonnade Pkwy",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,19 +35,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
         85856691
     ],
+    "wof:brand_id":1125151367,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Ed3L8083g1GXA9uNmt7EH_33.434816_-86.733668@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"ce3213620e68ff128f2eed7ad48a24dc",
+    "wof:geomhash":"c59e97a6bd356039cb9b822aaf0aa116",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":152810661,
-    "wof:lastmodified":1466319874,
+    "wof:lastmodified":1510696777,
     "wof:name":"Jade Garden",
     "wof:parent_id":85856691,
     "wof:placetype":"venue",

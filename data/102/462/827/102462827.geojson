@@ -2,9 +2,14 @@
   "id": 102462827,
   "type": "Feature",
   "properties": {
+    "addr:full":"1032 2nd Ave S Birmingham AL 35233",
+    "addr:housenumber":"1032",
+    "addr:postcode":"35233",
+    "addr:street":"2Nd Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.816707,33.50453,-86.816707,33.50453",
     "geom:latitude":33.50453,
     "geom:longitude":-86.816707,
@@ -34,9 +39,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
+        85820315,
         85819533
     ],
     "wof:breaches":[],
@@ -47,6 +54,16 @@
     "wof:geomhash":"7a575aadd7b43cf78d0df622831ce6ce",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85820315,
+            "region_id":85688675,
+            "venue_id":102462827
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -56,9 +73,9 @@
         }
     ],
     "wof:id":102462827,
-    "wof:lastmodified":1466315092,
+    "wof:lastmodified":1491914549,
     "wof:name":"Alluriam Stone",
-    "wof:parent_id":85819533,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

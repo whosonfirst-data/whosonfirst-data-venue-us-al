@@ -2,9 +2,14 @@
   "id": 152373347,
   "type": "Feature",
   "properties": {
+    "addr:full":"2421 Bailey Rd Leeds AL 35094",
+    "addr:housenumber":"2421",
+    "addr:postcode":"35094",
+    "addr:street":"Bailey Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.608781,33.505161,-86.608781,33.505161",
     "geom:latitude":33.505161,
     "geom:longitude":-86.608781,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -43,6 +49,7 @@
     "wof:geomhash":"9657b4c16df2c70b309b29ee0111121d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":152373347,
-    "wof:lastmodified":1466317682,
+    "wof:lastmodified":1491922693,
     "wof:name":"Robin McDonald Graphic Design",
     "wof:parent_id":85804755,
     "wof:placetype":"venue",

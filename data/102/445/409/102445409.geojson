@@ -2,9 +2,14 @@
   "id": 102445409,
   "type": "Feature",
   "properties": {
+    "addr:full":"528 37th St N Birmingham AL 35222",
+    "addr:housenumber":"528",
+    "addr:postcode":"35222",
+    "addr:street":"37Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.783227,33.52996,-86.783227,33.52996",
     "geom:latitude":33.52996,
     "geom:longitude":-86.783227,
@@ -27,6 +32,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -40,6 +46,7 @@
     "wof:geomhash":"58c19dcd1368e19f23681b773dd88f4e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":102445409,
-    "wof:lastmodified":1466314397,
+    "wof:lastmodified":1491921689,
     "wof:name":"Faces Inc",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

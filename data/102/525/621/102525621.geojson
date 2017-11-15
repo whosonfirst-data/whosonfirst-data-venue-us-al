@@ -2,9 +2,14 @@
   "id": 102525621,
   "type": "Feature",
   "properties": {
+    "addr:full":"2110 Bessemer Rd Birmingham AL 35208",
+    "addr:housenumber":"2110",
+    "addr:postcode":"35208",
+    "addr:street":"Bessemer Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.880196,33.49437,-86.880196,33.49437",
     "geom:latitude":33.49437,
     "geom:longitude":-86.880196,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"07030600676e588f6c703b203f5a4631",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":102525621,
-    "wof:lastmodified":1466317202,
+    "wof:lastmodified":1491887280,
     "wof:name":"Ladd Insurance Inc",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

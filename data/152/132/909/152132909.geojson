@@ -2,9 +2,14 @@
   "id": 152132909,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 25th St S Birmingham AL 35233",
+    "addr:housenumber":"100",
+    "addr:postcode":"35233",
+    "addr:street":"25Th St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.796683,33.514614,-86.796683,33.514614",
     "geom:latitude":33.514614,
     "geom:longitude":-86.796683,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -44,6 +50,7 @@
     "wof:geomhash":"238043cefa9e3406e37c49afff46a247",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":152132909,
-    "wof:lastmodified":1466315231,
+    "wof:lastmodified":1491921702,
     "wof:name":"Phoenix Energy Corp",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

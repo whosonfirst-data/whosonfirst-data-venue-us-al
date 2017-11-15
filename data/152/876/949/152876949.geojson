@@ -2,9 +2,14 @@
   "id": 152876949,
   "type": "Feature",
   "properties": {
+    "addr:full":"2670 Altadena Rd Birmingham AL 35243",
+    "addr:housenumber":"2670",
+    "addr:postcode":"35243",
+    "addr:street":"Altadena Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.753507,33.428117,-86.753507,33.428117",
     "geom:latitude":33.428117,
     "geom:longitude":-86.753507,
@@ -31,8 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688675,
+        102191575,
         85633793,
-        85688675
+        85914483,
+        102085481,
+        85831323,
+        85914465,
+        85856691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +53,28 @@
     "wof:geomhash":"637cd9acd3b603061716de971654b0ed",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914483,
+            "neighbourhood_id":85831323,
+            "region_id":85688675,
+            "venue_id":152876949
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85856691,
             "region_id":85688675,
             "venue_id":152876949
         }
     ],
     "wof:id":152876949,
-    "wof:lastmodified":1466320261,
+    "wof:lastmodified":1491897892,
     "wof:name":"Mercun Steel Co Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

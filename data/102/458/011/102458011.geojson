@@ -2,9 +2,14 @@
   "id": 102458011,
   "type": "Feature",
   "properties": {
+    "addr:full":"904 30th St N Birmingham AL 35203",
+    "addr:housenumber":"904",
+    "addr:postcode":"35203",
+    "addr:street":"30Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.797898,33.529594,-86.797898,33.529594",
     "geom:latitude":33.529594,
     "geom:longitude":-86.797898,
@@ -30,10 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
-        85838531
+        85876269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +49,19 @@
     "wof:geomhash":"0f8b85653fe5194978f522df1145ebc2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
-            "neighbourhood_id":85838531,
+            "neighbourhood_id":85876269,
             "region_id":85688675,
             "venue_id":102458011
         }
     ],
     "wof:id":102458011,
-    "wof:lastmodified":1466314853,
+    "wof:lastmodified":1491921731,
     "wof:name":"Metro Trailer Repair Co",
-    "wof:parent_id":85838531,
+    "wof:parent_id":85876269,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

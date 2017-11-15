@@ -2,9 +2,14 @@
   "id": 152305135,
   "type": "Feature",
   "properties": {
+    "addr:full":"130 19th St S Birmingham AL 35205",
+    "addr:housenumber":"130",
+    "addr:postcode":"35205",
+    "addr:street":"19Th St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.805137,33.510766,-86.805137,33.510766",
     "geom:latitude":33.510766,
     "geom:longitude":-86.805137,
@@ -34,6 +39,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -48,6 +54,7 @@
     "wof:geomhash":"869925a6eb406de8801b26c894e1a369",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -56,6 +63,7 @@
             "venue_id":152305135
         },
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -65,9 +73,9 @@
         }
     ],
     "wof:id":152305135,
-    "wof:lastmodified":1466317126,
+    "wof:lastmodified":1491914557,
     "wof:name":"Architecture Works",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

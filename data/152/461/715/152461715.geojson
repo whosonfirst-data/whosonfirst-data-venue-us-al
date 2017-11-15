@@ -2,9 +2,14 @@
   "id": 152461715,
   "type": "Feature",
   "properties": {
+    "addr:full":"1630 2nd Ave S Birmingham AL 35233",
+    "addr:housenumber":"1630",
+    "addr:postcode":"35233",
+    "addr:street":"2Nd Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.807892,33.508733,-86.807892,33.508733",
     "geom:latitude":33.508733,
     "geom:longitude":-86.807892,
@@ -40,6 +45,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -54,6 +60,7 @@
     "wof:geomhash":"3bf1d951be00ea5dcf1808e470221162",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -62,6 +69,7 @@
             "venue_id":152461715
         },
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -71,9 +79,9 @@
         }
     ],
     "wof:id":152461715,
-    "wof:lastmodified":1466318157,
+    "wof:lastmodified":1491914564,
     "wof:name":"Jones Sportswear Co Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

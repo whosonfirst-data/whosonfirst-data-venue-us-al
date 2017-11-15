@@ -2,9 +2,14 @@
   "id": 152670971,
   "type": "Feature",
   "properties": {
+    "addr:full":"454 Woodward Rd Trussville AL 35173",
+    "addr:housenumber":"454",
+    "addr:postcode":"35173",
+    "addr:street":"Woodward Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.633109,33.61841,-86.633109,33.61841",
     "geom:latitude":33.61841,
     "geom:longitude":-86.633109,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85913473,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"b026f8cf4bacf1cb64b113fead1eb153",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85913473,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152670971,
-    "wof:lastmodified":1466319218,
+    "wof:lastmodified":1491928883,
     "wof:name":"Faith Enterprise LLC",
     "wof:parent_id":85852855,
     "wof:placetype":"venue",

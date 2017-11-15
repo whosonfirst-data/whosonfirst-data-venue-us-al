@@ -2,9 +2,14 @@
   "id": 152238443,
   "type": "Feature",
   "properties": {
+    "addr:full":"1925 2nd Ave N Birmingham AL 35203",
+    "addr:housenumber":"1925",
+    "addr:postcode":"35203",
+    "addr:street":"2Nd Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.806589,33.515129,-86.806589,33.515129",
     "geom:latitude":33.515129,
     "geom:longitude":-86.806589,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"25ea663a908c7189509b202fc6fcc061",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152238443,
-    "wof:lastmodified":1466316318,
+    "wof:lastmodified":1491921745,
     "wof:name":"Petes Famous Hot Dogs",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

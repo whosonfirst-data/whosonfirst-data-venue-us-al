@@ -2,9 +2,14 @@
   "id": 102492151,
   "type": "Feature",
   "properties": {
+    "addr:full":"4400 Lewisburg Rd Birmingham AL 35207",
+    "addr:housenumber":"4400",
+    "addr:postcode":"35207",
+    "addr:street":"Lewisburg Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.8139,33.570926,-86.8139,33.570926",
     "geom:latitude":33.570926,
     "geom:longitude":-86.8139,
@@ -34,9 +39,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633793,
         85688675,
-        102085481
+        102191575,
+        85633793,
+        85914465,
+        102085481,
+        85837367
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,16 +54,19 @@
     "wof:geomhash":"aeff1864d7dc5e6490bbca7a57068497",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85837367,
             "region_id":85688675,
             "venue_id":102492151
         }
     ],
     "wof:id":102492151,
-    "wof:lastmodified":1466316057,
+    "wof:lastmodified":1491929446,
     "wof:name":"Joe Money Machinery Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":85837367,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

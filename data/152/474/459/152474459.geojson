@@ -2,9 +2,14 @@
   "id": 152474459,
   "type": "Feature",
   "properties": {
+    "addr:full":"2126 Morris Ave Birmingham AL 35203",
+    "addr:housenumber":"2126",
+    "addr:postcode":"35203",
+    "addr:street":"Morris Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.802821,33.515038,-86.802821,33.515038",
     "geom:latitude":33.515038,
     "geom:longitude":-86.802821,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"26fb85b992938e69921a3aa3943ae952",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152474459,
-    "wof:lastmodified":1466318291,
+    "wof:lastmodified":1491921753,
     "wof:name":"Samuel R McCord",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

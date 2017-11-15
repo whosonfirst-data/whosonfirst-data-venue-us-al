@@ -2,9 +2,14 @@
   "id": 102465637,
   "type": "Feature",
   "properties": {
+    "addr:full":"2241 Bessemer Rd Birmingham AL 35208",
+    "addr:housenumber":"2241",
+    "addr:postcode":"35208",
+    "addr:street":"Bessemer Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.878456,33.495455,-86.878456,33.495455",
     "geom:latitude":33.495455,
     "geom:longitude":-86.878456,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"893563875699016471bd8829de00b09f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":102465637,
-    "wof:lastmodified":1466315132,
+    "wof:lastmodified":1491887267,
     "wof:name":"Norris Armstrong",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

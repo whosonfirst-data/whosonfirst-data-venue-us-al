@@ -2,9 +2,14 @@
   "id": 152190331,
   "type": "Feature",
   "properties": {
+    "addr:full":"2633 Alta Glen Dr Birmingham AL 35243",
+    "addr:housenumber":"2633",
+    "addr:postcode":"35243",
+    "addr:street":"Alta Glen Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.748055,33.43209,-86.748055,33.43209",
     "geom:latitude":33.43209,
     "geom:longitude":-86.748055,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"19bb57797e5590367394e5aae0d65388",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152190331,
-    "wof:lastmodified":1466315682,
+    "wof:lastmodified":1491897889,
     "wof:name":"Marriage and Family Counseling",
     "wof:parent_id":85856691,
     "wof:placetype":"venue",

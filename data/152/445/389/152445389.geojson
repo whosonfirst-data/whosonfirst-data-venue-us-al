@@ -2,9 +2,14 @@
   "id": 152445389,
   "type": "Feature",
   "properties": {
+    "addr:full":"4100 Colonnade Pkwy Birmingham AL 35243",
+    "addr:housenumber":"4100",
+    "addr:postcode":"35243",
+    "addr:street":"Colonnade Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.725847,33.439189,-86.725847,33.439189",
     "geom:latitude":33.439189,
     "geom:longitude":-86.725847,
@@ -33,6 +38,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -46,6 +52,7 @@
     "wof:geomhash":"d3b7f67585672f2b4f78b89ddb696ff6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":152445389,
-    "wof:lastmodified":1466318056,
+    "wof:lastmodified":1491897904,
     "wof:name":"Birmingham Care Systems",
     "wof:parent_id":85856691,
     "wof:placetype":"venue",

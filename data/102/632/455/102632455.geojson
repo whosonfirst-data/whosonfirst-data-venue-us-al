@@ -2,9 +2,14 @@
   "id": 102632455,
   "type": "Feature",
   "properties": {
+    "addr:full":"2813 Pahokee Trce Birmingham AL 35243",
+    "addr:housenumber":"2813",
+    "addr:postcode":"35243",
+    "addr:street":"Pahokee Trce",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.734474,33.417346,-86.734474,33.417346",
     "geom:latitude":33.417346,
     "geom:longitude":-86.734474,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"bcc079e7236b3bb5905b2eaef6cdf8f1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":102632455,
-    "wof:lastmodified":1466317521,
+    "wof:lastmodified":1491897890,
     "wof:name":"Walter & Meg Mattix",
     "wof:parent_id":85856691,
     "wof:placetype":"venue",

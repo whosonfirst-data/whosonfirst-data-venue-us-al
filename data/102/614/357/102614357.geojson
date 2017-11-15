@@ -2,9 +2,14 @@
   "id": 102614357,
   "type": "Feature",
   "properties": {
+    "addr:full":"417 Lorain St Birmingham AL 35224",
+    "addr:housenumber":"417",
+    "addr:postcode":"35224",
+    "addr:street":"Lorain St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.904367,33.522259,-86.904367,33.522259",
     "geom:latitude":33.522259,
     "geom:longitude":-86.904367,
@@ -31,10 +36,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
-        85848275
+        85818187
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +50,19 @@
     "wof:geomhash":"97685fbe16c292be485d477a31857e14",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
-            "neighbourhood_id":85848275,
+            "neighbourhood_id":85818187,
             "region_id":85688675,
             "venue_id":102614357
         }
     ],
     "wof:id":102614357,
-    "wof:lastmodified":1466317298,
+    "wof:lastmodified":1491887266,
     "wof:name":"Gedson Document Center Inc",
-    "wof:parent_id":85848275,
+    "wof:parent_id":85818187,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

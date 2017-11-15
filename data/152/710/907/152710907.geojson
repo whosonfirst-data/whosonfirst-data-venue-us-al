@@ -2,9 +2,14 @@
   "id": 152710907,
   "type": "Feature",
   "properties": {
+    "addr:full":"2107 5th Ave N Birmingham AL 35203",
+    "addr:housenumber":"2107",
+    "addr:postcode":"35203",
+    "addr:street":"5Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.805415,33.519316,-86.805415,33.519316",
     "geom:latitude":33.519316,
     "geom:longitude":-86.805415,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"0dcbf386af11a15eb8da9ea6440f3376",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152710907,
-    "wof:lastmodified":1466319432,
+    "wof:lastmodified":1491921749,
     "wof:name":"Dinsmore J Wilson",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

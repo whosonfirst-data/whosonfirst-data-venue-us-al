@@ -2,9 +2,14 @@
   "id": 152319219,
   "type": "Feature",
   "properties": {
+    "addr:full":"2404 Canterbury Rd Birmingham AL 35223",
+    "addr:housenumber":"2404",
+    "addr:postcode":"35223",
+    "addr:street":"Canterbury Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.773421,33.483663,-86.773421,33.483663",
     "geom:latitude":33.483663,
     "geom:longitude":-86.773421,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914807,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"e47fa18bf467c63b24b5790024eeff00",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914807,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152319219,
-    "wof:lastmodified":1466317387,
+    "wof:lastmodified":1491932278,
     "wof:name":"Lena Medoyeff Studio",
     "wof:parent_id":85854765,
     "wof:placetype":"venue",

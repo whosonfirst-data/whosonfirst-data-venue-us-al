@@ -2,9 +2,14 @@
   "id": 102634639,
   "type": "Feature",
   "properties": {
+    "addr:full":"2110 Avenue E Birmingham AL 35218",
+    "addr:housenumber":"2110",
+    "addr:postcode":"35218",
+    "addr:street":"Avenue E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.898579,33.511189,-86.898579,33.511189",
     "geom:latitude":33.511189,
     "geom:longitude":-86.898579,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -45,6 +51,7 @@
     "wof:geomhash":"5365e4595dcf364e234aead1c3c7f0f6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":102634639,
-    "wof:lastmodified":1466317569,
+    "wof:lastmodified":1491887285,
     "wof:name":"Controlled Environment Inc",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

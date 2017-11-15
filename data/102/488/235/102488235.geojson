@@ -2,9 +2,14 @@
   "id": 102488235,
   "type": "Feature",
   "properties": {
+    "addr:full":"3010 Cullman Ave Birmingham AL 35208",
+    "addr:housenumber":"3010",
+    "addr:postcode":"35208",
+    "addr:street":"Cullman Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.870092,33.502322,-86.870092,33.502322",
     "geom:latitude":33.502322,
     "geom:longitude":-86.870092,
@@ -30,10 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
-        85847929
+        85818187
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +49,19 @@
     "wof:geomhash":"d1a7555cb79838252976e555ea7c4639",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
-            "neighbourhood_id":85847929,
+            "neighbourhood_id":85818187,
             "region_id":85688675,
             "venue_id":102488235
         }
     ],
     "wof:id":102488235,
-    "wof:lastmodified":1466315931,
+    "wof:lastmodified":1491887276,
     "wof:name":"Special Things For You",
-    "wof:parent_id":85847929,
+    "wof:parent_id":85818187,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

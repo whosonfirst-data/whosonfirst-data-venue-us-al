@@ -2,9 +2,14 @@
   "id": 840490481,
   "type": "Feature",
   "properties": {
+    "addr:full":"1802 6th Ave S Birmingham AL 35233",
+    "addr:housenumber":"1802",
+    "addr:postcode":"35233",
+    "addr:street":"6Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.802952,33.505899,-86.802952,33.505899",
     "geom:latitude":33.505899,
     "geom:longitude":-86.802952,
@@ -34,8 +39,8 @@
         85633793,
         85914465,
         102085481,
-        85819533,
-        85876277
+        85876277,
+        85819533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,7 +55,7 @@
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
-            "neighbourhood_id":85819533,
+            "neighbourhood_id":85876277,
             "region_id":85688675,
             "venue_id":840490481
         },
@@ -59,15 +64,15 @@
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
-            "neighbourhood_id":85876277,
+            "neighbourhood_id":85819533,
             "region_id":85688675,
             "venue_id":840490481
         }
     ],
     "wof:id":840490481,
-    "wof:lastmodified":1466316133,
+    "wof:lastmodified":1491914538,
     "wof:name":"Morgan, C E, Md - Uab Hospital",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 152612311,
   "type": "Feature",
   "properties": {
+    "addr:full":"1023 20th St S Birmingham AL 35205",
+    "addr:housenumber":"1023",
+    "addr:postcode":"35205",
+    "addr:street":"20Th St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.797038,33.501937,-86.797038,33.501937",
     "geom:latitude":33.501937,
     "geom:longitude":-86.797038,
@@ -26,11 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
-        85819533,
-        85876277
+        85876277,
+        85819533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,26 +46,28 @@
     "wof:geomhash":"8b84a10f5ded613bca6e30f11f63e9fc",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102085481,
-            "locality_id":85914465,
-            "neighbourhood_id":85819533,
-            "region_id":85688675,
-            "venue_id":152612311
-        },
-        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
             "neighbourhood_id":85876277,
             "region_id":85688675,
             "venue_id":152612311
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85819533,
+            "region_id":85688675,
+            "venue_id":152612311
         }
     ],
     "wof:id":152612311,
-    "wof:lastmodified":1466318899,
+    "wof:lastmodified":1491914553,
     "wof:name":"Pickwick Hotel",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 102489791,
   "type": "Feature",
   "properties": {
+    "addr:full":"843 45th St N Birmingham AL 35212",
+    "addr:housenumber":"843",
+    "addr:postcode":"35212",
+    "addr:street":"45Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.770154,33.539716,-86.770154,33.539716",
     "geom:latitude":33.539716,
     "geom:longitude":-86.770154,
@@ -26,10 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
-        85858829
+        85815977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +45,19 @@
     "wof:geomhash":"97842d7af7940c479a88cd25b431897a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
-            "neighbourhood_id":85858829,
+            "neighbourhood_id":85815977,
             "region_id":85688675,
             "venue_id":102489791
         }
     ],
     "wof:id":102489791,
-    "wof:lastmodified":1466316025,
+    "wof:lastmodified":1491930582,
     "wof:name":"Rosa Smith",
-    "wof:parent_id":85858829,
+    "wof:parent_id":85815977,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

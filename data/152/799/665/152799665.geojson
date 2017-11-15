@@ -2,9 +2,14 @@
   "id": 152799665,
   "type": "Feature",
   "properties": {
+    "addr:full":"1828 31st St Birmingham AL 35208",
+    "addr:housenumber":"1828",
+    "addr:postcode":"35208",
+    "addr:street":"31St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.883631,33.498296,-86.883631,33.498296",
     "geom:latitude":33.498296,
     "geom:longitude":-86.883631,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -44,6 +50,7 @@
     "wof:geomhash":"b54719583bf7939220b6b01c79d19c92",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":152799665,
-    "wof:lastmodified":1466319840,
+    "wof:lastmodified":1491887282,
     "wof:name":"Fox Construction Co",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

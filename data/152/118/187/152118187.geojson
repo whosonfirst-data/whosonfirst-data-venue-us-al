@@ -2,9 +2,14 @@
   "id": 152118187,
   "type": "Feature",
   "properties": {
+    "addr:full":"3409 Richard Arrington Jr Blvd N Birmingham AL 35234",
+    "addr:housenumber":"3409",
+    "addr:postcode":"35234",
+    "addr:street":"Richard Arrington Jr Blvd N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.791904,33.53412,-86.791904,33.53412",
     "geom:latitude":33.53412,
     "geom:longitude":-86.791904,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"a8dcd4f534d74c06e327dd4ff247137d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152118187,
-    "wof:lastmodified":1466314402,
+    "wof:lastmodified":1491885655,
     "wof:name":"A Professional Bail Bonding",
     "wof:parent_id":85838531,
     "wof:placetype":"venue",

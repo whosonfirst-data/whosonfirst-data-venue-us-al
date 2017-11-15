@@ -2,9 +2,14 @@
   "id": 152528633,
   "type": "Feature",
   "properties": {
+    "addr:full":"3000 35th Ave N Birmingham AL 35207",
+    "addr:housenumber":"3000",
+    "addr:postcode":"35207",
+    "addr:street":"35Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.808464,33.56015,-86.808464,33.56015",
     "geom:latitude":33.56015,
     "geom:longitude":-86.808464,
@@ -25,10 +30,13 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85914465,
-        85633793,
         85688675,
-        102085481
+        102191575,
+        85633793,
+        85914465,
+        102085481,
+        420510473,
+        85837367
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +46,28 @@
     "wof:geomhash":"87d5deb3ed71bfb00b94a75595c62a63",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
+            "neighbourhood_id":420510473,
+            "region_id":85688675,
+            "venue_id":152528633
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85837367,
             "region_id":85688675,
             "venue_id":152528633
         }
     ],
     "wof:id":152528633,
-    "wof:lastmodified":1466318489,
+    "wof:lastmodified":1491929449,
     "wof:name":"Am-Pac Tire Dist Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

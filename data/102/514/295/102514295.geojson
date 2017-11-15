@@ -2,9 +2,14 @@
   "id": 102514295,
   "type": "Feature",
   "properties": {
+    "addr:full":"2124 4th Ave S Birmingham AL 35233",
+    "addr:housenumber":"2124",
+    "addr:postcode":"35233",
+    "addr:street":"4Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.79958,33.510291,-86.79958,33.510291",
     "geom:latitude":33.510291,
     "geom:longitude":-86.79958,
@@ -29,9 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
+        85876269,
         85819533
     ],
     "wof:breaches":[],
@@ -42,6 +49,16 @@
     "wof:geomhash":"7e54b94a06e43c18e7cb3e00508d03fd",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85876269,
+            "region_id":85688675,
+            "venue_id":102514295
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,9 +68,9 @@
         }
     ],
     "wof:id":102514295,
-    "wof:lastmodified":1466316899,
+    "wof:lastmodified":1491914568,
     "wof:name":"American Family Care Inc",
-    "wof:parent_id":85819533,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

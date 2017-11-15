@@ -2,9 +2,14 @@
   "id": 152345409,
   "type": "Feature",
   "properties": {
+    "addr:full":"1300 University Blvd Birmingham AL 35233",
+    "addr:housenumber":"1300",
+    "addr:postcode":"35233",
+    "addr:street":"University Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.80749,33.500824,-86.80749,33.500824",
     "geom:latitude":33.500824,
     "geom:longitude":-86.80749,
@@ -31,11 +36,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
-        85819533,
-        85813175
+        85813175,
+        85819533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,26 +51,28 @@
     "wof:geomhash":"874cada95ffa7e4f9bd48461fa4233af",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102085481,
-            "locality_id":85914465,
-            "neighbourhood_id":85819533,
-            "region_id":85688675,
-            "venue_id":152345409
-        },
-        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
             "neighbourhood_id":85813175,
             "region_id":85688675,
             "venue_id":152345409
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85819533,
+            "region_id":85688675,
+            "venue_id":152345409
         }
     ],
     "wof:id":152345409,
-    "wof:lastmodified":1466317646,
+    "wof:lastmodified":1491914534,
     "wof:name":"University Cmpt Science Dept",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

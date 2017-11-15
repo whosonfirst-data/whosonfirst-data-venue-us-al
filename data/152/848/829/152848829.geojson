@@ -2,9 +2,14 @@
   "id": 152848829,
   "type": "Feature",
   "properties": {
+    "addr:full":"2665 20th St N Birmingham AL 35234",
+    "addr:housenumber":"2665",
+    "addr:postcode":"35234",
+    "addr:street":"20Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.825215,33.545875,-86.825215,33.545875",
     "geom:latitude":33.545875,
     "geom:longitude":-86.825215,
@@ -36,6 +41,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -49,6 +55,7 @@
     "wof:geomhash":"52e1d49ad8048239a385864f0712c6f6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":152848829,
-    "wof:lastmodified":1466320102,
+    "wof:lastmodified":1491929452,
     "wof:name":"Keplinger Machine & Mfg Co",
     "wof:parent_id":85837367,
     "wof:placetype":"venue",

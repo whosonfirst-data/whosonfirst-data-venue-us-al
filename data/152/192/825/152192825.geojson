@@ -2,9 +2,14 @@
   "id": 152192825,
   "type": "Feature",
   "properties": {
+    "addr:full":"4620 Ave V Birmingham AL 35208",
+    "addr:housenumber":"4620",
+    "addr:postcode":"35208",
+    "addr:street":"Ave V",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.87838,33.494334,-86.87838,33.494334",
     "geom:latitude":33.494334,
     "geom:longitude":-86.87838,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"4c5c529048368d9f62ac0e2c4dddd6a8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152192825,
-    "wof:lastmodified":1466315781,
+    "wof:lastmodified":1491887274,
     "wof:name":"Five Points West Library",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

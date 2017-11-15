@@ -2,9 +2,14 @@
   "id": 152634307,
   "type": "Feature",
   "properties": {
+    "addr:full":"4635 Ave V Birmingham AL 35208",
+    "addr:housenumber":"4635",
+    "addr:postcode":"35208",
+    "addr:street":"Ave V",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.878498,33.494588,-86.878498,33.494588",
     "geom:latitude":33.494588,
     "geom:longitude":-86.878498,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"45e329dfd13efe1c769ca5967583fec7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152634307,
-    "wof:lastmodified":1466318831,
+    "wof:lastmodified":1491887274,
     "wof:name":"Broom's Unisex Barber & Style",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

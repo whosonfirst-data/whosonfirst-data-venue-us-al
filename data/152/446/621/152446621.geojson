@@ -2,9 +2,14 @@
   "id": 152446621,
   "type": "Feature",
   "properties": {
+    "addr:full":"2940 4th Ave S Birmingham AL 35233",
+    "addr:housenumber":"2940",
+    "addr:postcode":"35233",
+    "addr:street":"4Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.788836,33.515413,-86.788836,33.515413",
     "geom:latitude":33.515413,
     "geom:longitude":-86.788836,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"3e79717a82d91a0521c00426a7c802f8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152446621,
-    "wof:lastmodified":1466318061,
+    "wof:lastmodified":1491921747,
     "wof:name":"In Infants Diaper Service",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

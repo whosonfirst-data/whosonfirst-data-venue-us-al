@@ -2,9 +2,14 @@
   "id": 152159513,
   "type": "Feature",
   "properties": {
+    "addr:full":"2813 24 St Ensley Birmingham AL 35208",
+    "addr:housenumber":"2813",
+    "addr:postcode":"35208",
+    "addr:street":"24 St Ensley",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.880856,33.499752,-86.880856,33.499752",
     "geom:latitude":33.499752,
     "geom:longitude":-86.880856,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"a8802ba4af0ccfde4990185a75223511",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152159513,
-    "wof:lastmodified":1466315075,
+    "wof:lastmodified":1491887275,
     "wof:name":"Highway & Hedges Holiness Chr",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

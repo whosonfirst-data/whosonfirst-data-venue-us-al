@@ -2,9 +2,14 @@
   "id": 152864491,
   "type": "Feature",
   "properties": {
+    "addr:full":"404 Mulga Loop Rd Birmingham AL 35224",
+    "addr:housenumber":"404",
+    "addr:postcode":"35224",
+    "addr:street":"Mulga Loop Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.908525,33.520203,-86.908525,33.520203",
     "geom:latitude":33.520203,
     "geom:longitude":-86.908525,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"6c9ab1033787b1172a2801e6e1190dbe",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152864491,
-    "wof:lastmodified":1466320185,
+    "wof:lastmodified":1491887261,
     "wof:name":"D W Black Construction Co",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

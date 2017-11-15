@@ -2,9 +2,14 @@
   "id": 102495565,
   "type": "Feature",
   "properties": {
+    "addr:full":"2625 33rd Ave N Birmingham AL 35207",
+    "addr:housenumber":"2625",
+    "addr:postcode":"35207",
+    "addr:street":"33Rd Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.818036,33.55498,-86.818036,33.55498",
     "geom:latitude":33.55498,
     "geom:longitude":-86.818036,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"9a22f0adda5ce91ede05f48f338972df",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":102495565,
-    "wof:lastmodified":1466316258,
+    "wof:lastmodified":1491929435,
     "wof:name":"Layne Paper Co Inc",
     "wof:parent_id":85837367,
     "wof:placetype":"venue",

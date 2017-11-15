@@ -2,9 +2,14 @@
   "id": 152776535,
   "type": "Feature",
   "properties": {
+    "addr:full":"2714 Bessemer Rd Birmingham AL 35208",
+    "addr:housenumber":"2714",
+    "addr:postcode":"35208",
+    "addr:street":"Bessemer Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.870522,33.501598,-86.870522,33.501598",
     "geom:latitude":33.501598,
     "geom:longitude":-86.870522,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -44,6 +50,7 @@
     "wof:geomhash":"ce95d63499dd7a5bacd9faede240328a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":152776535,
-    "wof:lastmodified":1466319808,
+    "wof:lastmodified":1491887278,
     "wof:name":"Aluminum Can Recyclers Inc",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

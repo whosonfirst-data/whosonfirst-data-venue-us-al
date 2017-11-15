@@ -2,9 +2,14 @@
   "id": 152485321,
   "type": "Feature",
   "properties": {
+    "addr:full":"513 23rd St N Birmingham AL 35203",
+    "addr:housenumber":"513",
+    "addr:postcode":"35203",
+    "addr:street":"23Rd St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.804252,33.520559,-86.804252,33.520559",
     "geom:latitude":33.520559,
     "geom:longitude":-86.804252,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"e94edc04d77e7fe7a2d3af3010bdbf81",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152485321,
-    "wof:lastmodified":1466318250,
+    "wof:lastmodified":1491921741,
     "wof:name":"Family Supermarket",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

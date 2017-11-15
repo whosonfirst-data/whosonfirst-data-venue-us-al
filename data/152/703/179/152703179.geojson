@@ -2,9 +2,14 @@
   "id": 152703179,
   "type": "Feature",
   "properties": {
+    "addr:full":"2020 3rd Ave N Birmingham AL 35203",
+    "addr:housenumber":"2020",
+    "addr:postcode":"35203",
+    "addr:street":"3Rd Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.806442,33.516515,-86.806442,33.516515",
     "geom:latitude":33.516515,
     "geom:longitude":-86.806442,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -44,6 +50,7 @@
     "wof:geomhash":"b657cb012311ec3560f73980da7b8f98",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":152703179,
-    "wof:lastmodified":1466319497,
+    "wof:lastmodified":1491921701,
     "wof:name":"Standard Furniture Co 1",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 152805647,
   "type": "Feature",
   "properties": {
+    "addr:full":"4109 Riverview Cove Cahaba Heights AL 35243",
+    "addr:housenumber":"4109",
+    "addr:postcode":"35243",
+    "addr:street":"Riverview Cove;Heights",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.723276,33.452764,-86.723276,33.452764",
     "geom:latitude":33.452764,
     "geom:longitude":-86.723276,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"98ebb9aa673fa49528a78b779b92ba47",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152805647,
-    "wof:lastmodified":1466319894,
+    "wof:lastmodified":1491897903,
     "wof:name":"Irene Pate Flowers & Gifts",
     "wof:parent_id":85856691,
     "wof:placetype":"venue",

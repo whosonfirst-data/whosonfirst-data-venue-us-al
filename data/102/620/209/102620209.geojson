@@ -2,9 +2,14 @@
   "id": 102620209,
   "type": "Feature",
   "properties": {
+    "addr:full":"2100 Riverchase Galleria Birmingham AL 35244",
+    "addr:housenumber":"2100",
+    "addr:postcode":"35244",
+    "addr:street":"Riverchase Galleria",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.810424,33.377417,-86.810424,33.377417",
     "geom:latitude":33.377417,
     "geom:longitude":-86.810424,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"a81516f840ccb700b5f63be9dc426e46",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":102620209,
-    "wof:lastmodified":1466317359,
+    "wof:lastmodified":1491927104,
     "wof:name":"Cafe Java",
     "wof:parent_id":85858879,
     "wof:placetype":"venue",

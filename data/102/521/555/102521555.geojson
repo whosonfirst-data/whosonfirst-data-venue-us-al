@@ -2,9 +2,14 @@
   "id": 102521555,
   "type": "Feature",
   "properties": {
+    "addr:full":"3200 Heathrow Downs Birmingham AL 35226",
+    "addr:housenumber":"3200",
+    "addr:postcode":"35226",
+    "addr:street":"Heathrow Downs",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.81673,33.392662,-86.81673,33.392662",
     "geom:latitude":33.392662,
     "geom:longitude":-86.81673,
@@ -30,10 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
-        85827189
+        85842589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +49,19 @@
     "wof:geomhash":"44d7a7dce2a495fba707eb71178d09c1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
-            "neighbourhood_id":85827189,
+            "neighbourhood_id":85842589,
             "region_id":85688675,
             "venue_id":102521555
         }
     ],
     "wof:id":102521555,
-    "wof:lastmodified":1466317230,
+    "wof:lastmodified":1491902297,
     "wof:name":"Fred E Johnson Legal & Ecnmc",
-    "wof:parent_id":85827189,
+    "wof:parent_id":85842589,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

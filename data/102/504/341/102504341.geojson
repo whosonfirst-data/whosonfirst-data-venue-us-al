@@ -2,9 +2,14 @@
   "id": 102504341,
   "type": "Feature",
   "properties": {
+    "addr:full":"3040 Ensley Ave Birmingham AL 35208",
+    "addr:housenumber":"",
+    "addr:postcode":"3040;35208",
+    "addr:street":"Ensley Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.878969,33.498511,-86.878969,33.498511",
     "geom:latitude":33.498511,
     "geom:longitude":-86.878969,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"7d42129269bfdd9d6182f6f00bb66595",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":102504341,
-    "wof:lastmodified":1466316592,
+    "wof:lastmodified":1491887291,
     "wof:name":"Full Potential Salon",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

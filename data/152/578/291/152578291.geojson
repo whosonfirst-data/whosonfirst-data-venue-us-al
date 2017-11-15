@@ -2,9 +2,14 @@
   "id": 152578291,
   "type": "Feature",
   "properties": {
+    "addr:full":"3317 Messer Airport Hwy Birmingham AL 35222",
+    "addr:housenumber":"3317",
+    "addr:postcode":"35222",
+    "addr:street":"Messer Airport Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.787979,33.527295,-86.787979,33.527295",
     "geom:latitude":33.527295,
     "geom:longitude":-86.787979,
@@ -39,6 +44,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -52,6 +58,7 @@
     "wof:geomhash":"82446ab78d66313cc9fa23e7750fcf03",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":152578291,
-    "wof:lastmodified":1466318744,
+    "wof:lastmodified":1491921728,
     "wof:name":"Cat Rental Store The",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

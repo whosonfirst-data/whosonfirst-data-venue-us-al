@@ -2,9 +2,14 @@
   "id": 152189301,
   "type": "Feature",
   "properties": {
+    "addr:full":"2440 Bessemer Rd Birmingham AL 35208",
+    "addr:housenumber":"2440",
+    "addr:postcode":"35208",
+    "addr:street":"Bessemer Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.874003,33.498892,-86.874003,33.498892",
     "geom:latitude":33.498892,
     "geom:longitude":-86.874003,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -44,6 +50,7 @@
     "wof:geomhash":"c6fb1a66ca8e0bfafde8c19b23ad9b20",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":152189301,
-    "wof:lastmodified":1466315763,
+    "wof:lastmodified":1491887281,
     "wof:name":"Jet Pep",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

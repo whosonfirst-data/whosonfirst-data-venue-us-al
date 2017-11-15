@@ -2,9 +2,14 @@
   "id": 102513887,
   "type": "Feature",
   "properties": {
+    "addr:full":"2515 Alton Rd Birmingham AL 35210",
+    "addr:housenumber":"2515",
+    "addr:postcode":"35210",
+    "addr:street":"Alton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.641218,33.577348,-86.641218,33.577348",
     "geom:latitude":33.577348,
     "geom:longitude":-86.641218,
@@ -29,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85914465,
-        85633793,
         85688675,
-        102085481
+        102191575,
+        85633793,
+        85913473,
+        102085481,
+        85852855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,19 @@
     "wof:geomhash":"29176c792a1a5e8a38bff3791125c821",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
-            "locality_id":85914465,
+            "locality_id":85913473,
+            "neighbourhood_id":85852855,
             "region_id":85688675,
             "venue_id":102513887
         }
     ],
     "wof:id":102513887,
-    "wof:lastmodified":1466316960,
+    "wof:lastmodified":1491928874,
     "wof:name":"Mid-South Aircraft",
-    "wof:parent_id":-1,
+    "wof:parent_id":85852855,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

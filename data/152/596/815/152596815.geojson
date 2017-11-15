@@ -2,9 +2,14 @@
   "id": 152596815,
   "type": "Feature",
   "properties": {
+    "addr:full":"537 17th St SW Birmingham AL 35211",
+    "addr:housenumber":"537",
+    "addr:postcode":"35211",
+    "addr:street":"17Th St Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.864764,33.489461,-86.864764,33.489461",
     "geom:latitude":33.489461,
     "geom:longitude":-86.864764,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"65388792b5092a2fcbaf1cccb1c76dc4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152596815,
-    "wof:lastmodified":1466319018,
+    "wof:lastmodified":1491887274,
     "wof:name":"Jacksons Cleaning Service",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

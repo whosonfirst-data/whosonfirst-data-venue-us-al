@@ -2,9 +2,14 @@
   "id": 102449717,
   "type": "Feature",
   "properties": {
+    "addr:full":"3110 26th St N Birmingham AL 35207",
+    "addr:housenumber":"3110",
+    "addr:postcode":"35207",
+    "addr:street":"26Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.818654,33.553117,-86.818654,33.553117",
     "geom:latitude":33.553117,
     "geom:longitude":-86.818654,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -43,6 +49,7 @@
     "wof:geomhash":"f4ab084574342f9c9a9f99e98068637e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":102449717,
-    "wof:lastmodified":1466314651,
+    "wof:lastmodified":1491929444,
     "wof:name":"Express Refund",
     "wof:parent_id":85837367,
     "wof:placetype":"venue",

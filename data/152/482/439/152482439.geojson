@@ -2,9 +2,14 @@
   "id": 152482439,
   "type": "Feature",
   "properties": {
+    "addr:full":"2501 29th Pl Ensley Birmingham AL 35208",
+    "addr:housenumber":"2501",
+    "addr:postcode":"35208",
+    "addr:street":"29Th Pl Ensley",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.873648,33.502065,-86.873648,33.502065",
     "geom:latitude":33.502065,
     "geom:longitude":-86.873648,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"dfac939dbdad96aba463876c514bdd10",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152482439,
-    "wof:lastmodified":1466318254,
+    "wof:lastmodified":1491887280,
     "wof:name":"Church At Fairview",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

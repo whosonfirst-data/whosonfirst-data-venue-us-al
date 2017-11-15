@@ -2,9 +2,14 @@
   "id": 152203371,
   "type": "Feature",
   "properties": {
+    "addr:full":"949 Alton Pkwy Birmingham AL 35210",
+    "addr:housenumber":"949",
+    "addr:postcode":"35210",
+    "addr:street":"Alton Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.644577,33.580763,-86.644577,33.580763",
     "geom:latitude":33.580763,
     "geom:longitude":-86.644577,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85913473,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"524fa8860b3b86ad64f183619dd4b66b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85913473,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152203371,
-    "wof:lastmodified":1466315962,
+    "wof:lastmodified":1491928881,
     "wof:name":"Coleman Russell & Assoc",
     "wof:parent_id":85852855,
     "wof:placetype":"venue",

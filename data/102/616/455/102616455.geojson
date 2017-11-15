@@ -2,9 +2,14 @@
   "id": 102616455,
   "type": "Feature",
   "properties": {
+    "addr:full":"3012 4th Ave S Birmingham AL 35233",
+    "addr:housenumber":"3012",
+    "addr:postcode":"35233",
+    "addr:street":"4Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.787115,33.516236,-86.787115,33.516236",
     "geom:latitude":33.516236,
     "geom:longitude":-86.787115,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"2c2be3f035e39b4c57eae4a64c95be9a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":102616455,
-    "wof:lastmodified":1466317336,
+    "wof:lastmodified":1491921719,
     "wof:name":"Aabco Rents Inc",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

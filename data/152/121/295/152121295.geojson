@@ -2,9 +2,14 @@
   "id": 152121295,
   "type": "Feature",
   "properties": {
+    "addr:full":"1515 6th Ave S Birmingham AL 35233",
+    "addr:housenumber":"1515",
+    "addr:postcode":"35233",
+    "addr:street":"6Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.806387,33.504189,-86.806387,33.504189",
     "geom:latitude":33.504189,
     "geom:longitude":-86.806387,
@@ -30,11 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
-        85819533,
-        85876277
+        85876277,
+        85819533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,26 +50,28 @@
     "wof:geomhash":"4c18063d275242684d664a021da92dd3",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102085481,
-            "locality_id":85914465,
-            "neighbourhood_id":85819533,
-            "region_id":85688675,
-            "venue_id":152121295
-        },
-        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
             "neighbourhood_id":85876277,
             "region_id":85688675,
             "venue_id":152121295
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85819533,
+            "region_id":85688675,
+            "venue_id":152121295
         }
     ],
     "wof:id":152121295,
-    "wof:lastmodified":1466314555,
+    "wof:lastmodified":1491914548,
     "wof:name":"Jefferson County Medical Ex",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

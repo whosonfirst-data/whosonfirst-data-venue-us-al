@@ -2,9 +2,14 @@
   "id": 102468251,
   "type": "Feature",
   "properties": {
+    "addr:full":"1210 32nd St N Birmingham AL 35234",
+    "addr:housenumber":"1210",
+    "addr:postcode":"35234",
+    "addr:street":"32Nd St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.798235,33.535422,-86.798235,33.535422",
     "geom:latitude":33.535422,
     "geom:longitude":-86.798235,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"b6c5d3ad00f94b76d6d5e411972a5fb5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":102468251,
-    "wof:lastmodified":1466315145,
+    "wof:lastmodified":1491885656,
     "wof:name":"Nava International",
     "wof:parent_id":85838531,
     "wof:placetype":"venue",

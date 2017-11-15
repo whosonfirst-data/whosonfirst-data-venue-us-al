@@ -2,9 +2,14 @@
   "id": 152495777,
   "type": "Feature",
   "properties": {
+    "addr:full":"2101 6th Ave N Birmingham AL 35203",
+    "addr:housenumber":"2101",
+    "addr:postcode":"35203",
+    "addr:street":"6Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.806143,33.520547,-86.806143,33.520547",
     "geom:latitude":33.520547,
     "geom:longitude":-86.806143,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -44,6 +50,7 @@
     "wof:geomhash":"174696325eeb78dca40692ec0cebef50",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":152495777,
-    "wof:lastmodified":1466318460,
+    "wof:lastmodified":1491921743,
     "wof:name":"Birmingham Racing Commission",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 152285241,
   "type": "Feature",
   "properties": {
+    "addr:full":"2308 Altaridge Ln Birmingham AL 35243",
+    "addr:housenumber":"2308",
+    "addr:postcode":"35243",
+    "addr:street":"Altaridge Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.74767,33.428628,-86.74767,33.428628",
     "geom:latitude":33.428628,
     "geom:longitude":-86.74767,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"1fae585e32ce6be2ad9f26ec96763276",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152285241,
-    "wof:lastmodified":1466316950,
+    "wof:lastmodified":1491897869,
     "wof:name":"Lewis Wayne Dr",
     "wof:parent_id":85856691,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 102454393,
   "type": "Feature",
   "properties": {
+    "addr:full":"3260 Eastern Valley Rd Leeds AL 35094",
+    "addr:housenumber":"3260",
+    "addr:postcode":"35094",
+    "addr:street":"Eastern Valley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.619888,33.48061,-86.619888,33.48061",
     "geom:latitude":33.48061,
     "geom:longitude":-86.619888,
@@ -29,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85914465,
-        85633793,
         85688675,
-        102085481
+        102191575,
+        85633793,
+        85914465,
+        102085481,
+        85804755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,19 @@
     "wof:geomhash":"6199622cce3f91f126e32630b170558a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
+            "neighbourhood_id":85804755,
             "region_id":85688675,
             "venue_id":102454393
         }
     ],
     "wof:id":102454393,
-    "wof:lastmodified":1466314791,
+    "wof:lastmodified":1491922692,
     "wof:name":"J Design Travel",
-    "wof:parent_id":-1,
+    "wof:parent_id":85804755,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

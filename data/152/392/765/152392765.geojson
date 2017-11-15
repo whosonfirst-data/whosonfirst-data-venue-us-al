@@ -2,9 +2,14 @@
   "id": 152392765,
   "type": "Feature",
   "properties": {
+    "addr:full":"3001 42nd Ave N Birmingham AL 35207",
+    "addr:housenumber":"3001",
+    "addr:postcode":"35207",
+    "addr:street":"42Nd Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.807633,33.567139,-86.807633,33.567139",
     "geom:latitude":33.567139,
     "geom:longitude":-86.807633,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"96196e6bfac451b4215abc43d34484cd",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152392765,
-    "wof:lastmodified":1466317702,
+    "wof:lastmodified":1491929440,
     "wof:name":"Barlows Nails",
     "wof:parent_id":85837367,
     "wof:placetype":"venue",

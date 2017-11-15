@@ -2,9 +2,14 @@
   "id": 102490773,
   "type": "Feature",
   "properties": {
+    "addr:full":"2605 Old Woodstock Trl Birmingham AL 35216",
+    "addr:housenumber":"2605",
+    "addr:postcode":"35216",
+    "addr:street":"Old Woodstock Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.80245,33.383929,-86.80245,33.383929",
     "geom:latitude":33.383929,
     "geom:longitude":-86.80245,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"ae7f39a36159c743331b89ea69699ef5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":102490773,
-    "wof:lastmodified":1466316135,
+    "wof:lastmodified":1491927117,
     "wof:name":"Heaton Construction Inc",
     "wof:parent_id":85858879,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 102523271,
   "type": "Feature",
   "properties": {
+    "addr:full":"800 45th Pl N Birmingham AL 35212",
+    "addr:housenumber":"800",
+    "addr:postcode":"35212",
+    "addr:street":"45Th Pl N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.769437,33.535781,-86.769437,33.535781",
     "geom:latitude":33.535781,
     "geom:longitude":-86.769437,
@@ -29,10 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
-        85858829
+        85815977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,18 +48,19 @@
     "wof:geomhash":"b6c90622076593d6226424a3da94aa00",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
-            "neighbourhood_id":85858829,
+            "neighbourhood_id":85815977,
             "region_id":85688675,
             "venue_id":102523271
         }
     ],
     "wof:id":102523271,
-    "wof:lastmodified":1466317111,
+    "wof:lastmodified":1491930580,
     "wof:name":"Gholston Tree Svc",
-    "wof:parent_id":85858829,
+    "wof:parent_id":85815977,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

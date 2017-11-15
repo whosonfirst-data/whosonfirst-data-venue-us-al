@@ -2,9 +2,14 @@
   "id": 152775493,
   "type": "Feature",
   "properties": {
+    "addr:full":"4561 Pine Tree Cir Birmingham AL 35243",
+    "addr:housenumber":"4561",
+    "addr:postcode":"35243",
+    "addr:street":"Pine Tree Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.733488,33.431854,-86.733488,33.431854",
     "geom:latitude":33.431854,
     "geom:longitude":-86.733488,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"aaa3a4c4547d7d8218d2f233b90bc88a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152775493,
-    "wof:lastmodified":1466319710,
+    "wof:lastmodified":1491897901,
     "wof:name":"American Asian Cltral Fndation",
     "wof:parent_id":85856691,
     "wof:placetype":"venue",

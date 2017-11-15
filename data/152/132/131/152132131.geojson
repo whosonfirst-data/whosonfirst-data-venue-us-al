@@ -2,9 +2,14 @@
   "id": 152132131,
   "type": "Feature",
   "properties": {
+    "addr:full":"261 22nd St SW Birmingham AL 35211",
+    "addr:housenumber":"261",
+    "addr:postcode":"35211",
+    "addr:street":"22Nd St Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.872323,33.483967,-86.872323,33.483967",
     "geom:latitude":33.483967,
     "geom:longitude":-86.872323,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"fc69c9f91d3eb5b77f1b1f907580f4ca",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152132131,
-    "wof:lastmodified":1466315142,
+    "wof:lastmodified":1491887282,
     "wof:name":"Total Cleaning",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

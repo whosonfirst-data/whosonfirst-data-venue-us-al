@@ -2,9 +2,14 @@
   "id": 152123853,
   "type": "Feature",
   "properties": {
+    "addr:full":"3780 Lorna Rd Birmingham AL 35216",
+    "addr:housenumber":"3780",
+    "addr:postcode":"35216",
+    "addr:street":"Lorna Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.802421,33.377904,-86.802421,33.377904",
     "geom:latitude":33.377904,
     "geom:longitude":-86.802421,
@@ -33,6 +38,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
@@ -46,6 +52,7 @@
     "wof:geomhash":"85da633c93124ab711b81bdaf7832ef1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":152123853,
-    "wof:lastmodified":1466314702,
+    "wof:lastmodified":1491927126,
     "wof:name":"Blockbuster Video",
     "wof:parent_id":85858879,
     "wof:placetype":"venue",

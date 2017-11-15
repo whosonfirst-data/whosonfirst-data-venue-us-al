@@ -2,9 +2,14 @@
   "id": 152657495,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 22nd St S Birmingham AL 35210",
+    "addr:housenumber":"100",
+    "addr:postcode":"35210",
+    "addr:street":"22Nd St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.704313,33.539352,-86.704313,33.539352",
     "geom:latitude":33.539352,
     "geom:longitude":-86.704313,
@@ -29,8 +34,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
-        85914465,
+        85914835,
         102085481,
         85819529
     ],
@@ -42,16 +48,17 @@
     "wof:geomhash":"f48baabd1e2f22543331377cdc08d4f3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
-            "locality_id":85914465,
+            "locality_id":85914835,
             "neighbourhood_id":85819529,
             "region_id":85688675,
             "venue_id":152657495
         }
     ],
     "wof:id":152657495,
-    "wof:lastmodified":1466319138,
+    "wof:lastmodified":1491905252,
     "wof:name":"Professional Delivery Inc",
     "wof:parent_id":85819529,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 152267123,
   "type": "Feature",
   "properties": {
+    "addr:full":"2008 University Blvd Birmingham AL 35233",
+    "addr:housenumber":"2008",
+    "addr:postcode":"35233",
+    "addr:street":"University Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.797822,33.505405,-86.797822,33.505405",
     "geom:latitude":33.505405,
     "geom:longitude":-86.797822,
@@ -29,11 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
-        85819533,
-        85876277
+        85876277,
+        85819533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,26 +49,28 @@
     "wof:geomhash":"b628328c27c22dcc1397a3b1b0a8e0f7",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102085481,
-            "locality_id":85914465,
-            "neighbourhood_id":85819533,
-            "region_id":85688675,
-            "venue_id":152267123
-        },
-        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
             "neighbourhood_id":85876277,
             "region_id":85688675,
             "venue_id":152267123
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85819533,
+            "region_id":85688675,
+            "venue_id":152267123
         }
     ],
     "wof:id":152267123,
-    "wof:lastmodified":1466316860,
+    "wof:lastmodified":1491914565,
     "wof:name":"Columbia Outpatient Care Cente",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

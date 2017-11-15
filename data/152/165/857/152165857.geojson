@@ -2,9 +2,14 @@
   "id": 152165857,
   "type": "Feature",
   "properties": {
+    "addr:full":"1512 Stoneview Ln Birmingham AL 35235",
+    "addr:housenumber":"1512",
+    "addr:postcode":"35235",
+    "addr:street":"Stoneview Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.654367,33.613914,-86.654367,33.613914",
     "geom:latitude":33.613914,
     "geom:longitude":-86.654367,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85913473,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"caf883fb71d04d71062c1d1ac0dfd938",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85913473,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152165857,
-    "wof:lastmodified":1466315440,
+    "wof:lastmodified":1491928878,
     "wof:name":"Ted L Williams MD",
     "wof:parent_id":85852855,
     "wof:placetype":"venue",

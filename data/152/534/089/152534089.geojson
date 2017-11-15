@@ -2,9 +2,14 @@
   "id": 152534089,
   "type": "Feature",
   "properties": {
+    "addr:full":"1686 Montgomery Hwy Birmingham AL 35216",
+    "addr:housenumber":"1686",
+    "addr:postcode":"35216",
+    "addr:street":"Montgomery Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.806579,33.389321,-86.806579,33.389321",
     "geom:latitude":33.389321,
     "geom:longitude":-86.806579,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"6f01d189f8f3e5cc1091fa32398ca262",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152534089,
-    "wof:lastmodified":1466318416,
+    "wof:lastmodified":1491902296,
     "wof:name":"Marks-Ftzgerald Furn Str 0190",
     "wof:parent_id":85842589,
     "wof:placetype":"venue",

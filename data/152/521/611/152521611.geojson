@@ -2,9 +2,14 @@
   "id": 152521611,
   "type": "Feature",
   "properties": {
+    "addr:full":"2152 46th Pl Birmingham AL 35208",
+    "addr:housenumber":"2152",
+    "addr:postcode":"35208",
+    "addr:street":"46Th Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.87919,33.493633,-86.87919,33.493633",
     "geom:latitude":33.493633,
     "geom:longitude":-86.87919,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"3c4e1d98fb697d2f0d9f5ab194919f0e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152521611,
-    "wof:lastmodified":1466318418,
+    "wof:lastmodified":1491887287,
     "wof:name":"Dr Phipps Lonnette",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

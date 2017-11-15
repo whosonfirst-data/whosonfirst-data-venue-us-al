@@ -2,9 +2,14 @@
   "id": 102509431,
   "type": "Feature",
   "properties": {
+    "addr:full":"1032 18th St S Birmingham AL 35205",
+    "addr:housenumber":"1032",
+    "addr:postcode":"35205",
+    "addr:street":"18Th St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.799953,33.500347,-86.799953,33.500347",
     "geom:latitude":33.500347,
     "geom:longitude":-86.799953,
@@ -29,9 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
+        85876277,
         85819533
     ],
     "wof:breaches":[],
@@ -42,6 +49,16 @@
     "wof:geomhash":"2f56ec8a4ff3f0dc05ccbf0596f93daf",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85876277,
+            "region_id":85688675,
+            "venue_id":102509431
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,9 +68,9 @@
         }
     ],
     "wof:id":102509431,
-    "wof:lastmodified":1466316719,
+    "wof:lastmodified":1491914542,
     "wof:name":"Tennessee 1032 Building Co",
-    "wof:parent_id":85819533,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

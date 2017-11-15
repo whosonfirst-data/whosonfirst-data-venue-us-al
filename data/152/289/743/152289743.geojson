@@ -2,9 +2,14 @@
   "id": 152289743,
   "type": "Feature",
   "properties": {
+    "addr:full":"312 Sloss Cir Trussville AL 35173",
+    "addr:housenumber":"312",
+    "addr:postcode":"35173",
+    "addr:street":"Sloss Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.629156,33.614905,-86.629156,33.614905",
     "geom:latitude":33.614905,
     "geom:longitude":-86.629156,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85913473,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"7b0df52d61ff8f9078fb157299511870",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85913473,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152289743,
-    "wof:lastmodified":1466317186,
+    "wof:lastmodified":1491928870,
     "wof:name":"Timothy Lovett Rev",
     "wof:parent_id":85852855,
     "wof:placetype":"venue",

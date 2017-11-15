@@ -2,9 +2,14 @@
   "id": 152395593,
   "type": "Feature",
   "properties": {
+    "addr:full":"3510 Grandview Pkwy Birmingham AL 35243",
+    "addr:housenumber":"3510",
+    "addr:postcode":"35243",
+    "addr:street":"Grandview Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.718825,33.436667,-86.718825,33.436667",
     "geom:latitude":33.436667,
     "geom:longitude":-86.718825,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"1bdb0578eb7f1fad2a851808b38d002a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152395593,
-    "wof:lastmodified":1466317848,
+    "wof:lastmodified":1491897876,
     "wof:name":"Drury Inns",
     "wof:parent_id":85856691,
     "wof:placetype":"venue",

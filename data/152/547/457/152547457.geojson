@@ -2,9 +2,14 @@
   "id": 152547457,
   "type": "Feature",
   "properties": {
+    "addr:full":"215 21st St S Birmingham AL 35210",
+    "addr:housenumber":"215",
+    "addr:postcode":"35210",
+    "addr:street":"21St St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.70486,33.538022,-86.70486,33.538022",
     "geom:latitude":33.538022,
     "geom:longitude":-86.70486,
@@ -29,8 +34,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
-        85914465,
+        85914835,
         102085481,
         85819529
     ],
@@ -42,16 +48,17 @@
     "wof:geomhash":"4236a4671dcbf1fd736f1fc418e8efb7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
-            "locality_id":85914465,
+            "locality_id":85914835,
             "neighbourhood_id":85819529,
             "region_id":85688675,
             "venue_id":152547457
         }
     ],
     "wof:id":152547457,
-    "wof:lastmodified":1466318588,
+    "wof:lastmodified":1491905253,
     "wof:name":"Carmichael & Duncan",
     "wof:parent_id":85819529,
     "wof:placetype":"venue",

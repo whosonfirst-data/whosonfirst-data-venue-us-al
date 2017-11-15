@@ -2,9 +2,14 @@
   "id": 102496873,
   "type": "Feature",
   "properties": {
+    "addr:full":"2316 2nd Ave N Birmingham AL 35210",
+    "addr:housenumber":"2316",
+    "addr:postcode":"35210",
+    "addr:street":"2Nd Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.703832,33.542681,-86.703832,33.542681",
     "geom:latitude":33.542681,
     "geom:longitude":-86.703832,
@@ -29,8 +34,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
-        85914465,
+        85914835,
         102085481,
         85819529
     ],
@@ -42,16 +48,17 @@
     "wof:geomhash":"2148cce7bf937f926262f90a42dec934",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
-            "locality_id":85914465,
+            "locality_id":85914835,
             "neighbourhood_id":85819529,
             "region_id":85688675,
             "venue_id":102496873
         }
     ],
     "wof:id":102496873,
-    "wof:lastmodified":1466316306,
+    "wof:lastmodified":1491905248,
     "wof:name":"Lewis Roofing",
     "wof:parent_id":85819529,
     "wof:placetype":"venue",

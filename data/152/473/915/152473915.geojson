@@ -2,14 +2,20 @@
   "id": 152473915,
   "type": "Feature",
   "properties": {
+    "addr:full":"3800 Colony Park Dr Birmingham AL 35243",
+    "addr:housenumber":"3800",
+    "addr:postcode":"35243",
+    "addr:street":"Colony Park Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.729967,33.428758,-86.729967,33.428758",
     "geom:latitude":33.428758,
     "geom:longitude":-86.729967,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3800 Colony Park Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -30,19 +36,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
         85856691
     ],
+    "wof:brand_id":1125156439,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2GKMGsVmHzvuzHxPJsP5SL_33.428758_-86.729967@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"3120329da4e93c4571156505f595157a",
+    "wof:geomhash":"93760d7164d962f03fb7b4cdc5c15954",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":152473915,
-    "wof:lastmodified":1466318095,
+    "wof:lastmodified":1510696867,
     "wof:name":"Norfolk Southern Corporation",
     "wof:parent_id":85856691,
     "wof:placetype":"venue",

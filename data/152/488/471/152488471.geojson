@@ -2,9 +2,14 @@
   "id": 152488471,
   "type": "Feature",
   "properties": {
+    "addr:full":"2501 Princeton Ave SW Birmingham AL 35211",
+    "addr:housenumber":"2501",
+    "addr:postcode":"35211",
+    "addr:street":"Princeton Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.875391,33.481299,-86.875391,33.481299",
     "geom:latitude":33.481299,
     "geom:longitude":-86.875391,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -44,6 +50,7 @@
     "wof:geomhash":"8f68530f28e14bf0b53bbe55bcd44065",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":152488471,
-    "wof:lastmodified":1466318329,
+    "wof:lastmodified":1491887295,
     "wof:name":"205 Live Motorsports Inc",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 152627235,
   "type": "Feature",
   "properties": {
+    "addr:full":"2525 2nd Ave S Birmingham AL 35233",
+    "addr:housenumber":"2525",
+    "addr:postcode":"35233",
+    "addr:street":"2Nd Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.795105,33.514789,-86.795105,33.514789",
     "geom:latitude":33.514789,
     "geom:longitude":-86.795105,
@@ -38,6 +43,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -51,6 +57,7 @@
     "wof:geomhash":"082c8d5aaf2a450f8bb4e9a50f731f67",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":152627235,
-    "wof:lastmodified":1466318971,
+    "wof:lastmodified":1491921734,
     "wof:name":"American Marble Co Inc",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

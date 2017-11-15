@@ -2,9 +2,14 @@
   "id": 102449983,
   "type": "Feature",
   "properties": {
+    "addr:full":"602 46th St S Birmingham AL 35222",
+    "addr:housenumber":"602",
+    "addr:postcode":"35222",
+    "addr:street":"46Th St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.762984,33.524418,-86.762984,33.524418",
     "geom:latitude":33.524418,
     "geom:longitude":-86.762984,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"781811d025e8bc27c6f6fe2d7fb34c14",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":102449983,
-    "wof:lastmodified":1466314698,
+    "wof:lastmodified":1491930582,
     "wof:name":"Lazy Lightning Artifacts",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",

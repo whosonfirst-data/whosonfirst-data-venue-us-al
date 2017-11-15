@@ -2,9 +2,14 @@
   "id": 152414903,
   "type": "Feature",
   "properties": {
+    "addr:full":"2223 1st Ave N Birmingham AL 35203",
+    "addr:housenumber":"2223",
+    "addr:postcode":"35203",
+    "addr:street":"1St Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.801748,33.516198,-86.801748,33.516198",
     "geom:latitude":33.516198,
     "geom:longitude":-86.801748,
@@ -35,6 +40,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -48,6 +54,7 @@
     "wof:geomhash":"1ece1aa4515038ddd173a7285da87b90",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":152414903,
-    "wof:lastmodified":1466317939,
+    "wof:lastmodified":1491921702,
     "wof:name":"Lindsey Office Furnishings Inc",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

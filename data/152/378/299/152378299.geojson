@@ -2,9 +2,14 @@
   "id": 152378299,
   "type": "Feature",
   "properties": {
+    "addr:full":"4121 Vanderbilt Rd Birmingham AL 35217",
+    "addr:housenumber":"4121",
+    "addr:postcode":"35217",
+    "addr:street":"Vanderbilt Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.783464,33.563308,-86.783464,33.563308",
     "geom:latitude":33.563308,
     "geom:longitude":-86.783464,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"5007c224948cbd656c1457381a4a5aa5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152378299,
-    "wof:lastmodified":1466317704,
+    "wof:lastmodified":1491930568,
     "wof:name":"House of Prayer Ministries",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",

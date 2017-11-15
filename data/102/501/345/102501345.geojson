@@ -2,9 +2,14 @@
   "id": 102501345,
   "type": "Feature",
   "properties": {
+    "addr:full":"312 20th St N Birmingham AL 35203",
+    "addr:housenumber":"312",
+    "addr:postcode":"35203",
+    "addr:street":"20Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.807193,33.516609,-86.807193,33.516609",
     "geom:latitude":33.516609,
     "geom:longitude":-86.807193,
@@ -29,10 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
-        85820315
+        85876269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,18 +48,19 @@
     "wof:geomhash":"efa56be661dcafed5d9799370aa86c47",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
-            "neighbourhood_id":85820315,
+            "neighbourhood_id":85876269,
             "region_id":85688675,
             "venue_id":102501345
         }
     ],
     "wof:id":102501345,
-    "wof:lastmodified":1466316585,
+    "wof:lastmodified":1491921734,
     "wof:name":"Vault",
-    "wof:parent_id":85820315,
+    "wof:parent_id":85876269,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

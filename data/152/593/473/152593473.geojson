@@ -2,9 +2,14 @@
   "id": 152593473,
   "type": "Feature",
   "properties": {
+    "addr:full":"910 23rd St S Birmingham AL 35205",
+    "addr:housenumber":"910",
+    "addr:postcode":"35205",
+    "addr:street":"23Rd St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.793756,33.504907,-86.793756,33.504907",
     "geom:latitude":33.504907,
     "geom:longitude":-86.793756,
@@ -29,11 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
-        85819533,
-        85876277
+        85876277,
+        85819533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,26 +49,28 @@
     "wof:geomhash":"4290079d386569d98b2b815076246905",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102085481,
-            "locality_id":85914465,
-            "neighbourhood_id":85819533,
-            "region_id":85688675,
-            "venue_id":152593473
-        },
-        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
             "neighbourhood_id":85876277,
             "region_id":85688675,
             "venue_id":152593473
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85819533,
+            "region_id":85688675,
+            "venue_id":152593473
         }
     ],
     "wof:id":152593473,
-    "wof:lastmodified":1466319011,
+    "wof:lastmodified":1491914565,
     "wof:name":"Vogue Cleaners Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

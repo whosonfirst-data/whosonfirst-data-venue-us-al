@@ -2,9 +2,14 @@
   "id": 152718637,
   "type": "Feature",
   "properties": {
+    "addr:full":"2921 2nd Ave S Birmingham AL 35233",
+    "addr:housenumber":"2921",
+    "addr:postcode":"35233",
+    "addr:street":"2Nd Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.789749,33.517233,-86.789749,33.517233",
     "geom:latitude":33.517233,
     "geom:longitude":-86.789749,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"0e2ea4ff8864aa4fbafbe1fdcd5ad737",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152718637,
-    "wof:lastmodified":1466319432,
+    "wof:lastmodified":1491921714,
     "wof:name":"Ralph Paget Silversmith LLC",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

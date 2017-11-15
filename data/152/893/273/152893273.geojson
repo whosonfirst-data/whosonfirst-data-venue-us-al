@@ -2,9 +2,14 @@
   "id": 152893273,
   "type": "Feature",
   "properties": {
+    "addr:full":"2710 26th St N Birmingham AL 35207",
+    "addr:housenumber":"2710",
+    "addr:postcode":"35207",
+    "addr:street":"26Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.816975,33.549088,-86.816975,33.549088",
     "geom:latitude":33.549088,
     "geom:longitude":-86.816975,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -43,6 +49,7 @@
     "wof:geomhash":"49f8b62b1b9095fb298acc6f1c92996a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":152893273,
-    "wof:lastmodified":1466320286,
+    "wof:lastmodified":1491929437,
     "wof:name":"Becker Iron & Metal Co",
     "wof:parent_id":85837367,
     "wof:placetype":"venue",

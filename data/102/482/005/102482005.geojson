@@ -2,9 +2,14 @@
   "id": 102482005,
   "type": "Feature",
   "properties": {
+    "addr:full":"2736 Cahaba Rd Birmingham AL 35223",
+    "addr:housenumber":"2736",
+    "addr:postcode":"35223",
+    "addr:street":"Cahaba Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.773664,33.483705,-86.773664,33.483705",
     "geom:latitude":33.483705,
     "geom:longitude":-86.773664,
@@ -29,10 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
-        85914465,
+        85914807,
         102085481,
-        85876275
+        85854765
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,18 +48,19 @@
     "wof:geomhash":"50106350b7a26b9618c9aa34b815c2c6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
-            "locality_id":85914465,
-            "neighbourhood_id":85876275,
+            "locality_id":85914807,
+            "neighbourhood_id":85854765,
             "region_id":85688675,
             "venue_id":102482005
         }
     ],
     "wof:id":102482005,
-    "wof:lastmodified":1466315480,
+    "wof:lastmodified":1491932283,
     "wof:name":"Kay Cleaners",
-    "wof:parent_id":85876275,
+    "wof:parent_id":85854765,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

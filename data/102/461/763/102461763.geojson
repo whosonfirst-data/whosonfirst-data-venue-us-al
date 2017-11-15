@@ -2,9 +2,14 @@
   "id": 102461763,
   "type": "Feature",
   "properties": {
+    "addr:full":"3120 4th Ave S Birmingham AL 35233",
+    "addr:housenumber":"3120",
+    "addr:postcode":"35233",
+    "addr:street":"4Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.78588,33.51684,-86.78588,33.51684",
     "geom:latitude":33.51684,
     "geom:longitude":-86.78588,
@@ -26,11 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
-        85876269,
-        85876275
+        85876269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,26 +45,19 @@
     "wof:geomhash":"5ff9bade6293f8ba012922a3a606f448",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
             "neighbourhood_id":85876269,
             "region_id":85688675,
             "venue_id":102461763
-        },
-        {
-            "country_id":85633793,
-            "county_id":102085481,
-            "locality_id":85914465,
-            "neighbourhood_id":85876275,
-            "region_id":85688675,
-            "venue_id":102461763
         }
     ],
     "wof:id":102461763,
-    "wof:lastmodified":1466315080,
+    "wof:lastmodified":1491921699,
     "wof:name":"Southside Animal Hospital",
-    "wof:parent_id":-1,
+    "wof:parent_id":85876269,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

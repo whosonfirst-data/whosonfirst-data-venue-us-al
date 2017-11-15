@@ -2,9 +2,14 @@
   "id": 152408303,
   "type": "Feature",
   "properties": {
+    "addr:full":"4825 Avenue W Birmingham AL 35208",
+    "addr:housenumber":"4825",
+    "addr:postcode":"35208",
+    "addr:street":"Avenue W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.875081,33.494481,-86.875081,33.494481",
     "geom:latitude":33.494481,
     "geom:longitude":-86.875081,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"1d5c3ece901024d8b4b193243a2a7663",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152408303,
-    "wof:lastmodified":1466317888,
+    "wof:lastmodified":1491887283,
     "wof:name":"Birmingham Fire-Drills & Trng",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

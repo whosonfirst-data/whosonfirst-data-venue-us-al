@@ -2,9 +2,14 @@
   "id": 102443443,
   "type": "Feature",
   "properties": {
+    "addr:full":"2630 4th Ave S Birmingham AL 35233",
+    "addr:housenumber":"2630",
+    "addr:postcode":"35233",
+    "addr:street":"4Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.792781,33.513534,-86.792781,33.513534",
     "geom:latitude":33.513534,
     "geom:longitude":-86.792781,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -43,6 +49,7 @@
     "wof:geomhash":"0a0dac1f7d5267af3460936fefa537f3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":102443443,
-    "wof:lastmodified":1466314400,
+    "wof:lastmodified":1491921758,
     "wof:name":"M & S Enterprises",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

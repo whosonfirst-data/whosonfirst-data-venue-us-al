@@ -2,9 +2,14 @@
   "id": 152132411,
   "type": "Feature",
   "properties": {
+    "addr:full":"2839 Cahaba Rd Birmingham AL 35223",
+    "addr:housenumber":"2839",
+    "addr:postcode":"35223",
+    "addr:street":"Cahaba Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.773393,33.482993,-86.773393,33.482993",
     "geom:latitude":33.482993,
     "geom:longitude":-86.773393,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914807,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"092caa1f49263aa8aca89d06750cdcd8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914807,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152132411,
-    "wof:lastmodified":1466315173,
+    "wof:lastmodified":1491932286,
     "wof:name":"Trocadero Inc",
     "wof:parent_id":85854765,
     "wof:placetype":"venue",

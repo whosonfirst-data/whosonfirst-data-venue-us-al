@@ -2,9 +2,14 @@
   "id": 152382605,
   "type": "Feature",
   "properties": {
+    "addr:full":"1779 Jefferson Ave SW Birmingham AL 35211",
+    "addr:housenumber":"1779",
+    "addr:postcode":"35211",
+    "addr:street":"Jefferson Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.864593,33.478973,-86.864593,33.478973",
     "geom:latitude":33.478973,
     "geom:longitude":-86.864593,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"05e25eb602ac98681eb6492064982b24",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152382605,
-    "wof:lastmodified":1466317756,
+    "wof:lastmodified":1491887277,
     "wof:name":"Jeffries Memorial Christian",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

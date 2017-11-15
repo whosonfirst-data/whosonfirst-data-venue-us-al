@@ -2,9 +2,14 @@
   "id": 102470723,
   "type": "Feature",
   "properties": {
+    "addr:full":"401 19th St Birmingham AL 35218",
+    "addr:housenumber":"401",
+    "addr:postcode":"35218",
+    "addr:street":"19Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.897453,33.513421,-86.897453,33.513421",
     "geom:latitude":33.513421,
     "geom:longitude":-86.897453,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"807a59b20669a5698176977a551c8f1f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":102470723,
-    "wof:lastmodified":1466315318,
+    "wof:lastmodified":1491887263,
     "wof:name":"Classic Touch Models Of Today",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

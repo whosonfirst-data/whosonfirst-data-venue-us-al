@@ -2,9 +2,14 @@
   "id": 152682013,
   "type": "Feature",
   "properties": {
+    "addr:full":"800 28th St N Birmingham AL 35203",
+    "addr:housenumber":"800",
+    "addr:postcode":"35203",
+    "addr:street":"28Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.79997,33.527457,-86.79997,33.527457",
     "geom:latitude":33.527457,
     "geom:longitude":-86.79997,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -44,6 +50,7 @@
     "wof:geomhash":"7ea05ab8e63a2b671550d009ba072b58",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":152682013,
-    "wof:lastmodified":1466319228,
+    "wof:lastmodified":1491921739,
     "wof:name":"Hardie-Tynes Co Inc",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

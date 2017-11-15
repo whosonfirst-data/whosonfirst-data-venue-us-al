@@ -2,9 +2,14 @@
   "id": 102468173,
   "type": "Feature",
   "properties": {
+    "addr:full":"3719 Vanderbilt Rd Birmingham AL 35217",
+    "addr:housenumber":"3719",
+    "addr:postcode":"35217",
+    "addr:street":"Vanderbilt Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.78347,33.558866,-86.78347,33.558866",
     "geom:latitude":33.558866,
     "geom:longitude":-86.78347,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -44,6 +50,7 @@
     "wof:geomhash":"688c22b951e68ac69f07b9b9fe9ff181",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":102468173,
-    "wof:lastmodified":1466315129,
+    "wof:lastmodified":1491930570,
     "wof:name":"Jackson Hewitt Tax Svc",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",

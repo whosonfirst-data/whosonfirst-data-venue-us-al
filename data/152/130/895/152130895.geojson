@@ -2,9 +2,14 @@
   "id": 152130895,
   "type": "Feature",
   "properties": {
+    "addr:full":"870 Minor Pkwy Birmingham AL 35224",
+    "addr:housenumber":"870",
+    "addr:postcode":"35224",
+    "addr:street":"Minor Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.915824,33.522117,-86.915824,33.522117",
     "geom:latitude":33.522117,
     "geom:longitude":-86.915824,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -44,6 +50,7 @@
     "wof:geomhash":"1fe032bee7e22ee41fbbaae38d65cb58",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":152130895,
-    "wof:lastmodified":1466315058,
+    "wof:lastmodified":1491887261,
     "wof:name":"Cochrane Roofing & Metal Co",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

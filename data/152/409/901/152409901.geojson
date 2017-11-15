@@ -2,9 +2,14 @@
   "id": 152409901,
   "type": "Feature",
   "properties": {
+    "addr:full":"2318 1st Ave N Birmingham AL 35204",
+    "addr:housenumber":"2318",
+    "addr:postcode":"35204",
+    "addr:street":"1St Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.800167,33.517069,-86.800167,33.517069",
     "geom:latitude":33.517069,
     "geom:longitude":-86.800167,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"06c6a257a08596d5e5ce85316f7bb657",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152409901,
-    "wof:lastmodified":1466317922,
+    "wof:lastmodified":1491921717,
     "wof:name":"Naked Art",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

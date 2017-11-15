@@ -2,9 +2,14 @@
   "id": 152856609,
   "type": "Feature",
   "properties": {
+    "addr:full":"2900 8th Ave N Birmingham AL 35203",
+    "addr:housenumber":"2900",
+    "addr:postcode":"35203",
+    "addr:street":"8Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.797277,33.527831,-86.797277,33.527831",
     "geom:latitude":33.527831,
     "geom:longitude":-86.797277,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -43,6 +49,7 @@
     "wof:geomhash":"7b8a2ab02015db54a0766bb02226f820",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":152856609,
-    "wof:lastmodified":1466320345,
+    "wof:lastmodified":1491921728,
     "wof:name":"Engine Parts Warehouse Alabama",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

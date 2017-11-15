@@ -2,9 +2,14 @@
   "id": 152445561,
   "type": "Feature",
   "properties": {
+    "addr:full":"2901 Dogwood Ter SW Leeds AL 35094",
+    "addr:housenumber":"2901",
+    "addr:postcode":"35094",
+    "addr:street":"Dogwood Ter Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.604312,33.487396,-86.604312,33.487396",
     "geom:latitude":33.487396,
     "geom:longitude":-86.604312,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -43,6 +49,7 @@
     "wof:geomhash":"accb875e0a3af4e9a6eda1b7779eb3ea",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":152445561,
-    "wof:lastmodified":1466318063,
+    "wof:lastmodified":1491922695,
     "wof:name":"Benjamin Franklin Plumbing",
     "wof:parent_id":85804755,
     "wof:placetype":"venue",

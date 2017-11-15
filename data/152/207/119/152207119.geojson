@@ -2,9 +2,14 @@
   "id": 152207119,
   "type": "Feature",
   "properties": {
+    "addr:full":"4700 Cahaba River Rd Birmingham AL 35243",
+    "addr:housenumber":"4700",
+    "addr:postcode":"35243",
+    "addr:street":"Cahaba River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.735824,33.431995,-86.735824,33.431995",
     "geom:latitude":33.431995,
     "geom:longitude":-86.735824,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"59ef286f727c56c200222ee53e3e062b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152207119,
-    "wof:lastmodified":1466315999,
+    "wof:lastmodified":1491897888,
     "wof:name":"Zadens Grille",
     "wof:parent_id":85856691,
     "wof:placetype":"venue",

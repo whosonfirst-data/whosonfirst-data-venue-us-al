@@ -2,9 +2,14 @@
   "id": 152365681,
   "type": "Feature",
   "properties": {
+    "addr:full":"4600 9th Ave N Birmingham AL 35212",
+    "addr:housenumber":"4600",
+    "addr:postcode":"35212",
+    "addr:street":"9Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.767555,33.53974,-86.767555,33.53974",
     "geom:latitude":33.53974,
     "geom:longitude":-86.767555,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85914465,
-        85633793,
         85688675,
-        102085481
+        102191575,
+        85633793,
+        85914465,
+        102085481,
+        85815977,
+        85858829
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +49,28 @@
     "wof:geomhash":"c1efa40a546a433388135add0fea5394",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
+            "neighbourhood_id":85815977,
+            "region_id":85688675,
+            "venue_id":152365681
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85858829,
             "region_id":85688675,
             "venue_id":152365681
         }
     ],
     "wof:id":152365681,
-    "wof:lastmodified":1466317786,
+    "wof:lastmodified":1491930592,
     "wof:name":"Light House Church Ministries",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

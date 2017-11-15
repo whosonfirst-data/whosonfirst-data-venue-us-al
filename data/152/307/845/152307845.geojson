@@ -2,9 +2,14 @@
   "id": 152307845,
   "type": "Feature",
   "properties": {
+    "addr:full":"3400 Ball St Birmingham AL 35234",
+    "addr:housenumber":"3400",
+    "addr:postcode":"35234",
+    "addr:street":"Ball St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.783904,33.55665,-86.783904,33.55665",
     "geom:latitude":33.55665,
     "geom:longitude":-86.783904,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -44,6 +50,7 @@
     "wof:geomhash":"f4bdce701099044bf9771294242d545e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":152307845,
-    "wof:lastmodified":1466317200,
+    "wof:lastmodified":1491930587,
     "wof:name":"Gypsum Management and Supply",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",

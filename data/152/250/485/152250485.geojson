@@ -2,14 +2,20 @@
   "id": 152250485,
   "type": "Feature",
   "properties": {
+    "addr:full":"1201 11th Ave S Birmingham AL 35205",
+    "addr:housenumber":"1201",
+    "addr:postcode":"35205",
+    "addr:street":"11Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.806018,33.496001,-86.806018,33.496001",
     "geom:latitude":33.496001,
     "geom:longitude":-86.806018,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1201 11th Ave S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -31,40 +37,44 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
-        85819533,
-        85813175
+        85813175,
+        85819533
     ],
+    "wof:brand_id":1125151597,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0b720YznmtChdE7siwzceS_33.496001_-86.806018@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"66814d689c242dcbe23b8d0452eb1f95",
+    "wof:geomhash":"185d46d3d9561a8ed369f92afc27cfa0",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102085481,
-            "locality_id":85914465,
-            "neighbourhood_id":85819533,
-            "region_id":85688675,
-            "venue_id":152250485
-        },
-        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
             "neighbourhood_id":85813175,
             "region_id":85688675,
             "venue_id":152250485
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85819533,
+            "region_id":85688675,
+            "venue_id":152250485
         }
     ],
     "wof:id":152250485,
-    "wof:lastmodified":1466316547,
+    "wof:lastmodified":1510693869,
     "wof:name":"Healthsouth Sports Medicine",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

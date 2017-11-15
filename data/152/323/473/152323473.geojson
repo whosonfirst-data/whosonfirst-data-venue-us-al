@@ -2,9 +2,14 @@
   "id": 152323473,
   "type": "Feature",
   "properties": {
+    "addr:full":"3600 Ball St Birmingham AL 35234",
+    "addr:housenumber":"3600",
+    "addr:postcode":"35234",
+    "addr:street":"Ball St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.784775,33.554438,-86.784775,33.554438",
     "geom:latitude":33.554438,
     "geom:longitude":-86.784775,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -43,6 +49,7 @@
     "wof:geomhash":"df1cb7d6e09b0804b3b87153c3181ad4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":152323473,
-    "wof:lastmodified":1466317331,
+    "wof:lastmodified":1491930570,
     "wof:name":"Allied Systems Ltd LLP",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",

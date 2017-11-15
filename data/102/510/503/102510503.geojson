@@ -2,9 +2,14 @@
   "id": 102510503,
   "type": "Feature",
   "properties": {
+    "addr:full":"3041 Ensley 5 Points W Ave Birmingham AL 35208",
+    "addr:housenumber":"",
+    "addr:postcode":"3041;35208",
+    "addr:street":"Ensley 5 Points W Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.879009,33.498639,-86.879009,33.498639",
     "geom:latitude":33.498639,
     "geom:longitude":-86.879009,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"72ae629e5d7c4e1ca037de16d5a7411e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":102510503,
-    "wof:lastmodified":1466316668,
+    "wof:lastmodified":1491887285,
     "wof:name":"Richard E Morgan DMD PC",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

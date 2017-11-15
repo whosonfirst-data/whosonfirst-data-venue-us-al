@@ -2,9 +2,14 @@
   "id": 102458725,
   "type": "Feature",
   "properties": {
+    "addr:full":"1221 Alton Dr Birmingham AL 35210",
+    "addr:housenumber":"1221",
+    "addr:postcode":"35210",
+    "addr:street":"Alton Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.647961,33.584918,-86.647961,33.584918",
     "geom:latitude":33.584918,
     "geom:longitude":-86.647961,
@@ -30,10 +35,12 @@
     "sg:website":"www.ccskids.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85914835,
-        85633793,
         85688675,
-        102085481
+        102191575,
+        85633793,
+        85913473,
+        102085481,
+        85852855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,19 @@
     "wof:geomhash":"d1cfa7c3901f4a3efd06bbd4c7807d4d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
-            "locality_id":85914835,
+            "locality_id":85913473,
+            "neighbourhood_id":85852855,
             "region_id":85688675,
             "venue_id":102458725
         }
     ],
     "wof:id":102458725,
-    "wof:lastmodified":1466314992,
+    "wof:lastmodified":1491928874,
     "wof:name":"Alabama Clinical Schools",
-    "wof:parent_id":-1,
+    "wof:parent_id":85852855,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

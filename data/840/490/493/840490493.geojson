@@ -2,9 +2,14 @@
   "id": 840490493,
   "type": "Feature",
   "properties": {
+    "addr:full":"1600 7th Ave S Ste 500 Birmingham AL 35233",
+    "addr:housenumber":"1600",
+    "addr:postcode":"35233",
+    "addr:street":"7Th Ave S Ste 500",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.805138,33.503342,-86.805138,33.503342",
     "geom:latitude":33.503342,
     "geom:longitude":-86.805138,
@@ -38,8 +43,8 @@
         85633793,
         85914465,
         102085481,
-        85819533,
-        85813175
+        85813175,
+        85819533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,7 +59,7 @@
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
-            "neighbourhood_id":85819533,
+            "neighbourhood_id":85813175,
             "region_id":85688675,
             "venue_id":840490493
         },
@@ -63,15 +68,15 @@
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
-            "neighbourhood_id":85813175,
+            "neighbourhood_id":85819533,
             "region_id":85688675,
             "venue_id":840490493
         }
     ],
     "wof:id":840490493,
-    "wof:lastmodified":1466316134,
+    "wof:lastmodified":1491914531,
     "wof:name":"Vaughan Clinic",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

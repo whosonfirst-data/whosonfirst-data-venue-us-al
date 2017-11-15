@@ -2,9 +2,14 @@
   "id": 152778221,
   "type": "Feature",
   "properties": {
+    "addr:full":"3075 State Rte 150 Birmingham AL 35244",
+    "addr:housenumber":"3075",
+    "addr:postcode":"35244",
+    "addr:street":"State Rte 150",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.806433,33.375686,-86.806433,33.375686",
     "geom:latitude":33.375686,
     "geom:longitude":-86.806433,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
@@ -43,6 +49,7 @@
     "wof:geomhash":"97a6537f3710c54faf10a15bdd1d027c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":152778221,
-    "wof:lastmodified":1466319729,
+    "wof:lastmodified":1491927100,
     "wof:name":"Talent Tree",
     "wof:parent_id":85858879,
     "wof:placetype":"venue",

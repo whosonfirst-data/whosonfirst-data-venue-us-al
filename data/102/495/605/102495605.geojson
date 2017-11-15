@@ -2,9 +2,14 @@
   "id": 102495605,
   "type": "Feature",
   "properties": {
+    "addr:full":"2104 31st Ave N Birmingham AL 35207",
+    "addr:housenumber":"2104",
+    "addr:postcode":"35207",
+    "addr:street":"31St Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.824246,33.551107,-86.824246,33.551107",
     "geom:latitude":33.551107,
     "geom:longitude":-86.824246,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -44,6 +50,7 @@
     "wof:geomhash":"08d743b165e69d61cdb21979788c1823",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":102495605,
-    "wof:lastmodified":1466316261,
+    "wof:lastmodified":1491929450,
     "wof:name":"Christian Fellowship Church",
     "wof:parent_id":85837367,
     "wof:placetype":"venue",

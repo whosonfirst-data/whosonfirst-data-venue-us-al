@@ -2,9 +2,14 @@
   "id": 102492237,
   "type": "Feature",
   "properties": {
+    "addr:full":"973 Gadsden Hwy Birmingham AL 35235",
+    "addr:housenumber":"973",
+    "addr:postcode":"35235",
+    "addr:street":"Gadsden Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.661814,33.586165,-86.661814,33.586165",
     "geom:latitude":33.586165,
     "geom:longitude":-86.661814,
@@ -31,10 +36,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
-        85914465,
+        85913473,
         102085481,
-        85804001
+        85852855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +50,19 @@
     "wof:geomhash":"30fdc6c6fb20c333e4cea0f4311b9fb6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
-            "locality_id":85914465,
-            "neighbourhood_id":85804001,
+            "locality_id":85913473,
+            "neighbourhood_id":85852855,
             "region_id":85688675,
             "venue_id":102492237
         }
     ],
     "wof:id":102492237,
-    "wof:lastmodified":1466316059,
+    "wof:lastmodified":1491928872,
     "wof:name":"Henderson Illustration & Fine",
-    "wof:parent_id":85804001,
+    "wof:parent_id":85852855,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 102496195,
   "type": "Feature",
   "properties": {
+    "addr:full":"3724 5th Ct N Birmingham AL 35222",
+    "addr:housenumber":"3724",
+    "addr:postcode":"35222",
+    "addr:street":"5Th Ct N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.782431,33.530259,-86.782431,33.530259",
     "geom:latitude":33.530259,
     "geom:longitude":-86.782431,
@@ -29,10 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
-        85815977
+        85876269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,18 +48,19 @@
     "wof:geomhash":"c555b17003cbaa6c8ec31944571b1a18",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
-            "neighbourhood_id":85815977,
+            "neighbourhood_id":85876269,
             "region_id":85688675,
             "venue_id":102496195
         }
     ],
     "wof:id":102496195,
-    "wof:lastmodified":1466316309,
+    "wof:lastmodified":1491921743,
     "wof:name":"Banker Industrial Supply Co",
-    "wof:parent_id":85815977,
+    "wof:parent_id":85876269,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

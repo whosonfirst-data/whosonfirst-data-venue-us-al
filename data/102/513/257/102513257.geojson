@@ -2,9 +2,14 @@
   "id": 102513257,
   "type": "Feature",
   "properties": {
+    "addr:full":"4110 Messer Airport Hwy Birmingham AL 35222",
+    "addr:housenumber":"",
+    "addr:postcode":"4110;35222",
+    "addr:street":"Messer Airport Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.775794,33.5293,-86.775794,33.5293",
     "geom:latitude":33.5293,
     "geom:longitude":-86.775794,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -43,6 +49,7 @@
     "wof:geomhash":"ccc9e6ba728b04763d10e0f627c94759",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":102513257,
-    "wof:lastmodified":1466316980,
+    "wof:lastmodified":1491930590,
     "wof:name":"B&P Lounge",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",

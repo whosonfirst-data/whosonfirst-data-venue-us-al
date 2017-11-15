@@ -2,9 +2,14 @@
   "id": 152841965,
   "type": "Feature",
   "properties": {
+    "addr:full":"1800 Riverchase Dr Birmingham AL 35244",
+    "addr:housenumber":"1800",
+    "addr:postcode":"35244",
+    "addr:street":"Riverchase Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.810606,33.373686,-86.810606,33.373686",
     "geom:latitude":33.373686,
     "geom:longitude":-86.810606,
@@ -28,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85914475,
-        85633793,
         85688675,
-        102085481
+        102191575,
+        85633793,
+        85914475,
+        102085481,
+        85858879
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +48,19 @@
     "wof:geomhash":"a7c408946c688c7fe74041ceae0733e3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
+            "neighbourhood_id":85858879,
             "region_id":85688675,
             "venue_id":152841965
         }
     ],
     "wof:id":152841965,
-    "wof:lastmodified":1466320084,
+    "wof:lastmodified":1491927129,
     "wof:name":"Riverchase Inn",
-    "wof:parent_id":-1,
+    "wof:parent_id":85858879,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

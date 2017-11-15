@@ -2,9 +2,14 @@
   "id": 152204341,
   "type": "Feature",
   "properties": {
+    "addr:full":"2412 2nd Ave N Birmingham AL 35203",
+    "addr:housenumber":"2412",
+    "addr:postcode":"35203",
+    "addr:street":"2Nd Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.799625,33.518632,-86.799625,33.518632",
     "geom:latitude":33.518632,
     "geom:longitude":-86.799625,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"3b0809298f5b64445128e781c73e3ea1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152204341,
-    "wof:lastmodified":1466315983,
+    "wof:lastmodified":1491921716,
     "wof:name":"Heads Commercial Interiors",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

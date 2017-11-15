@@ -2,9 +2,14 @@
   "id": 102637381,
   "type": "Feature",
   "properties": {
+    "addr:full":"3109 28th Pl N Birmingham AL 35207",
+    "addr:housenumber":"3109",
+    "addr:postcode":"35207",
+    "addr:street":"28Th Pl N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.814391,33.554421,-86.814391,33.554421",
     "geom:latitude":33.554421,
     "geom:longitude":-86.814391,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"47cbeda471922c284edc37450f8106de",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":102637381,
-    "wof:lastmodified":1466317596,
+    "wof:lastmodified":1491929438,
     "wof:name":"M & M Garage",
     "wof:parent_id":85837367,
     "wof:placetype":"venue",

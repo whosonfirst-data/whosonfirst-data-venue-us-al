@@ -2,9 +2,14 @@
   "id": 152285881,
   "type": "Feature",
   "properties": {
+    "addr:full":"3595 Grandview Pkwy Birmingham AL 35243",
+    "addr:housenumber":"3595",
+    "addr:postcode":"35243",
+    "addr:street":"Grandview Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.718777,33.436038,-86.718777,33.436038",
     "geom:latitude":33.436038,
     "geom:longitude":-86.718777,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -45,6 +51,7 @@
     "wof:geomhash":"60138a6258e71e1da96df51c60a31cd9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":152285881,
-    "wof:lastmodified":1466317038,
+    "wof:lastmodified":1491897908,
     "wof:name":"Solutions Plus Inc",
     "wof:parent_id":85856691,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 152556557,
   "type": "Feature",
   "properties": {
+    "addr:full":"3700 Colonnade Pkwy Birmingham AL 35243",
+    "addr:housenumber":"3700",
+    "addr:postcode":"35243",
+    "addr:street":"Colonnade Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.730343,33.435195,-86.730343,33.435195",
     "geom:latitude":33.435195,
     "geom:longitude":-86.730343,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"578346547010ca770d042abd47baa02f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152556557,
-    "wof:lastmodified":1466318724,
+    "wof:lastmodified":1491897885,
     "wof:name":"National Tertiary Network Inc",
     "wof:parent_id":85856691,
     "wof:placetype":"venue",

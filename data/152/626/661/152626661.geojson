@@ -2,9 +2,14 @@
   "id": 152626661,
   "type": "Feature",
   "properties": {
+    "addr:full":"4 18th St SW Birmingham AL 35211",
+    "addr:housenumber":"4",
+    "addr:postcode":"35211",
+    "addr:street":"18Th St Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.866955,33.494604,-86.866955,33.494604",
     "geom:latitude":33.494604,
     "geom:longitude":-86.866955,
@@ -33,6 +38,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -46,6 +52,7 @@
     "wof:geomhash":"c14fbba011b3d07a957fceacc42ee586",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":152626661,
-    "wof:lastmodified":1466319035,
+    "wof:lastmodified":1491887287,
     "wof:name":"Sherman Concrete Pipe",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

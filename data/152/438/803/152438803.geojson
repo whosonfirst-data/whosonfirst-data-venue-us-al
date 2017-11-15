@@ -2,9 +2,14 @@
   "id": 152438803,
   "type": "Feature",
   "properties": {
+    "addr:full":"3556 Mary Taylor Rd Birmingham AL 35235",
+    "addr:housenumber":"3556",
+    "addr:postcode":"35235",
+    "addr:street":"Mary Taylor Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.627275,33.607018,-86.627275,33.607018",
     "geom:latitude":33.607018,
     "geom:longitude":-86.627275,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85913473,
         102085481,
@@ -45,6 +51,7 @@
     "wof:geomhash":"96080f76990682a9e639a6447f1caeab",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85913473,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":152438803,
-    "wof:lastmodified":1466318110,
+    "wof:lastmodified":1491928882,
     "wof:name":"Consolidated Power Supply 65",
     "wof:parent_id":85852855,
     "wof:placetype":"venue",

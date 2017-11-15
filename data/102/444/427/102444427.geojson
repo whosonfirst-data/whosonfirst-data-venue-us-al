@@ -2,9 +2,14 @@
   "id": 102444427,
   "type": "Feature",
   "properties": {
+    "addr:full":"1714 11th Ave S Birmingham AL 35205",
+    "addr:housenumber":"1714",
+    "addr:postcode":"35205",
+    "addr:street":"11Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.800057,33.498903,-86.800057,33.498903",
     "geom:latitude":33.498903,
     "geom:longitude":-86.800057,
@@ -26,9 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
+        85876277,
         85819533
     ],
     "wof:breaches":[],
@@ -39,6 +46,16 @@
     "wof:geomhash":"b63e700fb0688999547a2b37f04d25ce",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85876277,
+            "region_id":85688675,
+            "venue_id":102444427
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,9 +65,9 @@
         }
     ],
     "wof:id":102444427,
-    "wof:lastmodified":1466314396,
+    "wof:lastmodified":1491914542,
     "wof:name":"Weiss Jack P DMD PC",
-    "wof:parent_id":85819533,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

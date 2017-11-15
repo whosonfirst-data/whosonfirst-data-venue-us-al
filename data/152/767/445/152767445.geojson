@@ -2,9 +2,14 @@
   "id": 152767445,
   "type": "Feature",
   "properties": {
+    "addr:full":"3624 Richard Arrington Jr Blvd N Birmingham AL 35234",
+    "addr:housenumber":"3624",
+    "addr:postcode":"35234",
+    "addr:street":"Richard Arrington Jr Blvd N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.788129,33.535909,-86.788129,33.535909",
     "geom:latitude":33.535909,
     "geom:longitude":-86.788129,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -43,6 +49,7 @@
     "wof:geomhash":"42bfe4555b0162b6758a1139dc1c962b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":152767445,
-    "wof:lastmodified":1466319551,
+    "wof:lastmodified":1491885657,
     "wof:name":"Birmingham Fastener & Supply",
     "wof:parent_id":85838531,
     "wof:placetype":"venue",

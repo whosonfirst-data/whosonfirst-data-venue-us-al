@@ -2,9 +2,14 @@
   "id": 102481043,
   "type": "Feature",
   "properties": {
+    "addr:full":"1800 Summit Pl Birmingham AL 35243",
+    "addr:housenumber":"1800",
+    "addr:postcode":"35243",
+    "addr:street":"Summit Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.730484,33.450326,-86.730484,33.450326",
     "geom:latitude":33.450326,
     "geom:longitude":-86.730484,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"699974ffa668aa1bc3b0955bab572b41",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":102481043,
-    "wof:lastmodified":1466315313,
+    "wof:lastmodified":1491897891,
     "wof:name":"Gardens By Griffin",
     "wof:parent_id":85856691,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 152732215,
   "type": "Feature",
   "properties": {
+    "addr:full":"2201 Tyler Rd Birmingham AL 35226",
+    "addr:housenumber":"2201",
+    "addr:postcode":"35226",
+    "addr:street":"Tyler Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.840938,33.41619,-86.840938,33.41619",
     "geom:latitude":33.41619,
     "geom:longitude":-86.840938,
@@ -25,10 +30,13 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85914475,
-        85633793,
         85688675,
-        102085481
+        102191575,
+        85633793,
+        85914475,
+        102085481,
+        85805457,
+        85834275
     ],
     "wof:brand_id":420573805,
     "wof:breaches":[],
@@ -39,17 +47,26 @@
     "wof:geomhash":"88ebc527e293821d06d13708bc08df74",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
+            "neighbourhood_id":85805457,
+            "region_id":85688675,
+            "venue_id":152732215
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085481,
+            "neighbourhood_id":85834275,
             "region_id":85688675,
             "venue_id":152732215
         }
     ],
     "wof:id":152732215,
-    "wof:lastmodified":1466319498,
+    "wof:lastmodified":1491895359,
     "wof:name":"CVS Pharmacy",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

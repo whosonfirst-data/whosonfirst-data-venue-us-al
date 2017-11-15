@@ -2,9 +2,14 @@
   "id": 102490777,
   "type": "Feature",
   "properties": {
+    "addr:full":"2410 4th Ave S Birmingham AL 35233",
+    "addr:housenumber":"2410",
+    "addr:postcode":"35233",
+    "addr:street":"4Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.795309,33.512347,-86.795309,33.512347",
     "geom:latitude":33.512347,
     "geom:longitude":-86.795309,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -43,6 +49,7 @@
     "wof:geomhash":"504418475c8ff4b005bcf73cd7dd6a95",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":102490777,
-    "wof:lastmodified":1466316207,
+    "wof:lastmodified":1491921699,
     "wof:name":"K & W Auto Service Inc",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

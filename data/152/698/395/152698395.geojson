@@ -2,9 +2,14 @@
   "id": 152698395,
   "type": "Feature",
   "properties": {
+    "addr:full":"417 29th St S Birmingham AL 35205",
+    "addr:housenumber":"417",
+    "addr:postcode":"35205",
+    "addr:street":"29Th St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.789388,33.514682,-86.789388,33.514682",
     "geom:latitude":33.514682,
     "geom:longitude":-86.789388,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"ab6e31e576e189bbfdff8b5b73393321",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152698395,
-    "wof:lastmodified":1466319343,
+    "wof:lastmodified":1491921724,
     "wof:name":"Davis Center",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

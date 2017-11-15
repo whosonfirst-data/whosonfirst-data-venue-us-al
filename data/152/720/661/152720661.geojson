@@ -2,9 +2,14 @@
   "id": 152720661,
   "type": "Feature",
   "properties": {
+    "addr:full":"3312 26th St N Birmingham AL 35207",
+    "addr:housenumber":"3312",
+    "addr:postcode":"35207",
+    "addr:street":"26Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.819478,33.555065,-86.819478,33.555065",
     "geom:latitude":33.555065,
     "geom:longitude":-86.819478,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"4b46c0dfeb0a7e89419b64a1e24a7bac",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152720661,
-    "wof:lastmodified":1466319337,
+    "wof:lastmodified":1491929447,
     "wof:name":"Ethridge Brothers",
     "wof:parent_id":85837367,
     "wof:placetype":"venue",

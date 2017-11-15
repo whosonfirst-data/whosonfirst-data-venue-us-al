@@ -2,9 +2,14 @@
   "id": 152649345,
   "type": "Feature",
   "properties": {
+    "addr:full":"364 Park Ave Birmingham AL 35226",
+    "addr:housenumber":"364",
+    "addr:postcode":"35226",
+    "addr:street":"Park Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.856503,33.395396,-86.856503,33.395396",
     "geom:latitude":33.395396,
     "geom:longitude":-86.856503,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"56cb4e34e88d4580c4c05fa6ccf81823",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152649345,
-    "wof:lastmodified":1466319103,
+    "wof:lastmodified":1491898828,
     "wof:name":"Frank L Nelson Law Offices",
     "wof:parent_id":85828169,
     "wof:placetype":"venue",

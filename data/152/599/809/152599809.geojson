@@ -2,9 +2,14 @@
   "id": 152599809,
   "type": "Feature",
   "properties": {
+    "addr:full":"919 23rd St N Birmingham AL 35203",
+    "addr:housenumber":"919",
+    "addr:postcode":"35203",
+    "addr:street":"23Rd St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.807544,33.525377,-86.807544,33.525377",
     "geom:latitude":33.525377,
     "geom:longitude":-86.807544,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"e5dc409a32cf708b0e72f40ddf4f5b55",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152599809,
-    "wof:lastmodified":1466318867,
+    "wof:lastmodified":1491932657,
     "wof:name":"Lily Bright Baptist Church",
     "wof:parent_id":85876273,
     "wof:placetype":"venue",

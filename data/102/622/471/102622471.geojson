@@ -2,9 +2,14 @@
   "id": 102622471,
   "type": "Feature",
   "properties": {
+    "addr:full":"2309 2nd Ave S Birmingham AL 35233",
+    "addr:housenumber":"2309",
+    "addr:postcode":"35233",
+    "addr:street":"2Nd Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.797806,33.513392,-86.797806,33.513392",
     "geom:latitude":33.513392,
     "geom:longitude":-86.797806,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"514e0bfd53e1387b87c1faf71e3b5c63",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":102622471,
-    "wof:lastmodified":1466317451,
+    "wof:lastmodified":1491921739,
     "wof:name":"Proglass Contractors L L C",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

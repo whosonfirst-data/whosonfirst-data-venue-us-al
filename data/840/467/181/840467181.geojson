@@ -2,9 +2,14 @@
   "id": 840467181,
   "type": "Feature",
   "properties": {
+    "addr:full":"2124 7th Ave S Birmingham AL 35233",
+    "addr:housenumber":"2124",
+    "addr:postcode":"35233",
+    "addr:street":"7Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.798124,33.506673,-86.798124,33.506673",
     "geom:latitude":33.506673,
     "geom:longitude":-86.798124,
@@ -37,8 +42,8 @@
         85633793,
         85914465,
         102085481,
-        85819533,
-        85876277
+        85876277,
+        85819533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,7 +58,7 @@
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
-            "neighbourhood_id":85819533,
+            "neighbourhood_id":85876277,
             "region_id":85688675,
             "venue_id":840467181
         },
@@ -62,15 +67,15 @@
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
-            "neighbourhood_id":85876277,
+            "neighbourhood_id":85819533,
             "region_id":85688675,
             "venue_id":840467181
         }
     ],
     "wof:id":840467181,
-    "wof:lastmodified":1466315558,
+    "wof:lastmodified":1491914566,
     "wof:name":"Award Center The",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

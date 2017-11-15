@@ -2,9 +2,14 @@
   "id": 152350763,
   "type": "Feature",
   "properties": {
+    "addr:full":"2810 30th St Birmingham AL 35208",
+    "addr:housenumber":"2810",
+    "addr:postcode":"35208",
+    "addr:street":"30Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.86842,33.502742,-86.86842,33.502742",
     "geom:latitude":33.502742,
     "geom:longitude":-86.86842,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -43,6 +49,7 @@
     "wof:geomhash":"a94270fff16d11c68edab08d23f4c844",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":152350763,
-    "wof:lastmodified":1466317593,
+    "wof:lastmodified":1491887268,
     "wof:name":"Aldo Graphics & Photography",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

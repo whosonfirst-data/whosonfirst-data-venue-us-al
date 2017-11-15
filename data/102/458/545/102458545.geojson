@@ -2,9 +2,14 @@
   "id": 102458545,
   "type": "Feature",
   "properties": {
+    "addr:full":"912 22nd St S Birmingham AL 35205",
+    "addr:housenumber":"912",
+    "addr:postcode":"35205",
+    "addr:street":"22Nd St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.794925,33.503992,-86.794925,33.503992",
     "geom:latitude":33.503992,
     "geom:longitude":-86.794925,
@@ -30,9 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
+        85876277,
         85819533
     ],
     "wof:breaches":[],
@@ -43,6 +50,16 @@
     "wof:geomhash":"8216855324660bee4711aae249b5a17c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85876277,
+            "region_id":85688675,
+            "venue_id":102458545
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -52,9 +69,9 @@
         }
     ],
     "wof:id":102458545,
-    "wof:lastmodified":1466314955,
+    "wof:lastmodified":1491914558,
     "wof:name":"Crow Studio Inc",
-    "wof:parent_id":85819533,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 152707831,
   "type": "Feature",
   "properties": {
+    "addr:full":"1880 Rex Lake Rd Leeds AL 35094",
+    "addr:housenumber":"1880",
+    "addr:postcode":"35094",
+    "addr:street":"Rex Lake Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.634735,33.493815,-86.634735,33.493815",
     "geom:latitude":33.493815,
     "geom:longitude":-86.634735,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"9eb617c87dad7f96c387eaed8f16357a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152707831,
-    "wof:lastmodified":1466319413,
+    "wof:lastmodified":1491922694,
     "wof:name":"Goss Construction Co",
     "wof:parent_id":85804755,
     "wof:placetype":"venue",

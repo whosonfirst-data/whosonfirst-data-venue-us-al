@@ -2,9 +2,14 @@
   "id": 152644873,
   "type": "Feature",
   "properties": {
+    "addr:full":"1017 Gadsden Hwy Birmingham AL 35235",
+    "addr:housenumber":"1017",
+    "addr:postcode":"35235",
+    "addr:street":"Gadsden Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.658893,33.586939,-86.658893,33.586939",
     "geom:latitude":33.586939,
     "geom:longitude":-86.658893,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85913473,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"1adf80064a65632f964c64db6931eaf4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85913473,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152644873,
-    "wof:lastmodified":1466319057,
+    "wof:lastmodified":1491928878,
     "wof:name":"Rogers Frame Body Shop",
     "wof:parent_id":85852855,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 152411479,
   "type": "Feature",
   "properties": {
+    "addr:full":"1324 Main St Birmingham AL 35217",
+    "addr:housenumber":"1324",
+    "addr:postcode":"35217",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.785086,33.567519,-86.785086,33.567519",
     "geom:latitude":33.567519,
     "geom:longitude":-86.785086,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -44,6 +50,7 @@
     "wof:geomhash":"ee3ae41f47b2984645bc755d3ebfdd91",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":152411479,
-    "wof:lastmodified":1466317884,
+    "wof:lastmodified":1491930567,
     "wof:name":"Pinson Valley Security Inc",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",

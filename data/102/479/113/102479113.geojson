@@ -2,9 +2,14 @@
   "id": 102479113,
   "type": "Feature",
   "properties": {
+    "addr:full":"1662 Montgomery Hwy Birmingham AL 35216",
+    "addr:housenumber":"1662",
+    "addr:postcode":"35216",
+    "addr:street":"Montgomery Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.806462,33.39214,-86.806462,33.39214",
     "geom:latitude":33.39214,
     "geom:longitude":-86.806462,
@@ -29,10 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
-        85858879
+        85842589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,18 +48,19 @@
     "wof:geomhash":"237ea39d798a52c6debeaca768912cf6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
-            "neighbourhood_id":85858879,
+            "neighbourhood_id":85842589,
             "region_id":85688675,
             "venue_id":102479113
         }
     ],
     "wof:id":102479113,
-    "wof:lastmodified":1466314925,
+    "wof:lastmodified":1491902297,
     "wof:name":"Mattressmax",
-    "wof:parent_id":85858879,
+    "wof:parent_id":85842589,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 152533867,
   "type": "Feature",
   "properties": {
+    "addr:full":"4301 Court S Birmingham AL 35208",
+    "addr:housenumber":"4301",
+    "addr:postcode":"35208",
+    "addr:street":"Court S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.884005,33.492179,-86.884005,33.492179",
     "geom:latitude":33.492179,
     "geom:longitude":-86.884005,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"4349c9418bff70b468ee9a489c7c09a5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152533867,
-    "wof:lastmodified":1466318499,
+    "wof:lastmodified":1491887292,
     "wof:name":"Electronic Telco",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 102447209,
   "type": "Feature",
   "properties": {
+    "addr:full":"2100 Riverhaven Dr Birmingham AL 35244",
+    "addr:housenumber":"2100",
+    "addr:postcode":"35244",
+    "addr:street":"Riverhaven Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.793453,33.375503,-86.793453,33.375503",
     "geom:latitude":33.375503,
     "geom:longitude":-86.793453,
@@ -27,6 +32,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
@@ -40,6 +46,7 @@
     "wof:geomhash":"d12eb77f717fed0a12f98f68947d0e1d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":102447209,
-    "wof:lastmodified":1466314450,
+    "wof:lastmodified":1491927128,
     "wof:name":"Evolution Technology Group Inc",
     "wof:parent_id":85858879,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 152185713,
   "type": "Feature",
   "properties": {
+    "addr:full":"2130 5th Ave N Birmingham AL 35203",
+    "addr:housenumber":"2130",
+    "addr:postcode":"35203",
+    "addr:street":"5Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.805768,33.519288,-86.805768,33.519288",
     "geom:latitude":33.519288,
     "geom:longitude":-86.805768,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"1c7798b456eef618d20708280ea4524f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152185713,
-    "wof:lastmodified":1466315767,
+    "wof:lastmodified":1491921706,
     "wof:name":"Mc Cain-Command Uniforms Co",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

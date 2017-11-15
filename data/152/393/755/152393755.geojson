@@ -2,9 +2,14 @@
   "id": 152393755,
   "type": "Feature",
   "properties": {
+    "addr:full":"4816 Court S Birmingham AL 35208",
+    "addr:housenumber":"4816",
+    "addr:postcode":"35208",
+    "addr:street":"Court S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.879317,33.487805,-86.879317,33.487805",
     "geom:latitude":33.487805,
     "geom:longitude":-86.879317,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"a9ed46ea370d88f25cd9031c8f9400cf",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152393755,
-    "wof:lastmodified":1466317756,
+    "wof:lastmodified":1491887294,
     "wof:name":"CFC Floorcovering",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

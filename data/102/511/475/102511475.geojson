@@ -2,9 +2,14 @@
   "id": 102511475,
   "type": "Feature",
   "properties": {
+    "addr:full":"1013 Gadsden Hwy Birmingham AL 35235",
+    "addr:housenumber":"1013",
+    "addr:postcode":"35235",
+    "addr:street":"Gadsden Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.658854,33.586952,-86.658854,33.586952",
     "geom:latitude":33.586952,
     "geom:longitude":-86.658854,
@@ -29,10 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
-        85914465,
+        85913473,
         102085481,
-        85804001
+        85852855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,18 +48,19 @@
     "wof:geomhash":"5ee18779e9d91dae7f209da3888c57cd",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
-            "locality_id":85914465,
-            "neighbourhood_id":85804001,
+            "locality_id":85913473,
+            "neighbourhood_id":85852855,
             "region_id":85688675,
             "venue_id":102511475
         }
     ],
     "wof:id":102511475,
-    "wof:lastmodified":1466316825,
+    "wof:lastmodified":1491928879,
     "wof:name":"Cahaba Heating & Air",
-    "wof:parent_id":85804001,
+    "wof:parent_id":85852855,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

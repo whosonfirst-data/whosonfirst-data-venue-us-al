@@ -2,9 +2,14 @@
   "id": 152390247,
   "type": "Feature",
   "properties": {
+    "addr:full":"1736 Patton Chapel Rd Birmingham AL 35226",
+    "addr:housenumber":"1736",
+    "addr:postcode":"35226",
+    "addr:street":"Patton Chapel Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.823341,33.389406,-86.823341,33.389406",
     "geom:latitude":33.389406,
     "geom:longitude":-86.823341,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"b39f5fcbe25a91bad0e03fecbcb3bc59",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152390247,
-    "wof:lastmodified":1466317955,
+    "wof:lastmodified":1491902298,
     "wof:name":"Hs Womble & Assoc Inc",
     "wof:parent_id":85842589,
     "wof:placetype":"venue",

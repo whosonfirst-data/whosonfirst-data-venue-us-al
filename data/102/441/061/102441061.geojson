@@ -2,9 +2,14 @@
   "id": 102441061,
   "type": "Feature",
   "properties": {
+    "addr:full":"1700 Vanderbilt Rd Birmingham AL 35234",
+    "addr:housenumber":"1700",
+    "addr:postcode":"35234",
+    "addr:street":"Vanderbilt Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.791948,33.545262,-86.791948,33.545262",
     "geom:latitude":33.545262,
     "geom:longitude":-86.791948,
@@ -31,10 +36,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
-        85815977
+        85838531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +50,19 @@
     "wof:geomhash":"e4550109d3129a06d2ad1f2cd7960842",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
-            "neighbourhood_id":85815977,
+            "neighbourhood_id":85838531,
             "region_id":85688675,
             "venue_id":102441061
         }
     ],
     "wof:id":102441061,
-    "wof:lastmodified":1466315074,
+    "wof:lastmodified":1491885654,
     "wof:name":"Sandell Manufacturing Company",
-    "wof:parent_id":85815977,
+    "wof:parent_id":85838531,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 152189745,
   "type": "Feature",
   "properties": {
+    "addr:full":"2701 Jefferson Ave SW Birmingham AL 35211",
+    "addr:housenumber":"2701",
+    "addr:postcode":"35211",
+    "addr:street":"Jefferson Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.874486,33.475339,-86.874486,33.475339",
     "geom:latitude":33.475339,
     "geom:longitude":-86.874486,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"ac736c0efc092b9415f657c10ce9ea47",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152189745,
-    "wof:lastmodified":1466315789,
+    "wof:lastmodified":1491887259,
     "wof:name":"Banana Boat 12 Step Book & Gft",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 102509399,
   "type": "Feature",
   "properties": {
+    "addr:full":"2101 5th Ave N Birmingham AL 35203",
+    "addr:housenumber":"2101",
+    "addr:postcode":"35203",
+    "addr:street":"5Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.805382,33.519421,-86.805382,33.519421",
     "geom:latitude":33.519421,
     "geom:longitude":-86.805382,
@@ -27,6 +32,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -40,6 +46,7 @@
     "wof:geomhash":"d335ec499a2556ea73a01a6d4bc0a27b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":102509399,
-    "wof:lastmodified":1466316492,
+    "wof:lastmodified":1491921732,
     "wof:name":"Crowne Plaza Birmingham Dwntwn",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

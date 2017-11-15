@@ -2,9 +2,14 @@
   "id": 102486439,
   "type": "Feature",
   "properties": {
+    "addr:full":"1976 Patton Chapel Rd Birmingham AL 35226",
+    "addr:housenumber":"1976",
+    "addr:postcode":"35226",
+    "addr:street":"Patton Chapel Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.808447,33.390906,-86.808447,33.390906",
     "geom:latitude":33.390906,
     "geom:longitude":-86.808447,
@@ -29,10 +34,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
-        85858879,
         85842589
     ],
     "wof:breaches":[],
@@ -43,14 +48,7 @@
     "wof:geomhash":"54618d3dbb595574804287e3792eedf5",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102085481,
-            "locality_id":85914475,
-            "neighbourhood_id":85858879,
-            "region_id":85688675,
-            "venue_id":102486439
-        },
-        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
@@ -60,9 +58,9 @@
         }
     ],
     "wof:id":102486439,
-    "wof:lastmodified":1466315672,
+    "wof:lastmodified":1491902296,
     "wof:name":"Munchies Convenience Store",
-    "wof:parent_id":-1,
+    "wof:parent_id":85842589,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

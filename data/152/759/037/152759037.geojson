@@ -2,9 +2,14 @@
   "id": 152759037,
   "type": "Feature",
   "properties": {
+    "addr:full":"4845 Ave V Birmingham AL 35208",
+    "addr:housenumber":"4845",
+    "addr:postcode":"35208",
+    "addr:street":"Ave V",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.875561,33.490644,-86.875561,33.490644",
     "geom:latitude":33.490644,
     "geom:longitude":-86.875561,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"03847f2c4a9b7e4ecb0f605f0675e20f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152759037,
-    "wof:lastmodified":1466319612,
+    "wof:lastmodified":1491887267,
     "wof:name":"Bautista Roofing",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 152876427,
   "type": "Feature",
   "properties": {
+    "addr:full":"420 E Ventura Dr Birmingham AL 35235",
+    "addr:housenumber":"420",
+    "addr:postcode":"35235",
+    "addr:street":"E Ventura Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.657499,33.592553,-86.657499,33.592553",
     "geom:latitude":33.592553,
     "geom:longitude":-86.657499,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85913473,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"df3b00010ba7eeef95065cde0eaa37f1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85913473,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152876427,
-    "wof:lastmodified":1466320385,
+    "wof:lastmodified":1491928877,
     "wof:name":"Bonnies Priceless Therapies",
     "wof:parent_id":85852855,
     "wof:placetype":"venue",

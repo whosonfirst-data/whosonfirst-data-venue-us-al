@@ -2,9 +2,14 @@
   "id": 102456163,
   "type": "Feature",
   "properties": {
+    "addr:full":"815 34th St N Birmingham AL 35234",
+    "addr:housenumber":"815",
+    "addr:postcode":"35234",
+    "addr:street":"34Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.791594,33.531227,-86.791594,33.531227",
     "geom:latitude":33.531227,
     "geom:longitude":-86.791594,
@@ -27,6 +32,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -41,6 +47,7 @@
     "wof:geomhash":"06996b068955331d8d24f3b64ed13cc8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":102456163,
-    "wof:lastmodified":1466314824,
+    "wof:lastmodified":1491921739,
     "wof:name":"Ameri Gas Inc",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

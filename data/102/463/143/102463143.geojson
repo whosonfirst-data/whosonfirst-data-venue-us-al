@@ -2,9 +2,14 @@
   "id": 102463143,
   "type": "Feature",
   "properties": {
+    "addr:full":"941 Alton Pkwy Birmingham AL 35210",
+    "addr:housenumber":"941",
+    "addr:postcode":"35210",
+    "addr:street":"Alton Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.644963,33.580754,-86.644963,33.580754",
     "geom:latitude":33.580754,
     "geom:longitude":-86.644963,
@@ -30,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85914465,
-        85633793,
         85688675,
-        102085481
+        102191575,
+        85633793,
+        85913473,
+        102085481,
+        85852855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,19 @@
     "wof:geomhash":"92b84b8d487cd48afdc2b226af458f01",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
-            "locality_id":85914465,
+            "locality_id":85913473,
+            "neighbourhood_id":85852855,
             "region_id":85688675,
             "venue_id":102463143
         }
     ],
     "wof:id":102463143,
-    "wof:lastmodified":1466314982,
+    "wof:lastmodified":1491928875,
     "wof:name":"Hamon Custodis Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85852855,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

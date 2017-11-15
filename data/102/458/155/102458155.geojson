@@ -2,9 +2,14 @@
   "id": 102458155,
   "type": "Feature",
   "properties": {
+    "addr:full":"2800 24 St Ensley Birmingham AL 35208",
+    "addr:housenumber":"2800",
+    "addr:postcode":"35208",
+    "addr:street":"24 St Ensley",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.880856,33.499752,-86.880856,33.499752",
     "geom:latitude":33.499752,
     "geom:longitude":-86.880856,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"a8802ba4af0ccfde4990185a75223511",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":102458155,
-    "wof:lastmodified":1466314881,
+    "wof:lastmodified":1491887297,
     "wof:name":"Shaheeds Construction Co Inc",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 102489413,
   "type": "Feature",
   "properties": {
+    "addr:full":"2071 Alpine Village Birmingham AL 35216",
+    "addr:housenumber":"2071",
+    "addr:postcode":"35216",
+    "addr:street":"Alpine Village",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.795878,33.382819,-86.795878,33.382819",
     "geom:latitude":33.382819,
     "geom:longitude":-86.795878,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"74d33211736edd7919fb17b972fffcaf",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":102489413,
-    "wof:lastmodified":1466315969,
+    "wof:lastmodified":1491927125,
     "wof:name":"Alpine Apartments",
     "wof:parent_id":85858879,
     "wof:placetype":"venue",

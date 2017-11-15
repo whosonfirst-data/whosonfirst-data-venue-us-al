@@ -2,9 +2,14 @@
   "id": 152333587,
   "type": "Feature",
   "properties": {
+    "addr:full":"3114 27th St N Birmingham AL 35207",
+    "addr:housenumber":"3114",
+    "addr:postcode":"35207",
+    "addr:street":"27Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.817157,33.553526,-86.817157,33.553526",
     "geom:latitude":33.553526,
     "geom:longitude":-86.817157,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"2404655ff4a96fad0591bc204871416e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152333587,
-    "wof:lastmodified":1466317601,
+    "wof:lastmodified":1491929447,
     "wof:name":"World of Our Own",
     "wof:parent_id":85837367,
     "wof:placetype":"venue",

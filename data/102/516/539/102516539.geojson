@@ -2,9 +2,14 @@
   "id": 102516539,
   "type": "Feature",
   "properties": {
+    "addr:full":"2224 1st Ave N Birmingham AL 35204",
+    "addr:housenumber":"2224",
+    "addr:postcode":"35204",
+    "addr:street":"1St Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.801527,33.51641,-86.801527,33.51641",
     "geom:latitude":33.51641,
     "geom:longitude":-86.801527,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -43,6 +49,7 @@
     "wof:geomhash":"d5cfbcfc5b37cdffa0dfaf36a877f055",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":102516539,
-    "wof:lastmodified":1466316912,
+    "wof:lastmodified":1491921748,
     "wof:name":"Garrison Scott Gamble",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 102445547,
   "type": "Feature",
   "properties": {
+    "addr:full":"801 20th St S Birmingham AL 35205",
+    "addr:housenumber":"801",
+    "addr:postcode":"35205",
+    "addr:street":"20Th St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.798822,33.504346,-86.798822,33.504346",
     "geom:latitude":33.504346,
     "geom:longitude":-86.798822,
@@ -29,9 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
+        85813175,
         85819533
     ],
     "wof:breaches":[],
@@ -42,6 +49,16 @@
     "wof:geomhash":"4165fdb57205f1a132e44f0eec92d6da",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85813175,
+            "region_id":85688675,
+            "venue_id":102445547
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,9 +68,9 @@
         }
     ],
     "wof:id":102445547,
-    "wof:lastmodified":1466314425,
+    "wof:lastmodified":1491914563,
     "wof:name":"New York Bagel Cafe and Deli",
-    "wof:parent_id":85819533,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

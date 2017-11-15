@@ -2,9 +2,14 @@
   "id": 102461307,
   "type": "Feature",
   "properties": {
+    "addr:full":"1962 Bessemer Rd Birmingham AL 35208",
+    "addr:housenumber":"1962",
+    "addr:postcode":"35208",
+    "addr:street":"Bessemer Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.88216,33.492855,-86.88216,33.492855",
     "geom:latitude":33.492855,
     "geom:longitude":-86.88216,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"dae0eb63dd2373102160c34b319fdde1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":102461307,
-    "wof:lastmodified":1466314985,
+    "wof:lastmodified":1491887279,
     "wof:name":"Ms Erica",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

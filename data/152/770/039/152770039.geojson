@@ -2,9 +2,14 @@
   "id": 152770039,
   "type": "Feature",
   "properties": {
+    "addr:full":"4801 1st Ave N Birmingham AL 35222",
+    "addr:housenumber":"4801",
+    "addr:postcode":"35222",
+    "addr:street":"1St Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.762309,33.535015,-86.762309,33.535015",
     "geom:latitude":33.535015,
     "geom:longitude":-86.762309,
@@ -36,6 +41,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -49,6 +55,7 @@
     "wof:geomhash":"784d9138e4e180b0e10153a9e929c812",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":152770039,
-    "wof:lastmodified":1466319683,
+    "wof:lastmodified":1491930569,
     "wof:name":"Electric Tool Co Inc",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",

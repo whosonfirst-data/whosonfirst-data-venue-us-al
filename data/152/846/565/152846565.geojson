@@ -2,9 +2,14 @@
   "id": 152846565,
   "type": "Feature",
   "properties": {
+    "addr:full":"2911 3rd Ave N Birmingham AL 35203",
+    "addr:housenumber":"2911",
+    "addr:postcode":"35203",
+    "addr:street":"3Rd Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.794409,33.522165,-86.794409,33.522165",
     "geom:latitude":33.522165,
     "geom:longitude":-86.794409,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"3f4727149075b40e07580ca018c3d2e3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152846565,
-    "wof:lastmodified":1466320089,
+    "wof:lastmodified":1491921733,
     "wof:name":"Pro Power and Equipment",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

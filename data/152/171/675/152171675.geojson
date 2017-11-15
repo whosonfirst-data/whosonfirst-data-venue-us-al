@@ -2,9 +2,14 @@
   "id": 152171675,
   "type": "Feature",
   "properties": {
+    "addr:full":"2142 Warrior Rd Birmingham AL 35208",
+    "addr:housenumber":"2142",
+    "addr:postcode":"35208",
+    "addr:street":"Warrior Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.878881,33.49716,-86.878881,33.49716",
     "geom:latitude":33.49716,
     "geom:longitude":-86.878881,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"6ce0856e711406001cf3eb57dcd9cf1d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152171675,
-    "wof:lastmodified":1466315711,
+    "wof:lastmodified":1491887259,
     "wof:name":"5 Points Package Store",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

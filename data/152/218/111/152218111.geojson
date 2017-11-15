@@ -2,9 +2,14 @@
   "id": 152218111,
   "type": "Feature",
   "properties": {
+    "addr:full":"2851 Seaboard Rd Birmingham AL 35217",
+    "addr:housenumber":"2851",
+    "addr:postcode":"35217",
+    "addr:street":"Seaboard Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.785559,33.572337,-86.785559,33.572337",
     "geom:latitude":33.572337,
     "geom:longitude":-86.785559,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -43,6 +49,7 @@
     "wof:geomhash":"1f6b097b42f45a5941d52d1d5512d35e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":152218111,
-    "wof:lastmodified":1466316127,
+    "wof:lastmodified":1491930591,
     "wof:name":"American Tower Corp",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",

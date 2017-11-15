@@ -2,9 +2,14 @@
   "id": 102610437,
   "type": "Feature",
   "properties": {
+    "addr:full":"3109 Cullman Ave Birmingham AL 35208",
+    "addr:housenumber":"3109",
+    "addr:postcode":"35208",
+    "addr:street":"Cullman Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.870103,33.500903,-86.870103,33.500903",
     "geom:latitude":33.500903,
     "geom:longitude":-86.870103,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -45,6 +51,7 @@
     "wof:geomhash":"23c87ad301816c2602e01c8e89efedb9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":102610437,
-    "wof:lastmodified":1466317276,
+    "wof:lastmodified":1491887285,
     "wof:name":"R & T",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

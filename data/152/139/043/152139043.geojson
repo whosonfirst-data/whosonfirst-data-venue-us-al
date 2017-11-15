@@ -2,9 +2,14 @@
   "id": 152139043,
   "type": "Feature",
   "properties": {
+    "addr:full":"1930 8th Ave N Birmingham AL 35203",
+    "addr:housenumber":"1930",
+    "addr:postcode":"35203",
+    "addr:street":"8Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.811597,33.521049,-86.811597,33.521049",
     "geom:latitude":33.521049,
     "geom:longitude":-86.811597,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -44,6 +50,7 @@
     "wof:geomhash":"600b291de853c70b12ed64070c182c03",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":152139043,
-    "wof:lastmodified":1466315344,
+    "wof:lastmodified":1491932661,
     "wof:name":"Boutwell Municipal Auditorium",
     "wof:parent_id":85876273,
     "wof:placetype":"venue",

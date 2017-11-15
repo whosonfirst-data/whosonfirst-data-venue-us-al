@@ -2,9 +2,14 @@
   "id": 102451681,
   "type": "Feature",
   "properties": {
+    "addr:full":"2501 Finley Blvd Birmingham AL 35234",
+    "addr:housenumber":"2501",
+    "addr:postcode":"35234",
+    "addr:street":"Finley Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.815569,33.545865,-86.815569,33.545865",
     "geom:latitude":33.545865,
     "geom:longitude":-86.815569,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"48e69ba4f3e6f5a3b2f2ffe58af405b5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":102451681,
-    "wof:lastmodified":1466314724,
+    "wof:lastmodified":1491929444,
     "wof:name":"Auto Pride Finley Ave",
     "wof:parent_id":85837367,
     "wof:placetype":"venue",

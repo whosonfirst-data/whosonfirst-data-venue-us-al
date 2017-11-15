@@ -2,9 +2,14 @@
   "id": 152359863,
   "type": "Feature",
   "properties": {
+    "addr:full":"5004 5th Ave S Birmingham AL 35212",
+    "addr:housenumber":"5004",
+    "addr:postcode":"35212",
+    "addr:street":"5Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.757301,33.531664,-86.757301,33.531664",
     "geom:latitude":33.531664,
     "geom:longitude":-86.757301,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -44,6 +50,7 @@
     "wof:geomhash":"1e4c3aa1e1364ddd20f8402a972d59a4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":152359863,
-    "wof:lastmodified":1466317768,
+    "wof:lastmodified":1491930569,
     "wof:name":"Cecil Jones",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",

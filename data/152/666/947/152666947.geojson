@@ -2,9 +2,14 @@
   "id": 152666947,
   "type": "Feature",
   "properties": {
+    "addr:full":"3033 35th Ave N Birmingham AL 35207",
+    "addr:housenumber":"3033",
+    "addr:postcode":"35207",
+    "addr:street":"35Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.806664,33.560564,-86.806664,33.560564",
     "geom:latitude":33.560564,
     "geom:longitude":-86.806664,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"efdbe1db84ec7f7953143046859085a9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152666947,
-    "wof:lastmodified":1466319221,
+    "wof:lastmodified":1491929442,
     "wof:name":"Coastal Logistics Inc",
     "wof:parent_id":85837367,
     "wof:placetype":"venue",

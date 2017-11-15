@@ -2,9 +2,14 @@
   "id": 152529073,
   "type": "Feature",
   "properties": {
+    "addr:full":"2403 Montevallo Rd Birmingham AL 35223",
+    "addr:housenumber":"2403",
+    "addr:postcode":"35223",
+    "addr:street":"Montevallo Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.772678,33.484386,-86.772678,33.484386",
     "geom:latitude":33.484386,
     "geom:longitude":-86.772678,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914807,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"d2d074ef6e686f5ed54be070ebb834ae",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914807,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152529073,
-    "wof:lastmodified":1466318471,
+    "wof:lastmodified":1491932276,
     "wof:name":"Lingerie Shoppe Inc",
     "wof:parent_id":85854765,
     "wof:placetype":"venue",

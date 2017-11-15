@@ -2,9 +2,14 @@
   "id": 152858729,
   "type": "Feature",
   "properties": {
+    "addr:full":"2512 Lee Ave SW Birmingham AL 35211",
+    "addr:housenumber":"2512",
+    "addr:postcode":"35211",
+    "addr:street":"Lee Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.877003,33.48056,-86.877003,33.48056",
     "geom:latitude":33.48056,
     "geom:longitude":-86.877003,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"67b156d4c7433c52eaa5e8075017a344",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152858729,
-    "wof:lastmodified":1466320363,
+    "wof:lastmodified":1491887259,
     "wof:name":"Great Expctations Day Care Ctr",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

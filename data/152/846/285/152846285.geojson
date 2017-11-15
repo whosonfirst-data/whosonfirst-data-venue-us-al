@@ -2,9 +2,14 @@
   "id": 152846285,
   "type": "Feature",
   "properties": {
+    "addr:full":"3309 Ridgely Cir Birmingham AL 35243",
+    "addr:housenumber":"3309",
+    "addr:postcode":"35243",
+    "addr:street":"Ridgely Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.72102,33.45545,-86.72102,33.45545",
     "geom:latitude":33.45545,
     "geom:longitude":-86.72102,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -44,6 +50,7 @@
     "wof:geomhash":"9deb2d6514fe7da19f3d0e1ffbf21f6e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":152846285,
-    "wof:lastmodified":1466320077,
+    "wof:lastmodified":1491897869,
     "wof:name":"Lowe Trucking Co Inc",
     "wof:parent_id":85856691,
     "wof:placetype":"venue",

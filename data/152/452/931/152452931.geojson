@@ -2,9 +2,14 @@
   "id": 152452931,
   "type": "Feature",
   "properties": {
+    "addr:full":"1745 Pearson Ave SW Birmingham AL 35211",
+    "addr:housenumber":"1745",
+    "addr:postcode":"35211",
+    "addr:street":"Pearson Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.862507,33.486283,-86.862507,33.486283",
     "geom:latitude":33.486283,
     "geom:longitude":-86.862507,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85914465,
-        85633793,
         85688675,
-        102085481
+        102191575,
+        85633793,
+        85914465,
+        102085481,
+        85818187,
+        420510481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +49,28 @@
     "wof:geomhash":"e1848dc0d129c0505e95123784819acc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
+            "neighbourhood_id":85818187,
+            "region_id":85688675,
+            "venue_id":152452931
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":420510481,
             "region_id":85688675,
             "venue_id":152452931
         }
     ],
     "wof:id":152452931,
-    "wof:lastmodified":1466318008,
+    "wof:lastmodified":1491887277,
     "wof:name":"Kays Day Care Center",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

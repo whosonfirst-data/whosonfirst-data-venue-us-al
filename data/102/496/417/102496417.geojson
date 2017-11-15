@@ -2,9 +2,14 @@
   "id": 102496417,
   "type": "Feature",
   "properties": {
+    "addr:full":"2007 Bessemer Rd Birmingham AL 35208",
+    "addr:housenumber":"2007",
+    "addr:postcode":"35208",
+    "addr:street":"Bessemer Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.881455,33.493212,-86.881455,33.493212",
     "geom:latitude":33.493212,
     "geom:longitude":-86.881455,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"a2a30e1ac3e8929424472eaa61db0b09",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":102496417,
-    "wof:lastmodified":1466316265,
+    "wof:lastmodified":1491887272,
     "wof:name":"Dollar WHIZ",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 102634825,
   "type": "Feature",
   "properties": {
+    "addr:full":"107 Richard Arrington Jr Blvd S Birmingham AL 35233",
+    "addr:housenumber":"107",
+    "addr:postcode":"35233",
+    "addr:street":"Richard Arrington Jr Blvd S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.802143,33.512094,-86.802143,33.512094",
     "geom:latitude":33.512094,
     "geom:longitude":-86.802143,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"45f648389b3c960c70a76f074437e355",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":102634825,
-    "wof:lastmodified":1466317571,
+    "wof:lastmodified":1491921739,
     "wof:name":"Birmingham Chapter Of Ifma",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

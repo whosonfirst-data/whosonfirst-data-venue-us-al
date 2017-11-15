@@ -2,9 +2,14 @@
   "id": 102439221,
   "type": "Feature",
   "properties": {
+    "addr:full":"2016 Lee Ter SW Birmingham AL 35211",
+    "addr:housenumber":"2016",
+    "addr:postcode":"35211",
+    "addr:street":"Lee Ter Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.872257,33.485981,-86.872257,33.485981",
     "geom:latitude":33.485981,
     "geom:longitude":-86.872257,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"c2c6637241fefba38e6cae3c632acfae",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":102439221,
-    "wof:lastmodified":1466314331,
+    "wof:lastmodified":1491887272,
     "wof:name":"Eastern Star 194",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

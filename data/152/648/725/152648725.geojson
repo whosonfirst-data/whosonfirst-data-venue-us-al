@@ -2,9 +2,14 @@
   "id": 152648725,
   "type": "Feature",
   "properties": {
+    "addr:full":"525 25th St S Birmingham AL 35233",
+    "addr:housenumber":"525",
+    "addr:postcode":"35233",
+    "addr:street":"25Th St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.79426,33.511206,-86.79426,33.511206",
     "geom:latitude":33.511206,
     "geom:longitude":-86.79426,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"43b8329d7f78715932df660b480864bf",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152648725,
-    "wof:lastmodified":1466319078,
+    "wof:lastmodified":1491921701,
     "wof:name":"Jam Food Company Inc",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

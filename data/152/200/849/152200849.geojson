@@ -2,9 +2,14 @@
   "id": 152200849,
   "type": "Feature",
   "properties": {
+    "addr:full":"605 Richard Arrington Jr Blvd N Birmingham AL 35203",
+    "addr:housenumber":"605",
+    "addr:postcode":"35203",
+    "addr:street":"Richard Arrington Jr Blvd N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.807961,33.520424,-86.807961,33.520424",
     "geom:latitude":33.520424,
     "geom:longitude":-86.807961,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -45,6 +51,7 @@
     "wof:geomhash":"0245a0c1d7b861eaac0a8245c8f25439",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":152200849,
-    "wof:lastmodified":1466315952,
+    "wof:lastmodified":1491921705,
     "wof:name":"Basin Pipeline Corporation",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

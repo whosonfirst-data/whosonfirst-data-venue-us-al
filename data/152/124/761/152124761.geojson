@@ -2,9 +2,14 @@
   "id": 152124761,
   "type": "Feature",
   "properties": {
+    "addr:full":"1890 Data Dr Birmingham AL 35244",
+    "addr:housenumber":"1890",
+    "addr:postcode":"35244",
+    "addr:street":"Data Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.795636,33.37302,-86.795636,33.37302",
     "geom:latitude":33.37302,
     "geom:longitude":-86.795636,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"0e36c11378e466e10675edb607056f65",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152124761,
-    "wof:lastmodified":1466314742,
+    "wof:lastmodified":1491927120,
     "wof:name":"Tusco Fence",
     "wof:parent_id":85858879,
     "wof:placetype":"venue",

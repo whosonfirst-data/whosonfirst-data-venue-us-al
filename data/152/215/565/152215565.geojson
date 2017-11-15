@@ -2,9 +2,14 @@
   "id": 152215565,
   "type": "Feature",
   "properties": {
+    "addr:full":"4720 Ct V Birmingham AL 35208",
+    "addr:housenumber":"",
+    "addr:postcode":"4720;35208",
+    "addr:street":"Ct V",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.87618,33.493749,-86.87618,33.493749",
     "geom:latitude":33.493749,
     "geom:longitude":-86.87618,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"758804aa2b18310d69828871b02acb23",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152215565,
-    "wof:lastmodified":1466316073,
+    "wof:lastmodified":1491887272,
     "wof:name":"Faith Cathedral Baptist Church",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

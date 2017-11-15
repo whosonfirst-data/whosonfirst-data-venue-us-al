@@ -2,9 +2,14 @@
   "id": 152604119,
   "type": "Feature",
   "properties": {
+    "addr:full":"3444 31st Way Birmingham AL 35207",
+    "addr:housenumber":"3444",
+    "addr:postcode":"35207",
+    "addr:street":"31St Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.804044,33.559596,-86.804044,33.559596",
     "geom:latitude":33.559596,
     "geom:longitude":-86.804044,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"f25255dfc937e628d9f30b27f249c68b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152604119,
-    "wof:lastmodified":1466318849,
+    "wof:lastmodified":1491929438,
     "wof:name":"Church",
     "wof:parent_id":85837367,
     "wof:placetype":"venue",

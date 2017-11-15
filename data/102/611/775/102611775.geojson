@@ -2,9 +2,14 @@
   "id": 102611775,
   "type": "Feature",
   "properties": {
+    "addr:full":"4605 Lewisburg Rd Birmingham AL 35207",
+    "addr:housenumber":"4605",
+    "addr:postcode":"35207",
+    "addr:street":"Lewisburg Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.812572,33.571757,-86.812572,33.571757",
     "geom:latitude":33.571757,
     "geom:longitude":-86.812572,
@@ -25,10 +30,12 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85914465,
-        85633793,
         85688675,
-        102085481
+        102191575,
+        85633793,
+        85914465,
+        102085481,
+        85837367
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +45,19 @@
     "wof:geomhash":"14cdb7d67bc25e9bf050a638b2157c70",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
+            "neighbourhood_id":85837367,
             "region_id":85688675,
             "venue_id":102611775
         }
     ],
     "wof:id":102611775,
-    "wof:lastmodified":1466317290,
+    "wof:lastmodified":1491929435,
     "wof:name":"Hewitt Lodge No 519 F&Am",
-    "wof:parent_id":85914465,
+    "wof:parent_id":85837367,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

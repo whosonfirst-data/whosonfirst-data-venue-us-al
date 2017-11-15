@@ -2,9 +2,14 @@
   "id": 152470091,
   "type": "Feature",
   "properties": {
+    "addr:full":"1508 19th St Birmingham AL 35218",
+    "addr:housenumber":"1508",
+    "addr:postcode":"35218",
+    "addr:street":"19Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.888839,33.510636,-86.888839,33.510636",
     "geom:latitude":33.510636,
     "geom:longitude":-86.888839,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"99b41cbc6af4a6d959ee7454c94dee01",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152470091,
-    "wof:lastmodified":1466318153,
+    "wof:lastmodified":1491887257,
     "wof:name":"First Baptist Daycare-Ensley",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

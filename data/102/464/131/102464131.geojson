@@ -2,14 +2,20 @@
   "id": 102464131,
   "type": "Feature",
   "properties": {
+    "addr:full":"2810 Seaboard Rd Birmingham AL 35217",
+    "addr:housenumber":"2810",
+    "addr:postcode":"35217",
+    "addr:street":"Seaboard Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.785736,33.572459,-86.785736,33.572459",
     "geom:latitude":33.572459,
     "geom:longitude":-86.785736,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2810 Seaboard Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -30,19 +36,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
         85815977
     ],
+    "wof:brand_id":1125150929,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0hLVo8QWkk7Ix38KuvzGg1_33.572459_-86.785736@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"a702a43115cd2deb111ddbef024b9d63",
+    "wof:geomhash":"c5d5bc312a1b00bbf5fffac6c082b182",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":102464131,
-    "wof:lastmodified":1466315024,
+    "wof:lastmodified":1510694586,
     "wof:name":"CSX",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 102625525,
   "type": "Feature",
   "properties": {
+    "addr:full":"2751 Eastern Valley Rd Leeds AL 35094",
+    "addr:housenumber":"2751",
+    "addr:postcode":"35094",
+    "addr:street":"Eastern Valley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.609118,33.494667,-86.609118,33.494667",
     "geom:latitude":33.494667,
     "geom:longitude":-86.609118,
@@ -25,10 +30,12 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85913477,
-        85633793,
         85688675,
-        102085481
+        102191575,
+        85633793,
+        85914465,
+        102085481,
+        85804755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +45,19 @@
     "wof:geomhash":"47385accbace4ac8c07e3a272bef02d1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
-            "locality_id":85913477,
+            "locality_id":85914465,
+            "neighbourhood_id":85804755,
             "region_id":85688675,
             "venue_id":102625525
         }
     ],
     "wof:id":102625525,
-    "wof:lastmodified":1466317456,
+    "wof:lastmodified":1491922692,
     "wof:name":"Valley Trail Ranch",
-    "wof:parent_id":85913477,
+    "wof:parent_id":85804755,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

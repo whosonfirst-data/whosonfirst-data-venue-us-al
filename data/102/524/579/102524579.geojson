@@ -2,9 +2,14 @@
   "id": 102524579,
   "type": "Feature",
   "properties": {
+    "addr:full":"4419 1st Ave N Birmingham AL 35222",
+    "addr:housenumber":"4419",
+    "addr:postcode":"35222",
+    "addr:street":"1St Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.768402,33.532007,-86.768402,33.532007",
     "geom:latitude":33.532007,
     "geom:longitude":-86.768402,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"ac5a12adce4eaf33a19344a800062fcb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":102524579,
-    "wof:lastmodified":1466316996,
+    "wof:lastmodified":1491930579,
     "wof:name":"Carpet Crafting",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",

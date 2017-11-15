@@ -2,9 +2,14 @@
   "id": 152332617,
   "type": "Feature",
   "properties": {
+    "addr:full":"2598 Alton Rd Birmingham AL 35210",
+    "addr:housenumber":"2598",
+    "addr:postcode":"35210",
+    "addr:street":"Alton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.641704,33.578267,-86.641704,33.578267",
     "geom:latitude":33.578267,
     "geom:longitude":-86.641704,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85913473,
         102085481,
@@ -44,6 +50,7 @@
     "wof:geomhash":"7b4b9cf27a1dfd3820fbd2ef5d3844eb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85913473,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":152332617,
-    "wof:lastmodified":1466317321,
+    "wof:lastmodified":1491928881,
     "wof:name":"Dura Wear Corp",
     "wof:parent_id":85852855,
     "wof:placetype":"venue",

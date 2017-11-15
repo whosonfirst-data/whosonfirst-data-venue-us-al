@@ -2,9 +2,14 @@
   "id": 152299441,
   "type": "Feature",
   "properties": {
+    "addr:full":"2909 3rd Ave N Birmingham AL 35203",
+    "addr:housenumber":"2909",
+    "addr:postcode":"35203",
+    "addr:street":"3Rd Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.794391,33.522174,-86.794391,33.522174",
     "geom:latitude":33.522174,
     "geom:longitude":-86.794391,
@@ -33,6 +38,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -46,6 +52,7 @@
     "wof:geomhash":"b7a661aa96c505d7198f26af6bfb4d2c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":152299441,
-    "wof:lastmodified":1466317064,
+    "wof:lastmodified":1491921760,
     "wof:name":"Kirkpatrick Concrete Co Inc",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

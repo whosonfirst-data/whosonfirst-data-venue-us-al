@@ -2,9 +2,14 @@
   "id": 102480951,
   "type": "Feature",
   "properties": {
+    "addr:full":"113 22nd St N Birmingham AL 35203",
+    "addr:housenumber":"113",
+    "addr:postcode":"35203",
+    "addr:street":"22Nd St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.803406,33.516616,-86.803406,33.516616",
     "geom:latitude":33.516616,
     "geom:longitude":-86.803406,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"2620217e6bbe0d479024b2554f9e7431",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":102480951,
-    "wof:lastmodified":1466315295,
+    "wof:lastmodified":1491921725,
     "wof:name":"Livings & Co",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

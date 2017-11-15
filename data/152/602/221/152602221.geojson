@@ -2,9 +2,14 @@
   "id": 152602221,
   "type": "Feature",
   "properties": {
+    "addr:full":"600 19th St Birmingham AL 35218",
+    "addr:housenumber":"600",
+    "addr:postcode":"35218",
+    "addr:street":"19Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.895331,33.512254,-86.895331,33.512254",
     "geom:latitude":33.512254,
     "geom:longitude":-86.895331,
@@ -34,6 +39,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -47,6 +53,7 @@
     "wof:geomhash":"aa83ac52637e428760af796423d035f9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":152602221,
-    "wof:lastmodified":1466318854,
+    "wof:lastmodified":1491887263,
     "wof:name":"Fulani Fashions",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

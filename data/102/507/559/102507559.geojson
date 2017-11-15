@@ -2,9 +2,14 @@
   "id": 102507559,
   "type": "Feature",
   "properties": {
+    "addr:full":"2328 2nd Ave N Birmingham AL 35203",
+    "addr:housenumber":"2328",
+    "addr:postcode":"35203",
+    "addr:street":"2Nd Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.801161,33.517878,-86.801161,33.517878",
     "geom:latitude":33.517878,
     "geom:longitude":-86.801161,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"91b28bba39e998e3b11bde4b927506d5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":102507559,
-    "wof:lastmodified":1466316633,
+    "wof:lastmodified":1491921719,
     "wof:name":"Attorney Denise Poe",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

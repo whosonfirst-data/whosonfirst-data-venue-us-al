@@ -2,9 +2,14 @@
   "id": 152560771,
   "type": "Feature",
   "properties": {
+    "addr:full":"1507 31st St SW Birmingham AL 35221",
+    "addr:housenumber":"1507",
+    "addr:postcode":"35221",
+    "addr:street":"31St St Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.883013,33.469416,-86.883013,33.469416",
     "geom:latitude":33.469416,
     "geom:longitude":-86.883013,
@@ -36,6 +41,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -49,6 +55,7 @@
     "wof:geomhash":"e197760cbfeb6822931abb0531dfff9a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":152560771,
-    "wof:lastmodified":1466318625,
+    "wof:lastmodified":1491887264,
     "wof:name":"Kelly Auto Finance Inc",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

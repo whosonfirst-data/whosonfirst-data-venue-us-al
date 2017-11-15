@@ -2,9 +2,14 @@
   "id": 102449789,
   "type": "Feature",
   "properties": {
+    "addr:full":"3200 3rd Ave S Birmingham AL 35222",
+    "addr:housenumber":"3200",
+    "addr:postcode":"35222",
+    "addr:street":"3Rd Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.784824,33.518467,-86.784824,33.518467",
     "geom:latitude":33.518467,
     "geom:longitude":-86.784824,
@@ -31,10 +36,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
-        85876275
+        85876269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +50,19 @@
     "wof:geomhash":"34a894d05faf68a9b29c02a38bf9de55",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
-            "neighbourhood_id":85876275,
+            "neighbourhood_id":85876269,
             "region_id":85688675,
             "venue_id":102449789
         }
     ],
     "wof:id":102449789,
-    "wof:lastmodified":1466315471,
+    "wof:lastmodified":1491921691,
     "wof:name":"Kitchen Advantage",
-    "wof:parent_id":85876275,
+    "wof:parent_id":85876269,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

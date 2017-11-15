@@ -2,9 +2,14 @@
   "id": 152130291,
   "type": "Feature",
   "properties": {
+    "addr:full":"2608 Diamond Cir Birmingham AL 35216",
+    "addr:housenumber":"2608",
+    "addr:postcode":"35216",
+    "addr:street":"Diamond Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.798607,33.384802,-86.798607,33.384802",
     "geom:latitude":33.384802,
     "geom:longitude":-86.798607,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"d1f12f9e6ce4404e1ade48aeabaec40c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152130291,
-    "wof:lastmodified":1466314988,
+    "wof:lastmodified":1491927131,
     "wof:name":"James R Coleman",
     "wof:parent_id":85858879,
     "wof:placetype":"venue",

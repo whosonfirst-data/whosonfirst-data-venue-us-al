@@ -2,9 +2,14 @@
   "id": 102456533,
   "type": "Feature",
   "properties": {
+    "addr:full":"3200 26th St N Birmingham AL 35207",
+    "addr:housenumber":"3200",
+    "addr:postcode":"35207",
+    "addr:street":"26Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.819032,33.554229,-86.819032,33.554229",
     "geom:latitude":33.554229,
     "geom:longitude":-86.819032,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"7f0a6bc0c2ae7ed7cbf9ac6986b97f01",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":102456533,
-    "wof:lastmodified":1466314899,
+    "wof:lastmodified":1491929439,
     "wof:name":"Etheridge Bros 1 Barbr Stylist",
     "wof:parent_id":85837367,
     "wof:placetype":"venue",

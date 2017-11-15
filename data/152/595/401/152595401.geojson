@@ -2,9 +2,14 @@
   "id": 152595401,
   "type": "Feature",
   "properties": {
+    "addr:full":"2409 Montevallo Rd Birmingham AL 35223",
+    "addr:housenumber":"2409",
+    "addr:postcode":"35223",
+    "addr:street":"Montevallo Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.772719,33.484358,-86.772719,33.484358",
     "geom:latitude":33.484358,
     "geom:longitude":-86.772719,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914807,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"15b21c14e157e724d95b31e1f936e0e5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914807,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152595401,
-    "wof:lastmodified":1466318812,
+    "wof:lastmodified":1491932285,
     "wof:name":"Suite Dreams Cod",
     "wof:parent_id":85854765,
     "wof:placetype":"venue",

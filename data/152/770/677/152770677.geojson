@@ -2,9 +2,14 @@
   "id": 152770677,
   "type": "Feature",
   "properties": {
+    "addr:full":"1660 Montgomery Hwy Birmingham AL 35216",
+    "addr:housenumber":"1660",
+    "addr:postcode":"35216",
+    "addr:street":"Montgomery Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.806466,33.391943,-86.806466,33.391943",
     "geom:latitude":33.391943,
     "geom:longitude":-86.806466,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"45dc093bcc3df9a6fd26cbc1803c1bfc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152770677,
-    "wof:lastmodified":1466319574,
+    "wof:lastmodified":1491902298,
     "wof:name":"Homegoods",
     "wof:parent_id":85842589,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 102619911,
   "type": "Feature",
   "properties": {
+    "addr:full":"2623 Ave C Birmingham AL 35218",
+    "addr:housenumber":"2623",
+    "addr:postcode":"35218",
+    "addr:street":"Ave C",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.903769,33.50812,-86.903769,33.50812",
     "geom:latitude":33.50812,
     "geom:longitude":-86.903769,
@@ -29,10 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
-        85848275
+        85818187
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,18 +48,19 @@
     "wof:geomhash":"7890f9db168d8d456c24364cdd09b0de",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
-            "neighbourhood_id":85848275,
+            "neighbourhood_id":85818187,
             "region_id":85688675,
             "venue_id":102619911
         }
     ],
     "wof:id":102619911,
-    "wof:lastmodified":1466317343,
+    "wof:lastmodified":1491887285,
     "wof:name":"New Life III",
-    "wof:parent_id":85848275,
+    "wof:parent_id":85818187,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

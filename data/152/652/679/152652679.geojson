@@ -2,9 +2,14 @@
   "id": 152652679,
   "type": "Feature",
   "properties": {
+    "addr:full":"540 37th St N Birmingham AL 35222",
+    "addr:housenumber":"540",
+    "addr:postcode":"35222",
+    "addr:street":"37Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.783142,33.530713,-86.783142,33.530713",
     "geom:latitude":33.530713,
     "geom:longitude":-86.783142,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -44,6 +50,7 @@
     "wof:geomhash":"253ad59d4faffe7f16e58e2acafbae3b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":152652679,
-    "wof:lastmodified":1466319125,
+    "wof:lastmodified":1491921720,
     "wof:name":"Hughes Supply Inc",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

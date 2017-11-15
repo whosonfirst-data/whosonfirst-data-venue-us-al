@@ -2,9 +2,14 @@
   "id": 152759927,
   "type": "Feature",
   "properties": {
+    "addr:full":"2117 University Blvd Birmingham AL 35233",
+    "addr:housenumber":"2117",
+    "addr:postcode":"35233",
+    "addr:street":"University Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.797146,33.505545,-86.797146,33.505545",
     "geom:latitude":33.505545,
     "geom:longitude":-86.797146,
@@ -30,11 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
-        85819533,
-        85876277
+        85876277,
+        85819533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,26 +50,28 @@
     "wof:geomhash":"cdbfa57a3734444934be9c641495bfcd",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102085481,
-            "locality_id":85914465,
-            "neighbourhood_id":85819533,
-            "region_id":85688675,
-            "venue_id":152759927
-        },
-        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
             "neighbourhood_id":85876277,
             "region_id":85688675,
             "venue_id":152759927
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85819533,
+            "region_id":85688675,
+            "venue_id":152759927
         }
     ],
     "wof:id":152759927,
-    "wof:lastmodified":1466319730,
+    "wof:lastmodified":1491914537,
     "wof:name":"Baptist Church Of The Covenant",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

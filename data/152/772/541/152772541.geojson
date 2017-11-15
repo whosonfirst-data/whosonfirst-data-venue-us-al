@@ -2,9 +2,14 @@
   "id": 152772541,
   "type": "Feature",
   "properties": {
+    "addr:full":"448 E Forest Dr Birmingham AL 35235",
+    "addr:housenumber":"448",
+    "addr:postcode":"35235",
+    "addr:street":"E Forest Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.653521,33.58967,-86.653521,33.58967",
     "geom:latitude":33.58967,
     "geom:longitude":-86.653521,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85913473,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"3aa262f730436243f4609367509e9409",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85913473,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152772541,
-    "wof:lastmodified":1466319713,
+    "wof:lastmodified":1491928875,
     "wof:name":"Granite Works",
     "wof:parent_id":85852855,
     "wof:placetype":"venue",

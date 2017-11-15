@@ -2,9 +2,14 @@
   "id": 152189769,
   "type": "Feature",
   "properties": {
+    "addr:full":"4528 Decatur Hwy Birmingham AL 35207",
+    "addr:housenumber":"4528",
+    "addr:postcode":"35207",
+    "addr:street":"Decatur Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.811732,33.570929,-86.811732,33.570929",
     "geom:latitude":33.570929,
     "geom:longitude":-86.811732,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"b93f6909601ee0601bc2b9e9c80bba22",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152189769,
-    "wof:lastmodified":1466315661,
+    "wof:lastmodified":1491929446,
     "wof:name":"Chas Smith Res Ofc",
     "wof:parent_id":85837367,
     "wof:placetype":"venue",

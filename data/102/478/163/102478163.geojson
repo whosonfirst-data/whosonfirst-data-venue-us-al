@@ -2,9 +2,14 @@
   "id": 102478163,
   "type": "Feature",
   "properties": {
+    "addr:full":"1301 Lawrence St Birmingham AL 35210",
+    "addr:housenumber":"1301",
+    "addr:postcode":"35210",
+    "addr:street":"Lawrence St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.716403,33.535503,-86.716403,33.535503",
     "geom:latitude":33.535503,
     "geom:longitude":-86.716403,
@@ -29,10 +34,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
-        85850695
+        85850695,
+        85914835,
+        85819529
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,18 +50,28 @@
     "wof:geomhash":"561879da4a6a8bcf9b66664c2cad22e2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
             "neighbourhood_id":85850695,
             "region_id":85688675,
             "venue_id":102478163
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914835,
+            "neighbourhood_id":85819529,
+            "region_id":85688675,
+            "venue_id":102478163
         }
     ],
     "wof:id":102478163,
-    "wof:lastmodified":1466314739,
+    "wof:lastmodified":1491905252,
     "wof:name":"J L Quick & Son",
-    "wof:parent_id":85850695,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

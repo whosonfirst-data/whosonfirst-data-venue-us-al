@@ -2,9 +2,14 @@
   "id": 152583307,
   "type": "Feature",
   "properties": {
+    "addr:full":"3909 44th St N Birmingham AL 35217",
+    "addr:housenumber":"3909",
+    "addr:postcode":"35217",
+    "addr:street":"44Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.770803,33.561722,-86.770803,33.561722",
     "geom:latitude":33.561722,
     "geom:longitude":-86.770803,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"80fd7c57f418194727e2fd543e3fbbd6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152583307,
-    "wof:lastmodified":1466318757,
+    "wof:lastmodified":1491930577,
     "wof:name":"Precise Slice Meats",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 152148151,
   "type": "Feature",
   "properties": {
+    "addr:full":"2002 Avenue E Birmingham AL 35218",
+    "addr:housenumber":"2002",
+    "addr:postcode":"35218",
+    "addr:street":"Avenue E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.897998,33.511919,-86.897998,33.511919",
     "geom:latitude":33.511919,
     "geom:longitude":-86.897998,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"e33563c55c7bb0c69f1926932a860f2e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152148151,
-    "wof:lastmodified":1466314429,
+    "wof:lastmodified":1491887299,
     "wof:name":"Emmanuel Temple Of Praise",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

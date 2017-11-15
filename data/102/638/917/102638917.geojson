@@ -2,9 +2,14 @@
   "id": 102638917,
   "type": "Feature",
   "properties": {
+    "addr:full":"3500 Grandview Pkwy Birmingham AL 35243",
+    "addr:housenumber":"3500",
+    "addr:postcode":"35243",
+    "addr:street":"Grandview Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.719349,33.435811,-86.719349,33.435811",
     "geom:latitude":33.435811,
     "geom:longitude":-86.719349,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"f30c2b77f2a6a5105bf2612ee6810d82",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":102638917,
-    "wof:lastmodified":1466317454,
+    "wof:lastmodified":1491897893,
     "wof:name":"Ralph & Kacoos Seafood Rest",
     "wof:parent_id":85856691,
     "wof:placetype":"venue",

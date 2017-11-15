@@ -2,9 +2,14 @@
   "id": 152539103,
   "type": "Feature",
   "properties": {
+    "addr:full":"4318 E Lake Blvd Birmingham AL 35217",
+    "addr:housenumber":"4318",
+    "addr:postcode":"35217",
+    "addr:street":"E Lake Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.771704,33.558381,-86.771704,33.558381",
     "geom:latitude":33.558381,
     "geom:longitude":-86.771704,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"c804c0625c2cdf51b302bd7cf28d3626",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152539103,
-    "wof:lastmodified":1466318527,
+    "wof:lastmodified":1491930571,
     "wof:name":"Everyday One Stop",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",

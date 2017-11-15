@@ -2,9 +2,14 @@
   "id": 152565599,
   "type": "Feature",
   "properties": {
+    "addr:full":"1715 11th Ave S Birmingham AL 35205",
+    "addr:housenumber":"1715",
+    "addr:postcode":"35205",
+    "addr:street":"11Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.799982,33.498773,-86.799982,33.498773",
     "geom:latitude":33.498773,
     "geom:longitude":-86.799982,
@@ -26,11 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
-        85819533,
-        85876277
+        85876277,
+        85819533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,26 +46,28 @@
     "wof:geomhash":"cff78d3d5627505ceaadfce7e5ce8066",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102085481,
-            "locality_id":85914465,
-            "neighbourhood_id":85819533,
-            "region_id":85688675,
-            "venue_id":152565599
-        },
-        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
             "neighbourhood_id":85876277,
             "region_id":85688675,
             "venue_id":152565599
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85819533,
+            "region_id":85688675,
+            "venue_id":152565599
         }
     ],
     "wof:id":152565599,
-    "wof:lastmodified":1466318669,
+    "wof:lastmodified":1491914549,
     "wof:name":"William M McDonald DMD",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

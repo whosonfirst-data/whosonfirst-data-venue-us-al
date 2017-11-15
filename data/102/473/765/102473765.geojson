@@ -2,14 +2,20 @@
   "id": 102473765,
   "type": "Feature",
   "properties": {
+    "addr:full":"452 Park Ave Birmingham AL 35226",
+    "addr:housenumber":"452",
+    "addr:postcode":"35226",
+    "addr:street":"Park Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.855427,33.403508,-86.855427,33.403508",
     "geom:latitude":33.403508,
     "geom:longitude":-86.855427,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"452 Park Ave",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,19 +35,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
         85828169
     ],
+    "wof:brand_id":1125159245,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5eWh5y0Y4hFySinoV8o6f3_33.403508_-86.855427@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"1b3d4e288f29dde15364fdf7d3bb7f5e",
+    "wof:geomhash":"a4fcc2216673f54441c83d5d769c0b3b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":102473765,
-    "wof:lastmodified":1466315418,
+    "wof:lastmodified":1510693875,
     "wof:name":"Family Life Ctr",
     "wof:parent_id":85828169,
     "wof:placetype":"venue",

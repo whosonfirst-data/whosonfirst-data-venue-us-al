@@ -2,9 +2,14 @@
   "id": 152220595,
   "type": "Feature",
   "properties": {
+    "addr:full":"1803 Ave H Birmingham AL 35218",
+    "addr:housenumber":"1803",
+    "addr:postcode":"35218",
+    "addr:street":"Ave H",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.893404,33.511821,-86.893404,33.511821",
     "geom:latitude":33.511821,
     "geom:longitude":-86.893404,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"e6845c02bc491fc8be08708ad1492253",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152220595,
-    "wof:lastmodified":1466316094,
+    "wof:lastmodified":1491887293,
     "wof:name":"Alcoholic Beverage Ctrl Bd Ala",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

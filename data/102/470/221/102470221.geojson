@@ -2,9 +2,14 @@
   "id": 102470221,
   "type": "Feature",
   "properties": {
+    "addr:full":"2821 29th Ave N Birmingham AL 35207",
+    "addr:housenumber":"2821",
+    "addr:postcode":"35207",
+    "addr:street":"29Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.813726,33.551924,-86.813726,33.551924",
     "geom:latitude":33.551924,
     "geom:longitude":-86.813726,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"ccdab39c255b1a07bf0b5a68cdb3172f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":102470221,
-    "wof:lastmodified":1466315215,
+    "wof:lastmodified":1491929451,
     "wof:name":"Warehouse",
     "wof:parent_id":85837367,
     "wof:placetype":"venue",

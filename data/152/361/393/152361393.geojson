@@ -2,9 +2,14 @@
   "id": 152361393,
   "type": "Feature",
   "properties": {
+    "addr:full":"504 22nd St S Irondale AL 35210",
+    "addr:housenumber":"504",
+    "addr:postcode":"35210",
+    "addr:street":"22Nd St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.701746,33.536237,-86.701746,33.536237",
     "geom:latitude":33.536237,
     "geom:longitude":-86.701746,
@@ -29,8 +34,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
-        85914465,
+        85914835,
         102085481,
         85819529
     ],
@@ -42,16 +48,17 @@
     "wof:geomhash":"319294eda46508a841471e259b512211",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
-            "locality_id":85914465,
+            "locality_id":85914835,
             "neighbourhood_id":85819529,
             "region_id":85688675,
             "venue_id":152361393
         }
     ],
     "wof:id":152361393,
-    "wof:lastmodified":1466317620,
+    "wof:lastmodified":1491905245,
     "wof:name":"H S Enterprises",
     "wof:parent_id":85819529,
     "wof:placetype":"venue",

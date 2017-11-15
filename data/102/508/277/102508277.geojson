@@ -2,9 +2,14 @@
   "id": 102508277,
   "type": "Feature",
   "properties": {
+    "addr:full":"2415 1st Ave S Birmingham AL 35210",
+    "addr:housenumber":"2415",
+    "addr:postcode":"35210",
+    "addr:street":"1St Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.701866,33.541329,-86.701866,33.541329",
     "geom:latitude":33.541329,
     "geom:longitude":-86.701866,
@@ -36,10 +41,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914835,
         102085481,
-        85851139
+        85819529
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,18 +55,19 @@
     "wof:geomhash":"a52c170cbc4b24b3163715b1ff54eb34",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914835,
-            "neighbourhood_id":85851139,
+            "neighbourhood_id":85819529,
             "region_id":85688675,
             "venue_id":102508277
         }
     ],
     "wof:id":102508277,
-    "wof:lastmodified":1466316579,
+    "wof:lastmodified":1491905250,
     "wof:name":"American Beauty Products",
-    "wof:parent_id":85851139,
+    "wof:parent_id":85819529,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

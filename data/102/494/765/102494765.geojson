@@ -2,9 +2,14 @@
   "id": 102494765,
   "type": "Feature",
   "properties": {
+    "addr:full":"4408 10th Ave N Birmingham AL 35212",
+    "addr:housenumber":"4408",
+    "addr:postcode":"35212",
+    "addr:street":"10Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.769488,33.542879,-86.769488,33.542879",
     "geom:latitude":33.542879,
     "geom:longitude":-86.769488,
@@ -26,9 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
+        85815977,
         85858829
     ],
     "wof:breaches":[],
@@ -39,6 +46,16 @@
     "wof:geomhash":"78310aa7740520bde372b753b39a8fa2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85815977,
+            "region_id":85688675,
+            "venue_id":102494765
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,9 +65,9 @@
         }
     ],
     "wof:id":102494765,
-    "wof:lastmodified":1466316348,
+    "wof:lastmodified":1491930574,
     "wof:name":"11th Ave Church God In Christ",
-    "wof:parent_id":85858829,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

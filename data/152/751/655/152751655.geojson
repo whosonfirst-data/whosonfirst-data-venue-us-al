@@ -2,9 +2,14 @@
   "id": 152751655,
   "type": "Feature",
   "properties": {
+    "addr:full":"2301 Finley Blvd Birmingham AL 35234",
+    "addr:housenumber":"2301",
+    "addr:postcode":"35234",
+    "addr:street":"Finley Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.818413,33.545054,-86.818413,33.545054",
     "geom:latitude":33.545054,
     "geom:longitude":-86.818413,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -44,6 +50,7 @@
     "wof:geomhash":"67ff298bbfb2335d210509419bf86852",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":152751655,
-    "wof:lastmodified":1466319580,
+    "wof:lastmodified":1491929447,
     "wof:name":"Mc Griff Tire Co Inc",
     "wof:parent_id":85837367,
     "wof:placetype":"venue",

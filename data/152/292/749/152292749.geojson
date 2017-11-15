@@ -2,9 +2,14 @@
   "id": 152292749,
   "type": "Feature",
   "properties": {
+    "addr:full":"2801 2nd Ave S Birmingham AL 35233",
+    "addr:housenumber":"2801",
+    "addr:postcode":"35233",
+    "addr:street":"2Nd Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.790916,33.516776,-86.790916,33.516776",
     "geom:latitude":33.516776,
     "geom:longitude":-86.790916,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"0db2b8131e0d1140f83b92fc30544405",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152292749,
-    "wof:lastmodified":1466316978,
+    "wof:lastmodified":1491921717,
     "wof:name":"Masonryarts Stone",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

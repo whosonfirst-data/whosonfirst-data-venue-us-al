@@ -2,9 +2,14 @@
   "id": 102478389,
   "type": "Feature",
   "properties": {
+    "addr:full":"750 Shades Mountain Plz Birmingham AL 35226",
+    "addr:housenumber":"750",
+    "addr:postcode":"35226",
+    "addr:street":"Shades Mountain Plz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.844348,33.41419,-86.844348,33.41419",
     "geom:latitude":33.41419,
     "geom:longitude":-86.844348,
@@ -27,9 +32,8 @@
     "wof:belongsto":[
         85688675,
         85633793,
-        85914475,
-        102085481,
-        85805457
+        85834275,
+        102085481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +45,15 @@
         {
             "country_id":85633793,
             "county_id":102085481,
-            "locality_id":85914475,
-            "neighbourhood_id":85805457,
+            "neighbourhood_id":85834275,
             "region_id":85688675,
             "venue_id":102478389
         }
     ],
     "wof:id":102478389,
-    "wof:lastmodified":1466314786,
+    "wof:lastmodified":1491895358,
     "wof:name":"Imprintables Inc",
-    "wof:parent_id":85805457,
+    "wof:parent_id":85834275,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

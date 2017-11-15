@@ -2,9 +2,14 @@
   "id": 102477845,
   "type": "Feature",
   "properties": {
+    "addr:full":"2724 Cahaba Rd Birmingham AL 35223",
+    "addr:housenumber":"2724",
+    "addr:postcode":"35223",
+    "addr:street":"Cahaba Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.773654,33.48366,-86.773654,33.48366",
     "geom:latitude":33.48366,
     "geom:longitude":-86.773654,
@@ -26,10 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
-        85914465,
+        85914807,
         102085481,
-        85876275
+        85854765
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +45,19 @@
     "wof:geomhash":"b7423bc78f289cf840222f36fb5f3700",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
-            "locality_id":85914465,
-            "neighbourhood_id":85876275,
+            "locality_id":85914807,
+            "neighbourhood_id":85854765,
             "region_id":85688675,
             "venue_id":102477845
         }
     ],
     "wof:id":102477845,
-    "wof:lastmodified":1466314674,
+    "wof:lastmodified":1491932278,
     "wof:name":"Eve's Leaves",
-    "wof:parent_id":85876275,
+    "wof:parent_id":85854765,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

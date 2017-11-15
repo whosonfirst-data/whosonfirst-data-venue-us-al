@@ -2,9 +2,14 @@
   "id": 152485505,
   "type": "Feature",
   "properties": {
+    "addr:full":"2905 27th St N Birmingham AL 35207",
+    "addr:housenumber":"2905",
+    "addr:postcode":"35207",
+    "addr:street":"27Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.816215,33.551689,-86.816215,33.551689",
     "geom:latitude":33.551689,
     "geom:longitude":-86.816215,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"4b1ff43b43467b3dd77882d7e2fe35b6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152485505,
-    "wof:lastmodified":1466318258,
+    "wof:lastmodified":1491929443,
     "wof:name":"Lens Sandwich Shop",
     "wof:parent_id":85837367,
     "wof:placetype":"venue",

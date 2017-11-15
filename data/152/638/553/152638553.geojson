@@ -2,9 +2,14 @@
   "id": 152638553,
   "type": "Feature",
   "properties": {
+    "addr:full":"3937 12th Ave N Birmingham AL 35234",
+    "addr:housenumber":"3937",
+    "addr:postcode":"35234",
+    "addr:street":"12Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.780605,33.543002,-86.780605,33.543002",
     "geom:latitude":33.543002,
     "geom:longitude":-86.780605,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"a317f38d07448afa38c0b28f17b09062",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152638553,
-    "wof:lastmodified":1466319067,
+    "wof:lastmodified":1491930567,
     "wof:name":"African Methodist Episcopal",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 152287907,
   "type": "Feature",
   "properties": {
+    "addr:full":"2017 2nd Ave S Birmingham AL 35233",
+    "addr:housenumber":"2017",
+    "addr:postcode":"35233",
+    "addr:street":"2Nd Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.802038,33.511372,-86.802038,33.511372",
     "geom:latitude":33.511372,
     "geom:longitude":-86.802038,
@@ -26,11 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
-        85819533,
-        85876269
+        85876269,
+        85819533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,26 +46,28 @@
     "wof:geomhash":"3155de503409df5f15a1737d74b2988f",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102085481,
-            "locality_id":85914465,
-            "neighbourhood_id":85819533,
-            "region_id":85688675,
-            "venue_id":152287907
-        },
-        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
             "neighbourhood_id":85876269,
             "region_id":85688675,
             "venue_id":152287907
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85819533,
+            "region_id":85688675,
+            "venue_id":152287907
         }
     ],
     "wof:id":152287907,
-    "wof:lastmodified":1466317173,
+    "wof:lastmodified":1491914568,
     "wof:name":"Jerry Miclic Bham Spring",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

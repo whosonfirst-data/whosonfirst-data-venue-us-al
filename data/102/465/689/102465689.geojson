@@ -2,9 +2,14 @@
   "id": 102465689,
   "type": "Feature",
   "properties": {
+    "addr:full":"1860 Bessemer Rd Birmingham AL 35208",
+    "addr:housenumber":"1860",
+    "addr:postcode":"35208",
+    "addr:street":"Bessemer Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.88465,33.490966,-86.88465,33.490966",
     "geom:latitude":33.490966,
     "geom:longitude":-86.88465,
@@ -29,10 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
-        85832747
+        85818187
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,18 +48,19 @@
     "wof:geomhash":"5687803ae5f5754d504d05dcf1957389",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
-            "neighbourhood_id":85832747,
+            "neighbourhood_id":85818187,
             "region_id":85688675,
             "venue_id":102465689
         }
     ],
     "wof:id":102465689,
-    "wof:lastmodified":1466315143,
+    "wof:lastmodified":1491887282,
     "wof:name":"Jazzy's Hair Style",
-    "wof:parent_id":85832747,
+    "wof:parent_id":85818187,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

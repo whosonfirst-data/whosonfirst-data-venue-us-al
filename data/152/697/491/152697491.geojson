@@ -2,9 +2,14 @@
   "id": 152697491,
   "type": "Feature",
   "properties": {
+    "addr:full":"2436 Hawksbury Ln Birmingham AL 35226",
+    "addr:housenumber":"2436",
+    "addr:postcode":"35226",
+    "addr:street":"Hawksbury Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.840294,33.404093,-86.840294,33.404093",
     "geom:latitude":33.404093,
     "geom:longitude":-86.840294,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"53cbddb22babe0177ce160c5e759c5f5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152697491,
-    "wof:lastmodified":1466319336,
+    "wof:lastmodified":1491898827,
     "wof:name":"Hawaiian Julep",
     "wof:parent_id":85828169,
     "wof:placetype":"venue",

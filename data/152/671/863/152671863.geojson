@@ -2,9 +2,14 @@
   "id": 152671863,
   "type": "Feature",
   "properties": {
+    "addr:full":"1817 Patton Chapel Rd Birmingham AL 35226",
+    "addr:housenumber":"1817",
+    "addr:postcode":"35226",
+    "addr:street":"Patton Chapel Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.816099,33.389428,-86.816099,33.389428",
     "geom:latitude":33.389428,
     "geom:longitude":-86.816099,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"d7e176b9d3f5a0adf03d0f3bae66306e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152671863,
-    "wof:lastmodified":1466319219,
+    "wof:lastmodified":1491902299,
     "wof:name":"Oakmont Presbyterian Church",
     "wof:parent_id":85842589,
     "wof:placetype":"venue",

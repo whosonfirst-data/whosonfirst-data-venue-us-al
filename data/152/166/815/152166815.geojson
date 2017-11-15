@@ -2,9 +2,14 @@
   "id": 152166815,
   "type": "Feature",
   "properties": {
+    "addr:full":"224 29th St S Birmingham AL 35233",
+    "addr:housenumber":"224",
+    "addr:postcode":"35233",
+    "addr:street":"29Th St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.790801,33.516505,-86.790801,33.516505",
     "geom:latitude":33.516505,
     "geom:longitude":-86.790801,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"e1b10c5b9841a3c605ca0c3f5c4d7a3a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152166815,
-    "wof:lastmodified":1466315609,
+    "wof:lastmodified":1491921707,
     "wof:name":"Modern Classics Inc",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

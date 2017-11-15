@@ -2,14 +2,20 @@
   "id": 152428323,
   "type": "Feature",
   "properties": {
+    "addr:full":"3663 Lorna Rd Birmingham AL 35216",
+    "addr:housenumber":"3663",
+    "addr:postcode":"35216",
+    "addr:street":"Lorna Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.801174,33.378721,-86.801174,33.378721",
     "geom:latitude":33.378721,
     "geom:longitude":-86.801174,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3663 Lorna Rd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -26,19 +32,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
         85858879
     ],
+    "wof:brand_id":1125152453,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3KuO4EtwN2d31Jxx3OGeZm_33.378721_-86.801174@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"e83deaf202ac900cb00ece2f7f73da0b",
+    "wof:geomhash":"d911556f0dc15113ec131037a1abd59a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":152428323,
-    "wof:lastmodified":1466317960,
+    "wof:lastmodified":1510695963,
     "wof:name":"Calico Corners",
     "wof:parent_id":85858879,
     "wof:placetype":"venue",

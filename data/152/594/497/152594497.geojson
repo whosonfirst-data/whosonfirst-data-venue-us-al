@@ -2,9 +2,14 @@
   "id": 152594497,
   "type": "Feature",
   "properties": {
+    "addr:full":"2205 Bessemer Rd Birmingham AL 35208",
+    "addr:housenumber":"2205",
+    "addr:postcode":"35208",
+    "addr:street":"Bessemer Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.876803,33.496684,-86.876803,33.496684",
     "geom:latitude":33.496684,
     "geom:longitude":-86.876803,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"eba6f9288d043d864a215e219fc9ce52",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152594497,
-    "wof:lastmodified":1466318818,
+    "wof:lastmodified":1491887278,
     "wof:name":"Rainbow Apparel",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

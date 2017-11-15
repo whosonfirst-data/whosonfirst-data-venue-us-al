@@ -2,9 +2,14 @@
   "id": 152430187,
   "type": "Feature",
   "properties": {
+    "addr:full":"3001 2nd Ave S Birmingham AL 35233",
+    "addr:housenumber":"3001",
+    "addr:postcode":"35233",
+    "addr:street":"2Nd Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.78817,33.518088,-86.78817,33.518088",
     "geom:latitude":33.518088,
     "geom:longitude":-86.78817,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"f64c6c0d08739a8d7e484ea8a1944a3b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152430187,
-    "wof:lastmodified":1466317991,
+    "wof:lastmodified":1491921692,
     "wof:name":"Alta Tax Inc",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

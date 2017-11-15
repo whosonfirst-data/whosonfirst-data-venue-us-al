@@ -2,9 +2,14 @@
   "id": 102445463,
   "type": "Feature",
   "properties": {
+    "addr:full":"4221 50th Ave N Birmingham AL 35217",
+    "addr:housenumber":"4221",
+    "addr:postcode":"35217",
+    "addr:street":"50Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.774761,33.572414,-86.774761,33.572414",
     "geom:latitude":33.572414,
     "geom:longitude":-86.774761,
@@ -29,10 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85914465,
-        85633793,
         85688675,
-        102085481
+        102191575,
+        85633793,
+        85914785,
+        102085481,
+        420510399,
+        85914465,
+        85815977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +51,28 @@
     "wof:geomhash":"4cd40a4272fae145e16dc6071e0df361",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914785,
+            "neighbourhood_id":420510399,
+            "region_id":85688675,
+            "venue_id":102445463
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
+            "neighbourhood_id":85815977,
             "region_id":85688675,
             "venue_id":102445463
         }
     ],
     "wof:id":102445463,
-    "wof:lastmodified":1466314409,
+    "wof:lastmodified":1491930578,
     "wof:name":"Tara Mia Instalation",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

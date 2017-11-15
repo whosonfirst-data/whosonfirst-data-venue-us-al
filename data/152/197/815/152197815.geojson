@@ -2,9 +2,14 @@
   "id": 152197815,
   "type": "Feature",
   "properties": {
+    "addr:full":"1001 17th St S Birmingham AL 35205",
+    "addr:housenumber":"1001",
+    "addr:postcode":"35205",
+    "addr:street":"17Th St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.801166,33.499519,-86.801166,33.499519",
     "geom:latitude":33.499519,
     "geom:longitude":-86.801166,
@@ -30,11 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
-        85819533,
-        85876277
+        85876277,
+        85819533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,26 +50,28 @@
     "wof:geomhash":"6312a034802c36d5b9f8deb51171f7f4",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102085481,
-            "locality_id":85914465,
-            "neighbourhood_id":85819533,
-            "region_id":85688675,
-            "venue_id":152197815
-        },
-        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
             "neighbourhood_id":85876277,
             "region_id":85688675,
             "venue_id":152197815
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85819533,
+            "region_id":85688675,
+            "venue_id":152197815
         }
     ],
     "wof:id":152197815,
-    "wof:lastmodified":1466315954,
+    "wof:lastmodified":1491914539,
     "wof:name":"New Woman All Women Hlth Care",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

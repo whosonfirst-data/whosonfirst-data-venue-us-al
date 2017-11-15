@@ -2,9 +2,14 @@
   "id": 102627601,
   "type": "Feature",
   "properties": {
+    "addr:full":"2433 Carraway Blvd Birmingham AL 35234",
+    "addr:housenumber":"2433",
+    "addr:postcode":"35234",
+    "addr:street":"Carraway Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.814913,33.544455,-86.814913,33.544455",
     "geom:latitude":33.544455,
     "geom:longitude":-86.814913,
@@ -30,10 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
-        85838531
+        85837367
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +49,19 @@
     "wof:geomhash":"0e2ab453bd01f78eeedb042c331a02b3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
-            "neighbourhood_id":85838531,
+            "neighbourhood_id":85837367,
             "region_id":85688675,
             "venue_id":102627601
         }
     ],
     "wof:id":102627601,
-    "wof:lastmodified":1466317472,
+    "wof:lastmodified":1491929440,
     "wof:name":"K M Pickup & Delivery Svc",
-    "wof:parent_id":85838531,
+    "wof:parent_id":85837367,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

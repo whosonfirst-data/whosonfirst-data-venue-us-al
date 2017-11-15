@@ -2,9 +2,14 @@
   "id": 152836939,
   "type": "Feature",
   "properties": {
+    "addr:full":"2901 Lomb Ave Birmingham AL 35208",
+    "addr:housenumber":"2901",
+    "addr:postcode":"35208",
+    "addr:street":"Lomb Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.867715,33.500412,-86.867715,33.500412",
     "geom:latitude":33.500412,
     "geom:longitude":-86.867715,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -43,6 +49,7 @@
     "wof:geomhash":"78351fdb9dc4ac66e0fa49358f37d2ee",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":152836939,
-    "wof:lastmodified":1466320057,
+    "wof:lastmodified":1491887284,
     "wof:name":"Liquid Ring Svc & Repair",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

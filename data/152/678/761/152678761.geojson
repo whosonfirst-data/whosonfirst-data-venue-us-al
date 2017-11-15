@@ -2,9 +2,14 @@
   "id": 152678761,
   "type": "Feature",
   "properties": {
+    "addr:full":"2614 31st Ave N Birmingham AL 35207",
+    "addr:housenumber":"2614",
+    "addr:postcode":"35207",
+    "addr:street":"31St Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.817118,33.553192,-86.817118,33.553192",
     "geom:latitude":33.553192,
     "geom:longitude":-86.817118,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"d591d0d1d838aaa97f7949957f3ee0b7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152678761,
-    "wof:lastmodified":1466319269,
+    "wof:lastmodified":1491929452,
     "wof:name":"Shoe Show 778",
     "wof:parent_id":85837367,
     "wof:placetype":"venue",

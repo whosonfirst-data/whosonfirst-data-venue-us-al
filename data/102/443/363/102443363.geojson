@@ -2,14 +2,20 @@
   "id": 102443363,
   "type": "Feature",
   "properties": {
+    "addr:full":"2315 26th Ave N Birmingham AL 35234",
+    "addr:housenumber":"2315",
+    "addr:postcode":"35234",
+    "addr:street":"26Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.819226,33.546511,-86.819226,33.546511",
     "geom:latitude":33.546511,
     "geom:longitude":-86.819226,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2315 26th Ave N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -26,19 +32,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
         85837367
     ],
+    "wof:brand_id":1125156255,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7W2ttQRtUbXPBh9dICqlHP_33.546511_-86.819226@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"b0b4ce22c1e1067e91303e9b52b152fc",
+    "wof:geomhash":"7c775e8ff3b83c11018b5c132b1f931c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":102443363,
-    "wof:lastmodified":1466314383,
+    "wof:lastmodified":1510696913,
     "wof:name":"Hopewell Baptist Church",
     "wof:parent_id":85837367,
     "wof:placetype":"venue",

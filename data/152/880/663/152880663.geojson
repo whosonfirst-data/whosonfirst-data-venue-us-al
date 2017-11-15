@@ -2,9 +2,14 @@
   "id": 152880663,
   "type": "Feature",
   "properties": {
+    "addr:full":"4725 40th Pl N Birmingham AL 35217",
+    "addr:housenumber":"4725",
+    "addr:postcode":"35217",
+    "addr:street":"40Th Pl N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.778233,33.570542,-86.778233,33.570542",
     "geom:latitude":33.570542,
     "geom:longitude":-86.778233,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"145a85e31cfadc5554edbc8497fcc7fe",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152880663,
-    "wof:lastmodified":1466320387,
+    "wof:lastmodified":1491930571,
     "wof:name":"Church Without Walls",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",

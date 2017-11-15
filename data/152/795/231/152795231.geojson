@@ -2,9 +2,14 @@
   "id": 152795231,
   "type": "Feature",
   "properties": {
+    "addr:full":"2009 2nd Ave S Birmingham AL 35210",
+    "addr:housenumber":"2009",
+    "addr:postcode":"35210",
+    "addr:street":"2Nd Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.705206,33.538129,-86.705206,33.538129",
     "geom:latitude":33.538129,
     "geom:longitude":-86.705206,
@@ -26,8 +31,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
-        85914465,
+        85914835,
         102085481,
         85819529
     ],
@@ -39,16 +45,17 @@
     "wof:geomhash":"84550ddba6987c707ddbf7311ae617d6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
-            "locality_id":85914465,
+            "locality_id":85914835,
             "neighbourhood_id":85819529,
             "region_id":85688675,
             "venue_id":152795231
         }
     ],
     "wof:id":152795231,
-    "wof:lastmodified":1466319819,
+    "wof:lastmodified":1491905250,
     "wof:name":"Upper Room Baptist Church",
     "wof:parent_id":85819529,
     "wof:placetype":"venue",

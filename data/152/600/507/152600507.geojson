@@ -2,9 +2,14 @@
   "id": 152600507,
   "type": "Feature",
   "properties": {
+    "addr:full":"3330 Messer Airport Hwy Birmingham AL 35222",
+    "addr:housenumber":"",
+    "addr:postcode":"3330;35222",
+    "addr:street":"Messer Airport Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.788393,33.527318,-86.788393,33.527318",
     "geom:latitude":33.527318,
     "geom:longitude":-86.788393,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"ca592898c36f8c393258069b031ea4e9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152600507,
-    "wof:lastmodified":1466318850,
+    "wof:lastmodified":1491885652,
     "wof:name":"Isuzu Trucks of Birmingham",
     "wof:parent_id":85838531,
     "wof:placetype":"venue",

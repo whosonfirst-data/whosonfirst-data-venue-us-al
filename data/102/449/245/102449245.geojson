@@ -2,9 +2,14 @@
   "id": 102449245,
   "type": "Feature",
   "properties": {
+    "addr:full":"1731 30th St Birmingham AL 35208",
+    "addr:housenumber":"1731",
+    "addr:postcode":"35208",
+    "addr:street":"30Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.885781,33.499239,-86.885781,33.499239",
     "geom:latitude":33.499239,
     "geom:longitude":-86.885781,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"c3c9cc19651ae75e9188d02dc4f5875d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":102449245,
-    "wof:lastmodified":1466314559,
+    "wof:lastmodified":1491887276,
     "wof:name":"AG Transport",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

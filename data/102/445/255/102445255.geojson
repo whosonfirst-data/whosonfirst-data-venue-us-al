@@ -2,9 +2,14 @@
   "id": 102445255,
   "type": "Feature",
   "properties": {
+    "addr:full":"2700 31st St Birmingham AL 35208",
+    "addr:housenumber":"2700",
+    "addr:postcode":"35208",
+    "addr:street":"31St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.870932,33.501652,-86.870932,33.501652",
     "geom:latitude":33.501652,
     "geom:longitude":-86.870932,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"18540329d3a019ab15cd42afc05f8d46",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":102445255,
-    "wof:lastmodified":1466314366,
+    "wof:lastmodified":1491887276,
     "wof:name":"Fairview United Methodist C",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

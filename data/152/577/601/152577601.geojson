@@ -2,9 +2,14 @@
   "id": 152577601,
   "type": "Feature",
   "properties": {
+    "addr:full":"2832 Culver Rd Birmingham AL 35223",
+    "addr:housenumber":"2832",
+    "addr:postcode":"35223",
+    "addr:street":"Culver Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.771937,33.483563,-86.771937,33.483563",
     "geom:latitude":33.483563,
     "geom:longitude":-86.771937,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914807,
         102085481,
@@ -40,6 +46,7 @@
     "wof:geomhash":"78731bcce931cbe602a7a9b604f882bd",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914807,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":152577601,
-    "wof:lastmodified":1466318982,
+    "wof:lastmodified":1491932284,
     "wof:name":"Coldwell Banker",
     "wof:parent_id":85854765,
     "wof:placetype":"venue",

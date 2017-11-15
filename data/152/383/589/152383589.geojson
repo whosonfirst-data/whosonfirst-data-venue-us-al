@@ -2,9 +2,14 @@
   "id": 152383589,
   "type": "Feature",
   "properties": {
+    "addr:full":"2004 1st Ave N Birmingham AL 35210",
+    "addr:housenumber":"2004",
+    "addr:postcode":"35210",
+    "addr:street":"1St Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.706546,33.539729,-86.706546,33.539729",
     "geom:latitude":33.539729,
     "geom:longitude":-86.706546,
@@ -30,8 +35,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
-        85914465,
+        85914835,
         102085481,
         85819529
     ],
@@ -43,16 +49,17 @@
     "wof:geomhash":"1363f79fdfb190e9589ae4daab8c5343",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
-            "locality_id":85914465,
+            "locality_id":85914835,
             "neighbourhood_id":85819529,
             "region_id":85688675,
             "venue_id":152383589
         }
     ],
     "wof:id":152383589,
-    "wof:lastmodified":1466317807,
+    "wof:lastmodified":1491905253,
     "wof:name":"Drain Tek",
     "wof:parent_id":85819529,
     "wof:placetype":"venue",

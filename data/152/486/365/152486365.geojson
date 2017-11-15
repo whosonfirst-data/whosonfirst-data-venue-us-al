@@ -2,9 +2,14 @@
   "id": 152486365,
   "type": "Feature",
   "properties": {
+    "addr:full":"719 19th St Birmingham AL 35218",
+    "addr:housenumber":"719",
+    "addr:postcode":"35218",
+    "addr:street":"19Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.8945,33.511725,-86.8945,33.511725",
     "geom:latitude":33.511725,
     "geom:longitude":-86.8945,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"fae350d03e2a7a5399d058f899897b82",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152486365,
-    "wof:lastmodified":1466318251,
+    "wof:lastmodified":1491887299,
     "wof:name":"Glitter N Gold Hair Salon",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

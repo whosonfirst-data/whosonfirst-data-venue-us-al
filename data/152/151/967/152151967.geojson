@@ -2,14 +2,20 @@
   "id": 152151967,
   "type": "Feature",
   "properties": {
+    "addr:full":"2100 Riverhaven Dr Birmingham AL 35244",
+    "addr:housenumber":"2100",
+    "addr:postcode":"35244",
+    "addr:street":"Riverhaven Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.793453,33.375503,-86.793453,33.375503",
     "geom:latitude":33.375503,
     "geom:longitude":-86.793453,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2100 Riverhaven Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,19 +35,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
         85858879
     ],
+    "wof:brand_id":1125153077,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6yxPVQsKlRTP4wWZGBOdyK_33.375503_-86.793453@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"d12eb77f717fed0a12f98f68947d0e1d",
+    "wof:geomhash":"51064c41fff98731d47849a534641269",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":152151967,
-    "wof:lastmodified":1466314643,
+    "wof:lastmodified":1510613330,
     "wof:name":"Beverly Healthcare",
     "wof:parent_id":85858879,
     "wof:placetype":"venue",

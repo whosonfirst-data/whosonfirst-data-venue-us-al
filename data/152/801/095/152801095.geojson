@@ -2,9 +2,14 @@
   "id": 152801095,
   "type": "Feature",
   "properties": {
+    "addr:full":"514 19th St Birmingham AL 35218",
+    "addr:housenumber":"514",
+    "addr:postcode":"35218",
+    "addr:street":"19Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.896427,33.512956,-86.896427,33.512956",
     "geom:latitude":33.512956,
     "geom:longitude":-86.896427,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"606092685c0c5396671c51d332a56164",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152801095,
-    "wof:lastmodified":1466319795,
+    "wof:lastmodified":1491887269,
     "wof:name":"Volcano Enterprises",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

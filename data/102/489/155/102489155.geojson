@@ -2,9 +2,14 @@
   "id": 102489155,
   "type": "Feature",
   "properties": {
+    "addr:full":"106 22nd St S Birmingham AL 35210",
+    "addr:housenumber":"106",
+    "addr:postcode":"35210",
+    "addr:street":"22Nd St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.704409,33.539361,-86.704409,33.539361",
     "geom:latitude":33.539361,
     "geom:longitude":-86.704409,
@@ -29,8 +34,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
-        85914465,
+        85914835,
         102085481,
         85819529
     ],
@@ -42,16 +48,17 @@
     "wof:geomhash":"97afd7d8f5a6399afe5899cf1afe65bf",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
-            "locality_id":85914465,
+            "locality_id":85914835,
             "neighbourhood_id":85819529,
             "region_id":85688675,
             "venue_id":102489155
         }
     ],
     "wof:id":102489155,
-    "wof:lastmodified":1466315905,
+    "wof:lastmodified":1491905245,
     "wof:name":"Irondale Body Shop",
     "wof:parent_id":85819529,
     "wof:placetype":"venue",

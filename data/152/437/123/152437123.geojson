@@ -2,9 +2,14 @@
   "id": 152437123,
   "type": "Feature",
   "properties": {
+    "addr:full":"4410 4th Ave S Birmingham AL 35222",
+    "addr:housenumber":"4410",
+    "addr:postcode":"35222",
+    "addr:street":"4Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.766197,33.526374,-86.766197,33.526374",
     "geom:latitude":33.526374,
     "geom:longitude":-86.766197,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -43,6 +49,7 @@
     "wof:geomhash":"c57a6505f389ca731d6649f873b8f7c7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":152437123,
-    "wof:lastmodified":1466317838,
+    "wof:lastmodified":1491930585,
     "wof:name":"Imperial Hair & Beauty Supply",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",

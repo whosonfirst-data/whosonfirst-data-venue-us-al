@@ -2,9 +2,14 @@
   "id": 102498719,
   "type": "Feature",
   "properties": {
+    "addr:full":"619 19th St SW Birmingham AL 35211",
+    "addr:housenumber":"619",
+    "addr:postcode":"35211",
+    "addr:street":"19Th St Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.86915,33.483528,-86.86915,33.483528",
     "geom:latitude":33.483528,
     "geom:longitude":-86.86915,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"c7d5b85fe8ce3e76d9d8412500430c34",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":102498719,
-    "wof:lastmodified":1466316442,
+    "wof:lastmodified":1491887261,
     "wof:name":"Heart Station",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

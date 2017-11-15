@@ -2,9 +2,14 @@
   "id": 102456463,
   "type": "Feature",
   "properties": {
+    "addr:full":"3008 27th St N Birmingham AL 35207",
+    "addr:housenumber":"3008",
+    "addr:postcode":"35207",
+    "addr:street":"27Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.81696,33.553078,-86.81696,33.553078",
     "geom:latitude":33.553078,
     "geom:longitude":-86.81696,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -44,6 +50,7 @@
     "wof:geomhash":"df090c332c85df875b07fa53e409f92d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":102456463,
-    "wof:lastmodified":1466314885,
+    "wof:lastmodified":1491929442,
     "wof:name":"York Pharmacy",
     "wof:parent_id":85837367,
     "wof:placetype":"venue",

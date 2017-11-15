@@ -2,9 +2,14 @@
   "id": 152717465,
   "type": "Feature",
   "properties": {
+    "addr:full":"1817 Crestwood Blvd Birmingham AL 35210",
+    "addr:housenumber":"1817",
+    "addr:postcode":"35210",
+    "addr:street":"Crestwood Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.703132,33.533229,-86.703132,33.533229",
     "geom:latitude":33.533229,
     "geom:longitude":-86.703132,
@@ -30,8 +35,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
-        85914465,
+        85914835,
         102085481,
         85819529
     ],
@@ -43,16 +49,17 @@
     "wof:geomhash":"6ed1824540ab5f23afaae5288ff946a0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
-            "locality_id":85914465,
+            "locality_id":85914835,
             "neighbourhood_id":85819529,
             "region_id":85688675,
             "venue_id":152717465
         }
     ],
     "wof:id":152717465,
-    "wof:lastmodified":1466319412,
+    "wof:lastmodified":1491905249,
     "wof:name":"Airworks",
     "wof:parent_id":85819529,
     "wof:placetype":"venue",

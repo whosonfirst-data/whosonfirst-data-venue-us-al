@@ -2,9 +2,14 @@
   "id": 102505295,
   "type": "Feature",
   "properties": {
+    "addr:full":"3401 Messer Airport Hwy Birmingham AL 35222",
+    "addr:housenumber":"3401",
+    "addr:postcode":"35222",
+    "addr:street":"Messer Airport Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.786558,33.527946,-86.786558,33.527946",
     "geom:latitude":33.527946,
     "geom:longitude":-86.786558,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"acb1e425a6ec0526fd65706da5f877ce",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":102505295,
-    "wof:lastmodified":1466316582,
+    "wof:lastmodified":1491921752,
     "wof:name":"Ace Window Cleaners",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

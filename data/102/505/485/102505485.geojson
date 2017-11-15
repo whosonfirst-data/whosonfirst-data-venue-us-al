@@ -2,14 +2,20 @@
   "id": 102505485,
   "type": "Feature",
   "properties": {
+    "addr:full":"2000 Riverchase Galleria Birmingham AL 35244",
+    "addr:housenumber":"2000",
+    "addr:postcode":"35244",
+    "addr:street":"Riverchase Galleria",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.810181,33.376836,-86.810181,33.376836",
     "geom:latitude":33.376836,
     "geom:longitude":-86.810181,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2000 Riverchase Galleria",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -26,19 +32,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
         85858879
     ],
+    "wof:brand_id":1125152227,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3t8PYaRHCx2k6C2uGr1LTq_33.376836_-86.810181@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"c0ffa2cbfe9d84aee557f9ffaa57889c",
+    "wof:geomhash":"a033704037028995ae34da30b3e84e9f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":102505485,
-    "wof:lastmodified":1466316753,
+    "wof:lastmodified":1510699276,
     "wof:name":"Petite Sophisticate",
     "wof:parent_id":85858879,
     "wof:placetype":"venue",

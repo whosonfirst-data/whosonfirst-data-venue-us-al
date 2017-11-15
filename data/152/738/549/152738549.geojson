@@ -2,9 +2,14 @@
   "id": 152738549,
   "type": "Feature",
   "properties": {
+    "addr:full":"3100 Garrison Ave SW Birmingham AL 35211",
+    "addr:housenumber":"3100",
+    "addr:postcode":"35211",
+    "addr:street":"Garrison Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.882629,33.477933,-86.882629,33.477933",
     "geom:latitude":33.477933,
     "geom:longitude":-86.882629,
@@ -25,10 +30,13 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85914465,
-        85633793,
         85688675,
-        102085481
+        102191575,
+        85633793,
+        85914465,
+        102085481,
+        85832747,
+        85818187
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +46,28 @@
     "wof:geomhash":"3905b260f8e2c4765eea5ffe019d9d3b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
+            "neighbourhood_id":85832747,
+            "region_id":85688675,
+            "venue_id":152738549
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85818187,
             "region_id":85688675,
             "venue_id":152738549
         }
     ],
     "wof:id":152738549,
-    "wof:lastmodified":1466319523,
+    "wof:lastmodified":1491887286,
     "wof:name":"A C Poole Rev",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

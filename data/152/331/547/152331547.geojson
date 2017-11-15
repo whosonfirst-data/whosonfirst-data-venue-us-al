@@ -2,9 +2,14 @@
   "id": 152331547,
   "type": "Feature",
   "properties": {
+    "addr:full":"2219 24th St N Birmingham AL 35234",
+    "addr:housenumber":"2219",
+    "addr:postcode":"35234",
+    "addr:street":"24Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.816823,33.541856,-86.816823,33.541856",
     "geom:latitude":33.541856,
     "geom:longitude":-86.816823,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"6c067ffe6b64fb4c4a858d7e6bb687da",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152331547,
-    "wof:lastmodified":1466317290,
+    "wof:lastmodified":1491929443,
     "wof:name":"Salamone Grocery",
     "wof:parent_id":85837367,
     "wof:placetype":"venue",

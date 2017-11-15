@@ -2,9 +2,14 @@
   "id": 152200477,
   "type": "Feature",
   "properties": {
+    "addr:full":"4320 E Lake Blvd Birmingham AL 35217",
+    "addr:housenumber":"4320",
+    "addr:postcode":"35217",
+    "addr:street":"E Lake Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.77173,33.558365,-86.77173,33.558365",
     "geom:latitude":33.558365,
     "geom:longitude":-86.77173,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -43,6 +49,7 @@
     "wof:geomhash":"aedb514ca9eaaa823e56217da3b8770e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":152200477,
-    "wof:lastmodified":1466315933,
+    "wof:lastmodified":1491930578,
     "wof:name":"Circle K Store",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",

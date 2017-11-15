@@ -2,9 +2,14 @@
   "id": 152469877,
   "type": "Feature",
   "properties": {
+    "addr:full":"2512 Ave T Birmingham AL 35218",
+    "addr:housenumber":"2512",
+    "addr:postcode":"35218",
+    "addr:street":"Ave T",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.881929,33.503635,-86.881929,33.503635",
     "geom:latitude":33.503635,
     "geom:longitude":-86.881929,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -43,6 +49,7 @@
     "wof:geomhash":"27be504b7e22d2d7c7bd4d4b4146cf03",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":152469877,
-    "wof:lastmodified":1466318285,
+    "wof:lastmodified":1491887276,
     "wof:name":"Christ Temple Deliverance",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

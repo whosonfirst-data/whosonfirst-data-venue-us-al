@@ -2,9 +2,14 @@
   "id": 102457021,
   "type": "Feature",
   "properties": {
+    "addr:full":"1625 2nd Ave S Birmingham AL 35233",
+    "addr:housenumber":"1625",
+    "addr:postcode":"35233",
+    "addr:street":"2Nd Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.807747,33.508643,-86.807747,33.508643",
     "geom:latitude":33.508643,
     "geom:longitude":-86.807747,
@@ -30,9 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
+        85876277,
         85819533
     ],
     "wof:breaches":[],
@@ -43,6 +50,16 @@
     "wof:geomhash":"c52c4f0cc502ab84890e2d11d8d0c33f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85876277,
+            "region_id":85688675,
+            "venue_id":102457021
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -52,9 +69,9 @@
         }
     ],
     "wof:id":102457021,
-    "wof:lastmodified":1466314807,
+    "wof:lastmodified":1491914550,
     "wof:name":"General Service Construction",
-    "wof:parent_id":85819533,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

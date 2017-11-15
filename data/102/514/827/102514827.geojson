@@ -2,9 +2,14 @@
   "id": 102514827,
   "type": "Feature",
   "properties": {
+    "addr:full":"4831 1st Ave N Birmingham AL 35222",
+    "addr:housenumber":"4831",
+    "addr:postcode":"35222",
+    "addr:street":"1St Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.762596,33.534937,-86.762596,33.534937",
     "geom:latitude":33.534937,
     "geom:longitude":-86.762596,
@@ -29,10 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
-        85858829
+        85815977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,18 +48,19 @@
     "wof:geomhash":"d4c96aeb12ed5392d93eac9082b1470e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
-            "neighbourhood_id":85858829,
+            "neighbourhood_id":85815977,
             "region_id":85688675,
             "venue_id":102514827
         }
     ],
     "wof:id":102514827,
-    "wof:lastmodified":1466317026,
+    "wof:lastmodified":1491930579,
     "wof:name":"Bennie Macs On 1st",
-    "wof:parent_id":85858829,
+    "wof:parent_id":85815977,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

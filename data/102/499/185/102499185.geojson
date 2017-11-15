@@ -2,9 +2,14 @@
   "id": 102499185,
   "type": "Feature",
   "properties": {
+    "addr:full":"700 Richard Arrington Jr Blvd S Birmingham AL 35205",
+    "addr:housenumber":"700",
+    "addr:postcode":"35205",
+    "addr:street":"Richard Arrington Jr Blvd S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.798082,33.505963,-86.798082,33.505963",
     "geom:latitude":33.505963,
     "geom:longitude":-86.798082,
@@ -30,9 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
+        85876277,
         85819533
     ],
     "wof:breaches":[],
@@ -43,6 +50,16 @@
     "wof:geomhash":"9b73b85f85f08131c8d5501cd0d1a0f1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85876277,
+            "region_id":85688675,
+            "venue_id":102499185
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -52,9 +69,9 @@
         }
     ],
     "wof:id":102499185,
-    "wof:lastmodified":1466316598,
+    "wof:lastmodified":1491914563,
     "wof:name":"Goodyear Auto Svc Ctr",
-    "wof:parent_id":85819533,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

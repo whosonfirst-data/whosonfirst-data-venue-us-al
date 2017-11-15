@@ -2,14 +2,20 @@
   "id": 152243759,
   "type": "Feature",
   "properties": {
+    "addr:full":"351 24th St N Birmingham AL 35203",
+    "addr:housenumber":"351",
+    "addr:postcode":"35203",
+    "addr:street":"24Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.802026,33.519824,-86.802026,33.519824",
     "geom:latitude":33.519824,
     "geom:longitude":-86.802026,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"351 24th St N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -26,19 +32,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
         85876269
     ],
+    "wof:brand_id":1125158259,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07xWWCOwgjgkiMT6sMk1EN_33.519824_-86.802026@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"fc8391f0bbdedd8b950487cf585d6a3f",
+    "wof:geomhash":"2e67135c6943dec442c3c3e14a6febd9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":152243759,
-    "wof:lastmodified":1466316465,
+    "wof:lastmodified":1510698668,
     "wof:name":"Computer Renaissance",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

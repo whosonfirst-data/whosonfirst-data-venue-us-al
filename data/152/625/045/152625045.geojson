@@ -2,9 +2,14 @@
   "id": 152625045,
   "type": "Feature",
   "properties": {
+    "addr:full":"2216 24th St N Birmingham AL 35234",
+    "addr:housenumber":"2216",
+    "addr:postcode":"35234",
+    "addr:street":"24Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.816895,33.541832,-86.816895,33.541832",
     "geom:latitude":33.541832,
     "geom:longitude":-86.816895,
@@ -25,10 +30,13 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85914465,
-        85633793,
         85688675,
-        102085481
+        102191575,
+        85633793,
+        85914465,
+        102085481,
+        85837367,
+        85876271
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +46,28 @@
     "wof:geomhash":"f2a60f4754ae4a9002becfe5f5d572e0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
+            "neighbourhood_id":85837367,
+            "region_id":85688675,
+            "venue_id":152625045
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85876271,
             "region_id":85688675,
             "venue_id":152625045
         }
     ],
     "wof:id":152625045,
-    "wof:lastmodified":1466318958,
+    "wof:lastmodified":1491929452,
     "wof:name":"A-1 Food Mart",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

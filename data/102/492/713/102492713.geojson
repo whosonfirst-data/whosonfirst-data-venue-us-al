@@ -2,9 +2,14 @@
   "id": 102492713,
   "type": "Feature",
   "properties": {
+    "addr:full":"2817 29th Ave N Birmingham AL 35207",
+    "addr:housenumber":"2817",
+    "addr:postcode":"35207",
+    "addr:street":"29Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.814595,33.551653,-86.814595,33.551653",
     "geom:latitude":33.551653,
     "geom:longitude":-86.814595,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"453048be43a8bcb71cfd6307388a4598",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":102492713,
-    "wof:lastmodified":1466315991,
+    "wof:lastmodified":1491929446,
     "wof:name":"Spencers Service Station",
     "wof:parent_id":85837367,
     "wof:placetype":"venue",

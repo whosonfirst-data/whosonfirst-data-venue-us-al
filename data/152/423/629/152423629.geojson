@@ -2,9 +2,14 @@
   "id": 152423629,
   "type": "Feature",
   "properties": {
+    "addr:full":"1760 34th St N Birmingham AL 35234",
+    "addr:housenumber":"1760",
+    "addr:postcode":"35234",
+    "addr:street":"34Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.798315,33.543007,-86.798315,33.543007",
     "geom:latitude":33.543007,
     "geom:longitude":-86.798315,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"3bac21c8b12c28a78b9afd1ab36a9789",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152423629,
-    "wof:lastmodified":1466317973,
+    "wof:lastmodified":1491885657,
     "wof:name":"Sky Fashions",
     "wof:parent_id":85838531,
     "wof:placetype":"venue",

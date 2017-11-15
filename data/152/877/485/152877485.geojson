@@ -2,9 +2,14 @@
   "id": 152877485,
   "type": "Feature",
   "properties": {
+    "addr:full":"3625 9th Ave N Birmingham AL 35222",
+    "addr:housenumber":"3625",
+    "addr:postcode":"35222",
+    "addr:street":"9Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.785398,33.535331,-86.785398,33.535331",
     "geom:latitude":33.535331,
     "geom:longitude":-86.785398,
@@ -25,10 +30,13 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85914465,
-        85633793,
         85688675,
-        102085481
+        102191575,
+        85633793,
+        85914465,
+        102085481,
+        85815977,
+        85838531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +46,28 @@
     "wof:geomhash":"cc444c3cfd363e60c10aa4b273a5b0a1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
+            "neighbourhood_id":85815977,
+            "region_id":85688675,
+            "venue_id":152877485
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85838531,
             "region_id":85688675,
             "venue_id":152877485
         }
     ],
     "wof:id":152877485,
-    "wof:lastmodified":1466320239,
+    "wof:lastmodified":1491885660,
     "wof:name":"Birmingham Plumbers Local 91",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

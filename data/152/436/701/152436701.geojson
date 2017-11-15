@@ -2,9 +2,14 @@
   "id": 152436701,
   "type": "Feature",
   "properties": {
+    "addr:full":"4353 Huntsville Rd Birmingham AL 35207",
+    "addr:housenumber":"",
+    "addr:postcode":"4353;35207",
+    "addr:street":"Huntsville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.794704,33.566558,-86.794704,33.566558",
     "geom:latitude":33.566558,
     "geom:longitude":-86.794704,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"b5f795e2a813ada30ee5abd8ddd890e9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152436701,
-    "wof:lastmodified":1466317824,
+    "wof:lastmodified":1491930594,
     "wof:name":"New Allen Temple A M E Church",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",

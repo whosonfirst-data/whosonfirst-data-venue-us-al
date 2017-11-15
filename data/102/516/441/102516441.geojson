@@ -2,9 +2,14 @@
   "id": 102516441,
   "type": "Feature",
   "properties": {
+    "addr:full":"2520 31st Ave N Birmingham AL 35207",
+    "addr:housenumber":"2520",
+    "addr:postcode":"35207",
+    "addr:street":"31St Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.818684,33.552738,-86.818684,33.552738",
     "geom:latitude":33.552738,
     "geom:longitude":-86.818684,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"595c73479ce8c5d91c71a9a2c73ca48e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":102516441,
-    "wof:lastmodified":1466316906,
+    "wof:lastmodified":1491929449,
     "wof:name":"Part Ace Hardware",
     "wof:parent_id":85837367,
     "wof:placetype":"venue",

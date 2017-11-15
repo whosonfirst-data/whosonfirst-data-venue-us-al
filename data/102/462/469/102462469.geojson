@@ -2,9 +2,14 @@
   "id": 102462469,
   "type": "Feature",
   "properties": {
+    "addr:full":"2233 2nd Ave N Birmingham AL 35203",
+    "addr:housenumber":"2233",
+    "addr:postcode":"35203",
+    "addr:street":"2Nd Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.802499,33.51707,-86.802499,33.51707",
     "geom:latitude":33.51707,
     "geom:longitude":-86.802499,
@@ -27,6 +32,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -40,6 +46,7 @@
     "wof:geomhash":"f525a3a12703543ac2e1b87f094521a2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":102462469,
-    "wof:lastmodified":1466315020,
+    "wof:lastmodified":1491921748,
     "wof:name":"Alabama Title Co Inc",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 152855921,
   "type": "Feature",
   "properties": {
+    "addr:full":"3278 Cahaba Heights Rd Birmingham AL 35243",
+    "addr:housenumber":"3278",
+    "addr:postcode":"35243",
+    "addr:street":"Cahaba Heights Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.725677,33.454137,-86.725677,33.454137",
     "geom:latitude":33.454137,
     "geom:longitude":-86.725677,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"eeab26ce4dc96ed0022792b6188ced56",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152855921,
-    "wof:lastmodified":1466320100,
+    "wof:lastmodified":1491897907,
     "wof:name":"Ms Miras Pit Barbeque",
     "wof:parent_id":85856691,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 152551141,
   "type": "Feature",
   "properties": {
+    "addr:full":"2700 7th Ave N Birmingham AL 35203",
+    "addr:housenumber":"2700",
+    "addr:postcode":"35203",
+    "addr:street":"7Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.798732,33.525625,-86.798732,33.525625",
     "geom:latitude":33.525625,
     "geom:longitude":-86.798732,
@@ -34,6 +39,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -47,6 +53,7 @@
     "wof:geomhash":"40b9f49a30b409aaa7c426ca41b9fdba",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":152551141,
-    "wof:lastmodified":1466318709,
+    "wof:lastmodified":1491921762,
     "wof:name":"Moreland Machinery Co Inc",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

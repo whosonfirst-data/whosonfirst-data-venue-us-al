@@ -2,9 +2,14 @@
   "id": 152609263,
   "type": "Feature",
   "properties": {
+    "addr:full":"2595 Alton Rd Birmingham AL 35210",
+    "addr:housenumber":"2595",
+    "addr:postcode":"35210",
+    "addr:street":"Alton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.642147,33.579862,-86.642147,33.579862",
     "geom:latitude":33.579862,
     "geom:longitude":-86.642147,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85913473,
         102085481,
@@ -43,6 +49,7 @@
     "wof:geomhash":"15c450645d378ec3f2684895c2b92a27",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85913473,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":152609263,
-    "wof:lastmodified":1466318858,
+    "wof:lastmodified":1491928874,
     "wof:name":"Cahaba Sand & Gravel",
     "wof:parent_id":85852855,
     "wof:placetype":"venue",

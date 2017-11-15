@@ -2,9 +2,14 @@
   "id": 152493095,
   "type": "Feature",
   "properties": {
+    "addr:full":"120 40th St N Birmingham AL 35222",
+    "addr:housenumber":"120",
+    "addr:postcode":"35222",
+    "addr:street":"40Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.778521,33.529663,-86.778521,33.529663",
     "geom:latitude":33.529663,
     "geom:longitude":-86.778521,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"07cef9cf3d7aaf099cc65d80c200bd58",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152493095,
-    "wof:lastmodified":1466318294,
+    "wof:lastmodified":1491930581,
     "wof:name":"City Vision Inc",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 152713037,
   "type": "Feature",
   "properties": {
+    "addr:full":"1918 3rd Ave N Birmingham AL 35204",
+    "addr:housenumber":"1918",
+    "addr:postcode":"35204",
+    "addr:street":"3Rd Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.807215,33.516212,-86.807215,33.516212",
     "geom:latitude":33.516212,
     "geom:longitude":-86.807215,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"efa10d5c586ce11fa4003121d94758da",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152713037,
-    "wof:lastmodified":1466319385,
+    "wof:lastmodified":1491921747,
     "wof:name":"Haskins Law Office",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

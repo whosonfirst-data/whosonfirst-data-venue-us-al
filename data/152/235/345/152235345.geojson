@@ -2,9 +2,14 @@
   "id": 152235345,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 Richard Arrington Jr Blvd S Birmingham AL 35233",
+    "addr:housenumber":"101",
+    "addr:postcode":"35233",
+    "addr:street":"Richard Arrington Jr Blvd S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.802177,33.512003,-86.802177,33.512003",
     "geom:latitude":33.512003,
     "geom:longitude":-86.802177,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -43,6 +49,7 @@
     "wof:geomhash":"86b523d73499c3cb6ab7a0af6c2f1f85",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":152235345,
-    "wof:lastmodified":1466316361,
+    "wof:lastmodified":1491921763,
     "wof:name":"Greg Hansen Landscape Archt",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 102521157,
   "type": "Feature",
   "properties": {
+    "addr:full":"2300 5th Ave N Birmingham AL 35203",
+    "addr:housenumber":"2300",
+    "addr:postcode":"35203",
+    "addr:street":"5Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.803193,33.520482,-86.803193,33.520482",
     "geom:latitude":33.520482,
     "geom:longitude":-86.803193,
@@ -34,6 +39,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -47,6 +53,7 @@
     "wof:geomhash":"1d53099641c2e7a6b80e30c5a60faf49",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":102521157,
-    "wof:lastmodified":1466317075,
+    "wof:lastmodified":1491921691,
     "wof:name":"Sydney & Son",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

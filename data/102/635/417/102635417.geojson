@@ -2,9 +2,14 @@
   "id": 102635417,
   "type": "Feature",
   "properties": {
+    "addr:full":"3337 Vanderbilt Rd Birmingham AL 35217",
+    "addr:housenumber":"3337",
+    "addr:postcode":"35217",
+    "addr:street":"Vanderbilt Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.783536,33.553207,-86.783536,33.553207",
     "geom:latitude":33.553207,
     "geom:longitude":-86.783536,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"32e981015b0c7e4b3828608f5523ce8c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":102635417,
-    "wof:lastmodified":1466317669,
+    "wof:lastmodified":1491930565,
     "wof:name":"Quick Motors",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",

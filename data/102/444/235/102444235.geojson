@@ -2,9 +2,14 @@
   "id": 102444235,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Municipal Dr Birmingham AL 35216",
+    "addr:housenumber":"100",
+    "addr:postcode":"35216",
+    "addr:street":"Municipal Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.80266,33.38744,-86.80266,33.38744",
     "geom:latitude":33.38744,
     "geom:longitude":-86.80266,
@@ -36,6 +41,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
@@ -49,6 +55,7 @@
     "wof:geomhash":"0b796f6156707d9b54325f9a7da853b7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":102444235,
-    "wof:lastmodified":1466314357,
+    "wof:lastmodified":1491927106,
     "wof:name":"Hoover Finance Dept",
     "wof:parent_id":85858879,
     "wof:placetype":"venue",

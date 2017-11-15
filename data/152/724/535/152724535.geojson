@@ -2,9 +2,14 @@
   "id": 152724535,
   "type": "Feature",
   "properties": {
+    "addr:full":"2847 Culver Rd Birmingham AL 35223",
+    "addr:housenumber":"2847",
+    "addr:postcode":"35223",
+    "addr:street":"Culver Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.772129,33.482803,-86.772129,33.482803",
     "geom:latitude":33.482803,
     "geom:longitude":-86.772129,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914807,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"28ec9c8032b0a4c28f46d3e744642249",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914807,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152724535,
-    "wof:lastmodified":1466319460,
+    "wof:lastmodified":1491932278,
     "wof:name":"Atchison Gallery",
     "wof:parent_id":85854765,
     "wof:placetype":"venue",

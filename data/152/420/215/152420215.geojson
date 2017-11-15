@@ -2,9 +2,14 @@
   "id": 152420215,
   "type": "Feature",
   "properties": {
+    "addr:full":"2125 Morris Ave Birmingham AL 35203",
+    "addr:housenumber":"2125",
+    "addr:postcode":"35203",
+    "addr:street":"Morris Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.802723,33.514921,-86.802723,33.514921",
     "geom:latitude":33.514921,
     "geom:longitude":-86.802723,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"96af9f12a6dd913e6b4f5a77719efbca",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152420215,
-    "wof:lastmodified":1466317941,
+    "wof:lastmodified":1491921727,
     "wof:name":"Denise J Pomeroy",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

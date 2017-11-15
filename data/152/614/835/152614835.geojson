@@ -2,9 +2,14 @@
   "id": 152614835,
   "type": "Feature",
   "properties": {
+    "addr:full":"2643 Rillwood Rd Birmingham AL 35243",
+    "addr:housenumber":"",
+    "addr:postcode":"2643;35243",
+    "addr:street":"Rillwood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.749862,33.435869,-86.749862,33.435869",
     "geom:latitude":33.435869,
     "geom:longitude":-86.749862,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"09c89fbb8bbb5360f38e90c7aedc6cea",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152614835,
-    "wof:lastmodified":1466318948,
+    "wof:lastmodified":1491897876,
     "wof:name":"Wallace W Carey Dr",
     "wof:parent_id":85856691,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 102462343,
   "type": "Feature",
   "properties": {
+    "addr:full":"712 25th St N Birmingham AL 35234",
+    "addr:housenumber":"712",
+    "addr:postcode":"35234",
+    "addr:street":"25Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.803563,33.524651,-86.803563,33.524651",
     "geom:latitude":33.524651,
     "geom:longitude":-86.803563,
@@ -30,10 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
-        85876273
+        85876269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +49,19 @@
     "wof:geomhash":"5bc3259ffa4fa39a37b66bd2c243f8ea",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
-            "neighbourhood_id":85876273,
+            "neighbourhood_id":85876269,
             "region_id":85688675,
             "venue_id":102462343
         }
     ],
     "wof:id":102462343,
-    "wof:lastmodified":1466314994,
+    "wof:lastmodified":1491921743,
     "wof:name":"Birmingham Health Care-Chldrns",
-    "wof:parent_id":85876273,
+    "wof:parent_id":85876269,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 102474861,
   "type": "Feature",
   "properties": {
+    "addr:full":"909 18th St S Birmingham AL 35205",
+    "addr:housenumber":"909",
+    "addr:postcode":"35205",
+    "addr:street":"18Th St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.801139,33.502215,-86.801139,33.502215",
     "geom:latitude":33.502215,
     "geom:longitude":-86.801139,
@@ -26,9 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
+        85876277,
         85819533
     ],
     "wof:breaches":[],
@@ -39,6 +46,16 @@
     "wof:geomhash":"701489111275f0419005c2addf47a4c6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85876277,
+            "region_id":85688675,
+            "venue_id":102474861
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,9 +65,9 @@
         }
     ],
     "wof:id":102474861,
-    "wof:lastmodified":1466315472,
+    "wof:lastmodified":1491914534,
     "wof:name":"Faculty Senate",
-    "wof:parent_id":85819533,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

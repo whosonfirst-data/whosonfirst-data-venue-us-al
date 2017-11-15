@@ -2,9 +2,14 @@
   "id": 152765133,
   "type": "Feature",
   "properties": {
+    "addr:full":"1800 8th Ave N Birmingham AL 35203",
+    "addr:housenumber":"1800",
+    "addr:postcode":"35203",
+    "addr:street":"8Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.811894,33.52086,-86.811894,33.52086",
     "geom:latitude":33.52086,
     "geom:longitude":-86.811894,
@@ -25,10 +30,13 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85914465,
-        85633793,
         85688675,
-        102085481
+        102191575,
+        85633793,
+        85914465,
+        102085481,
+        85876273,
+        85820315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +46,28 @@
     "wof:geomhash":"cccd98562b2b98f95cac184c26b431f8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
+            "neighbourhood_id":85876273,
+            "region_id":85688675,
+            "venue_id":152765133
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85820315,
             "region_id":85688675,
             "venue_id":152765133
         }
     ],
     "wof:id":152765133,
-    "wof:lastmodified":1466319654,
+    "wof:lastmodified":1491932657,
     "wof:name":"Alabama School of Fine",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

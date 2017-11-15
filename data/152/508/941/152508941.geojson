@@ -2,9 +2,14 @@
   "id": 152508941,
   "type": "Feature",
   "properties": {
+    "addr:full":"28 S Park Rd SW Birmingham AL 35211",
+    "addr:housenumber":"28",
+    "addr:postcode":"35211",
+    "addr:street":"S Park Rd Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.876447,33.488744,-86.876447,33.488744",
     "geom:latitude":33.488744,
     "geom:longitude":-86.876447,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"22e8dee48cdf4f8ef026f3fbaea493ce",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152508941,
-    "wof:lastmodified":1466318396,
+    "wof:lastmodified":1491887279,
     "wof:name":"Miracle Deliverance Church",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

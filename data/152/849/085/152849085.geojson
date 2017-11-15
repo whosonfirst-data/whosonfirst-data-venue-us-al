@@ -2,9 +2,14 @@
   "id": 152849085,
   "type": "Feature",
   "properties": {
+    "addr:full":"1976 Gadsden Hwy Birmingham AL 35235",
+    "addr:housenumber":"1976",
+    "addr:postcode":"35235",
+    "addr:street":"Gadsden Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.626021,33.610491,-86.626021,33.610491",
     "geom:latitude":33.610491,
     "geom:longitude":-86.626021,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85913473,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"1610ae398c5a6fc693c8173e9a11f2c0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85913473,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152849085,
-    "wof:lastmodified":1466320069,
+    "wof:lastmodified":1491928880,
     "wof:name":"RCM Capital Management LLC",
     "wof:parent_id":85852855,
     "wof:placetype":"venue",

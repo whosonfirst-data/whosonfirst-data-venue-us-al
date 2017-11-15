@@ -2,9 +2,14 @@
   "id": 152278447,
   "type": "Feature",
   "properties": {
+    "addr:full":"3710 Messer Airport Hwy Birmingham AL 35222",
+    "addr:housenumber":"3710",
+    "addr:postcode":"35222",
+    "addr:street":"Messer Airport Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.783155,33.529173,-86.783155,33.529173",
     "geom:latitude":33.529173,
     "geom:longitude":-86.783155,
@@ -39,10 +44,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85914465,
-        85633793,
         85688675,
-        102085481
+        102191575,
+        85633793,
+        85914465,
+        102085481,
+        85876269,
+        85876275
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +60,28 @@
     "wof:geomhash":"5723d35c46a67c0533c0ff7012442f41",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
+            "neighbourhood_id":85876269,
+            "region_id":85688675,
+            "venue_id":152278447
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85876275,
             "region_id":85688675,
             "venue_id":152278447
         }
     ],
     "wof:id":152278447,
-    "wof:lastmodified":1466316930,
+    "wof:lastmodified":1491921731,
     "wof:name":"Birmingham Tin Shop Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 152255501,
   "type": "Feature",
   "properties": {
+    "addr:full":"2210 Ave C Birmingham AL 35218",
+    "addr:housenumber":"",
+    "addr:postcode":"35218",
+    "addr:street":"2210 Ave C",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.901492,33.510942,-86.901492,33.510942",
     "geom:latitude":33.510942,
     "geom:longitude":-86.901492,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -44,6 +50,7 @@
     "wof:geomhash":"e3a43afbeebfe02edc5a4fe6b69ce4da",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":152255501,
-    "wof:lastmodified":1466316778,
+    "wof:lastmodified":1491887263,
     "wof:name":"Gateway",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

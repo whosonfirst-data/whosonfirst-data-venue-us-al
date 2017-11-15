@@ -2,9 +2,14 @@
   "id": 102449865,
   "type": "Feature",
   "properties": {
+    "addr:full":"4400 Powell Ave S Birmingham AL 35222",
+    "addr:housenumber":"4400",
+    "addr:postcode":"35222",
+    "addr:street":"Powell Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.787081,33.520688,-86.787081,33.520688",
     "geom:latitude":33.520688,
     "geom:longitude":-86.787081,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -44,6 +50,7 @@
     "wof:geomhash":"bfdf08b4db5c6829b05f412fd0077ac0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":102449865,
-    "wof:lastmodified":1466314674,
+    "wof:lastmodified":1491921720,
     "wof:name":"Southern Precision Corporation",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

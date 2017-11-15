@@ -2,9 +2,14 @@
   "id": 102624371,
   "type": "Feature",
   "properties": {
+    "addr:full":"3101 4th Ave S Birmingham AL 35233",
+    "addr:housenumber":"3101",
+    "addr:postcode":"35233",
+    "addr:street":"4Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.785579,33.516889,-86.785579,33.516889",
     "geom:latitude":33.516889,
     "geom:longitude":-86.785579,
@@ -29,10 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
-        85876275
+        85876269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,18 +48,19 @@
     "wof:geomhash":"8c5bb17cd6d29b6eee992864abfdfad0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
-            "neighbourhood_id":85876275,
+            "neighbourhood_id":85876269,
             "region_id":85688675,
             "venue_id":102624371
         }
     ],
     "wof:id":102624371,
-    "wof:lastmodified":1466317459,
+    "wof:lastmodified":1491921699,
     "wof:name":"ACK Electronics",
-    "wof:parent_id":85876275,
+    "wof:parent_id":85876269,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

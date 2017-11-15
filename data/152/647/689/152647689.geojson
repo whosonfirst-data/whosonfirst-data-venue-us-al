@@ -2,9 +2,14 @@
   "id": 152647689,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 20th St N Birmingham AL 35203",
+    "addr:housenumber":"123",
+    "addr:postcode":"35203",
+    "addr:street":"20Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.806061,33.515221,-86.806061,33.515221",
     "geom:latitude":33.515221,
     "geom:longitude":-86.806061,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -45,6 +51,7 @@
     "wof:geomhash":"27dc17ba37ee04e52c63407ec00d6643",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":152647689,
-    "wof:lastmodified":1466319097,
+    "wof:lastmodified":1491921702,
     "wof:name":"AMO Corporation of Alabama",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

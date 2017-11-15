@@ -2,9 +2,14 @@
   "id": 152813983,
   "type": "Feature",
   "properties": {
+    "addr:full":"2825 32nd Ave N Birmingham AL 35207",
+    "addr:housenumber":"2825",
+    "addr:postcode":"35207",
+    "addr:street":"32Nd Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.814919,33.55479,-86.814919,33.55479",
     "geom:latitude":33.55479,
     "geom:longitude":-86.814919,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -44,6 +50,7 @@
     "wof:geomhash":"990a7f9d295a5c6d248a2ac2abb6c25a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":152813983,
-    "wof:lastmodified":1466319941,
+    "wof:lastmodified":1491929443,
     "wof:name":"Ed's Refurb & Pro Detail",
     "wof:parent_id":85837367,
     "wof:placetype":"venue",

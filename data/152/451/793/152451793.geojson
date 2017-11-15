@@ -2,9 +2,14 @@
   "id": 152451793,
   "type": "Feature",
   "properties": {
+    "addr:full":"2269 Chapel Rd Birmingham AL 35226",
+    "addr:housenumber":"2269",
+    "addr:postcode":"35226",
+    "addr:street":"Chapel Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.848564,33.398161,-86.848564,33.398161",
     "geom:latitude":33.398161,
     "geom:longitude":-86.848564,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"97be1abc8e797df35481bfc20b46a0bb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152451793,
-    "wof:lastmodified":1466318141,
+    "wof:lastmodified":1491898829,
     "wof:name":"Chapel In Pines Presbt Church",
     "wof:parent_id":85828169,
     "wof:placetype":"venue",

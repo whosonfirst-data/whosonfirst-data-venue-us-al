@@ -2,9 +2,14 @@
   "id": 102474067,
   "type": "Feature",
   "properties": {
+    "addr:full":"2114 1st Ave N Birmingham AL 35210",
+    "addr:housenumber":"2114",
+    "addr:postcode":"35210",
+    "addr:street":"1St Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.705514,33.540447,-86.705514,33.540447",
     "geom:latitude":33.540447,
     "geom:longitude":-86.705514,
@@ -29,8 +34,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
-        85914465,
+        85914835,
         102085481,
         85819529
     ],
@@ -42,16 +48,17 @@
     "wof:geomhash":"9c7202576fd799f7f3be84f0413e982b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
-            "locality_id":85914465,
+            "locality_id":85914835,
             "neighbourhood_id":85819529,
             "region_id":85688675,
             "venue_id":102474067
         }
     ],
     "wof:id":102474067,
-    "wof:lastmodified":1466315325,
+    "wof:lastmodified":1491905244,
     "wof:name":"Ozworks",
     "wof:parent_id":85819529,
     "wof:placetype":"venue",

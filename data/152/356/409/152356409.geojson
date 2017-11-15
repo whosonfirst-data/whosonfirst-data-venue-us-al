@@ -2,9 +2,14 @@
   "id": 152356409,
   "type": "Feature",
   "properties": {
+    "addr:full":"1201 25th St Birmingham AL 35218",
+    "addr:housenumber":"1201",
+    "addr:postcode":"35218",
+    "addr:street":"25Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.892235,33.503135,-86.892235,33.503135",
     "geom:latitude":33.503135,
     "geom:longitude":-86.892235,
@@ -25,10 +30,14 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85914465,
-        85633793,
         85688675,
-        102085481
+        102191575,
+        85633793,
+        85914465,
+        102085481,
+        85818187,
+        85914865,
+        420510437
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +47,28 @@
     "wof:geomhash":"10ad2a7826b6306b3e937dd5b8f4e94a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
+            "neighbourhood_id":85818187,
+            "region_id":85688675,
+            "venue_id":152356409
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914865,
+            "neighbourhood_id":420510437,
             "region_id":85688675,
             "venue_id":152356409
         }
     ],
     "wof:id":152356409,
-    "wof:lastmodified":1466317765,
+    "wof:lastmodified":1491887259,
     "wof:name":"Public Library",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

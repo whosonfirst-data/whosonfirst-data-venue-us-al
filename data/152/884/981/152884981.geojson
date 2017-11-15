@@ -2,9 +2,14 @@
   "id": 152884981,
   "type": "Feature",
   "properties": {
+    "addr:full":"2221 2nd Ave S Birmingham AL 35210",
+    "addr:housenumber":"2221",
+    "addr:postcode":"35210",
+    "addr:street":"2Nd Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.702945,33.539459,-86.702945,33.539459",
     "geom:latitude":33.539459,
     "geom:longitude":-86.702945,
@@ -30,8 +35,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
-        85914465,
+        85914835,
         102085481,
         85819529
     ],
@@ -43,16 +49,17 @@
     "wof:geomhash":"c284103adff6aeace501d5c44cb6e083",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
-            "locality_id":85914465,
+            "locality_id":85914835,
             "neighbourhood_id":85819529,
             "region_id":85688675,
             "venue_id":152884981
         }
     ],
     "wof:id":152884981,
-    "wof:lastmodified":1466320293,
+    "wof:lastmodified":1491905255,
     "wof:name":"Bebco-Birmingham Electric",
     "wof:parent_id":85819529,
     "wof:placetype":"venue",

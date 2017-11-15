@@ -2,9 +2,14 @@
   "id": 152676347,
   "type": "Feature",
   "properties": {
+    "addr:full":"4101 Vanderbilt Rd Birmingham AL 35217",
+    "addr:housenumber":"4101",
+    "addr:postcode":"35217",
+    "addr:street":"Vanderbilt Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.783463,33.563087,-86.783463,33.563087",
     "geom:latitude":33.563087,
     "geom:longitude":-86.783463,
@@ -27,6 +32,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -40,6 +46,7 @@
     "wof:geomhash":"7b8a97e4ad7cf3874e76e4bc4640758d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":152676347,
-    "wof:lastmodified":1466319330,
+    "wof:lastmodified":1491930587,
     "wof:name":"L & N Credit Union",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 152242545,
   "type": "Feature",
   "properties": {
+    "addr:full":"2350 Montevallo Rd S Birmingham AL 35223",
+    "addr:housenumber":"",
+    "addr:postcode":"2350;35223",
+    "addr:street":"Montevallo Rd S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.773563,33.483765,-86.773563,33.483765",
     "geom:latitude":33.483765,
     "geom:longitude":-86.773563,
@@ -36,6 +41,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914807,
         102085481,
@@ -49,6 +55,7 @@
     "wof:geomhash":"35f4604b4da8007f7c1b29765aef32c1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914807,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":152242545,
-    "wof:lastmodified":1466316441,
+    "wof:lastmodified":1491932276,
     "wof:name":"Brookhill Condominium Owners",
     "wof:parent_id":85854765,
     "wof:placetype":"venue",

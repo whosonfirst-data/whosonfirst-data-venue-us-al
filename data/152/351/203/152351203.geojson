@@ -2,9 +2,14 @@
   "id": 152351203,
   "type": "Feature",
   "properties": {
+    "addr:full":"4253 Cahaba Dr Birmingham AL 35243",
+    "addr:housenumber":"4253",
+    "addr:postcode":"35243",
+    "addr:street":"Cahaba Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.723179,33.451829,-86.723179,33.451829",
     "geom:latitude":33.451829,
     "geom:longitude":-86.723179,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -43,6 +49,7 @@
     "wof:geomhash":"7d1c32b7e6eb5b918553eb35f25ed1d4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":152351203,
-    "wof:lastmodified":1466317579,
+    "wof:lastmodified":1491897903,
     "wof:name":"Cahaba Equipment Corp",
     "wof:parent_id":85856691,
     "wof:placetype":"venue",

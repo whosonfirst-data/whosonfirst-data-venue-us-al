@@ -2,9 +2,14 @@
   "id": 152466185,
   "type": "Feature",
   "properties": {
+    "addr:full":"3929 24th St N Birmingham AL 35207",
+    "addr:housenumber":"3929",
+    "addr:postcode":"35207",
+    "addr:street":"24Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.823083,33.559473,-86.823083,33.559473",
     "geom:latitude":33.559473,
     "geom:longitude":-86.823083,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"76af60587151e71202d77b54acf5469c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152466185,
-    "wof:lastmodified":1466318156,
+    "wof:lastmodified":1491929449,
     "wof:name":"Parks Used Auto Pts",
     "wof:parent_id":85837367,
     "wof:placetype":"venue",

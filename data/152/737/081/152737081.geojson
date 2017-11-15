@@ -2,9 +2,14 @@
   "id": 152737081,
   "type": "Feature",
   "properties": {
+    "addr:full":"2130 Warrior Rd Birmingham AL 35208",
+    "addr:housenumber":"2130",
+    "addr:postcode":"35208",
+    "addr:street":"Warrior Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.878772,33.497257,-86.878772,33.497257",
     "geom:latitude":33.497257,
     "geom:longitude":-86.878772,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"6d7356b0260a69df06c760c59acd3e34",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152737081,
-    "wof:lastmodified":1466319578,
+    "wof:lastmodified":1491887283,
     "wof:name":"Washington Christian Academy",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

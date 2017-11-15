@@ -2,14 +2,20 @@
   "id": 152259373,
   "type": "Feature",
   "properties": {
+    "addr:full":"1801 University Blvd Birmingham AL 35233",
+    "addr:housenumber":"1801",
+    "addr:postcode":"35233",
+    "addr:street":"University Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.80051,33.50405,-86.80051,33.50405",
     "geom:latitude":33.50405,
     "geom:longitude":-86.80051,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1801 University Blvd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -29,19 +35,42 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
+        85876277,
+        85813175,
         85819533
     ],
+    "wof:brand_id":1125152519,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6JKnmeKgTRXgtrTXkYcDi4_33.504050_-86.800510@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"894f537b19b6beee9c107760916924ae",
+    "wof:geomhash":"69cd0e3ce7054485704ca475745ca2f9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85876277,
+            "region_id":85688675,
+            "venue_id":152259373
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85813175,
+            "region_id":85688675,
+            "venue_id":152259373
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,9 +80,9 @@
         }
     ],
     "wof:id":152259373,
-    "wof:lastmodified":1466316518,
+    "wof:lastmodified":1510613238,
     "wof:name":"Computer Sciences Corporation",
-    "wof:parent_id":85819533,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

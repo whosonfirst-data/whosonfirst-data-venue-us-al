@@ -2,9 +2,14 @@
   "id": 152335415,
   "type": "Feature",
   "properties": {
+    "addr:full":"505 20th St N Birmingham AL 35203",
+    "addr:housenumber":"505",
+    "addr:postcode":"35203",
+    "addr:street":"20Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.808411,33.518688,-86.808411,33.518688",
     "geom:latitude":33.518688,
     "geom:longitude":-86.808411,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"6c4da4f165a99f8498ab870b4eec9a7f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152335415,
-    "wof:lastmodified":1466317344,
+    "wof:lastmodified":1491921715,
     "wof:name":"Lanier Professional Services",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

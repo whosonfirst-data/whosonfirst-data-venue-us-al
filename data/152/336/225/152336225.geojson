@@ -2,9 +2,14 @@
   "id": 152336225,
   "type": "Feature",
   "properties": {
+    "addr:full":"1400 7th Ave S Birmingham AL 35233",
+    "addr:housenumber":"1400",
+    "addr:postcode":"35233",
+    "addr:street":"7Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.807634,33.502173,-86.807634,33.502173",
     "geom:latitude":33.502173,
     "geom:longitude":-86.807634,
@@ -26,11 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
-        85819533,
-        85813175
+        85813175,
+        85819533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,26 +46,28 @@
     "wof:geomhash":"4a6364f772d07ec4c67d6e901a2f0597",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102085481,
-            "locality_id":85914465,
-            "neighbourhood_id":85819533,
-            "region_id":85688675,
-            "venue_id":152336225
-        },
-        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
             "neighbourhood_id":85813175,
             "region_id":85688675,
             "venue_id":152336225
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85819533,
+            "region_id":85688675,
+            "venue_id":152336225
         }
     ],
     "wof:id":152336225,
-    "wof:lastmodified":1466317424,
+    "wof:lastmodified":1491914564,
     "wof:name":"University Bookstore",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

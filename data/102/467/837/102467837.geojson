@@ -2,9 +2,14 @@
   "id": 102467837,
   "type": "Feature",
   "properties": {
+    "addr:full":"2814 Petticoat Ln Birmingham AL 35223",
+    "addr:housenumber":"2814",
+    "addr:postcode":"35223",
+    "addr:street":"Petticoat Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.773323,33.483613,-86.773323,33.483613",
     "geom:latitude":33.483613,
     "geom:longitude":-86.773323,
@@ -31,10 +36,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
-        85914465,
+        85914807,
         102085481,
-        85876275
+        85854765
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +50,19 @@
     "wof:geomhash":"40d3eacd5c39506a977bf53a118fd8a6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
-            "locality_id":85914465,
-            "neighbourhood_id":85876275,
+            "locality_id":85914807,
+            "neighbourhood_id":85854765,
             "region_id":85688675,
             "venue_id":102467837
         }
     ],
     "wof:id":102467837,
-    "wof:lastmodified":1466315255,
+    "wof:lastmodified":1491932285,
     "wof:name":"Brook Bellezza Mountian",
-    "wof:parent_id":85876275,
+    "wof:parent_id":85854765,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

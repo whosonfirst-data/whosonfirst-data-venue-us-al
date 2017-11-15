@@ -2,9 +2,14 @@
   "id": 152894715,
   "type": "Feature",
   "properties": {
+    "addr:full":"1801 Morris Ave Birmingham AL 35203",
+    "addr:housenumber":"1801",
+    "addr:postcode":"35203",
+    "addr:street":"Morris Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.806674,33.513131,-86.806674,33.513131",
     "geom:latitude":33.513131,
     "geom:longitude":-86.806674,
@@ -32,10 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85914465,
-        85633793,
         85688675,
-        102085481
+        102191575,
+        85633793,
+        85914465,
+        102085481,
+        85876269,
+        85820315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +53,28 @@
     "wof:geomhash":"a41aeaabeea4bf32e33ded78b081d233",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
+            "neighbourhood_id":85876269,
+            "region_id":85688675,
+            "venue_id":152894715
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85820315,
             "region_id":85688675,
             "venue_id":152894715
         }
     ],
     "wof:id":152894715,
-    "wof:lastmodified":1466320395,
+    "wof:lastmodified":1491921702,
     "wof:name":"Mid-South Sweetners Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

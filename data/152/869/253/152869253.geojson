@@ -2,9 +2,14 @@
   "id": 152869253,
   "type": "Feature",
   "properties": {
+    "addr:full":"3313 Ridgely Dr Birmingham AL 35243",
+    "addr:housenumber":"3313",
+    "addr:postcode":"35243",
+    "addr:street":"Ridgely Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.721457,33.454987,-86.721457,33.454987",
     "geom:latitude":33.454987,
     "geom:longitude":-86.721457,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"c643feb1875f83decb6bad4b9db010e4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152869253,
-    "wof:lastmodified":1466320169,
+    "wof:lastmodified":1491897912,
     "wof:name":"AA Landscapes",
     "wof:parent_id":85856691,
     "wof:placetype":"venue",

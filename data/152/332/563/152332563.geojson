@@ -2,9 +2,14 @@
   "id": 152332563,
   "type": "Feature",
   "properties": {
+    "addr:full":"417 Cloudland Dr Birmingham AL 35226",
+    "addr:housenumber":"417",
+    "addr:postcode":"35226",
+    "addr:street":"Cloudland Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.846617,33.403993,-86.846617,33.403993",
     "geom:latitude":33.403993,
     "geom:longitude":-86.846617,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"3ed0ce3d5a13cf1cc2e7dfaa957887af",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152332563,
-    "wof:lastmodified":1466317397,
+    "wof:lastmodified":1491898827,
     "wof:name":"Alabama Drywall",
     "wof:parent_id":85828169,
     "wof:placetype":"venue",

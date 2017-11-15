@@ -2,9 +2,14 @@
   "id": 102525009,
   "type": "Feature",
   "properties": {
+    "addr:full":"3100 2nd Ave S Birmingham AL 35233",
+    "addr:housenumber":"3100",
+    "addr:postcode":"35233",
+    "addr:street":"2Nd Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.78681,33.518726,-86.78681,33.518726",
     "geom:latitude":33.518726,
     "geom:longitude":-86.78681,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -44,6 +50,7 @@
     "wof:geomhash":"5683e3b1849bee49d08e8f16b0cdd064",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":102525009,
-    "wof:lastmodified":1466317177,
+    "wof:lastmodified":1491921699,
     "wof:name":"Marx Brothers Incorporated",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

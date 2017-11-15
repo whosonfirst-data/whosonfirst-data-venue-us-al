@@ -2,9 +2,14 @@
   "id": 152207191,
   "type": "Feature",
   "properties": {
+    "addr:full":"4612 Ave V Birmingham AL 35208",
+    "addr:housenumber":"",
+    "addr:postcode":"35208",
+    "addr:street":"4612 Ave V",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.878903,33.495096,-86.878903,33.495096",
     "geom:latitude":33.495096,
     "geom:longitude":-86.878903,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"413b6c3915e8099313d7eadcf14dce44",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152207191,
-    "wof:lastmodified":1466316104,
+    "wof:lastmodified":1491887258,
     "wof:name":"Five Points Highlander Laundry",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

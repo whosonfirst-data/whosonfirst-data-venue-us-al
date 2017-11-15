@@ -2,9 +2,14 @@
   "id": 152129247,
   "type": "Feature",
   "properties": {
+    "addr:full":"3620 Mary Taylor Rd Birmingham AL 35235",
+    "addr:housenumber":"3620",
+    "addr:postcode":"35235",
+    "addr:street":"Mary Taylor Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.62848,33.608253,-86.62848,33.608253",
     "geom:latitude":33.608253,
     "geom:longitude":-86.62848,
@@ -28,8 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688675,
+        102191575,
         85633793,
-        85688675
+        85913473,
+        102085481,
+        85852855,
+        85852733
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +49,27 @@
     "wof:geomhash":"f7c1c343e0a18794e418d8da1fcd52dc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85913473,
+            "neighbourhood_id":85852855,
+            "region_id":85688675,
+            "venue_id":152129247
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85913473,
+            "neighbourhood_id":85852733,
             "region_id":85688675,
             "venue_id":152129247
         }
     ],
     "wof:id":152129247,
-    "wof:lastmodified":1466314871,
+    "wof:lastmodified":1491928883,
     "wof:name":"Highway Gas & Oil",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

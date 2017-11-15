@@ -2,9 +2,14 @@
   "id": 152722397,
   "type": "Feature",
   "properties": {
+    "addr:full":"4120 Inglenook St N Birmingham AL 35217",
+    "addr:housenumber":"4120",
+    "addr:postcode":"35217",
+    "addr:street":"Inglenook St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.779938,33.563447,-86.779938,33.563447",
     "geom:latitude":33.563447,
     "geom:longitude":-86.779938,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"c6b34008dc3f71e5a1e8ff90c229b98e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152722397,
-    "wof:lastmodified":1466319533,
+    "wof:lastmodified":1491930570,
     "wof:name":"Inglenook Elementary School",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",

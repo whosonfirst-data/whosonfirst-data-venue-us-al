@@ -2,9 +2,14 @@
   "id": 152460259,
   "type": "Feature",
   "properties": {
+    "addr:full":"900 19th St SW Birmingham AL 35211",
+    "addr:housenumber":"900",
+    "addr:postcode":"35211",
+    "addr:street":"19Th St Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.86804,33.480216,-86.86804,33.480216",
     "geom:latitude":33.480216,
     "geom:longitude":-86.86804,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"0a618fb9ce4f1e1fd5e1ba5941affc07",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152460259,
-    "wof:lastmodified":1466318262,
+    "wof:lastmodified":1491887277,
     "wof:name":"B T Snedecor Construction Co",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

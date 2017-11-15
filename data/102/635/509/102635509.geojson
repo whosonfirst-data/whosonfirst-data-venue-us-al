@@ -2,9 +2,14 @@
   "id": 102635509,
   "type": "Feature",
   "properties": {
+    "addr:full":"3420 Richard Arrington Jr Blvd N Birmingham AL 35234",
+    "addr:housenumber":"3420",
+    "addr:postcode":"35234",
+    "addr:street":"Richard Arrington Jr Blvd N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.792036,33.534045,-86.792036,33.534045",
     "geom:latitude":33.534045,
     "geom:longitude":-86.792036,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"9af7dee8cdcfe2aa2c16bd0964a24258",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":102635509,
-    "wof:lastmodified":1466317671,
+    "wof:lastmodified":1491885653,
     "wof:name":"Iron Age Safety Shoes",
     "wof:parent_id":85838531,
     "wof:placetype":"venue",

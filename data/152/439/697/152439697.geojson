@@ -2,9 +2,14 @@
   "id": 152439697,
   "type": "Feature",
   "properties": {
+    "addr:full":"5211 Rime Village Birmingham AL 35216",
+    "addr:housenumber":"5211",
+    "addr:postcode":"35216",
+    "addr:street":"Rime Village",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.791456,33.380248,-86.791456,33.380248",
     "geom:latitude":33.380248,
     "geom:longitude":-86.791456,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"67911450d33e1963472e1edb27c8bfdb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152439697,
-    "wof:lastmodified":1466317923,
+    "wof:lastmodified":1491927115,
     "wof:name":"S C Vending",
     "wof:parent_id":85858879,
     "wof:placetype":"venue",

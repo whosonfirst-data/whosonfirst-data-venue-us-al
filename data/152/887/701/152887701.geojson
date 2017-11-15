@@ -2,9 +2,14 @@
   "id": 152887701,
   "type": "Feature",
   "properties": {
+    "addr:full":"2229 Rocky Ridge Rd Birmingham AL 35216",
+    "addr:housenumber":"2229",
+    "addr:postcode":"35216",
+    "addr:street":"Rocky Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.789315,33.400666,-86.789315,33.400666",
     "geom:latitude":33.400666,
     "geom:longitude":-86.789315,
@@ -27,6 +32,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
@@ -40,6 +46,7 @@
     "wof:geomhash":"e7942b3bbd7bf451f6ebdb097e508548",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":152887701,
-    "wof:lastmodified":1466320266,
+    "wof:lastmodified":1491927106,
     "wof:name":"Clark Associates Inc",
     "wof:parent_id":85858879,
     "wof:placetype":"venue",

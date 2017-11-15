@@ -2,9 +2,14 @@
   "id": 152758045,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Golden Flake Dr Birmingham AL 35205",
+    "addr:housenumber":"1",
+    "addr:postcode":"35205",
+    "addr:street":"Golden Flake Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.818209,33.50342,-86.818209,33.50342",
     "geom:latitude":33.50342,
     "geom:longitude":-86.818209,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -45,6 +51,7 @@
     "wof:geomhash":"886a147fda92a2410324e9676f23a281",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -53,6 +60,7 @@
             "venue_id":152758045
         },
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -62,9 +70,9 @@
         }
     ],
     "wof:id":152758045,
-    "wof:lastmodified":1466319611,
+    "wof:lastmodified":1491914553,
     "wof:name":"Golden Enterprises Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

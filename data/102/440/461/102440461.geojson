@@ -2,9 +2,14 @@
   "id": 102440461,
   "type": "Feature",
   "properties": {
+    "addr:full":"541 Shades Crest Rd Birmingham AL 35226",
+    "addr:housenumber":"541",
+    "addr:postcode":"35226",
+    "addr:street":"Shades Crest Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.859007,33.405332,-86.859007,33.405332",
     "geom:latitude":33.405332,
     "geom:longitude":-86.859007,
@@ -32,9 +37,8 @@
     "wof:belongsto":[
         85688675,
         85633793,
-        85914475,
-        102085481,
-        85828169
+        85834275,
+        102085481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,16 +50,15 @@
         {
             "country_id":85633793,
             "county_id":102085481,
-            "locality_id":85914475,
-            "neighbourhood_id":85828169,
+            "neighbourhood_id":85834275,
             "region_id":85688675,
             "venue_id":102440461
         }
     ],
     "wof:id":102440461,
-    "wof:lastmodified":1466315361,
+    "wof:lastmodified":1491895357,
     "wof:name":"Antique Speaker Services",
-    "wof:parent_id":85828169,
+    "wof:parent_id":85834275,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

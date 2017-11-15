@@ -2,9 +2,14 @@
   "id": 102503003,
   "type": "Feature",
   "properties": {
+    "addr:full":"1621 34th Ave N Birmingham AL 35207",
+    "addr:housenumber":"1621",
+    "addr:postcode":"35207",
+    "addr:street":"34Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.832843,33.551727,-86.832843,33.551727",
     "geom:latitude":33.551727,
     "geom:longitude":-86.832843,
@@ -29,10 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
-        85876271
+        85837367
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,18 +48,19 @@
     "wof:geomhash":"e01a5568ef88a5edff21a8f20fb65067",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
-            "neighbourhood_id":85876271,
+            "neighbourhood_id":85837367,
             "region_id":85688675,
             "venue_id":102503003
         }
     ],
     "wof:id":102503003,
-    "wof:lastmodified":1466316523,
+    "wof:lastmodified":1491929444,
     "wof:name":"Danny Otey Construction",
-    "wof:parent_id":85876271,
+    "wof:parent_id":85837367,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

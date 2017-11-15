@@ -2,9 +2,14 @@
   "id": 152260841,
   "type": "Feature",
   "properties": {
+    "addr:full":"1320 25th St N Birmingham AL 35234",
+    "addr:housenumber":"1320",
+    "addr:postcode":"35234",
+    "addr:street":"25Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.808672,33.532104,-86.808672,33.532104",
     "geom:latitude":33.532104,
     "geom:longitude":-86.808672,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"a1bb9e27071246a989ee1ce3f9b126c7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152260841,
-    "wof:lastmodified":1466316590,
+    "wof:lastmodified":1491932654,
     "wof:name":"AAA Pest Services Inc",
     "wof:parent_id":85876273,
     "wof:placetype":"venue",

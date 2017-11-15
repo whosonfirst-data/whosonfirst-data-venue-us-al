@@ -2,9 +2,14 @@
   "id": 840490417,
   "type": "Feature",
   "properties": {
+    "addr:full":"405 13th St S Birmingham AL 35233",
+    "addr:housenumber":"405",
+    "addr:postcode":"35233",
+    "addr:street":"13Th St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.811741,33.504422,-86.811741,33.504422",
     "geom:latitude":33.504422,
     "geom:longitude":-86.811741,
@@ -30,8 +35,8 @@
         85633793,
         85914465,
         102085481,
-        85819533,
-        85876277
+        85876277,
+        85819533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +51,7 @@
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
-            "neighbourhood_id":85819533,
+            "neighbourhood_id":85876277,
             "region_id":85688675,
             "venue_id":840490417
         },
@@ -55,15 +60,15 @@
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
-            "neighbourhood_id":85876277,
+            "neighbourhood_id":85819533,
             "region_id":85688675,
             "venue_id":840490417
         }
     ],
     "wof:id":840490417,
-    "wof:lastmodified":1466316128,
+    "wof:lastmodified":1491914556,
     "wof:name":"Visions Beauty Salon",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

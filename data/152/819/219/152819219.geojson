@@ -2,9 +2,14 @@
   "id": 152819219,
   "type": "Feature",
   "properties": {
+    "addr:full":"3013 2nd Ave S Birmingham AL 35233",
+    "addr:housenumber":"3013",
+    "addr:postcode":"35233",
+    "addr:street":"2Nd Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.788274,33.517942,-86.788274,33.517942",
     "geom:latitude":33.517942,
     "geom:longitude":-86.788274,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"eac1a5427d9a8d4a42e741bf81809093",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152819219,
-    "wof:lastmodified":1466319935,
+    "wof:lastmodified":1491921706,
     "wof:name":"Title Books Inc",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

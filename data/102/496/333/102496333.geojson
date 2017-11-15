@@ -2,9 +2,14 @@
   "id": 102496333,
   "type": "Feature",
   "properties": {
+    "addr:full":"210 19th St Birmingham AL 35218",
+    "addr:housenumber":"210",
+    "addr:postcode":"35218",
+    "addr:street":"19Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.89901,33.514372,-86.89901,33.514372",
     "geom:latitude":33.514372,
     "geom:longitude":-86.89901,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"9512db9b64c50dafa2493e3edd24e34b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":102496333,
-    "wof:lastmodified":1466316320,
+    "wof:lastmodified":1491887265,
     "wof:name":"Jcceo",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

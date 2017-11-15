@@ -2,9 +2,14 @@
   "id": 152353723,
   "type": "Feature",
   "properties": {
+    "addr:full":"5016 5th Ave S Birmingham AL 35212",
+    "addr:housenumber":"5016",
+    "addr:postcode":"35212",
+    "addr:street":"5Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.757379,33.531557,-86.757379,33.531557",
     "geom:latitude":33.531557,
     "geom:longitude":-86.757379,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"23b2d7e828e64dd2ce94440394f2d6cd",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152353723,
-    "wof:lastmodified":1466317767,
+    "wof:lastmodified":1491930592,
     "wof:name":"Rebirth Christian Fellowship",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",

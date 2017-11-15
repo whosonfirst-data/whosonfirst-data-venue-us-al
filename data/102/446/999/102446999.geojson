@@ -2,9 +2,14 @@
   "id": 102446999,
   "type": "Feature",
   "properties": {
+    "addr:full":"2804 Bessemer Rd Birmingham AL 35208",
+    "addr:housenumber":"2804",
+    "addr:postcode":"35208",
+    "addr:street":"Bessemer Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.869549,33.502413,-86.869549,33.502413",
     "geom:latitude":33.502413,
     "geom:longitude":-86.869549,
@@ -26,10 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
-        85847929
+        85818187
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +45,19 @@
     "wof:geomhash":"7885df4afc2b6d2056670a11d5877071",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
-            "neighbourhood_id":85847929,
+            "neighbourhood_id":85818187,
             "region_id":85688675,
             "venue_id":102446999
         }
     ],
     "wof:id":102446999,
-    "wof:lastmodified":1466314536,
+    "wof:lastmodified":1491887281,
     "wof:name":"African Hair Braiding",
-    "wof:parent_id":85847929,
+    "wof:parent_id":85818187,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

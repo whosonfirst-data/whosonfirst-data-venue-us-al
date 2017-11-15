@@ -2,9 +2,14 @@
   "id": 152450499,
   "type": "Feature",
   "properties": {
+    "addr:full":"2132 Rockland Dr Birmingham AL 35226",
+    "addr:housenumber":"2132",
+    "addr:postcode":"35226",
+    "addr:street":"Rockland Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.85451,33.401283,-86.85451,33.401283",
     "geom:latitude":33.401283,
     "geom:longitude":-86.85451,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"16105bdd7b9dd83b11d9b6c3af677c69",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152450499,
-    "wof:lastmodified":1466317952,
+    "wof:lastmodified":1491898827,
     "wof:name":"Pet Pantry",
     "wof:parent_id":85828169,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 152374429,
   "type": "Feature",
   "properties": {
+    "addr:full":"3500 Messer Airport Hwy Birmingham AL 35222",
+    "addr:housenumber":"",
+    "addr:postcode":"3500;35222",
+    "addr:street":"Messer Airport Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.785614,33.528259,-86.785614,33.528259",
     "geom:latitude":33.528259,
     "geom:longitude":-86.785614,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -44,6 +50,7 @@
     "wof:geomhash":"a43fafd8d0b7c1b051e338e5b0c11aac",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":152374429,
-    "wof:lastmodified":1466317711,
+    "wof:lastmodified":1491921762,
     "wof:name":"Fuller Supply Co",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

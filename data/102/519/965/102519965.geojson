@@ -2,9 +2,14 @@
   "id": 102519965,
   "type": "Feature",
   "properties": {
+    "addr:full":"2312 Highland Ave Birmingham AL 35210",
+    "addr:housenumber":"2312",
+    "addr:postcode":"35210",
+    "addr:street":"Highland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.705119,33.544255,-86.705119,33.544255",
     "geom:latitude":33.544255,
     "geom:longitude":-86.705119,
@@ -29,8 +34,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
-        85914465,
+        85914835,
         102085481,
         85819529
     ],
@@ -42,16 +48,17 @@
     "wof:geomhash":"e760667ea714344ac621698971751dba",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
-            "locality_id":85914465,
+            "locality_id":85914835,
             "neighbourhood_id":85819529,
             "region_id":85688675,
             "venue_id":102519965
         }
     ],
     "wof:id":102519965,
-    "wof:lastmodified":1466317253,
+    "wof:lastmodified":1491905253,
     "wof:name":"Woods Tek",
     "wof:parent_id":85819529,
     "wof:placetype":"venue",

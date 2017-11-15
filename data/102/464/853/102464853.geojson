@@ -2,9 +2,14 @@
   "id": 102464853,
   "type": "Feature",
   "properties": {
+    "addr:full":"3640 Lorna Rd Birmingham AL 35216",
+    "addr:housenumber":"3640",
+    "addr:postcode":"35216",
+    "addr:street":"Lorna Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.795239,33.382335,-86.795239,33.382335",
     "geom:latitude":33.382335,
     "geom:longitude":-86.795239,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"5bfc75e1ddd0564098079250e3994452",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":102464853,
-    "wof:lastmodified":1466315172,
+    "wof:lastmodified":1491927111,
     "wof:name":"Hoover Shop A Snak",
     "wof:parent_id":85858879,
     "wof:placetype":"venue",

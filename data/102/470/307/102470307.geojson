@@ -2,9 +2,14 @@
   "id": 102470307,
   "type": "Feature",
   "properties": {
+    "addr:full":"1712 35th St N Birmingham AL 35234",
+    "addr:housenumber":"1712",
+    "addr:postcode":"35234",
+    "addr:street":"35Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.796192,33.541916,-86.796192,33.541916",
     "geom:latitude":33.541916,
     "geom:longitude":-86.796192,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"38d761b3ca21fde38e3651e47bc5fdd3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":102470307,
-    "wof:lastmodified":1466315233,
+    "wof:lastmodified":1491885661,
     "wof:name":"JCC Jefferson County Inc",
     "wof:parent_id":85838531,
     "wof:placetype":"venue",

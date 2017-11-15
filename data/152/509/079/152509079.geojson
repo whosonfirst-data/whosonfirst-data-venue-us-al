@@ -2,9 +2,14 @@
   "id": 152509079,
   "type": "Feature",
   "properties": {
+    "addr:full":"924 Alton Pkwy Birmingham AL 35210",
+    "addr:housenumber":"924",
+    "addr:postcode":"35210",
+    "addr:street":"Alton Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.645821,33.580636,-86.645821,33.580636",
     "geom:latitude":33.580636,
     "geom:longitude":-86.645821,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85913473,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"b6c7ad9b944a239ffe0bb5f6bd8b2243",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85913473,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152509079,
-    "wof:lastmodified":1466318352,
+    "wof:lastmodified":1491928883,
     "wof:name":"Lh Services",
     "wof:parent_id":85852855,
     "wof:placetype":"venue",

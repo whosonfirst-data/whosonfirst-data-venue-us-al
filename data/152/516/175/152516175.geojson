@@ -2,9 +2,14 @@
   "id": 152516175,
   "type": "Feature",
   "properties": {
+    "addr:full":"3433 Vanderbilt Rd Birmingham AL 35217",
+    "addr:housenumber":"3433",
+    "addr:postcode":"35217",
+    "addr:street":"Vanderbilt Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.783526,33.555077,-86.783526,33.555077",
     "geom:latitude":33.555077,
     "geom:longitude":-86.783526,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"9d2588d299099ca35dba1421c436c6a7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152516175,
-    "wof:lastmodified":1466318502,
+    "wof:lastmodified":1491930588,
     "wof:name":"E&A Adams Auto Clinic",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",

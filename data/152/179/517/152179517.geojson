@@ -2,9 +2,14 @@
   "id": 152179517,
   "type": "Feature",
   "properties": {
+    "addr:full":"322 Bradford Cir Trussville AL 35173",
+    "addr:housenumber":"322",
+    "addr:postcode":"35173",
+    "addr:street":"Bradford Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.62723,33.620411,-86.62723,33.620411",
     "geom:latitude":33.620411,
     "geom:longitude":-86.62723,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85913473,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"cde44bfff69dc7c0643bc7860573df7c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85913473,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152179517,
-    "wof:lastmodified":1466315681,
+    "wof:lastmodified":1491928870,
     "wof:name":"Motorsports Productions Inc",
     "wof:parent_id":85852855,
     "wof:placetype":"venue",

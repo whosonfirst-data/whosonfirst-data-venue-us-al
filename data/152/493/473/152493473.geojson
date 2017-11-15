@@ -2,9 +2,14 @@
   "id": 152493473,
   "type": "Feature",
   "properties": {
+    "addr:full":"5425 Rime Village Birmingham AL 35216",
+    "addr:housenumber":"5425",
+    "addr:postcode":"35216",
+    "addr:street":"Rime Village",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.791456,33.380247,-86.791456,33.380247",
     "geom:latitude":33.380247,
     "geom:longitude":-86.791456,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
@@ -44,6 +50,7 @@
     "wof:geomhash":"d7c400957c4cc4d3ee9b2923b2d9eb34",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":152493473,
-    "wof:lastmodified":1466318300,
+    "wof:lastmodified":1491927110,
     "wof:name":"Alabama Turnkey Specialists",
     "wof:parent_id":85858879,
     "wof:placetype":"venue",

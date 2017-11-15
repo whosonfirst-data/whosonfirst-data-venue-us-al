@@ -2,9 +2,14 @@
   "id": 102636109,
   "type": "Feature",
   "properties": {
+    "addr:full":"5200 Grantswood Rd Birmingham AL 35210",
+    "addr:housenumber":"5200",
+    "addr:postcode":"35210",
+    "addr:street":"Grantswood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.656578,33.529314,-86.656578,33.529314",
     "geom:latitude":33.529314,
     "geom:longitude":-86.656578,
@@ -30,10 +35,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
-        85804755
+        85804755,
+        85914835,
+        420510311
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +51,28 @@
     "wof:geomhash":"77bb68d01c6b43ff4a9f31b8eab0784a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
             "neighbourhood_id":85804755,
             "region_id":85688675,
             "venue_id":102636109
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914835,
+            "neighbourhood_id":420510311,
+            "region_id":85688675,
+            "venue_id":102636109
         }
     ],
     "wof:id":102636109,
-    "wof:lastmodified":1466317576,
+    "wof:lastmodified":1491922695,
     "wof:name":"Baron Aviation Inc",
-    "wof:parent_id":85804755,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

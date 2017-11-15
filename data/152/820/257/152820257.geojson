@@ -2,9 +2,14 @@
   "id": 152820257,
   "type": "Feature",
   "properties": {
+    "addr:full":"3417 26th St N Birmingham AL 35207",
+    "addr:housenumber":"3417",
+    "addr:postcode":"35207",
+    "addr:street":"26Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.819725,33.556066,-86.819725,33.556066",
     "geom:latitude":33.556066,
     "geom:longitude":-86.819725,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"ae10c056b7661ece8ab3c883a058ceab",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152820257,
-    "wof:lastmodified":1466319937,
+    "wof:lastmodified":1491929439,
     "wof:name":"Cannon Cars Inc",
     "wof:parent_id":85837367,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 102498205,
   "type": "Feature",
   "properties": {
+    "addr:full":"301 18th St S Birmingham AL 35233",
+    "addr:housenumber":"301",
+    "addr:postcode":"35233",
+    "addr:street":"18Th St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.805185,33.508167,-86.805185,33.508167",
     "geom:latitude":33.508167,
     "geom:longitude":-86.805185,
@@ -29,9 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
+        85876277,
         85819533
     ],
     "wof:breaches":[],
@@ -42,6 +49,16 @@
     "wof:geomhash":"2b9077d534fe4bc20ab5e967098ada8d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85876277,
+            "region_id":85688675,
+            "venue_id":102498205
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,9 +68,9 @@
         }
     ],
     "wof:id":102498205,
-    "wof:lastmodified":1466316400,
+    "wof:lastmodified":1491914561,
     "wof:name":"Jefferson Co Regular School",
-    "wof:parent_id":85819533,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

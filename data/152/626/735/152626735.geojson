@@ -2,9 +2,14 @@
   "id": 152626735,
   "type": "Feature",
   "properties": {
+    "addr:full":"1211 Water St Birmingham AL 35217",
+    "addr:housenumber":"1211",
+    "addr:postcode":"35217",
+    "addr:street":"Water St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.784492,33.56955,-86.784492,33.56955",
     "geom:latitude":33.56955,
     "geom:longitude":-86.784492,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"e3524db233fe2ae12e73a51d6bbdbb74",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152626735,
-    "wof:lastmodified":1466319037,
+    "wof:lastmodified":1491930587,
     "wof:name":"Advance Lawn Application",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",

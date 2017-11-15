@@ -2,9 +2,14 @@
   "id": 119137751,
   "type": "Feature",
   "properties": {
+    "addr:full":"7201 Colony Park Dr Birmingham AL 35243",
+    "addr:housenumber":"7201",
+    "addr:postcode":"35243",
+    "addr:street":"Colony Park Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.729564,33.431367,-86.729564,33.431367",
     "geom:latitude":33.431367,
     "geom:longitude":-86.729564,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"56d28e6fa5f1bd58610c91f87623586c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":119137751,
-    "wof:lastmodified":1466314791,
+    "wof:lastmodified":1491897901,
     "wof:name":"Cool World Window Tinting",
     "wof:parent_id":85856691,
     "wof:placetype":"venue",

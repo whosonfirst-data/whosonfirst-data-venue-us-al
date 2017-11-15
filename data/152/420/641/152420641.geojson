@@ -2,9 +2,14 @@
   "id": 152420641,
   "type": "Feature",
   "properties": {
+    "addr:full":"4308 Harmon St N Birmingham AL 35217",
+    "addr:housenumber":"4308",
+    "addr:postcode":"35217",
+    "addr:street":"Harmon St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.780666,33.570062,-86.780666,33.570062",
     "geom:latitude":33.570062,
     "geom:longitude":-86.780666,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"a39406014f3c31e8ecf603e96e685f11",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152420641,
-    "wof:lastmodified":1466317944,
+    "wof:lastmodified":1491930591,
     "wof:name":"Sharons Crafts & Gifts",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",

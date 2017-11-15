@@ -2,9 +2,14 @@
   "id": 102450923,
   "type": "Feature",
   "properties": {
+    "addr:full":"8 Norwood Cir Birmingham AL 35234",
+    "addr:housenumber":"8",
+    "addr:postcode":"35234",
+    "addr:street":"Norwood Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.795325,33.538167,-86.795325,33.538167",
     "geom:latitude":33.538167,
     "geom:longitude":-86.795325,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"27f2968d030495bf1366c81ac49d8fe4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":102450923,
-    "wof:lastmodified":1466314720,
+    "wof:lastmodified":1491885657,
     "wof:name":"Unique Catering",
     "wof:parent_id":85838531,
     "wof:placetype":"venue",

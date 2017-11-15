@@ -2,9 +2,14 @@
   "id": 152398049,
   "type": "Feature",
   "properties": {
+    "addr:full":"1801 Ave H Birmingham AL 35218",
+    "addr:housenumber":"1801",
+    "addr:postcode":"35218",
+    "addr:street":"Ave H",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.893479,33.511843,-86.893479,33.511843",
     "geom:latitude":33.511843,
     "geom:longitude":-86.893479,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"a9d2d90c3a6a0b88e9d56bc9c72bbc47",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152398049,
-    "wof:lastmodified":1466317824,
+    "wof:lastmodified":1491887292,
     "wof:name":"J & K Food Store",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

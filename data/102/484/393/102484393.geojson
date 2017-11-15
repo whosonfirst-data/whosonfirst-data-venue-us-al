@@ -2,9 +2,14 @@
   "id": 102484393,
   "type": "Feature",
   "properties": {
+    "addr:full":"2000 Riverchase Galleria Birmingham AL 35244",
+    "addr:housenumber":"2000",
+    "addr:postcode":"35244",
+    "addr:street":"Riverchase Galleria",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.810181,33.376836,-86.810181,33.376836",
     "geom:latitude":33.376836,
     "geom:longitude":-86.810181,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
@@ -43,6 +49,7 @@
     "wof:geomhash":"c0ffa2cbfe9d84aee557f9ffaa57889c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":102484393,
-    "wof:lastmodified":1466315765,
+    "wof:lastmodified":1491927104,
     "wof:name":"Jessica Mc Clintock Boutique",
     "wof:parent_id":85858879,
     "wof:placetype":"venue",

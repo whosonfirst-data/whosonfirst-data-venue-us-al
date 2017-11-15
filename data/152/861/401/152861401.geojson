@@ -2,9 +2,14 @@
   "id": 152861401,
   "type": "Feature",
   "properties": {
+    "addr:full":"2700 Riverchase Galleria Birmingham AL 35244",
+    "addr:housenumber":"2700",
+    "addr:postcode":"35244",
+    "addr:street":"Riverchase Galleria",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.8115,33.380946,-86.8115,33.380946",
     "geom:latitude":33.380946,
     "geom:longitude":-86.8115,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"fce32f6d299403640a43440bc5e2f966",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152861401,
-    "wof:lastmodified":1466320378,
+    "wof:lastmodified":1491927125,
     "wof:name":"Premier Salon",
     "wof:parent_id":85858879,
     "wof:placetype":"venue",

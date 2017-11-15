@@ -2,9 +2,14 @@
   "id": 152359273,
   "type": "Feature",
   "properties": {
+    "addr:full":"2321 4th Ave S Birmingham AL 35233",
+    "addr:housenumber":"2321",
+    "addr:postcode":"35233",
+    "addr:street":"4Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.79652,33.511603,-86.79652,33.511603",
     "geom:latitude":33.511603,
     "geom:longitude":-86.79652,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -43,6 +49,7 @@
     "wof:geomhash":"90905576d48bebfda9b6d634e054bd62",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":152359273,
-    "wof:lastmodified":1466317761,
+    "wof:lastmodified":1491921700,
     "wof:name":"Driver's Choice Automotive Svc",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

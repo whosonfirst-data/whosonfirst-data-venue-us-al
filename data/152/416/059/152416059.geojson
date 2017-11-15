@@ -2,9 +2,14 @@
   "id": 152416059,
   "type": "Feature",
   "properties": {
+    "addr:full":"630 18th St SW Birmingham AL 35211",
+    "addr:housenumber":"630",
+    "addr:postcode":"35211",
+    "addr:street":"18Th St Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.865715,33.484783,-86.865715,33.484783",
     "geom:latitude":33.484783,
     "geom:longitude":-86.865715,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"94d38c1dee4d28fbb8a869526fbb5bcc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152416059,
-    "wof:lastmodified":1466317893,
+    "wof:lastmodified":1491887282,
     "wof:name":"Robert E Lee Elementary School",
     "wof:parent_id":85818187,
     "wof:placetype":"venue",

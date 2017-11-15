@@ -2,9 +2,14 @@
   "id": 152146637,
   "type": "Feature",
   "properties": {
+    "addr:full":"3004 4th Ave S Birmingham AL 35233",
+    "addr:housenumber":"3004",
+    "addr:postcode":"35233",
+    "addr:street":"4Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.787019,33.516287,-86.787019,33.516287",
     "geom:latitude":33.516287,
     "geom:longitude":-86.787019,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -45,6 +51,7 @@
     "wof:geomhash":"8db03726d26ac135b698894c15d09b6f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":152146637,
-    "wof:lastmodified":1466315444,
+    "wof:lastmodified":1491921689,
     "wof:name":"Sound Advice",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

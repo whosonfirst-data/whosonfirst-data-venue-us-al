@@ -2,9 +2,14 @@
   "id": 102506797,
   "type": "Feature",
   "properties": {
+    "addr:full":"1920 Ave C Birmingham AL 35218",
+    "addr:housenumber":"",
+    "addr:postcode":"35218",
+    "addr:street":"1920 Ave C",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.899263,33.514123,-86.899263,33.514123",
     "geom:latitude":33.514123,
     "geom:longitude":-86.899263,
@@ -34,10 +39,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
-        85848275
+        85818187
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,18 +53,19 @@
     "wof:geomhash":"4ede173593adfe17a97b82691cdaeffb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
-            "neighbourhood_id":85848275,
+            "neighbourhood_id":85818187,
             "region_id":85688675,
             "venue_id":102506797
         }
     ],
     "wof:id":102506797,
-    "wof:lastmodified":1466316679,
+    "wof:lastmodified":1491887271,
     "wof:name":"Custom Trophies & Plaque Shop",
-    "wof:parent_id":85848275,
+    "wof:parent_id":85818187,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 152853047,
   "type": "Feature",
   "properties": {
+    "addr:full":"4197 Crosshaven Dr Birmingham AL 35243",
+    "addr:housenumber":"4197",
+    "addr:postcode":"35243",
+    "addr:street":"Crosshaven Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.730837,33.4555,-86.730837,33.4555",
     "geom:latitude":33.4555,
     "geom:longitude":-86.730837,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -40,6 +46,7 @@
     "wof:geomhash":"d779d403eeb7e6f0c1ecbb93d569a82e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":152853047,
-    "wof:lastmodified":1466320116,
+    "wof:lastmodified":1491897868,
     "wof:name":"CVS Pharmacy",
     "wof:parent_id":85856691,
     "wof:placetype":"venue",

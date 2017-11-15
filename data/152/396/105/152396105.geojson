@@ -2,9 +2,14 @@
   "id": 152396105,
   "type": "Feature",
   "properties": {
+    "addr:full":"3530 Lorna Rd Birmingham AL 35216",
+    "addr:housenumber":"3530",
+    "addr:postcode":"35216",
+    "addr:street":"Lorna Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.794127,33.384911,-86.794127,33.384911",
     "geom:latitude":33.384911,
     "geom:longitude":-86.794127,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"89dc68bf0ad60602555b4fb578cfa7a4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152396105,
-    "wof:lastmodified":1466317825,
+    "wof:lastmodified":1491927113,
     "wof:name":"Aldridge Gardens",
     "wof:parent_id":85858879,
     "wof:placetype":"venue",

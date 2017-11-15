@@ -2,14 +2,20 @@
   "id": 152873799,
   "type": "Feature",
   "properties": {
+    "addr:full":"1901 10th Ave S Birmingham AL 35205",
+    "addr:housenumber":"1901",
+    "addr:postcode":"35205",
+    "addr:street":"10Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.797919,33.501621,-86.797919,33.501621",
     "geom:latitude":33.501621,
     "geom:longitude":-86.797919,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1901 10th Ave S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -26,19 +32,42 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
+        85876277,
+        85813175,
         85819533
     ],
+    "wof:brand_id":1125150109,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3g0ht94KoJJ4Ld4zj4oOax_33.501621_-86.797919@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"97f7aff22f269a0a23daac540b9980d1",
+    "wof:geomhash":"64b5ad18dc98095158ec3daa3e82fbfd",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85876277,
+            "region_id":85688675,
+            "venue_id":152873799
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85813175,
+            "region_id":85688675,
+            "venue_id":152873799
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,9 +77,9 @@
         }
     ],
     "wof:id":152873799,
-    "wof:lastmodified":1466320224,
+    "wof:lastmodified":1510694637,
     "wof:name":"Uswa",
-    "wof:parent_id":85819533,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

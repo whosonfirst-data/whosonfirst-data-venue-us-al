@@ -2,9 +2,14 @@
   "id": 152601917,
   "type": "Feature",
   "properties": {
+    "addr:full":"2100 8th Ct S Birmingham AL 35205",
+    "addr:housenumber":"2100",
+    "addr:postcode":"35205",
+    "addr:street":"8Th Ct S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.79654,33.505061,-86.79654,33.505061",
     "geom:latitude":33.505061,
     "geom:longitude":-86.79654,
@@ -26,11 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
-        85819533,
-        85876277
+        85876277,
+        85819533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,26 +46,28 @@
     "wof:geomhash":"dc2ded1bd74f154541d63a70c0fa1ac1",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102085481,
-            "locality_id":85914465,
-            "neighbourhood_id":85819533,
-            "region_id":85688675,
-            "venue_id":152601917
-        },
-        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
             "neighbourhood_id":85876277,
             "region_id":85688675,
             "venue_id":152601917
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85819533,
+            "region_id":85688675,
+            "venue_id":152601917
         }
     ],
     "wof:id":152601917,
-    "wof:lastmodified":1466318841,
+    "wof:lastmodified":1491914562,
     "wof:name":"Cat Haven Veterinary Clinic",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

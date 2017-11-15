@@ -2,9 +2,14 @@
   "id": 102486525,
   "type": "Feature",
   "properties": {
+    "addr:full":"2521 Alton Rd Birmingham AL 35210",
+    "addr:housenumber":"2521",
+    "addr:postcode":"35210",
+    "addr:street":"Alton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.641207,33.577297,-86.641207,33.577297",
     "geom:latitude":33.577297,
     "geom:longitude":-86.641207,
@@ -28,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85914465,
-        85633793,
         85688675,
-        102085481
+        102191575,
+        85633793,
+        85913473,
+        102085481,
+        85852855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +48,19 @@
     "wof:geomhash":"5515a6f7677b7d05fbe0746b2eb6bc25",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
-            "locality_id":85914465,
+            "locality_id":85913473,
+            "neighbourhood_id":85852855,
             "region_id":85688675,
             "venue_id":102486525
         }
     ],
     "wof:id":102486525,
-    "wof:lastmodified":1466315686,
+    "wof:lastmodified":1491928874,
     "wof:name":"Sullivan Service",
-    "wof:parent_id":-1,
+    "wof:parent_id":85852855,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

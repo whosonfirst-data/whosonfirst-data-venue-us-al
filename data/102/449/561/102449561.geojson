@@ -2,9 +2,14 @@
   "id": 102449561,
   "type": "Feature",
   "properties": {
+    "addr:full":"2101 Ave C Birmingham AL 35218",
+    "addr:housenumber":"2101",
+    "addr:postcode":"35218",
+    "addr:street":"Ave C",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.900934,33.511746,-86.900934,33.511746",
     "geom:latitude":33.511746,
     "geom:longitude":-86.900934,
@@ -29,10 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
-        85848275
+        85818187
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,18 +48,19 @@
     "wof:geomhash":"05cb3d26a18709ba56cf47e8f98121c1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
-            "neighbourhood_id":85848275,
+            "neighbourhood_id":85818187,
             "region_id":85688675,
             "venue_id":102449561
         }
     ],
     "wof:id":102449561,
-    "wof:lastmodified":1466314620,
+    "wof:lastmodified":1491887269,
     "wof:name":"Wee Manage Tuxedo Pre School",
-    "wof:parent_id":85848275,
+    "wof:parent_id":85818187,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

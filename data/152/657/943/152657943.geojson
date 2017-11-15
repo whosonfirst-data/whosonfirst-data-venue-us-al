@@ -2,9 +2,14 @@
   "id": 152657943,
   "type": "Feature",
   "properties": {
+    "addr:full":"3817 Vanderbilt Rd Birmingham AL 35217",
+    "addr:housenumber":"3817",
+    "addr:postcode":"35217",
+    "addr:street":"Vanderbilt Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.783463,33.559949,-86.783463,33.559949",
     "geom:latitude":33.559949,
     "geom:longitude":-86.783463,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -42,6 +48,7 @@
     "wof:geomhash":"250c80fa3d3e00a34f2422d898cb3aa8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":152657943,
-    "wof:lastmodified":1466319304,
+    "wof:lastmodified":1491930576,
     "wof:name":"Inglenook Church Of Christ",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 102497123,
   "type": "Feature",
   "properties": {
+    "addr:full":"1500 31st St SW Birmingham AL 35221",
+    "addr:housenumber":"1500",
+    "addr:postcode":"35221",
+    "addr:street":"31St St Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.883088,33.469363,-86.883088,33.469363",
     "geom:latitude":33.469363,
     "geom:longitude":-86.883088,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85914465,
-        85633793,
         85688675,
-        102085481
+        102191575,
+        85633793,
+        85914465,
+        102085481,
+        85832747,
+        85818187
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +49,28 @@
     "wof:geomhash":"85cb9a995669a0b751f3b21b01be1ef8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
+            "neighbourhood_id":85832747,
+            "region_id":85688675,
+            "venue_id":102497123
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85818187,
             "region_id":85688675,
             "venue_id":102497123
         }
     ],
     "wof:id":102497123,
-    "wof:lastmodified":1466316462,
+    "wof:lastmodified":1491887286,
     "wof:name":"Sneaky Petes Powderly",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

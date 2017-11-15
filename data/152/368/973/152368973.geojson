@@ -2,9 +2,14 @@
   "id": 152368973,
   "type": "Feature",
   "properties": {
+    "addr:full":"2010 1st Ave N Birmingham AL 35210",
+    "addr:housenumber":"2010",
+    "addr:postcode":"35210",
+    "addr:street":"1St Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.706606,33.539683,-86.706606,33.539683",
     "geom:latitude":33.539683,
     "geom:longitude":-86.706606,
@@ -26,8 +31,9 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
-        85914465,
+        85914835,
         102085481,
         85819529
     ],
@@ -39,16 +45,17 @@
     "wof:geomhash":"b5558ebc7a901c183533740f4b6d3992",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
-            "locality_id":85914465,
+            "locality_id":85914835,
             "neighbourhood_id":85819529,
             "region_id":85688675,
             "venue_id":152368973
         }
     ],
     "wof:id":152368973,
-    "wof:lastmodified":1466317678,
+    "wof:lastmodified":1491905252,
     "wof:name":"Sewell Accounting",
     "wof:parent_id":85819529,
     "wof:placetype":"venue",

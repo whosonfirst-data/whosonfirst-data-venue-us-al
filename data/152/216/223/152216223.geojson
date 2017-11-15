@@ -2,9 +2,14 @@
   "id": 152216223,
   "type": "Feature",
   "properties": {
+    "addr:full":"3900 44th St N Birmingham AL 35217",
+    "addr:housenumber":"3900",
+    "addr:postcode":"35217",
+    "addr:street":"44Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.770878,33.561795,-86.770878,33.561795",
     "geom:latitude":33.561795,
     "geom:longitude":-86.770878,
@@ -35,6 +40,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -48,6 +54,7 @@
     "wof:geomhash":"4314f8c5b44e341b817eaf91c99dc8f3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":152216223,
-    "wof:lastmodified":1466316091,
+    "wof:lastmodified":1491930591,
     "wof:name":"Andrea's Entourage",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",

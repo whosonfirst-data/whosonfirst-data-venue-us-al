@@ -2,9 +2,14 @@
   "id": 152207801,
   "type": "Feature",
   "properties": {
+    "addr:full":"3730 Stone Ridge Ter Birmingham AL 35216",
+    "addr:housenumber":"3730",
+    "addr:postcode":"35216",
+    "addr:street":"Stone Ridge Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.786656,33.390167,-86.786656,33.390167",
     "geom:latitude":33.390167,
     "geom:longitude":-86.786656,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914475,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"823c0f6a6559bc44590b76b8c9822680",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914475,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152207801,
-    "wof:lastmodified":1466316113,
+    "wof:lastmodified":1491927113,
     "wof:name":"Aspen Communications",
     "wof:parent_id":85858879,
     "wof:placetype":"venue",

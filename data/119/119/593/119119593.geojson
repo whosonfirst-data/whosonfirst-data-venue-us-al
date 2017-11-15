@@ -2,9 +2,14 @@
   "id": 119119593,
   "type": "Feature",
   "properties": {
+    "addr:full":"312 28th St N Birmingham AL 35203",
+    "addr:housenumber":"312",
+    "addr:postcode":"35203",
+    "addr:street":"28Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.796549,33.522256,-86.796549,33.522256",
     "geom:latitude":33.522256,
     "geom:longitude":-86.796549,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -43,6 +49,7 @@
     "wof:geomhash":"da73c686a8a282f61177819f572b8ec5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":119119593,
-    "wof:lastmodified":1466314416,
+    "wof:lastmodified":1491921739,
     "wof:name":"Penske",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

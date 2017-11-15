@@ -2,9 +2,14 @@
   "id": 152389091,
   "type": "Feature",
   "properties": {
+    "addr:full":"757 44th St N Birmingham AL 35212",
+    "addr:housenumber":"757",
+    "addr:postcode":"35212",
+    "addr:street":"44Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.772259,33.536419,-86.772259,33.536419",
     "geom:latitude":33.536419,
     "geom:longitude":-86.772259,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"f7fa8cfa2502d94bbfa40b443af78261",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152389091,
-    "wof:lastmodified":1466317945,
+    "wof:lastmodified":1491930585,
     "wof:name":"Metalplate",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",

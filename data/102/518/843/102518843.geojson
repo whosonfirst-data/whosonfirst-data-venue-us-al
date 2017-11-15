@@ -2,9 +2,14 @@
   "id": 102518843,
   "type": "Feature",
   "properties": {
+    "addr:full":"2424 7th Ave S Birmingham AL 35233",
+    "addr:housenumber":"2424",
+    "addr:postcode":"35233",
+    "addr:street":"7Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.793314,33.50904,-86.793314,33.50904",
     "geom:latitude":33.50904,
     "geom:longitude":-86.793314,
@@ -26,10 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
-        85876275
+        85876269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +45,19 @@
     "wof:geomhash":"be871e305186c83b7bfe4a5d6c4eb202",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
-            "neighbourhood_id":85876275,
+            "neighbourhood_id":85876269,
             "region_id":85688675,
             "venue_id":102518843
         }
     ],
     "wof:id":102518843,
-    "wof:lastmodified":1466317033,
+    "wof:lastmodified":1491921690,
     "wof:name":"McM Designs",
-    "wof:parent_id":85876275,
+    "wof:parent_id":85876269,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

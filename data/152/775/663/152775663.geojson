@@ -2,9 +2,14 @@
   "id": 152775663,
   "type": "Feature",
   "properties": {
+    "addr:full":"2200 8th Ave N Birmingham AL 35203",
+    "addr:housenumber":"2200",
+    "addr:postcode":"35203",
+    "addr:street":"8Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.806344,33.523511,-86.806344,33.523511",
     "geom:latitude":33.523511,
     "geom:longitude":-86.806344,
@@ -25,10 +30,14 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85914465,
-        85633793,
         85688675,
-        102085481
+        102191575,
+        85633793,
+        85914465,
+        102085481,
+        85831933,
+        85876269,
+        85876273
     ],
     "wof:brand_id":420575429,
     "wof:breaches":[],
@@ -39,17 +48,37 @@
     "wof:geomhash":"def6c3029f8186b4a1ead56e97f46960",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
+            "neighbourhood_id":85831933,
+            "region_id":85688675,
+            "venue_id":152775663
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85876269,
+            "region_id":85688675,
+            "venue_id":152775663
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85876273,
             "region_id":85688675,
             "venue_id":152775663
         }
     ],
     "wof:id":152775663,
-    "wof:lastmodified":1466319715,
+    "wof:lastmodified":1491895410,
     "wof:name":"Sheriffs Dept",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

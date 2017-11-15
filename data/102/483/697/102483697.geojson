@@ -2,9 +2,14 @@
   "id": 102483697,
   "type": "Feature",
   "properties": {
+    "addr:full":"1717 11th Ave S Birmingham AL 35205",
+    "addr:housenumber":"1717",
+    "addr:postcode":"35205",
+    "addr:street":"11Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.800006,33.498759,-86.800006,33.498759",
     "geom:latitude":33.498759,
     "geom:longitude":-86.800006,
@@ -29,9 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
+        85876277,
         85819533
     ],
     "wof:breaches":[],
@@ -42,6 +49,16 @@
     "wof:geomhash":"24a13eafcce9a0b631bbc6499a614164",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85876277,
+            "region_id":85688675,
+            "venue_id":102483697
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -51,9 +68,9 @@
         }
     ],
     "wof:id":102483697,
-    "wof:lastmodified":1466315682,
+    "wof:lastmodified":1491914568,
     "wof:name":"Mona M D Fouad",
-    "wof:parent_id":85819533,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

@@ -2,14 +2,20 @@
   "id": 119131905,
   "type": "Feature",
   "properties": {
+    "addr:full":"125 32nd St S Birmingham AL 35233",
+    "addr:housenumber":"125",
+    "addr:postcode":"35233",
+    "addr:street":"32Nd St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.786878,33.518999,-86.786878,33.518999",
     "geom:latitude":33.518999,
     "geom:longitude":-86.786878,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"125 32nd St S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -31,19 +37,22 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
         85876269
     ],
+    "wof:brand_id":1125158223,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1aBF2gcwlvtlDUBKTaq7Nt_33.518999_-86.786878@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"57ec9bfec1d98da0cfc1ef452c6b72bb",
+    "wof:geomhash":"7c66fb2bb2a741d6c50c81bb6583c274",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":119131905,
-    "wof:lastmodified":1466314557,
+    "wof:lastmodified":1510613202,
     "wof:name":"Wesco Distribution Inc",
     "wof:parent_id":85876269,
     "wof:placetype":"venue",

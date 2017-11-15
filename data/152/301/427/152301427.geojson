@@ -2,9 +2,14 @@
   "id": 152301427,
   "type": "Feature",
   "properties": {
+    "addr:full":"4317 9th Ave N Birmingham AL 35212",
+    "addr:housenumber":"4317",
+    "addr:postcode":"35212",
+    "addr:street":"9Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.773001,33.539742,-86.773001,33.539742",
     "geom:latitude":33.539742,
     "geom:longitude":-86.773001,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"ae5568c04448ca8975b9832abcbfae09",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152301427,
-    "wof:lastmodified":1466317144,
+    "wof:lastmodified":1491930584,
     "wof:name":"Highlander Laundry",
     "wof:parent_id":85815977,
     "wof:placetype":"venue",

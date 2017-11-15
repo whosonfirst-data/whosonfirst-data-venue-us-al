@@ -2,9 +2,14 @@
   "id": 152131973,
   "type": "Feature",
   "properties": {
+    "addr:full":"1212 University Blvd Birmingham AL 35294",
+    "addr:housenumber":"1212",
+    "addr:postcode":"35294",
+    "addr:street":"University Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.808843,33.499908,-86.808843,33.499908",
     "geom:latitude":33.499908,
     "geom:longitude":-86.808843,
@@ -26,11 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
-        85819533,
-        85813175
+        85813175,
+        85819533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,26 +46,28 @@
     "wof:geomhash":"200dfd367e068b22a049a35e6bc7c86c",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102085481,
-            "locality_id":85914465,
-            "neighbourhood_id":85819533,
-            "region_id":85688675,
-            "venue_id":152131973
-        },
-        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
             "neighbourhood_id":85813175,
             "region_id":85688675,
             "venue_id":152131973
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085481,
+            "locality_id":85914465,
+            "neighbourhood_id":85819533,
+            "region_id":85688675,
+            "venue_id":152131973
         }
     ],
     "wof:id":152131973,
-    "wof:lastmodified":1466315159,
+    "wof:lastmodified":1491914558,
     "wof:name":"Department of Sociology",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],

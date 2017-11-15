@@ -2,9 +2,14 @@
   "id": 152287741,
   "type": "Feature",
   "properties": {
+    "addr:full":"4832 Bridgewater Rd Birmingham AL 35243",
+    "addr:housenumber":"4832",
+    "addr:postcode":"35243",
+    "addr:street":"Bridgewater Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.732587,33.417093,-86.732587,33.417093",
     "geom:latitude":33.417093,
     "geom:longitude":-86.732587,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688675,
+        102191575,
         85633793,
         85914465,
         102085481,
@@ -39,6 +45,7 @@
     "wof:geomhash":"781e62a7ad3ac8338b285c453094261a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085481,
             "locality_id":85914465,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":152287741,
-    "wof:lastmodified":1466317000,
+    "wof:lastmodified":1491897897,
     "wof:name":"Hoh Gymnastics Inc",
     "wof:parent_id":85856691,
     "wof:placetype":"venue",
