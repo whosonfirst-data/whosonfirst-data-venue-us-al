@@ -7,13 +7,16 @@
     "addr:postcode":"35228",
     "addr:street":"Phillips Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.90907,33.464176,-86.90907,33.464176",
     "geom:latitude":33.464176,
     "geom:longitude":-86.90907,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"11 Phillips Dr",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_2YQYeyNC8r1z3tU4VtFIjK_33.464176_-86.909070@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"f2df6448a8cf72f9ad5e9568b0123246",
+    "wof:geomhash":"b49f081056c922cff895797e26186c14",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":102465317,
-    "wof:lastmodified":1472597492,
+    "wof:lastmodified":1510941835,
     "wof:name":"McDonalds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840472567
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

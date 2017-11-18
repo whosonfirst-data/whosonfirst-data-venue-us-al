@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.566498,34.644498,-86.566498,34.644498",
     "geom:latitude":34.644498,
     "geom:longitude":-86.566498,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"10031 Memorial Pkwy SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -41,11 +43,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":468838660,
         "sg:id":"SG_6Uq2WiK5f61gFvUhAZ0jte_34.644498_-86.566498@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463620777,
-    "wof:geomhash":"17503fc3e1bd1074475d3bdfa66cade3",
+    "wof:geomhash":"03143ab8638b72066d132792a801ab41",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,13 +60,15 @@
         }
     ],
     "wof:id":840475087,
-    "wof:lastmodified":1472597579,
+    "wof:lastmodified":1510943723,
     "wof:name":"McDonald's",
     "wof:parent_id":85825687,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        102463225
+    ],
     "wof:tags":[
         "burger",
         "american"

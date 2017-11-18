@@ -7,6 +7,7 @@
     "addr:postcode":"35233",
     "addr:street":"University Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-86.798968,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2007 University Blvd",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1463620719,
-    "wof:geomhash":"2661856cebc4da8ba99d890a3818ed92",
+    "wof:geomhash":"5f07661483850c5e9a4eaa2fb466b64a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,12 +69,14 @@
         }
     ],
     "wof:id":840472627,
-    "wof:lastmodified":1491914554,
+    "wof:lastmodified":1510942580,
     "wof:name":"Lucy's Coffee and Tea",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840490375
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

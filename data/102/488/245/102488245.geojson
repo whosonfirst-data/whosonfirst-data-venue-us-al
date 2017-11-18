@@ -7,13 +7,16 @@
     "addr:postcode":"35203",
     "addr:street":"6Th Ave N",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.811908,33.517733,-86.811908,33.517733",
     "geom:latitude":33.517733,
     "geom:longitude":-86.811908,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1715 6th Ave N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_2uLWQhjdagZeaSnx3DkTHB_33.517733_-86.811908@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"5e9db0537d3259bb75a3667b6d86fcdb",
+    "wof:geomhash":"9ad0d78811b507d18e649f15bf0ab9bd",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":102488245,
-    "wof:lastmodified":1472597522,
+    "wof:lastmodified":1510943027,
     "wof:name":"AT&T",
     "wof:parent_id":85820315,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840485929
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
