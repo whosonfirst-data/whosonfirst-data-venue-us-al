@@ -2,18 +2,24 @@
   "id": 102446873,
   "type": "Feature",
   "properties": {
-    "addr:full":"1905 Alabama Ave Bessemer AL 35020",
+    "addr:city":"Bessemer",
+    "addr:full":"1905 Alabama Ave Bessemer, Al 35020-5009",
+    "addr:house_number":"1905",
     "addr:housenumber":"1905",
-    "addr:postcode":"35020",
+    "addr:phone":"+1 205-426-1633",
+    "addr:postcode":"35020-5009",
+    "addr:road":"Alabama Ave",
+    "addr:state":"AL",
     "addr:street":"Alabama Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-86.94968,33.401991,-86.94968,33.401991",
-    "geom:latitude":33.401991,
-    "geom:longitude":-86.94968,
+    "geom:bbox":"-86.95051,33.40094,-86.95051,33.40094",
+    "geom:latitude":33.40094,
+    "geom:longitude":-86.95051,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1905 Alabama Ave",
     "sg:city":"Bessemer",
     "sg:classifiers":[
@@ -30,20 +36,22 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
-        85688675,
+        85807371,
         85633793,
         85914885,
         102085481,
-        85807371
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400100127,
         "sg:id":"SG_4GuTeL16BuGISc7Lzobm6d_33.401991_-86.949680@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"fd3af2e73d2359e1ab1fdad2d6741b0f",
+    "wof:geomhash":"1100e3542e38da0516c54fcaaf7bec58",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +63,7 @@
         }
     ],
     "wof:id":102446873,
-    "wof:lastmodified":1472597447,
+    "wof:lastmodified":1533754257,
     "wof:name":"Bessemer Hall Of History",
     "wof:parent_id":85807371,
     "wof:placetype":"venue",
@@ -65,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -86.94968,
-    33.401991,
-    -86.94968,
-    33.401991
+    -86.95051,
+    33.40094,
+    -86.95051,
+    33.40094
 ],
-  "geometry": {"coordinates":[-86.94968,33.401991],"type":"Point"}
+  "geometry": {"coordinates":[-86.95050999999999,33.40094],"type":"Point"}
 }

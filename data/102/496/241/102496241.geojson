@@ -2,18 +2,24 @@
   "id": 102496241,
   "type": "Feature",
   "properties": {
-    "addr:full":"325 E Vandiver Blvd Montgomery AL 36110",
+    "addr:city":"Montgomery",
+    "addr:full":"325 E Vandiver Blvd Montgomery, Al 36110",
+    "addr:house_number":"325",
     "addr:housenumber":"325",
+    "addr:phone":"+1 334-240-4900",
     "addr:postcode":"36110",
+    "addr:road":"E Vandiver Blvd",
+    "addr:state":"AL",
     "addr:street":"E Vandiver Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-86.279493,32.417643,-86.279493,32.417643",
-    "geom:latitude":32.417643,
-    "geom:longitude":-86.279493,
+    "geom:bbox":"-86.27993,32.41765,-86.27993,32.41765",
+    "geom:latitude":32.41765,
+    "geom:longitude":-86.27993,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"325 E Vandiver Blvd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,20 +33,25 @@
     "sg:phone":"+1 334 240 4900",
     "sg:postcode":"36110",
     "sg:province":"AL",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527231,
+        102525683
+    ],
     "wof:belongsto":[
-        85688675,
+        85806939,
         85633793,
         85913947,
         102085733,
-        85806939
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400100034,
         "sg:id":"SG_2MQeH4recC01IXb52ioOxG_32.417643_-86.279493@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"89f1e99fe827d019b1ec967664b82179",
+    "wof:geomhash":"9356a58f1a8316b5d8795bce9c5e78c0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +63,7 @@
         }
     ],
     "wof:id":102496241,
-    "wof:lastmodified":1472597613,
+    "wof:lastmodified":1533754260,
     "wof:name":"Mann Wildlife Learning Museum",
     "wof:parent_id":85806939,
     "wof:placetype":"venue",
@@ -62,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -86.279493,
-    32.417643,
-    -86.279493,
-    32.417643
+    -86.27993,
+    32.41765,
+    -86.27993,
+    32.41765
 ],
-  "geometry": {"coordinates":[-86.279493,32.417643],"type":"Point"}
+  "geometry": {"coordinates":[-86.27992999999999,32.41765],"type":"Point"}
 }

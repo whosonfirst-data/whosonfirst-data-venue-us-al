@@ -2,18 +2,25 @@
   "id": 152722131,
   "type": "Feature",
   "properties": {
-    "addr:full":"343 N Court St Prattville AL 36067",
+    "addr:city":"Prattville",
+    "addr:full":"343 N Court St Ste H Prattville, Al 36067-3005",
+    "addr:house_number":"343",
     "addr:housenumber":"343",
-    "addr:postcode":"36067",
+    "addr:phone":"+1 334-361-6006",
+    "addr:postcode":"36067-3005",
+    "addr:road":"N Court St",
+    "addr:state":"AL",
     "addr:street":"N Court St",
+    "addr:unit":"Ste H",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-86.475168,32.466279,-86.475168,32.466279",
-    "geom:latitude":32.466279,
-    "geom:longitude":-86.475168,
+    "geom:bbox":"-86.47505,32.46754,-86.47505,32.46754",
+    "geom:latitude":32.46754,
+    "geom:longitude":-86.47505,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"343 N Court St",
     "sg:city":"Prattville",
     "sg:classifiers":[
@@ -30,7 +37,11 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527231,
+        102525683
+    ],
     "wof:belongsto":[
         85913977,
         85633793,
@@ -39,10 +50,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400100403,
         "sg:id":"SG_0hNALjLinn8NmdZQqIJk35_32.466279_-86.475168@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"165f72b1dbe35eec2983ae09de14ebbb",
+    "wof:geomhash":"653e49e7212fdbd05293aca1dd768ade",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":152722131,
-    "wof:lastmodified":1472597940,
+    "wof:lastmodified":1533754262,
     "wof:name":"Peoples Historical Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -63,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -86.475168,
-    32.466279,
-    -86.475168,
-    32.466279
+    -86.47505,
+    32.46754,
+    -86.47505,
+    32.46754
 ],
-  "geometry": {"coordinates":[-86.475168,32.466279],"type":"Point"}
+  "geometry": {"coordinates":[-86.47505,32.46754],"type":"Point"}
 }

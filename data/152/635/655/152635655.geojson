@@ -2,18 +2,24 @@
   "id": 152635655,
   "type": "Feature",
   "properties": {
-    "addr:full":"501 Main St Waterloo AL 35677",
+    "addr:city":"Waterloo",
+    "addr:full":"501 Main St Waterloo, Al 35677",
+    "addr:house_number":"501",
     "addr:housenumber":"501",
+    "addr:phone":"+1 256-767-6081",
     "addr:postcode":"35677",
+    "addr:road":"Main St",
+    "addr:state":"AL",
     "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-88.063251,34.915197,-88.063251,34.915197",
-    "geom:latitude":34.915197,
-    "geom:longitude":-88.063251,
+    "geom:bbox":"-88.0635,34.914,-88.0635,34.914",
+    "geom:latitude":34.914,
+    "geom:longitude":-88.0635,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"501 Main St",
     "sg:city":"Waterloo",
     "sg:classifiers":[
@@ -27,7 +33,8 @@
     "sg:phone":"+1 256 767 6081",
     "sg:postcode":"35677",
     "sg:province":"AL",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85913985,
         85633793,
@@ -36,10 +43,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400100061,
         "sg:id":"SG_0HNQkvFt5uIhxIrQJ8aAvq_34.915197_-88.063251@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"fdab67014ed3ae2ba846c71670a510e9",
+    "wof:geomhash":"f231d87c9245a0a3170a4c56e2cd8ebd",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,8 +58,8 @@
         }
     ],
     "wof:id":152635655,
-    "wof:lastmodified":1472597896,
-    "wof:name":"Edith Newman Culver Memorial",
+    "wof:lastmodified":1533754262,
+    "wof:name":"Edith Newman Culver Memorial Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
@@ -60,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -88.063251,
-    34.915197,
-    -88.063251,
-    34.915197
+    -88.0635,
+    34.914,
+    -88.0635,
+    34.914
 ],
-  "geometry": {"coordinates":[-88.06325099999999,34.915197],"type":"Point"}
+  "geometry": {"coordinates":[-88.0635,34.914],"type":"Point"}
 }

@@ -2,18 +2,24 @@
   "id": 102625395,
   "type": "Feature",
   "properties": {
-    "addr:full":"917 W Barbour St Eufaula AL 36027",
+    "addr:city":"Eufaula",
+    "addr:full":"917 W Barbour St Eufaula, Al 36027",
+    "addr:house_number":"917",
     "addr:housenumber":"917",
+    "addr:phone":"+1 334-687-8469",
     "addr:postcode":"36027",
+    "addr:road":"W Barbour St",
+    "addr:state":"AL",
     "addr:street":"W Barbour St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-85.156074,31.891968,-85.156074,31.891968",
-    "geom:latitude":31.891968,
-    "geom:longitude":-85.156074,
+    "geom:bbox":"-85.1683,31.8911,-85.1683,31.8911",
+    "geom:latitude":31.8911,
+    "geom:longitude":-85.1683,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"917 W Barbour St",
     "sg:city":"Eufaula",
     "sg:classifiers":[
@@ -27,7 +33,8 @@
     "sg:phone":"+1 334 687 8469",
     "sg:postcode":"36027",
     "sg:province":"AL",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85899821,
         85633793,
@@ -36,10 +43,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400100066,
         "sg:id":"SG_2QBxx197niltrF2pw2Iwt4_31.891968_-85.156074@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"fb6c99701de9fb0e7801d932d08b66cb",
+    "wof:geomhash":"79f4ff45884ad04af28a15ec595e0b14",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +58,7 @@
         }
     ],
     "wof:id":102625395,
-    "wof:lastmodified":1472597691,
+    "wof:lastmodified":1533754262,
     "wof:name":"Fendall Hall",
     "wof:parent_id":85899821,
     "wof:placetype":"venue",
@@ -60,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -85.156074,
-    31.891968,
-    -85.156074,
-    31.891968
+    -85.1683,
+    31.8911,
+    -85.1683,
+    31.8911
 ],
-  "geometry": {"coordinates":[-85.156074,31.891968],"type":"Point"}
+  "geometry": {"coordinates":[-85.1683,31.8911],"type":"Point"}
 }

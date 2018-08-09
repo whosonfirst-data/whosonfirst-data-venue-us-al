@@ -2,18 +2,23 @@
   "id": 152507183,
   "type": "Feature",
   "properties": {
-    "addr:full":"2521 W Fort Toulouse Rd Wetumpka AL 36093",
+    "addr:city":"Wetumpka",
+    "addr:full":"2521 W Fort Toulouse Road Wetumpka, Al 36093",
+    "addr:house_number":"2521",
     "addr:housenumber":"2521",
     "addr:postcode":"36093",
+    "addr:road":"W Fort Toulouse Road",
+    "addr:state":"AL",
     "addr:street":"W Fort Toulouse Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-86.258642,32.5036,-86.258642,32.5036",
-    "geom:latitude":32.5036,
-    "geom:longitude":-86.258642,
+    "geom:bbox":"-86.25495,32.50421,-86.25495,32.50421",
+    "geom:latitude":32.50421,
+    "geom:longitude":-86.25495,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2521 W Fort Toulouse Rd",
     "sg:city":"Wetumpka",
     "sg:classifiers":[
@@ -30,20 +35,25 @@
     "sg:tags":[
         "parks"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527231,
+        102525683
+    ],
     "wof:belongsto":[
-        85688675,
+        85806527,
         85633793,
         85913951,
         102085631,
-        85806527
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409400195,
         "sg:id":"SG_2t3WvQEkO02E1EcKLra0E8_32.503600_-86.258642@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"9b2d3389dd486aaeab8967b74023767a",
+    "wof:geomhash":"ecee3983670c03278df787853387cfb5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,8 +65,8 @@
         }
     ],
     "wof:id":152507183,
-    "wof:lastmodified":1472597835,
-    "wof:name":"Fort Toulouse-Jackson Park",
+    "wof:lastmodified":1533754262,
+    "wof:name":"Fort Toulouse - Fort Jackson",
     "wof:parent_id":85806527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
@@ -65,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -86.258642,
-    32.5036,
-    -86.258642,
-    32.5036
+    -86.25495,
+    32.50421,
+    -86.25495,
+    32.50421
 ],
-  "geometry": {"coordinates":[-86.25864199999999,32.5036],"type":"Point"}
+  "geometry": {"coordinates":[-86.25494999999999,32.50421],"type":"Point"}
 }

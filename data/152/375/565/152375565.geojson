@@ -2,18 +2,23 @@
   "id": 152375565,
   "type": "Feature",
   "properties": {
-    "addr:full":"1631 4th Ave N Birmingham AL 35203",
+    "addr:city":"Birmingham",
+    "addr:full":"1631 4Th Ave N Birmingham, Al 35203-1903",
+    "addr:house_number":"1631",
     "addr:housenumber":"1631",
-    "addr:postcode":"35203",
+    "addr:postcode":"35203-1903",
+    "addr:road":"4Th Ave N",
+    "addr:state":"AL",
     "addr:street":"4Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-86.812104,33.514917,-86.812104,33.514917",
-    "geom:latitude":33.514917,
-    "geom:longitude":-86.812104,
+    "geom:bbox":"-86.81283,33.51458,-86.81283,33.51458",
+    "geom:latitude":33.51458,
+    "geom:longitude":-86.81283,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1631 4th Ave N",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -31,20 +36,24 @@
         "program",
         "administrative"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527725
+    ],
     "wof:belongsto":[
-        85688675,
+        85820315,
         85633793,
         85914465,
         102085481,
-        85820315
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400100298,
         "sg:id":"SG_7c4qMsq5cXR7FI6JEXuIZk_33.514917_-86.812104@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"2cb857312db11bc5096e1c04ca36971a",
+    "wof:geomhash":"6187e786ac7eea72abe78cdc478eec9a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":152375565,
-    "wof:lastmodified":1472597758,
+    "wof:lastmodified":1533754259,
     "wof:name":"Alabama Jazz Hall Of Fame",
     "wof:parent_id":85820315,
     "wof:placetype":"venue",
@@ -66,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -86.812104,
-    33.514917,
-    -86.812104,
-    33.514917
+    -86.81283,
+    33.51458,
+    -86.81283,
+    33.51458
 ],
-  "geometry": {"coordinates":[-86.81210400000001,33.514917],"type":"Point"}
+  "geometry": {"coordinates":[-86.81283000000001,33.51458],"type":"Point"}
 }

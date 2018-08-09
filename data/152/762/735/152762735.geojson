@@ -2,18 +2,23 @@
   "id": 152762735,
   "type": "Feature",
   "properties": {
-    "addr:full":"550 McDonald St Montgomery AL 36114",
+    "addr:city":"Montgomery",
+    "addr:full":"550 Mcdonald Street Montgomery, Al 36114",
+    "addr:house_number":"550",
     "addr:housenumber":"550",
     "addr:postcode":"36114",
+    "addr:road":"Mcdonald Street",
+    "addr:state":"AL",
     "addr:street":"Mcdonald St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-86.255081,32.405078,-86.255081,32.405078",
-    "geom:latitude":32.405078,
-    "geom:longitude":-86.255081,
+    "geom:bbox":"-86.25406,32.40461,-86.25406,32.40461",
+    "geom:latitude":32.40461,
+    "geom:longitude":-86.25406,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"550 McDonald St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -31,20 +36,25 @@
         "attraction",
         "tourist"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527231,
+        102525683
+    ],
     "wof:belongsto":[
-        85688675,
+        85827567,
         85633793,
         85913947,
         102085733,
-        85827567
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409501195,
         "sg:id":"SG_4BIXXvLZnUXsGxg1KSS46y_32.405078_-86.255081@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"5700fc4d0a607f92e09c967f6656c0a5",
+    "wof:geomhash":"6d89973bcf8050296f94260249612b7b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,8 +66,8 @@
         }
     ],
     "wof:id":152762735,
-    "wof:lastmodified":1472597973,
-    "wof:name":"Enlisted Heritage Hall",
+    "wof:lastmodified":1533754262,
+    "wof:name":"Air Force Enlisted Heritage Research Institute/Heritage Hall",
     "wof:parent_id":85827567,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
@@ -66,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -86.255081,
-    32.405078,
-    -86.255081,
-    32.405078
+    -86.25406,
+    32.40461,
+    -86.25406,
+    32.40461
 ],
-  "geometry": {"coordinates":[-86.255081,32.405078],"type":"Point"}
+  "geometry": {"coordinates":[-86.25406,32.40461],"type":"Point"}
 }

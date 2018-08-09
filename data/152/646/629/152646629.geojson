@@ -2,18 +2,24 @@
   "id": 152646629,
   "type": "Feature",
   "properties": {
-    "addr:full":"919 Felder Ave Montgomery AL 36106",
+    "addr:city":"Montgomery",
+    "addr:full":"919 Felder Ave Montgomery, Al 36106",
+    "addr:house_number":"919",
     "addr:housenumber":"919",
+    "addr:phone":"+1 334-264-4222",
     "addr:postcode":"36106",
+    "addr:road":"Felder Ave",
+    "addr:state":"AL",
     "addr:street":"Felder Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-86.291893,32.35837,-86.291893,32.35837",
+    "geom:bbox":"-86.29266,32.35837,-86.29266,32.35837",
     "geom:latitude":32.35837,
-    "geom:longitude":-86.291893,
+    "geom:longitude":-86.29266,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"919 Felder Ave",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,20 +33,25 @@
     "sg:phone":"+1 334 264 4222",
     "sg:postcode":"36106",
     "sg:province":"AL",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527231,
+        102525683
+    ],
     "wof:belongsto":[
-        85688675,
+        85811493,
         85633793,
         85913947,
         102085733,
-        85811493
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400100053,
         "sg:id":"SG_3zg1rsgCXC1rurUSUnQiFY_32.358370_-86.291893@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"b339e11e173588882a8a9a9a3444b7c2",
+    "wof:geomhash":"82702496041c2b4ec869dc18b0afc0a8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,8 +63,8 @@
         }
     ],
     "wof:id":152646629,
-    "wof:lastmodified":1472597905,
-    "wof:name":"Fitzgerald & Fitzgerald Museum",
+    "wof:lastmodified":1533754262,
+    "wof:name":"Fitzgerald And Fitzgerald Museum",
     "wof:parent_id":85811493,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
@@ -62,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -86.291893,
+    -86.29266,
     32.35837,
-    -86.291893,
+    -86.29266,
     32.35837
 ],
-  "geometry": {"coordinates":[-86.291893,32.35837],"type":"Point"}
+  "geometry": {"coordinates":[-86.29266,32.35837],"type":"Point"}
 }

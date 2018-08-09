@@ -2,20 +2,25 @@
   "id": 840486149,
   "type": "Feature",
   "properties": {
-    "addr:full":"200 19th St N Birmingham AL 35203",
+    "addr:city":"Birmingham",
+    "addr:full":"200 19Th Street N Birmingham, Al 35203-3117",
+    "addr:house_number":"200",
     "addr:housenumber":"200",
-    "addr:postcode":"35203",
+    "addr:phone":"+1 205-714-8347",
+    "addr:postcode":"35203-3117",
+    "addr:road":"19Th Street N",
+    "addr:state":"AL",
     "addr:street":"19Th St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-86.807709,33.514721,-86.807709,33.514721",
-    "geom:latitude":33.514721,
-    "geom:longitude":-86.807709,
+    "geom:bbox":"-86.80816,33.51539,-86.80816,33.51539",
+    "geom:latitude":33.51539,
+    "geom:longitude":-86.80816,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "sg:address":"200 19th St N",
     "sg:city":"Birmingham",
     "sg:classifiers":[],
@@ -24,7 +29,10 @@
     "sg:postcode":"35203",
     "sg:province":"AL",
     "sg:website":"http://www.mcwane.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527725
+    ],
     "wof:belongsto":[
         85688675,
         102191575,
@@ -35,11 +43,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409500650,
         "sg:id":"SG_2fr0mS6JxOPDUL3Ps262Ct_33.514721_-86.807709@1303262733"
     },
     "wof:country":"US",
     "wof:created":1463620999,
-    "wof:geomhash":"06bc48fdf8c23298789afd9c950dc724",
+    "wof:geomhash":"87116015d7e456b8bf3c503169b0fc92",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":840486149,
-    "wof:lastmodified":1510943743,
-    "wof:name":"McWane Center",
+    "wof:lastmodified":1533754258,
+    "wof:name":"Mcwane Science Center",
     "wof:parent_id":85820315,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
@@ -64,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -86.807709,
-    33.514721,
-    -86.807709,
-    33.514721
+    -86.80816,
+    33.51539,
+    -86.80816,
+    33.51539
 ],
-  "geometry": {"coordinates":[-86.807709,33.514721],"type":"Point"}
+  "geometry": {"coordinates":[-86.80816,33.51539],"type":"Point"}
 }

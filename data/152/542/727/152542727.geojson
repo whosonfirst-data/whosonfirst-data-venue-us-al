@@ -2,18 +2,24 @@
   "id": 152542727,
   "type": "Feature",
   "properties": {
-    "addr:full":"302 Bibb St Marion AL 36756",
+    "addr:city":"Marion",
+    "addr:full":"302 Bibb Street Marion, Al 36756",
+    "addr:house_number":"302",
     "addr:housenumber":"302",
+    "addr:phone":"+1 334-683-5156",
     "addr:postcode":"36756",
+    "addr:road":"Bibb Street",
+    "addr:state":"AL",
     "addr:street":"Bibb St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-87.316735,32.631509,-87.316735,32.631509",
-    "geom:latitude":32.631509,
-    "geom:longitude":-87.316735,
+    "geom:bbox":"-87.31662,32.63066,-87.31662,32.63066",
+    "geom:latitude":32.63066,
+    "geom:longitude":-87.31662,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"302 Bibb St",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -32,7 +38,8 @@
         "board",
         "hall"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85914391,
         85633793,
@@ -41,10 +48,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409501305,
         "sg:id":"SG_1PLRQ0oichH47n789XnyMV_32.631509_-87.316735@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"0f29d2cdcf31afaa2b574219143b8156",
+    "wof:geomhash":"1cdbfca5f43919aa42521312005086fa",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,8 +63,8 @@
         }
     ],
     "wof:id":152542727,
-    "wof:lastmodified":1472597853,
-    "wof:name":"Alabama Womens Hall of Fame",
+    "wof:lastmodified":1533754262,
+    "wof:name":"Alabama Women'S Hall Of Fame",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
@@ -65,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -87.316735,
-    32.631509,
-    -87.316735,
-    32.631509
+    -87.31662,
+    32.63066,
+    -87.31662,
+    32.63066
 ],
-  "geometry": {"coordinates":[-87.31673499999999,32.631509],"type":"Point"}
+  "geometry": {"coordinates":[-87.31662,32.63066],"type":"Point"}
 }

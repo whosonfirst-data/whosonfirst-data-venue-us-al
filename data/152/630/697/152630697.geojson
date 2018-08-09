@@ -2,18 +2,24 @@
   "id": 152630697,
   "type": "Feature",
   "properties": {
-    "addr:full":"211 2nd Ave NE Cullman AL 35055",
+    "addr:city":"Cullman",
+    "addr:full":"211 2Nd Ave Ne Cullman, Al 35055",
+    "addr:house_number":"211",
     "addr:housenumber":"211",
+    "addr:phone":"+1 800-533-1258",
     "addr:postcode":"35055",
+    "addr:road":"2Nd Ave Ne",
+    "addr:state":"AL",
     "addr:street":"2Nd Ave Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-86.843319,34.179983,-86.843319,34.179983",
-    "geom:latitude":34.179983,
-    "geom:longitude":-86.843319,
+    "geom:bbox":"-86.84284,34.17922,-86.84284,34.17922",
+    "geom:latitude":34.17922,
+    "geom:longitude":-86.84284,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"211 2nd Ave NE",
     "sg:city":"Cullman",
     "sg:classifiers":[
@@ -30,20 +36,22 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
-        85688675,
+        85867305,
         85633793,
         85914167,
         102085729,
-        85867305
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400100068,
         "sg:id":"SG_6xGt4kVcjrAeBvfDckkIeY_34.179983_-86.843319@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"6d69450fe37f1a0b181ab07df77598dc",
+    "wof:geomhash":"c377d7fff9109bdcb5b23f0beeee1e7b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +63,7 @@
         }
     ],
     "wof:id":152630697,
-    "wof:lastmodified":1472597895,
+    "wof:lastmodified":1533754262,
     "wof:name":"Cullman County Museum",
     "wof:parent_id":85867305,
     "wof:placetype":"venue",
@@ -65,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -86.843319,
-    34.179983,
-    -86.843319,
-    34.179983
+    -86.84284,
+    34.17922,
+    -86.84284,
+    34.17922
 ],
-  "geometry": {"coordinates":[-86.84331899999999,34.179983],"type":"Point"}
+  "geometry": {"coordinates":[-86.84284,34.17922],"type":"Point"}
 }

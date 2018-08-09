@@ -2,18 +2,24 @@
   "id": 152896279,
   "type": "Feature",
   "properties": {
-    "addr:full":"250 N Water St Mobile AL 36602",
+    "addr:city":"Mobile",
+    "addr:full":"250 N Water St Mobile, Al 36602",
+    "addr:house_number":"250",
     "addr:housenumber":"250",
+    "addr:phone":"+1 251-436-8901",
     "addr:postcode":"36602",
+    "addr:road":"N Water St",
+    "addr:state":"AL",
     "addr:street":"N Water St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-88.041148,30.697076,-88.041148,30.697076",
-    "geom:latitude":30.697076,
-    "geom:longitude":-88.041148,
+    "geom:bbox":"-88.04092,30.69698,-88.04092,30.69698",
+    "geom:latitude":30.69698,
+    "geom:longitude":-88.04092,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"250 N Water St",
     "sg:city":"Mobile",
     "sg:classifiers":[
@@ -27,20 +33,25 @@
     "sg:phone":"+1 251 436 8901",
     "sg:postcode":"36602",
     "sg:province":"AL",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529703,
+        102532805
+    ],
     "wof:belongsto":[
-        85688675,
+        85878959,
         85633793,
         85913749,
         102085585,
-        85878959
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400100033,
         "sg:id":"SG_3NbeAwlMTaL6xFzTzuGMJF_30.697076_-88.041148@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"1ed41c2613aa92fdff33dfb12a36a2e0",
+    "wof:geomhash":"972c1e7f6b79edd2878823a3b82fc942",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +63,7 @@
         }
     ],
     "wof:id":152896279,
-    "wof:lastmodified":1472598020,
+    "wof:lastmodified":1533754263,
     "wof:name":"National Maritime Museum",
     "wof:parent_id":85878959,
     "wof:placetype":"venue",
@@ -62,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -88.041148,
-    30.697076,
-    -88.041148,
-    30.697076
+    -88.04092,
+    30.69698,
+    -88.04092,
+    30.69698
 ],
-  "geometry": {"coordinates":[-88.04114800000001,30.697076],"type":"Point"}
+  "geometry": {"coordinates":[-88.04092,30.69698],"type":"Point"}
 }

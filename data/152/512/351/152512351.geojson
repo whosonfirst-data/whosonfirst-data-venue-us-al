@@ -2,18 +2,24 @@
   "id": 152512351,
   "type": "Feature",
   "properties": {
-    "addr:full":"109 Gates Ave SE Huntsville AL 35801",
+    "addr:city":"Huntsville",
+    "addr:full":"109 Gates Ave Se Huntsville, Al 35801",
+    "addr:house_number":"109",
     "addr:housenumber":"109",
+    "addr:phone":"+1 256-564-8100",
     "addr:postcode":"35801",
+    "addr:road":"Gates Ave Se",
+    "addr:state":"AL",
     "addr:street":"Gates Ave Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-86.583723,34.729281,-86.583723,34.729281",
-    "geom:latitude":34.729281,
-    "geom:longitude":-86.583723,
+    "geom:bbox":"-86.57223,34.72664,-86.57223,34.72664",
+    "geom:latitude":34.72664,
+    "geom:longitude":-86.57223,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"109 Gates Ave SE",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -30,20 +36,25 @@
     "sg:tags":[
         "village"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525409,
+        102528127
+    ],
     "wof:belongsto":[
-        85688675,
+        85878237,
         85633793,
         85913601,
         102085487,
-        85878237
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400100083,
         "sg:id":"SG_14IER6nskfL1VpfhAdOlnl_34.729281_-86.583723@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"987431d2fd96d8d406de0e1c7f8b835c",
+    "wof:geomhash":"e19a52f1a42527d4db680008298d86eb",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +66,7 @@
         }
     ],
     "wof:id":152512351,
-    "wof:lastmodified":1472597838,
+    "wof:lastmodified":1533754262,
     "wof:name":"Alabama Constitution Village",
     "wof:parent_id":85878237,
     "wof:placetype":"venue",
@@ -65,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -86.583723,
-    34.729281,
-    -86.583723,
-    34.729281
+    -86.57223,
+    34.72664,
+    -86.57223,
+    34.72664
 ],
-  "geometry": {"coordinates":[-86.58372300000001,34.729281],"type":"Point"}
+  "geometry": {"coordinates":[-86.57223,34.72664],"type":"Point"}
 }

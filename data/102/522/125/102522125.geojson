@@ -2,18 +2,24 @@
   "id": 102522125,
   "type": "Feature",
   "properties": {
-    "addr:full":"16 Main St Madison AL 35758",
+    "addr:city":"Madison",
+    "addr:full":"16 Main St Madison, Al 35758",
+    "addr:house_number":"16",
     "addr:housenumber":"16",
+    "addr:phone":"+1 256-325-1018",
     "addr:postcode":"35758",
+    "addr:road":"Main St",
+    "addr:state":"AL",
     "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-86.751113,34.692742,-86.751113,34.692742",
-    "geom:latitude":34.692742,
-    "geom:longitude":-86.751113,
+    "geom:bbox":"-86.74973,34.69313,-86.74973,34.69313",
+    "geom:latitude":34.69313,
+    "geom:longitude":-86.74973,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"16 Main St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -27,20 +33,26 @@
     "sg:phone":"+1 256 325 1018",
     "sg:postcode":"35758",
     "sg:province":"AL",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525409,
+        102528127,
+        102532369
+    ],
     "wof:belongsto":[
-        85688675,
+        85831899,
         85633793,
         85913593,
         102085487,
-        85831899
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400100060,
         "sg:id":"SG_7eCU7vASaz8JVj6mPgl9mN_34.692742_-86.751113@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"5f1dcf989d6348ee5b1228dfe161b82d",
+    "wof:geomhash":"0706d74171a259a45ebee75c13ce94d8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":102522125,
-    "wof:lastmodified":1472597572,
+    "wof:lastmodified":1533754261,
     "wof:name":"Clay House Museum",
     "wof:parent_id":85831899,
     "wof:placetype":"venue",
@@ -62,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -86.751113,
-    34.692742,
-    -86.751113,
-    34.692742
+    -86.74973,
+    34.69313,
+    -86.74973,
+    34.69313
 ],
-  "geometry": {"coordinates":[-86.751113,34.692742],"type":"Point"}
+  "geometry": {"coordinates":[-86.74973,34.69313],"type":"Point"}
 }

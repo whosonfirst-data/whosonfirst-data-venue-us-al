@@ -2,18 +2,23 @@
   "id": 102518807,
   "type": "Feature",
   "properties": {
-    "addr:full":"119 W Jeff Davis Ave Montgomery AL 36104",
+    "addr:city":"Montgomery",
+    "addr:full":"119 W Jeff Davis Avenue Montgomery, Al 36104",
+    "addr:house_number":"119",
     "addr:housenumber":"119",
     "addr:postcode":"36104",
+    "addr:road":"W Jeff Davis Avenue",
+    "addr:state":"AL",
     "addr:street":"W Jeff Davis Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-86.311581,32.366123,-86.311581,32.366123",
-    "geom:latitude":32.366123,
-    "geom:longitude":-86.311581,
+    "geom:bbox":"-86.31063,32.36612,-86.31063,32.36612",
+    "geom:latitude":32.36612,
+    "geom:longitude":-86.31063,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"119 W Jeff Davis Ave",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,20 +32,25 @@
     "sg:phone":"+1 334 263 7229",
     "sg:postcode":"36104",
     "sg:province":"AL",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527231,
+        102525683
+    ],
     "wof:belongsto":[
-        85688675,
+        85879037,
         85633793,
         85913947,
         102085733,
-        85879037
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400100315,
         "sg:id":"SG_2Ts1ICXZExs3Qq9jBJMcOn_32.366123_-86.311581@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"9ded5755cc2282096207e86aed1c3647",
+    "wof:geomhash":"a4feeaca96d26d6e644890a98e36e6d0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,8 +62,8 @@
         }
     ],
     "wof:id":102518807,
-    "wof:lastmodified":1472597657,
-    "wof:name":"World Heritage Museum",
+    "wof:lastmodified":1533754261,
+    "wof:name":"Montgomery World Heritage Museum",
     "wof:parent_id":85879037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
@@ -62,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -86.311581,
-    32.366123,
-    -86.311581,
-    32.366123
+    -86.31063,
+    32.36612,
+    -86.31063,
+    32.36612
 ],
-  "geometry": {"coordinates":[-86.311581,32.366123],"type":"Point"}
+  "geometry": {"coordinates":[-86.31063,32.36612],"type":"Point"}
 }

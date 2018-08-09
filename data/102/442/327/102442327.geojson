@@ -2,18 +2,24 @@
   "id": 102442327,
   "type": "Feature",
   "properties": {
-    "addr:full":"125 E Laurel Ave Foley AL 36535",
+    "addr:city":"Foley",
+    "addr:full":"125 E Laurel Ave Foley, Al 36535",
+    "addr:house_number":"125",
     "addr:housenumber":"125",
+    "addr:phone":"+1 251-943-1818",
     "addr:postcode":"36535",
+    "addr:road":"E Laurel Ave",
+    "addr:state":"AL",
     "addr:street":"E Laurel Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-87.683215,30.406497,-87.683215,30.406497",
-    "geom:latitude":30.406497,
-    "geom:longitude":-87.683215,
+    "geom:bbox":"-87.68294,30.40641,-87.68294,30.40641",
+    "geom:latitude":30.40641,
+    "geom:longitude":-87.68294,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"125 E Laurel Ave",
     "sg:city":"Foley",
     "sg:classifiers":[
@@ -30,7 +36,8 @@
     "sg:tags":[
         "village"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85914713,
         85633793,
@@ -39,10 +46,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400100050,
         "sg:id":"SG_2ZIajWIVP35yY3NESRyYBi_30.406497_-87.683215@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"0c603316eb0b354d1d47d90343896a46",
+    "wof:geomhash":"1690a02032d60070bc857f0bb30fb1ea",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,8 +61,8 @@
         }
     ],
     "wof:id":102442327,
-    "wof:lastmodified":1472597402,
-    "wof:name":"Foley Museum Archives",
+    "wof:lastmodified":1533754257,
+    "wof:name":"Foley Museum And Archives",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
@@ -63,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -87.683215,
-    30.406497,
-    -87.683215,
-    30.406497
+    -87.68294,
+    30.40641,
+    -87.68294,
+    30.40641
 ],
-  "geometry": {"coordinates":[-87.683215,30.406497],"type":"Point"}
+  "geometry": {"coordinates":[-87.68294,30.40641],"type":"Point"}
 }

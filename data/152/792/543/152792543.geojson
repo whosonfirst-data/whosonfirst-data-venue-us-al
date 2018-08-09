@@ -2,18 +2,23 @@
   "id": 152792543,
   "type": "Feature",
   "properties": {
-    "addr:full":"300 Church St SW Huntsville AL 35801",
+    "addr:city":"Huntsville",
+    "addr:full":"300 Church St Sw Huntsville, Al 35801-4910",
+    "addr:house_number":"300",
     "addr:housenumber":"300",
-    "addr:postcode":"35801",
+    "addr:postcode":"35801-4910",
+    "addr:road":"Church St Sw",
+    "addr:state":"AL",
     "addr:street":"Church St Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-86.588086,34.729512,-86.588086,34.729512",
-    "geom:latitude":34.729512,
-    "geom:longitude":-86.588086,
+    "geom:bbox":"-86.58787,34.72905,-86.58787,34.72905",
+    "geom:latitude":34.72905,
+    "geom:longitude":-86.58787,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"300 Church St SW",
     "sg:city":"Huntsville",
     "sg:classifiers":[
@@ -32,20 +37,25 @@
         "gallery"
     ],
     "sg:website":"www.hsvmuseum.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525409,
+        102528127
+    ],
     "wof:belongsto":[
-        85688675,
+        85878237,
         85633793,
         85913601,
         102085487,
-        85878237
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409400270,
         "sg:id":"SG_2JNDiSgelZPrfxkVbNVn6z_34.729512_-86.588086@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"2c47c3afb4b92f17d521e7f3b9baea22",
+    "wof:geomhash":"050ddf734b1f408d47d85ba9efd950a8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,7 +67,7 @@
         }
     ],
     "wof:id":152792543,
-    "wof:lastmodified":1472597978,
+    "wof:lastmodified":1533754262,
     "wof:name":"Huntsville Museum Of Art",
     "wof:parent_id":85878237,
     "wof:placetype":"venue",
@@ -67,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -86.588086,
-    34.729512,
-    -86.588086,
-    34.729512
+    -86.58787,
+    34.72905,
+    -86.58787,
+    34.72905
 ],
-  "geometry": {"coordinates":[-86.588086,34.729512],"type":"Point"}
+  "geometry": {"coordinates":[-86.58787,34.72905],"type":"Point"}
 }

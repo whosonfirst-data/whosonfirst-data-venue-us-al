@@ -2,18 +2,24 @@
   "id": 152903789,
   "type": "Feature",
   "properties": {
-    "addr:full":"2150 15th Ave S Birmingham AL 35205",
+    "addr:city":"Birmingham",
+    "addr:full":"2150 15Th Ave S Birmingham, Al 35205",
+    "addr:house_number":"2150",
     "addr:housenumber":"2150",
+    "addr:phone":"+1 205-934-5634",
     "addr:postcode":"35205",
+    "addr:road":"15Th Ave S",
+    "addr:state":"AL",
     "addr:street":"15Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-86.790843,33.497642,-86.790843,33.497642",
-    "geom:latitude":33.497642,
-    "geom:longitude":-86.790843,
+    "geom:bbox":"-86.79146,33.49766,-86.79146,33.49766",
+    "geom:latitude":33.49766,
+    "geom:longitude":-86.79146,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2150 15th Ave S",
     "sg:city":"Birmingham",
     "sg:classifiers":[
@@ -30,20 +36,24 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527725
+    ],
     "wof:belongsto":[
-        85688675,
+        85876277,
         85633793,
         85914465,
         102085481,
-        85876277
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400100014,
         "sg:id":"SG_5Ju9FA1FtQbyr15RnV7Zs6_33.497642_-86.790843@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"ef2ef2c4d6bac344793b99e19bef6878",
+    "wof:geomhash":"df8ce46cbecb15ca0c2c94c98ba5671d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +65,7 @@
         }
     ],
     "wof:id":152903789,
-    "wof:lastmodified":1472598036,
+    "wof:lastmodified":1533754263,
     "wof:name":"Samuel Ullman Museum",
     "wof:parent_id":85876277,
     "wof:placetype":"venue",
@@ -65,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -86.790843,
-    33.497642,
-    -86.790843,
-    33.497642
+    -86.79146,
+    33.49766,
+    -86.79146,
+    33.49766
 ],
-  "geometry": {"coordinates":[-86.790843,33.497642],"type":"Point"}
+  "geometry": {"coordinates":[-86.79146,33.49766],"type":"Point"}
 }

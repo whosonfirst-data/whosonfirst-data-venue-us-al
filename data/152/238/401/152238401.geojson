@@ -2,18 +2,24 @@
   "id": 152238401,
   "type": "Feature",
   "properties": {
-    "addr:full":"503 Main Ave Northport AL 35476",
+    "addr:city":"Northport",
+    "addr:full":"503 Main Ave Northport, Al 35476-4483",
+    "addr:house_number":"503",
     "addr:housenumber":"503",
-    "addr:postcode":"35476",
+    "addr:phone":"+1 205-758-1257",
+    "addr:postcode":"35476-4483",
+    "addr:road":"Main Ave",
+    "addr:state":"AL",
     "addr:street":"Main Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-87.57903,33.220701,-87.57903,33.220701",
-    "geom:latitude":33.220701,
-    "geom:longitude":-87.57903,
+    "geom:bbox":"-87.57842,33.21904,-87.57842,33.21904",
+    "geom:latitude":33.21904,
+    "geom:longitude":-87.57842,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"503 Main Ave",
     "sg:city":"Northport",
     "sg:classifiers":[
@@ -30,20 +36,24 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527833
+    ],
     "wof:belongsto":[
-        85688675,
+        85816127,
         85633793,
         85914453,
         102085553,
-        85816127
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400100303,
         "sg:id":"SG_2w04KumBd7nr0tmVJi0zSI_33.220701_-87.579030@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"cbaec0559b597778c6f0957d55e34eb0",
+    "wof:geomhash":"6a80abc9245e20afab4ea5d8d31304b6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,8 +65,8 @@
         }
     ],
     "wof:id":152238401,
-    "wof:lastmodified":1472597634,
-    "wof:name":"Kenuck Art Center & Museum",
+    "wof:lastmodified":1533754262,
+    "wof:name":"Kentuck Art Center & Museum",
     "wof:parent_id":85816127,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
@@ -65,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -87.57903,
-    33.220701,
-    -87.57903,
-    33.220701
+    -87.57842,
+    33.21904,
+    -87.57842,
+    33.21904
 ],
-  "geometry": {"coordinates":[-87.57903,33.220701],"type":"Point"}
+  "geometry": {"coordinates":[-87.57841999999999,33.21904],"type":"Point"}
 }

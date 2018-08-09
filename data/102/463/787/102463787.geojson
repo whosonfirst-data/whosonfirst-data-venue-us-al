@@ -2,18 +2,24 @@
   "id": 102463787,
   "type": "Feature",
   "properties": {
-    "addr:full":"201 S Bainbridge St Montgomery AL 36104",
+    "addr:city":"Montgomery",
+    "addr:full":"201 S Bainbridge Street Montgomery, Al 36102",
+    "addr:house_number":"201",
     "addr:housenumber":"201",
-    "addr:postcode":"36104",
+    "addr:phone":"+1 334-265-1867",
+    "addr:postcode":"36102",
+    "addr:road":"S Bainbridge Street",
+    "addr:state":"AL",
     "addr:street":"S Bainbridge St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-86.301085,32.374263,-86.301085,32.374263",
-    "geom:latitude":32.374263,
-    "geom:longitude":-86.301085,
+    "geom:bbox":"-86.30106,32.37535,-86.30106,32.37535",
+    "geom:latitude":32.37535,
+    "geom:longitude":-86.30106,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"201 S Bainbridge St",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,20 +34,25 @@
     "sg:postcode":"36104",
     "sg:province":"AL",
     "sg:website":"www.bamabeef.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527231,
+        102525683
+    ],
     "wof:belongsto":[
-        85688675,
+        85879037,
         85633793,
         85913947,
         102085733,
-        85879037
+        85688675
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409501296,
         "sg:id":"SG_4LhiIc1DimMwP24SM3uuZW_32.374263_-86.301085@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"906c40bbdece3e634cdefcab65d061b8",
+    "wof:geomhash":"c95173a6f9a12e56a64b111554aaef31",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,8 +64,8 @@
         }
     ],
     "wof:id":102463787,
-    "wof:lastmodified":1472597548,
-    "wof:name":"Alabama Cattlemen's Assn",
+    "wof:lastmodified":1533754258,
+    "wof:name":"Alabama Cattleman'S Association Museum\u00a0",
     "wof:parent_id":85879037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-al",
@@ -63,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -86.301085,
-    32.374263,
-    -86.301085,
-    32.374263
+    -86.30106,
+    32.37535,
+    -86.30106,
+    32.37535
 ],
-  "geometry": {"coordinates":[-86.301085,32.374263],"type":"Point"}
+  "geometry": {"coordinates":[-86.30106000000001,32.37535],"type":"Point"}
 }
